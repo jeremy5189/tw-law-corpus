@@ -1,10 +1,11 @@
 {
     "title": "耕地三七五減租條例",
     "versions": [
-        "中華民國40年5月25日制定",
-        "中華民國40年6月7日公布"
+        "中華民國43年11月30日修正",
+        "中華民國43年12月9日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -167,26 +168,73 @@
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　本條例之規定於永佃權之耕地準用之。",
+            "content": "　　前條爭議案件經調解或調處成立者，如當事人之一方不履行其義務時，他造當事人得逕向該管司法機關聲請強制執行，並免收執行費用。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十八條",
-            "content": "　　本條例施行後，關於雇農之保護，由省政府依當地情形擬訂辦法報請行政院核定之。",
+            "content": "　　本條例之規定於永佃權之耕地準用之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十九條",
-            "content": "　　本條例之施行區域由行政院以命令定之。",
+            "content": "　　本條例施行後，關於雇農之保護，由省政府依當地情形擬訂辦法報請行政院核定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三十條",
+            "content": "　　本條例之施行區域由行政院以命令定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第三十一條",
             "content": "　　本條例自公布之日起施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "430917",
+            "立法紀錄": "43卷14期號3冊 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac7ca81cbcccecbcfccc4cfcfcccec4cfcfccce",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcecfcfc5cecec6d2cecdcf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "431130",
+            "立法紀錄": "44卷14期號5冊 148-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac7ca81cbcbcecbcfcac4cfcecbc7c4cfcecbc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcdcfcfc5cbcecbd2cbcec9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "431130",
+            "立法紀錄": "44卷14期號5冊 166-167頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac7ca81cbcbcecbcfcac4cfcec9c9c4cfcec9c8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "431130",
+            "立法紀錄": "44卷14期號5冊 167-167頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac7ca81cbcbcecbcfcac4cfcec9c8c4cfcec9c8",
+            "關係文書": []
         }
     ]
 }
