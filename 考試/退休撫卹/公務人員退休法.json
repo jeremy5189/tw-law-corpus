@@ -1,12 +1,12 @@
 {
     "title": "公務人員退休法",
     "versions": [
-        "中華民國48年10月23日全文修正",
-        "中華民國48年11月2日公布"
+        "中華民國68年1月12日修正",
+        "中華民國68年1月24日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -40,9 +40,9 @@
             "relates": {}
         },
         {
-            "note": "(退休金給與之方式)",
+            "note": "(退休金之給與)",
             "rule_no": "第六條",
-            "content": "　　退休金之給與如左：\n　　一、任職五年以上未滿十五年者，給與一次退休金。\n　　二、任職十五年以上者，給與一次退休金，或月退休金，由退休人員擇一支領之。\n　　一次退休金，以退休人員最後在職之月俸額，及本人實物代金為基數，任職滿五年者，給與九個基數，每增半年加給一個基數，滿十五年後，另行一次加發兩個基數，但最高總數以六十一個基數為限，未滿半年者以半年計。\n　　一次退休金，除前項規定外，並一律加發兩年眷屬補助費及眷屬實物代金。\n　　月退休金，除本人及眷屬實物配給與眷屬補助費十足發給外，任職滿十五年者，按月照在職之同職等人員月俸額百分之七十五給與，以後每增一年，加發百分之一，但以增至百分之九十為限。",
+            "content": "　　退休金之給與如左：\n　　一、任職五年以上未滿十五年者，給與一次退休金。\n　　二、任職十五年以上者，由退休人員就左列退休給與，擇一支領之：\n　　　（一）一次退休金。\n　　　（二）月退休金。\n　　　（三）兼領二分之一之一次退休金與二分之一之月退休金。\n　　　（四）兼領三分之一之一次退休金與三分之二之月退休金。\n　　　（五）兼領四分之一之一次退休金與四分之三之月退休金。\n　　一次退休金，以退休人員最後在職之月俸額，及本人實物代金為基數，任職滿五年者，給與九個基數，每增半年加給一個基數，滿十五年後，另行一次加發兩個基數。但最高總數以六十一個基數為限；未滿半年者以半年計。\n　　一次退休金，除前項規定外，並一律加發兩年眷屬補助費及眷屬實物代金。\n　　月退休金，除本人及眷屬實物配給與眷屬補助費十足發給外，任職滿十五年者，按月照在職之同職等人員月俸額百分之七十五給與，以後每增一年，加強百分之一。但以增至百分之九十為限。\n　　第一項第二款第三目、第四目、第五目規定之退休給與，各依退休人員應領一次退休金與月退休金按比例計算之。",
             "relates": {}
         },
         {
@@ -52,9 +52,9 @@
             "relates": {}
         },
         {
-            "note": "(月俸額定義)",
+            "note": "(月俸額)",
             "rule_no": "第八條",
-            "content": "　　本法所稱月俸額，包括實領本俸及其他現金給與。",
+            "content": "　　本法所稱月俸額，包括實領本俸及其他現金給與。\n　　前項其他現金給與之退休金應發給數額，由考試院會同行政院定之。",
             "relates": {}
         },
         {
@@ -84,7 +84,13 @@
         {
             "note": "(退休後再任公務員者不得重複支領退休金)",
             "rule_no": "第十三條",
-            "content": "　　依本法退休者，如再任公務人員，其曾領一次退休金者，應將所領退休金繳回國庫，其領月退休金者，於重行退休時，其過去服務年資概不計算。",
+            "content": "　　依本法退休者，如再任公務人員時，無庸繳回已領之退休金，其退休前之任職年資，於重行退休時不予計算。",
+            "relates": {}
+        },
+        {
+            "note": "(死亡撫慰金之給與)",
+            "rule_no": "第十三條 之一",
+            "content": "　　依本法第六條第一項第二款第二目、第三目、第四目、第五目規定領受月退休金人員死亡時，應給與撫慰金，由其遺族具領。\n　　前項撫慰金，以其核定退休年資及其死亡時同職等之現職人員月俸額暨本法第六條第五項之規定，計算其應領之一次退休金為標準，扣除已領之月退休金，補發其餘額，並發給相當於同職等之現職人員一年月俸額之撫慰金；其無餘額者亦同。\n　　領受月退休金人員死亡，無遺族或無遺囑指定用途者，其撫慰金由原服務機關具領作其喪葬費或紀念活動所需之用。\n　　本法修正施行前，領受月退休金人員，在本法修正施行後，仍繼續領受者，依本條各項辦理。",
             "relates": {}
         },
         {
@@ -118,93 +124,92 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第六條": "　　一、月退休金可以減輕政府目前財力負擔，且退休人員按月領取，生活得有保障，但因領月退休金人員死亡，無撫卹之規定，以及公務人員心理影響，致領月退休金人員比率甚低，以六十七年度言，僅佔退休人員一八％，其餘八二％則為領一次退休金者，不但政府目前財力負擔較重，且退休人員運用退休金不善，往往造成損失，而退休金優惠存款利率，又一再降低，影響生活之維持。\n　　二、茲擬規定任職十五年以上之退休人員，除可擇領一次退休金或月退休金外，並可領二分之一或三分之一或四分之一之一次退休金，餘領月退休金，以減輕政府目前之負擔，兼顧及退休人員之生活。\n　　三、第五項增列，以為兼領一次退休金與月退休金之計算準據，例如某甲退休核定任職年資卅年整，應給與六十一個基數之一次退休金，或百分之九十月退休金，其退休金給與計算為：\n　　　（一）如領一次退休金，應以最後在職之月俸額及本人實物代金之和乘以六十一，再加兩年眷屬補助費及眷屬實物代金。\n　　　（二）如領月退休金，應以在職之同職等人員月俸額乘以百分之九十再加眷屬補助費及眷屬實物代金。\n　　　（三）兼領一次退休金與月退休金者，依前述應領之退休給與，分別予以二分之一、三分之一、四分之一比例計算。",
+        "第八條": "　　目前公務人員實領待遇與本條現行規定，不無軒輊，易滋紛擾，予以修正，以資適應。",
+        "第十三條": "　　現行法及其施行細則規定退休再任人員應繳回其所領一次退休金，至其原因消滅時發還，常因經濟變動影響，致使退休人員受損，予以修正，以利退休再任人員。",
+        "第十三條 之一": "　　一、本條增列。\n　　二、領受月退休金人員死亡，依本法第十一條規定月退休金應予停領，以致孤兒寡婦，生活頓失憑依，無論修法前已領月退金現仍繼續領受者，或修法後領受者均應設法救濟，此項救濟金額並不得低於其死亡時應領一次退休金之半數，以保障遺族生活。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "460507",
-            "立法紀錄": "46卷19期號6冊 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc9cec6cfc9c4cfcfc8cfc4cfcfc8cf",
+            "會議日期": "670929",
+            "立法紀錄": "67卷78期1146號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c8c9cdc8c7cfcfc4cfcfcfcdc4cfcfcfcc",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c7cfc7d2c7cec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cececcd2cecdcf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "470103",
-            "立法紀錄": "47卷20期號8冊 43-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc8cdcfcfc7c4cfcfcbccc4cfcfc9cb",
+            "進度": "委員會審查",
+            "會議日期": "671104",
+            "立法紀錄": "68卷13期1185號 36-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c7c9cdcecccfcfc4cfcfccc9c4cfcfcbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671118",
+            "立法紀錄": "68卷23期1195號 82-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c7c9cccdcccfcfc4cfcfc7cdc4cfcfc7ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671221",
+            "立法紀錄": "68卷36期1208號 36-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c7c9ccccc9cfcfc4cfcfccc9c4cfcfcbcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "680106",
+            "立法紀錄": "68卷42期1214號 31-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c7c9cccbcdcfcfc4cfcfcccec4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "470107",
-            "立法紀錄": "47卷20期號8冊 73-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc8cdcfcfc7c4cfcfc8ccc4cfcfc8c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "481016",
-            "立法紀錄": "48卷24期號5冊 12-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc7cdcbcfcac4cfcfcecdc4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "480807",
-            "立法紀錄": "48卷23期號25冊 78-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc7cdcccdcac4cfcfc8c7c4cfcfc6cc",
+            "會議日期": "671208",
+            "立法紀錄": "67卷98期1166號 11-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c8c9cdc6c7cfcfc4cfcfcecec4cfcfcdcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5cecccfd2cecbc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cac8c8d2cac7c9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "481006",
-            "立法紀錄": "48卷24期號4冊 4-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc7cdcbcfcbc4cfcfcfcbc4cfcfcecc",
+            "會議日期": "671212",
+            "立法紀錄": "67卷99期1167號 4-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c8c9cdc6c6cfcfc4cfcfcfcbc4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "680112",
+            "立法紀錄": "68卷4期1176號 3-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c7c9cdcfcbcfcfc4cfcfcfccc4cfcfcecc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "481006",
-            "立法紀錄": "48卷24期號4冊 13-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc7cdcbcfcbc4cfcfceccc4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "481013",
-            "立法紀錄": "48卷24期號4冊 31-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc7cdcbcfcbc4cfcfcccec4cfcfcacf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "481016",
-            "立法紀錄": "48卷24期號5冊 50-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc7cdcbcfcac4cfcfcacfc4cfcfcacf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "481020",
-            "立法紀錄": "48卷24期號5冊 51-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc7cdcbcfcac4cfcfcacec4cfcfcaca",
+            "會議日期": "680112",
+            "立法紀錄": "68卷4期1176號 13-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c7c9cdcfcbcfcfc4cfcfceccc4cfcfcecb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "481023",
-            "立法紀錄": "48卷24期號5冊 63-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbcf81cbc7cdcbcfcac4cfcfc9ccc4cfcfc9c8",
+            "會議日期": "680112",
+            "立法紀錄": "68卷4期1176號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cacbce81c9c7c9cdcfcbcfcfc4cfcfcecbc4cfcfcecb",
             "關係文書": []
         }
     ]
