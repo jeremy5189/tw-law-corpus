@@ -1,18 +1,18 @@
 {
     "title": "博士學位評定會組織條例",
     "versions": [
-        "中華民國49年4月5日制定",
-        "中華民國49年4月14日公布"
+        "中華民國65年11月30日修正",
+        "中華民國66年2月3日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　本條例依學位授予法第七條之規定制定之。",
+            "content": "　　本條例依學位授予法第五條之規定制定之。",
             "relates": {}
         },
         {
@@ -46,44 +46,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第一條": "　　由於「學位授予法」業經修正通過，原第七條已修正為第五條，爰配合修正之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "481106",
-            "立法紀錄": "48卷24期號6冊 42-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cd81cbc7cdcbcfc9c4cfcfcbcdc4cfcfcbcd",
-            "主提案": "行政院",
+            "會議日期": "651126",
+            "立法紀錄": "65卷95期954號 24-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cc81c9cacac7c6cacfcfcfcec4cfcfcdcbc4cfcfcdcb",
+            "主提案": "張希哲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cecdd2cecc"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "490405",
-            "立法紀錄": "49卷25期號6冊 14-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cd81cbc6cdcacfc9c4cfcfcecbc4cfcfcec8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcecfcfc5cbcac9d2cbcac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcccfcfc5cec6cfd2cec6ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "490405",
-            "立法紀錄": "49卷25期號6冊 42-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cd81cbc6cdcacfc9c4cfcfcbcdc4cfcfcbc8",
+            "會議日期": "651126",
+            "立法紀錄": "65卷95期954號 24-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cc81c9cacac7c6cacfcfcfcec4cfcfcdcbc4cfcfcdcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "490405",
-            "立法紀錄": "49卷25期號6冊 56-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cd81cbc6cdcacfc9c4cfcfcac9c4cfcfcac8",
+            "會議日期": "651130",
+            "立法紀錄": "65卷96期955號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cc81c9cacac7c6c9cfcfcfcec4cfcfcfccc4cfcfcfcc",
             "關係文書": []
         }
     ]
