@@ -1,12 +1,12 @@
 {
     "title": "警察服制條例",
     "versions": [
-        "中華民國87年10月22日修正",
-        "中華民國87年10月29日公布"
+        "中華民國90年5月11日修正",
+        "中華民國90年5月30日公布"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -58,54 +58,51 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第六條": "　　一、中央警察大學組織條例業經公布施行，爰配合修正該校校名。\n　　二、消防業務已自警察體系移出，爰將「義勇消防警察」等字刪除。"
-    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "871001",
-            "立法紀錄": "87卷36期2985號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8ccc9cfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "891024",
+            "立法紀錄": "89卷57期3116號上冊 16-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c7c6cac8cfcec4cfcfcec9c4cfcfcec8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfcdcfcfc5c8cbc6d2c7cfcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cccdc9d2ccc8cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "871014",
-            "立法紀錄": "87卷41期2990號 255-310頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8cbcecfcfc4cfcdcacac4cfcccecf",
+            "會議日期": "900308",
+            "立法紀錄": "90卷13期3147號 127-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c6cfcecccfcfc4cfcecdc8c4cfcecbce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "871022",
-            "立法紀錄": "87卷42期2991號上冊 45-115頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8cbcdcfcec4cfcfcbcac4cfcececa",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 113-166頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c6cfcdc9cfcec4cfcececcc4cfcec9c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfc9cfcec5c9c8ced2c8cbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc9cfcdc5cac6cfd2c9cbca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "871022",
-            "立法紀錄": "87卷42期2991號上冊 115-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8cbcdcfcec4cfcececac4cfcecec9",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 166-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c6cfcdc9cfcec4cfcec9c9c4cfcec9c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "871022",
-            "立法紀錄": "87卷42期2991號上冊 116-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8cbcdcfcec4cfcecec9c4cfcecec8",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 169-169頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c6cfcdc9cfcec4cfcec9c6c4cfcec9c6",
             "關係文書": []
         }
     ]
