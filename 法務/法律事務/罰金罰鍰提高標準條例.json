@@ -1,8 +1,8 @@
 {
     "title": "罰金罰鍰提高標準條例",
     "versions": [
-        "中華民國72年6月10日全文修正",
-        "中華民國72年6月24日公布"
+        "中華民國80年4月19日",
+        "中華民國80年5月6日公布"
     ],
     "types": [
         "立法歷程",
@@ -49,76 +49,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "720429",
-            "立法紀錄": "72卷35期1624號 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecccacfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院、司法院",
+            "會議日期": "800301",
+            "立法紀錄": "80卷18期2442號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cf81c7cfcfcec7cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfcbcfcfc5cecfc9c8d2cecfc8cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfcdcfcfc5c9cad2c9c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "720505",
-            "立法紀錄": "72卷51期1640號 67-75頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecacecfcfc4cfcfc9c8c4cfcfc8ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720511",
-            "立法紀錄": "72卷58期1647號 89-102頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecac7cfcfc4cfcfc7c6c4cfcecfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720518",
-            "立法紀錄": "72卷59期1648號 95-98頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecac6cfcfc4cfcfc6cac4cfcfc6c7",
+            "會議日期": "800314",
+            "立法紀錄": "80卷70期2494號 29-42頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cf81c7cfcfc8cfcfcfc4cfcfcdc6c4cfcfcbcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "720524",
-            "立法紀錄": "72卷42期1631號 7-26頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbcdcfcfc4cfcfcfc8c4cfcfcdc9",
+            "會議日期": "800419",
+            "立法紀錄": "80卷32期2456號 83-85頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cf81c7cfcfcccdcfcfc4cfcfc7ccc4cfcfc7ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc9cfcfc5cbc6cfd2cbc6c6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cecacfcfc5cacbc7d2cacacf"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "720524",
-            "立法紀錄": "72卷42期1631號 26-42頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbcdcfcfc4cfcfcdc9c4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "720603",
-            "立法紀錄": "72卷45期1634號 11-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbcacfcfc4cfcfcecec4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "720607",
-            "立法紀錄": "72卷46期1635號 12-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbc9cfcfc4cfcfcecdc4cfcfcdcf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "720610",
-            "立法紀錄": "72卷47期1636號 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbc8cfcfc4cfcfcfcac4cfcfcfc9",
+            "會議日期": "800419",
+            "立法紀錄": "80卷32期2456號 85-85頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cf81c7cfcfcccdcfcfc4cfcfc7cac4cfcfc7ca",
             "關係文書": []
         }
     ]
