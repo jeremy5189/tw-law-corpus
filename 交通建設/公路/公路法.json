@@ -1,8 +1,8 @@
 {
     "title": "公路法",
     "versions": [
-        "中華民國88年5月11日修正",
-        "中華民國88年6月2日公布"
+        "中華民國89年1月14日修正",
+        "中華民國89年2月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -410,9 +410,9 @@
             "relates": {}
         },
         {
-            "note": "(行車事故之損害賠償)",
+            "note": "(侵權行為之損害賠償)",
             "rule_no": "第六十四條",
-            "content": "　　汽車或電車運輸業遇有行車事故，致人、客傷害、死亡或財、物毀損、喪失時，應負損害賠償責任。但經證明其事故之發生係因不可抗力或非由於汽車或電車運輸業之過失所致者，不負損害賠償責任。\n　　前項損害賠償金額及醫藥補助費發給辦法，由交通部定之。",
+            "content": "　　汽車或電車運輸業遇有行車事故，致人、客傷害、死亡或財、物損毀、喪失時，應負損害賠償責任。但經證明其事故發生係因不可抗力或因託運人或受貨人之過失所致者，不負損害賠償責任。\n　　前項貨物損毀、滅失之損害賠償，除貨物之性質、價值於裝載前經託運人聲明，並註明於運送契約外，其賠償金額，以每件不超過新台幣三千元為限。\n　　人、客傷害、死亡之損害賠償辦法，由交通部另定之。",
             "relates": {}
         },
         {
@@ -527,60 +527,52 @@
         }
     ],
     "law_reasons": {
-        "第四十二條": "　　一、現行條文規定計程車費率調整由計程車同業公會片面制定，計程車駕駛員已經擁有合法產權，應使其有共同參與制定費率的機會。\n　　二、讓工會參與費率制定，有助推動產業民主。\n　　三、於現行條文加入「暨相關之工會」、「共同」等字眼。"
+        "第六十四條": "　　一、一般汽車貨物之運送費用微薄，如遇貴重物品於運送中發生損毀、滅失，運送人須按實價賠償數千元乃至數千萬元，實為不合理，爰依海商法第一一四條之規定明定其賠償上限，以為公平。\n　　二、目前貨物運輸已漸入海陸複合運輸之形式，海上運輸與陸上運輸漸結為一體，因此有關貨物運送、保管之毀損、滅失賠償額應求其一致，目前陸運之賠償責任高於海運，尤為無理由，應予改正。\n　　三、第一項，排除「非由於汽車或電車運輸業」明確修正為「因託運人或受貨人」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "860531",
-            "立法紀錄": "86卷31期2923號上冊 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c9cccecfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "蔡煌瑯",
+            "會議日期": "880601",
+            "立法紀錄": "88卷31期3031號一冊 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cb81c7c7cccecfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "陳進丁",
             "關係文書": [
                 [
-                    "null",
-                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcccdc8cecfcdce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "870106",
-            "立法紀錄": "87卷4期2953號上冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c8cfcbcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "林建榮",
-            "關係文書": [
-                [
-                    "null",
-                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcbcccfcecfcdce"
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcececbcfcdc5cec7cbd2cec7c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "870521",
-            "立法紀錄": "87卷30期2979號 83-110頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c8cccfcfcfc4cfcfc7ccc4cfcececf",
+            "會議日期": "880614",
+            "立法紀錄": "88卷38期3038號 17-32頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cb81c7c7ccc7cfcfc4cfcfcec8c4cfcfcccd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "880511",
-            "立法紀錄": "88卷25期3025號一冊 121-126頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c7cdcacfcec4cfcecdcec4cfcecdc9",
+            "會議日期": "890114",
+            "立法紀錄": "89卷9期3068號二冊 167-173頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cb81c7c6cfc6cfcdc4cfcec9c8c4cfcec8cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5cdcbced2cdcbc8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c7c7cad2c7c6cb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "880511",
-            "立法紀錄": "88卷25期3025號一冊 126-126頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c7cdcacfcec4cfcecdc9c4cfcecdc9",
-            "關係文書": []
+            "會議日期": "890114",
+            "立法紀錄": "89卷9期3068號二冊 173-173頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cb81c7c6cfc6cfcdc4cfcec8ccc4cfcec8cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfc9c5c9cdd2c9c8"
+                ]
+            ]
         }
     ]
 }
