@@ -1,10 +1,12 @@
 {
     "title": "中華民國七十二年度所得稅稅率條例",
     "versions": [
-        "中華民國73年6月11日期滿廢止"
+        "中華民國71年12月21日制定",
+        "中華民國71年12月30日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -44,5 +46,94 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "711102",
+            "立法紀錄": "71卷88期1573號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cec8cfc7c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcccfcfc5ccc6c8d2cbcccc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711113",
+            "立法紀錄": "71卷95期1580號 140-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cec8cfc6cacfcfc4cfcecbcfc4cfcecac9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711117",
+            "立法紀錄": "72卷2期1591號 51-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cdc8cfcfcdcfcfc4cfcfcacec4cfcfc9ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711120",
+            "立法紀錄": "72卷9期1598號 16-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cdc8cfcfc6cfcfc4cfcfcec9c4cfcfccce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711125",
+            "立法紀錄": "72卷12期1601號 12-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cdc8cfcecdcfcfc4cfcfcecdc4cfcfcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711129",
+            "立法紀錄": "72卷15期1604號 47-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cdc8cfcecacfcfc4cfcfcbc8c4cfcfcac6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "711207",
+            "立法紀錄": "71卷98期1583號 12-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cec8cfc6c7cfcfc4cfcfcecdc4cfcfc9c6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcbcfcfc5cecfc7cdc5cececec7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "711210",
+            "立法紀錄": "71卷99期1584號 6-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cec8cfc6c6cfcfc4cfcfcfc9c4cfcfccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "711214",
+            "立法紀錄": "71卷100期1585號 7-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cec8cfcecfcfcfcfc4cfcfcfc8c4cfcfcccb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "711217",
+            "立法紀錄": "71卷101期1586號 10-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cec8cfcecfcecfcfc4cfcfcecfc4cfcfccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "711221",
+            "立法紀錄": "71卷102期1587號 6-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfccc781c8cec8cfcecfcdcfcfc4cfcfcfc9c4cfcfcecd",
+            "關係文書": []
+        }
+    ]
 }
