@@ -1,12 +1,12 @@
 {
     "title": "戶籍法",
     "versions": [
-        "中華民國62年7月3日全文修正",
-        "中華民國62年7月17日公布"
+        "中華民國81年6月23日修正",
+        "中華民國81年6月29日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -40,19 +40,19 @@
         {
             "note": "(戶籍登記項目)",
             "rule_no": "第五條",
-            "content": "　　戶籍登記，指左列各項登記：\n　　一、本籍登記：\n　　　（一）設籍登記。\n　　　（二）除籍登記。\n　　二、身分登記：\n　　　（一）出生登記。\n　　　（二）死亡、死亡宣告登記。\n　　　（三）認領登記。\n　　　（四）收養、終止收養登記。\n　　　（五）結婚、離婚登記。\n　　　（六）監護登記。\n　　　（七）指定繼承登記。\n　　三、遷徙登記：\n　　　（一）遷入登記。\n　　　（二）遷出登記。\n　　　（三）住址變更登記。\n　　　（四）流動人口登記。\n　　四、行業及職業登記。\n　　五、教育程度登記。",
+            "content": "　　戶籍登記，指左列各項登記：\n　　一、身分登記：\n　　　（一）出生登記。\n　　　（二）死亡、死亡宣告登記。\n　　　（三）認領登記。\n　　　（四）收養、終止收養登記。\n　　　（五）結婚、離婚登記。\n　　　（六）監護登記。\n　　　（七）指定繼承登記。\n　　二、遷徙登記：\n　　　（一）遷入登記。\n　　　（二）遷出登記。\n　　　（三）住址變更登記。\n　　　（四）流動人口登記。\n　　三、行業及職業登記。\n　　四、教育程度登記。",
             "relates": {}
         },
         {
-            "note": "(本籍)",
+            "note": "(刪除)",
             "rule_no": "第六條",
-            "content": "　　中華民國人民之本籍，以其所屬之省及縣為依據。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
-            "note": "(戶籍登記之辦理機關及管轄區域)",
+            "note": "(管轄區域)",
             "rule_no": "第七條",
-            "content": "　　戶籍登記，以鄉、鎮為管轄區域；設戶政事務所，隸屬鄉、鎮公所。\n　　動員戡亂時期，戶政事務所得經行政院核准，隸屬直轄市、縣警察機關；其辦法由行政院定之。",
+            "content": "　　戶籍登記由縣政府設戶政事務所辦理，以鄉、鎮為管轄區域。",
             "relates": {}
         },
         {
@@ -105,42 +105,42 @@
         },
         {
             "note": "",
-            "section_name": "第二章  本籍登記"
+            "section_name": "第二章 （刪除）"
         },
         {
-            "note": "(初次戶籍登記本籍之決定)",
+            "note": "(初次戶籍登記出生地之決定)",
             "rule_no": "第十六條",
-            "content": "　　中華民國人民初次申請戶籍登記時，其本籍依左列之規定：\n　　一、子女除別有本籍者外，以其父母之本籍為本籍；父母本籍不同者，以其父之本籍為本籍；父為贅夫者，以其母之本籍為本籍。\n　　二、父無可考者，以其母之本籍為本籍。\n　　三、棄兒父母無可考者，以發現人報告地為本籍。\n　　四、陸上無居住處所而在船舶上居住者，以船舶之常泊地為本籍。\n　　五、僧、道或其他宗教徒無本籍或本籍不明者，以所住寺、院之所在地為本籍。\n　　六、在救濟機關留養無本籍或本籍不明者，以救濟機關所在地為本籍。\n　　七、僑居國外人民，以未出國時之本籍為本籍；其在國外出生者，以其父母之本籍為本籍。\n　　八、依第一款至第七款之規定，不能確定其本籍者，以其居住處所地為本籍。",
+            "content": "　　中華民國人民初次申請戶籍登記時，其出生地依左列之規定：\n　　一、申請戶籍登記，以其出生地所屬之省（市）及縣（市）為出生地。\n　　二、棄兒出生地無可考者，以發現人報告地為出生地。\n　　三、陸上無居住處所而在船機上出生者，以船機之常泊（駐）地為出生地。\n　　四、在救助機關留養，其出生地不明者，以救助機關所在地為出生地。\n　　五、在國外出生者，以其出生所在地之國家或地區為出生地。\n　　六、依第一款至第五款之規定，不能確定其出生地者，以其居住處所地為出生地。",
             "relates": {}
         },
         {
-            "note": "(妻之本籍)",
+            "note": "(刪除)",
             "rule_no": "第十七條",
-            "content": "　　妻得以夫之本籍為本籍，贅夫得以妻之本籍為本籍。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
-            "note": "(不得有兩本籍)",
+            "note": "(刪除)",
             "rule_no": "第十八條",
-            "content": "　　一人同時不得有兩本籍。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
-            "note": "(設籍登記)",
+            "note": "(刪除)",
             "rule_no": "第十九條",
-            "content": "　　合於左列各款情事之一者，應為設籍之登記：\n　　一、出生者。\n　　二、取得或回復中華民國國籍者。\n　　三、因其他原因致無本籍者。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
-            "note": "(除籍及設籍登記)",
+            "note": "(刪除)",
             "rule_no": "第二十條",
-            "content": "　　合於左列各款情事之一者，應為除籍及設籍之登記：\n　　一、因結婚、離婚，而自願轉籍者。\n　　二、未成年子女因父母離婚，而約定轉籍者。\n　　三、因被認領收養或終止收養，而轉籍者。\n　　四、由他縣遷入居住六個月以上，有久住之意思者。\n　　前項轉籍者，應於國民身分證內註明其轉籍前之原本籍。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
-            "note": "(除籍登記)",
+            "note": "(刪除)",
             "rule_no": "第二十一條",
-            "content": "　　合於左列各款情事之一者，應為除籍之登記：\n　　一、死亡或受死亡宣告者。\n　　二、喪失中華民國國籍者。\n　　三、因其他原因應除籍者。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -284,9 +284,9 @@
             "relates": {}
         },
         {
-            "note": "(本籍登記或遷徙登記之申請人)",
+            "note": "(遷徙登記)",
             "rule_no": "第四十二條",
-            "content": "　　本籍登記、遷徙登記，以本人或戶長為申請人。",
+            "content": "　　遷徙登記，以本人或戶長為申請人。",
             "relates": {}
         },
         {
@@ -414,19 +414,19 @@
         {
             "note": "(未於法定期間登記之處罰)",
             "rule_no": "第六十二條",
-            "content": "　　無正當理由不於法定期間為登記之申請者，處二十元以下罰鍰；經催告而仍不為申請者，處四十元以下罰鍰。",
+            "content": "　　無正當理由不於法定期間為登記之申請者，處新臺幣一百八十元以下罰鍰；經催告而仍不為申請者，處新臺幣三百六十元以下罰鍰。",
             "relates": {}
         },
         {
             "note": "(不實申請之處罰)",
             "rule_no": "第六十三條",
-            "content": "　　申請人為不實之申請者，處一百元以下罰鍰。",
+            "content": "　　申請人為不實之申請者，處新臺幣九百元以下罰鍰。",
             "relates": {}
         },
         {
-            "note": "(拒絕接受戶口調查之處罰)",
+            "note": "(拒絕戶口調查之處罰)",
             "rule_no": "第六十四條",
-            "content": "　　無正當理由拒絕接受戶口調查者，處四十元以下罰鍰。",
+            "content": "　　無正當理由拒絕接受戶口調查者，處新臺幣三百六十元以下罰鍰。",
             "relates": {}
         },
         {
@@ -436,9 +436,9 @@
             "relates": {}
         },
         {
-            "note": "(虛偽申請之處罰)",
+            "note": "(罰鍰之處分機關)",
             "rule_no": "第六十六條",
-            "content": "　　意圖加害他人為虛偽之申請者，處六月以下有期徒刑、拘役或三百元以下罰金。",
+            "content": "　　意圖加害他人為虛偽之申請者，處新臺幣一萬元以下罰鍰。",
             "relates": {}
         },
         {
@@ -476,170 +476,107 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第五條": "　　為根本解決省籍問題，進一步避免地域偏狹觀念，加強國家認同，爰刪除戶籍法中有關本籍規定之相關條文。",
+        "第六條": "　　為根本解決省籍問題，進一步避免地域偏狹觀念，加強國家認同，爰刪除戶籍法中有關本籍規定之相關條文。",
+        "第七條": "　　（一）為應業務需要，減少行政層級，提高戶政機關行政效率，將第一項戶政事務所隸屬鄉、鎮公所修正為戶籍登記由縣政府設戶政事務所辦理，並維持現行條文規定以鄉、鎮為管轄區域。\n　　（二）因應動員戡亂時期之終止，爰將第二項刪除。",
+        "第十六條": "　　本籍規定既已刪除，照理本條亦應一併刪除，唯因戶籍法目前對出生地並無明確規定，為落實出生登記，爰保留本條文，僅將「本籍」字樣改為「出生地」，並刪除以父母本籍為本籍之規定，與作部份文字修正。",
+        "第十七條": "　　為根本解決省籍問題，進一步避免地域偏狹觀念，加強國家認同，爰刪除戶籍法中有關本籍規定之相關條文。",
+        "第十八條": "　　為根本解決省籍問題，進一步避免地域偏狹觀念，加強國家認同，爰刪除戶籍法中有關本籍規定之相關條文。",
+        "第十九條": "　　為根本解決省籍問題，進一步避免地域偏狹觀念，加強國家認同，爰刪除戶籍法中有關本籍規定之相關條文。",
+        "第二十條": "　　為根本解決省籍問題，進一步避免地域偏狹觀念，加強國家認同，爰刪除戶籍法中有關本籍規定之相關條文。",
+        "第二十一條": "　　為根本解決省籍問題，進一步避免地域偏狹觀念，加強國家認同，爰刪除戶籍法中有關本籍規定之相關條文。",
+        "第四十二條": "　　為根本解決省籍問題，進一步避免地域偏狹觀念，加強國家認同，爰刪除戶籍法中有關本籍規定之相關條文。",
+        "第六十二條": "　　原條文規定之貨幣單位為銀元，將其修正為新臺幣；並配合本條所定罰鍰之數額業依罰金罰鍰提高標準條例規定，提高為三倍之現況，提高其數額。",
+        "第六十三條": "　　原條文規定之貨幣單位為銀元，將其修正為新臺幣；並配合本條所定罰鍰之數額業依罰金罰鍰提高標準條列規定，提高為三倍之現況，提高其數額。",
+        "第六十四條": "　　原條文規定之貨幣單位為銀元，將其修正為新臺幣；並配合本條所定罰鍰之數額業依罰金罰鍰提高標準條例規定，提高為三倍之現況，提高其數額。",
+        "第六十六條": "　　原條文規定之貨幣單位為銀元，將其修正為新臺幣；並配合本條所定罰鍰之數額業依罰金罰鍰提高標準條例規定，提高為三倍之現況，提高其數額。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "611212",
-            "立法紀錄": "61卷98期551號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cecacfc6c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "800313",
+            "立法紀錄": "80卷22期2446號 20-20頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cfcfcdcdcfcfc4cfcfcdcfc4cfcfcdcf",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcdcfcfc5cacecdd2cacbce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfc9cfcfc5cdcdd2cdca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "800625",
+            "立法紀錄": "80卷51期2475號 21-24頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cfcfcacecfcfc4cfcfcdcec4cfcfcdcb",
+            "主提案": "蔡璧煌",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cccbcfcfc5cbcacad2cbcac6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "800626",
+            "立法紀錄": "80卷52期2476號 13-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cfcfcacdcfcfc4cfcfceccc4cfcfcecb",
+            "主提案": "張志民",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cccacac5cdc8c6d2cdc7cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "611220",
-            "立法紀錄": "62卷18期574號 18-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecec7cfcfcfcdc4cfcfcec7c4cfcfcdcb",
+            "會議日期": "801123",
+            "立法紀錄": "80卷96期2520號 198-213頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cfcfc6c9cfcfc4cfcec6c7c4cfcdcecc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "611227",
-            "立法紀錄": "62卷21期577號 1-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecdcecfcfcfcdc4cfcfcfcec4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620317",
-            "立法紀錄": "62卷28期584號 40-49頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecdc7cfcfcfcdc4cfcfcbcfc4cfcfcbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620321",
-            "立法紀錄": "62卷29期585號 13-19頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecdc6cfcfcfcdc4cfcfceccc4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620326",
-            "立法紀錄": "62卷30期586號 21-29頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecccfcfcfcfcdc4cfcfcdcec4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620407",
-            "立法紀錄": "62卷40期596號 44-52頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbcfcfcfcfcdc4cfcfcbcbc4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620411",
-            "立法紀錄": "62卷46期602號 26-35頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc9cfcfcfcdc4cfcfcdc9c4cfcfccca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620428",
-            "立法紀錄": "62卷47期603號 24-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc8cfcfcfcdc4cfcfcdcbc4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620503",
-            "立法紀錄": "62卷48期604號 7-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc7cfcfcfcdc4cfcfcfc8c4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620509",
-            "立法紀錄": "62卷49期605號 7-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc6cfcfcfcdc4cfcfcfc8c4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620516",
-            "立法紀錄": "62卷54期610號 18-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecacbcfcfcfcdc4cfcfcec7c4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620530",
-            "立法紀錄": "62卷55期611號 20-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecacacfcfcfcdc4cfcfcdcfc4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620606",
-            "立法紀錄": "62卷56期612號 1-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecac9cfcfcfcdc4cfcfcfcec4cfcfcecd",
+            "會議日期": "801207",
+            "立法紀錄": "80卷100期2524號 231-243頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cfcecfcfcfcfc4cfcdcccec4cfcdcbcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "620615",
-            "立法紀錄": "62卷45期601號 16-49頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbcacfcfcfcec4cfcfcec9c4cfcfcbc6",
+            "會議日期": "810619",
+            "立法紀錄": "81卷50期2578號 59-81頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cecfcacfcfcfc4cfcfcac6c4cfcfc7ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc8cfcfc5c9cbd2c6cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdcacfcfc5cdcec7d2cdcccb"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "620619",
-            "立法紀錄": "62卷46期602號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc9cfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810619",
+            "立法紀錄": "81卷50期2578號 81-96頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cecfcacfcfcfc4cfcfc7cec4cfcfc6c9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "620619",
-            "立法紀錄": "62卷46期602號 4-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc9cfcfcfcec4cfcfcfcbc4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "620622",
-            "立法紀錄": "62卷47期603號 6-27頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc8cfcfcfcec4cfcfcfc9c4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "620626",
-            "立法紀錄": "62卷48期604號 2-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc7cfcfcfcec4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "620629",
-            "立法紀錄": "62卷49期605號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc6cfcfcfcec4cfcfcfccc4cfcfcfcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "620629",
-            "立法紀錄": "62卷49期605號 36-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecbc6cfcfcfcec4cfcfccc9c4cfcfccc7",
+            "會議日期": "810623",
+            "立法紀錄": "81卷51期2579號上冊 49-57頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cecfcacecfcec4cfcfcbc6c4cfcfcac8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "620703",
-            "立法紀錄": "62卷50期606號 17-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6ca81c9cdcacecacfcfcfcfcec4cfcfcec8c4cfcfcdc7",
+            "會議日期": "810623",
+            "立法紀錄": "81卷51期2579號上冊 57-57頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c981c7cecfcacecfcec4cfcfcac8c4cfcfcac8",
             "關係文書": []
         }
     ]
