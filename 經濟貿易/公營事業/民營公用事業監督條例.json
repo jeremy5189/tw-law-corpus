@@ -1,8 +1,8 @@
 {
     "title": "民營公用事業監督條例",
     "versions": [
-        "中華民國61年11月17日修正",
-        "中華民國61年11月30日公布"
+        "中華民國89年4月7日修正",
+        "中華民國89年4月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　民營公用事業，除應由中央主管機關，直接監督者外，以經營範圍所屬之省、市、縣主管機關為地方監督機關，以中央主管機關為最高級監督機關。",
+            "content": "　　民營公用事業，除應由中央主管機關直接監督者外，以經營範圍所屬之直轄市、縣（市）主管機關為地方監督機關，以中央主管機關為最高監督機關。",
             "relates": {}
         },
         {
@@ -155,53 +155,34 @@
         }
     ],
     "law_reasons": {
-        "第十六條": "　　原條文中之舊制機關名稱「國民政府」與現行體制不符，應改為「行政院」。"
+        "第三條": "　　一、配合臺灣省政府功能業務與組織調整及地方制度法之施行，將有關「省、市、縣主管機關」修正為「直轄市、縣（市）主管機關」。\n　　二、配合精簡組織層級，修正監督機關為中央與地方二層級，爰將「最高級監督機關」修正為「最高監督機關」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600604",
-            "立法紀錄": "60卷41期395號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "881001",
+            "立法紀錄": "88卷42期3042號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec6cbcb81c7c7cbcdcfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6ceced2c6cdcc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601222",
-            "立法紀錄": "61卷5期458號 1-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cecbc7cfcacfcfcfcdc4cfcfcfcec4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 21-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cecacfc6cfcfcfcfcec4cfcfcdcec4cfcfcccd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c8c8d2c6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5c9cfcad2c9cfc8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 32-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cecacfc6cfcfcfcfcec4cfcfcccdc4cfcfcccd",
+            "會議日期": "890407",
+            "立法紀錄": "89卷15期3074號 41-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec6cbcb81c7c6cecacfcfc4cfcfcbcec4cfcfcbcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "611117",
-            "立法紀錄": "61卷91期544號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cecacfc6cecfcfcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "890407",
+            "立法紀錄": "89卷15期3074號 42-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec6cbcb81c7c6cecacfcfc4cfcfcbcdc4cfcfcbcd",
             "關係文書": []
         }
     ]
