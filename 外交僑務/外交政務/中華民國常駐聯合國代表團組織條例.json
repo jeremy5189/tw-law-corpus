@@ -1,12 +1,11 @@
 {
     "title": "中華民國常駐聯合國代表團組織條例",
     "versions": [
-        "中華民國52年7月30日修正",
-        "中華民國52年8月9日公布"
+        "中華民國62年11月20日停止適用",
+        "中華民國62年11月30日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -85,41 +84,37 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "510706",
-            "立法紀錄": "51卷29期號15冊 48-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cd81cacecdc6cecac4cfcfcbc7c4cfcfcbc7",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5cccec8d2cccdc9"
-                ]
-            ]
+            "會議日期": "611208",
+            "立法紀錄": "61卷97期550號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cc81c9cecacfc6c8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "520726",
-            "立法紀錄": "52卷31期號15冊 6-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cd81cacdcccececac4cfcfcfc9c4cfcfcec6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcdcfcfc5c8ccc9d2c8cbca"
-                ]
-            ]
+            "進度": "委員會審查",
+            "會議日期": "611221",
+            "立法紀錄": "62卷21期577號 7-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cc81c9cdcacecdcecfcfcfcdc4cfcfcfc8c4cfcfcece",
+            "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520726",
-            "立法紀錄": "52卷31期號15冊 66-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cd81cacdcccececac4cfcfc9c9c4cfcfc8cc",
+            "進度": "委員會審查",
+            "會議日期": "621024",
+            "立法紀錄": "63卷12期668號 23-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cc81c9cccacdcecdcfcfc4cfcfcdccc4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "621107",
+            "立法紀錄": "63卷13期669號 35-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cc81c9cccacdcecccfcfc4cfcfcccac4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "520730",
-            "立法紀錄": "52卷31期號15冊 90-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cd81cacdcccececac4cfcfc6cfc4cfcfc6cf",
+            "會議日期": "621120",
+            "立法紀錄": "62卷89期645號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cc81c9cdcacdc7c6cfcfcfcec4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         }
     ]
