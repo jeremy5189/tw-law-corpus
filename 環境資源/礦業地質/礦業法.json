@@ -1,8 +1,8 @@
 {
     "title": "礦業法",
     "versions": [
-        "中華民國67年4月4日修正",
-        "中華民國67年4月14日公布"
+        "中華民國85年9月6日修正",
+        "中華民國85年9月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -102,7 +102,7 @@
         {
             "note": "(礦業權效用之限制)",
             "rule_no": "第十四條",
-            "content": "　　礦業權除繼承、讓與、抵押、滯納處分及強制執行外，不得為權利之標的。\n　　前項礦業權之抵押，以採礦權為限。",
+            "content": "　　礦業權除繼承、讓與、抵押、信託及強制執行外，不得為權利之標的。\n　　前項礦業權之抵押，以採礦權為限。",
             "relates": {}
         },
         {
@@ -707,188 +707,53 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、依中央法規標準法第八條之規定，於各礦名稱上標明款數。\n　　二、明礬有人工合成與天然礦石之分，本法所指者為礦，故修正為明礬石。\n　　三、硝酸鈉產自礦者，依礦物學學名修正為鈉硝石。\n　　四、苦土為日文名詞，白雲石為含鎂之礦，故將苦土石改為鎂礦。\n　　五、地熱一款刪除，改列為第二項，以下款次遞改。\n　　六、臺灣省內所產輝綠石有開採之經濟價值，爰予增列。\n　　七、臺灣省內溫泉分佈地區達百餘處，地熱（蒸氣）藏量豐富，為一可能利用之地下天然力，因與本法所稱之礦稍有區別，經致列為第二項，視為本法所稱之礦。",
-        "第九條": "　　一、岩鹽在國內若干地區，為民生必需品之一，必要時亦得票止探採，增列一款。\n　　二、「呈准」改為「報准」。",
-        "第十九條": "　　核給採礦權時，除應審查礦床狀況外，自應審查其「開採計畫書」，以明瞭申請人是否具備採礦之能力及計畫之是否可行，以免取得礦業權後閒置不開，導致國家有限之資源不能及時開發利用。",
-        "第二十一條": "　　配合第十九條之修正將「投資開採計畫書」修正為「開採計畫書」。",
-        "第三十六條": "　　經政府探勘認為有價值或經撤銷礦業權之礦區，申請人資格修正為採用列舉方式將資金，經營事業之性質與開採規模，列為必備之條件，於條文中明文規定，並作文字修正。公告期間內，合於條件之申請人在二人以上時，以抽籤方式決定之，排除第五條及第二十五條之規定。",
-        "第四十條": "　　為免與司法機關在民、刑訴訟上所為「裁定」用語相混淆，「裁定」改為「裁決」，並將文字酌予修正。",
-        "第四十九條": "　　「呈准」改為「報准」。",
-        "第五十條": "　　「呈請」改為「報請」；「令交」改為「交」。",
-        "第五十五條": "　　一、國營礦業權之租金修正為按礦產額之百分率折算現金繳納之，並規定最高最低標準，藉以簡化名詞及繳納方式。\n　　二、國營礦業權承租之條件，本法第五十二條已有規定，爰將第二、三兩項均予刪除。",
-        "第五十七條": "　　一、配合第五十五條之修正，刪除權利金字樣。\n　　二、配合第四十三條第一款，將第三款酌作文字修正。",
-        "第六十條": "　　一、比照礦場安全法「爆發藥」修正為「爆炸物」。\n　　二、增列油管、儲氣槽、儲水槽、儲油池、加壓站、輸配站、變壓室等設施，以符實際需要。",
-        "第六十一條": "　　一、礦業權者因埋設或高架管線索道等設施，祗需通過他人土地之上下時，可勿須購用或租用其土地，但應由礦業權者給予適當之補償，以兼顧土地所有人之權益，爰增列於第二項。至有設定地上權之必要時，仍依民法之規定辦理。\n　　二、原第二項遞改為第三項。",
-        "第六十五條": "　　一、「裁定」修正為「裁決」。\n　　二、原草案增訂第二項，以利礦業開發，並使土地所有人及關係人得循民事訴訟程序，以主張其權益。",
-        "第六十六條": "　　配合第六十一條之修正，「租用之土地」修正為「租用或通過之土地」。",
-        "第六十七條": "　　配合第六十一條之修正，增列「補償」二字，並作文字修正。",
-        "第七十二條": "　　本條文已訂入礦場安全法第三十二條內；為免重複，爰以刪除。",
-        "第七十三條": "　　配合第七十二條之刪除修正如文。",
-        "第七十八條": "　　現行礦區稅稅率，係民國五十五年所修訂，顯已偏低，有失課稅之本意，故修正為四倍。",
-        "第八十一條": "　　一、配合礦場安全法第三十五條之規定，將「有危險或」四字刪除，以免重複。\n　　二、增訂第三項，規定經濟部得因公益措施等實際需要，依申請將已劃定礦業權之礦區劃為禁採區，並規定損害補償及協議、裁決之程序。",
-        "第八十二條": "　　第一項，已於礦場安全法中詳作規定，為免重複，爰以刪除。",
-        "第八十三條": "　　本條已訂入礦場安全法第十八條內，為免重複，爰以刪除。",
-        "第九十條": "　　「呈」字改為「報」字。",
-        "第九十六條": "　　罰金數額久未調整，衡之當前情況，實嫌偏低，乃參酌礦場安全法，修正如文。",
-        "第九十七條": "　　罰金數額久未條整，衡之當前情況，實嫌偏低，乃參酌礦場安全法，修正如文。",
-        "第九十八條": "　　罰金數額久未調整，衡之當前情況，實嫌偏低，乃參酌礦場安銓法，修正如文。",
-        "第一百條": "　　一、違反第八十一條第一項可依第四十三條處罰，違反第二項可依法提起民事訴訟，毋須在本條中再加規定。\n　　二、不依第八十二條之規定，係行政義務之違反，改定為行政罰，並修正罰鍰之數額。又因係行政罰，「科」字修正為「處」字。",
-        "第一百零一條": "　　一、違反第七十一條之行為，民刑法各有處罰規定，予以刪除。\n　　二、「科」字修正為「處」字。",
-        "第一百零二條": "　　一、違反第七十一條之行為，民刑法各有處罰規定，予以刪除。\n　　二、「科」字修正為「處」字。",
-        "第一百零二條 之一": "　　一、本條係新增。\n　　二、礦業權者不納礦區稅四期以上而撤銷其礦業權後，所欠稅款以乏明文規定，而無法促使其繳納，爰增訂之，以利適用。",
-        "第一百零三條": "　　一、違反第八十一條第一項可依第四十三條處罰，違反第二項可依法提起民事訴訟，毋須在本條中再加規定。\n　　二、不依第八十二條之規定，係行政義務之違反，改定為行政罰，並修正罰鍰之數額。又因係行政罰，「科」字修正為「處」字。",
-        "第一百零三條 之一": "　　一、本條係新增。\n　　二、配合本法第一百條至第一百零二條及第一百零三條處罰鍰之規定，增列本條，俾可移送法院強制執行。"
+        "第十四條": "　　一、現行稅法已無滯納處分，爰予修正刪除。\n　　二、礦業權性質上為可採行信託之準物權，為配合信託制度之建立，爰於本條第一項明定礦業可為信託之標的。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "660614",
-            "立法紀錄": "66卷48期1011號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c9cac6cbc7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "830929",
+            "立法紀錄": "83卷61期2735號 12-12頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbc881c7ccc9cecfcfc4cfcfcecdc4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac6cfcbcfcfc5c6cbd2cecec9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcfcdcfcfc5cdcbc9d2cdcbc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "661027",
-            "立法紀錄": "66卷104期1067號 28-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c9c9cfcecfcbcfcfc4cfcfcdc7c4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661102",
-            "立法紀錄": "67卷1期1069號 7-10頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cfcfcecfcfc4cfcfcfc8c4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661116",
-            "立法紀錄": "67卷2期1070號 26-31頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cfcfcdcfcfc4cfcfcdc9c4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661126",
-            "立法紀錄": "67卷8期1076號 20-27頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cfcfc7cfcfc4cfcfcdcfc4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661201",
-            "立法紀錄": "67卷10期1078號 13-19頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cfcecfcfcfc4cfcfceccc4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661208",
-            "立法紀錄": "67卷13期1081號 11-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cfcecccfcfc4cfcfcecec4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661214",
-            "立法紀錄": "67卷20期1088號 31-36頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcfcfcfc4cfcfcccec4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661222",
-            "立法紀錄": "67卷21期1089號 19-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcecfcfc4cfcfcec6c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661228",
-            "立法紀錄": "67卷23期1091號 21-26頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcccfcfc4cfcfcdcec4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661231",
-            "立法紀錄": "67卷24期1092號 15-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcbcfcfc4cfcfcecac4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670105",
-            "立法紀錄": "67卷25期1093號 21-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcacfcfc4cfcfcdcec4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670107",
-            "立法紀錄": "67卷26期1094號 19-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdc9cfcfc4cfcfcec6c4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670111",
-            "立法紀錄": "67卷27期1095號 31-42頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdc8cfcfc4cfcfcccec4cfcfcbcd",
+            "會議日期": "831107",
+            "立法紀錄": "83卷74期2748號下冊 60-64頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbc881c7ccc8cbcfccc4cfcfc9cfc4cfcfc9cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "670317",
-            "立法紀錄": "67卷22期1090號 4-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcdcfcfc4cfcfcfcbc4cfcfccc7",
+            "會議日期": "850906",
+            "立法紀錄": "85卷40期2862號一冊 244-246頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbc881c7cacbcfcfcec4cfcdcbcbc4cfcdcbc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcdcfcfc5cdcfc9d2cdcccb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcfcecfcfc5c9cecfd2c9cecd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "670321",
-            "立法紀錄": "67卷23期1091號 3-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcccfcfc4cfcfcfccc4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670324",
-            "立法紀錄": "67卷24期1092號 2-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcbcfcfc4cfcfcfcdc4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670328",
-            "立法紀錄": "67卷25期1093號 2-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdcacfcfc4cfcfcfcdc4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670331",
-            "立法紀錄": "67卷26期1094號 3-10頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdc9cfcfc4cfcfcfccc4cfcfcecf",
+            "會議日期": "850906",
+            "立法紀錄": "85卷40期2862號一冊 246-247頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbc881c7cacbcfcfcec4cfcdcbc9c4cfcdcbc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "670404",
-            "立法紀錄": "67卷27期1095號 3-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbca81c9c8c9cecdc8cfcfc4cfcfcfccc4cfcfcfc6",
+            "會議日期": "850906",
+            "立法紀錄": "85卷40期2862號一冊 247-247頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbc881c7cacbcfcfcec4cfcdcbc8c4cfcdcbc8",
             "關係文書": []
         }
     ]
