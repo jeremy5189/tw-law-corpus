@@ -1,8 +1,8 @@
 {
     "title": "優生保健法",
     "versions": [
-        "中華民國88年3月30日修正",
-        "中華民國88年4月21日公布"
+        "中華民國88年11月30日修正",
+        "中華民國88年12月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,13 +22,13 @@
         {
             "note": "(主管機關)",
             "rule_no": "第二條",
-            "content": "　　優生保健之主管機關：在中央為行政院衛生署；在省（市）為省（市）政府；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
             "note": "(優生保健諮詢委員會及優生保健委員會)",
             "rule_no": "第三條",
-            "content": "　　中央主管機關，為推行優生保健，諮詢學者專家意見，得設優生保健諮詢委員會，研審人工流產及結紮手術之標準。其組織規程，由行政院定之。\n　　省（市）縣（市）為推行優生保健，在衛生機關內，得設優生保健委員會，指導人民人工流產與結紮手術。其設置辦法，由中央主管機關定之。",
+            "content": "　　中央主管機關為推行優生保健，諮詢學者、專家意見，得設優生保健諮詢委員會，研審人工流產及結紮手術之標準；其組織規程，由中央主管機關定之。\n　　直轄市、縣（市）主管機關為推行優生保健，得設優生保健委員會，指導人民人工流產及結紮手術；其設置辦法，由直轄市、縣（市）主管機關定之。",
             "relates": {}
         },
         {
@@ -139,54 +139,47 @@
         }
     ],
     "law_reasons": {
-        "第九條": "　　配合刑法第二百二十一條等之修正，原條文第一項第五款「強姦」修改為「強制性交」。"
+        "第二條": "　　配合臺灣省政府功能業務與組織之調整，將優生保健之主管機關在省為省政府之規定刪除；並配合一般法律之體例，酌作文字修正。",
+        "第三條": "　　一、第一項將授權訂定組織規程之權責機關由「行政院」修正為「中央主管機關」。\n　　二、第二項配合臺灣省政府功能業務與組織之調整，將省設優生保健委員會之規定刪除；並因應地方制度法之施行，酌作修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 219-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cc81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
-            "主提案": "謝啟大",
+            "會議日期": "881029",
+            "立法紀錄": "88卷46期3046號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cb81c7c7cbc9cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cbcfcecfcacfcec5cdc8c7d2cdc7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc9cfcec5cec6cfd2cec6cc"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 219-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cc81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
-            "主提案": "謝啟大",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfccc5c9cccdd2c9cacf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 234-235頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cc81c7c7cecccfcec4cfcdcccbc4cfcdccca",
+            "進度": "委員會審查",
+            "會議日期": "881125",
+            "立法紀錄": "88卷55期3055號下冊 223-230頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cb81c7c7cacacfccc4cfcdcdccc4cfcdcccf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 250-250頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cc81c7c7cecccfcec4cfcdcacfc4cfcdcacf",
-            "關係文書": []
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 163-165頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cb81c7c7cacdcfcec4cfcec9ccc4cfcec9ca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5c9c9d2c9c6"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 250-250頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cc81c7c7cecccfcec4cfcdcacfc4cfcdcacf",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 165-165頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacbc6cb81c7c7cacdcfcec4cfcec9cac4cfcec9ca",
             "關係文書": []
         }
     ]
