@@ -1,8 +1,8 @@
 {
     "title": "農倉業法",
     "versions": [
-        "中華民國74年12月24日修正",
-        "中華民國75年1月6日公布"
+        "中華民國89年4月28日修正",
+        "中華民國89年5月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -84,7 +84,7 @@
         {
             "note": "(農倉之申請登記)",
             "rule_no": "第十三條",
-            "content": "　　經營農倉事業者，應依本法之規定，擬具業務規則及其他應備章程，向所在地主管機關申請登記。\n　　主管機關應將前項核准登記之農倉，報經省（市）主管機關，核轉行政院農業委員會及內政部備案。",
+            "content": "　　經營農倉事業者，應依本法之規定，擬具業務規則及其他應備章程，向所在地主管機關申請登記。\n　　主管機關應將前項核准登記之農倉，報行政院農業委員會及內政部備案。",
             "relates": {}
         },
         {
@@ -167,55 +167,53 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　一、配合現行公文用語，將第一項之「呈請」修正為「申請」。\n　　二、配合主管機關改隸，將第二項之「經濟部」修正為「行政院農業委員會」，並將「呈經」修正為「報經」。",
-        "第二十條": "　　一、將「呈報」、「呈請」、「轉呈」分別修正為「報請」及「轉陳」。\n　　二、「經濟部」修正為「行政院農業委員會」。\n　　三、配合會計法、商業會計法之用語，將「損益計算書」修正為「損益計算表」。\n　　四、將末句「行政院農業委員會」上之「轉陳」二字修正為「轉請」。",
-        "第二十三條": "　　「經濟部」修正為「行政院農業委員會」。"
+        "第十三條": "　　配合臺灣省政府功能業務與組織調整及因應業務實際需要，刪除省（市）主管機關。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "741206",
-            "立法紀錄": "74卷98期1896號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cbcfc6c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "890321",
+            "立法紀錄": "89卷12期3071號上冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cd81c7c6cecdcfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc9cfcfc5cacec7d2cacdcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5cac6c9d2c9c9ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "741219",
-            "立法紀錄": "75卷30期1932號 96-98頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cacfcccfcfcfc4cfcfc6c9c4cfcfc6c7",
+            "會議日期": "890406",
+            "立法紀錄": "89卷17期3076號 181-210頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cd81c7c6cec8cfcfc4cfcec7cec4cfcdcecf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "741224",
-            "立法紀錄": "74卷103期1901號 30-33頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cbcecfcccfcfc4cfcfcccfc4cfcfcccc",
+            "會議日期": "890428",
+            "立法紀錄": "89卷21期3080號 68-146頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cd81c7c6cdcecfcfc4cfcfc9c7c4cfcecbc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc6cfcfc5cdcfcdd2cdcfc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfc7cfcfc5cac6c9d2c9c8ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "741224",
-            "立法紀錄": "74卷103期1901號 34-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cbcecfcccfcfc4cfcfcccbc4cfcfcccb",
+            "會議日期": "890428",
+            "立法紀錄": "89卷21期3080號 146-146頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cd81c7c6cdcecfcfc4cfcecbc9c4cfcecbc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "741224",
-            "立法紀錄": "74卷103期1901號 34-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cbcecfcccfcfc4cfcfcccbc4cfcfcccb",
+            "會議日期": "890428",
+            "立法紀錄": "89卷21期3080號 146-147頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cd81c7c6cdcecfcfc4cfcecbc9c4cfcecbc8",
             "關係文書": []
         }
     ]
