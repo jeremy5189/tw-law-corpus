@@ -1,66 +1,195 @@
 {
     "title": "度量衡器及計量器營業條例",
     "versions": [
-        "中華民國35年10月29日修正",
-        "中華民國35年11月9日公布"
+        "中華民國43年3月9日全文修正",
+        "中華民國43年3月22日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　以製造販賣或修理度量衡器具為業者，應呈請地方主管機關核發許可執照，轉報全國度量衡局備案。\n　　前項許可執照，由全國度量衡局刊發地方主管機關備用。",
+            "content": "　　以製造修理或販賣度量衡器或計量器為業者，應呈請地方主管機關核發許可執照，轉報中央標準局備案。\n　　前項許可執照，由中央標準局刊發地方主管機關備用。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　度量衡器具營業之許可，以十年為有效期間，自發照之日起算。但期滿得呈請續展十年，不收執照費。",
+            "content": "　　度量衡器及計量器營業之許可，以五年為有效期間，自發照之日起算。但期滿得呈請續展五年，不收執照費。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　以製造為業之呈請人，應依左列各款，繳納執照費。\n　　一、用原動力機械，平時雇用工人在三十人以上者，一萬元。\n　　二、用原動力機械，平時雇用工人不滿三十人者，六千元。\n　　三、用手工製造，平時雇用工人在二十人以上者，四千元。\n　　四、用手工製造，平時雇用工人在十人以上者，二千元。\n　　五、用手工製造，平時雇用工人不滿十人者，一千元。",
+            "content": "　　以製造為業之申請人，應依左列各款繳納執照費：\n　　一、用原動力機械，平時雇用工人在三十人以上者，銀元一百元。\n　　二、用原動力機械，平時雇用工人不滿三十人者，銀元八十元。\n　　三、用手工製造，平時雇用工人在三十人以上者，銀元六十元。\n　　四、用手工製造，平時雇用工人不滿三十人者，銀元四十元。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　以販賣或修理為業之呈請人，應依左列各款，繳納執照費。\n　　一、販賣者四百元。\n　　二、修理者二百元。",
+            "content": "　　以修理為業之申請人，應依左列各款繳納執照費：\n　　一、平時雇用工人在十人以上者，銀元四十元。\n　　二、平時雇用工人不滿十人者，銀元二十元",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　領有製造執照者，得兼營販賣及修理業，領有販賣執照者，得兼營修理業。",
+            "content": "　　以販賣為業之申請人，應依左列各款繳納執照費：\n　　一、兼營販賣度量衡器及計量器者，銀元四十元。\n　　二、專營販賣度量衡器或計量器一種者，銀元二十元。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　領有製造執照者，應備價承領標準器。",
+            "content": "　　領有製造執照者，得兼營修理及販賣業；領有修理執照者，得兼營販賣業。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　有左列各款情事之一者，不得為度量衡器具營業。\n　　一、犯刑法第十三章規定各罪而受刑罰之宣告，自執行終了或免除執行之日起，尚未經過一年者。\n　　二、依度量衡法第十八條或本條例之規定，撤銷執照或停止其營業後，尚未經過一年者。",
+            "content": "　　領有製造或修理執照者，應備價承領標準器。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　領有許可執照者，如犯刑法第十三章規定各罪受刑罰之宣告時，應撤銷其執照。",
+            "content": "　　有左列各款情事之一者，不得為度量衡器及計量器營業：\n　　一、犯刑法第十四章規定各罪而受刑之宣告，自其刑終了或免除其刑之日起未經過一年者。\n　　二、依度量衡法第十五條或本條例之規定，撤銷執照後尚未經過一年者。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
+            "content": "　　領有許可執照者，如犯刑法第十四章規定各罪而受刑之宣告時，應撤銷其執照。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "401221",
+            "立法紀錄": " ",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecfc7cfcdcfcfc5cacec6d2caccc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "420505",
+            "立法紀錄": " ",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5ccc8c9d2ccc7cf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420522",
+            "立法紀錄": "42卷11期號8冊 190-196頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcececfc7c4cfcec6cfc4cfcec6c9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5cecad2cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "420526",
+            "立法紀錄": "42卷11期號9冊 114-116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcececfc6c4cfcececbc4cfcecec9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421120",
+            "立法紀錄": "42卷12期號5冊 26-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfcac4cfcfcdc9c4cfcfcbce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421124",
+            "立法紀錄": "42卷12期號5冊 43-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfcac4cfcfcbccc4cfcfcaca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421127",
+            "立法紀錄": "42卷12期號5冊 68-68頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfcac4cfcfc9c7c4cfcfc9c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421201",
+            "立法紀錄": "42卷12期號6冊 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfc9c4cfcfcfc6c4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421204",
+            "立法紀錄": "42卷12期號6冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfc9c4cfcfcecdc4cfcfcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421211",
+            "立法紀錄": "43卷12期號7冊 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecdcfc8c4cfcfcdc9c4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421215",
+            "立法紀錄": "43卷12期號7冊 32-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecdcfc8c4cfcfcccdc4cfcfcccb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421229",
+            "立法紀錄": "43卷12期號8冊 58-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecdcfc7c4cfcfcac7c4cfcfcac6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430302",
+            "立法紀錄": "43卷13期號2冊 5-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecccfcdc4cfcfcfcac4cfcfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430302",
+            "立法紀錄": "43卷13期號2冊 39-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecccfcdc4cfcfccc6c4cfcfcbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "430309",
+            "立法紀錄": "43卷13期號2冊 64-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecccfcdc4cfcfc9cbc4cfcfc9ca",
+            "關係文書": []
         }
     ]
 }
