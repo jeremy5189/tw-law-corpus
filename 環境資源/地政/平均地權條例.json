@@ -1,12 +1,12 @@
 {
     "title": "平均地權條例",
     "versions": [
-        "中華民國66年1月18日全文修正",
-        "中華民國66年2月2日公布"
+        "中華民國69年1月15日修正",
+        "中華民國69年1月25日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -272,7 +272,7 @@
         {
             "note": "",
             "rule_no": "第四十一條",
-            "content": "　　土地所有權人出售其自用住宅用地之面積，都市土地未超過三公畝或非都市土地未超過七公畝者，其土地增值稅統按土地漲價總數額百分之十徵收之；超過三公畝或七公畝者，其超過部分之土地漲價數額，依前條之稅率徵收。\n　　土地所有權人，依前項稅率繳納土地增值稅者，以一次為限。",
+            "content": "　　土地所有權人出售其自用住宅用地者，都市土地面積未超過三公畝部分或非都市土地面積未超過七公畝部分，其土地增值稅統就該部分之土地漲價總數額按百分之十徵收之；超過三公畝或七公畝者，其超過部分之土地漲價總數額，依前條規定之稅率徵收之。\n　　前項土地於出售前一年內，曾供營業使用或出租者，不適用前項規定。\n　　土地所有權人，依第一項規定稅率繳納土地增值稅者，以一次為限。",
             "relates": {}
         },
         {
@@ -564,303 +564,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第四十一條": "　　土地稅法第三十四條業奉　總統於六十八年七月二十五日修正公布。現行平均地權條例第四十一條條文內容與該條相關，爰作配合修正，俾臻一致，而免分歧。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "650601",
-            "立法紀錄": "65卷44期903號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac8cbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "681130",
+            "立法紀錄": "68卷96期1268號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdca81c9c7c9cbc6c9cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcccfcfc5cacec8d2cac7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cbcdcbd2cbcdc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "650621",
-            "立法紀錄": "65卷71期930號 6-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac8c8cecfcfc4cfcfcfc9c4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650624",
-            "立法紀錄": "65卷89期948號 11-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c7c6cfcfcfcdc4cfcfcecec4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650628",
-            "立法紀錄": "65卷91期950號 31-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6cecfcfc4cfcfcccec4cfcfcace",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650703",
-            "立法紀錄": "65卷92期951號 10-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6cdcfcfcfcdc4cfcfcecfc4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650705",
-            "立法紀錄": "65卷94期953號 17-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6cbcfcfcfcdc4cfcfcec8c4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650708",
-            "立法紀錄": "65卷95期954號 13-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6cacfcfcfcdc4cfcfceccc4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650710",
-            "立法紀錄": "65卷97期956號 26-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6c8cfcfcfcdc4cfcfcdc9c4cfcfccca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650712",
-            "立法紀錄": "65卷100期959號 31-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7cecfcfcfcfcfcdc4cfcfcccec4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650927",
-            "立法紀錄": "66卷9期972號 22-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac7cfc6cfcfc4cfcfcdcdc4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650929",
-            "立法紀錄": "66卷20期983號 23-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cdcfcfcfcfcdc4cfcfcdccc4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650930",
-            "立法紀錄": "66卷22期985號 23-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cdcdcfcfcfcdc4cfcfcdccc4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651002",
-            "立法紀錄": "66卷24期987號 55-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cdcbcfcfc4cfcfcacac4cfcfc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651004",
-            "立法紀錄": "66卷26期989號 37-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cdc9cfcfc4cfcfccc8c4cfcfcaca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651006",
-            "立法紀錄": "66卷28期991號 42-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cdc7cfcfc4cfcfcbcdc4cfcfc9cd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651013",
-            "立法紀錄": "66卷29期992號 52-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cdc6cfcfc4cfcfcacdc4cfcfc8ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651004",
-            "立法紀錄": "66卷30期993號 61-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cccfcfcfc4cfcfc9cec4cfcfc8c9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651018",
-            "立法紀錄": "66卷32期995號 52-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cccdcfcfc4cfcfcacdc4cfcfc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651020",
-            "立法紀錄": "66卷34期997號 48-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cccbcfcfc4cfcfcbc7c4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651007",
-            "立法紀錄": "66卷40期1003號 50-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cbcfcfcfc4cfcfcacfc4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651027",
-            "立法紀錄": "66卷42期1005號 20-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cbcdcfcfc4cfcfcdcfc4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651028",
-            "立法紀錄": "66卷48期1011號 63-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cbc7cfcfc4cfcfc9ccc4cfcfc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651021",
-            "立法紀錄": "66卷50期1013號 46-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cacfcfcfc4cfcfcbc9c4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651103",
-            "立法紀錄": "66卷52期1015號 48-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cacdcfcfc4cfcfcbc7c4cfcfc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651104",
-            "立法紀錄": "66卷54期1017號 70-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cacbcfcfc4cfcfc8cfc4cfcfc7c9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651108",
-            "立法紀錄": "66卷57期1020號 87-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac6cac8cfcfc4cfcfc7c8c4cfcfc6ce",
+            "會議日期": "681231",
+            "立法紀錄": "69卷34期1310號 53-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdca81c9c6c9cacccbcfcfc4cfcfcaccc4cfcfcac7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "651126",
-            "立法紀錄": "65卷95期954號 24-104頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6cacfcfcfcec4cfcfcdcbc4cfcecfcb",
+            "會議日期": "690115",
+            "立法紀錄": "69卷5期1281號 7-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdca81c9c6c9cbcfcacfcfc4cfcfcfc8c4cfcfcfc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcccfcfc5cbcacad2caccc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcbcfcfc5cacaccd2cacaca"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "651130",
-            "立法紀錄": "65卷96期955號 3-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6c9cfcfcfcec4cfcfcfccc4cfcfcecc",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "651130",
-            "立法紀錄": "65卷96期955號 13-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6c9cfcfcfcec4cfcfceccc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "651203",
-            "立法紀錄": "65卷97期956號 2-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6c8cfcfcfcec4cfcfcfcdc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "651207",
-            "立法紀錄": "65卷98期957號 3-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6c7cfcfcfcec4cfcfcfccc4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "651210",
-            "立法紀錄": "65卷99期958號 2-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7c6c6cfcfcfcec4cfcfcfcdc4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "651214",
-            "立法紀錄": "65卷100期959號 3-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7cecfcfcfcfcfcec4cfcfcfccc4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "651217",
-            "立法紀錄": "65卷101期960號 3-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7cecfcecfcfcfcec4cfcfcfccc4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "651224",
-            "立法紀錄": "65卷103期962號 3-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7cecfcccfcfcfcec4cfcfcfccc4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "651228",
-            "立法紀錄": "65卷104期963號 17-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9cacac7cecfcbcfcfcfcec4cfcfcec8c4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "651231",
-            "立法紀錄": "66卷1期964號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac7cfcecfcfcfcec4cfcfcfccc4cfcfcfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660111",
-            "立法紀錄": "66卷4期967號 3-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac7cfcbcfcfcfcec4cfcfcfccc4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660114",
-            "立法紀錄": "66卷5期968號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac7cfcacfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660114",
-            "立法紀錄": "66卷5期968號 9-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac7cfcacfcfcfcec4cfcfcfc6c4cfcfcecd",
+            "會議日期": "690115",
+            "立法紀錄": "69卷5期1281號 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdca81c9c6c9cbcfcacfcfc4cfcfcfc6c4cfcfcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "660118",
-            "立法紀錄": "66卷6期969號 5-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdcc81c9c9cac7cfc9cfcfcfcec4cfcfcfcac4cfcfcdcd",
+            "會議日期": "690115",
+            "立法紀錄": "69卷5期1281號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcbcdca81c9c6c9cbcfcacfcfc4cfcfcecfc4cfcfcecf",
             "關係文書": []
         }
     ]
