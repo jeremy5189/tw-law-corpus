@@ -1,11 +1,12 @@
 {
     "title": "縣長考試條例",
     "versions": [
-        "中華民國24年8月30日制定",
-        "中華民國24年9月7日公布"
+        "中華民國82年4月8日廢止",
+        "中華民國82年4月21日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -79,6 +80,55 @@
             "rule_no": "第十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　此條例係行憲前所制定公布，距今達四十餘年，與現行之「憲法」、「公職人員選舉罷免法」及「公務人員考試法」多所牴觸，未合時宜，實無繼續施行之必要，爰予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "801226",
+            "立法紀錄": "81卷1期2529號上冊 10-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcace81c7cecfcfcecfcec4cfcfcecfc4cfcfcecb",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdcccfcec5c6ced2c6cd"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdcccfcec5c6c7d2cecfcf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "810617",
+            "立法紀錄": "81卷51期2579號下冊 97-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcace81c7cecfcacecfccc4cfcfc6c8c4cfcfc6c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "820408",
+            "立法紀錄": "82卷20期2619號上冊 13-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcace81c7cdcdcfcfcec4cfcfceccc4cfcfcdce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcececfcfcfc5cec7cbd2cec7c8"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcececfcfcfc5cec6ccd2cec6ca"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "820408",
+            "立法紀錄": "82卷20期2619號上冊 21-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcace81c7cdcdcfcfcec4cfcfcdcec4cfcfcccf",
+            "關係文書": []
         }
     ]
 }
