@@ -1,12 +1,10 @@
 {
     "title": "特種考試國軍退除役醫事人員執業資格考試條例",
     "versions": [
-        "中華民國61年8月28日全文修正",
-        "中華民國61年9月11日公布"
+        "中華民國65年7月29日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -88,149 +86,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "540319",
-            "立法紀錄": "54卷35期號04冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81cacbcccacfcbcfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcdcfcfc5cdd2c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "591120",
-            "立法紀錄": "59卷86期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81cac6cbc9c7c9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcccfcfc5cbceced2cbcccd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "561218",
-            "立法紀錄": "57卷2期號 126-128頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81cac8cbcfcfcdcfcfc4cfcecdc9c4cfcecdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600317",
-            "立法紀錄": "60卷25期279號 39-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cfcbc8cdcacfcfcfcdc4cfcfccc6c4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600324",
-            "立法紀錄": "60卷33期387號 43-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cfcbc8cccccfcfcfcdc4cfcfcbccc4cfcfcace",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600407",
-            "立法紀錄": "60卷34期388號 8-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cfcbc8cccbcfcfcfcdc4cfcfcfc7c4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600414",
-            "立法紀錄": "60卷39期393號 13-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cfcbc8ccc6cfcfcfcdc4cfcfceccc4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600428",
-            "立法紀錄": "60卷39期393號 27-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cfcbc8ccc6cfcfcfcdc4cfcfcdc8c4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600505",
-            "立法紀錄": "60卷46期400號 9-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cfcbc8cbc9cfcfcfcdc4cfcfcfc6c4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600115",
-            "立法紀錄": "60卷99期452號 16-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cfcbc7c6c6cfcfcfcdc4cfcfcec9c4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610724",
-            "立法紀錄": "61卷86期539號 2-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cecacfc7c9cfcfcfcdc4cfcfcfcdc4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610802",
-            "立法紀錄": "61卷87期540號 13-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cecacfc7c8cfcfcfcdc4cfcfceccc4cfcfcdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610811",
-            "立法紀錄": "61卷64期517號 26-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cecbc6c9cbcfcfc4cfcfcdc9c4cfcfc9ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcbcfcfc5cbcec8d2cbccca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610815",
-            "立法紀錄": "61卷65期518號 9-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cecbc6c9cacfcfcfcec4cfcfcfc6c4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610822",
-            "立法紀錄": "61卷67期520號 3-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cecbc6c9c8cfcfcfcec4cfcfcfccc4cfcfcdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610825",
-            "立法紀錄": "61卷68期521號 27-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cecbc6c9c7cfcfc4cfcfcdc8c4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610825",
-            "立法紀錄": "61卷68期521號 78-82頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cecbc6c9c7cfcfc4cfcfc8c7c4cfcfc7cd",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "610828",
-            "立法紀錄": "61卷69期522號 4-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6ce81c9cecbc6c9c6cfcfc4cfcfcfcbc4cfcfcfc6",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
