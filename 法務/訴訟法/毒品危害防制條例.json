@@ -1,12 +1,12 @@
 {
     "title": "毒品危害防制條例",
     "versions": [
-        "中華民國44年5月27日制定",
-        "中華民國44年6月3日公布"
+        "中華民國62年6月12日修正",
+        "中華民國62年6月21日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　吸用煙毒成癮者，自本條例施行之日起一個月內，自動向法院或司法警察機關請求於六個月內戒絕，經調驗確已戒絕者，免除其刑。",
+            "content": "　　吸用煙毒成癮，於犯罪未發覺前，自動向法院或司法警察機關請求勒戒，於斷癮後經調驗確已戒絕者，免除其刑。",
             "relates": {}
         },
         {
@@ -60,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　施打毒品、吸食毒品或鴉片者，處三年以上、七年以下有期徒刑。\n　　吸用蔴煙或抵癮物品者，處一年以上三年以下有期徒刑。\n　　犯前二項之罪有癮者，應由審判機關先行指定相當處所勒戒，不適用刑法第八十八條第三項之規定。\n　　前項勒戒處所由地方政府就公立醫院內附設之。\n　　犯第一項第二項之罪勒戒斷癮後再犯者，加重本刑至三分之二，三犯者處死刑。",
+            "content": "　　施打毒品、吸食毒品或鴉片者，處三年以上、七年以下有期徒刑。\n　　吸用蔴煙或抵癮物品者，處一年以上、三年以下有期徒刑。\n　　犯前二項之罪有癮者，應由審判機關先行指定相當處所勒戒，不適用刑法第八十八條第三項之規定。\n　　前項勒戒處所，由地方政府就公立醫院內附設之。\n　　犯第一項或第二項之罪，依第三項或第四項規定勒戒斷癮後再犯者，加重本刑至三分之二；三犯者，處死刑。",
             "relates": {}
         },
         {
@@ -142,79 +142,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第四條": "　　本條例係於民國四十四年六月三日公布施行，早逾法定自動投戒期限，是本條已無適用餘地。俾對於吸用煙毒成癮而於犯罪未發覺前，自動投戒經勒戒斷絕者，予以免刑之寬典，而不加時間之限制。",
+        "第九條": "　　第五項修正為犯第一項或第二項之罪，「依第三項或第四條規定」勒戒斷癮後再犯者，加重本刑至三分之二；三犯者，處死刑。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "440107",
-            "立法紀錄": "44卷14期號8冊 55-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecbcfc7c4cfcfcacac4cfcfcaca",
+            "會議日期": "620508",
+            "立法紀錄": "62卷34期590號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac781c9cdcacecccbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5cbc8ccd2cbc8c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcacfcfc5cecbcad2cecacf"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "620521",
+            "立法紀錄": "62卷54期610號 11-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac781c9cdcacecacbcfcfcfcdc4cfcfcecec4cfcfcec7",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "440527",
-            "立法紀錄": "44卷15期號5冊 105-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecacfcac4cfcecfcac4cfcecec8",
+            "會議日期": "620608",
+            "立法紀錄": "62卷43期599號 18-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac781c9cdcacecbcccfcfcfcec4cfcfcec7c4cfcfcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececacfcdcfcfc5cdcec9d2cdcdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc9cfcfc5cccfc6d2cccec9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "440510",
-            "立法紀錄": "44卷15期號2冊 76-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecacfcdc4cfcfc8c9c4cfcfc7ce",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "440510",
-            "立法紀錄": "44卷15期號2冊 81-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecacfcdc4cfcfc7cec4cfcfc7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "440513",
-            "立法紀錄": "44卷15期號2冊 91-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecacfcdc4cfcfc6cec4cfcecfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "440527",
-            "立法紀錄": "44卷15期號5冊 135-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecacfcac4cfcecccac4cfcecbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "440527",
-            "立法紀錄": "44卷15期號5冊 154-154頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecacfcac4cfcecacbc4cfcecacb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "440527",
-            "立法紀錄": "44卷15期號5冊 180-180頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecacfcac4cfcec7cfc4cfcec7cf",
+            "會議日期": "620608",
+            "立法紀錄": "62卷43期599號 27-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac781c9cdcacecbcccfcfcfcec4cfcfcdc8c4cfcfccce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "440527",
-            "立法紀錄": "44卷15期號5冊 201-206頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac881cbcbcecacfcac4cfcdcfcec4cfcdcfc9",
+            "會議日期": "620612",
+            "立法紀錄": "62卷44期600號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccac781c9cdcacecbcbcfcfcfcec4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         }
     ]
