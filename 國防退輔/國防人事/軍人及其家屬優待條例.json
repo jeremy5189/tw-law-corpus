@@ -1,12 +1,12 @@
 {
     "title": "軍人及其家屬優待條例",
     "versions": [
-        "中華民國49年12月20日制定",
-        "中華民國49年12月28日公布"
+        "中華民國89年10月24日修正",
+        "中華民國89年11月8日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -38,13 +38,13 @@
         {
             "note": "(辦理優待之機關)",
             "rule_no": "第四條",
-            "content": "　　軍人及其家屬之優待，由左列各機關分別辦理之：\n　　一、中央以內政部為主管機關，國防部、教育部及國軍退除役官兵就業輔導委員會為協管機關，遇有與其他部、會有關聯者，隨時會商辦理。\n　　二、省以省政府為主管機關，軍（師）管區司令部為協管機關。\n　　三、直轄市以市政府為主管機關，所在地之師（團）管區司令部為協管機關。\n　　四、縣、市以縣、市政府為主管機關，有關團管區司令部為協管機關。\n　　省、縣、市政府，對優待業務，得委託兵役協會、後備軍人會辦理之。",
+            "content": "　　軍人及其家屬之優待，由左列各機關分別辦理：\n　　一、中央以內政部為主管機關，國防部、教育部及行政院國軍退除役官兵輔導委員會為協管機關，遇有與其他部會有關聯者，隨時會商辦理。\n　　二、直轄市、縣（市）以直轄市、縣（市）政府為主管機關，所在地之師（團）管區司令部為協管機關。",
             "relates": {}
         },
         {
             "note": "(軍人家庭狀況之調查統計)",
             "rule_no": "第五條",
-            "content": "　　軍人家庭狀況，應由省（市）縣（市）政府及鄉、鎮公所，逐年調查統計；其辦法由省政府定之。",
+            "content": "　　軍人家庭狀況，應由直轄市、縣（市）政府及鄉（鎮、市、區）公所逐年調查統計；其辦法，由內政部定之。",
             "relates": {}
         },
         {
@@ -304,121 +304,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第四條": "　　一、第一項第一款「國軍退除役官兵就業輔導委員會」修正為「行政院國軍退除役官兵輔導委員會」。\n　　二、配合臺灣省政府功能業務與組織調整，刪除第一項第二款。其餘款次遞移，並酌作文字修正。\n　　三、第二項之「省」修正為直轄市，並酌作文字修正",
+        "第五條": "　　一、配合臺灣省政府功能業務與組織調整，將省政府應辦調查統計之規定，予以刪除，並將鄉鎮公所修正為鄉（鎮、市、區）公所。\n　　二、將省政府訂定辦法之規定修正為由內政部。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "470704",
-            "立法紀錄": "47卷21期號17冊 42-43頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc8cdcecec8c4cfcfcbcdc4cfcfcbcc",
+            "會議日期": "890321",
+            "立法紀錄": "89卷12期3071號上冊 6-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cb81c7c6cecdcfcec4cfcfcfc9c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcccfcfc5cac8ced2cac7ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5c9c8c7d2c8ccca"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "890612",
+            "立法紀錄": "89卷39期3098號下冊 173-202頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cb81c7c6ccc6cfccc4cfcec8ccc4cfcdcfcd",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "471209",
-            "立法紀錄": "48卷22期號13冊 28-43頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc8cdcdceccc4cfcfcdc7c4cfcfcbcc",
+            "會議日期": "891024",
+            "立法紀錄": "89卷57期3116號上冊 99-104頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cb81c7c6cac8cfcec4cfcfc6c6c4cfcecfcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc9cfcdcfcfc5c7c7d2cecdcf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdc8cfcfc5cbccced2cbccc9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "471212",
-            "立法紀錄": "48卷22期號14冊 6-26頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc7cdcdcecbc4cfcfcfc9c4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "471219",
-            "立法紀錄": "48卷22期號14冊 29-55頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc7cdcdcecbc4cfcfcdc6c4cfcfcaca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "471226",
-            "立法紀錄": "48卷22期號15冊 21-22頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc7cdcdcecac4cfcfcdcec4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "480106",
-            "立法紀錄": "48卷22期號17冊 40-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc7cdcdcec8c4cfcfcbcfc4cfcfcac7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "491202",
-            "立法紀錄": "50卷26期號8冊 87-105頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc6cdc9cfc7c4cfcfc7c8c4cfcecfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "491202",
-            "立法紀錄": "50卷26期號8冊 105-107頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc6cdc9cfc7c4cfcecfcac4cfcecfc8",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480109",
-            "立法紀錄": "48卷22期號17冊 3-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc7cdcdcec8c4cfcfcfccc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480109",
-            "立法紀錄": "48卷22期號17冊 72-73頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc7cdcdcec8c4cfcfc8cdc4cfcfc8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491206",
-            "立法紀錄": "50卷26期號9冊 12-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc6cdc9cfc6c4cfcfcecdc4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491206",
-            "立法紀錄": "50卷26期號9冊 42-65頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc6cdc9cfc6c4cfcfcbcdc4cfcfc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491213",
-            "立法紀錄": "50卷26期號10冊 8-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc6cdc9cecfc4cfcfcfc7c4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491216",
-            "立法紀錄": "50卷26期號10冊 33-43頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cbc6cdc9cecfc4cfcfccccc4cfcfcbcc",
+            "會議日期": "891024",
+            "立法紀錄": "89卷57期3116號上冊 104-104頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cb81c7c6cac8cfcec4cfcecfcbc4cfcecfcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "491220",
-            "立法紀錄": "50卷26期號11冊 4-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cc81cacfcdc9cecec4cfcfcfcbc4cfcfcdc7",
+            "會議日期": "891024",
+            "立法紀錄": "89卷57期3116號上冊 104-104頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc8c9cb81c7c6cac8cfcec4cfcecfcbc4cfcecfcb",
             "關係文書": []
         }
     ]
