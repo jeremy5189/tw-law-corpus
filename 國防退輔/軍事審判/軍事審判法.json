@@ -1,8 +1,8 @@
 {
     "title": "軍事審判法",
     "versions": [
-        "中華民國45年6月22日制定",
-        "中華民國45年7月7日公布"
+        "中華民國45年12月11日修正",
+        "中華民國45年12月24日公布"
     ],
     "types": [
         "立法歷程",
@@ -1230,7 +1230,7 @@
         {
             "note": "(覆判程序)",
             "rule_no": "第一百八十八條",
-            "content": "　　判決經依前條聲請覆判後，由原審軍事審判機關，轉呈管轄之覆判機關覆判。但將官案件之判決及宣告死刑或無期徒刑之判決，應不待聲請，依職權送請最高軍事審判機關覆判之。",
+            "content": "　　判決經依前條聲請覆判後，由原審軍事審判機關，轉呈管轄之覆判機關覆判。但將官案件之判決及宣告死刑或無期徒刑之判決，應不待聲請，依職權送請管轄之覆判機關覆判之。",
             "relates": {}
         },
         {
@@ -1641,102 +1641,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "420612",
-            "立法紀錄": "42卷11期號10冊 85-89頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcdcecececfc4cfcfc7cac4cfcfc7c6",
-            "主提案": "韓同",
+            "會議日期": "451123",
+            "立法紀錄": "46卷18期號5冊 83-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7ca81cbc9cec7cfcac4cfcfc7ccc4cfcfc7ca",
+            "主提案": "仲肇湘",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecfc8cfcfcfcfc5cecac8d2cdcccb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "420612",
-            "立法紀錄": "42卷11期號10冊 93-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcdcecececfc4cfcfc6ccc4cfcfc6ca",
-            "主提案": "韓同",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cccfc7d2ccceca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "440916",
-            "立法紀錄": "44卷16期號4冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcbcec9cfcbc4cfcfcfcac4cfcfcfc9",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5cdccd2cbc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cecbcfd2cecbce"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "450622",
-            "立法紀錄": "45卷17期號8冊 8-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcacec8cfc7c4cfcfcfc7c4cfcfcbc7",
+            "會議日期": "451211",
+            "立法紀錄": "46卷18期號5冊 34-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7ca81cbc9cec7cfcac4cfcfcccbc4cfcfcccb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcdcfcfc5cdc7ccd2cbcfca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cccccfd2ccccce"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "450622",
-            "立法紀錄": "45卷17期號6冊 125-129頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcacec8cfc9c4cfcecdcac4cfcecdc6",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "450605",
-            "立法紀錄": "45卷17期號7冊 19-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcacec8cfc8c4cfcfcec6c4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "450608",
-            "立法紀錄": "45卷17期號7冊 40-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcacec8cfc8c4cfcfcbcfc4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "450612",
-            "立法紀錄": "45卷17期號7冊 65-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcacec8cfc8c4cfcfc9cac4cfcfc6cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "450612",
-            "立法紀錄": "45卷17期號7冊 94-118頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcacec8cfc8c4cfcfc6cbc4cfcecec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "450622",
-            "立法紀錄": "45卷17期號8冊 50-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcacec8cfc7c4cfcfcacfc4cfcfcaca",
+            "會議日期": "451211",
+            "立法紀錄": "46卷18期號5冊 106-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7ca81cbc9cec7cfcac4cfcecfc9c4cfcecfc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "450622",
-            "立法紀錄": "45卷17期號8冊 62-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7cb81cbcacec8cfc7c4cfcfc9cdc4cfcecfca",
+            "會議日期": "451211",
+            "立法紀錄": "46卷18期號5冊 109-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7ca81cbc9cec7cfcac4cfcecfc6c4cfcecfc6",
             "關係文書": []
         }
     ]
