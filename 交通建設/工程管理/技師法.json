@@ -1,10 +1,11 @@
 {
     "title": "技師法",
     "versions": [
-        "中華民國36年10月17日制定",
-        "中華民國36年10月27日公布"
+        "中華民國43年12月7日修正",
+        "中華民國43年12月17日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -197,7 +198,7 @@
         {
             "note": "(具外國技師資格者適用之規定)",
             "rule_no": "第三十二條",
-            "content": "　　依外國人應農工礦業技師考試條例，經考試及格之外國技師，應遵守關於技師之各法令。",
+            "content": "　　依外國人應專門職業及技術人員考試條例經考試及格之外國技師，應遵守關於技師之各法令。",
             "relates": {}
         },
         {
@@ -211,6 +212,28 @@
             "rule_no": "第三十四條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "431207",
+            "立法紀錄": "44卷14期號6冊 128-129頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacf81cbcbcecbcfc9c4cfcecdc7c4cfcecdc6",
+            "主提案": "魏惜言",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcdcfcfc5cac8c6d2cac7cf"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "431207",
+            "立法紀錄": "44卷14期號6冊 129-129頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacf81cbcbcecbcfc9c4cfcecdc6c4cfcecdc6",
+            "關係文書": []
         }
     ]
 }
