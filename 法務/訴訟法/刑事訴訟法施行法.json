@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法施行法",
     "versions": [
-        "中華民國84年10月5日修正",
-        "中華民國84年10月20日公布"
+        "中華民國86年12月12日修正",
+        "中華民國86年12月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　修正刑事訴訟法施行前，審判中羈押之被告，其延長及撤銷羈押，依修正刑事訴訟法第一百零八條之規定，修正刑事訴訟法施行後，延長羈押次數，連同施行前合併計算。",
+            "content": "　　刑事訴訟法關於羈押之規定於中華民國八十六年修正施行前羈押之被告，其延長及撤銷羈押，依修正後第一百零八條之規定，其延長羈押次數及羈押期間，連同施行前合併計算。\n　　前項羈押之被告，於偵查中經檢察官簽發押票，或禁止接見、通信、受授書籍及其他物件，或命扣押書信物件，或核准押所長官為束縛被告身體之處分者，其效力不受影響。",
             "relates": {}
         },
         {
@@ -53,54 +53,74 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　本法稱修正刑事訴訟法者，係指八十四年十月五日經立法院修正三讀通過，並經總統明令公布之刑事訴訟法。",
-        "第五條": "　　一、修正刑事訴訟法施行前，原得上訴於第三審法院之案件，如已繫屬於各級法院，不應因修正刑事訴訟法之施行，而影響當事人之上訴、抗告等訴訟權益，爰增列本項。\n　　二、修正刑事訴訟法對於簡易程序部分亦有修正（第四百四十九條、第四百五十一條、第四百五十四條之條文），為避免影響被告訴訟權益，爰將本條條文作適當修正，並移列為第二項。"
+        "第四條": "　　一、原第四條係民國五十六年間為配合刑事訴訟法第一百零八條之修正而制定。此次修正刑事訴訟法第一百零八條，涉及偵查中及審判中被告延長羈押次數及羈押期間之變更，自均有明定其適用原則之必要，爰將「審判中」字樣刪除，並於延長羈押次數之下增列「及羈押期間」以示周延，此部分列為第一項。\n　　二、第一項羈押之被告，於偵查中經檢察官依原規定簽發押票，或為羈押之管束處分等，為維持其安定性，不因此次修正而使原來有效之處分失去效力，爰增訂第二項，規定其效力不受影響。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830624",
-            "立法紀錄": "83卷45期2719號上冊 17-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cccbcacfcec4cfcfcec8c4cfcfcec8",
+            "會議日期": "860527",
+            "立法紀錄": "86卷30期2922號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cccfcfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "司法院、行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcbcfcec5c6c6d2cecfc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcbcfcfc5c6c8d2cec8cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830706",
-            "立法紀錄": "83卷51期2725號 131-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cccacecfcfc4cfcecccec4cfcecacf",
+            "會議日期": "861013",
+            "立法紀錄": "86卷41期2933號 347-382頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cbcecfcfc4cfcccbc8c4cfccc7cd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830711",
-            "立法紀錄": "83卷53期2727號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cccacccfcfc4cfcfcecec4cfcfcece",
+            "會議日期": "861022",
+            "立法紀錄": "86卷44期2936號下冊 125-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cbcbcfccc4cfcecdcac4cfcecacd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "841005",
-            "立法紀錄": "84卷50期2807號 72-89頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cbcacfcfcfc4cfcfc8cdc4cfcfc7c6",
+            "進度": "委員會審查",
+            "會議日期": "861027",
+            "立法紀錄": "86卷45期2937號下冊 173-222頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cbcacfccc4cfcec8ccc4cfcdcdcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "861029",
+            "立法紀錄": "86卷46期2938號下冊 249-315頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cbc9cfccc4cfcdcbc6c4cfccceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "861209",
+            "立法紀錄": "86卷52期2944號上冊 43-214頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cacdcfcec4cfcfcbccc4cfcdcecb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec7cfcec5cacdcad2caccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcecacfcec5cbc7c8d2c9cccc"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "861212",
+            "立法紀錄": "86卷53期2945號上冊 29-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cacccfcec4cfcfcdc6c4cfcfc9cf",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "841005",
-            "立法紀錄": "84卷50期2807號 89-89頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cbcacfcfcfc4cfcfc7c6c4cfcfc7c6",
+            "會議日期": "861212",
+            "立法紀錄": "86卷53期2945號上冊 60-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cacccfcec4cfcfc9cfc4cfcfc9ce",
             "關係文書": []
         }
     ]
