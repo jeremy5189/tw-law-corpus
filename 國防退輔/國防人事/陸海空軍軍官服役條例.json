@@ -1,12 +1,12 @@
 {
     "title": "陸海空軍軍官服役條例",
     "versions": [
-        "中華民國59年5月15日全文修正",
-        "中華民國59年5月28日公布"
+        "中華民國63年5月21日修正",
+        "中華民國63年5月28日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -68,7 +68,7 @@
         {
             "note": "(延長服役)",
             "rule_no": "第九條",
-            "content": "　　常備軍官服現役年限為十年，期滿後，除志願留營者外，得依軍事需要，延長服役三年至五年。",
+            "content": "　　常備軍官服現役年限為十年，期滿後，除志願留營者外，得依軍事需要，延長服役三年至五年。\n　　志願考入軍官學校正期班畢業任軍官者，不受前項現役年限之限制。",
             "relates": {}
         },
         {
@@ -234,51 +234,36 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第九條": "　　一、第一項未修正，仍適用職業軍官以外之一般常備軍官。\n　　二、為適應軍中實際需要，達成建軍目的，增列第二項，使立志長期服役軍中為職業軍官者，能從其志願，不受現役年限十至十五年之限制，以構成三軍之骨幹。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "590414",
-            "立法紀錄": "59卷27期0號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc981cac6cbcacdc8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5cccac9d2ccc7cf"
-                ]
-            ]
+            "會議日期": "630514",
+            "立法紀錄": "63卷33期689號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc881c9cccacccccccfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "590512",
-            "立法紀錄": "59卷35期0號 2-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc981cac6cbcacccacfcfc4cfcfcfcdc4cfcfcccd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5c9cacdd2c9c7cb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "590512",
-            "立法紀錄": "59卷35期0號 32-48頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc981cac6cbcacccacfcfc4cfcfcccdc4cfcfcbc7",
+            "會議日期": "630521",
+            "立法紀錄": "63卷35期691號 3-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc881c9cccacccccacfcfcfcec4cfcfcfccc4cfcfcfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "590515",
-            "立法紀錄": "59卷36期0號 4-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc981cac6cbcaccc9cfcfcfcec4cfcfcfcbc4cfcfcec8",
+            "會議日期": "630521",
+            "立法紀錄": "63卷35期691號 8-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc881c9cccacccccacfcfcfcec4cfcfcfc7c4cfcfcfc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "590515",
-            "立法紀錄": "59卷36期0號 17-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc981cac6cbcaccc9cfcfcfcec4cfcfcec8c4cfcfcdca",
+            "會議日期": "630521",
+            "立法紀錄": "63卷35期691號 8-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc881c9cccacccccacfcfcfcec4cfcfcfc7c4cfcfcfc7",
             "關係文書": []
         }
     ]
