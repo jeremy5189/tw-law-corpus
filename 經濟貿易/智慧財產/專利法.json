@@ -1,8 +1,8 @@
 {
     "title": "專利法",
     "versions": [
-        "中華民國48年1月9日全文修正",
-        "中華民國48年1月22日公布"
+        "中華民國49年5月3日修正",
+        "中華民國49年5月12日公布"
     ],
     "types": [
         "立法歷程",
@@ -212,9 +212,9 @@
             "relates": {}
         },
         {
-            "note": "(公告中發明之異議)",
+            "note": "(公告中發明之異議請求再審查)",
             "rule_no": "第三十二條",
-            "content": "　　公告中之發明人，任何人認為有違反本法第一條至第四條之規定者，得自公告之日起六個月內備具聲明書，附具證件，向專利局提起異議請求再審查。",
+            "content": "　　公告中之發明，任何人認為有違反本法第一條至第四條之規定者，得自公告之日起六個月內備具聲請書，附具證件，向專利局提起異議請求再審查。",
             "relates": {}
         },
         {
@@ -614,13 +614,13 @@
             "section_name": "第二章  新型"
         },
         {
-            "note": "(新型專利之定義)",
+            "note": "(新型專利之積極要件)",
             "rule_no": "第九十五條",
-            "content": "　　凡對於物品之形狀構造或裝置首先創作合於適用之新型者，得依本法申請專利。",
+            "content": "　　凡對於物品之形狀構造或裝置首先創作合於實用之新型者，得依本法申請專利。",
             "relates": {}
         },
         {
-            "note": "(申請新型專利之消極要件)",
+            "note": "(新型專利之消極要件)",
             "rule_no": "第九十六條",
             "content": "　　本法所稱新型，謂無左列情事之一者：\n　　一、申請前已見於刊物或已在國內公開使用他人可能仿效者，但因研究實驗而發表或使用於發表或使用之日起六個月內申請新型專利者，不在此限。\n　　二、有相同之發明或新型核准專利在先者。\n　　三、已向外國政府申請專利逾一年者。\n　　四、經陳列於政府或政府認可之展覽會，於開會之日起逾六個月尚未申請專利者。\n　　五、申請專利前大量製造而非從事實驗者。",
             "relates": {}
@@ -756,9 +756,9 @@
             "relates": {}
         },
         {
-            "note": "(異議之提起)",
+            "note": "(公告中新式樣之異議請求再審查)",
             "rule_no": "第一百十八條",
-            "content": "　　公告中之新式樣，無論任何人認為有違反本法第一百十一條至第一百十三條之規定或利害關係人認為違反本法第一百十六條之規定者，得自公告之日起六個月內備具聲請書，附具證件，向專利局提起異議，請求再審查。",
+            "content": "　　公告中之新式樣，任何人認為有違反本法第一百十一條至第一百十三條之規定或利害關係人認為違反本法第一百十六條之規定者，得自公告之日起六個月內備具聲請書，附具證件，向專利局提起異議，請求再審查。",
             "relates": {}
         },
         {
@@ -859,53 +859,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "470916",
-            "立法紀錄": "47卷22期號1冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec881cbc8cdcdcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "490216",
+            "立法紀錄": "49卷25期號1冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec681cbc6cdcacfcec4cfcfcfc8c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcecfcfc5caccd2cac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcecfcfc5c8c9d2c8c6"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "471028",
-            "立法紀錄": "47卷22期號9冊 14-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec881cbc8cdcdcfc6c4cfcfcecbc4cfcfcdcf",
+            "會議日期": "490503",
+            "立法紀錄": "49卷25期號9冊 6-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec681cbc6cdcacfc6c4cfcfcfc9c4cfcfcecf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcecfcfc5cac8cfd2cac8cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcecfcfc5c7c9c8d2c7c8cf"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480109",
-            "立法紀錄": "48卷22期號17冊 25-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec881cbc7cdcdcec8c4cfcfcdcac4cfcfccce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cbcfced2cbcacf"
-                ]
-            ]
+            "會議日期": "490503",
+            "立法紀錄": "49卷25期號9冊 16-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec681cbc6cdcacfc6c4cfcfcec9c4cfcfcec8",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480109",
-            "立法紀錄": "48卷22期號17冊 77-92頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec881cbc7cdcdcec8c4cfcfc8c8c4cfcfc6cd",
+            "會議日期": "490503",
+            "立法紀錄": "49卷25期號9冊 16-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec681cbc6cdcacfc6c4cfcfcec9c4cfcfcec8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480109",
-            "立法紀錄": "48卷22期號17冊 92-103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec881cbc7cdcdcec8c4cfcfc6cdc4cfcecfcc",
+            "會議日期": "490503",
+            "立法紀錄": "49卷25期號9冊 17-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc6cec681cbc6cdcacfc6c4cfcfcec8c4cfcfcec7",
             "關係文書": []
         }
     ]
