@@ -1,8 +1,8 @@
 {
     "title": "財政部國有財產局組織條例",
     "versions": [
-        "中華民國50年8月15日制定",
-        "中華民國50年8月26日公布"
+        "中華民國73年4月20日全文修正",
+        "中華民國73年4月30日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,198 +12,141 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　財政部為清查處理並管理國有財產依財政部組織法第五條之規定設國有財產局（以下簡稱本局）。",
+            "content": "　　本條例依財政部組織法第十一條及國有財產法第九條第二項規定制定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本局清查處理管理之國有財產如左：\n　　一、一般國有財產。\n　　二、特種國有財產。\n　　前項各款國有財產之範圍在國有財產法未制定前由行政院定之。",
+            "content": "　　財政部國有財產局（以下簡稱本局）掌理左列事項：\n　　一、關於國有財產清查事項。\n　　二、關於國有財產處理事項。\n　　三、關於國有財產管理事項。\n　　四、關於國有財產法令與法務案件之研議及處理事項。\n　　五、關於其他國有財產事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本局設左列各科室分掌本局事務。\n　　一、第一科掌理國有財產清查事項。\n　　二、第二科掌理國有財產處理事項。\n　　三、第三科掌理國有財產管理事項。\n　　四、第四科掌理文書總務事項。\n　　五、技術室掌理關於技術事項。\n　　六、人事室掌理人事管理事項。\n　　七、主計室掌理歲計會計統計等事項。",
+            "content": "　　本局設三組，分別掌理前條所列事項，並得分科辦事。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　本局置局長一人簡任承財政部部長之命綜理局務並監督指揮所屬機構及職員置副局長一人或二人簡任襄助局長處理本局事務。",
+            "content": "　　本局設秘書室，掌理文書、印信、出納、庶務、議事、編印、核稿、研究發展、管制考核及不屬於其他各組事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本局置秘書二人或三人荐任承長官之命綜核文稿並辦理機要及交辦事項。",
+            "content": "　　本局置局長一人，承財政部部長之命綜理局務；副局長一人或二人，襄理局務，職位均列第十至第十四職等。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本局置技正二人簡任專門委員二人簡派科長四人技術室主任一人視察六人至八人技士四人至六人均荐任科員十五人至二十人其中五人至七人荐任餘委任助理員十五人至二十人委任。",
+            "content": "　　本局置主任秘書一人，專門委員一人，組長三人，職位均列第八至第十二職等；室主任一人，秘書二人，科長七人，技正二人或三人，視察二人，專員七人至九人，職位均列第六至第九職等，其中技正一人得列第十或第十一職等；技士二人至四人，科員二十七人至三十五人，職位均列第三至第五職等，其中技士一人，科員十二人得列第六或第七職等；辦事員十四人至二十人，職位列第三或第四職等；書記三人至五人，職位列第一至第三職等。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　人事室置主任一人荐任科員一人或二人助理員一人均委任。",
+            "content": "　　本局設人事室，置主任一人，職位列第六至第九職等；依法律規定，辦理人事管理事項。\n　　人事室所需工作人員，就本條例所定員額內派充之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　主計室置主任一人荐任科員五人至七人其中二人得為荐任餘委任助理員六人至八人委任。",
+            "content": "　　本局設會計室，置會計主任一人，職位列第六至第九職等；依法律規定，辦理歲計、會計，並兼辦統計事項。\n　　會計室所需工作人員，就本條例所定員額內派充之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　本局於重要地區得設辦事處，其組織視業務需要由行政院定之。",
+            "content": "　　第五條至第八條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就一般財政及財務管理、財產管理、地政、測量、林業行政、一般行政管理、公共關係、文書、事務管理、出納、會計、統計、人事行政、法制及其他有關職系選用之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　本局對外行文以財政部名義行之，但關於左列事項得以本局名義行之。\n　　一、遵照部令應行轉飭事項。\n　　二、遵照部令所定辦法督屬執行事項。",
+            "content": "　　本局視業務需要，得於重要地區設辦事處；其組織以法律定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本局辦事細則由財政部定之。",
+            "content": "　　本局對外公文以財政部名義行之。但關於左列事項，得由局行文：\n　　一、依法令應行監督事項。\n　　二、遵照部指示應行轉知事項。\n　　三、其他經報部核准事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　本條例自公布日施行。",
+            "content": "　　本局辦事細則，由局擬訂，報請財政部核定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十三條",
+            "content": "　　本條例自公布日施日。",
             "relates": {}
         }
     ],
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "491129",
-            "立法紀錄": "49卷26期號8冊 50-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cbc6cdc9cfc7c4cfcfcacfc4cfcfcacf",
+            "會議日期": "711029",
+            "立法紀錄": "71卷87期1572號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccb81c8cec8cfc7c8cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc9cfcdcfcfc5cecdced2cecdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcccfcfc5cecfc9d2cecece"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "711113",
+            "立法紀錄": "72卷11期1600號 56-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccb81c8cdc8cfcececfcfc4cfcfcac9c4cfcfc9ce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "720316",
+            "立法紀錄": "72卷44期1633號 125-133頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccb81c8cdc8cecbcbcfcfc4cfcecdcac4cfcecccc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "730326",
+            "立法紀錄": "73卷63期1757號 29-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccccccb81c8cccfc9cccfcfc4cfcfcdc6c4cfcfccc8",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "500815",
-            "立法紀錄": "50卷27期號19冊 3-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec6c4cfcfcfccc4cfcfcec9",
+            "會議日期": "730417",
+            "立法紀錄": "73卷31期1725號 10-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccccccb81c8cccfcccecfcfc4cfcfcecfc4cfcfcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc8cfcdcfcfc5cdc6ccd2cccfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cccfcccfcfc5c8ccc7d2c8cbc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "500516",
-            "立法紀錄": "50卷27期號8冊 16-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cfc7c4cfcfcec9c4cfcfccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "500714",
-            "立法紀錄": "50卷27期號15冊 82-83頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cecac4cfcfc7cdc4cfcfc7cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "500714",
-            "立法紀錄": "50卷27期號15冊 90-103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cecac4cfcfc6cfc4cfcecfcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "500718",
-            "立法紀錄": "50卷27期號16冊 18-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec9c4cfcfcec7c4cfcfcdca",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "500718",
-            "立法紀錄": "50卷27期號16冊 25-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec9c4cfcfcdcac4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "500718",
-            "立法紀錄": "50卷27期號16冊 43-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec9c4cfcfcbccc4cfcfcbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "500728",
-            "立法紀錄": "50卷27期號17冊 20-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec8c4cfcfcdcfc4cfcfcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "800801",
-            "立法紀錄": "50卷27期號17冊 44-79頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec8c4cfcfcbcbc4cfcfc8c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "800804",
-            "立法紀錄": "50卷27期號18冊 5-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec7c4cfcfcfcac4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "500808",
-            "立法紀錄": "50卷27期號18冊 45-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec7c4cfcfcbcac4cfcfc8c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "500811",
-            "立法紀錄": "50卷27期號19冊 26-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec6c4cfcfcdc9c4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "500811",
-            "立法紀錄": "50卷27期號19冊 41-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec6c4cfcfcbcec4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "500815",
-            "立法紀錄": "50卷27期號19冊 61-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec6c4cfcfc9cec4cfcfc9c8",
+            "會議日期": "730417",
+            "立法紀錄": "73卷31期1725號 27-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccccccb81c8cccfcccecfcfc4cfcfcdc8c4cfcfcccf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "500815",
-            "立法紀錄": "50卷27期號19冊 67-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccccccc81cacfcdc8cec6c4cfcfc9c8c4cfcfc9c6",
+            "會議日期": "730420",
+            "立法紀錄": "73卷32期1726號 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccccccb81c8cccfcccdcfcfc4cfcfcfc9c4cfcfcfc8",
             "關係文書": []
         }
     ]
