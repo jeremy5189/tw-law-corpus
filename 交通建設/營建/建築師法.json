@@ -1,8 +1,8 @@
 {
     "title": "建築師法",
     "versions": [
-        "中華民國84年1月12日修正",
-        "中華民國84年1月27日公布"
+        "中華民國86年4月15日修正",
+        "中華民國86年5月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -366,7 +366,7 @@
         {
             "note": "(外國人參加考試及執業之許可)",
             "rule_no": "第五十四條",
-            "content": "　　凡外國依其法律，准許中華民國人民充任建築師者，其人民得依中華民國法律，參加本法所規定之考試。\n　　前項考試及格，領有建築師證書之外國人，在中華民國執行建築師業務，應經內政部許可，並應遵守中華民國一切法令及建築師公會章程及章則。\n　　外國人經許可在中華民國開業為建築師者，其有關業務上所用之文件、圖說，應以中華民國文字為主。",
+            "content": "　　外國人得依中華民國法律應建築師考試。\n　　前項考試及格領有建築師證書之外國人，在中華民國執行建築師業務，應經內政部之許可，並應遵守中華民國一切法令及建築師公會章程及章則。\n　　外國人經許可在中華民國開業為建築師者，其有關業務上所用之文件、圖說，應以中華民國文字為主。",
             "relates": {}
         },
         {
@@ -384,72 +384,52 @@
         {
             "note": "(施行日)",
             "rule_no": "第五十七條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文第五十四條施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、建築師法第二條及建築師檢覈辦法第二條明定應檢覈資格者為大學或三專建築系科畢業者，而將二專、五專或高職畢業生經自學而同榜通過高等考試及格者排除在外。此恐有放寬高學歷而歧視、排斥低學歷經苦讀自學進修者之嫌，且造成同榜及格卻有不同待遇之極不公平現象，影響當事人權益甚鉅。\n　　二、依建築師法第五十二條之一第一項明文規定同法第二條第一項第五款有關以建築科工業技師檢覈取得建築師證書之方式，已於民國七十四年六月三十日截止受理。因此，建築師法第二條第一項第五款之規定，已形同虛文，應予修正。\n　　三、為消除前述不公平現象，維護當事人權益，特修正原條文第一項第五款之規定。",
-        "第四條": "　　一、本條文第一項第一款「背叛中華民國判決確定者」之含義太模糊，太容易被引用為加害政治異議者，嚴重違反憲政民主自由的保障。而且，依據罪刑法定原則，刑法中既無「背叛中華民國」之明文罪名，更應刪除之。\n　　二、原第一款刪除後，原第二款以下之順序依序遞補。"
+        "第五十四條": "　　一、為因應我國加入世界貿易組織，刪除第一項互惠限制。\n　　二、第二項酌作修正。",
+        "第五十七條": "　　為配合我國加入世界貿易組織之生效日期施行本法，爰明定本法施行日期由行政院訂定。爰增列第二項規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820319",
-            "立法紀錄": "82卷14期2613號上冊 55-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9cac681c7cdcecbcfcec4cfcfcacac4cfcfc8ce",
-            "主提案": "尤宏",
+            "會議日期": "851217",
+            "立法紀錄": "85卷68期2890號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9c9ce81c7cac9c7cfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "行政院",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c8c6c9d2c7cecc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "830104",
-            "立法紀錄": "83卷3期2677號 85-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9cac681c7cccfcccfcfc4cfcfc7cac4cfcfc7c8",
-            "主提案": "趙永清",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcdcecfcec5cbc9cfd2cbc9cc"
+                    "null",
+                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcdc9cecfcec8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "831228",
-            "立法紀錄": "84卷3期2760號下冊 61-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9cac681c7cbcfcccfccc4cfcfc9cec4cfcfc8ce",
+            "會議日期": "860313",
+            "立法紀錄": "86卷10期2902號下冊 171-178頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9c9ce81c7c9cecfcfccc4cfcec8cec4cfcec8c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "840112",
-            "立法紀錄": "84卷5期2762號上冊 38-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9cac681c7cbcfcacfcec4cfcfccc7c4cfcfcbc6",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 102-106頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9c9ce81c7c9cec8cfcec4cfcecfcdc4cfcecfc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcacfcfc5cdcbcdd2cdcacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecfcfcdc5cccbc6d2cccacb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840112",
-            "立法紀錄": "84卷5期2762號上冊 49-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9cac681c7cbcfcacfcec4cfcfcbc6c4cfcfcacc",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "840112",
-            "立法紀錄": "84卷5期2762號上冊 53-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9cac681c7cbcfcacfcec4cfcfcaccc4cfcfcacb",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 107-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc9c9ce81c7c9cec8cfcec4cfcecfc8c4cfcecfc8",
             "關係文書": []
         }
     ]
