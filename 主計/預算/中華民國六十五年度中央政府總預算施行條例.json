@@ -1,12 +1,10 @@
 {
     "title": "中華民國六十五年度中央政府總預算施行條例",
     "versions": [
-        "中華民國64年5月27日制定",
-        "中華民國64年6月7日公布"
+        "中華民國71年2月9日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -76,34 +74,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "640401",
-            "立法紀錄": "64卷27期781號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfcd81c9cbcacacdc8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640519",
-            "立法紀錄": "64卷69期823號 27-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfcd81c9cbcacac9c6cfcfc4cfcfcdc8c4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640524",
-            "立法紀錄": "64卷82期836號 4-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfcd81c9cbcac9c7cdcfcfc4cfcfcfcbc4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "640527",
-            "立法紀錄": "64卷43期797號 4-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfcd81c9cbcacacbcccfcfcfcec4cfcfcfcbc4cfcfcbce",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
