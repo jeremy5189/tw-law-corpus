@@ -1,12 +1,12 @@
 {
     "title": "使用牌照稅法",
     "versions": [
-        "中華民國68年7月20日",
+        "中華民國68年7月20日修正",
         "中華民國68年8月1日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -266,17 +266,18 @@
             "relates": {}
         }
     ],
+    "law_reasons": {},
     "law_history": [
         {
             "進度": "一讀",
             "會議日期": "680615",
             "立法紀錄": "68卷48期1220號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c9cdca81c9c7c9cccbc7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9cccbc7cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcacfcfc5cec7cdd2cec7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcacfcfc5cec7cdd2cec7c6"
                 ]
             ]
         },
@@ -284,18 +285,18 @@
             "進度": "委員會審查",
             "會議日期": "680627",
             "立法紀錄": "68卷74期1246號 2-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c9cdca81c9c7c9ccc8cbcfcfc4cfcfcfcdc4cfcfcfc6",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9ccc8cbcfcfc4cfcfcfcdc4cfcfcfc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "680717",
             "立法紀錄": "68卷57期1229號 17-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c9cdca81c9c7c9cccac8cfcfc4cfcfcec8c4cfcfcdca",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9cccac8cfcfc4cfcfcec8c4cfcfcdca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5c9c8c9d2c9c7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5c9c8c9d2c9c7cc"
                 ]
             ]
         },
@@ -303,14 +304,14 @@
             "進度": "二讀(逐條討論)",
             "會議日期": "680720",
             "立法紀錄": "68卷58期1230號 3-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c9cdca81c9c7c9cccac7cfcfc4cfcfcfccc4cfcfcfca",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9cccac7cfcfc4cfcfcfccc4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
             "會議日期": "680720",
             "立法紀錄": "68卷58期1230號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c9cdca81c9c7c9cccac7cfcfc4cfcfcfcac4cfcfcfca",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9cccac7cfcfc4cfcfcfcac4cfcfcfca",
             "關係文書": []
         }
     ]
