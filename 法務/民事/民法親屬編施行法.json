@@ -1,8 +1,8 @@
 {
     "title": "民法親屬編施行法",
     "versions": [
-        "中華民國89年1月14日修正",
-        "中華民國89年2月2日公布"
+        "中華民國91年6月4日修正",
+        "中華民國91年6月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -49,6 +49,12 @@
             "note": "(夫妻聯合財產制之適用)",
             "rule_no": "第六條 之一",
             "content": "　　中華民國七十四年六月四日以前結婚，並適用聯合財產制之夫妻，於婚姻關係存續中以妻之名義在同日以前取得不動產，而有左列情形之一者，於本施行法中華民國八十五年九月六日修正生效一年後，適用中華民國七十四年民法親屬編修正後之第一千零十七條規定：\n　　一、婚姻關係尚存續中且該不動產仍以妻之名義登記者。\n　　二、夫妻已離婚而該不動產仍以妻之名義登記者。",
+            "relates": {}
+        },
+        {
+            "note": "(婚前財產與婚後財產之適用)",
+            "rule_no": "第六條 之二",
+            "content": "　　中華民國九十一年民法親屬編修正前適用聯合財產制之夫妻，其特有財產或結婚時之原有財產，於修正施行後視為夫或妻之婚前財產；婚姻關係存續中取得之原有財產，於修正施行後視為夫或妻之婚後財產。",
             "relates": {}
         },
         {
@@ -113,34 +119,87 @@
         }
     ],
     "law_reasons": {
-        "第十四條 之一": "　　一、本條新增。\n　　二、民法第一０九四條之修正係導因於九二一大地震，為使問題得以確實解決，故特強制規定本條自民國八十八年十二月三十日修正前，已依民法第一千零九十四條任監護人者，於修正公布後，仍適用修正後同條第二項至第四項之規定方能徹底照顧在九二一大地震中需要照顧之未成年人。"
+        "第六條 之二": "　　一、本條新增。\n　　二、為保障人民之既得權益，並使現存之法律關係得順利過渡至法律修正施行之後，爰增訂本條規定，俾修正前結婚而婚姻關係尚存續夫妻之特有財產及結婚時之原有財產，仍得排除於剩餘財產分配之列；至於婚姻關係存續期間取得之原有財產，則仍列入分配。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890114",
-            "立法紀錄": "89卷9期3068號二冊 147-148頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc681c7c6cfc6cfcdc4cfcecbc8c4cfcecbc7",
-            "主提案": "曾永權",
+            "會議日期": "910507",
+            "立法紀錄": "91卷31期3227號上冊 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecccecfcec4cfcfcecbc4cfcfcecb",
+            "主提案": "行政院、司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecacfcdc5cacbccd2cacbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececfcfcdc5cecbc7d2cdcfce"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "890114",
-            "立法紀錄": "89卷9期3068號二冊 148-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc681c7c6cfc6cfcdc4cfcecbc7c4cfcecbc6",
+            "進度": "一讀",
+            "會議日期": "910423",
+            "立法紀錄": "91卷28期3224號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecdc7cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "沈智慧",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc8cfccc5cacdced2cacac7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "910424",
+            "立法紀錄": "91卷42期3238號下冊 123-146頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbcdcfccc4cfcecdccc4cfcecbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "910513",
+            "立法紀錄": "91卷48期3244號下冊 29-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbc7cfccc4cfcfcdc6c4cfcfcacc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "910515",
+            "立法紀錄": "91卷48期3244號下冊 53-98頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbc7cfccc4cfcfcaccc4cfcfc6c7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "910516",
+            "立法紀錄": "91卷48期3244號下冊 98-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbc7cfccc4cfcfc6c7c4cfceccc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910604",
+            "立法紀錄": "91卷40期3236號一冊 33-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbcfcfcec4cfcfccccc4cfcfcbcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5cbc6cdd2cac7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910604",
+            "立法紀錄": "91卷40期3236號一冊 112-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbcfcfcec4cfcececdc4cfcecdc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "890114",
-            "立法紀錄": "89卷9期3068號二冊 149-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc681c7c6cfc6cfcdc4cfcecbc6c4cfcecbc6",
+            "會議日期": "910604",
+            "立法紀錄": "91卷40期3236號一冊 133-134頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbcfcfcec4cfceccccc4cfcecccb",
             "關係文書": []
         }
     ]
