@@ -1,11 +1,12 @@
 {
     "title": "褒揚抗戰忠烈條例",
     "versions": [
-        "中華民國35年2月28日制定",
-        "中華民國35年3月12日公布"
+        "中華民國75年11月18日廢止",
+        "中華民國75年11月28日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -43,6 +44,54 @@
             "rule_no": "第六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　因褒揚條例之修正公布，有關褒獎之內容都已歸併其中，且依中央法規標準法之規定，同一事項已定有新法規者，廢止之。且本法因抗戰勝利已四十多年，該褒揚的已經褒揚，故不再適用。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "750530",
+            "立法紀錄": "75卷44期1946號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc8c6c6c7c881c8cacfcbcbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cececfcfc5cdcdd2cbcf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "751015",
+            "立法紀錄": "76卷8期2015號 58-66頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc8c6c6c7c881c8c9cfcfc7cfcfc4cfcfcac7c4cfcfc9c9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "751022",
+            "立法紀錄": "76卷9期2016號 2-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc8c6c6c7c881c8c9cfcfc6cfcfc4cfcfcfcdc4cfcfcfca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "751114",
+            "立法紀錄": "75卷92期1994號 8-23頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc8c6c6c7c881c8cacfc6cdcfcfc4cfcfcfc7c4cfcfcdcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c7cfcacfcfc5c9c6c9d2c8cfc7"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "751118",
+            "立法紀錄": "75卷93期1995號 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc8c6c6c7c881c8cacfc6cccfcfc4cfcfcfc9c4cfcfcfc9",
+            "關係文書": []
         }
     ]
 }
