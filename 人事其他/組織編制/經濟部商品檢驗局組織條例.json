@@ -1,11 +1,11 @@
 {
     "title": "經濟部商品檢驗局組織條例",
     "versions": [
-        "中華民國88年11月30日廢止",
-        "中華民國88年12月15日公布"
+        "中華民國60年4月30日制定",
+        "中華民國60年5月11日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -76,38 +76,114 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　一、經濟部商品檢驗局自民國五十六年成立至今已逾三十年；隨經濟之發展，世界各國對商品品質要求之提高，已非三十年前成立之商品檢驗局組織架構所能適應。\n　　二、商品檢驗局所掌理之業務與經濟部中央標準局掌理之標準、度量衡業務息息相關，將標準、度量衡、檢驗與品質保證業務予以整合，由單一機構掌理，可使事權統一，因此，爰將商品檢驗局與中央標準局掌理之標準、度政業務整合，成立新機關，並定名為「經濟部標準檢驗局」。\n　　三、經濟部標準檢驗局組織條例於八十七年三讀通過，為配合新機關之設立，經濟部商品檢驗局組織條例已無存在之必要，爰予廢止。",
+    "law_reasons": {
+        "第一條": "　　明定本條例制定之法源依據。",
+        "第二條": "　　明定本局之掌理事項。",
+        "第三條": "　　明定本局之組織架構設三組及檢驗處，分別掌理有關事項。",
+        "第四條": "　　明定秘書室之設置及職掌。",
+        "第五條": "　　明定局長、副局長之人數、職等及職掌。",
+        "第六條": "　　明定本局人員編制之職稱、員額及職等。",
+        "第七條": "　　明定本局人事室、會計室之編制及職掌。",
+        "第八條": "　　明定本局各職稱人員進用之職系，依公務職位分類法及職系說明書之規定辦理。",
+        "第九條": "　　明定本局在農工產品產銷地區及重要港口、機場，得設置檢驗分局或檢驗所，其組織通則另定之。",
+        "第十條": "　　明定本局辦事細則之擬訂及核定程序。",
+        "第十一條": "　　明定本條例施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881001",
-            "立法紀錄": "88卷42期3042號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcace81c7c7cbcdcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "590327",
+            "立法紀錄": "59卷22期0號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81cac6cbcacdcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5cacaccd2cacac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5cdcbcbd2cdcbc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881101",
-            "立法紀錄": "88卷47期3047號下冊 1-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcace81c7c7cbc8cfccc4cfcfcfcec4cfcfccc9",
+            "會議日期": "591102",
+            "立法紀錄": "59卷95期0號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81cac6cbc9c6cacfcfcfcdc4cfcfcfcec4cfcfcfce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "591118",
+            "立法紀錄": "60卷1期0號 1-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc9cfcecfcfcfcdc4cfcfcfcec4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "591125",
+            "立法紀錄": "60卷13期367號 13-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cecccfcfcfcdc4cfcfceccc4cfcfcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "591202",
+            "立法紀錄": "60卷14期368號 20-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cecbcfcfcfcdc4cfcfcdcfc4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "591209",
+            "立法紀錄": "60卷15期369號 11-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cecacfcfcfcdc4cfcfcecec4cfcfcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "591219",
+            "立法紀錄": "60卷16期369號 19-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cec9cfcfcfcdc4cfcfcec6c4cfcfcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "600406",
+            "立法紀錄": "60卷24期378號 17-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cdcbcfcfcfcec4cfcfcec8c4cfcfcccd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcecfcfc5c6cdced2c6cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "600406",
+            "立法紀錄": "60卷24期378號 32-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cdcbcfcfcfcec4cfcfcccdc4cfcfccca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "600416",
+            "立法紀錄": "60卷27期381號 4-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cdc8cfcfcfcec4cfcfcfcbc4cfcfcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "600427",
+            "立法紀錄": "60卷30期384號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cccfcfcfcfcec4cfcfcecfc4cfcfcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 120-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcace81c7c7cacdcfcec4cfcecdcfc4cfcecdcc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc7cfcdc5c8c6c6d2c7cfc9"
-                ]
-            ]
+            "會議日期": "600430",
+            "立法紀錄": "60卷31期385號 22-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6cb81c9cfcbc8cccecfcfcfcec4cfcfcdcdc4cfcfcdcb",
+            "關係文書": []
         }
     ]
 }
