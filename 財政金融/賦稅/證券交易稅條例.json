@@ -1,8 +1,8 @@
 {
     "title": "證券交易稅條例",
     "versions": [
-        "中華民國78年12月28日修正",
-        "中華民國78年12月30日公布"
+        "中華民國82年1月16日修正",
+        "中華民國82年1月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,7 +18,7 @@
         {
             "note": "(課徵稅率)",
             "rule_no": "第二條",
-            "content": "　　證券交易稅向出賣有價證券人按每次交易成交價格依左列稅率課徵之：\n　　一、公司發行之股票及表明股票權利之證書或憑證徵千分之六。\n　　二、公司債及其他經政府核准之有價證券徵千分之一。",
+            "content": "　　證券交易稅向出賣有價證券人按每次交易成交價格依左列稅率課徵之：\n　　一、公司發行之股票及表明股票權利之證書或憑證徵千分之三。\n　　二、公司債及其他經政府核准之有價證券徵千分之一。",
             "relates": {}
         },
         {
@@ -107,87 +107,53 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、本條序文酌作文字修正。\n　　二、配合證券交易所得免課所得稅，修正證券交易稅稅率，股票為千分之六，公司債及其他經政府核准之有價證券為千分之一。\n　　三、表明股票權利之證書或憑證，如新股認購權利證書、新股權利證書及價款繳納憑證或表明其權利之證書等，與股票性質相同，應與股票適用相同之稅率，爰參照證券交易法第六條之規定，予以明定，以杜爭議。",
-        "第八條": "　　代徵獎金配合證券交易稅稅率調整，修正為按代徵稅額給予千分之一之獎金，並增列但書規定每一代徵人每年以八百萬元（折合新臺幣二千四百萬元）為限，以符實際。",
-        "第九條": "　　原條文第二項之怠報金過低，無法達嚇阻之效果，故增加為三倍。"
+        "第二條": "　　將第一款之稅率由千分之六降為千分之三以刺激股市蓬勃發展。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "781208",
-            "立法紀錄": "78卷98期2314號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c7cfc6c7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "811015",
+            "立法紀錄": "81卷65期2593號 17-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cecfc9cacfcfc4cfcfcec8c4cfcfcec6",
+            "主提案": "吳勇雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcecccfcfc5ccc7d2ccc6"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcecccfcfc5c8cfd2c8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdc9cfcfc5ccc8cfd2ccc8ce"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "781208",
-            "立法紀錄": "78卷98期2314號 11-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c7cfc6c7cfcfc4cfcfcecec4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "781228",
-            "立法紀錄": "78卷104期2320號 45-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c7cecfcbcfcfc4cfcfcbcac4cfcfcbca",
-            "關係文書": []
-        },
-        {
             "進度": "委員會審查",
-            "會議日期": "781213",
-            "立法紀錄": "79卷44期2364號 310-332頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c6cfcbcbcfcfc4cfcccecfc4cfcccccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "781216",
-            "立法紀錄": "79卷51期2371號 279-295頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c6cfcacecfcfc4cfcdc8c6c4cfcdc6ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "781218",
-            "立法紀錄": "79卷55期2375號 209-216頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c6cfcacacfcfc4cfcdcfc6c4cfcdcec9",
+            "會議日期": "811028",
+            "立法紀錄": "81卷69期2597號下冊 418-452頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cecfc9c6cfccc4cfcbcec7c4cfcbcacd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "781228",
-            "立法紀錄": "78卷104期2320號 25-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c7cecfcbcfcfc4cfcfcdcac4cfcfcccf",
+            "會議日期": "820116",
+            "立法紀錄": "82卷4期2603號中冊 280-285頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cdcfcbcfcdc4cfcdc7cfc4cfcdc7ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcec9cfcfc5cacac9d2cac9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcec9cfcdc5cec9c6d2cec8ca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "781228",
-            "立法紀錄": "78卷104期2320號 30-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c7cecfcbcfcfc4cfcfcccfc4cfcfcbca",
+            "會議日期": "820116",
+            "立法紀錄": "82卷4期2603號中冊 285-293頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cdcfcbcfcdc4cfcdc7cac4cfcdc6cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "781228",
-            "立法紀錄": "78卷104期2320號 46-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c7c781c8c7cecfcbcfcfc4cfcfcbc9c4cfcfcbc9",
+            "會議日期": "820116",
+            "立法紀錄": "82卷4期2603號中冊 293-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cdcfcbcfcdc4cfcdc6ccc4cfcdc6c7",
             "關係文書": []
         }
     ]
