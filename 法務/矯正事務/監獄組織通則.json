@@ -1,8 +1,8 @@
 {
     "title": "監獄組織通則",
     "versions": [
-        "中華民國43年12月14日全文修正",
-        "中華民國43年12月25日公布"
+        "中華民國46年5月17日修正",
+        "中華民國46年5月29日公布"
     ],
     "types": [
         "立法歷程",
@@ -42,7 +42,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　警衛課掌理事項如左：\n　　一、關於監獄之警備及受刑人戒護事項。\n　　二、關於門戶鎖鑰及看守之宿室管理事項。\n　　三、關於看守之勤務分配事項。\n　　四、關於武器、戒具及消防器之使用練習及保管事項。\n　　五、關於飲食、衣類、臥具用品之分給保管事項。\n　　六、關於衛生清潔事務之執行事項。\n　　七、關於作業之督促及作業器械之收發檢查事項。\n　　八、關於受刑人之行狀考察及其記載事項。\n　　九、關於接見發受書信及送入物品之處理事項。\n　　十、關於監房工場之查察及身體搜檢事項。\n　　十一、關於受刑人賞罰之執行事項。\n　　十二、關於受刑人押送及脫逃者追捕事項。",
+            "content": "　　警衛課掌理事項如左：\n　　一、關於監獄之警備及受刑人戒護事項。\n　　二、關於門戶鎖鑰及監內管理員宿舍之管理事項。\n　　三、關於管理員勤務分配及勤務人員之管理事項。\n　　四、關於武器、戒具及消防器之使用練習及保管事項。\n　　五、關於飲食、衣類、臥具用品之分給保管事項。\n　　六、關於衛生清潔事務之執行事項。\n　　七、關於作業之督促及作業器械之收發檢查事項。\n　　八、關於受刑人之行狀考察及其記載事項。\n　　九、關於接見發受書信及送入物品之處理事項。\n　　十、關於監房工場之查察及身體搜檢事項。\n　　十一、關於受刑人賞罰之執行事項。\n　　十二、關於受刑人押送及脫逃者追捕事項。",
             "relates": {}
         },
         {
@@ -54,7 +54,7 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　監獄置典獄長一人，薦任，承監督長官之命，綜理全監事務。\n　　衝要地區之監獄容額，在三千人以上者，其典獄長得為簡任。",
+            "content": "　　監獄置典獄長一人，薦任，承監督長官之命，綜理全監事務。\n　　首都、直轄市、省會所在地或容額在二千人以上之監獄，其典獄長得為簡任。",
             "relates": {}
         },
         {
@@ -72,7 +72,7 @@
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　監獄置主任教誨師一人，教誨師一人至五人，掌理教化事宜。醫師一人至五人，藥劑師或藥劑生一人至三人，掌理醫療事宜。\n　　監獄及分監得酌用作業導師二人至六人，專任指導作業事務並得酌用雇員五人至十人。",
+            "content": "　　監獄置主任教誨師一人，教誨師一人至九人，掌理教化事宜，醫師一人至五人，藥劑師或藥劑生一人至三人，掌理醫療事宜，教誨師、醫師均聘任。\n　　監獄及分監得酌用作業導師二人至十人，專任指導作業事務，並得酌用雇員五人至十人。",
             "relates": {}
         },
         {
@@ -114,13 +114,13 @@
         {
             "note": "",
             "rule_no": "第十八條",
-            "content": "　　監獄及分監酌置主任管理員，並酌用管理員，均為委任，專任警備戒護事務，其名額由典獄長擬請監督機關核定，轉報司法行政部備案。\n　　女監之主任管理員及管理員，以婦女充之。",
+            "content": "　　監獄及分監酌置主管理員，並酌用管理員，均委任，專任警備戒護事務，其名額由典獄長擬請監督機關核定，轉報司法行政部備案。\n　　女監之主任管理員及管理員，以婦女充之。\n　　管理員獎懲辦法，由司法行政部定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　監獄置主計員一人、人事管理員一人，分別掌理會計、歲計、統計、及人事管理事務，受典獄長之指揮監督，並分別依法對主管機關負責。\n　　主計人事管理所需助理人員，由典獄長與各該主管機關，就本條例所定課員或股員雇員名額中會商決定之。\n　　分監得準用前項規定，設置佐理人員。",
+            "content": "　　監獄置會計員、統計員、人事管理員各一人，均委任，其事務繁重者，得置會計主任，委任或薦任，依法律之規定，分別掌理會計、歲計、統計及人事事項。\n　　會計統計人事管理所需助理人員，由典獄長與各該主管機關，就本條例所定課員或股員雇員名額中，會商決定之。\n　　分監得準用前項規定，設置佐理人員。",
             "relates": {}
         },
         {
@@ -139,48 +139,54 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430618",
-            "立法紀錄": "43卷13期號6冊 40-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfcc81cbcccecccfc9c4cfcfcbcfc4cfcfcbcf",
+            "會議日期": "451204",
+            "立法紀錄": "46卷18期號5冊 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfca81cbc9cec7cfcac4cfcfc6cec4cfcfc6ce",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5c9cac7d2c9c6c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cdcdcbd2cdccc6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "451228",
+            "立法紀錄": "46卷18期號6冊 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfca81cbc9cec7cfc9c4cfcfcfcdc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c8ccc6d2c8cbca"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 47-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfcc81cbcbcecbcfc9c4cfcfcbc8c4cfcfc7c8",
+            "會議日期": "460517",
+            "立法紀錄": "46卷19期號7冊 4-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfca81cbc9cec6cfc8c4cfcfcfcbc4cfcfcecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcdcfcfc5c9cfcad2c9cccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c7c7cad2c7c6ce"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 142-143頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfcc81cbcbcecbcfc9c4cfcecbcdc4cfcecbcc",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 157-162頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfcc81cbcbcecbcfc9c4cfcecac8c4cfcec9cd",
+            "會議日期": "460517",
+            "立法紀錄": "46卷19期號7冊 43-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfca81cbc9cec6cfc8c4cfcfcbccc4cfcfcbc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 179-181頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfcc81cbcbcecbcfc9c4cfcec8c6c4cfcec7ce",
+            "會議日期": "460517",
+            "立法紀錄": "46卷19期號7冊 48-49頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfca81cbc9cec6cfc8c4cfcfcbc7c4cfcfcbc6",
             "關係文書": []
         }
     ]
