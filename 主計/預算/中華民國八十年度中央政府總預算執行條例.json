@@ -1,10 +1,12 @@
 {
     "title": "中華民國八十年度中央政府總預算執行條例",
     "versions": [
-        "中華民國85年10月16日期滿廢止"
+        "中華民國79年7月17日制定",
+        "中華民國79年8月3日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -92,5 +94,52 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "790316",
+            "立法紀錄": "79卷22期2342號 151-151頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcac781c8c6cfcdcdcfcfc4cfcecacec4cfcecace",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cacfcacfcfc5c9cbc7d2c9cbc6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "790528",
+            "立法紀錄": "80卷35期2459號 210-227頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcac781c7cfcfcccacfcfc4cfcdcecfc4cfcdcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "790605",
+            "立法紀錄": "79卷45期2365號 43-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcac781c8c6cfcbcacfcfc4cfcfcbccc4cfcfcac7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cacccacfcfc5cbcad2cbc9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "790703",
+            "立法紀錄": "79卷53期2373號 51-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcac781c8c6cfcacccfcfc4cfcfcacec4cfcfcac9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "790717",
+            "立法紀錄": "79卷57期2377號上冊 147-157頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcac781c8c6cfcac8cfcec4cfcecbc8c4cfcecac8",
+            "關係文書": []
+        }
+    ]
 }
