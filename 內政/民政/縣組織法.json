@@ -1,11 +1,12 @@
 {
     "title": "縣組織法",
     "versions": [
-        "中華民國19年6月17日修正",
-        "中華民國19年7月7日公布"
+        "中華民國89年3月21日廢止",
+        "中華民國89年4月5日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -353,6 +354,55 @@
             "rule_no": "第五十三條",
             "content": "　　本法施行日期，另以命令行之。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　為因應地方制度法制化，配合省縣自治法及直轄市自治法之公布施行，本法已不符事實需要，爰予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "841006",
+            "立法紀錄": "84卷51期2808號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc9ce81c7cbcacecfcfc4cfcfcfccc4cfcfcfcc",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfcbcfcec5cecccad2ceccc9"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfcbcfcec5cecaced2cecac7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "841213",
+            "立法紀錄": "84卷63期2820號下冊 103-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc9ce81c7cbc9cccfccc4cfcecfccc4cfcecacf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "890321",
+            "立法紀錄": "89卷12期3071號上冊 195-210頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc9ce81c7c6cecdcfcec4cfcec6cac4cfcdcecf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c8c7ccd2c8c7c9"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c7cfcfd2c7cfc9"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "890321",
+            "立法紀錄": "89卷12期3071號上冊 210-210頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc9ce81c7c6cecdcfcec4cfcdcecfc4cfcdcecf",
+            "關係文書": []
         }
     ]
 }
