@@ -1,12 +1,12 @@
 {
     "title": "經濟部組織法",
     "versions": [
-        "中華民國70年1月6日全文修正",
-        "中華民國70年1月21日公布"
+        "中華民國73年7月13日修正",
+        "中華民國73年7月20日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　經濟部設農業局，掌理農、林、漁、牧、糧食政策、法規之擬訂及規劃、管理、統籌、協調與發展等事務；其組織以法律定之。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -168,13 +168,13 @@
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　經濟部設會計處及統計處，置會計長及統計長各一人，職位均列等十至第十二職等；依法律規定分別辦理歲計、會計及統計事項。\n　　會計處及統計處所需工作人員，應就本法所定員額內派充之。",
+            "content": "　　經濟部設會計處及統計處，置會計長及統計長各一人，職位均列第十至第十二職等；置副會計長及副統計長各一人，職位均列第十或第十一職等；依法律規定分別辦理歲計、會計及統計事項。\n　　會計處及統計處所需工作人員，應就本法所定員額內派充之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十八條",
-            "content": "　　第二十四條至第二十七條所定各職稱人員，其職位之職系依公務職位分類法及職系說明書就經建行政、工業行政、工業工程、商業行政、農業行政、田糧行政、林業行政、漁業行政、獸醫、礦業行政、地質、水利行政、水利工程、法制、圖書管理、民防、公共關係、出納、文書、一般行政管理、事務管理、會計、統計、人事行政、職位分類技術、打字及其他有關職系選用之。",
+            "content": "　　第二十四條至第二十七條所定各職稱人員，其職位之職系依公務職位分類法及職系說明書就經建行政、工業行政、工業工程、商業行政、礦業行政、地質、水利行政、水利工程、法制、圖書管理、民防、公共關係、出納、文書、一般行政管理、事務管理、會計、統計、人事行政、職位分類技術、打字及其他有關職系選用之。",
             "relates": {}
         },
         {
@@ -226,58 +226,70 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第五條": "　　現行組織法規定該部設農業局，因業務移轉新成立之行政院農業委員會，農業局予以裁併，修正刪除本條文。",
+        "第二十七條": "　　依主計人員設置管理條例第四條規定中央各機關會計處、統計處得設置副會計長、副統計長，爰予修正增置副會計長、副統計長各一人。",
+        "第二十八條": "　　該部職位選用職系，因農業業務改隸後其適用農業之職系已無需要，爰予修正刪除。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "691205",
-            "立法紀錄": "69卷98期1374號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7c981c9c6c9c9c6c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "720429",
+            "立法紀錄": "72卷35期1624號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7c881c8cdc8cecccacfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5cdcecad2cdcccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfcbcfcfc5c7c8c7d2c7c7ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691213",
-            "立法紀錄": "70卷43期1424號 138-147頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7c981c8cfc9c8cbcccfcfc4cfceccc7c4cfcecbc8",
+            "會議日期": "730606",
+            "立法紀錄": "73卷93期1787號 111-119頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac7c881c8cccfc6cccfcfc4cfcececec4cfcecec6",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691217",
-            "立法紀錄": "70卷61期1442號 26-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7c981c8cfc9c8c9cecfcfc4cfcfcdc9c4cfcfcbc6",
+            "會議日期": "730620",
+            "立法紀錄": "74卷1期1799號 24-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac7c881c8cbcfcfcecfcfc4cfcfcdcbc4cfcfcdc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "691230",
-            "立法紀錄": "69卷105期1381號 53-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7c981c9c6c9c9cecfcacfcfc4cfcfcaccc4cfcfc7ce",
+            "會議日期": "730710",
+            "立法紀錄": "73卷55期1749號 9-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac7c881c8cccfcacacfcfc4cfcfcfc6c4cfcfceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5cdcdced2cdcbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cccfc8cfcfc5c6c9c7d2c6c8cc"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "691230",
-            "立法紀錄": "69卷105期1381號 81-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7c981c9c6c9c9cecfcacfcfc4cfcfc7cec4cfcfc7c9",
+            "會議日期": "730710",
+            "立法紀錄": "73卷55期1749號 15-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac7c881c8cccfcacacfcfc4cfcfcecac4cfcfcdcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "730713",
+            "立法紀錄": "73卷56期1750號 91-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac7c881c8cccfcac9cfcfc4cfcfc6cec4cfcfc6cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "700106",
-            "立法紀錄": "70卷2期1383號 12-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7c981c8cfc9c9cfcdcfcfc4cfcfcecdc4cfcfcec8",
+            "會議日期": "730713",
+            "立法紀錄": "73卷56期1750號 92-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac7c881c8cccfcac9cfcfc4cfcfc6cdc4cfcfc6cd",
             "關係文書": []
         }
     ]
