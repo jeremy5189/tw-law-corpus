@@ -1,12 +1,12 @@
 {
     "title": "駐外外交領事人員任用條例",
     "versions": [
-        "中華民國55年1月4日修正",
-        "中華民國55年1月13日公布"
+        "中華民國67年1月10日修正",
+        "中華民國67年1月19日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,7 +18,7 @@
         {
             "note": "(駐外外交領事人員之定義)",
             "rule_no": "第二條",
-            "content": "　　本條例所稱之駐外外交領事人員如左：\n　　一、公使。\n　　二、參事。\n　　三、一等秘書、二等秘書、三等秘書。\n　　四、總領事。\n　　五、領事館領事。\n　　六、總領事館領事。\n　　七、副領事。\n　　公使、參事、總領事，簡任。一等秘書、二等秘書、三等秘書、領事館領事、總領事館領事、副領事，薦任。",
+            "content": "　　本條例所稱之駐外外交領事人員如左：\n　　一、公使。\n　　二、參事。\n　　三、一等秘書、二等秘書、三等秘書。\n　　四、總領事。\n　　五、副總領事。\n　　六、領事館領事。\n　　七、總領事館領事。\n　　八、副領事。\n　　公使、參事、總領事、副總領事，簡任。一等秘書、二等秘書、三等秘書、領事館領事、總領事館領事、副領事、薦任。",
             "relates": {}
         },
         {
@@ -60,7 +60,7 @@
         {
             "note": "(晉升之規定)",
             "rule_no": "第九條",
-            "content": "　　駐外外交領事人員任同一職務滿三年以上，成績優良者，依左列之規定晉升：\n　　一、三等秘書、副領事，三年考績平均分數在一等以上者，應升任二等秘書或總領事館領事。\n　　二、二等秘書、總領事館領事，三年考績平均分數在一等以上者，應升任一等秘書或領事館領事。\n　　三、一等秘書、領事館領事，三年考績取得升等任用資格者，得升任參事或總領事。\n　　四、參事、總領事，三年考績平均分數在一等以上者，得升任公使。\n　　前項應晉升人員無缺可升時，應先予存記。其具有第三條第一款資格者，並應優先晉升。",
+            "content": "　　駐外外交領事人員任同一職務滿三年以上，成績優良者，依左列之規定晉升：\n　　一、三等秘書、副領事，三年考績平均分數在一等以上者，應升任二等秘書或總領事館領事。\n　　二、二等秘書、總領事館領事，三年考績平均分數在一等以上者，應升任一等秘書或領事館領事。\n　　三、一等祕書、領事館領事，三年考績取得升等任用資格者，得升任參事、總領事或副總領事。\n　　四、參事、總領事、副總領事，三年考績平均分數在一等以上者，得升任公使。\n　　前項應晉升人員無缺可升時，應先予存記，其具有第三條第一款資格者，並應優先晉升。",
             "relates": {}
         },
         {
@@ -94,51 +94,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　為配合駐外使領館組織條例增置副總領事一職，將駐外外交領事人員任用條例原第二條第一項增列第五款「副總領事」，原第五款、第六款及第七款，依次遞改為第六款、第七款及第八款，並於同條第二項前段「公使、參事、總領事」之下，增列「副總領事」，其官等同列為簡任，俾有適當資階人員，以襄助總領事處理公務。",
+        "第九條": "　　為配合駐外使領館組織條例增設副總領事一職，為明定副總領事之敘任及晉升，修正原第九條第一項第三款及第四款。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "540416",
-            "立法紀錄": "54卷35期號6冊 62-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccd81cacbcccacfc9cfcfc4cfcfc9cdc4cfcfc9cd",
-            "主提案": "行政院",
+            "會議日期": "661202",
+            "立法紀錄": "66卷97期1060號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccc81c9c9c9cfc6c8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院、考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcdcfcfc5ccc9c7d2ccc8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5ccccd2ccc7"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550104",
-            "立法紀錄": "54卷36期號8冊 22-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccd81cacaccc9cfc7cfcfc4cfcfcdcdc4cfcfcdc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcacfcfc5caccced2caccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550104",
-            "立法紀錄": "54卷36期號8冊 51-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccd81cacaccc9cfc7cfcfc4cfcfcacec4cfcfcacb",
+            "進度": "委員會審查",
+            "會議日期": "661228",
+            "立法紀錄": "67卷13期1081號 9-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccc81c9c8c9cfcecccfcfc4cfcfcfc6c4cfcfcece",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "670106",
+            "立法紀錄": "67卷2期1070號 2-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccc81c9c8c9cfcfcdcfcfc4cfcfcfcdc4cfcfcfc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5cacec9d2cacec6"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "550104",
-            "立法紀錄": "54卷36期號8冊 54-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccd81cacaccc9cfc7cfcfc4cfcfcacbc4cfcfcacb",
+            "會議日期": "670106",
+            "立法紀錄": "67卷2期1070號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccc81c9c8c9cfcfcdcfcfc4cfcfcfc8c4cfcfcfc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "550104",
-            "立法紀錄": "54卷36期號8冊 55-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccd81cacaccc9cfc7cfcfc4cfcfcacac4cfcfcaca",
+            "會議日期": "670110",
+            "立法紀錄": "67卷3期1071號 19-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cccc81c9c8c9cfcfcccfcfc4cfcfcec6c4cfcfcec6",
             "關係文書": []
         }
     ]
