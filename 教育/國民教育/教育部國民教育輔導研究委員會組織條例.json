@@ -1,11 +1,12 @@
 {
     "title": "教育部國民教育輔導研究委員會組織條例",
     "versions": [
-        "中華民國34年9月29日制定",
-        "中華民國34年10月17日公布"
+        "中華民國62年5月25日廢止",
+        "中華民國62年6月7日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -55,6 +56,37 @@
             "rule_no": "第八條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例係民國三十四年公布，而有關本條例之委員會於政府遷臺後，並未恢復設置，致本條例於實際上已不適用，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "620125",
+            "立法紀錄": "62卷7期563號 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccceca81c9cdcacfcfc8cfcfc4cfcfcccec4cfcfccce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620319",
+            "立法紀錄": "62卷41期597號 32-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccceca81c9cdcacecbcecfcfcfcdc4cfcfcccdc4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620503",
+            "立法紀錄": "62卷53期609號 22-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccceca81c9cdcacecacccfcfcfcdc4cfcfcdcdc4cfcfcdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620525",
+            "立法紀錄": "62卷39期595號 27-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccceca81c9cdcaceccc6cfcfcfcec4cfcfcdc8c4cfcfcdc6",
+            "關係文書": []
         }
     ]
 }
