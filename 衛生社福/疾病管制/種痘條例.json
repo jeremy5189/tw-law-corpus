@@ -1,12 +1,11 @@
 {
     "title": "種痘條例",
     "versions": [
-        "中華民國70年12月29日廢止",
-        "中華民國71年1月6日公布"
+        "中華民國33年2月29日制定",
+        "中華民國33年3月13日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -48,7 +47,7 @@
         {
             "note": "(罰鍰)",
             "rule_no": "第七條",
-            "content": "　　非因疾病或其他正當理由，未於規定時期種痘者，除自請補種外，縣市衛生機關得強迫補種，其不補種者，得對其父母或監護人處以三十圓以下罰鍰。",
+            "content": "　　非因疾病或其他正當理由，未於規定時期種痘者，除自請補種外，縣市衛生機關得強迫補種，其不補種者，得對其父母或監護人處三十元以下罰鍰。",
             "relates": {}
         },
         {
@@ -68,35 +67,6 @@
             "rule_no": "第十條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　因天花已絕跡，民國三十三年公布之種痘條例，已無繼續施行之必要，故予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "700922",
-            "立法紀錄": "70卷76期1457號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac7c7cbcfcccecfc681c8cfc9c7c8c9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcecfcfc5c8cbcbd2c8cbc8"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "701219",
-            "立法紀錄": "71卷14期1499號 23-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac7c7cbcfcccecfc681c8cec9c7cecbcfcfc4cfcfcdccc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "701229",
-            "立法紀錄": "70卷104期1485號 31-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac7c7cbcfcccecfc681c8cfc9c7cecfcbcfcfc4cfcfcccec4cfcfcccd",
-            "關係文書": []
         }
     ]
 }
