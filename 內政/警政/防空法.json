@@ -1,11 +1,12 @@
 {
     "title": "防空法",
     "versions": [
-        "中華民國37年5月1日全文修正",
-        "中華民國37年5月12日公布"
+        "中華民國94年1月7日廢止",
+        "中華民國94年1月26日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -97,6 +98,40 @@
             "rule_no": "第十五條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「防空法」自民國二十六年八月間國民政府制定公布迄今，僅於三十七年五月間修正一次，其主要目的係為防敵機空襲，減輕空襲損害，維護人民之生命財產等。鑑於有關空襲防護及編組、供給物力之義務、徵用徵收之損失補償、命令實施避難與交通燈火及音響之管制、附設訓練與演與之實施等規定，均不符現況，且已為「民防法」與「全民防衛動員準備法」等相關法規所含括，爰依中央法規標準法第二十一條第四款之規定，予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "921226",
+            "立法紀錄": "93卷2期3336號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cccdcd81c6cccfcdcfcec4cfcfcfcbc4cfcfcfcb",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfcfc5cec7c8d2cec6ce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "940103",
+            "立法紀錄": "94卷6期3388號四冊 151-164頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cccdcd81c6cbcfc9cfcbc4cfcecacec4cfcec9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "940107",
+            "立法紀錄": "94卷5期3387號上冊 89-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cccdcd81c6cbcfcacfcec4cfcfc7c6c4cfcfc6ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cececfcdc5c7cad2c6cf"
+                ]
+            ]
         }
     ]
 }
