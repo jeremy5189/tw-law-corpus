@@ -1,11 +1,12 @@
 {
     "title": "水陸地圖審查條例",
     "versions": [
-        "中華民國39年12月22日修正",
-        "中華民國39年12月28日公布"
+        "中華民國93年4月23日廢止",
+        "中華民國93年5月5日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -67,6 +68,40 @@
             "rule_no": "第十條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「水陸地圖審查條例」自三十六年制定公布施行迄今已逾五十年，隨著科技進步，地形影像已可由遙感探測取得，地圖資料多可自由流通，且資訊傳播無遠弗屆，時空背景迥異，地圖審查制度已不符時宜，該條例當無存在之必要，爰予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "921031",
+            "立法紀錄": "92卷47期3321號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cbc8c681c6cdcbc8cfcec4cfcfcfcbc4cfcfcfcb",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc7cfcec5cdc9ccd2cdc9c6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "930415",
+            "立法紀錄": "93卷24期3358號上冊 169-188頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cbc8c681c6cccdcbcfcec4cfcec9c6c4cfcec7c7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "930423",
+            "立法紀錄": "93卷23期3357號上冊 51-55頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cbc8c681c6cccdcccfcec4cfcfcacec4cfcfcaca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecfcfcdc5cecec8d2cecdcd"
+                ]
+            ]
         }
     ]
 }
