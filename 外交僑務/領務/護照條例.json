@@ -1,8 +1,8 @@
 {
     "title": "護照條例",
     "versions": [
-        "中華民國56年6月30日全文修正",
-        "中華民國56年7月10日公布"
+        "中華民國78年6月9日全文修正",
+        "中華民國78年6月23日公布"
     ],
     "types": [
         "立法歷程",
@@ -10,9 +10,9 @@
     ],
     "law_data": [
         {
-            "note": "(製發之依據)",
+            "note": "(發給之依據)",
             "rule_no": "第一條",
-            "content": "　　中華民國護照之製發，依本條例辦理。",
+            "content": "　　中華民國護照之發給，依本條例辦理。",
             "relates": {}
         },
         {
@@ -28,87 +28,87 @@
             "relates": {}
         },
         {
-            "note": "(簽發機關)",
+            "note": "(發給機關)",
             "rule_no": "第四條",
-            "content": "　　外交護照及公務護照由外交部簽發；普通護照由外交部或駐外使領館或外交部指定機關簽發。",
+            "content": "　　外交護照及公務護照由外交部發給；普通護照由外交部、駐外使領館或外交部授權機構發給。",
             "relates": {}
         },
         {
             "note": "(外交護照適用對象)",
             "rule_no": "第五條",
-            "content": "　　外交護照適用於左列人員：\n　　一、外交、領事人員及其眷屬，使館長之隨從二人，領館長之隨從一人。\n　　二、中央政府派往國外負有外交性質任務之文武官員及其眷屬。\n　　三、外交公文專差。\n　　前項第二款人員經核准攜帶之隨從，亦適用外交護照。",
+            "content": "　　外交護照適用於左列人員：\n　　一、外交、領事人員與其眷屬及外交部駐外機構主管之隨從。\n　　二、中央政府派往國外負有外交性質任務之人員與其眷屬及經核准攜帶之隨從。\n　　三、外交公文專差。",
             "relates": {}
         },
         {
             "note": "(公務護照適用對象)",
             "rule_no": "第六條",
-            "content": "　　公務護照適用於左列人員：\n　　一、各級政府機關因公派駐國外之人員及其眷屬。\n　　二、各級政府機關及省（市）民意機關因公派往國外之人員。\n　　三、國民大會代表、立法委員、監察委員自中央政府所在地出國考察或調查者及其配偶。\n　　四、中華民國所承認之國際組織之中國籍職員及其眷屬。\n　　本條及前條所稱眷屬，以配偶、父母及未成年子女為限。",
+            "content": "　　公務護照適用於左列人員：\n　　一、各級政府機關因公派駐國外之人員及其眷屬。\n　　二、各級政府機關與省（市）民意機關因公派往國外之人員及其配偶。\n　　三、國民大會代表、立法委員、監察委員自中央政府所在地出國考察或調查者及其配偶。\n　　四、政府間國際組織之中華民國籍職員及其眷屬。\n　　本條及前條所稱眷屬，以配偶、父母及未成年子女為限。",
             "relates": {}
         },
         {
             "note": "(普通護照適用對象)",
             "rule_no": "第七條",
-            "content": "　　普通護照適用於第五條、第六條規定以外之中華民國國民。",
+            "content": "　　普通護照適用於左列人員：\n　　一、第五條、第六條規定以外之中華民國國民。\n　　二、第五條、第六條規定人員因故須持用普通護照者。",
             "relates": {}
         },
         {
-            "note": "(簽發機關)",
+            "note": "(役齡男子護照之核發)",
             "rule_no": "第八條",
-            "content": "　　外交護照或公務護照，其申請人如係外交部派遣者，得由外交部逕行簽發。但應於每半年將其名單彙報行政院備查。其他負有外交或公務性質任務之人員，經行政院核准後，令知外交部簽發之。\n　　凡普通護照之申請，其由國內前往外國者，應先就其申請原因或事由，向主管機關申請核准後核發；其由一外國前往另一外國或回國者，由外交部或駐外使領館或外交部指定機關核發。",
+            "content": "　　中華民國國民年滿十六歲當年一月一日起至屆滿三十五歲當年十二月三十一日止，尚未履行兵役義務之男子申請護照，應由中央有關主管機關核准後核發。",
             "relates": {}
         },
         {
-            "note": "(護照交驗)",
+            "note": "(扣留或撤銷護照)",
             "rule_no": "第九條",
-            "content": "　　持照人出國或由一外國前往另一外國，應於到達目的後，儘速向當地或附近之中華民國使領館交驗護照，免費登記。",
+            "content": "　　持照人有左列情形之一者，外交部、駐外使領館或外交部授權機構得扣留或撤銷其護照並依規定處理：\n　　一、護照經查明係不法取得或經變造者。\n　　二、涉嫌犯罪經司法院或法務部通知外交部者。\n　　三、有事實足認為有妨害國家安全或社會安定之重大嫌疑經司法機關通緝並通知外交部者。",
+            "relates": {}
+        },
+        {
+            "note": "(持用護照之限制)",
+            "rule_no": "第十條",
+            "content": "　　持照人不得與他人合領一本護照；非因特殊理由，經外交部核准者，亦不得同時持用超過一本之護照。",
             "relates": {}
         },
         {
             "note": "(護照之效期)",
-            "rule_no": "第十條",
-            "content": "　　外交護照及公務護照之效期以一年為限，普通護照以三年為限；效期屆滿時，得按規定申請延長之。",
+            "rule_no": "第十一條",
+            "content": "　　外交護照及公務護照之效期以三年為限，普通護照以六年為限，效期屆滿時，得按規定申請延長之。但護照經持用滿十年者，應申請換發新護照。",
             "relates": {}
         },
         {
             "note": "(護照所載事項之加簽)",
-            "rule_no": "第十一條",
+            "rule_no": "第十二條",
             "content": "　　護照上所載事項，於必要時，得依規定申請加簽修正之。",
             "relates": {}
         },
         {
             "note": "(護照之補發或換發)",
-            "rule_no": "第十二條",
-            "content": "　　持照人所領護照，如經遺失或破損不堪使用者，得依規定申請補發或換發新護照。但其效期不得超過原有護照所餘效期。",
-            "relates": {}
-        },
-        {
-            "note": "(繳銷護照)",
             "rule_no": "第十三條",
-            "content": "　　外交護照或公務護照之持照人，於任務完畢後，應即回國，並繳銷其所持之護照。",
+            "content": "　　持照人所領護照，如經遺失或破損不堪使用者，得依規定申請補發或換發新護照。惟其效期不得超過原持護照所餘效期。",
             "relates": {}
         },
         {
-            "note": "(護照核准簽發國家或其屬地之限制)",
+            "note": "(再出國加簽申請)",
             "rule_no": "第十四條",
-            "content": "　　各發照機關，非經外交部核准，不得簽發前往與中華民國無外交關係國家或其屬地之護照。",
+            "content": "　　外交護照或公務護照之持照人回國後，在原持護照有效期間，因公再出國時，得依規定申請再出國加簽後，繼續使用。",
+            "relates": {}
+        },
+        {
+            "note": "(禁止前往特定國家或地區)",
+            "rule_no": "第十五條",
+            "content": "　　為維護國家利益、保障國民安全，必要時得由外交部禁止持照人前往特定國家或地區。",
             "relates": {}
         },
         {
             "note": "(護照之收費標準)",
-            "rule_no": "第十五條",
-            "content": "　　外交護照免費，公務護照及普通護照收費辦法，由外交部訂定，呈報行政院核備。\n　　前項所收護照各費，應依規定期限報繳國庫。",
-            "relates": {}
-        },
-        {
-            "note": "(違法加重處罰)",
             "rule_no": "第十六條",
-            "content": "　　承辦護照人員或其主管，如有違法失職情事，應依法懲處，其涉及刑事者並應加重處罰。",
+            "content": "　　外交護照及公務護照免費。普通護照應徵收護照費；其徵收辦法，由外交部擬訂，報請行政院核備後發布之。\n　　前項所收護照費用，應依規定期限報繳國庫。",
             "relates": {}
         },
         {
             "note": "(施行細則)",
             "rule_no": "第十七條",
-            "content": "　　本條例施行細則，由外交部訂定之。",
+            "content": "　　本條例施行細則，由外交部定之。",
             "relates": {}
         },
         {
@@ -121,55 +121,82 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "550628",
-            "立法紀錄": "55卷37期號12冊 31-31頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcac6c681cacaccc8cecdcfcfc4cfcfcccec4cfcfccce",
+            "會議日期": "771223",
+            "立法紀錄": "77卷103期2214號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c8cecfcccfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc8cfcccfcfc5cecccdd2ceccca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcec6cfcfc5cacbc7d2cacac7"
                 ]
             ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "780505",
+            "立法紀錄": "78卷36期2252號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c7cfccc9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccec7cfcfc5ccccd2ccc9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "780104",
+            "立法紀錄": "78卷65期2281號 38-51頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c7cfc9cacfcfc4cfcfccc7c4cfcfcace",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "780401",
+            "立法紀錄": "79卷24期2344號 192-200頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c6cfcdcbcfcfc4cfcec6cdc4cfcdcfcf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "780515",
+            "立法紀錄": "78卷91期2307號 2-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c7cfc6cecfcfc4cfcfcfcdc4cfcfcfcb",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "560606",
-            "立法紀錄": "56卷2期號6冊 321-323頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcac6c681cac9ccc6cfc9cfcdc4cfcccdcec4cfcccdcc",
+            "會議日期": "780602",
+            "立法紀錄": "78卷44期2260號 102-119頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c7cfcbcbcfcfc4cfcecfcdc4cfcecec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc7cfcdcfcfc5cec6c7d2cdcecf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccdcbcfcfc5cbcfc9d2cbcdce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "560609",
-            "立法紀錄": "56卷3期號6冊 341-359頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcac6c681cac9ccc6cfc9cfccc4cfcccbcec4cfcccac6",
+            "會議日期": "780602",
+            "立法紀錄": "78卷44期2260號 119-122頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c7cfcbcbcfcfc4cfcecec6c4cfcecdcd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "560616",
-            "立法紀錄": "56卷6期號6冊 438-448頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcac6c681cac9ccc6cfc9cfc9c4cfcbccc7c4cfcbcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560627",
-            "立法紀錄": "56卷9期號6冊 575-576頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcac6c681cac9ccc6cfc9cfc6c4cfcac8cac4cfcac8c9",
+            "會議日期": "780606",
+            "立法紀錄": "78卷45期2261號 99-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c7cfcbcacfcfc4cfcfc6c6c4cfcecfcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "560630",
-            "立法紀錄": "56卷1期號7冊 615-618頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcac6c681cac9ccc6cfc8cfcec4cfc9cecac4cfc9cec7",
+            "會議日期": "780609",
+            "立法紀錄": "78卷46期2262號 33-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc9cfcf81c8c7cfcbc9cfcfc4cfcfccccc4cfcfccca",
             "關係文書": []
         }
     ]
