@@ -1,8 +1,8 @@
 {
     "title": "會計師法",
     "versions": [
-        "中華民國72年11月22日修正",
-        "中華民國72年12月5日公布"
+        "中華民國86年4月15日修正",
+        "中華民國86年5月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -312,7 +312,7 @@
         {
             "note": "",
             "rule_no": "第四十七條",
-            "content": "　　凡外國依其法律准許中華民國人民在該國充任會計師者，其人民得依中華民國法律應會計師考試。\n　　前項考試及格，領有會計師證書之外國人，在中華民國執行會計師業務，應經財政部之許可。",
+            "content": "　　外國人得依中華民國法律應會計師考試。\n　　前項考試及格，領有會計師證書之外國人，在中華民國執行會計師業務，應經財政部之許可。",
             "relates": {}
         },
         {
@@ -336,66 +336,52 @@
         {
             "note": "",
             "rule_no": "第五十一條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文第四十七條施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第三條": "　　會計師之主管機關，由經濟部改為財政部省（市）主管機關由建設廳（局）改隸為財政廳（局）。",
-        "第五條": "　　將「經濟部」修正為「財政部」。",
-        "第六條": "　　一、第一項將「經濟部」修正為「財政部」。\n　　二、第二項未修正。",
-        "第十三條": "　　將「經濟部」修正為「財政部」。",
-        "第三十六條": "　　一、第一項未修正。\n　　二、第二項「經濟部」修正為「財政部」。",
-        "第四十一條": "　　本條第一項及第二項所定「經濟部」均修正為「財政部」。",
-        "第四十五條": "　　本條所定「經濟部」修正為「財政部」。",
-        "第四十七條": "　　一、第一項未修正。\n　　二、第二項所定「經濟部」修正為「財政部」。",
-        "第四十八條": "　　一、第一項未修正。\n　　二、第二項所定「經濟部」修正為「財政部」。"
+        "第四十七條": "　　我國加入世界貿易組織後，為配合加入該組織的實際需要，原條文互惠規定有違「服務貿易總協定」第二條最惠國待遇原則，爰將第一項之互惠規定刪除，並作文字修正。",
+        "第五十一條": "　　本次修正係配合加入國際貿易組織所作調整，施行日期宜配合加入該組織之生效日期由行政院定之，爰增列第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "720531",
-            "立法紀錄": "72卷44期1633號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc9cfcf81c8cdc8cecbcbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "851217",
+            "立法紀錄": "85卷68期2890號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfcd81c7cac9c7cfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc9cfcfc5c7cfcbd2c7cfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcdcdcfcfc5cdcecad2cdcec7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "721109",
-            "立法紀錄": "73卷13期1707號 22-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfcf81c8cccfcecccfcfc4cfcfcdcdc4cfcfccce",
+            "會議日期": "860317",
+            "立法紀錄": "86卷10期2902號下冊 317-362頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfcd81c7c9cecfcfccc4cfcccec8c4cfccc9cd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "721122",
-            "立法紀錄": "72卷94期1683號 43-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc9cfcf81c8cdc8cdc6cbcfcfc4cfcfcbccc4cfcfcacf",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 178-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfcd81c7c9cec8cfcec4cfcec8c7c4cfcec7cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cdcfcacfcfc5cbccc9d2cbcbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecccfcfc5cbcec6d2cbcdcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "721122",
-            "立法紀錄": "72卷94期1683號 50-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc9cfcf81c8cdc8cdc6cbcfcfc4cfcfcacfc4cfcfcace",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "721122",
-            "立法紀錄": "72卷94期1683號 51-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc9cfcf81c8cdc8cdc6cbcfcfc4cfcfcacec4cfcfcacd",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 183-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfcd81c7c9cec8cfcec4cfcec7ccc4cfcec7cc",
             "關係文書": []
         }
     ]
