@@ -1,8 +1,8 @@
 {
     "title": "電話電報臨時捐徵收條例",
     "versions": [
-        "中華民國57年6月4日制定",
-        "中華民國57年6月12日公布"
+        "中華民國58年5月13日修正",
+        "中華民國58年5月22日公布"
     ],
     "types": [
         "立法歷程",
@@ -42,28 +42,33 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本條例自中華民國五十七年七月一日施行。施行期間一年。",
+            "content": "　　本條例自中華民國五十八年七月一日施行。施行期間一年。",
             "relates": {}
         }
     ],
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "570412",
-            "立法紀錄": "57卷26期號 2392-2392頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c9c681cac8cbcecdc9cfcfc4cdccc6cdc4cdccc6cd",
+            "會議日期": "580425",
+            "立法紀錄": "58卷30期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cf81cac7cbcccccfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
-            "關係文書": []
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfc9cfcfc5ccc6d2cbce"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "570604",
-            "立法紀錄": "57卷41期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c9c681cac8cbcecbcecfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "580513",
+            "立法紀錄": "58卷35期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cf81cac7cbcccccacfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfc9cfcfc5ceccd2cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfc9cfcfc5c9cfd2c9cd"
                 ]
             ]
         }
