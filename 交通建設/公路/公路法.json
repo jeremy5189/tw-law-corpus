@@ -1,8 +1,8 @@
 {
     "title": "公路法",
     "versions": [
-        "中華民國86年12月30日修正",
-        "中華民國87年1月14日公布"
+        "中華民國88年5月11日修正",
+        "中華民國88年6月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -276,7 +276,7 @@
         {
             "note": "(汽車運輸業客、貨運價之擬訂及核准)",
             "rule_no": "第四十二條",
-            "content": "　　汽車運輸業之客、貨運運價，由汽車運輸業同業公會按汽車運輸業客、貨運運價準則擬訂，報請該管公路主管機關核定，非經核准，不得調整。\n　　前項準則，由交通部定之。",
+            "content": "　　汽車運輸業之客、貨運運價，由汽車運輸業同業公會暨相關之工會按汽車運輸業客、貨運價準則共同擬訂，報請該管公路主管機關核定，非經核准，不得調整。\n　　前項準則，由交通部定之。",
             "relates": {}
         },
         {
@@ -527,41 +527,59 @@
         }
     ],
     "law_reasons": {
-        "第三十九條 之一": "　　一、本條新增。\n　　二、將現行計程車牌照發放政策，由原來行政命令規範，修訂由立法予以明文規定。\n　　三、藉由限量發行牌照政策以抑制計程車無限成長，保障現有執業計程車駕駛員的基本工作權及避免國內交通及社會治安繼續惡化。"
+        "第四十二條": "　　一、現行條文規定計程車費率調整由計程車同業公會片面制定，計程車駕駛員已經擁有合法產權，應使其有共同參與制定費率的機會。\n　　二、讓工會參與費率制定，有助推動產業民主。\n　　三、於現行條文加入「暨相關之工會」、「共同」等字眼。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "860509",
-            "立法紀錄": "86卷24期2916號上冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9ce81c7c9cdcbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "廖福本",
+            "會議日期": "860531",
+            "立法紀錄": "86卷31期2923號上冊 5-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c9cccecfcec4cfcfcfcac4cfcfcfc9",
+            "主提案": "蔡煌瑯",
             "關係文書": [
                 [
                     "null",
-                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcccdcececfcfc6"
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcccdc8cecfcdce"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "861009",
-            "立法紀錄": "86卷39期2931號 69-70頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9ce81c7c9ccc6cfcfc4cfcfc9c6c4cfcfc8cf",
+            "進度": "一讀",
+            "會議日期": "870106",
+            "立法紀錄": "87卷4期2953號上冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c8cfcbcfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "林建榮",
+            "關係文書": [
+                [
+                    "null",
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcbcccfcecfcdce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "870521",
+            "立法紀錄": "87卷30期2979號 83-110頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c8cccfcfcfc4cfcfc7ccc4cfcececf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "861230",
-            "立法紀錄": "87卷1期2950號上冊 31-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9ce81c7c8cfcecfcec4cfcfcccec4cfcfcccd",
-            "關係文書": []
+            "會議日期": "880511",
+            "立法紀錄": "88卷25期3025號一冊 121-126頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c7cdcacfcec4cfcecdcec4cfcecdc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5cdcbced2cdcbc8"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "861230",
-            "立法紀錄": "87卷1期2950號上冊 32-33頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9ce81c7c8cfcecfcec4cfcfcccdc4cfcfcccc",
+            "會議日期": "880511",
+            "立法紀錄": "88卷25期3025號一冊 126-126頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cc81c7c7cdcacfcec4cfcecdc9c4cfcecdc9",
             "關係文書": []
         }
     ]
