@@ -1,11 +1,10 @@
 {
     "title": "獎勵投資條例",
     "versions": [
-        "中華民國53年12月22日全文修正",
-        "中華民國54年1月4日公布"
+        "中華民國54年6月8日修正",
+        "中華民國54年6月9日公布"
     ],
     "types": [
-        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -138,9 +137,9 @@
             "relates": {}
         },
         {
-            "note": "(停止徵收證券交易稅)",
+            "note": "(免徵證券交易稅)",
             "rule_no": "第二十一條",
-            "content": "　　證券交易稅停止徵收。",
+            "content": "　　凡買賣有價證券，其屬各級政府所發行之債券，應免徵證券交易稅。",
             "relates": {}
         },
         {
@@ -340,158 +339,6 @@
             "rule_no": "第五十二條",
             "content": "　　本條例規定事項，除已另定開始實施日期者外，自公布日施行，施行期間至中華民國五十九年十二月三十一日止。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "520705",
-            "立法紀錄": "52卷31期號13冊 74-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacdcccececcc4cfcfc8cbc4cfcfc8ca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcdcfcfc5c8cbc7d2c8c6c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "530717",
-            "立法紀錄": "53卷33期號17冊 71-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccccec8c4cfcfc8cec4cfcfc8cb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccccfcccfcfc5c9cdc7d2c9ccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "531218",
-            "立法紀錄": "53卷34期號10冊 8-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcecfc4cfcfcfc7c4cfcfc6c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccccfcbcfcfc5cbcdccd2cacfc8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "530821",
-            "立法紀錄": "53卷33期號20冊 123-146頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccccdcfc4cfcecdccc4cfcecbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "531020",
-            "立法紀錄": "53卷34期號4冊 23-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfcbc4cfcfcdccc4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "531027",
-            "立法紀錄": "53卷34期號4冊 75-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfcbc4cfcfc8cac4cfcfc8ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "531027",
-            "立法紀錄": "53卷34期號4冊 86-108頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfcbc4cfcfc7c9c4cfcecfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "531103",
-            "立法紀錄": "53卷34期號5冊 36-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfcac4cfcfccc9c4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531103",
-            "立法紀錄": "53卷34期號5冊 38-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfcac4cfcfccc7c4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531117",
-            "立法紀錄": "53卷34期號6冊 30-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfc9c4cfcfcccfc4cfcfc9ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531124",
-            "立法紀錄": "53卷34期號6冊 73-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfc9c4cfcfc8ccc4cfcfc6c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531127",
-            "立法紀錄": "53卷34期號7冊 34-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfc8c4cfcfcccbc4cfcfc9cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531201",
-            "立法紀錄": "53卷34期號7冊 68-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfc8c4cfcfc9c7c4cfcfc6c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531204",
-            "立法紀錄": "53卷34期號8冊 15-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfc7c4cfcfcecac4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531208",
-            "立法紀錄": "53卷34期號8冊 53-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfc7c4cfcfcaccc4cfcfc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531211",
-            "立法紀錄": "53卷34期號9冊 20-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfc6c4cfcfcdcfc4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531215",
-            "立法紀錄": "53卷34期號9冊 64-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcfc6c4cfcfc9cbc4cfcfc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "531218",
-            "立法紀錄": "53卷34期號10冊 112-120頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcecfc4cfcececdc4cfcecdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "531222",
-            "立法紀錄": "53卷34期號10冊 145-171頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cbc781cacccccbcecfc4cfcecbcac4cfcec8ce",
-            "關係文書": []
         }
     ]
 }
