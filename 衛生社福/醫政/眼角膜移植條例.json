@@ -1,11 +1,11 @@
 {
     "title": "眼角膜移植條例",
     "versions": [
-        "中華民國71年7月6日制定",
-        "中華民國71年7月19日公布"
+        "中華民國77年11月17日廢止",
+        "中華民國77年12月5日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -94,95 +94,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　揭櫫立法宗旨並明定本條例未規定者適用其他法令，以資周全。",
-        "第二條": "　　醫師為患者施行眼角膜移植時，應善盡醫療及禮儀上必要之注意。",
-        "第三條": "　　醫師為盲人施行眼角膜移植，自屍體摘取眼角膜時，原則上必須先取得死者親屬之書面同意，為免執行時之困難，特設但書規定，於死者生前同意時即得為之，以利眼角膜之取得。",
-        "第四條": "　　醫師亦可自非病死或可疑為非病死之屍體摘取眼角膜移植，除應取得死者親屬書面同意外，參照刑事訴訟法第二百十八條規定，並以經檢察官相驗認無繼續勘驗之必要始得為之。",
-        "第五條": "　　不適用於移植之眼角膜，中央衛生主管機關所定之方法為：(一)具傳染性病源者，應速予焚燬。(二)無傳染性病毒者，移送國內學術機構，供臨床病理研究之用，以提高國內醫學水準。",
-        "第六條": "　　移植用之眼角膜，應以無償捐贈之方式為之，以避免流弊之發生。",
-        "第七條": "　　各公私立醫療機構，接受國內或國外捐贈之眼角膜，需設眼庫，妥為保存。具備何種條件，始得設置眼庫，自以經中央衛生主管機關視各醫院設備之情形指定為宜，眼庫如何設置？如何管理？允宜訂定辦法，以利執行。",
-        "第八條": "　　眼角膜移植手術費用之收取標準及其支付方法由中央衛生主管機關統一規定，又本於提高盲人福利之旨，關於施行眼角膜移植之費用，由各級政府編列預算補助之。",
-        "第九條": "　　直轄市或縣(市)政府，對於自願捐贈眼角膜供醫師施行眼角膜移植之死者親屬得發給獎狀，予以表揚。對於家境清寒者，並得依其實際需要，補助喪葬費，期能蔚成風氣，有助於移植工作之推進。",
-        "第十條": "　　一、不盡本條例第五條之義務，將不適於移植之眼角膜，加以丟棄或毀損時，在行政上應有處罰規定，以促醫師善盡診察治療上之注意義務。\n　　二、違反本條例第六條規定，將眼角膜買賣圖利者，在行政上亦應有處罰規定，以利管理。",
-        "第十一條": "　　一、未經中央衛生主管機關指定，或雖經指定而未依中央衛生主管機關訂定之辦法設置或不依該辦法規定管理者，在行政上應有處罰規定，以利管理。\n　　二、違反本法規定，如其行為涉及刑事責任，應依刑法有關規定處罰。",
-        "第十二條": "　　對依本條例第十條、第十一條所處之罰鍰，經衛生主管機關催收而仍不繳納時，可移送法院強制執行，以提高績效。",
-        "第十三條": "　　眼角膜移植，事屬創舉，本條例所定，僅其犖犖大者，其他細節應於施行細則中詳定，報請行政院核定後發布施行，以補充母法規定之不足。",
-        "第十四條": "　　規定本條例施行之日期。"
-    },
+    "deprecated_reason": "　　因有關眼角膜移植事項，已納入總統七十六年六月十九日公布之「人體器官移植條例」及七十七年三月十一日發布之「人體器官移植條例施行細則」中規範，現行眼角膜移植條例已無存在必要，故廢止之。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "710302",
-            "立法紀錄": "71卷18期1503號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c7cec7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "770416",
+            "立法紀錄": "77卷32期2143號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc6ca81c8c8cfcccdcfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfcdcfcfc5ccc7ced2ccc7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cecfc6cfcfc5cbcbc9d2cbcbc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "710501",
-            "立法紀錄": "71卷52期1537號 97-110頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c6cacdcfcfc4cfcfc6c8c4cfcececf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710505",
-            "立法紀錄": "71卷53期1538號 81-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c6cacccfcfc4cfcfc7cec4cfcfc6cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710513",
-            "立法紀錄": "71卷66期1551號 38-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c6c9c9cfcfc4cfcfccc7c4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710605",
-            "立法紀錄": "71卷69期1554號 24-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c6c9c6cfcfc4cfcfcdcbc4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710617",
-            "立法紀錄": "71卷71期1556號 2-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c6c8cecfcfc4cfcfcfcdc4cfcfcfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "710703",
-            "立法紀錄": "71卷54期1539號 3-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c6cacbcfcfc4cfcfcfccc4cfcfcecb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfc7cfcfc5c7c9ccd2c7c8cd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "710703",
-            "立法紀錄": "71卷54期1539號 14-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c6cacbcfcfc4cfcfcecbc4cfcfcec6",
+            "會議日期": "771017",
+            "立法紀錄": "78卷11期2227號 54-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc6ca81c8c7cfcececfcfc4cfcfcacbc4cfcfcacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "710706",
-            "立法紀錄": "71卷54期1539號 41-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcdc6cb81c8cec9c6cacbcfcfc4cfcfcbcec4cfcfcbcd",
+            "會議日期": "771117",
+            "立法紀錄": "77卷93期2204號 25-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc6ca81c8c8cfc6cccfcfc4cfcfcdcac4cfcfcdc9",
             "關係文書": []
         }
     ]
