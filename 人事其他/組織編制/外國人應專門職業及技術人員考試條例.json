@@ -1,8 +1,8 @@
 {
     "title": "外國人應專門職業及技術人員考試條例",
     "versions": [
-        "中華民國43年12月7日制定",
-        "中華民國43年12月17日公布"
+        "中華民國46年5月21日修正",
+        "中華民國46年6月3日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,7 +18,7 @@
         {
             "note": "(專門職業及技術人員之定義)",
             "rule_no": "第二條",
-            "content": "　　本條例所稱專門職業及技術人員謂左列各款人員：\n　　一、律師。\n　　二、會計師。\n　　三、農業技師、工業技師、礦業技師。\n　　四、醫師、藥劑師、牙醫師、護士、藥劑生、助產士。",
+            "content": "　　本條例所稱專門職業及技術人員謂左列各款人員：\n　　一、律師。\n　　二、會計師。\n　　三、農業技師、工業技師、礦業技師。\n　　四、醫師、藥劑師、牙醫師、護士、藥劑生、助產士。\n　　五、船舶及航空器電臺無線電話務員。",
             "relates": {}
         },
         {
@@ -76,20 +76,26 @@
             "relates": {}
         },
         {
-            "note": "(適用他法之規定)",
+            "note": "(話務員之應考資格)",
             "rule_no": "第十二條",
-            "content": "　　本條例未規定事項適用考試法及其他相關法律之規定。",
+            "content": "　　本條例為第二條第五款話務員之應考資格、應試科目，由考試院另定之。",
+            "relates": {}
+        },
+        {
+            "note": "(適用他法之規定)",
+            "rule_no": "第十三條",
+            "content": "　　本條例未規定事項，適用考試法及其關係法律之規定。",
             "relates": {}
         },
         {
             "note": "(施行細則之訂定)",
-            "rule_no": "第十三條",
+            "rule_no": "第十四條",
             "content": "　　本條例施行細則由考試院定之。",
             "relates": {}
         },
         {
             "note": "(施行日)",
-            "rule_no": "第十四條",
+            "rule_no": "第十五條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
@@ -97,55 +103,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430618",
-            "立法紀錄": "43卷13期號6冊 41-42頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac881cbcccecccfc9c4cfcfcbcec4cfcfcbcd",
+            "會議日期": "460326",
+            "立法紀錄": "46卷19期號3冊 83-83頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac781cbc9cec6cfccc4cfcfc7ccc4cfcfc7cc",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5c8cdcdd2c8cdc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5cbcecdd2cbceca"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "430702",
-            "立法紀錄": "43卷13期號6冊 100-100頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac881cbcccecccfc9c4cfcecfcfc4cfcecfcf",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "431207",
-            "立法紀錄": "44卷14期號6冊 41-46頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac881cbcbcecbcfc9c4cfcfcbcec4cfcfcbc9",
+            "會議日期": "460521",
+            "立法紀錄": "46卷19期號7冊 13-17頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac781cbc9cec6cfc8c4cfcfceccc4cfcfcec8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcdcfcfc5cac8cfd2cac8ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcdcfcfc5cbd2c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "431207",
-            "立法紀錄": "44卷14期號6冊 119-120頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac881cbcbcecbcfc9c4cfcecec6c4cfcecdcf",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "431207",
-            "立法紀錄": "44卷14期號6冊 120-124頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac881cbcbcecbcfc9c4cfcecdcfc4cfcecdcb",
+            "會議日期": "460521",
+            "立法紀錄": "46卷19期號7冊 54-55頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac781cbc9cec6cfc8c4cfcfcacbc4cfcfcaca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "731207",
-            "立法紀錄": "44卷14期號6冊 124-126頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac881cbcbcecbcfc9c4cfcecdcbc4cfcecdc9",
+            "會議日期": "460521",
+            "立法紀錄": "46卷19期號7冊 55-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcac781cbc9cec6cfc8c4cfcfcacac4cfcfcac9",
             "關係文書": []
         }
     ]
