@@ -1,12 +1,12 @@
 {
     "title": "管制藥品管理條例",
     "versions": [
-        "中華民國62年6月5日全文修正",
-        "中華民國62年6月14日公布"
+        "中華民國68年3月23日修正",
+        "中華民國68年4月4日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -64,9 +64,9 @@
             "relates": {}
         },
         {
-            "note": "(需用麻醉藥品之購用)",
+            "note": "(麻醉藥品之購用)",
             "rule_no": "第十條",
-            "content": "　　醫藥教育研究試驗或醫療機構或團體或醫師、藥劑師、牙醫師、獸醫師、藥商需用麻醉藥品，應向麻醉藥品經理處或分處或代銷處所購用之。但軍方需用者，得由軍醫主管機關查明每年需要數量，函請衛生署查核分批購買。\n　　前項藥商以在省（市）衛生主管機關領有藥商許可執照者為限，並應經領有證書之藥劑師簽署。",
+            "content": "　　醫藥教育研究試驗或醫療機構或團體或醫師、藥師、牙醫師、獸醫師、藥商需用麻醉藥品，應向麻醉藥品經理處或分處或代銷處所購用之。但軍方需用者，得由軍醫主管機關查明每年需要數量，函請行政院衛生署查核分批購買。\n　　前項藥商以在省（市）衛生署主管機關領有藥商許可執照者為限，並應經領有證書之藥師簽署。",
             "relates": {}
         },
         {
@@ -106,58 +106,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十條": "　　將「藥劑師」修正為「藥師」以求法律用語一致。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "620403",
-            "立法紀錄": "62卷24期580號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacaca81c9cdcacecdcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 9-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac881c9c7c9cccdcccfcfc4cfcfcfc6c4cfcfcecf",
+            "主提案": "吳延環",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcbcfcfc5cbc7d2cac9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620426",
-            "立法紀錄": "62卷44期600號 27-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacaca81c9cdcacecbcbcfcfcfcdc4cfcfcdc8c4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "620525",
-            "立法紀錄": "62卷39期595號 30-41頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacaca81c9cdcaceccc6cfcfcfcec4cfcfcccfc4cfcfcbce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcacfcfc5ccc9c9d2ccc8cc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cccac7d2cccac6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "620525",
-            "立法紀錄": "62卷39期595號 41-47頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacaca81c9cdcaceccc6cfcfcfcec4cfcfcbcec4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "620601",
-            "立法紀錄": "62卷41期597號 3-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacaca81c9cdcacecbcecfcfcfcec4cfcfcfccc4cfcfcfca",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 9-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac881c9c7c9cccdcccfcfc4cfcfcfc6c4cfcfcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "620605",
-            "立法紀錄": "62卷42期598號 4-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacaca81c9cdcacecbcdcfcfcfcec4cfcfcfcbc4cfcfcfc8",
+            "會議日期": "680323",
+            "立法紀錄": "68卷24期1196號 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac881c9c7c9cccdcbcfcfc4cfcfcfcbc4cfcfcfca",
             "關係文書": []
         }
     ]
