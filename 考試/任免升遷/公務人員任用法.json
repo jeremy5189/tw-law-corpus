@@ -1,8 +1,8 @@
 {
     "title": "公務人員任用法",
     "versions": [
-        "中華民國83年12月29日修正",
-        "中華民國84年1月18日公布"
+        "中華民國84年1月17日修正",
+        "中華民國84年1月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -180,7 +180,7 @@
         {
             "note": "(公務人員之消極資格)",
             "rule_no": "第二十八條",
-            "content": "　　有左列情事之一者，不得為公務人員：\n　　一、犯內亂罪、外患罪，經判刑確定，或通緝有案尚未結案者。\n　　二、曾服公務有貪汙行為，經判刑確定，或通緝有案尚未結案者。\n　　三、依法停止任用或受休職處分尚未期滿，或因案停止職務，其原因尚未消滅者。\n　　四、褫奪公權尚未復權者。\n　　五、受禁治產之宣告，尚未撤銷者。\n　　六、經合格醫師證明有精神病者。",
+            "content": "　　有左列情事之一者，不得為公務人員：\n　　一、動員戡亂時期終止後，曾犯內亂、外患罪，經判刑確定者，或通緝有案尚未結案者。\n　　二、曾服公務有貪污行為，經判刑確定，或通緝有案尚未結案者。\n　　三、依法停止任用或受休職處分尚未期滿，或因案停止職務，其原因尚未消滅者。\n　　四、褫奪公權尚未復權者。\n　　五、受禁治產宣告，尚未撤銷者。\n　　六、經合格醫師證明有精神病者。",
             "relates": {}
         },
         {
@@ -257,61 +257,67 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　公務人員甲等特種考試之制度，已受社會大眾輿論所詬病，不但違背文官制度之精神、阻礙正常文官升遷管道、破壞考試公平性，且流弊叢生，為徹底解決甲等特考所造成之弊端，爰加以修正之。",
-        "第十六條": "　　公務人員甲等特種考試之制度，已受社會大眾輿論所詬病，不但違背文官制度之精神、阻礙正常文官升遷管道、破壞考試公平性，且流弊叢生，為徹底解決甲等特考所造成之弊端，爰加以修正之。"
+        "第二十八條": "　　第一款酌作文字修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820408",
-            "立法紀錄": "82卷20期2619號上冊 84-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacd81c7cdcdcfcfcec4cfcfc7cbc4cfcfc7c9",
-            "主提案": "謝長廷",
+            "會議日期": "820319",
+            "立法紀錄": "82卷14期2613號上冊 55-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacb81c7cdcecbcfcec4cfcfcacac4cfcfc8ce",
+            "主提案": "尤宏",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecececfcfc5cacacbd2cacaca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c8c6c9d2c7cecc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "820421",
-            "立法紀錄": "82卷26期2625號下冊 415-434頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacd81c7cdcdc9cfccc4cfcbcecac4cfcbcccb",
+            "會議日期": "830427",
+            "立法紀錄": "83卷31期2705號下冊 133-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacb81c7cccccecfccc4cfceccccc4cfcecacd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "821223",
-            "立法紀錄": "82卷75期2674號上冊 44-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacd81c7cdc8cacfcec4cfcfcbcbc4cfcfcbc9",
+            "進度": "委員會審查",
+            "會議日期": "830606",
+            "立法紀錄": "83卷43期2717號下冊 125-151頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacb81c7cccbcccfccc4cfcecdcac4cfcecace",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830627",
+            "立法紀錄": "83卷48期2722號下冊 329-340頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacb81c7cccbc7cfccc4cfcccdc6c4cfcccbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830629",
+            "立法紀錄": "83卷49期2723號下冊 32-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacb81c7cccbc6cfccc4cfcfcccdc4cfcfcac6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840117",
+            "立法紀錄": "84卷6期2763號下冊 295-319頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacb81c7cbcfc9cfccc4cfcdc6cac4cfcccec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcec9cfcfc5cccac6d2ccc9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcfcfcfc5cccfcad2cccdc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 53-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacd81c7cbcfcdcfcfc4cfcfcaccc4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 90-92頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacd81c7cbcfcdcfcfc4cfcfc6cfc4cfcfc6cd",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 92-92頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacd81c7cbcfcdcfcfc4cfcfc6cdc4cfcfc6cd",
+            "會議日期": "840117",
+            "立法紀錄": "84卷6期2763號下冊 319-319頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9cacb81c7cbcfc9cfccc4cfcccec6c4cfcccec6",
             "關係文書": []
         }
     ]
