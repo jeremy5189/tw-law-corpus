@@ -1,8 +1,8 @@
 {
     "title": "民事訴訟費用法",
     "versions": [
-        "中華民國60年11月2日修正",
-        "中華民國60年11月17日公布"
+        "中華民國69年6月20日修正",
+        "中華民國69年7月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -174,13 +174,13 @@
         {
             "note": "",
             "rule_no": "第二十八條",
-            "content": "　　推事、書記官出外調查證據，及執達員送達文書之食、宿、舟、車費，由各高等法院按照各該地方交通及生活情形，分別等差，擬定規則，請司法行政部核准施行。",
+            "content": "　　推事、書記官出外調查證據及執達員送達文書之食、宿、舟、車費，由各高等法院按照各該地方交通及生活情形，分別等差，擬定規則，報請司法院核准施行。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十九條",
-            "content": "　　本法應徵收之裁判費，各高等法院得因必要情形，擬定額數，經由司法行政部轉呈行政院核准後加徵之。但其加徵之額數不得超過原額數十分之五。\n　　本法應徵之抄錄費、翻譯費、到庭費及滯留費，得視經濟情形，提高至十倍，由高等法院按照各該省市實際情形酌定，呈報司法行政部核准後加徵之。",
+            "content": "　　本法應徵收之裁判費，各高等法院得因必要情形，擬定額數，報請司法院核准後加徵之。但其加徵之額數，不得超過原額數十分之五。\n　　本法應徵之抄錄費、翻譯費、到庭費及滯留費，得視經濟情形，提高至十倍，由高等法院按照各該省（市）實際情形酌定，報請司法院核准後加徵之。",
             "relates": {}
         },
         {
@@ -197,62 +197,54 @@
         }
     ],
     "law_reasons": {
-        "第十六條": "　　裁判費由十元修正為四十元。",
-        "第二十條": "　　裁判費由三元修正為十元。",
-        "第二十一條": "　　裁判費由三元修正為十元。"
+        "第二十八條": "　　高等法院以下各級法院改隸司法院後，本條之推事、書記官、執達員因出外調查證據、送達文書之食、宿、舟、車等費之支給規則，原規定「請司法行政部核准施行」者，應修正為「報請司法院核准施行」。俾由司法院核准後下達施行。",
+        "第二十九條": "　　高等法院以下各級法院改隸司法院後，民事訴訟事件應徵收之裁判費、抄錄費、翻譯費、到庭費及滯留費等，若因經濟情形變動有提高加徵之必要者，自應由各高等法院報請司法院核准，爰將第一項原規定「經由司法行政部轉呈行政院核准」修正為「報請司法院核准」；並將第二項原規定「呈報司法行政部核准」，修正為「報請司法院核准」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "591110",
-            "立法紀錄": "59卷83期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81cac6cbc9c7cccfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "690425",
+            "立法紀錄": "69卷34期1310號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cacccbcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcccfcfc5cdcacfd2cdcaca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcccfcfc5cac9cdd2cac9ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "600311",
-            "立法紀錄": "60卷33期387號 58-66頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc8cccccfcfcfcdc4cfcfcac7c4cfcfc9c9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600325",
-            "立法紀錄": "60卷36期390號 33-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc8ccc9cfcfcfcdc4cfcfccccc4cfcfcbcf",
+            "會議日期": "690605",
+            "立法紀錄": "69卷70期1346號 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cac8cfcfcfc4cfcfcfcac4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "601026",
-            "立法紀錄": "60卷82期435號 9-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc7c7cdcfcfcfcec4cfcfcfc6c4cfcfcbcf",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 67-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cacacfcfcfc4cfcfc9c8c4cfcfc8cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcecfcfc5c8c6c7d2c7cdc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cecfcad2cecfc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "601026",
-            "立法紀錄": "60卷82期435號 43-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc7c7cdcfcfcfcec4cfcfcbccc4cfcfcbcb",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 70-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cacacfcfcfc4cfcfc8cfc4cfcfc8cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "601102",
-            "立法紀錄": "60卷84期437號 8-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc7c7cbcfcfcfcec4cfcfcfc7c4cfcfcecc",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 70-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cacacfcfcfc4cfcfc8cfc4cfcfc8cf",
             "關係文書": []
         }
     ]
