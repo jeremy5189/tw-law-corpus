@@ -1,12 +1,12 @@
 {
     "title": "學位授予法",
     "versions": [
-        "中華民國61年5月12日修正",
-        "中華民國61年5月27日公布"
+        "中華民國66年1月18日全文修正",
+        "中華民國66年2月3日公布"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -18,111 +18,187 @@
         {
             "note": "(學位分級)",
             "rule_no": "第二條",
-            "content": "　　學位分學士、碩士、博士三級，但特種學科得僅設二級或一級。\n　　前項分級細則，由教育部定之。",
+            "content": "　　學位分學士、碩士、博士三級。但特種學科得僅設二級或一級。",
             "relates": {}
         },
         {
             "note": "(學士學位)",
             "rule_no": "第三條",
-            "content": "　　凡曾在公立或立案私立之大學或獨立學院修業期滿，考試合格，並經教育部覆核無異者，由大學或獨立學院授予學士學位。\n　　軍警院校合於教育部規定之大學或獨立學院標準，其學生修業期滿，考試合格，並經教育部覆核無異者，亦得由各該院校授予學士學位。",
+            "content": "　　公立或已立案之私立大學或獨立學院之學生，合於大學法授予學士學位之規定，並經教育部覆核無異者，由各該大學或獨立學院授予學士學位。\n　　大學學生成績優異，在規定修業年限屆滿前一學期或一學年，修滿該學系全部學分，考試及格，有實習年限者，並已實習完畢，合於大學法得准提前畢業之規定，經教育部覆核無異者，亦得由各該大學或獨立學院授予學士學位。",
             "relates": {}
         },
         {
             "note": "(碩士學位候選人)",
             "rule_no": "第四條",
-            "content": "　　依本法受有學士學位，曾在公立或立案私立之大學或獨立學院之研究院或研究所繼續研究二年以上，經該院所考核成績合格者，得由該院所提出為碩士學位候選人。\n　　碩士學位候選人考試合格，並經教育部覆核無異者，由大學或獨立學院授予碩士學位。\n　　碩士學位考試細則，由教育部定之。",
+            "content": "　　依本法受有學士學位，曾在公立或已立案之私立大學或獨立學院之研究所碩士班繼續研究二年以上，並完成碩士學位應修之課程及論文，經考核成績及格者，得由該所提出為碩士學位候選人。碩士學位候選人考試及格，並經教育部覆核無異者，由各該大學或獨立學院授予碩士學位。",
             "relates": {}
         },
         {
             "note": "(博士學位候選人)",
             "rule_no": "第五條",
-            "content": "　　依本法授有碩士學位，在前條所定研究院或研究所繼續研究兩年以上，經該院所考核成績合格，提出於教育部審查許可者，得為博士學位候選人。",
+            "content": "　　依本法受有碩士學位，曾在公立或已立案之私立大學或獨立學院研究所博士班繼續研究二年以上，完成博士學位應修之課程及論文，經各該大學或獨立學院考核成績及格，並提出於教育部審查核可者後，得為博士學位候選人。博士學位候選人，經博士學位評定會考試及格者，由教育部授予博士學位。\n　　博士學位評定會之組織，另以法律定之。",
             "relates": {}
         },
         {
-            "note": "(博士學位候選人之資格)",
+            "note": "(攻讀博士之規定)",
             "rule_no": "第六條",
-            "content": "　　具有下列資格之一，經教育部審查合格者，亦得為博士學位候選人：\n　　一、在學術上有特殊之著作或發明者。\n　　二、曾任公立或立案私立之大學或獨立學院教授三年以上者。",
+            "content": "　　碩士班研究生修業一年後，經考核其大學本科成績、入學考試成績及研究所修業一年成績均甚優異者，得報經教育部核定，准予逕行攻讀博士學位。\n　　依前項入研究所博士班繼續研究二年以上，經考核成績未能及格者，仍得由該所提出為碩士學位候選人。",
             "relates": {}
         },
         {
-            "note": "(博士學位)",
+            "note": "(攻讀醫學博士之規定)",
             "rule_no": "第七條",
-            "content": "　　博士學位候選人，經博士學位評定會考試合格者，由教育部授予博士學位。\n　　博士學位評定會之組織，另以法律定之。",
+            "content": "　　依本法受有醫學士學位，經有關醫學專業訓練二年以上，並提出專業論文，經博士班入學考試及格者，得入有關醫學研究所，逕行攻讀醫學博士學位；其修業年限至少二年，至多六年。",
             "relates": {}
         },
         {
-            "note": "(研究論文)",
+            "note": "(軍、警院校學士學位)",
             "rule_no": "第八條",
-            "content": "　　碩士學位及博士學位之候選人，均須提出研究論文。",
-            "relates": {}
-        },
-        {
-            "note": "(資格之認定)",
-            "rule_no": "第九條",
-            "content": "　　本法施行前在公立或立案私立之大學或獨立學院之本科畢業生，與依第三條受有學士學位者有同一之資格。",
+            "content": "　　軍、警院校合於教育部規定之大學或獨立學院標準，其學生修業期滿考試及格，並經教育部覆核無異者，得由各該院校授予學士學位。\n　　軍、警院校所設研究所之研究生，合於第四條規定者，得由各該院校授予碩士學位。\n　　國防理、工、醫院校所設研究所之研究生，合於第五條或第七條規定者，得由教育部授予博士學位。",
             "relates": {}
         },
         {
             "note": "(國外學位之認定)",
-            "rule_no": "第十條",
-            "content": "　　在經教育部認可之國外學校或其他學術機關得有學位者，得稱某國或某國某學校某學位。",
+            "rule_no": "第九條",
+            "content": "　　在經教育部認可之國外大學、獨立學院或其他學術機關得有學位者，得稱某國或某國某學校某學位。",
             "relates": {}
         },
         {
             "note": "(名譽博士學位)",
+            "rule_no": "第十條",
+            "content": "　　名譽博士學位，由教育部指定歷史悠久，成績優異，並設有研究所之大學授予之。",
+            "relates": {}
+        },
+        {
+            "note": "(名譽博士候選人資格)",
             "rule_no": "第十一條",
-            "content": "　　名譽博士學位之授予，另以法律定之。",
+            "content": "　　本國或外國人士具有左列條件之一者，得為名譽博士候選人：\n　　一、在學術上有特殊著作或發明者。\n　　二、對人類幸福、世界和平有特殊貢獻者。",
+            "relates": {}
+        },
+        {
+            "note": "(名譽博士之審查)",
+            "rule_no": "第十二條",
+            "content": "　　名譽博士學位，由授予之大學校長、教務長及有關之院長、研究所所長、系主任與教授代表三人至五人，舉行會議，審查通過，並報經教育部審定後授予之。",
+            "relates": {}
+        },
+        {
+            "note": "(名譽博士之種類)",
+            "rule_no": "第十三條",
+            "content": "　　名譽博士學位之種類，由教育部定之。",
+            "relates": {}
+        },
+        {
+            "note": "(授予儀式)",
+            "rule_no": "第十四條",
+            "content": "　　各級學位之服制、證書格式及授予儀式，由教育部定之。",
+            "relates": {}
+        },
+        {
+            "note": "(授予學位之適法)",
+            "rule_no": "第十五條",
+            "content": "　　非依本法規定，不得授予學位，並不得以學校或學術機構名義，授予類似學位之名稱。",
+            "relates": {}
+        },
+        {
+            "note": "(施行細則)",
+            "rule_no": "第十六條",
+            "content": "　　本法施行細則，由教育部定之。",
             "relates": {}
         },
         {
             "note": "(施行日)",
-            "rule_no": "第十二條",
-            "content": "　　本法施行日期，以命令定之。",
+            "rule_no": "第十七條",
+            "content": "　　本法自公布日施行。",
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　第二項「軍事院校」修正為「軍警院校」。"
-    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "461029",
-            "立法紀錄": "46卷20期號3冊 100-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c781cbc9cdcfcfccc4cfcecfcfc4cfcecfcf",
+            "會議日期": "650921",
+            "立法紀錄": "65卷76期935號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9cacac7c8c9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcdcfcfc5c9cdd2c9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcecfcfc5cecdc7d2cecbca"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "651014",
+            "立法紀錄": "65卷103期962號 13-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9cacac7cecfcccfcfcfcdc4cfcfceccc4cfcfcdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "651021",
+            "立法紀錄": "66卷14期977號 32-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9c9cac7cecbcfcfc4cfcfcccdc4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "651028",
+            "立法紀錄": "66卷15期978號 33-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9c9cac7cecacfcfc4cfcfccccc4cfcfcbce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "651030",
+            "立法紀錄": "66卷16期979號 16-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9c9cac7cec9cfcfc4cfcfcec9c4cfcfcdcc",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "610512",
-            "立法紀錄": "61卷38期491號 37-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c781c9cecbc6ccc7cfcfcfcec4cfcfccc8c4cfcfcbcf",
+            "會議日期": "651105",
+            "立法紀錄": "65卷89期948號 3-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9cacac7c7c6cfcfcfcec4cfcfcfccc4cfcfcdca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c9c6c8d2c8cfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcccfcfc5cecdc7d2cecbca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "610512",
-            "立法紀錄": "61卷38期491號 40-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c781c9cecbc6ccc7cfcfcfcec4cfcfcbcfc4cfcfcbcf",
+            "會議日期": "651105",
+            "立法紀錄": "65卷89期948號 25-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9cacac7c7c6cfcfcfcec4cfcfcdcac4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "651126",
+            "立法紀錄": "65卷95期954號 2-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9cacac7c6cacfcfcfcec4cfcfcfcdc4cfcfcdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "660114",
+            "立法紀錄": "66卷5期968號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9c9cac7cfcacfcfcfcec4cfcfcfccc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "660114",
+            "立法紀錄": "66卷5期968號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9c9cac7cfcacfcfcfcec4cfcfcfc6c4cfcfcfc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "610512",
-            "立法紀錄": "61卷38期491號 40-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c781c9cecbc6ccc7cfcfcfcec4cfcfcbcfc4cfcfcbcf",
+            "會議日期": "660118",
+            "立法紀錄": "66卷6期969號 3-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c681c9c9cac7cfc9cfcfcfcec4cfcfcfccc4cfcfcfca",
             "關係文書": []
         }
     ]
