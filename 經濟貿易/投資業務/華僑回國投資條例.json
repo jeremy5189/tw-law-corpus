@@ -1,8 +1,8 @@
 {
     "title": "華僑回國投資條例",
     "versions": [
-        "中華民國49年3月18日全文修正",
-        "中華民國49年3月26日公布"
+        "中華民國56年12月22日修正",
+        "中華民國57年1月8日公布"
     ],
     "types": [
         "立法歷程",
@@ -108,7 +108,7 @@
         {
             "note": "(公司法限制之放寬)",
             "rule_no": "第十七條",
-            "content": "　　投資人依法組設公司者，得不受公司法第一百零五條第一項、第一百二十六條及第一百八十四條、第一百九十三條第二項及第二百條關於國內住所之限制。",
+            "content": "　　投資人依法組設公司者，得不受公司法第九十八條第一項、第一百二十八條第一項、第二百零八條第五項及第二百十六條第一項關於國內住所之限制。",
             "relates": {}
         },
         {
@@ -151,76 +151,55 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "480303",
-            "立法紀錄": "48卷23期號2冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc7cdcccfcdc4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "560721",
+            "立法紀錄": "56卷7期號7冊 839-845頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cfce81cac9ccc6cfc8cfc8c4cfc7ccc6c4cfc7cbca",
+            "主提案": "駱擧蓮",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcecfcfc5cdc8ced2cdc6cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc8cfcccfcfc5cbcecfd2cbcec9"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "560823",
+            "立法紀錄": "56卷9期號8冊 1366-1373頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cfce81cac9ccc6cfc7cfc6c4ceccc9c9c4ceccc8cc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561116",
+            "立法紀錄": "56卷8期號11冊 2257-2270頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cfce81cac9cbcfcfc7cecec4cdcdcac8c4cdcdc8cf",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480318",
-            "立法紀錄": "49卷25期號4冊 7-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc6cdcacfcbc4cfcfcfc8c4cfcfcccc",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2691-2694頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cfce81cac9cbcfcfc8cecdc4cdc9c6cec4cdc9c6cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5c9ccccd2c9cac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5ccc8cfd2ccc8c8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "481229",
-            "立法紀錄": "49卷24期號12冊 23-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc6cdcbcecdc4cfcfcdccc4cfcfcdc8",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "481229",
-            "立法紀錄": "49卷24期號12冊 27-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc6cdcbcecdc4cfcfcdc8c4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490301",
-            "立法紀錄": "49卷25期號3冊 4-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc6cdcacfccc4cfcfcfcbc4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490304",
-            "立法紀錄": "49卷25期號3冊 35-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc6cdcacfccc4cfcfcccac4cfcfc9cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490308",
-            "立法紀錄": "49卷25期號4冊 35-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc6cdcacfcbc4cfcfcccac4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490315",
-            "立法紀錄": "49卷25期號4冊 72-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc6cdcacfcbc4cfcfc8cdc4cfcfc8cc",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2694-2695頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cfce81cac9cbcfcfc8cecdc4cdc9c6cbc4cdc9c6ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "490318",
-            "立法紀錄": "49卷25期號4冊 75-79頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c6c681cbc6cdcacfcbc4cfcfc8cac4cfcfc8c6",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2695-2695頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7cfce81cac9cbcfcfc8cecdc4cdc9c6cac4cdc9c6ca",
             "關係文書": []
         }
     ]
