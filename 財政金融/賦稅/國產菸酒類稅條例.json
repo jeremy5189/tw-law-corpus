@@ -1,11 +1,12 @@
 {
     "title": "國產菸酒類稅條例",
     "versions": [
-        "中華民國39年5月31日全文修正",
-        "中華民國39年6月12日公布"
+        "中華民國81年4月10日廢止",
+        "中華民國81年4月27日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -169,6 +170,50 @@
             "rule_no": "第二十七條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　目前菸酒類貨物，係依照「臺灣省內菸酒專賣暫行條例」規定課徵專賣利益，並未課徵國產菸酒類稅，將來菸酒專賣制度有所更張，屆時修正貨物稅條例，以課徵貨物稅為宜，國產菸酒類稅條例即不適用。又該條例第二十五條涉及戡亂時期之規定，亦因戡亂時期之終止而須廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "791018",
+            "立法紀錄": "79卷84期2404號 38-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecececb81c8c6cfc7cbcfcfc4cfcfccc7c4cfcfccc7",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cfc7cfcfc5cac6d2c9c9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800401",
+            "立法紀錄": "80卷75期2499號 56-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecececb81c7cfcfc8cacfcfc4cfcfcac9c4cfcfc9ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "801028",
+            "立法紀錄": "80卷88期2512號 200-201頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecececb81c7cfcfc7c7cfcfc4cfcdcfcfc4cfcdcfce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "810410",
+            "立法紀錄": "81卷30期2558號 35-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecececb81c7cecfcccfcfcfc4cfcfcccac4cfcfcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": " ",
+            "立法紀錄": "81卷30期2558號 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecececb81c7cecfcccfcfcfc4cfcfcbc7c4cfcfcbc7",
+            "關係文書": []
         }
     ]
 }
