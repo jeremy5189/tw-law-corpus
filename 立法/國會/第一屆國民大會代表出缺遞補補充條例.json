@@ -1,0 +1,101 @@
+{
+    "title": "第一屆國民大會代表出缺遞補補充條例",
+    "versions": [
+        "中華民國42年9月25日制定",
+        "中華民國42年10月1日公布"
+    ],
+    "types": [
+        "立法歷程",
+        "異動條文"
+    ],
+    "law_data": [
+        {
+            "note": "(適用)",
+            "rule_no": "第一條",
+            "content": "　　第一屆國民大會代表之出缺遞補，國民大會代表選舉罷免法及同法施行條例未規定者，悉依本條例之規定辦理之。",
+            "relates": {}
+        },
+        {
+            "note": "(喪失代表資格)",
+            "rule_no": "第二條",
+            "content": "　　第一屆國民大會代表有左列情形之一者，喪失其代表資格，由候補人依次遞補：\n　　一、犯內亂外患罪經判決確定者。\n　　二、犯貪汙罪經判決確定者。\n　　三、褫奪公權尚未復權者。\n　　四、受禁治產之宣告者。",
+            "relates": {}
+        },
+        {
+            "note": "(出缺遞補)",
+            "rule_no": "第三條",
+            "content": "　　第一屆國民大會代表有左列情形之一者，視為因故出缺，由候補人依次遞補：\n　　一、行蹤不明三年以上，並於政府公告期限內未向指定機關親行聲報者。\n　　二、附匪有據依法通緝有案者。",
+            "relates": {}
+        },
+        {
+            "note": "(喪失候補資格)",
+            "rule_no": "第四條",
+            "content": "　　第一屆國民大會代表候補人有第二條或第三條情形之一者，喪失其候補資格。",
+            "relates": {}
+        },
+        {
+            "note": "(職業團體及婦女團體代表之補充缺額)",
+            "rule_no": "第五條",
+            "content": "　　國民大會職業團體及婦女團體代表出缺，除法律另有規定者外，其補充缺額之辦法，由行政院定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第六條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "420911",
+            "立法紀錄": "42卷12期號1冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7c9cf81cbcdcecdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5c8c9d2c8c8"
+                ],
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cdcbc9d2cdcbc8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420925",
+            "立法紀錄": "42卷12期號2冊 7-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7c9cf81cbcdcecdcfcdc4cfcfcfc8c4cfcfcecf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cdcbc7d2cdcace"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420925",
+            "立法紀錄": "42卷12期號2冊 15-23頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7c9cf81cbcdcecdcfcdc4cfcfcecac4cfcfcdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "420925",
+            "立法紀錄": "42卷12期號2冊 23-32頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7c9cf81cbcdcecdcfcdc4cfcfcdccc4cfcfcccd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "420925",
+            "立法紀錄": "42卷12期號2冊 33-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7c9cf81cbcdcecdcfcdc4cfcfccccc4cfcfcccb",
+            "關係文書": []
+        }
+    ]
+}
