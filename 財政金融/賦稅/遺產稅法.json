@@ -1,11 +1,12 @@
 {
     "title": "遺產稅法",
     "versions": [
-        "中華民國41年9月12日全文修正",
-        "中華民國41年9月26日公布"
+        "中華民國62年1月26日廢止",
+        "中華民國62年2月6日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -259,6 +260,37 @@
             "rule_no": "第三十六條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　現行遺產稅法係四十一年修正公布，歷年來徵收情況並不理想，稅負既欠公平，而平均社會財富之政策效果，亦不顯著；今重新制定遺產及贈與稅法以玆適用，故將本法予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "610602",
+            "立法紀錄": "61卷44期497號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8ca81c9cecbc6cbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620118",
+            "立法紀錄": "62卷38期594號 28-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8ca81c9cdcaceccc7cfcfcfcdc4cfcfcdc7c4cfcfcbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "620123",
+            "立法紀錄": "62卷6期562號 38-125頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8ca81c9cdcacfcfc9cfcfc4cfcfccc7c4cfcecdca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620126",
+            "立法紀錄": "62卷7期563號 81-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8ca81c9cdcacfcfc8cfcfc4cfcfc7cec4cfcfc7ce",
+            "關係文書": []
         }
     ]
 }
