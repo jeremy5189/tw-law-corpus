@@ -1,17 +1,18 @@
 {
     "title": "行政院衛生署藥物食品檢驗局組織條例",
     "versions": [
-        "中華民國37年11月23日制定",
-        "中華民國37年12月11日公布"
+        "中華民國44年5月24日修正",
+        "中華民國44年6月4日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　衛生部辦理進出口國內外產銷藥物醫療器械及食物有關衛生之檢驗，設立藥物食品檢驗局。\n　　藥物食品檢驗條例另定之。",
+            "content": "　　內政部為辦理進出口國內外產銷藥物醫療器材及食物有關衛生之檢驗，設立藥物食品檢驗局。\n　　藥物食品檢驗條例另定之。",
             "relates": {}
         },
         {
@@ -59,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　藥物食品檢驗局辦事細則，由局擬訂，呈請衛生部核定之。",
+            "content": "　　藥物食品檢驗局辦事細則，由局擬訂，呈請內政部核定之。",
             "relates": {}
         },
         {
@@ -67,6 +68,47 @@
             "rule_no": "第十條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "421222",
+            "立法紀錄": "43卷12期號8冊 37-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc8ca81cbcccecdcfc7c4cfcfccc8c4cfcfccc7",
+            "主提案": "劉錫五",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5ccc9ccd2ccc9cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "440521",
+            "立法紀錄": "44卷15期號5冊 97-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc8ca81cbcbcecacfcac4cfcfc6c8c4cfcecfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececacfcdcfcfc5cbc9d2cbc8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "440520",
+            "立法紀錄": "44卷15期號5冊 174-175頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc8ca81cbcbcecacfcac4cfcec8cbc4cfcec8ca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "440524",
+            "立法紀錄": "44卷15期號5冊 180-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc8ca81cbcbcecacfcac4cfcec7cfc4cfcec7cc",
+            "關係文書": []
         }
     ]
 }
