@@ -1,12 +1,12 @@
 {
     "title": "軍人撫卹條例",
     "versions": [
-        "中華民國56年4月28日全文修正",
-        "中華民國56年5月11日公布"
+        "中華民國80年3月13日修正",
+        "中華民國80年3月27日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -120,7 +120,7 @@
         {
             "note": "(領受撫卹金之遺族順序)",
             "rule_no": "第十七條",
-            "content": "　　領受撫卹金之遺族，依左列順序定之：\n　　一、父母、配偶、子女。但配偶以未再婚，女以未出嫁者為限。\n　　二、祖父母及孫。但孫女以未出嫁者為限。\n　　三、未成年或已成年而殘廢不能謀生之胞兄弟姊妹。但姊妹以未出嫁者為限。\n　　前項遺族，同一順序有數人時，得計口均分；如願放棄或因法定事由喪失撫卹權利時，由其餘遺族領受之。",
+            "content": "　　領受撫卹金之遺族，依左列順序定之：\n　　一、父母、配偶、子女。但配偶以未再婚者為限。\n　　二、祖父母及孫。但孫女以未出嫁者為限。\n　　三、未成年或已成年而殘廢不能謀生之胞兄弟姊妹。但姊妹以未出嫁者為限。\n　　前項遺族，同一順序有數人時，得計口均分；如願放棄或因法定事由喪失撫卹權利時，由其餘遺族領受之。",
             "relates": {}
         },
         {
@@ -188,44 +188,47 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十七條": "　　一、為平衡軍公教待遇一致原則，宜刪除「女以未出嫁」等字。\n　　二、如死亡當事人並無父母、妻子、亦無兒子者，則其「女已出嫁」為受益人並無不當。\n　　三、基於現行人口政策，及男女平等精神，允宜已出嫁之女為受益人之權益。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "551111",
-            "立法紀錄": "55卷38期號6冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c6c981cacaccc7cfc9cfcfc4cfcfcfc7c4cfcfcfc7",
-            "主提案": "行政院",
+            "會議日期": "790112",
+            "立法紀錄": "79卷4期2324號 193-194頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c8c6c881c8c6cfcfcbcfcfc4cfcec6ccc4cfcec6cb",
+            "主提案": "蕭楚喬",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc7cfcdcfcfc5cecfc7d2cecec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcec6cfcfc5cbcec7d2cbcec6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "560425",
-            "立法紀錄": "56卷7期號4冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c6c981cac9ccc6cfcbcfc8c4cfcfcfcbc4cfcfcfca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcdcfcfc5c8cdd2cecfce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560425",
-            "立法紀錄": "56卷7期號4冊 5-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c6c981cac9ccc6cfcbcfc8c4cfcfcfcac4cfcfcece",
+            "進度": "委員會審查",
+            "會議日期": "791022",
+            "立法紀錄": "總號:4621 3-7頁\n",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgbook1?cbc9cdcec5ccd2c8",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "800313",
+            "立法紀錄": "80卷22期2446號 35-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c8c6c881c7cfcfcdcdcfcfc4cfcfcccac4cfcfccc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfc9cfcfc5cac7ccd2cac7c8"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "560428",
-            "立法紀錄": "56卷8期號4冊 30-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c6c981cac9ccc6cfcbcfc7c4cfcfcccfc4cfcfccca",
+            "會議日期": "800313",
+            "立法紀錄": "80卷22期2446號 38-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c8c6c881c7cfcfcdcdcfcfc4cfcfccc7c4cfcfccc7",
             "關係文書": []
         }
     ]
