@@ -1,10 +1,11 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國37年10月26日修正",
-        "中華民國37年11月7日公布"
+        "中華民國43年7月6日修正",
+        "中華民國43年7月21日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -511,7 +512,7 @@
         {
             "note": "",
             "rule_no": "第七十七條",
-            "content": "　　受徒刑之執行而有悛悔實據者，無期徒刑逾十年後，有期徒刑逾二分之一後，由監獄長官呈司法行政最高官署，得許假釋出獄。但有期徒刑之執行未滿一年者，不在此限。\n　　前項執行期間遇有第四十六條情形者，以所餘之刑期計算。",
+            "content": "　　受徒刑之執行而有悛悔實據者，無期徒刑逾十年後，有期徒刑逾二分之一後，由監獄長官呈司法行政最高官署，得許假釋出獄。但有期徒刑之執行未滿一年者，不在此限。",
             "relates": {}
         },
         {
@@ -2345,6 +2346,47 @@
             "rule_no": "第三百五十七條",
             "content": "　　第三百五十二條、第三百五十四條至第三百五十六條之罪，須告訴乃論。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "430514",
+            "立法紀錄": "43卷13期號5冊 13-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cecc81cbcccecccfcac4cfcfceccc4cfcfcec9",
+            "主提案": "宋述樵",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cccbc6d2cccace"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430706",
+            "立法紀錄": "43卷13期號6冊 34-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cecc81cbcccecccfc9c4cfcfcccbc4cfcfccc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cbcfcfd2cbcfce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430706",
+            "立法紀錄": "43卷13期號6冊 128-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cecc81cbcccecccfc9c4cfcecdc7c4cfceccce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "730706",
+            "立法紀錄": "43卷13期號6冊 131-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cecc81cbcccecccfc9c4cfcecccec4cfceccce",
+            "關係文書": []
         }
     ]
 }
