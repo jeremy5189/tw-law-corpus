@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國71年1月8日修正",
-        "中華民國71年1月20日公布"
+        "中華民國75年1月7日修正",
+        "中華民國75年1月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -126,7 +126,7 @@
         {
             "note": "",
             "rule_no": "第二十條",
-            "content": "　　立法院各委員會各置召集委員，其名額以各委員會參加委員人數為比例，十五人以下者一人，十六人至三十人者二人，三十一人以上者三人，其產生方法由立法院定之。",
+            "content": "　　立法院各委員會各置召集委員，其名額以各委員會參加委員人數為比例，十人以下者一人，十一人至二十人者二人，二十一人以上者三人；其產生方法，由立法院定之。",
             "relates": {}
         },
         {
@@ -179,69 +179,61 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　我國立法院院會法定人數一七七人之規定，已與實際狀況不符。而現在立法委員之實有人數，又無從使其達到八八一人之總額，在此進退維谷之中，祇有修改現行立法院組織法第五條，將其中五分之一之出席率，減為七分之一，始為名實兼顧兩全之道。"
+        "第二十條": "　　於議事分工有利，但不致影響議事功能，在意識上且有強化議會組織之作用。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "701208",
-            "立法紀錄": "70卷98期1479號 6-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cfc9c7c6c7cfcfc4cfcfcfc9c4cfcfceca",
-            "主提案": "仲肇湘",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "701214",
-            "立法紀錄": "71卷37期1522號 133-140頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c6ccc8cfcfc4cfceccccc4cfcecbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "701229",
-            "立法紀錄": "70卷104期1485號 21-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cfc9c7cecfcbcfcfc4cfcfcdcec4cfcfcdc6",
+            "會議日期": "741231",
+            "立法紀錄": "75卷1期1903號 7-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcecfcfc4cfcfcfc8c4cfcfcecd",
+            "主提案": "莫萱元",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfc8cfcfc5cac7c6d2cac6ce"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc6cfcfc5c8cfcfd2c8cfce"
                 ]
             ]
         },
         {
+            "進度": "一讀",
+            "會議日期": "750103",
+            "立法紀錄": "75卷2期1904號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcdcfcfc4cfcfcfc7c4cfcfcfc7",
+            "主提案": "莫萱元",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "750106",
+            "立法紀錄": "75卷30期1932號 94-95頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcccfcfcfc4cfcfc6cbc4cfcfc6ca",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "710105",
-            "立法紀錄": "71卷2期1487號 5-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcdcfcfc4cfcfcfcac4cfcfcdcb",
-            "關係文書": []
+            "會議日期": "750107",
+            "立法紀錄": "75卷3期1905號 6-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcccfcfc4cfcfcfc9c4cfcfcece",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cecfcfcfc5cdc7c7d2cdc6ce"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "710105",
-            "立法紀錄": "71卷2期1487號 24-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcdcfcfc4cfcfcdcbc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "710108",
-            "立法紀錄": "71卷3期1488號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcccfcfc4cfcfcfcac4cfcfcfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "710108",
-            "立法紀錄": "71卷3期1488號 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcccfcfc4cfcfcecbc4cfcfcecb",
+            "會議日期": "750107",
+            "立法紀錄": "75卷3期1905號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcccfcfc4cfcfcecec4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "710108",
-            "立法紀錄": "71卷3期1488號 14-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcccfcfc4cfcfcecbc4cfcfceca",
+            "會議日期": "750107",
+            "立法紀錄": "75卷3期1905號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcccfcfc4cfcfcecec4cfcfcece",
             "關係文書": []
         }
     ]
