@@ -1,8 +1,8 @@
 {
     "title": "國立臺灣藝術教育館組織條例",
     "versions": [
-        "中華民國74年10月11日制定",
-        "中華民國74年10月23日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -59,6 +59,12 @@
         },
         {
             "note": "",
+            "rule_no": "第八條 之一",
+            "content": "　　本館於民國七十四年十月二十三日前進用之人員，除聘任人員外，現仍在職且未具法定任用資格之人員，由考試院限期辦理考試，以定其資格；其考試辦法由考試院定之。未經考試及格者，得繼續任原職至離職為止。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第九條",
             "content": "　　本館辦事細則，由本館擬訂，報請教育部核定。",
             "relates": {}
@@ -71,82 +77,46 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　規定國立臺灣藝術教育館之性質、任務及工作之目標。",
-        "第二條": "　　規定國立臺灣藝術教育館內部組織。",
-        "第三條": "　　規定國立臺灣藝術教育館置館長一人及其職等與職權。",
-        "第四條": "　　一、規定國立臺灣藝術教育館所置人員數額及其職等。\n　　二、為便於羅致專業人才，第二項明定除秘書、總務組主任、幹事、書記外，必要時得依教育人員任用條例之規定聘任之。",
-        "第五條": "　　為促進業務發展之需要，設立各種委員會，訂明條文，俾有所依據。",
-        "第六條": "　　置人事管理員，規定其職等及職掌。",
-        "第七條": "　　置會計員，規定其職等及職掌。",
-        "第八條": "　　本條係就第三條、第四條、第六條及第七條所定各職稱人員適用之職系予以明定。",
-        "第九條": "　　規定辦事細則訂定之程序。",
-        "第十條": "　　規定本條例之施行日期。"
+        "第八條 之一": "　　國立台灣藝術教育館於民國四十六年二月成立，其組織條例完成立法之前，人員之任用比照教育人員任用條例任用，符合當時用人條件。但機關改隸造成的不符任用資格現象不應由該等人員負擔。乃參照其他機關組織法相類似規定體例修法予以補救，以維護其權益。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "650921",
-            "立法紀錄": "65卷76期935號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcac781c9cacac7c8c9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "821012",
+            "立法紀錄": "82卷54期2653號 32-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcac681c7cdcacbcfcfc4cfcfcccdc4cfcfcccc",
+            "主提案": "林濁水",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcecfcfc5cacfc8d2cacecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfcccfccc5c9cfccd2c9cfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "651018",
-            "立法紀錄": "65卷102期號96冊 14-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcac781c9cacac7cecfcdcfcfcfcdc4cfcfcecbc4cfcfcdce",
+            "會議日期": "830323",
+            "立法紀錄": "83卷22期2696號下冊 56-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcac681c7cccdcdcfccc4cfcfcac9c4cfcfcac7",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651027",
-            "立法紀錄": "66卷6期號96冊 26-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcac781c9c9cac7cfc9cfcfcfcdc4cfcfcdc9c4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "651103",
-            "立法紀錄": "66卷10期973號 49-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcac781c9c9cac7cecfcfcfc4cfcfcbc6c4cfcfc9cf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740608",
-            "立法紀錄": "74卷96期1894號 89-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcac781c8cbcfc6c9cfcfc4cfcfc7c6c4cfcfc6c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "741008",
-            "立法紀錄": "74卷81期1879號 14-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcac781c8cbcfc7cecfcfc4cfcfcecbc4cfcfcdca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfcccfcfc5cdcec9d2cdcdcb"
-                ]
-            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "741008",
-            "立法紀錄": "74卷81期1879號 25-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcac781c8cbcfc7cecfcfc4cfcfcdcac4cfcfcdc8",
-            "關係文書": []
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 31-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcac681c7cbcfcdcfcfc4cfcfcccec4cfcfccca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdc9cfcec5c6c7c6d2c6c6cd"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "741011",
-            "立法紀錄": "74卷82期1880號 11-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcac781c8cbcfc7cdcfcfc4cfcfcecec4cfcfcecd",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcac681c7cbcfcdcfcfc4cfcfcccac4cfcfccca",
             "關係文書": []
         }
     ]
