@@ -1,10 +1,11 @@
 {
     "title": "監察院各委員會組織法",
     "versions": [
-        "中華民國38年5月20日修正",
-        "中華民國38年6月11日公布"
+        "中華民國42年5月26日修正",
+        "中華民國42年5月27日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -17,19 +18,19 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　監察院設左列各委員會：\n　　一、內政委員會。\n　　二、外交僑務委員會。\n　　三、國防委員會。\n　　四、財政委員會。\n　　五、經濟委員會。\n　　六、教育委員會。\n　　七、交通委員會。\n　　八、司法委員會。\n　　九、蒙藏委員會。",
+            "content": "　　監察院設左列各委員會：\n　　一、內政委員會。\n　　二、外交委員會。\n　　三、國防委員會。\n　　四、財政委員會。\n　　五、經濟委員會。\n　　六、教育委員會。\n　　七、交通委員會。\n　　八、司法委員會。\n　　九、邊政委員會。\n　　十、僑政委員會。\n　　前項委員會於必要時，得依法分設或合併之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　各委員會委員，由監察委員分任之；每一委員得任三委員會委員。",
+            "content": "　　各委員會委員，由監察委員分任之；每一委員以任二委員會委員為限，每一委員會委員人數不得超過三十人。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　各委員會各置召集人三人，由各該委員會委員互選之。\n　　各委員會召集人任期一年，不得連任。\n　　各委員會召集人不得兼任其他委員會召集人。",
+            "content": "　　各委員會委員不及二十人者，設召集人一人，二十人以上者，設召集人二人，由各該委員會委員互選之。\n　　各委員會召集人任期一年，不得連任。\n　　各委員會召集人不得兼任其他委員會召集人。",
             "relates": {}
         },
         {
@@ -41,13 +42,13 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　各委員會，由召集人召集或經委員三人以上之提議亦得召集之。",
+            "content": "　　各委員會會議，由召集人或經委員三人以上之提議召集之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　委員會之開會，須有各該委員會在京委員過半數之出席，其決議須經出席委員過半數之通過。",
+            "content": "　　委員會之開會，須有各該委員會委員除因公出差者外之過半數出席，其決議須經出席委員過半數之通過。",
             "relates": {}
         },
         {
@@ -73,6 +74,47 @@
             "rule_no": "第十一條",
             "content": "　　本法自公布日施行",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "420519",
+            "立法紀錄": "42卷11期號8冊 144-144頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cc81cbcdcececfc7c4cfcecbcbc4cfcecbcb",
+            "主提案": "監察院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cacfc9d2cacfc8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420526",
+            "立法紀錄": "42卷11期號9冊 17-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cc81cbcdcececfc6c4cfcfcec8c4cfcfcdcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cdcfd2cdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "420526",
+            "立法紀錄": "42卷11期號9冊 106-113頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cc81cbcdcececfc6c4cfcecfc9c4cfcececc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "420526",
+            "立法紀錄": "42卷11期號9冊 113-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cc81cbcdcececfc6c4cfcececcc4cfcececb",
+            "關係文書": []
         }
     ]
 }
