@@ -1,8 +1,8 @@
 {
     "title": "軍公教遺族就學費用優待條例",
     "versions": [
-        "中華民國81年7月3日全文修正",
-        "中華民國81年7月27日公布"
+        "中華民國88年12月30日修正",
+        "中華民國89年1月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -25,13 +25,33 @@
             "note": "(就學費用優待及優待期限)",
             "rule_no": "第三條",
             "content": "　　軍公教人員因作戰或因公死亡，依法領受年撫卹金之遺族就學，給與全額公費優待；因病或意外死亡，依法領受年撫卹金之遺族就學，給與半額公費優待；撫卹期滿及領受一次撫卹金之遺族，依主管教育行政機關規定，得予減免學雜費之優待。\n　　前項優待以就讀國內學校具有學籍之學生，且在法定修業年限就學期間為限。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01729",
+                        "law_name": "軍公教遺族就學費用優待條例",
+                        "numbers": [
+                            "第四條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(公費優待項目)",
             "rule_no": "第四條",
-            "content": "　　前條公費優待項目包括學費、雜費、制服費、書籍費、主食費及副食費。\n　　前項學費及雜費，依主管教育行政機關之規定；其餘各費，大專院校比照師範校院公費發給標準，中等以下學校由省（市）政府教育廳（局）另定之。",
-            "relates": {}
+            "content": "　　前條公費優待項目包括學費、雜費、制服費、書籍費、主食費及副食費。\n　　前項學費及雜費，依主管教育行政機關之規定；其餘各費，大專校院比照師資培育公費發給標準，中等以下學校由該管主管教育行政機關另定之。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01729",
+                        "law_name": "軍公教遺族就學費用優待條例",
+                        "numbers": [
+                            "第三條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(教育補助優待應擇一申請)",
@@ -43,13 +63,33 @@
             "note": "(申請手續)",
             "rule_no": "第六條",
             "content": "　　軍公教遺族申請就學費用優待，應檢具國防部、銓敘部或主管教育行政機關核發之卹亡給與令、撫卹令、撫卹金證書及其他證明文件，並應依學校規定期限辦理申請手續。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01729",
+                        "law_name": "軍公教遺族就學費用優待條例",
+                        "numbers": [
+                            "第七條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(就學費用優待之核定)",
             "rule_no": "第七條",
             "content": "　　學校受理前條申請，應報請主管教育行政機關核定，一經核定，准予優待至畢業為止。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01729",
+                        "law_name": "軍公教遺族就學費用優待條例",
+                        "numbers": [
+                            "第六條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(預算)",
@@ -71,55 +111,46 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　一、本條新增。\n　　二、明定本條例制定之目的。",
-        "第二條": "　　一、條次變更。\n　　二、界定軍公教遺族之適用範圍。\n　　三、第二項後段所指政府機關學校預算員額內之人員，應不包括公營事業機構從業人員及約聘雇人員。",
-        "第三條": "　　明定就學費用優待方式並規定其優待期限。",
-        "第四條": "　　一、本條新增。\n　　二、明定公費優待項目。",
-        "第五條": "　　一、本條新增。\n　　二、為避免軍公教遺族享受雙重就學費用優待，爰明定同時符合本條例及有關教育補助優待，應擇一申請。",
-        "第六條": "　　一、本條新增。\n　　二、明定申請就學費用優待，應檢送之證明文件及期限。",
-        "第七條": "　　一、條次變更。\n　　二、簡化核定程序。",
-        "第八條": "　　一、條次變更。\n　　二、明定本項優待之經費來源。",
-        "第九條": "　　一、條次變更。\n　　二、明定停止優待事由。\n　　三、增列休學、退學時，公費之停發及復學或再行入學時不得重複請領公費之規定。",
-        "第十條": "　　本條未修正。"
+        "第四條": "　　為配合臺灣省政府功能業務與組織調整及師資培育法之規定，修正第二項後段為中等以下學校由該管主管教育行政機關另定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "810528",
-            "立法紀錄": "81卷44期2572號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac7cf81c7cecfcbcbcfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "881015",
+            "立法紀錄": "88卷44期3044號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac7ce81c7c7cbcbcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdcccfcec5c9c9cdd2c9c8cc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdccc9d2cdccc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "810611",
-            "立法紀錄": "81卷49期2577號下冊 217-223頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac7cf81c7cecfcbc6cfccc4cfcdcec8c4cfcdcdcc",
+            "會議日期": "881215",
+            "立法紀錄": "89卷3期3062號上冊 31-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac7ce81c7c6cfcccfcec4cfcfcccec4cfcfcccb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "810703",
-            "立法紀錄": "81卷54期2582號 119-127頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac7cf81c7cecfcacbcfcfc4cfcecec6c4cfcecdc8",
+            "會議日期": "881230",
+            "立法紀錄": "89卷2期3061號上冊 307-315頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac7ce81c7c6cfcdcfcec4cfcccfc8c4cfccceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccdcfcfc5cdccc6d2cdcbc8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5ccc6cfd2ccc6c9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "810703",
-            "立法紀錄": "81卷54期2582號 127-128頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac7cf81c7cecfcacbcfcfc4cfcecdc8c4cfcecdc7",
+            "會議日期": "881230",
+            "立法紀錄": "89卷2期3061號上冊 315-315頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac7ce81c7c6cfcdcfcec4cfcccecac4cfccceca",
             "關係文書": []
         }
     ]
