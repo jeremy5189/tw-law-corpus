@@ -1,11 +1,12 @@
 {
     "title": "陸海空軍刑法",
     "versions": [
-        "中華民國26年7月2日修正",
-        "中華民國26年7月19日公布"
+        "中華民國88年3月30日修正",
+        "中華民國88年4月21日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -574,12 +575,12 @@
         },
         {
             "note": "",
-            "section_name": "第十一章  強姦罪"
+            "section_name": "第十一章  強制性交罪"
         },
         {
-            "note": "(強姦婦女罪)",
+            "note": "(對婦女強制性交罪)",
             "rule_no": "第八十七條",
-            "content": "　　強姦婦女者，處死刑。\n　　前項之未遂罪罰之。",
+            "content": "　　對婦女強制性交者，處死刑。\n　　前項之未遂罪，罰之。",
             "relates": {}
         },
         {
@@ -815,6 +816,51 @@
             "rule_no": "第一百二十二條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第八十七條": "　　配合刑法第二百二十一條等之修正，原條文「強姦婦女者」修改為「對婦女強制性交者」。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "880107",
+            "立法紀錄": "88卷5期3005號上冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cfcec881c7c7cfcacfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "謝啟大",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cdc8c7d2cdc7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "880107",
+            "立法紀錄": "88卷5期3005號上冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cfcec881c7c7cfcacfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "謝啟大",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfccc5c9cccdd2c9cacf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-246頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cfcec881c7c7cecccfcec4cfcdcec6c4cfcdcbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 246-247頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cfcec881c7c7cecccfcec4cfcdcbc9c4cfcdcbc8",
+            "關係文書": []
         }
     ]
 }
