@@ -1,8 +1,8 @@
 {
     "title": "師資培育法",
     "versions": [
-        "中華民國90年5月4日修正",
-        "中華民國90年5月16日公布"
+        "中華民國91年5月17日修正",
+        "中華民國91年6月12日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -84,7 +84,7 @@
         {
             "note": "(實習輔導單位之設置)",
             "rule_no": "第十三條",
-            "content": "　　師資培育及進修機構得設實習輔導單位，辦理學生及實習教師之實習輔導工作；其組織由教育部定之。",
+            "content": "　　師資培育及進修機構得設實習輔導單位，辦理學生及實習教師之實習輔導工作；其組織及員額編制，由教育部定之。",
             "relates": {}
         },
         {
@@ -102,7 +102,7 @@
         {
             "note": "(在職進修)",
             "rule_no": "第十六條",
-            "content": "　　師範校院及設有教育院、系、所或教育學程之大學校院得設專責單位，辦理教師在職進修。\n　　教師進修教育，除由前項校院辦理外，主管教育行政機關得視實際需要，另設機構辦理之。\n　　教師在職進修辦法，由教育部定之。",
+            "content": "　　師範校院及設有教育院、系、所或教育學程之大學校院得設專責單位，辦理教師在職進修，其組織及員額編制，由教育部定之。\n　　教師進修教育，除由前項校院辦理外，主管教育行政機關得視實際需要，另設或委託學校、機構辦理之。\n　　教師在職進修辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -137,60 +137,35 @@
         }
     ],
     "law_reasons": {
-        "第十八條": "　　明確界定本條文之適用對象，為中華民國八十三年二月九日本法修正生效前，依師範教育法考入師範校院肄業之學生始得適用。",
-        "第十八條 之一": "　　一、本條新增。\n　　二、國小九年一貫課程英語課程擬於九十年九月實施，所招訓培育之英語師資擬先以代理教師方式充抵新課程所需之師資，為提供是類人員仍以代理年資折抵教育實習一年方式取得合格教師資格，爰增列之。"
+        "第十三條": "　　第一項後段加入「．．．及員額編制，．．．」等字。",
+        "第十六條": "　　一、第一項後段加入「其組織及員額編制，由教育部定之。」等字。\n　　二、第二項後段增加「．．．或委託學校、．．．」等字。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "900327",
-            "立法紀錄": "90卷14期3148號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcecbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "林政則",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfce81c6cecccccfcec4cfcfcecec4cfcfcecd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcccfcfc5cec8c7d2cec7cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "900403",
-            "立法紀錄": "90卷15期3149號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcecacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "洪秀柱",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcbcfcfc5cec7cad2cec7c8"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "900404",
-            "立法紀錄": "90卷22期3156號下冊 295-331頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcdcdcfccc4cfcdc6cac4cfccccce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910517",
+            "立法紀錄": "91卷35期3231號上冊 112-113頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfce81c6cecccacfcec4cfcececdc4cfcececc",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "900504",
-            "立法紀錄": "90卷24期3158號上冊 80-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcdcbcfcec4cfcfc7cfc4cfcfc7c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc9cfcdc5cac9c9d2cac8cd"
-                ]
-            ]
-        },
-        {
             "進度": "三讀",
-            "會議日期": "900504",
-            "立法紀錄": "90卷24期3158號上冊 87-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcdcbcfcec4cfcfc7c8c4cfcfc7c8",
+            "會議日期": "910517",
+            "立法紀錄": "91卷35期3231號上冊 192-192頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfce81c6cecccacfcec4cfcec6cdc4cfcec6cd",
             "關係文書": []
         }
     ]
