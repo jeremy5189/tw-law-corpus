@@ -1,8 +1,8 @@
 {
     "title": "藥事法",
     "versions": [
-        "中華民國86年4月15日修正",
-        "中華民國86年5月7日公布"
+        "中華民國87年5月29日修正",
+        "中華民國87年6月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -664,7 +664,7 @@
         {
             "note": "",
             "rule_no": "第一百零三條",
-            "content": "　　本法公布後，於六十三年五月三十一日前依規定換領中藥販賣業之藥商許可執照有案者，得繼續經營中藥販賣業務。\n　　本法修正公布前，曾經中央衛生主管機關審核予以列冊登記領有經營中藥證明文件者，得依原核定之營業範圍繼續經營中藥販賣業務。但不適用第十五條之調劑業務。",
+            "content": "　　本法公布後，於六十三年五月三十一日前依規定換領中藥販賣業之藥商許可執照有案者，得繼續經營第十五條之中藥販賣業務。\n　　八十二年二月五日前曾經中央衛生主管機關審核，予以列冊登記者，或領有經營中藥證明文件之中藥從業人員，並修習中藥課程達適當標準，得繼續經營中藥販賣業務。\n　　前項中藥販賣業務範圍包括：中藥材及中藥製劑之輸入、輸出及批發；中藥材及非屬中醫師處方藥品之零售；不含毒劇中藥材或依固有成方調配而成之傳統丸、散、膏、丹、及煎藥。\n　　上述人員、中醫師檢定考試及格或在未設中藥師之前曾聘任中醫師、藥師及藥劑生駐店管理之中藥商期滿三年以上之負責人，經修習中藥課程達適當標準，領有地方衛生主管機關證明文件；並經國家考試及格者，其業務範圍如左：\n　　一、中藥材及中藥製劑之輸入、輸出及批發。\n　　二、中藥材及非屬中醫師處方藥品之零售。\n　　三、不含毒劇中藥材或依固有成方調配而成之傳統丸、散、膏、丹、及煎藥。\n　　四、中醫師處方藥品之調劑。\n　　前項考試，由考試院會同行政院定之。",
             "relates": {}
         },
         {
@@ -687,54 +687,120 @@
         }
     ],
     "law_reasons": {
-        "第五十三條": "　　一、為因應加入世界貿易組織之談判，開放輸入藥品在我國分裝，爰予刪除現行第一項規定，於第一項明定其分裝程序。\n　　二、輸入藥品開放在我國分裝，得由符合優良藥品製造規範之藥廠為之，以維護藥品品質與安全。並可藉由藥品在我國分裝，落實藥品中文化標示，以維護消費者知的權利。\n　　三、為使法律授權規定事項明確，爰增列第二項規定。",
-        "第一百零六條": "　　為配合我國加入世界貿易組織之時程，故修正條文之施行日期應以加入世界貿易組織生效日期為前提，爰增列第二項，其施行日期由行政院定之。"
+        "第一百零三條": "　　一、第二項中明定中藥從業人員修習中藥課程達適當標準，得繼續經營中藥販賣業務。並增訂第三項明定中藥販賣業務之範圍。\n　　二、隨時代之進步與保障全民之權益，多有講求專業分工之理念，並為兼顧傳統中藥之經營與調劑不可分與專業認證制度之落實，故給予現行中藥之業者受教育部規定之中藥課程，並經考試院檢覈通過，取得專業資格，讓其專業能力受到肯定及信賴。爰以增訂第四項規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "851217",
-            "立法紀錄": "85卷68期2890號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc881c7cac9c7cfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "850111",
+            "立法紀錄": "85卷5期2827號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7cacfcacfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳婉真",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcdcdcfcfc5cdcacad2cdcac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cec9cfcfc5cbccd2cbc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "850621",
+            "立法紀錄": "85卷35期2857號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7cacccacfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "蔡明憲",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecec8cfcdc5cec6cad2cec6c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "860531",
+            "立法紀錄": "86卷31期2923號上冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c9cccecfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "邱垂貞",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcbcfcfc5cacac8d2cac9ce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "870522",
+            "立法紀錄": "87卷28期2977號上冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cdc7cfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "吳克清",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacececfcec5cacbcad2cacbc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "860312",
-            "立法紀錄": "86卷9期2901號下冊 395-427頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc881c7c9cfc6cfccc4cfccc6cac4cfcbcdc8",
+            "會議日期": "861229",
+            "立法紀錄": "87卷3期2952號 139-174頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cfcccfcfc4cfceccc6c4cfcec8cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 113-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc881c7c9cec8cfcec4cfcececcc4cfcecec8",
+            "會議日期": "870515",
+            "立法紀錄": "87卷26期2975號上冊 51-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cdc9cfcec4cfcfcacec4cfcfc9cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecfcfcdc5cccbcad2cccbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacfc6cfcec5cac9cdd2cac8cc"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "870519",
+            "立法紀錄": "87卷27期2976號 44-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cdc8cfcfc4cfcfcbcbc4cfcfcaca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "870528",
+            "立法紀錄": "87卷31期2980號上冊 63-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cccecfcec4cfcfc9ccc4cfcfc9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "870529",
+            "立法紀錄": "87卷31期2980號中冊 144-145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cccecfcdc4cfcecbcbc4cfcecbca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "870529",
+            "立法紀錄": "87卷31期2980號中冊 195-198頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cccecfcdc4cfcec6cac4cfcec6c7",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 117-118頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc881c7c9cec8cfcec4cfcecec8c4cfcecec7",
+            "會議日期": "870529",
+            "立法紀錄": "87卷31期2980號中冊 198-202頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cccecfcdc4cfcec6c7c4cfcdcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 118-118頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc881c7c9cec8cfcec4cfcecec7c4cfcecec7",
+            "會議日期": "870529",
+            "立法紀錄": "87卷31期2980號中冊 202-204頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdccccc681c7c8cccecfcdc4cfcdcfcdc4cfcdcfcb",
             "關係文書": []
         }
     ]
