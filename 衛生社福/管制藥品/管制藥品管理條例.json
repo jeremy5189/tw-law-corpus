@@ -1,8 +1,8 @@
 {
     "title": "管制藥品管理條例",
     "versions": [
-        "中華民國80年11月7日修正",
-        "中華民國80年11月22日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -94,9 +94,9 @@
             "relates": {}
         },
         {
-            "note": "(免除其刑、免予記錄)",
+            "note": "(免除其刑、免予管訓處分並塗銷其紀錄)",
             "rule_no": "第十三條 之二",
-            "content": "　　犯前條第二項第四款之罪有癮，於未發覺前自動向檢察機關或司法警察機關請求勒戒，於斷癮後經調驗確已戒絕者，免除其刑；其未滿十八歲者，免予記錄。",
+            "content": "　　犯前條第二項第四款之罪有癮，於犯罪未發覺前，自動向法院、檢察機關、司法警察機關或指定之勒戒處所請求勒戒，於斷癮後經調驗確已戒絕者，免除其刑。其未滿十八歲者，免予管訓處分，並塗銷其紀錄。\n　　犯前條第二項第四款之罪有癮，於犯罪未發覺前，自動向衛生署指定之醫療機構請求治療，醫療機構免將請求治療者送法院或檢察機關。\n　　犯前條第二項第四款或第五款之罪，於犯罪未發覺前，向法院、檢察機關或司法警察機關自首者，減輕或免除其刑。\n　　未滿十八歲者，於本條例修正前犯前條第二項第四款之罪，經調驗確已戒絕者，塗銷其紀錄。",
             "relates": {}
         },
         {
@@ -106,9 +106,9 @@
             "relates": {}
         },
         {
-            "note": "(免除其刑並免予感訓處分)",
+            "note": "(刪除)",
             "rule_no": "第十三條 之四",
-            "content": "　　犯第十三條之一第二項第四款或第五款之罪，其麻醉藥品為安非他命，自本條例修正施行之日起三個月內，向法院、檢察機關、司法警察機關或衛生主管機關據實申報並報繳其持有之安非他命，或施打、吸用有癮請求治療，於治療斷癮後經調驗確已戒絕者，免除其刑並免予感訓處分。\n　　前項申報或請求，係向司法警察機關或衛生主管機關為之者，免送法院或檢察機關；其報繳之安非他命，由衛生主管機關逕行銷毀之。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -131,67 +131,47 @@
         }
     ],
     "law_reasons": {
-        "第十三條 之二": "　　原條文旨在鼓勵施打或吸用麻醉藥品有癮者，自動請求勒戒。唯「免除其刑」仍會留下前科記錄，故為使誤用之青少年有改過自新機會，爰增列「其未滿十八歲者，免予記錄」。",
-        "第十三條 之四": "　　邇來社會上非法施打、吸用或持有安非他命情況嚴重，為維護國民健康及社會安寧，業將安非他命公告列入麻醉藥品管理條例第二條第四款所定「化學合成類麻醉藥品」管理對違法者，課以刑罰，期能遏止濫用。惟以其中部分青少年學生在不知情情況下發生誤用，初無犯罪之故意，且其亦蒙受禍害，殊堪矜恤；故對於自本條例修正施行之日起三個月內自動申報或請求治療者，允宜從寬處置，並明定報繳之安非他命，由衛生主管機關逕行銷毀之，爰增訂本條文，以資適用。"
+        "第十三條 之二": "　　一、現行第一項末句「免予記錄」一節，依檢察或司法實務作業，係「記錄後予以塗銷」，而非「免予記錄」；又因「少年事件處理法」修正，則第一項末句「免予記錄」可參照修正，並增列「免予管訓處分」，以資鼓勵。\n　　二、為鼓勵非法施用安非他命、潘他唑新等麻醉藥品有癮者之自首勒戒，冀以刑期無刑，爰比照肅清煙毒條例第四條第二項及第三項，於本條增訂第二項及第三項。\n　　三、增列第四項。",
+        "第十三條 之四": "　　一、本條刪除。\n　　二、本條係八十年十一月二十二日修正時所增訂，其目的在遏止安非他命濫用，鼓勵非法持有、施打、吸用者，自動申報報繳及請求治療。目前因實施期間已過，故予刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "791211",
-            "立法紀錄": "79卷99期2419號 21-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c8c6cfc6c6cfcfc4cfcfcdcec4cfcfcdcb",
-            "主提案": "張俊雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cdcdcfcfc5cbcbc6d2cbcace"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "800301",
-            "立法紀錄": "80卷18期2442號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cfcfcec7cfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "820714",
+            "立法紀錄": "82卷48期2647號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cac9cf81c7cdcbc7cfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfcdcfcfc5c8ccd2c8c9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfceccc8cfcfc5c8cad2c7cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "800429",
-            "立法紀錄": "81卷11期2539號 62-66頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cecfcececfcfc4cfcfc9cdc4cfcfc9c9",
+            "會議日期": "821206",
+            "立法紀錄": "82卷73期2672號上冊 582-599頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cac9cf81c7cdc8cccfcec4cfcac7cdc4cfcac6c6",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "801107",
-            "立法紀錄": "80卷91期2515號 162-171頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cfcfc6cecfcfc4cfcec9cdc4cfcec8ce",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 24-31頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cac9cf81c7cbcfcdcfcfc4cfcfcdcbc4cfcfccce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cececfcfc5cdc9cbd2cdc8ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcccfcfc5cccdcbd2cccccf"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "801107",
-            "立法紀錄": "80卷91期2515號 171-178頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cfcfc6cecfcfc4cfcec8cec4cfcec8c7",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "801107",
-            "立法紀錄": "80卷91期2515號 178-178頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cfcfc6cecfcfc4cfcec8c7c4cfcec8c7",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 31-31頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cac9cf81c7cbcfcdcfcfc4cfcfcccec4cfcfccce",
             "關係文書": []
         }
     ]
