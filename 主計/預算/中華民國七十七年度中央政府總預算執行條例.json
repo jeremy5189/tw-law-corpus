@@ -1,12 +1,10 @@
 {
     "title": "中華民國七十七年度中央政府總預算執行條例",
     "versions": [
-        "中華民國76年5月30日制定",
-        "中華民國76年6月12日公布"
+        "中華民國82年10月30日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -88,52 +86,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "760320",
-            "立法紀錄": "76卷23期2030號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdcb81c8c9cfcdcccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cfcbcfcfc5cbcccbd2cbccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "760401",
-            "立法紀錄": "76卷51期2058號 85-110頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdcb81c8c9cfcacecfcfc4cfcfc7cac4cfcececf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "760523",
-            "立法紀錄": "76卷81期2088號 173-185頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdcb81c8c9cfc7cecfcfc4cfcec8ccc4cfcec7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "760530",
-            "立法紀錄": "76卷44期2051號 14-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdcb81c8c9cfcbcbcfcfc4cfcfcecbc4cfcfcec9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cec7cfcfc5ccc9cdd2ccc6c7"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "760530",
-            "立法紀錄": "76卷44期2051號 16-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdcb81c8c9cfcbcbcfcfc4cfcfcec9c4cfcfcec9",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
