@@ -1,10 +1,11 @@
 {
     "title": "監察院組織法",
     "versions": [
-        "中華民國37年3月30日修正",
-        "中華民國37年4月3日公布"
+        "中華民國57年6月21日修正",
+        "中華民國57年7月2日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -65,7 +66,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　監察院設秘書處，其職掌如左：\n　　一、關於會議紀錄事項。\n　　二、關於派查案件及蒐集有關資料事項。\n　　三、關於文書收發及保管事項。\n　　四、關於文書分配、撰擬及編製事項。\n　　五、關於印信典守事項。\n　　六、關於出納、庶務事項。",
+            "content": "　　監察院設秘書處，分科、室辦事其職掌如左：\n　　一、關於會議紀錄事項。\n　　二、關於派查案件及蒐集有關資料事項。\n　　三、關於文書收發及保管事項。\n　　四、關於文書分配、撰擬及編製事項。\n　　五、關於印信典守事項。\n　　六、關於出納、庶務事項。",
             "relates": {}
         },
         {
@@ -77,7 +78,7 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　監察院置秘書八人至十二人，其中六人簡任或薦派，餘薦任或薦派。調查專員八人至十六人，其中六人簡任，餘薦任。科長四人至六人，薦任，速記員二人至四人，其中二人薦任，餘委任。科員四十至五十人，委任，其中十二人得為薦任。書記官二十人至四十人，辦事員二十人至四十人，均委任。並得用雇員四十人至六十人。\n　　監察院得聘用專門委員六人至十二人。",
+            "content": "　　監察院置主任秘書一人，簡任。秘書六人至十一人，其中五人簡任或簡派，餘薦任或薦派。調查專員六人至十二人，其中六人簡任，餘薦任。科長四人至六人，薦任。室主任七人至九人，薦任。其中二人得為簡任。速記員二人至四人，其中二人得為薦任，餘委任。科員八人至二十人，委任，其中八人得為薦任。辦事員三人至五人，均委任。並得用雇員十五人至廿五人，藥劑員一人，護士二人。\n　　監察院得聘用專門委員六人至十二人。",
             "relates": {}
         },
         {
@@ -97,6 +98,68 @@
             "rule_no": "第十五條",
             "content": "　　本法施行日期，以命令定之。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "570402",
+            "立法紀錄": "57卷23期號 1224-1224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc781cac8cbcecdcccfcfc4cecdcdcbc4cecdcdcb",
+            "主提案": "監察院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cdc6c7d2cccfcf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570408",
+            "立法紀錄": "57卷36期號 3093-3095頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc781cac8cbceccc9cfcfc4cccfc6ccc4cccfc6ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570501",
+            "立法紀錄": "57卷48期號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc781cac8cbcecbc7cfcfcfcdc4cfcfcecbc4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570515",
+            "立法紀錄": "57卷50期號 5-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc781cac8cbcecacfcfcfcfcdc4cfcfcfcac4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "570621",
+            "立法紀錄": "57卷46期號 4-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc781cac8cbcecbc9cfcfcfcec4cfcfcfcbc4cfcfcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcccfcfc5cdc7ced2cdc7c9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "570621",
+            "立法紀錄": "57卷46期號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc781cac8cbcecbc9cfcfcfcec4cfcfcfc7c4cfcfcfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "570621",
+            "立法紀錄": "57卷46期號 8-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc781cac8cbcecbc9cfcfcfcec4cfcfcfc7c4cfcfcfc6",
+            "關係文書": []
         }
     ]
 }
