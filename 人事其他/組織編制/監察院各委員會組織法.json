@@ -1,8 +1,8 @@
 {
     "title": "監察院各委員會組織法",
     "versions": [
-        "中華民國64年4月11日修正",
-        "中華民國64年4月22日公布"
+        "中華民國81年10月30日修正",
+        "中華民國81年11月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,13 +24,13 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　各委員會委員。由監察委員分任之；每一委員以任三委員會委員為限，每一委員會人數，不得超過三十人。",
+            "content": "　　各委員會委員，由監察委員分任之；每一委員以任三委員會委員為限。每一委員會委員人數不得超過十四人。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　各委員會委員不及二十人者，設召集人一人，二十人以上者，設召集人二人，由各該委員會委員互選之。\n　　各委員會召集人任期一年，不得連任。\n　　各委員會召集人不得兼任其他委員會召集人。",
+            "content": "　　各委員會設召集人一人，由各該委員會委員互選之；各委員會召集人任期一年，不得連任。\n　　各委員召集人不得擔任其他委員會召集人。",
             "relates": {}
         },
         {
@@ -72,67 +72,60 @@
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法第三條及第四條，自中華民國八十二年二月一日起施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第九條": "　　為配合公務職位分類法第三條之修正。",
-        "第十條": "　　為配合公務職位分類法第三條之修正。",
-        "第十一條": "　　本條刪除，不保留條次。"
+        "第三條": "　　配合中華民國憲法增修條文第十五條規定，監察委員置二十九人，爰將每一委員會委員人數修正為不得超過十四人。",
+        "第四條": "　　一、第一項配合前條予以修正。\n　　二、將第二項「兼任」修正為「擔任」。",
+        "第十一條": "　　依照憲法增修條文第十六條第二項規定，第二屆監察委員於中華民國八十二年二月一日就職，爰增列第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "640307",
-            "立法紀錄": "64卷20期774號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c881c9cbcacacdcfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "810929",
+            "立法紀錄": "81卷60期2588號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ccc9c681c7cecfc9cfcfcfc4cfcfcfcac4cfcfcfca",
             "主提案": "監察院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcdcfcfc5cbcec8d2cbcdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfcdcfcec5cccfc9d2cccdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "640312",
-            "立法紀錄": "64卷37期791號 44-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c881c9cbcacaccc8cfcfcfcdc4cfcfcbcbc4cfcfcbc6",
+            "會議日期": "811028",
+            "立法紀錄": "81卷69期2597號下冊 360-417頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ccc9c681c7cecfc9c6cfccc4cfccc9cfc4cfcbcec8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "640408",
-            "立法紀錄": "64卷29期783號 19-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c881c9cbcacacdc6cfcfcfcec4cfcfcec6c4cfcfcdcf",
+            "會議日期": "811030",
+            "立法紀錄": "81卷69期2597號上冊 207-212頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ccc9c681c7cecfc9c6cfcec4cfcdcfc8c4cfcdcecd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcccfcfc5cdc7cbd2cdc6c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecfcfcfc5ccc9cdd2ccc9c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "640408",
-            "立法紀錄": "64卷29期783號 26-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c881c9cbcacacdc6cfcfcfcec4cfcfcdc9c4cfcfcdc6",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "640408",
-            "立法紀錄": "64卷29期783號 29-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c881c9cbcacacdc6cfcfcfcec4cfcfcdc6c4cfcfcccf",
+            "會議日期": "811030",
+            "立法紀錄": "81卷69期2597號上冊 212-213頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ccc9c681c7cecfc9c6cfcec4cfcdcecdc4cfcdcecc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "640411",
-            "立法紀錄": "64卷30期784號 13-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c881c9cbcacacccfcfcfcfcec4cfcfceccc4cfcfcecb",
+            "會議日期": "811030",
+            "立法紀錄": "81卷69期2597號上冊 213-213頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ccc9c681c7cecfc9c6cfcec4cfcdceccc4cfcdcecc",
             "關係文書": []
         }
     ]
