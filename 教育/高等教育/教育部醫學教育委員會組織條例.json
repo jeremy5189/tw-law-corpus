@@ -1,12 +1,11 @@
 {
     "title": "教育部醫學教育委員會組織條例",
     "versions": [
-        "中華民國102年12月31日廢止",
-        "中華民國103年1月15日公布"
+        "中華民國34年9月29日制定",
+        "中華民國34年10月16日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -80,62 +79,6 @@
             "rule_no": "第十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　配合行政院組織改造作業，教育部醫學教育委員會組織條例予以廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "1020226",
-            "立法紀錄": "102卷7期4032號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c6cf81cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cececcd2cececb"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1021205",
-            "立法紀錄": "102卷83期4108號 173-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c6cf81cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 353-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c6cf81cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c7c7d2c7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c6cf81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c6cf81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
-            "關係文書": []
         }
     ]
 }
