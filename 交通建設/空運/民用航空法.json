@@ -1,8 +1,8 @@
 {
     "title": "民用航空法",
     "versions": [
-        "中華民國90年4月12日修正",
-        "中華民國90年5月2日公布"
+        "中華民國90年5月11日修正",
+        "中華民國90年5月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -364,7 +364,7 @@
         {
             "note": "",
             "rule_no": "第五十五條",
-            "content": "　　民用航空運輸業客貨之運價，其為國際航線者，應報請民航局轉呈交通部備查；其為國內航線者，應報請民航局轉呈交通部核准。變更時，亦同。\n　　為照顧澎湖縣、金門縣、連江縣等離島地區居民，對於往返居住地或離島與其離島間，搭乘航空器者，應予票價補貼。\n　　前項航空器，包含固定翼飛機及直昇機。\n　　對於經營離島地區固定翼飛機及直昇機之航空公司，應予獎助。\n　　第二項票價補貼辦法及第四項獎助辦法，均由交通部擬訂報請行政院核定之。",
+            "content": "　　民用航空運輸業客貨之運價，其為國際航線者，應報請民航局轉呈交通部備查；其為國內航線者，應報請民航局轉呈交通部核准。變更時亦同。\n　　為照顧澎湖縣、金門縣、連江縣、台東縣蘭嶼鄉與綠島鄉等離島地區居民，對於往返居住地或離島與其離島間，搭乘航空器者，應予票價補貼。\n　　前項航空器，包含固定翼飛機及直昇機。\n　　對於經營離島地區固定翼飛機及直昇機之航空公司，應予獎助。\n　　第二項票價補貼辦法及第四項獎助辦法，均由交通部擬訂報請行政院核定之。",
             "relates": {}
         },
         {
@@ -813,118 +813,46 @@
         }
     ],
     "law_reasons": {
-        "第二十三條": "　　一、配合第四項及第六項之修正，爰將第一項有關委託機關、團體之規定予以刪除。\n　　二、為考量檢定業務之委託執行，能有彈性運用作法，以符國際規定及實務需求，爰修正第四項。\n　　三、為配合與美國交涉雙邊航空安全協定之需求與明確航空器產品及其零組件之適航標準，增訂第五項。\n　　四、為明確航空器產品及其零組件之設計、製造、組裝之驗證管理及製造廠之檢定及其相關管理作業，增訂第六項。\n　　五、增列第七項，明定民航局為促進民航事業發展，並督導其業務之管理規定。",
-        "第二十八條": "　　一、配合臺灣省政府功能業務與組織調整，將第一項省政府向民航局申請設立及廢止省營航空站刪除，並將省政府向民航局申請設立及廢止縣（市）營航空站修正為由縣（市）政府申請設立及廢止。\n　　二、第二項未修正。",
-        "第四十三條": "　　一、航空器於關機艙門前（尚有其他乘客登機），其尚未啟動引擎，不屬於飛航狀態，故此時接聽行動電話並無干援飛行之虞。為使法律規範更臻明確，爰予以修正之。\n　　二、增列第三項。",
-        "第四十八條": "　　一、第一項增訂民用航空運輸業於核定籌設期間內應自備航空器及具有依相關法規從事安全營運之能力並經民航局完成營運規範審查合格之規定。\n　　二、配合行政程序法之規定，合法行政處分應以廢止方式為之，將第二項之「撤銷」修正為「廢止」；另將「核發」修正為「民航局發給」，以資明確。\n　　三、第三項酌作文字修正。\n　　四、配合第二項但書規定，增訂第四項，有關核准延展期限不得逾六個月，並以一次為限之規定，以資週延。",
-        "第五十五條": "　　明訂離島地區航空票價補貼之對象；以及對經營離島地區之航空公司，應予獎助。",
-        "第六十四條": "　　一、第一項增訂普通航空業應於核定籌設期間內應自備航空器及具有依相關法規從事安全營運之能力並經民航局完成營運規範審查合格之規定。\n　　二、配合第一項增訂業者應在核定籌設期間內「自備航空器」，故第二項有關「未備有航空器」之規定，已無發生之可能，爰予修正為「逾十二個月未開業」。\n　　三、配合行政程序法規定，合法行政處分應以廢止方式為之，爰將第二項之「撤銷」修正為「廢止」；另將「核發」修正為「民航局發給」，以資明確。\n　　四、為求立法體例之一致性，將第二項但書申請延展之規定，修正為但有正當理由，可依規定程序申請延展，並移列為第三項。",
-        "第一百十二條": "　　配合行政程序法之規定，合法行政處分應以廢止方式為之，爰將第一項之「撤銷」修正為「廢止」；另配合本法第二十三條及符合司法院釋字第三一三號解釋有關授權明確性原則之要求，將本項部分款次不明確之違反要件予以修正，以資具體適用。",
-        "第一百十四條": "　　一、鑑於本條違規行為態樣不一，其輕重程度亦有不同，爰修正罰責，予以區分為罰鍰、停止營業及廢止檢定證書，以應實務需求要。\n　　二、另配合本法第二十三條及符合司法院釋字第三一三號解釋有關授權明確性原則之要求，將本條部分款次不明確之違反要件予以增修，以資具體適用。"
+        "第五十五條": "　　於第二項中澎湖縣、金門縣、連江縣後增列「臺東縣蘭嶼鄉與綠島鄉」等字以尊重臺東縣離島之立法地位，避免行政適用解釋上滋生疑義。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890321",
-            "立法紀錄": "89卷12期3071號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c7c6cecdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "900501",
+            "立法紀錄": "90卷22期3156號上冊 47-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc881c6cfcdcdcfcec4cfcfcbc8c4cfcfcbc8",
+            "主提案": "徐慶元",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5cacecdd2caccc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890328",
-            "立法紀錄": "89卷13期3072號 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c7c6cecccfcfc4cfcfcdcbc4cfcfcdcb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc8cfcec5cbd2c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890915",
-            "立法紀錄": "89卷50期3109號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c7c6cacfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "林炳坤",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcecfcec5c9cec9d2c9cec7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891208",
-            "立法紀錄": "89卷70期3129號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c7c6c8cfcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "湯金全",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcececfcdc5cec7c8d2cec6cf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900306",
-            "立法紀錄": "90卷9期3143號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c6cfcfc6cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "陳其邁",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcdc5cdc9cdd2cdc8ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900320",
-            "立法紀錄": "90卷12期3146號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c6cfcecdcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcecfcec5cec6c8d2cdcdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc9cfcec5cecec9d2cecec7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900314",
-            "立法紀錄": "90卷15期3149號下冊 1-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c6cfcecacfccc4cfcfcfcec4cfcfcbc8",
+            "會議日期": "900503",
+            "立法紀錄": "90卷33期3167號 157-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc881c6cfcccccfcfc4cfcecac8c4cfcec9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "900412",
-            "立法紀錄": "90卷17期3151號上冊 133-169頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c6cfcec8cfcec4cfceccccc4cfcec9c6",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 76-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc881c6cfcdc9cfcec4cfcfc8c9c4cfcfc8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcbcfccc5caceced2cacbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc7cfcdc5cbcacad2cbc9cf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "900412",
-            "立法紀錄": "90卷17期3151號上冊 169-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc981c6cfcec8cfcec4cfcec9c6c4cfcec8cf",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 79-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cdc881c6cfcdc9cfcec4cfcfc8c6c4cfcfc8c6",
             "關係文書": []
         }
     ]
