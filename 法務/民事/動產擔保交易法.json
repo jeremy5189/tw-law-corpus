@@ -1,8 +1,8 @@
 {
     "title": "動產擔保交易法",
     "versions": [
-        "中華民國59年5月19日修正",
-        "中華民國59年5月28日公布"
+        "中華民國65年1月20日修正",
+        "中華民國65年1月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -35,6 +35,12 @@
             "note": "",
             "rule_no": "第四條",
             "content": "　　機器、設備、工具、原料、半製品、成品、車輛、農林漁牧產品、牲畜及總噸位未滿二十噸之動力船舶或未滿五十噸之非動力船舶，均得為動產擔保交易之標的物。\n　　前項各類標的物之品名，由行政院視事實需要及交易性質，以命令定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第四條 之一",
+            "content": "　　動產擔保交易之標的物，有加工、附合或混合之情形者，其擔保債權之效力及於加工物、附合物或混合物。但以原有價值為限。",
             "relates": {}
         },
         {
@@ -110,7 +116,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　動產抵押契約，應載明左列事項：\n　　一、契約當事人之姓名或名稱、住居所或營業所。\n　　二、所擔保債權之金額及利率。\n　　三、抵押物之名稱、數量，如有特別編號標識或說明者，其記載。\n　　四、債務人或第三人占有抵押物之方式及其所在地。\n　　五、所擔保債權之清償方法。\n　　六、債務人不履行債務時，抵押權人行使動產抵押權及債權之方法。\n　　七、如有保險者，其受益人應為抵押權人之記載。\n　　八、管轄法院之名稱。\n　　九、其他條件之記載。\n　　十、訂立契約年月日。",
+            "content": "　　動產抵押契約，應載明左列事項：\n　　一、契約當事人之姓名或名稱、住、居所或營業所。\n　　二、所擔保債權之金額及利率。\n　　三、抵押物之名稱、數量，如有特別編號、標識或說明者，其記載。\n　　四、債務人或第三人占有抵押物之方式及其所在地。\n　　五、所擔保債權之清償方法。\n　　六、債務人不履行債務時，抵押權人行使動產抵押權及債權之方法。\n　　七、如有保險者，其受益人應為抵押權人之記載。\n　　八、管轄法院之名稱。\n　　九、其他條件之記載。\n　　十、訂立契約年、月、日。\n　　動產抵押契約以一定期間內所發生之債權作為所擔保之債權者，其依前項第二款所載明之金額，應為原本及利息之最高金額。",
             "relates": {}
         },
         {
@@ -254,19 +260,19 @@
         {
             "note": "",
             "rule_no": "第三十八條",
-            "content": "　　動產擔保交易之債務人，意圖不法之利益將標的物遷移、出賣、出質、移轉、抵押或為其他處分，致生損害於債權人者，處三年以下有期徒刑、拘役或科或併科三千元以下之罰金。",
+            "content": "　　動產擔保交易之債務人，意圖不法之利益，將標的物遷移、出賣、出質、移轉、抵押或為其他處分，致生損害於債權人者，處三年以下有期徒刑、拘役或科或併科六千元以下之罰金。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三十九條",
-            "content": "　　動產擔保交易之債務人或第三人，故意使標的物減少或毀損，致生損害於債權人者，處二年以下有期徒刑、拘役或科或併科二千元以下之罰金。",
+            "content": "　　動產擔保交易之債務人或第三人，故意使標的物減少或毀損，致生損害於債權人者，處二年以下有期徒刑、拘役或科或併科四千元以下之罰金。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四十條",
-            "content": "　　設定動產抵押之債務人或第三人，故意使留置權發生，致生損害於抵押權人者，處一年以下有期徒刑、拘役或科或併科一千元以下之罰金。",
+            "content": "　　設定動產抵押之債務人或第三人，故意使留置權發生，致生損害於抵押權人者，處一年以下有期徒刑、拘役或科或併科二千元以下之罰金。",
             "relates": {}
         },
         {
@@ -293,60 +299,85 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　為期依海商法第三條第一款規定不適用該法設定抵押之「未滿二十噸之動力船舶或未滿五十噸之非動力船舶」得為動產擔保交易之標的，爰於本條第一項增訂之。"
+        "第四條 之一": "　　一、本條係增訂。\n　　二、標的物經加工、附合或混合後，擔保債權效力所及之範圍如何，宜作原則性規定。爰參照民法第８１２、８１３及８１４條暨美國動產擔保交易法等立法例，增訂本條，以使經設定擔保之動產，其債務人仍得充分享有使用收益之權，以增加擔保交易標的物之價值，兼謀有效確保債權人之債權。",
+        "第十六條": "　　一、增訂本條第二項。\n　　二、以一定期間內所發生之債權設定抵押權而限定其最高金額，各金融機構的抵押放款，殆已成為通例。此類抵押權在法律上應屬有效，如按最高額於一定期間內設定抵押權，係就將來實際發生之債權而為擔保，其性質仍與一般抵押權之設定無異，倘此項抵押權業經依法辦理登記，自應承認其效力。\n　　三、我國現行法尚無得就最高債權額預為設定抵押權的明文，爰於本條增列第二項，俾因應實際需要。",
+        "第三十八條": "　　原定罰金金額較低，在目前經濟情況下，實不足以收嚇阻之效，爰將所定罰金提高，藉求適應情勢變遷。",
+        "第三十九條": "　　原定罰金金額較低，在目前經濟情況下，實不足以收嚇阻之效，爰將所定罰金提高，藉求適應情勢變遷。",
+        "第四十條": "　　原定罰金金額較低，在目前經濟情況下，實不足以收嚇阻之效，爰將所定罰金提高，藉求適應情勢變遷。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "590130",
-            "立法紀錄": "59卷8期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcbcfc7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "641205",
+            "立法紀錄": "64卷98期852號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cbcac9c6c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcccfcfc5c8cfc7d2c8cecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcccfcfc5c9cfc8d2c9cecb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "590507",
-            "立法紀錄": "59卷41期0號 1-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcacbcecfcfcfcdc4cfcfcfcec4cfcfcfcb",
+            "會議日期": "641227",
+            "立法紀錄": "65卷22期881號 7-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cacac8cdcdcfcfcfcdc4cfcfcfc8c4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "641231",
+            "立法紀錄": "65卷26期885號 6-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cacac8cdc9cfcfcfcdc4cfcfcfc9c4cfcfcecc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "590515",
-            "立法紀錄": "59卷36期0號 36-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcaccc9cfcfcfcec4cfcfccc9c4cfcfcbcf",
+            "會議日期": "650109",
+            "立法紀錄": "65卷3期862號 25-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cacac9cfcccfcfcfcec4cfcfcdcac4cfcfccc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5c7cecbd2c7cec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcbcfcfc5cacbc8d2cacac9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "590519",
-            "立法紀錄": "59卷37期0號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcaccc8cfcfcfcec4cfcfcfccc4cfcfcfcb",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "650109",
+            "立法紀錄": "65卷3期862號 36-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cacac9cfcccfcfcfcec4cfcfccc9c4cfcfccc6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "590519",
-            "立法紀錄": "59卷37期0號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcaccc8cfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "650113",
+            "立法紀錄": "65卷4期863號 7-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cacac9cfcbcfcfcfcec4cfcfcfc8c4cfcfcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "650116",
+            "立法紀錄": "65卷5期864號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cacac9cfcacfcfcfcec4cfcfcfccc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "650116",
+            "立法紀錄": "65卷5期864號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cacac9cfcacfcfcfcec4cfcfcecbc4cfcfcecb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "590519",
-            "立法紀錄": "59卷37期0號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcaccc8cfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "650120",
+            "立法紀錄": "65卷6期865號 13-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacc81c9cacac9cfc9cfcfcfcec4cfcfceccc4cfcfcec8",
             "關係文書": []
         }
     ]
