@@ -1,12 +1,12 @@
 {
     "title": "總統副總統選舉罷免法（民國36年）",
     "versions": [
-        "中華民國43年3月12日修正",
-        "中華民國43年3月13日公布"
+        "中華民國88年11月30日廢止",
+        "中華民國88年12月15日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -94,44 +94,44 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　依憲法增修條文第二條新制定之「總統副總統選舉罷免法」業經總統於八十四年公布施行，原三十六年制定之「總統副總統選舉罷免法」自無繼續適用之必要，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430309",
-            "立法紀錄": "43卷13期號2冊 59-60頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdcb81cbcccecccfcdc4cfcfcac6c4cfcfc9cf",
-            "主提案": "行政院",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdca81c7c7cecccfcec4cfcfcfcec4cfcfcfce",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5cac9c9d2cac9c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcfc5cecac7d2cec9cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "430312",
-            "立法紀錄": "43卷13期號2冊 24-27頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdcb81cbcccecccfcdc4cfcfcdcbc4cfcfcdc8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5cac7ced2cac7ca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430312",
-            "立法紀錄": "43卷13期號2冊 80-89頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdcb81cbcccecccfcdc4cfcfc7cfc4cfcfc7c6",
+            "進度": "委員會審查",
+            "會議日期": "880607",
+            "立法紀錄": "88卷35期3035號 3-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdca81c7c7cccacfcfc4cfcfcfccc4cfcfcfc6",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "881119",
+            "立法紀錄": "88卷50期3050號上冊 67-71頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdca81c7c7cacfcfcec4cfcfc9c8c4cfcfc8ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c7cec6d2c7cdcb"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "430312",
-            "立法紀錄": "43卷13期號2冊 89-90頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdcb81cbcccecccfcdc4cfcfc7c6c4cfcfc6cf",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 114-114頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdca81c7c7cacdcfcec4cfcececbc4cfcececb",
             "關係文書": []
         }
     ]
