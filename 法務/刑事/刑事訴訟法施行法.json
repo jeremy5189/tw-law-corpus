@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法施行法",
     "versions": [
-        "中華民國79年7月17日修正",
-        "中華民國79年8月3日公布"
+        "中華民國84年10月5日修正",
+        "中華民國84年10月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,7 +12,7 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　本法稱修正刑事訴訟者，謂中華民國五十六年一月十三日修正後，公布施行之刑事訴訟法。",
+            "content": "　　本法稱修正刑事訴訟法者，謂中華民國八十四年十月五日修正後公布施行之刑事訴訟法。",
             "relates": {}
         },
         {
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　刑事訴訟法簡易程序修正施行前已繫屬於各級法院之簡易程序案件，仍依施行前之法定程序處理之。",
+            "content": "　　修正刑事訴訟法施行前，原得上訴於第三審之案件，已繫屬於各級法院者，仍依施行前之法定程序終結之。\n　　修正刑事訴訟法施行前，已繫屬於各級法院之簡易程序案件，仍應依施行前之法定程序終結之。",
             "relates": {}
         },
         {
@@ -53,53 +53,54 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　刑事訴訟關於簡易程序之適用、求刑、上訴及判決書之製作均已作修正，該修正案施行前已繫屬於各級法院之簡易程序案件，究應適用新法或舊法允宜予以明文規定；基於法律不溯既往原則，自宜悉依舊法，以免當事人遭不測之危險，亦增加程序之複雜。亦即不賦予被告聲請適用簡易程序之權，法院亦不得主動酌情適用簡易程序。不賦予被告表示科刑範圍機會，即無求刑範圍內科刑時限制上訴之問題。而不服簡易判決者，亦應依舊法向管轄之高等法院或其分院上訴。"
+        "第一條": "　　本法稱修正刑事訴訟法者，係指八十四年十月五日經立法院修正三讀通過，並經總統明令公布之刑事訴訟法。",
+        "第五條": "　　一、修正刑事訴訟法施行前，原得上訴於第三審法院之案件，如已繫屬於各級法院，不應因修正刑事訴訟法之施行，而影響當事人之上訴、抗告等訴訟權益，爰增列本項。\n　　二、修正刑事訴訟法對於簡易程序部分亦有修正（第四百四十九條、第四百五十一條、第四百五十四條之條文），為避免影響被告訴訟權益，爰將本條條文作適當修正，並移列為第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "790306",
-            "立法紀錄": "79卷19期2339號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec981c8c6cfcec6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "830624",
+            "立法紀錄": "83卷45期2719號上冊 17-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cccbcacfcec4cfcfcec8c4cfcfcec8",
             "主提案": "司法院、行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cacfcccfcfc5cccbd2cbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcbcfcec5c6c6d2cecfc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "790321",
-            "立法紀錄": "79卷82期2402號 323-333頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec981c8c6cfc7cdcfcfc4cfcccdccc4cfcccccc",
+            "會議日期": "830706",
+            "立法紀錄": "83卷51期2725號 131-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cccacecfcfc4cfcecccec4cfcecacf",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "790717",
-            "立法紀錄": "79卷57期2377號上冊 158-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec981c8c6cfcac8cfcec4cfcecac7c4cfcec9c7",
+            "進度": "委員會審查",
+            "會議日期": "830711",
+            "立法紀錄": "83卷53期2727號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cccacccfcfc4cfcfcecec4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "841005",
+            "立法紀錄": "84卷50期2807號 72-89頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cbcacfcfcfc4cfcfc8cdc4cfcfc7c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7caccc8cfccc5cccaccd2ccc9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec7cfcec5cacdcad2caccc6"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "790717",
-            "立法紀錄": "79卷57期2377號上冊 168-169頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec981c8c6cfcac8cfcec4cfcec9c7c4cfcec9c6",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "790717",
-            "立法紀錄": "79卷57期2377號上冊 169-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec981c8c6cfcac8cfcec4cfcec9c6c4cfcec8cf",
+            "會議日期": "841005",
+            "立法紀錄": "84卷50期2807號 89-89頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec881c7cbcacfcfcfc4cfcfc7c6c4cfcfc7c6",
             "關係文書": []
         }
     ]
