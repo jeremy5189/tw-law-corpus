@@ -1,11 +1,12 @@
 {
     "title": "公務員進修及考察選送條例",
     "versions": [
-        "中華民國35年5月11日修正",
-        "中華民國35年5月25日公布"
+        "中華民國91年5月10日廢止",
+        "中華民國91年5月22日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -103,6 +104,40 @@
             "rule_no": "第十六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「公務人員訓練進修法」業經總統於民國91年1月30日公布施行，有關公務人員訓練進修相關規定已納入本法規定，前於民國32年制定之「公務員進修及考察選送條例」已與現況扞格，無存在之必要，爰予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "910319",
+            "立法紀錄": "91卷18期3214號 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdccc8cd81c6cecec7cfcfc4cfcfcfc9c4cfcfcfc9",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cbcacad2cbc9cf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "910422",
+            "立法紀錄": "91卷41期3237號 183-186頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdccc8cd81c6cecbcecfcfc4cfcec7ccc4cfcec7c9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 77-80頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdccc8cd81c6cecccccfcec4cfcfc8c8c4cfcfc7cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfcdc5cbc8c9d2cbc7ca"
+                ]
+            ]
         }
     ]
 }
