@@ -1,12 +1,12 @@
 {
     "title": "屠宰稅法",
     "versions": [
-        "中華民國51年8月24日全文修正",
-        "中華民國51年8月29日公布"
+        "中華民國76年4月14日廢止",
+        "中華民國76年4月24日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -118,44 +118,39 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　因屠宰稅逃漏嚴重，又難以全面查緝，稽徵成本亦高，而屠體驗印，有礙國內製革工業之發展。且屠體未經檢查，影響國民健康，因此政府訂定多項行政法規，以玆管理，故將已不符需要之屠宰稅法加以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "500106",
-            "立法紀錄": "50卷26期號12冊 75-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececdce81cacfcdc9cecdc4cfcfc8cac4cfcfc8c9",
-            "主提案": "行政院",
+            "會議日期": "760109",
+            "立法紀錄": "76卷3期2010號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cececdcc81c8c9cfcfcccfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc9cfcdcfcfc5caccc7d2cacacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c7cfc6cfcfc5cdcbcdd2cdcbca"
                 ]
             ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "760314",
+            "立法紀錄": "76卷39期2046號 151-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cececdcc81c8c9cfccc6cfcfc4cfcecacec4cfcec9cf",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "510824",
-            "立法紀錄": "51卷29期號20冊 2-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececdce81cacecdc6cdcfc4cfcfcfcdc4cfcfcec8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5c8cdced2c8cbcf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510824",
-            "立法紀錄": "51卷29期號20冊 47-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececdce81cacecdc6cdcfc4cfcfcbc8c4cfcfcacd",
+            "會議日期": "760414",
+            "立法紀錄": "76卷30期2037號 12-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cececdcc81c8c9cfcccfcfcfc4cfcfcecdc4cfcfcec9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "510824",
-            "立法紀錄": "51卷29期號20冊 52-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececdce81cacecdc6cdcfc4cfcfcacdc4cfcfcaca",
+            "會議日期": "760414",
+            "立法紀錄": "76卷30期2037號 12-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cececdcc81c8c9cfcccfcfcfc4cfcfcecdc4cfcfcec9",
             "關係文書": []
         }
     ]
