@@ -1,11 +1,12 @@
 {
     "title": "陸軍大學校組織法",
     "versions": [
-        "中華民國34年2月27日全文修正",
-        "中華民國34年4月7日公布"
+        "中華民國67年10月17日廢止",
+        "中華民國67年10月27日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -121,6 +122,35 @@
             "rule_no": "第十九條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　因陸軍大學於四十年裁撤，其組織法已無保留必要，故加以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "670929",
+            "立法紀錄": "67卷78期1146號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccbc681c9c8c9cdc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cac8d2c9cd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671004",
+            "立法紀錄": "67卷104期1172號 110-111頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccbc681c9c8c9cdcecfcbcfcfc4cfcececfc4cfcecece",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "671017",
+            "立法紀錄": "67卷83期1151號 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccbc681c9c8c9cdc7cccfcfc4cfcfcfc6c4cfcfcecf",
+            "關係文書": []
         }
     ]
 }
