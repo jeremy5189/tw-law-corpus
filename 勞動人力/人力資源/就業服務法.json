@@ -1,8 +1,8 @@
 {
     "title": "就業服務法",
     "versions": [
-        "中華民國92年4月29日修正",
-        "中華民國92年5月13日公布"
+        "中華民國92年5月16日修正",
+        "中華民國92年5月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -342,9 +342,9 @@
             "relates": {}
         },
         {
-            "note": "(外國人工作許可之期間及申請延展期限)",
+            "note": "(外國人工作許可期間及申請延展期限)",
             "rule_no": "第五十二條",
-            "content": "　　聘僱外國人從事第四十六條第一項第一款至第七款及第十一款規定之工作，許可期間最長為三年，期滿有繼續聘僱之需要者，雇主得申請展延。\n　　聘僱外國人從事第四十六條第一項第八款至第十款規定之工作，許可期間最長為二年；期滿後，雇主得申請展延一次，其展延期間不得超過一年。重大工程特殊情形者，得申請再展延，最長以六個月為限。\n　　前項每年得引進總人數，依外籍勞工聘僱警戒指標，由中央主管機關邀集相關機關、勞工、雇主、學者代表協商之。\n　　受聘僱之外國人於聘僱許可期間無違反法令規定情事而因聘僱關係終止、聘僱許可期間屆滿出國或因健康檢查不合格經返國治癒再檢查合格者，得再入國工作。但從事第四十六條第一項第八款至第十款規定工作之外國人，應出國一日後始得再入國工作，且其在中華民國境內工作期間，累計不得逾六年。",
+            "content": "　　聘僱外國人從事第四十六條第一項第一款至第七款及第十一款規定之工作，許可期間最長為三年，期滿有繼續聘僱之需要者，雇主得申請展延。\n　　聘僱外國人從事第四十六條第一項第八款至第十款規定之工作，許可期間最長為二年；期滿後，雇主得申請展延一次，其展延期間不得超過一年。如有重大特殊情形者，得申請再展延，其期間由行政院以命令定之。但屬重大工程者，其再展延期間，最長以六個月為限。\n　　前項每年得引進總人數，依外籍勞工聘僱警戒指標，由中央主管機關邀集相關機關、勞工、雇主、學者代表協商之。\n　　受聘僱之外國人於聘僱許可期間無違反法令規定情事而因聘僱關係終止、聘僱許可期間屆滿出國或因健康檢查不合格經返國治癒再檢查合格者，得再入國工作。但從事第四十六條第一項第八款至第十款規定工作之外國人，應出國一日後始得再入國工作，且其在中華民國境內工作期間，累計不得逾六年。",
             "relates": {}
         },
         {
@@ -543,154 +543,34 @@
         }
     ],
     "law_reasons": {
-        "第四十六條": "　　原條文第一項第三款第二目修正為「公立或已立案之私立高級中等以下學校之合格外國語文課程教師。",
-        "第四十八條": "　　茲因外國人與中華民國境內設有戶籍之國民結婚，且獲准居留者，依原條文第五十一條第一項第一款可逕向中央主管機關申請許可證明。惟此等申請之程序在法律上乃徒具形式並無實質意義。故特修正第四十八條第一項後段，法律明文規定符合「與中華民國境內設有戶籍之國民結婚，且獲准居留者」條件之人，不待申請許可，法律即應賦予平等工作之權利。",
-        "第五十一條": "　　因配合本法第四十八條第一項第一款後段之修正，刪除第五十一條第一項第一款之規定。",
-        "第五十二條": "　　本法規定外籍監護工的聘僱許可時間最長可為三年，期滿有繼續聘僱之需要者，雇主可申請展延，但第四款又規定，外籍監護工應出國四十日後始得再入國工作，造成許多僱用家庭的不便，因此只要有出國的事實即可，不必硬性規定長達四十天的出國時間。",
-        "第五十三條": "　　配合本法第五十一條第二項修正第五十三條第二項前段之規定。"
+        "第五十二條": "　　鑒於ＷＨＯ視各地疫情狀況，日前已將菲律賓馬尼拉市宣布為「最近有ＳＡＲＳ地區性傳播的地區」，行政院業就其對疫情影響相應採行管制措施，惟對於來自「最近有ＳＡＲＳ地區性傳播的地區」之外國人，其在臺聘僱許可期間屆滿者，於此期間如令其離臺後復申請來臺，則有增加其移動造成感染之風險，爰予修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910312",
-            "立法紀錄": "91卷16期3212號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cecec9cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "王昱婷",
+            "會議日期": "920516",
+            "立法紀錄": "92卷29期3303號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccc81c6cdcdc6cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcdcfcec5cacdcfd2cacdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecdcfcec5cbcbc6d2cbcacc"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cecccbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林政義",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececdcfcfc5c6c7d2cecfce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cecccbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林政義",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfccc5cbcbcad2cbcbc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910531",
-            "立法紀錄": "91卷39期3235號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6ceccc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececbcfcdc5cccfccd2cccfc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910531",
-            "立法紀錄": "91卷39期3235號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6ceccc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "李慶安",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececbcfcdc5cbcdced2cbcdcb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910531",
-            "立法紀錄": "91卷39期3235號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6ceccc6cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "林重謨",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececbcfccc5cececbd2cecec9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cecbcfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林岱樺",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5cecbccd2cecbc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910927",
-            "立法紀錄": "91卷57期3253號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cecac8cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "邱創進",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcdcfcec5cbc6d2cacc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "911108",
-            "立法紀錄": "91卷67期3263號上冊 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cec9c8cfcec4cfcfcfccc4cfcfcfcb",
-            "主提案": "高明見",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc7cfcec5cec7c6d2cec6cd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "920108",
-            "立法紀錄": "92卷10期3284號上冊 282-326頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cdcecfcfcec4cfcdc7cdc4cfcccdc9",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "920429",
-            "立法紀錄": "92卷23期3297號一冊 108-146頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cdcdcccfcec4cfcecfc7c4cfcecbc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfc6cfcdc5cdcacbd2cdc7c8"
-                ]
-            ]
+            "會議日期": "920516",
+            "立法紀錄": "92卷29期3303號一冊 59-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccc81c6cdcdc6cfcec4cfcfcac6c4cfcfc9cd",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "920429",
-            "立法紀錄": "92卷23期3297號一冊 146-147頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccd81c6cdcdcccfcec4cfcecbc9c4cfcecbc8",
+            "會議日期": "920516",
+            "立法紀錄": "92卷29期3303號一冊 62-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcccc81c6cdcdc6cfcec4cfcfc9cdc4cfcfc9cc",
             "關係文書": []
         }
     ]
