@@ -1,11 +1,12 @@
 {
     "title": "分類職位公務人員考績法",
     "versions": [
-        "中華民國36年6月12日全文修正",
-        "中華民國36年6月23日公布"
+        "中華民國62年5月25日廢止",
+        "中華民國62年6月7日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -49,6 +50,30 @@
             "rule_no": "第七條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　外交部特派員公署組織條例係三十六年公布實施，自政府遷臺，外交部特派員公裁撤，玆因情勢變遷，本條例亦無保留必要，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "620323",
+            "立法紀錄": "62卷21期577號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7c7cc81c9cdcacecdcecfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620512",
+            "立法紀錄": "62卷51期607號 8-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7c7cc81c9cdcacecacecfcfcfcdc4cfcfcfc7c4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620525",
+            "立法紀錄": "62卷39期595號 29-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7c7cc81c9cdcaceccc6cfcfcfcec4cfcfcdc6c4cfcfcccf",
+            "關係文書": []
         }
     ]
 }
