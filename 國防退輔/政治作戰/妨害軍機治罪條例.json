@@ -1,10 +1,11 @@
 {
     "title": "妨害軍機治罪條例",
     "versions": [
-        "中華民國40年4月24日制定",
-        "中華民國40年5月6日公布"
+        "中華民國43年4月30日修正",
+        "中華民國43年5月4日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -63,9 +64,9 @@
             "relates": {}
         },
         {
-            "note": "(軍事機關之審理)",
+            "note": "(軍事機關及司法機關之審理)",
             "rule_no": "第十條",
-            "content": "　　犯本條例之罪者，軍人由軍事機關審理，非軍人由司法機關依特種刑事案件訴訟程序審理之。",
+            "content": "　　犯本條例之罪者，除現役軍人由軍事機關審理外由司法機關審理之。",
             "relates": {}
         },
         {
@@ -77,7 +78,7 @@
         {
             "note": "(施行期限)",
             "rule_no": "第十二條",
-            "content": "　　本條例施行期間為三年。",
+            "content": "　　本條例施行期間為六年。",
             "relates": {}
         },
         {
@@ -85,6 +86,35 @@
             "rule_no": "第十三條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430430",
+            "立法紀錄": "43卷13期號10冊 10-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c981cbcccecccfcbc4cfcfcecfc4cfcfcece",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cecbcad2cecbc9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430430",
+            "立法紀錄": "43卷13期號10冊 71-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c981cbcccecccfcbc4cfcfc8cec4cfcfc8cd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "430430",
+            "立法紀錄": "43卷13期號10冊 72-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c981cbcccecccfcbc4cfcfc8cdc4cfcfc8cd",
+            "關係文書": []
         }
     ]
 }
