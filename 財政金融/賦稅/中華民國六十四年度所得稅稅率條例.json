@@ -1,12 +1,10 @@
 {
     "title": "中華民國六十四年度所得稅稅率條例",
     "versions": [
-        "中華民國63年12月17日制定",
-        "中華民國63年12月27日公布"
+        "中華民國65年11月17日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -46,59 +44,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "631122",
-            "立法紀錄": "63卷88期744號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cc81c9cccacbc7c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacbcfcccfcfc5ccc8c7d2ccc6c9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "631128",
-            "立法紀錄": "63卷94期751號 1-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cc81c9cbcacbc6cbcfcfcfcdc4cfcfcfcec4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "631202",
-            "立法紀錄": "63卷96期752號 1-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cc81c9cbcacbc6c9cfcfcfcdc4cfcfcfcec4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "631209",
-            "立法紀錄": "64卷3期757號 7-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cc81c9cbcacbcfcccfcfcfcdc4cfcfcfc8c4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "631211",
-            "立法紀錄": "64卷9期763號 6-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cc81c9cbcacbcfc6cfcfc4cfcfcfc9c4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "631217",
-            "立法紀錄": "63卷95期751號 12-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cc81c9cbcacbc6cacfcfcfcec4cfcfcecdc4cfcfcdce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacbcfcbcfcfc5cac9d2c9ce"
-                ]
-            ]
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
