@@ -1,8 +1,8 @@
 {
     "title": "中央通訊社設置條例",
     "versions": [
-        "中華民國87年12月29日修正",
-        "中華民國88年1月20日公布"
+        "中華民國84年12月29日制定",
+        "中華民國85年1月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -31,12 +31,6 @@
             "note": "",
             "rule_no": "第四條",
             "content": "　　本社之經費來源如左：\n　　一、中央政府編列預算補助。\n　　二、國內外公私機關、團體及個人之捐贈。\n　　三、提供服務之收入。\n　　四、其他收入。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第四條 之一",
-            "content": "　　本社成立前原中央通訊社股份有限公司使用之國有財產，得由本社繼續使用，其須整修或擴建時，應徵求政府同意。",
             "relates": {}
         },
         {
@@ -107,46 +101,129 @@
         }
     ],
     "law_reasons": {
-        "第四條 之一": "　　一、本條新增。\n　　二、參照「中央廣播電台設置條例」第五條規定新增。\n　　三、改制後之財團法人中央通訊社，有必要繼續使用原中央通訊社股份有限公司之國有財產，以利業務正常運作，但因受國有財產法等相關法令的限制，中央社卻無法使用原中央社之國有財產，因此增列第四條之一條文，以解決困境，俾有助於社務發展。"
+        "第一條": "　　揭櫫制定本條例之目的。",
+        "第二條": "　　明定本社為財團法人。",
+        "第三條": "　　列舉本社之任務，以資明確。",
+        "第四條": "　　明定本社經費之來源。",
+        "第五條": "　　一、本社設董事會，置董事九至十五人，其中一人為董事長，均由行政院院長就對大眾傳播富有研究之專家學者、大眾傳播事業人員、及社會公正人士遴聘之。\n　　二、前項董事，其具有同一黨籍者，不得超過董事總額二分之一。",
+        "第六條": "　　一、明定董、監事人選由行政院院長就對大眾傳播富有研究之專家學者、大眾傳播事業人員、及社會公正人士遴選組成，博採周諮，並使經費之運用臻於至當。\n　　二、前項董事，其具有同一黨籍者，不得超過董事總額二分之一。",
+        "第七條": "　　一、第一項規定董、監事之任期為三年及董、監事應予解聘之情形，又原董、監事解聘後，其所遺缺額，由行政院院長依前兩條規定補聘之。\n　　二、第二項規定補聘之董、監事，其任期以補足原任者之任期為止。",
+        "第八條": "　　明定董、監事除董事長及常務監事外，均為無給職，惟開會時得酌支交通費。",
+        "第九條": "　　一、明定社長之遴聘、職務及任期。\n　　二、置副社長一人至二人，承社長之命，襄助社務。",
+        "第十條": "　　明定本社之組織編制需報請主管機關核定，以免浮濫。",
+        "第十一條": "　　鑑於本社之經費主要係由主管機關編列預算補助，故明定其會計年度應與政府會計年度一致，以利作業。",
+        "第十二條": "　　明定本社之工作計畫、預算、工作成果及收支決算須分別報請董事會或監事會通過後，轉報主管機關循預、決算程序辦理，期使經費妥善運用。",
+        "第十三條": "　　明定本社捐助章程由董事會擬訂，報請主管機關核定之。",
+        "第十四條": "　　明定因情勢變更，致不能達到本條例立法目的時，得解散之。至於解散後，本社財產之歸屬，參酌工業技術研究院設置條例第十二條之規定，明定歸屬於中央政府。",
+        "第十五條": "　　規定本條例之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "871001",
-            "立法紀錄": "87卷36期2985號一冊 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecbcd81c7c8ccc9cfcec4cfcfcecfc4cfcfcecf",
-            "主提案": "劉光華",
+            "會議日期": "800507",
+            "立法紀錄": "80卷37期2461號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cfcfccc8cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfcdcfcec5cec9ccd2cec9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcfcfcfc5cac6d2c9cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "800611",
+            "立法紀錄": "80卷47期2471號 83-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cfcfcbc8cfcfc4cfcfc7ccc4cfcfc7cb",
+            "主提案": "周荃",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdc6cfcfc5cbc7c9d2cbc7c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "871007",
-            "立法紀錄": "87卷39期2988號 207-218頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecbcd81c7c8ccc6cfcfc4cfcdcfc8c4cfcdcec7",
+            "會議日期": "801104",
+            "立法紀錄": "80卷90期2514號 427-449頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cfcfc6cfcfcfc4cfcbcdc8c4cfcbcbc6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "871029",
-            "立法紀錄": "87卷44期2993號 91-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecbcd81c7c8cbcbcfcfc4cfcfc6cec4cfcfc6ca",
+            "進度": "委員會審查",
+            "會議日期": "800605",
+            "立法紀錄": "81卷15期2543號 261-285頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cecfcecacfcfc4cfcdc9cec4cfcdc7ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800610",
+            "立法紀錄": "81卷17期2545號下冊 500-515頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cecfcec8cfccc4cfcacfcfc4cfcaceca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800620",
+            "立法紀錄": "81卷18期2546號 378-394頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cecfcec7cfcfc4cfccc8c7c4cfccc6cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "820108",
+            "立法紀錄": "82卷2期2601號 240-253頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cdcfcdcfcfc4cfcdcbcfc4cfcdcacc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfc9cfcec5c8cbccd2c8cbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cecacfcfc5cacac6d2cac8ce"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "820115",
+            "立法紀錄": "82卷4期2603號中冊 311-333頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cdcfcbcfcdc4cfcccecec4cfcccccc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "820115",
+            "立法紀錄": "82卷4期2603號中冊 333-345頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cdcfcbcfcdc4cfccccccc4cfcccbca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "830512",
+            "立法紀錄": "83卷33期2707號上冊 35-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cccccccfcec4cfcfcccac4cfcfcac9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "841222",
+            "立法紀錄": "84卷65期2822號 143-145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cbc9cacfcfc4cfcecbccc4cfcecbca",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "871229",
-            "立法紀錄": "88卷1期3001號上冊 59-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecbcd81c7c7cfcecfcec4cfcfcac6c4cfcfc9cf",
+            "會議日期": "841222",
+            "立法紀錄": "84卷65期2822號 145-153頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cbc9cacfcfc4cfcecbcac4cfcecacc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "841229",
+            "立法紀錄": "85卷2期2824號 25-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc7cc81c7cacfcdcfcfc4cfcfcdcac4cfcfcdca",
             "關係文書": []
         }
     ]
