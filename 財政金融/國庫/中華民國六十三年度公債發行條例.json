@@ -1,11 +1,11 @@
 {
     "title": "中華民國六十三年度公債發行條例",
     "versions": [
-        "中華民國63年1月19日修正",
-        "中華民國63年1月25日公布"
+        "中華民國64年11月25日廢止",
+        "中華民國64年12月4日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -88,28 +88,27 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第五條": "　　為因應目前需要，對政府已發行未到期之公債，如因銀行利率變動須作必要調整時，授權行政院對公債利率及其發行條件作必要之調整，爰予修正之。"
-    },
+    "deprecated_reason": "　　「中華民國六十三年度公債發行條例」規定發行公債二十八億元，嗣因並無需要，奉准停發，僅適用於當年會計年度，迄今年度均已結束，原定公債亦未發行，從而該條例本身所規定之事項，已無繼續施行之必要，爰依中央法規標準法第21條第2款及第22條第1項之規定予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "630118",
-            "立法紀錄": "63卷6期662號 89-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c881c9cccacdcfc9cfcfc4cfcfc7c6c4cfcfc6cf",
-            "主提案": "吳延環",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcacfcfc5cecccfd2cecccc"
-                ]
-            ]
+            "會議日期": "640926",
+            "立法紀錄": "64卷78期832號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c781c9cbcac9c8c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "641117",
+            "立法紀錄": "65卷8期867號 20-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c781c9cacac9cfc7cfcfc4cfcfcdcfc4cfcfcdce",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "630119",
-            "立法紀錄": "63卷6期662號 111-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c881c9cccacdcfc9cfcfc4cfcececec4cfcececd",
+            "會議日期": "641125",
+            "立法紀錄": "64卷95期849號 4-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c781c9cbcac9c6cacfcfcfcec4cfcfcfcbc4cfcfcfc9",
             "關係文書": []
         }
     ]
