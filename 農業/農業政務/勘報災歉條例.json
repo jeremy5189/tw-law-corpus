@@ -1,11 +1,11 @@
 {
     "title": "勘報災歉條例",
     "versions": [
-        "中華民國64年4月15日修正",
-        "中華民國64年4月26日公布"
+        "中華民國91年4月2日廢止",
+        "中華民國91年4月24日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -88,61 +88,39 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第八條": "　　參照臺灣省議會建議，比照三七五出租耕地減免地租規定，按農作物實際受災成數比例減免田賦，以資公平。"
-    },
+    "deprecated_reason": "　　「勘報災歉條例」各項勘報災害規定，主要係供作減免田賦及撥款賑濟之用。該條例自公布迄今已逾五十年，部分條文所定之田糧管理機關與現行機關組織已不相符；且勘報災歉規定，亦不合現實需求。另田賦已自七十六年第二期起停徵，目前並無適用勘報災歉條例之需要。將來田賦如恢復課徵，農作物或土地受災之減免，可於土地稅法規中詳定受災土地之減免標準及程序，以資適用；勘報災歉條例無繼續施行之必要，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "640221",
-            "立法紀錄": "64卷16期770號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececfcf81c9cbcacacec9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cececfcd81c6cecdcecfcec4cfcfcfc7c4cfcfcfc7",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcecfcfc5ccc6d2cbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5caccc6d2cac7c6"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "640305",
-            "立法紀錄": "64卷23期777號 1-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececfcf81c9cbcacacdcccfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 100-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cececfcd81c6cecdcecfcec4cfcecfcfc4cfcecfce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "640401",
-            "立法紀錄": "64卷27期781號 6-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececfcf81c9cbcacacdc8cfcfcfcec4cfcfcfc9c4cfcfcecc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcccfcfc5ceccc8d2cecbce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "640401",
-            "立法紀錄": "64卷27期781號 13-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececfcf81c9cbcacacdc8cfcfcfcec4cfcfceccc4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "640411",
-            "立法紀錄": "64卷30期784號 14-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececfcf81c9cbcacacccfcfcfcfcec4cfcfcecbc4cfcfcdc7",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 123-125頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cececfcd81c6cecdcecfcec4cfcecdccc4cfcecdca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "640415",
-            "立法紀錄": "64卷31期785號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececfcf81c9cbcacacccecfcfcfcec4cfcfcfccc4cfcfcfcb",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 135-135頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cececfcd81c6cecdcecfcec4cfcecccac4cfceccca",
             "關係文書": []
         }
     ]
