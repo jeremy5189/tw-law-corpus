@@ -1,8 +1,8 @@
 {
     "title": "海關緝私條例",
     "versions": [
-        "中華民國83年12月29日修正",
-        "中華民國84年1月18日公布"
+        "中華民國89年12月22日修正",
+        "中華民國90年1月10日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -330,15 +330,15 @@
             "relates": {}
         },
         {
-            "note": "(聲明異議期限)",
+            "note": "(申請復查期限)",
             "rule_no": "第四十七條",
-            "content": "　　受處分人不服前條處分者，得於收到處分書後十日內，以書面向原處分海關聲明異議。海關於收到異議書後，經審核認為有理由者，應撤銷原處分或另為適當之處分；認為無理由者，維持原處分，並以書面通知受處分人。",
+            "content": "　　受處分人不服前條處分者，得於收到處分書之日起三十日內，依規定格式，以書面向原處分海關申請復查。\n　　海關應於接到復查申請書後二個月內為復查決定，並作成復查決定書；必要時，得予延長，並通知受處分人。延長以一次為限，最長不得逾二個月。\n　　復查決定書之正本，應於決定後十五日內送達受處分人。",
             "relates": {}
         },
         {
             "note": "(依法提起訴願及行政訴訟)",
             "rule_no": "第四十八條",
-            "content": "　　受處分人於收到前條通知書後，得於十日內向海關總稅務司署提起訴願；於收到訴願決定書後仍不服者，得於十日內向財政部提起再訴願；於收到再訴願決定書後仍不服者，得於三十日內向行政法院提起行政訴訟。",
+            "content": "　　受處分人對海關之復查決定如有不服，得依法提起訴願及行政訴訟。",
             "relates": {}
         },
         {
@@ -393,46 +393,67 @@
         }
     ],
     "law_reasons": {
-        "第二十七條": "　　一、現行法所定一萬至五萬元罰鍰已不足收嚇阻之效，酌予提高至十萬至五十萬元。\n　　二、沒入以載運私貨為主要目的之運輸工具，應明確訂定認定之標準，以免處罰過當，爰立法援權由主管機關定之。"
+        "第四十七條": "　　一、基於簡政便民之考量，並使徵納雙方易於遵行起見，乃參照稅捐稽徵法第三十五條第一項規定，修正第一項，將提起訴願先行程序「聲明異議」之用語，改為「申請復查」，期與內地稅之規定一致。\n　　二、參照公務人員保障法之復查決定書、商標法之異議審定書及稅捐稽徵法第三十五條規定，修正為海關應將復查決定作成復查決定書，並另移列為第二項；又為維護受處分人之權益，參酌稅捐稅徵法第三十五條第四項規定，明定海關作成復查決定之期間，以資明確。\n　　三、增訂第三項，將原條文末段酌作文字修正及移列。",
+        "第四十八條": "　　為配合新訴願法廢除再訴願程序，爰予刪除有關再訴願規定；另「海關緝私條例」對於有關提起訴願及行政訴期間之規定與訴願法及行政訴訟法不同，為期一致，避免人民有所混淆，修正為得依訴願法及行政訴訟法規定辦理；又配合本法第四十七條第一項將訴願之先行程序修正為「申請復查」之用語，併酌作文字修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820107",
-            "立法紀錄": "82卷2期2601號 42-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6cb81c7cdcfcdcfcfc4cfcfcbcdc4cfcfcbc9",
-            "主提案": "郁慕明",
+            "會議日期": "890328",
+            "立法紀錄": "89卷13期3072號 22-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6ca81c7c6cecccfcfc4cfcfcdcdc4cfcfcdcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecacfcfc5cdc6cad2cdc6c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcececfcfc5cbcbcfd2cbcbcc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "890718",
+            "立法紀錄": "89卷45期3104號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6ca81c7c6cbcacfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccccfcfcec5cececfd2cececa"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "820318",
-            "立法紀錄": "82卷17期2616號下冊 166-182頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6cb81c7cdcec8cfccc4cfcec9c9c4cfcec7cd",
+            "會議日期": "890724",
+            "立法紀錄": "89卷49期3108號 37-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6ca81c7c6cbc6cfcfc4cfcfccc8c4cfcfcaca",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 81-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6cb81c7cbcfcdcfcfc4cfcfc7cec4cfcfc6cf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "891222",
+            "立法紀錄": "89卷74期3133號上冊 161-169頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6ca81c7c6c8cbcfcec4cfcec9cec4cfcec9c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcec9cfcfc5ccc8cbd2ccc7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcececfcdc5cdcac6d2cdc9c9"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "891222",
+            "立法紀錄": "89卷74期3133號上冊 169-170頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6ca81c7c6c8cbcfcec4cfcec9c6c4cfcec8cf",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 90-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6cb81c7cbcfcdcfcfc4cfcfc6cfc4cfcfc6cf",
+            "會議日期": "891222",
+            "立法紀錄": "89卷74期3133號上冊 170-171頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccdcfcec6ca81c7c6c8cbcfcec4cfcec8cfc4cfcec8ce",
             "關係文書": []
         }
     ]
