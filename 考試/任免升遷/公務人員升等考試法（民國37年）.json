@@ -1,12 +1,12 @@
 {
     "title": "公務人員升等考試法（民國37年）",
     "versions": [
-        "中華民國52年12月20日全文修正",
-        "中華民國52年12月31日公布"
+        "中華民國77年1月11日廢止",
+        "中華民國77年1月22日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -64,86 +64,39 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　原「公務人員升等考試法」係依考試法第23條之規定制定，本(75)1月24日總統明令公布公務人員考試法時，同時廢止考試法及分類職位公務人員考試法。為配合新制考試法之實施，爰依據公務人員考試法第23條第2項之規定擬定「公務人員升等考試法草案」。其主要內容雖係參照原公務人員升等考試法及已廢止分類職位公務人員考試法有關條文，但因法源不同，應視為新法。本法公布施行時，原公務人員升等考試法爰予同時廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "520802",
-            "立法紀錄": "52卷31期號16冊 82-82頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccecec9c4cfcfc7cdc4cfcfc7cd",
-            "主提案": "考試院",
+            "會議日期": "760317",
+            "立法紀錄": "76卷22期2029號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cbcc81c8c9cfcdcdcfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcccfcfc5cec8c9d2cec7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cfcbcfcfc5cdcac7d2cdc9cc"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "521217",
-            "立法紀錄": "52卷32期號9冊 19-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc6c4cfcfcec6c4cfcfcdcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccdcfcecfcfc5cac9c7d2cac8ca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "521126",
-            "立法紀錄": "52卷32期號6冊 84-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc9c4cfcfc7cbc4cfcfc6ca",
+            "進度": "委員會審查",
+            "會議日期": "761024",
+            "立法紀錄": "77卷19期2130號 157-163頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cbcc81c8c8cfcec6cfcfc4cfcecac8c4cfcec9cc",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "521129",
-            "立法紀錄": "52卷32期號7冊 105-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc8c4cfcecfcac4cfcececc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "521129",
-            "立法紀錄": "52卷32期號7冊 113-124頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc8c4cfcececcc4cfcecdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "521203",
-            "立法紀錄": "52卷32期號7冊 129-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc8c4cfcecdc6c4cfceccce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "521206",
-            "立法紀錄": "52卷32期號8冊 10-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc7c4cfcfcecfc4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "521213",
-            "立法紀錄": "52卷32期號8冊 49-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc7c4cfcfcbc6c4cfcfcac9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "521217",
-            "立法紀錄": "52卷32期號9冊 31-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc6c4cfcfcccec4cfcfcccd",
+            "進度": "委員會審查",
+            "會議日期": "761123",
+            "立法紀錄": "77卷43期2154號 234-238頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cbcc81c8c8cfcbcccfcfc4cfcdcccbc4cfcdccc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "521220",
-            "立法紀錄": "52卷32期號9冊 55-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbce81cacdcccdcfc6c4cfcfcacac4cfcfcac9",
+            "會議日期": "770111",
+            "立法紀錄": "77卷4期2115號 37-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cbcc81c8c8cfcfcbcfcfc4cfcfccc8c4cfcfcacd",
             "關係文書": []
         }
     ]
