@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國82年2月19日修正",
-        "中華民國82年2月20日公布"
+        "中華民國82年1月15日修正",
+        "中華民國82年10月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -120,7 +120,7 @@
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　立法院各委員會委員人數，以十八人為最高額。\n　　若參加委員超出前項所定之人數時，則於召集委員選舉前五日，由各該委員會登記之委員抽籤決定之。\n　　每一委員以參加一委員會為限。",
+            "content": "　　立法院各委員會委員人數，以立法院委員總數除以前條所規定之委員會數，所得之商數加二為最高額。\n　　若參加委員超出前項所定之人數時，則於召集委員選舉前五日，由各該委員會登記之委員抽籤決定之。\n　　每一委員以參加一委員會為限。",
             "relates": {}
         },
         {
@@ -203,28 +203,34 @@
         }
     ],
     "law_reasons": {
-        "第十九條": "　　為因應立法院第二屆立法委員報到，參加各委員會之實際需要，爰修正各委員會參加人數以十八人為最高額。"
+        "第十八條": "　　一、為強化立法院組織結構與功能。\n　　二、為因應第二屆立法委員參加各委員會意願之需要，精減兩個委員會後可充實各委員會之參加人數，以增進議事效率。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820219",
-            "立法紀錄": "82卷6期2605號 24-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c781c7cdcfc9cfcfc4cfcfcdcbc4cfcfcdc6",
-            "關係文書": []
+            "會議日期": "820114",
+            "立法紀錄": "82卷4期2603號上冊 30-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c881c7cdcfcbcfcec4cfcfcccfc4cfcfcccb",
+            "主提案": "羅傳進",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcec9cfcdc5cec9c8d2cec9c7"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "820219",
-            "立法紀錄": "82卷6期2605號 29-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c781c7cdcfc9cfcfc4cfcfcdc6c4cfcfcccd",
+            "會議日期": "820115",
+            "立法紀錄": "82卷4期2603號中冊 266-278頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c881c7cdcfcbcfcdc4cfcdc9c9c4cfcdc8c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "820219",
-            "立法紀錄": "82卷6期2605號 32-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c781c7cdcfc9cfcfc4cfcfcccdc4cfcfccca",
+            "會議日期": "820115",
+            "立法紀錄": "82卷4期2603號中冊 278-278頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c881c7cdcfcbcfcdc4cfcdc8c7c4cfcdc8c7",
             "關係文書": []
         }
     ]
