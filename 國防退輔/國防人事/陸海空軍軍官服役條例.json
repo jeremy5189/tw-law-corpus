@@ -1,8 +1,8 @@
 {
     "title": "陸海空軍軍官服役條例",
     "versions": [
-        "中華民國63年5月21日修正",
-        "中華民國63年5月28日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -188,14 +188,14 @@
             "relates": {}
         },
         {
-            "note": "",
-            "section_name": "第五章  附則"
-        },
-        {
             "note": "(女子志願服軍官役之規定)",
             "rule_no": "第二十八條",
-            "content": "　　女子志願服軍官役者，除依左列規定外，適用本條例其他各條之規定：\n　　一、服役限齡為四十五歲。\n　　二、常備軍官服現役年限為四年。\n　　三、預備役依志願服之。",
+            "content": "　　女子志願服軍官役者，除依左列規定外，適用本條例其他各條之規定：\n　　一、（刪除）。\n　　二、常備軍官，服現役年限為四年。\n　　三、預備役，依志願服之。",
             "relates": {}
+        },
+        {
+            "note": "",
+            "section_name": "第五章  附則"
         },
         {
             "note": "(軍官國外留學延長服役年限)",
@@ -235,35 +235,66 @@
         }
     ],
     "law_reasons": {
-        "第九條": "　　一、第一項未修正，仍適用職業軍官以外之一般常備軍官。\n　　二、為適應軍中實際需要，達成建軍目的，增列第二項，使立志長期服役軍中為職業軍官者，能從其志願，不受現役年限十至十五年之限制，以構成三軍之骨幹。"
+        "第二十八條": "　　現行法規定女子志願服軍官役者「服役限齡為四十五歲」已不合時宜，故予刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "630514",
-            "立法紀錄": "63卷33期689號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc881c9cccacccccccfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "820326",
+            "立法紀錄": "82卷16期2615號上冊 56-57頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc781c7cdcec9cfcec4cfcfcac9c4cfcfcac8",
+            "主提案": "潘維剛",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc6cfcfc5c9c7c6d2c9c6cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "821207",
+            "立法紀錄": "82卷70期2669號 99-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc781c7cdc8cfcfcfc4cfcfc6c6c4cfcecfcf",
+            "主提案": "蕭金蘭",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcecdcfcfc5cacacbd2cacaca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "821215",
+            "立法紀錄": "82卷75期2674號下冊 401-407頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc781c7cdc8cacfccc4cfcbcfcec4cfcbcfc8",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "630521",
-            "立法紀錄": "63卷35期691號 3-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc881c9cccacccccacfcfcfcec4cfcfcfccc4cfcfcfc7",
+            "進度": "委員會審查",
+            "會議日期": "831219",
+            "立法紀錄": "83卷83期2757號下冊 1-19頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc781c7ccc7cccfccc4cfcfcfcec4cfcfcec6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "630521",
-            "立法紀錄": "63卷35期691號 8-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc881c9cccacccccacfcfcfcec4cfcfcfc7c4cfcfcfc7",
-            "關係文書": []
+            "會議日期": "831219",
+            "立法紀錄": "84卷2期2759號 35-39頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc781c7cbcfcdcfcfc4cfcfcccac4cfcfccc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec9cfcfc5cbc7cbd2cbc7c7"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "630521",
-            "立法紀錄": "63卷35期691號 8-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc881c9cccacccccacfcfcfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "831219",
+            "立法紀錄": "84卷2期2759號 39-39頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccc781c7cbcfcdcfcfc4cfcfccc6c4cfcfccc6",
             "關係文書": []
         }
     ]
