@@ -1,11 +1,12 @@
 {
     "title": "政府發展經濟社會向國外借款及保證條例",
     "versions": [
-        "中華民國56年5月5日制定",
-        "中華民國56年5月15日公布"
+        "中華民國61年12月26日修正",
+        "中華民國62年1月5日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -15,9 +16,9 @@
             "relates": {}
         },
         {
-            "note": "(指定代表及貸款或保證契約之簽訂程序)",
+            "note": "(借款或保證之簽定程序)",
             "rule_no": "第二條",
-            "content": "　　向國外借款或保證，經行政院會議通過後，由財政部部長代表國庫與國際金融機構、外國政府或其所屬機構簽訂貸款或保證契約；並依照契約規定，支用及償還本息。",
+            "content": "　　向國外借款或保證，經行政院會議通過後，由財政部部長代表國庫與承貸機構簽訂貸款或保證契約，並依照契約規定，支用及償還本息。",
             "relates": {}
         },
         {
@@ -67,6 +68,57 @@
             "rule_no": "第十條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第二條": "　　為加速經濟社會之發展，向國外借款之需要日殷，已非國際金融機構，外國政府及其所屬金融機構所能充份供應，年來美國進出口銀行對我國各項貸款，其中半數即由美國民營金融機構配合貸予，又近年來歐洲國家民營機構亦有亟願對我貸款者。外國民間資金如其貸款條件適合，能應我方需要者，似亦可舉借，各國民間資金允宜盡力爭取。原條文內「國際金融機構、外國政府或其所屬金融機構」擬修正為「承貸機構」，俾可擴大國外資金來源，以應我國經建需要。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "611117",
+            "立法紀錄": "61卷91期544號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc6c781c9cecacfc6cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcdcfcfc5c7ced2c7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "611213",
+            "立法紀錄": "62卷26期582號 32-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc6c781c9cdcacecdc9cfcfcfcdc4cfcfcccdc4cfcfccca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "611226",
+            "立法紀錄": "61卷102期555號 19-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc6c781c9cecacfcecfcdcfcfcfcec4cfcfcec6c4cfcfcdcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcccfcfc5c6ced2c6cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "611226",
+            "立法紀錄": "61卷102期555號 23-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc6c781c9cecacfcecfcdcfcfcfcec4cfcfcdccc4cfcfcdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "611226",
+            "立法紀錄": "61卷102期555號 23-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc6c781c9cecacfcecfcdcfcfcfcec4cfcfcdccc4cfcfcdcc",
+            "關係文書": []
         }
     ]
 }
