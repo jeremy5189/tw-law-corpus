@@ -1,8 +1,8 @@
 {
     "title": "文化資產保存法",
     "versions": [
-        "中華民國85年12月31日修正",
-        "中華民國86年1月22日公布"
+        "中華民國86年4月18日修正",
+        "中華民國86年5月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -180,7 +180,7 @@
         {
             "note": "(古蹟指定)",
             "rule_no": "第二十七條",
-            "content": "　　古蹟由內政部審查指定之，並依其歷史文化價值，區分為第一級、第二級、第三級三種，分別由內政部、省（市）政府民政廳（局）及縣（市）政府為其主管機關。\n　　古蹟喪失或減損其價值時，內政部得解除其指定或變更其等級。",
+            "content": "　　古蹟依其主管機關，區分為國定、省、（市）定、縣（市）定三類，分別由內政部、省（市）政府及縣（市）政府審查指定之，並報各該上級主管機關備查。\n　　古蹟喪失、減損或增加其價值時，除依第三十六條之一第三項之規定辦理外，應報上級主管機關核准後，始得解除其指定或變更其類別。",
             "relates": {}
         },
         {
@@ -198,7 +198,7 @@
         {
             "note": "(修復程序)",
             "rule_no": "第三十條",
-            "content": "　　古蹟之修護，應報經古蹟主管機關許可後始得為之。\n　　前項修護，依法應領執照者，發給單位應會同古蹟主管機關辦理。",
+            "content": "　　古蹟應保存原有形貌及文化風貌，不得變更，如因故損毀應依照原有形貌及文化風貌修復，以延續其古蹟之生命，並得依其性質，報經內政部許可後，採取不同之保存、維護及管制方式。\n　　古蹟之發掘、修復、再利用，應提出計畫，報經各該古蹟主管機關許可，並送內政部核備後始得為之。",
             "relates": {}
         },
         {
@@ -234,13 +234,13 @@
         {
             "note": "(保存原貌)",
             "rule_no": "第三十五條",
-            "content": "　　古蹟應保存原有形貌，不得變更，如因故損毀應依照原有形貌修復。\n　　第一級古蹟非因國防安全或國家重大建設，並經古蹟主管機關同意，不得遷移或拆除。\n　　公私營建工程不得破壞古蹟之完整、遮蓋古蹟之外貌或阻塞其觀覽之通道。",
+            "content": "　　古蹟非因國防安全或國家重大建設，並經古蹟主管機關同意，不得遷移或拆除。\n　　公私營建工程不得破壞古蹟之完整、遮蓋古蹟之外貌或阻塞其觀覽之通道。",
             "relates": {}
         },
         {
             "note": "(古蹟保存區)",
             "rule_no": "第三十六條",
-            "content": "　　為維護古蹟並保全其環境景觀，必要時得依都市計畫訂定之程序劃定古蹟保存區，限制其土地或建築物等之使用及建造。\n　　前項保存區內對於基地面積或基地內應保留空地之比率、容積率、基地內前後側院之深度、寬度、建築物之形貌、高度、色彩以及有關交通、景觀等事項，得依實際情況作必要之規定。",
+            "content": "　　為維護古蹟並保全其環境景觀，古蹟主管機關得會同有關機關，擬具古蹟保存計畫，並依區域計畫法、都市計畫法或國家公園法有關規定編定、劃定或變更古蹟保存用地或保存區，予以保存維護。\n　　古蹟保存區內對於基地面積或基地內應保留空地之比率、容積率、基地內前後側院之深度、寬度、建築物之形貌、高度、色彩以及有關交通、景觀等事項，得依實際情況作必要之規定。\n　　主管機關於擬定古蹟保存區計畫及修復計畫過程中，應分階段舉辦說明會、公聽會及公開展覽，並應公開通知古蹟保存區內關係人及公眾參與。\n　　古蹟所有人得自行擬定古蹟保存區計畫或修復計畫，建請主管機關依前三項規定辦理。",
             "relates": {}
         },
         {
@@ -421,64 +421,66 @@
         }
     ],
     "law_reasons": {
-        "第三十一條 之一": "　　一、新增條文。\n　　二、為鼓勵民間投資文化資產保存工作、提高私有古蹟自行維護修復之可能、並降低國家負擔。\n　　三、比照文化藝術獎助條例制定本條文。",
-        "第三十六條 之一": "　　一、新增條文。\n　　二、樓地板面積轉移辦法於國外行之有年，有助於保障古蹟所有人之權益。"
+        "第二十七條": "　　一、依據省縣自治法，為強化地方分權精神，爰賦予各級地方政府指定轄內古蹟之實際主管權責。\n　　二、每座古蹟均為獨一無二之文化資產，應無價值等級之分，爰廢除等級制度，改依其意義分為國定、省（市）定、縣（市）定三類。\n　　三、增列其價值增加時可變更其類別。\n　　四、為鼓勵地方政府珍惜古蹟、並改善過去由上而下的古蹟指定方式、增加古蹟指定之空間。",
+        "第三十條": "　　一、本條合併現行條文第三十條、第三十五條第一項。\n　　二、古蹟保存應注重其文化內涵，而非只是維持外在硬體設備。",
+        "第三十五條": "　　一、配合文化資產保存法第三十條條文修正，刪除第一項。\n　　二、原條文第二項、第三項，改列第一項、第二項。",
+        "第三十六條": "　　配合文化資產保存法第三十條條文修正，明定古蹟保存相關計劃之程序。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "851011",
-            "立法紀錄": "85卷50期2872號 8-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cc81c7cacacfcfcfc4cfcfcfc7c4cfcfcfc7",
-            "主提案": false,
+            "會議日期": "851022",
+            "立法紀錄": "85卷53期2875號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cb81c7cacacccfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "null",
-                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcecfcecfcfcd"
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcecdcecfcfc7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "851022",
-            "立法紀錄": "85卷53期2875號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cc81c7cacacccfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": false,
+            "會議日期": "851029",
+            "立法紀錄": "85卷54期2876號上冊 5-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cb81c7cacacbcfcec4cfcfcfcac4cfcfcfc9",
+            "主提案": "朱惠良",
             "關係文書": [
                 [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcecdcfcec5cecfc9d2cecfc8"
+                    "null",
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcecccecfcfca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "851205",
-            "立法紀錄": "85卷67期2889號下冊 291-296頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cc81c7cac9c8cfccc4cfcdc6cec4cfcdc6c9",
+            "會議日期": "860317",
+            "立法紀錄": "86卷10期2902號下冊 265-272頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cb81c7c9cecfcfccc4cfcdc9cac4cfcdc8cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "851231",
-            "立法紀錄": "86卷2期2894號上冊 206-214頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cc81c7c9cfcdcfcec4cfcdcfc9c4cfcdcecb",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 53-64頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cb81c7c9cec7cfcec4cfcfcaccc4cfcfc9cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcdcacfcfc5cbc8cad2cbc7cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5ccc7c9d2ccc6ce"
                 ],
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcdcacfcfc5cbc7ced2cbc7ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5ccc6cdd2cbcfcf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "851231",
-            "立法紀錄": "86卷2期2894號上冊 214-214頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cc81c7c9cfcdcfcec4cfcdcecbc4cfcdcecb",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 64-64頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cac6cb81c7c9cec7cfcec4cfcfc9cbc4cfcfc9cb",
             "關係文書": []
         }
     ]
