@@ -1,8 +1,8 @@
 {
     "title": "公平交易法",
     "versions": [
-        "中華民國88年1月15日修正",
-        "中華民國88年2月3日公布"
+        "中華民國89年4月7日修正",
+        "中華民國89年4月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -64,7 +64,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第九條",
-            "content": "　　本法所稱主管機關：在中央為行政院公平交易委員會；在省（市）為建設廳（局）；在縣（市）為縣（市）政府。\n　　本法規定事項，涉及他部會之職掌者，由行政院公平交易委員會商同各該部會辦理之。",
+            "content": "　　本法所稱主管機關：在中央為行政院公平交易委員會；在直轄市為直轄市政府；在縣（市）為縣（市）政府。\n　　本法規定事項，涉及他部會之職掌者，由行政院公平交易委員會商同各該部會辦理之。",
             "relates": {}
         },
         {
@@ -357,165 +357,34 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　一、第一項未修正。\n　　二、第二項刪除。目前我國正擬申請加入ＧＡＴＴ，而ＧＡＴＴ會員國中對我國公告之獨占事業，甚感疑惑，為利於申請入會，爰予以刪除獨占事業之公告。",
-        "第十一條": "　　一、第一項未修正。\n　　二、第二項刪除。按現行第二項公告規定之立法目的，原在使事業符合結合之申請許可要件者，有所遵循，具有預警之作用。惟施行以來，業者反映無此需要，反造成困擾。爰配合第十條第二項獨占事業公告規定之刪除，刪除本條第二項公告規定。\n　　三、現行第三項移列為第二項。",
-        "第十六條": "　　增加「採取必要更正措施」之規定。",
-        "第十八條": "　　一、反映與水平價格聯合一致之規範理念，並參考美國立法例，將但書刪除。\n　　二、參考美國法、日本法精神，以及日本發展趨勢，將第二項刪除。",
-        "第十九條": "　　一、第一項本文加入「限制競爭」以求周延。\n　　二、符合罪刑法定主義之公平性。\n　　三、本條應屬垂直非價格聯合行為，依市場經濟理論，必有供給雙方之配合行為，方足以發生，故不宜僅就發動者規範之。",
-        "第二十條": "　　一、明確表示本條係在維護產業競爭利益與消費者福祉。\n　　二、排除「共知」在邏輯上的不適當性。",
-        "第二十一條": "　　就現行法條文第四項中二處「應與廣告主」、「亦應與廣告主」負連帶損害賠償責任之「應」字均予刪除。",
-        "第二十三條": "　　將現行法第二項刪除。",
-        "第二十三條 之一": "　　因契約解除所退貨之商品，自進貨時起算應有一合理期限，以符合公平原則。",
-        "第二十三條 之二": "　　因契約解除所退貨之商品，自進貨時起算應有一合理期限，以符合公平原則。",
-        "第二十三條 之三": "　　因契約解除所退貨之商品，自進貨時起算應有一合理期限，以符合公平原則。",
-        "第二十三條 之四": "　　一、現行法第二十三條第二項修正改列。\n　　二、授權行政立法予以明確化。",
-        "第三十五條": "　　本法為經濟法，須配合國內經濟環境情形，為最適之管理。現行條文對於違反者逕處刑罰之規定，施行以來，迭經業者反映過於嚴苛；且現行本法中存有若干不確定法律概念用語，運用時須有完整之市場資料作為判斷基礎，尤須先有行政權介入，以為預警，爰加以修正之。",
-        "第三十六條": "　　為貫徹「先行政後司法」之處理原則，以符合先警告後行政處分再科刑罰之比例性原則，爰修正之。",
-        "第三十七條": "　　一、第一項刑罰上限，配合刑法第三百十條及第三百十三條有關誹謗罪及妨害信用罪之規定，提高為二年。\n　　二、第二項新增。為求平衡及避免司法機關執法之困擾，爰增訂違反本法第二十二條之罪，須告訴乃論。",
-        "第四十條": "　　罰鍰上限提高為五千萬元。",
-        "第四十一條": "　　為貫徹「先行政後司法」之處理原則，以符合先警告後行政處分再科刑罰之比例性原則，爰修正之。",
-        "第四十二條": "　　配合第二十三條第二項之刪除及第二十三條之四規定之增訂。",
-        "第四十六條": "　　公平交易法就規範競爭行為之事務，屬於一般法，至於其他基於特定目的而訂定之法律，其中涉及競爭行為事務者，在該特別法之規範範圍內，自應屬競爭行為事務之特別法。爰修正之。",
-        "第四十九條": "　　第二項新增。增列修正條文施行日期。"
+        "第九條": "　　配合臺灣省政府功能業務與組織調整，不再納入省級主管機關，爰將第一項中「在省（市）為建設廳（局）」修正為「在直轄市為直轄市政府」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "831208",
-            "立法紀錄": "83卷78期2752號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7ccc8c7cfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "陳傑儒",
+            "會議日期": "881001",
+            "立法紀錄": "88卷42期3042號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecc81c7c7cbcdcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec6cfcec5cdc7ced2cdc6cf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "831208",
-            "立法紀錄": "83卷78期2752號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7ccc8c7cfcfc4cfcfcfc9c4cfcfcfc8",
-            "主提案": "顏錦福",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec6cfcec5cbccc8d2cbcbcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "850628",
-            "立法紀錄": "85卷37期2859號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7caccc8cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃國鐘",
-            "關係文書": [
-                [
-                    "null",
-                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcecdcacecfcfcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "850702",
-            "立法紀錄": "85卷38期2860號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7caccc7cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "林明義",
-            "關係文書": [
-                [
-                    "null",
-                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcecdc9cecfcfc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "851029",
-            "立法紀錄": "85卷54期2876號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7cacacbcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "柯建銘",
-            "關係文書": [
-                [
-                    "null",
-                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcecccecfcecf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "851115",
-            "立法紀錄": "85卷59期2881號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7cacac6cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "謝錦川",
-            "關係文書": [
-                [
-                    "null",
-                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcecbcecfcfc9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "850617",
-            "立法紀錄": "85卷36期2858號下冊 103-132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7caccc9cfccc4cfcecfccc4cfcecccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "851021",
-            "立法紀錄": "85卷54期2876號下冊 53-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7cacacbcfccc4cfcfcaccc4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "851106",
-            "立法紀錄": "85卷59期2881號 395-418頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7cacac6cfcfc4cfccc6cac4cfcbcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "851125",
-            "立法紀錄": "85卷64期2886號下冊 175-192頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7cac9cbcfccc4cfcec8cac4cfcec6cd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "851210",
-            "立法紀錄": "85卷69期2891號中冊 189-210頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7cac9c6cfcdc4cfcec7c6c4cfcdcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "880114",
-            "立法紀錄": "88卷6期3006號二冊 851-900頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7c7cfc9cfcdc4cfc7cacec4cfc6cfcf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cecfcfcec5c9c8c7d2c8ccce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5ccc8cad2ccc7cf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "880115",
-            "立法紀錄": "88卷6期3006號三冊 901-914頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7c7cfc9cfccc4cfc6cfcec4cfc6cecb",
+            "會議日期": "890407",
+            "立法紀錄": "89卷15期3074號 34-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecc81c7c6cecacfcfc4cfcfcccbc4cfcfccca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "880115",
-            "立法紀錄": "88卷6期3006號三冊 914-914頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecd81c7c7cfc9cfccc4cfc6cecbc4cfc6cecb",
+            "會議日期": "890407",
+            "立法紀錄": "89卷15期3074號 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcecc81c7c6cecacfcfc4cfcfcccac4cfcfccca",
             "關係文書": []
         }
     ]
