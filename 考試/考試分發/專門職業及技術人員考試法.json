@@ -1,8 +1,8 @@
 {
     "title": "專門職業及技術人員考試法",
     "versions": [
-        "中華民國75年1月3日制定",
-        "中華民國75年1月24日公布"
+        "中華民國84年1月17日修正",
+        "中華民國84年1月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,7 +66,7 @@
         {
             "note": "(應考資格之限制)",
             "rule_no": "第十條",
-            "content": "　　中華民國國民，具有本法所定應考資格者，得應專門職業及技術人員考試，但有左列各款情事之一者，不得應考：\n　　一、犯內亂罪外患罪，經判刑確定者。\n　　二、曾服公務有侵占公有財物或收受賄賂行為，經判刑確定者。\n　　三、褫奪公權，尚未復權者。\n　　四、受禁治產之宣告，尚未撤銷者。\n　　五、吸食鴉片或其他毒品者。\n　　應考人除依前項規定外，並應受各該職業法所定之限制。",
+            "content": "　　中華民國國民，具有本法所定應考資格者，得應專門職業及技術人員考試。但有左列各款情事之一者，不得應考：\n　　一、曾服公務有侵占公有財物或收受賄賂行為，經判刑確定者。\n　　二、褫奪公權尚未復權者。\n　　三、受禁治產之宣告，尚未撤銷者。\n　　四、吸食鴉片或其他毒品者。\n　　應考人員除依前項規定外，並應受各該職業法所定之限制。",
             "relates": {}
         },
         {
@@ -155,76 +155,67 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　依照委員提案條文通過。",
-        "第二條": "　　依照委員提案條文通過。",
-        "第三條": "　　依照委員提案條文通過。",
-        "第四條": "　　依照委員提案條文修正通過。",
-        "第五條": "　　依照委員提案條文修正通過。",
-        "第六條": "　　依照委員提案條文通過。",
-        "第七條": "　　依照委員提案條文通過。",
-        "第八條": "　　依照委員提案條文修正通過。",
-        "第九條": "　　依照委員提案條文修正通過。",
-        "第十條": "　　依照委員提案條文修正通過。",
-        "第十一條": "　　依照委員提案條文通過。",
-        "第十二條": "　　依照委員提案條文通過。",
-        "第十三條": "　　依照委員提案條文通過。",
-        "第十四條": "　　依照委員提案條文通過。",
-        "第十五條": "　　依照委員提案條文修正通過。",
-        "第十六條": "　　依照委員提案條文修正通過。",
-        "第十七條": "　　依照委員提案條文修正通過。",
-        "第十八條": "　　依照委員提議條文通過。",
-        "第十九條": "　　依照委員提案條文通過。",
-        "第二十條": "　　依照委員提案條文通過。",
-        "第二十一條": "　　依照委員提案條文修正通過。",
-        "第二十二條": "　　依照委員提案條文修正通過。",
-        "第二十三條": "　　依照委員提案條文通過。",
-        "第二十四條": "　　依照委員提案條文通過。"
+        "第十條": "　　政治犯的復權工作，不但是落實刑法第一百條修正後之繼續工作，也是落實憲法上保障人民生存權、工作權、平等權的規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "741217",
-            "立法紀錄": "74卷101期1899號 25-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcd81c8cbcecfcecfcfc4cfcfcdcac4cfcfcdc7",
-            "主提案": "張子揚",
+            "會議日期": "820319",
+            "立法紀錄": "82卷14期2613號上冊 55-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcc81c7cdcecbcfcec4cfcfcacac4cfcfc8ce",
+            "主提案": "尤宏",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc8cfcfc5c8cec6d2c8cdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c8c6c9d2c7cecc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "741223",
-            "立法紀錄": "75卷28期1930號 61-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcd81c8cacfcdc7cfcfc4cfcfc9cec4cfcfc9c7",
+            "會議日期": "830427",
+            "立法紀錄": "83卷31期2705號下冊 133-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcc81c7cccccecfccc4cfceccccc4cfcecacd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "741231",
-            "立法紀錄": "75卷1期1903號 18-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcd81c8cacfcfcecfcfc4cfcfcec7c4cfcfccca",
+            "進度": "委員會審查",
+            "會議日期": "830606",
+            "立法紀錄": "83卷43期2717號下冊 125-151頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcc81c7cccbcccfccc4cfcecdcac4cfcecace",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830627",
+            "立法紀錄": "83卷48期2722號下冊 329-340頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcc81c7cccbc7cfccc4cfcccdc6c4cfcccbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830629",
+            "立法紀錄": "83卷49期2723號下冊 32-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcc81c7cccbc6cfccc4cfcfcccdc4cfcfcac6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840117",
+            "立法紀錄": "84卷6期2763號下冊 295-318頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcc81c7cbcfc9cfccc4cfcdc6cac4cfcccec7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc6cfcfc5cbc9cad2cbc8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcfcfcfc5cccfcad2cccdc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "741231",
-            "立法紀錄": "75卷1期1903號 35-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcd81c8cacfcfcecfcfc4cfcfcccac4cfcfcbcf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "750103",
-            "立法紀錄": "75卷2期1904號 4-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcd81c8cacfcfcdcfcfc4cfcfcfcbc4cfcfcfc7",
+            "會議日期": "840117",
+            "立法紀錄": "84卷6期2763號下冊 318-318頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdcc81c7cbcfc9cfccc4cfcccec7c4cfcccec7",
             "關係文書": []
         }
     ]
