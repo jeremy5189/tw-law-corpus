@@ -1,8 +1,8 @@
 {
     "title": "補習及進修教育法",
     "versions": [
-        "中華民國91年6月20日修正",
-        "中華民國91年7月10日公布"
+        "中華民國93年6月4日修正",
+        "中華民國93年6月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -108,7 +108,7 @@
         {
             "note": "",
             "rule_no": "第十七條",
-            "content": "　　各級國民補習學校及進修學校，置校長一人，綜理校務。各學校附設國民補習學校或進修學校之校長，得由各該學校校長兼任。\n　　各級國民補習學校及進修學校，置校務主任一人，由原屬學校專任教師兼任，襄助校長推展校務。",
+            "content": "　　各級國民補習學校及進修學校，置校長一人，綜理校務。各學校附設國民補習學校或進修學校之校長，得由各該學校校長兼任。\n　　各級國民補習學校及進修學校，置校務主任一人，由原屬學校專任教師兼任，襄助校長推展校務。\n　　各級國民補習學校及進修學校，其員額編制表由各校依各級主管教育行政機關所定之員額編制標準定之。",
             "relates": {}
         },
         {
@@ -179,58 +179,106 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　配合地方制度法之規定，將「在直轄市為直轄市政府教育局」修正為「在直轄市為直轄市政府」。",
-        "第七條": "　　明定授權教育部會同法務部等機關訂定在監、隨營補習或進修教育之辦法之內容及範圍。",
-        "第十三條": "　　於第三項規定授權教育部訂定自學進修學力鑑定考試辦法之內容及範圍。",
-        "第十四條": "　　為推廣終身教育，避免高中、高職進修學校學生學業中斷，並配合兵役政策，修正為「進修學校之學生申請緩徵，依兵役法及其相關規定辦理」。",
-        "第十七條": "　　為使各級國民補習學校及進修學校及學校所置校務主任取得法源依據，爰增列第二項規定。",
-        "第二十三條": "　　授權訂定短期補習班招收外國人之招生及管理辦法之內容及範圍。"
+        "第十七條": "　　增訂第三項明定各級國民補習學校及進修學校其員額編制之訂定及其主管機關。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec781c6cecdcecfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "行政院",
+            "會議日期": "920321",
+            "立法紀錄": "92卷14期3288號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcecbcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "郭添財",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cbcbc6d2cbcacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cececed2cececc"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "910319",
-            "立法紀錄": "91卷18期3214號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec781c6cecec7cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "蔡煌瑯",
+            "會議日期": "920328",
+            "立法紀錄": "92卷15期3289號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcecacfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "趙良燕",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cecdccd2cecdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cdc6c9d2cdc6c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "921024",
+            "立法紀錄": "92卷45期3319號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcbcacfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "沈智慧",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6ced2cec6cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "921024",
+            "立法紀錄": "92卷45期3319號上冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcbcacfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "羅世雄",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6cad2cec6c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "921024",
+            "立法紀錄": "92卷45期3319號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcbcacfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "王淑慧",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6c6d2cdcfce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910513",
-            "立法紀錄": "91卷47期3243號 127-160頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec781c6cecbc8cfcfc4cfcecdc8c4cfcec9cf",
+            "會議日期": "921222",
+            "立法紀錄": "93卷3期3337號下冊 73-88頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cccfcccfccc4cfcfc8ccc4cfcfc7c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 44-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cccccccfcec4cfcfcbcbc4cfcfcac9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5ceced2cdce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 56-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cccccccfcec4cfcfcac9c4cfcfcac9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910620",
-            "立法紀錄": "91卷45期3241號一冊 242-252頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec781c6cecbcacfcec4cfcdcbcdc4cfcdcacd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcdc5cac9d2c9ca"
-                ]
-            ]
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 56-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cccccccfcec4cfcfcac9c4cfcfcac9",
+            "關係文書": []
         }
     ]
 }
