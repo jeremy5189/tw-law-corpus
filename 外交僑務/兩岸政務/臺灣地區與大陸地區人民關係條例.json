@@ -1,8 +1,8 @@
 {
     "title": "臺灣地區與大陸地區人民關係條例",
     "versions": [
-        "中華民國82年1月8日修正",
-        "中華民國82年2月3日公布"
+        "中華民國83年9月13日修正",
+        "中華民國83年9月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -414,7 +414,7 @@
         {
             "note": "(繼承權之拋棄)",
             "rule_no": "第六十六條",
-            "content": "　　大陸地區人民繼承臺灣地區人民之遺產，應於繼承開始起二年內以書面向被繼承人住所地之法院為繼承之表示；逾期視為拋棄其繼承權。\n　　繼承在本條例施行前開始者，前項期間自本條例施行之日起算。",
+            "content": "　　大陸地區人民繼承臺灣地區人民之遺產，應於繼承開始起三年內以書面向被繼承人住所地之法院為繼承之表示；逾期視為拋棄其繼承權。\n　　繼承在本條例施行前開始者，前項期間自本條例施行之日起算。",
             "relates": {}
         },
         {
@@ -611,47 +611,34 @@
         }
     ],
     "law_reasons": {
-        "第十八條": "　　原條文第十八條第三項之規定，不分對象性質，將現為台灣地區人民配偶、結婚並進入台灣地區於該條例施行前之大陸地區人民，亦均列為強制遣返的對象。違反「信賴保護原則」與「立法不溯及既往原則」於實質上遠離「確保台灣地區安全與民眾福祉」的要求而與該條例第一條所揭示的立法目的相違。修改第三項，增設但書為：「但其為台灣地區人民之配偶，而結婚於本條例施行前者，得於出境前檢附相關證據申請在台灣地區居留；其申請案件確定前，除顯無申請理由或證據者外，不得強制其出境。」另增設第四項：「前項但書之台灣地區人民配偶，結婚已滿二年或已生產子女者，得申請在台灣地區定居。其於台灣地區連續居留滿二年者，亦同。」"
+        "第六十六條": "　　負責保管在臺灣地區無繼承人之退除役官兵或現役軍人遺產之行政院退輔會，常因大陸地區繼承人之相關資料不完整，及在大陸地區繼承人協尋作業推展之不順利，使得其保管遺產之筆數及金額總計高達二十八億餘元。有鑑於原法規定之兩年期間即將屆滿，為避免爾後處理是類遺產事件之困擾，並維護大陸地區繼承人之合法權益，爰將繼承表示期間明定延長為三年。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "811015",
-            "立法紀錄": "81卷65期2593號 15-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcd81c7cecfc9cacfcfc4cfcfcecac4cfcfcec8",
-            "主提案": "陳癸淼",
+            "會議日期": "830913",
+            "立法紀錄": "83卷57期2731號 50-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcb81c7cccac8cfcfc4cfcfcacfc4cfcfcac6",
+            "主提案": "潘維剛",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfcacfcfc5c7c8cbd2c7c8c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820107",
-            "立法紀錄": "82卷2期2601號 14-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcd81c7cdcfcdcfcfc4cfcfcecbc4cfcfcec7",
-            "主提案": "陳定南",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecacfcfc5cdcdcbd2cdcdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcacfcfc5cacecad2cacec7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "820108",
-            "立法紀錄": "82卷2期2601號 236-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcd81c7cdcfcdcfcfc4cfcdccc9c4cfcdcbcf",
+            "會議日期": "830913",
+            "立法紀錄": "83卷57期2731號 59-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcb81c7cccac8cfcfc4cfcfcac6c4cfcfc9cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "820108",
-            "立法紀錄": "82卷2期2601號 240-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcd81c7cdcfcdcfcfc4cfcdcbcfc4cfcdcbcf",
+            "會議日期": "830913",
+            "立法紀錄": "83卷57期2731號 60-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcb81c7cccac8cfcfc4cfcfc9cfc4cfcfc9ce",
             "關係文書": []
         }
     ]
