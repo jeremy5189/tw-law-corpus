@@ -1,12 +1,12 @@
 {
     "title": "後備軍人會組織通則",
     "versions": [
-        "中華民國89年12月1日廢止",
-        "中華民國89年12月20日公布"
+        "中華民國44年12月30日制定",
+        "中華民國45年1月12日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -178,32 +178,51 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　「後備軍人會組織通則」係依據民國四十三年公布之兵役法第二十八條制定，於民國四十五年一月由總統公布施行。惟頒布至今，迄未執行這項工作。今（八十九）年二月二日修訂後的兵役法，已將原兵役法第二十八條刪除，由於本通則的母法已變更，且不合時宜，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890523",
-            "立法紀錄": "89卷28期3087號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6ccc6cf81c7c6cdc7cfcfc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "440426",
+            "立法紀錄": "44卷15期號2冊 38-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac9ca81cbcbcecacfcdc4cfcfccc7c4cfcfccc6",
+            "主提案": "行政院",
             "關係文書": [
                 [
-                    "null",
-                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcbcfcccec7cecfcecc"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececacfcdcfcfc5cec7ced2cec7c9"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "891109",
-            "立法紀錄": "89卷68期3127號下冊 13-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6ccc6cf81c7c6c9c7cfccc4cfcfceccc4cfcfcdce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "441230",
+            "立法紀錄": "45卷16期號10冊 89-102頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac9ca81cbcacec9cecfc4cfcfc7c6c4cfcecfcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcdcfcfc5cccad2cacd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "441230",
+            "立法紀錄": "45卷16期號10冊 134-137頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac9ca81cbcacec9cecfc4cfcecccbc4cfceccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "441230",
+            "立法紀錄": "45卷16期號10冊 142-143頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac9ca81cbcacec9cecfc4cfcecbcdc4cfcecbcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "891201",
-            "立法紀錄": "89卷68期3127號上冊 35-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6ccc6cf81c7c6c9c7cfcec4cfcfcccac4cfcfccc6",
+            "會議日期": "441230",
+            "立法紀錄": "45卷16期號10冊 143-146頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac9ca81cbcacec9cecfc4cfcecbccc4cfcecbc9",
             "關係文書": []
         }
     ]
