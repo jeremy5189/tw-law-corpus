@@ -1,12 +1,12 @@
 {
     "title": "妨害兵役治罪條例",
     "versions": [
-        "中華民國65年7月9日全文修正",
-        "中華民國65年7月19日公布"
+        "中華民國81年3月19日修正",
+        "中華民國81年4月6日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -144,7 +144,7 @@
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　戡亂時期犯第二十條或第二十一條之罪者，適用戡亂時期貪汙治罪條例之規定。",
+            "content": "　　犯第二十條或第二十一條之罪，其他法律有較重處罰之規定者，從其規定。",
             "relates": {}
         },
         {
@@ -178,83 +178,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二十三條": "　　鑑於目前貪污事件尚未根絕，社會各界對嚴懲貪污仍殷切期望；並配合戡亂時期貪污治罪條例修正為平時法，爰將本條首句「戡亂時期」四字刪除，並將後段修正為「其他法律有較重處罰之規定者，從其規定」以資配合。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "650528",
-            "立法紀錄": "65卷43期902號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8cbcccfcfcfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "791214",
+            "立法紀錄": "79卷100期2420號 178-178頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc6c6cf81c8c6cecfcfcfcfc4cfcec8c7c4cfcec8c7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcccfcfc5ccc6ccd2cbcec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cdcbcfcfc5cdc9d2cdc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "650605",
-            "立法紀錄": "65卷68期927號 8-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8c9c7cfcfc4cfcfcfc7c4cfcfcecc",
+            "會議日期": "800112",
+            "立法紀錄": "80卷65期2489號 89-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc6c6cf81c7cfcfc9cacfcfc4cfcfc7c6c4cfcfc6ce",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "650609",
-            "立法紀錄": "65卷72期931號 21-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8c8cdcfcfc4cfcfcdcec4cfcfcdc8",
+            "會議日期": "801021",
+            "立法紀錄": "80卷86期2510號 173-173頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc6c6cf81c7cfcfc7c9cfcfc4cfcec8ccc4cfcec8cc",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "650619",
-            "立法紀錄": "65卷73期932號 7-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8c8cccfcfc4cfcfcfc8c4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "650629",
-            "立法紀錄": "65卷52期911號 6-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8cacdcfcfcfcec4cfcfcfc9c4cfcfccc9",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810319",
+            "立法紀錄": "81卷24期2552號 36-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc6c6cf81c7cecfcdcbcfcfc4cfcfccc9c4cfcfcbce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcbcfcfc5cdc7c7d2cccec8"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcbcfcfc5cccacbd2ccc9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfc6cfcfc5ccc9cad2ccc9c7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "650629",
-            "立法紀錄": "65卷52期911號 36-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8cacdcfcfcfcec4cfcfccc9c4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "650702",
-            "立法紀錄": "65卷53期912號 2-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8cacccfcfcfcec4cfcfcfcdc4cfcfcecf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "680709",
-            "立法紀錄": "65卷55期914號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8cacacfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "680709",
-            "立法紀錄": "65卷55期914號 12-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc6c7c681c9cacac8cacacfcfcfcec4cfcfcecdc4cfcfcec6",
+            "會議日期": "810319",
+            "立法紀錄": "81卷24期2552號 41-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc6c6cf81c7cecfcdcbcfcfc4cfcfcbcec4cfcfcbce",
             "關係文書": []
         }
     ]
