@@ -1,11 +1,11 @@
 {
     "title": "內政部建築研究所組織條例",
     "versions": [
-        "中華民國104年12月1日廢止",
-        "中華民國104年12月16日公布"
+        "中華民國84年10月5日制定",
+        "中華民國84年10月20日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -76,45 +76,57 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　配合行政院組織改造，內政部建築研究所組織條例業經總統於102年8月21日以華總一義字第10200156161號令公布，行政院於102年8月29日以授研綜字第1022260799號令定自102年9月1日施行；爰依中央法規標準法第21條第4款「同一事項已定有新法規，並公布或發布施行者」規定，予以廢止。",
+    "law_reasons": {
+        "第一條": "　　明定本條例制定之依據。",
+        "第二條": "　　一、明定本所之業務職掌。\n　　二、本部主管建築及都市發展業務，建築研究所應辦理有關公共安全、公益性等相關法規、政策研析及技術研究等業務；至部份建築研究推廣、諮詢服務及檢測等業務，可委由民間專責機構辦理。",
+        "第三條": "　　明定本所分設四組辦事。（綜合規劃組辦理前條第一款事項；安全防災組辦理前條第二、三款事項； 工程技術組辦理前條第四、五款事項；環境控制組辦理前條六、七款事項）。",
+        "第四條": "　　明定本所秘書室業務性質與範圍。",
+        "第五條": "　　明定本所所長、副所長之職掌及任用職等。",
+        "第六條": "　　為配合人事精簡政策，並將部份業務委由政府輔導民間成立之專責機構辦理，本組織條例以籌備處現有編制員額四十二人為基準，並依據機關釐訂員額設置標準之體例，配合業務用人計畫，以七十八人為上限。",
+        "第七條": "　　明定本所人事業務性質、範圍及人員任用方式。",
+        "第八條": "　　明定本所會計業務性質、範圍及人員任用方式。",
+        "第九條": "　　規定本所人員任用依據。",
+        "第十條": "　　規定本所辦事細則訂定程序。",
+        "第十一條": "　　規定本條例施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1021004",
-            "立法紀錄": "102卷50期4075號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcccbcacf81cecfcdcfcacfcfcec4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "830512",
+            "立法紀錄": "83卷33期2707號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6c781c7cccccccfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcbcfcec5cdcbccd2cdcbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccec9cfcdc5ccc6c6d2cbcfcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1041112",
-            "立法紀錄": "104卷87期4286號 1-1,4-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcccbcacf81cecfcbcfc7c8cfcec4cfcfcfcec4cfcfcfced9cecfcbcfc7c8cfcec4cfcfcfcbc4cfcfccce",
+            "會議日期": "840315",
+            "立法紀錄": "84卷17期2774號下冊 71-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6c781c7cbcec8cfccc4cfcfc8cec4cfcfc6cc",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1041201",
-            "立法紀錄": "104卷89期4288號一冊 497-501頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcccbcacf81cecfcbcfc7c6cfcec4cfcbc6c8c4cfcacfce",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "841005",
+            "立法紀錄": "84卷50期2807號 89-100頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6c781c7cbcacfcfcfc4cfcfc7c6c4cfcecfcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cec7c8d2cec6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacecccfcdc5c6c9ced2c6c8cf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1041201",
-            "立法紀錄": "104卷89期4288號一冊 501-501頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcccbcacf81cecfcbcfc7c6cfcec4cfcacfcec4cfcacfce",
+            "會議日期": "841005",
+            "立法紀錄": "84卷50期2807號 100-100頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6c781c7cbcacfcfcfc4cfcecfcfc4cfcecfcf",
             "關係文書": []
         }
     ]
