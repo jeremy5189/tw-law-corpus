@@ -1,8 +1,8 @@
 {
     "title": "行刑累進處遇條例",
     "versions": [
-        "中華民國83年5月24日修正",
-        "中華民國83年6月6日公布"
+        "中華民國86年4月18日修正",
+        "中華民國86年5月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -190,7 +190,7 @@
         {
             "note": "(一級者之收容場所及其處遇)",
             "rule_no": "第二十八條",
-            "content": "　　第一級受刑人，應收容於特定處所，並得為左列之處遇：\n　　一、住室不加鎖。\n　　二、不加監視。\n　　三、因作業或就學之需要，或為準備釋放，准其外出。\n　　四、准與配偶及直系血親在指定處所及期間內同住。\n　　前項第三款、第四款實施辦法，由法務部定之。",
+            "content": "　　第一級受刑人，應收容於特定處所，並得為左列之處遇：\n　　一、住室不加鎖。\n　　二、不加監視。\n　　三、准與配偶及直系血親在指定處所及期間內同住。\n　　前項第三款實施辦法，由法務部定之。",
             "relates": {}
         },
         {
@@ -533,53 +533,46 @@
         }
     ],
     "law_reasons": {
-        "第十九條": "　　一、第一項受刑人責任分數表修正增加「有期徒刑六月以上一年六月未滿」，列為第一類別，並分別定各級責任分數。\n　　二、第一項受刑人責任分數表原為第「二」、「三」、「四」、「五」、「六」、「七」類別，依序修正為「三」、「四」、「五」、「六」、「七」、「八」類別，其各級責任分數不變。\n　　三、第二項未修正。\n　　四、累犯於法院量刑時已加重其刑度，故予適度增加責任分數，以促其積極向善，較為合理。爰將第三項累犯受刑人之責任分數，修正逐級增加五分之一。\n　　五、增列加重撤銷假釋受刑人之責任分數於第四項，並定其責任分數逐級增加二分之一。"
+        "第二十八條": "　　配合監獄行刑法增訂第二十六條之二，爰刪除現行第一項第三款。現行第一項第四款移列為第一項第三款，現行第二項「第四款」之規定亦配合刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830318",
-            "立法紀錄": "83卷17期2691號上冊 400-400頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc981c7cccec8cfcec4cfcbcfcfc4cfcbcfcf",
+            "會議日期": "850611",
+            "立法紀錄": "85卷32期2854號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc881c7cacccdcfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccfc8cfcdc5cbc7cbd2cbc7c6"
+                    "null",
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcecdcfcecfcfca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830411",
-            "立法紀錄": "83卷26期2700號 489-512頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc981c7cccdc9cfcfc4cfcbc7c6c4cfcacecd",
+            "會議日期": "850626",
+            "立法紀錄": "85卷38期2860號下冊 569-589頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc881c7caccc7cfccc4cfcac9c6c4cfcac7c6",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "830524",
-            "立法紀錄": "83卷36期2710號上冊 87-95頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc981c7ccccc9cfcec4cfcfc7c8c4cfcfc6ca",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 50-52頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc881c7c9cec7cfcec4cfcfcacfc4cfcfcacd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccec8cfcdc5c8c9ccd2c8c8cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5ccc7cdd2ccc7cb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "830524",
-            "立法紀錄": "83卷36期2710號上冊 95-96頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc981c7ccccc9cfcec4cfcfc6cac4cfcfc6c9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "830524",
-            "立法紀錄": "83卷36期2710號上冊 96-96頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc981c7ccccc9cfcec4cfcfc6c9c4cfcfc6c9",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 52-52頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccbc881c7c9cec7cfcec4cfcfcacdc4cfcfcacd",
             "關係文書": []
         }
     ]
