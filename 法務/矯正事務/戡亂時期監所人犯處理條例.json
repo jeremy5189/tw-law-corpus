@@ -1,11 +1,11 @@
 {
     "title": "戡亂時期監所人犯處理條例",
     "versions": [
-        "中華民國70年10月30日修正",
-        "中華民國70年11月13日公布"
+        "中華民國80年1月15日廢止",
+        "中華民國80年1月28日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -124,62 +124,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十條": "　　依「監獄組織條例」第十九條，監獄設「監務委員會」。縣司法處早經廢止，各地監獄亦經前司法行政部於民國六十一年收回直接監督。司法行政部已改制為法務部。「呈請」二字與現行之公文用語不合。爰修正如上。",
-        "第十四條": "　　一、第一項第一款之「出獄人保護會或司法保護會」，修正為「更生保護會」，以符更生保護法第三條規定。\n　　二、第一項第二款之「轉呈」修正為「報請」。\n　　三、第一項第三款之「轉呈」二字修正為「報請」，「該管高等法院」修正為「法務部」。"
-    },
+    "deprecated_reason": "　　「戡亂時期監所人犯處理條例」係民國四十三年為因應特殊情況所制定，現因時過境遷，其內容已不合時宜，各監所實務上均未曾據以執行。又有關假釋、縮短刑期、保外就醫、被告交保等，其他現行法令均已有明確規定，且執行成效良好，故該條例有關保釋之規定，實無保留之必要，故予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "691216",
-            "立法紀錄": "69卷101期1377號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c9c6c9c9cecfcecfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "781208",
+            "立法紀錄": "78卷98期2314號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc781c8c7cfc6c7cfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5cac7cdd2cac7ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcecccfcfc5cecdc9d2ceccce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "700507",
-            "立法紀錄": "70卷61期1442號 23-26頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c8c9cecfcfc4cfcfcdccc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "701023",
-            "立法紀錄": "70卷85期1466號 31-35頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c7c7cacfcfc4cfcfcccec4cfcfccca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcacfcfc5cccfced2cccfca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701023",
-            "立法紀錄": "70卷85期1466號 35-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c7c7cacfcfc4cfcfcccac4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701027",
-            "立法紀錄": "70卷86期1467號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c7c7c9cfcfc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "781218",
+            "立法紀錄": "79卷30期2350號 179-180頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc781c8c6cfcccfcfcfc4cfcec8c6c4cfcec7cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "701030",
-            "立法紀錄": "70卷87期1468號 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c7c7c8cfcfc4cfcfcfcac4cfcfcfc9",
+            "會議日期": "800115",
+            "立法紀錄": "80卷5期2429號 27-27頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc781c7cfcfcfcacfcfc4cfcfcdc8c4cfcfcdc8",
             "關係文書": []
         }
     ]
