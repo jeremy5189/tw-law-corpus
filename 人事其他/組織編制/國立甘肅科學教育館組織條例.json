@@ -1,10 +1,11 @@
 {
     "title": "國立甘肅科學教育館組織條例",
     "versions": [
-        "中華民國61年3月7日停止適用",
-        "中華民國61年3月20日公布"
+        "中華民國62年3月27日廢止",
+        "中華民國62年4月12日公布"
     ],
     "types": [
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -75,26 +76,27 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　一、查「國立甘肅科學教育館組織條例」，前經奉總統於61年3月20日明令公布停止適用在案。\n　　二、茲因機關業已裁撤，該條例無保留必要，爰依中央法規標準法第21條第1款之規定，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "601214",
-            "立法紀錄": "60卷96期449號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdccca81c9cfcbc7c6c9cfcfcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "620116",
+            "立法紀錄": "62卷4期560號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdccc981c9cdcacfcfcbcfcfcfcec4cfcfcfccc4cfcfcfcc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "610108",
-            "立法紀錄": "61卷27期480號 14-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdccca81c9cecbc6cdc8cfcfcfcdc4cfcfcecbc4cfcfceca",
+            "會議日期": "620312",
+            "立法紀錄": "62卷35期591號 25-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdccc981c9cdcacecccacfcfcfcdc4cfcfcdcac4cfcfcdc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "610307",
-            "立法紀錄": "61卷19期472號 38-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdccca81c9cecbc6cec6cfcfcfcec4cfcfccc7c4cfcfccc6",
+            "會議日期": "620327",
+            "立法紀錄": "62卷22期578號 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdccc981c9cdcacecdcdcfcfcfcec4cfcfcfcac4cfcfcfc9",
             "關係文書": []
         }
     ]
