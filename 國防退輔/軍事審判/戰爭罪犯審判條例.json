@@ -1,11 +1,12 @@
 {
     "title": "戰爭罪犯審判條例",
     "versions": [
-        "中華民國36年7月3日修正",
-        "中華民國36年7月15日公布"
+        "中華民國67年5月12日廢止",
+        "中華民國67年5月19日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -217,6 +218,42 @@
             "rule_no": "第三十五條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　戰爭罪犯審判條例所定戰爭罪犯犯罪行為，以發生在二十年九月十八日以後，三十四年九月二日以前者為限，對此項戰犯早已審判執行，且負責審判戰犯之「審判戰犯軍事法庭」亦已不存在，本條例所負之任務業已結束，無保留必要，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "670224",
+            "立法紀錄": "67卷16期1084號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cec981c9c8c9cecec9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcecfcfc5cac8c7d2cac7c9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "670419",
+            "立法紀錄": "67卷41期1109號 11-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cec981c9c8c9cecbcecfcfc4cfcfcecec4cfcfcec9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "670512",
+            "立法紀錄": "67卷38期1106號 34-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cec981c9c8c9ceccc7cfcfc4cfcfcccbc4cfcfccca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "670512",
+            "立法紀錄": "67卷38期1106號 35-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cec981c9c8c9ceccc7cfcfc4cfcfcccac4cfcfccca",
+            "關係文書": []
         }
     ]
 }
