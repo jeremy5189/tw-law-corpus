@@ -1,8 +1,8 @@
 {
     "title": "緊急醫療救護法",
     "versions": [
-        "中華民國91年1月8日修正",
-        "中華民國91年1月30日公布"
+        "中華民國94年1月14日修正",
+        "中華民國94年2月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -50,7 +50,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　各級衛生主管機關對化學、輻射、天然災害及戰爭等之預防應變措施，應配合規劃辦理緊急醫療救護有關事項。",
+            "content": "　　各級衛生主管機關對化學、輻射、戰爭及其他災害之預防應變措施，應配合規劃辦理緊急醫療救護有關事項。\n　　各級衛生主管機關於必要時，得結合全民防衛動員準備體系，實施緊急醫療救護。",
             "relates": {}
         },
         {
@@ -151,6 +151,12 @@
             "note": "",
             "rule_no": "第二十二條",
             "content": "　　救護直昇機、救護船及其他救護用交通工具管理辦法，由中央衛生主管機關會同有關機關定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第二十二條 之一",
+            "content": "　　中央衛生主管機關為因應偏遠地區緊急醫療救護之需要，得會同有關機關規劃設置救護直昇機之停機坪。",
             "relates": {}
         },
         {
@@ -385,52 +391,67 @@
         }
     ],
     "law_reasons": {
-        "第十五條": "　　第五項有關「撤銷」民間救護車機構設置許可規定，係使合法行政處分失其效力，依行政程序法之規定，其用語應為「廢止」，爰將「撤銷」修正為「廢止」；又所稱「註銷」，依行政程序法第一百三十條第二項規定，係行政處分撤銷、廢止後所衍生者，於本項所定情形，無特別規定必要，爰併予刪除。",
-        "第四十一條": "　　第四項有關「撤銷」民間救護車機構設置許可規定，係使合法行政處分失其效力，依行政程序法之規定，其用語應為「廢止」，爰將「撤銷」修正為「廢止」。",
-        "第四十八條": "　　本條有關「撤銷」救護車設置許可規定，係使合法行政處分失效力，依行政程序法之規定，其用語應為「廢止」，爰將「撤銷」修正為「廢止」。",
-        "第四十八條 之一": "　　一、本條新增。\n　　二、配合行政程序法之即將施行，將施行細則第十四條規定移列修正。",
-        "第四十九條": "　　本條有關「撤銷」救護車設置許可規定，係使合法行政處分失其效力，依行政程序法之規定，其用語應為「廢止」，爰將「撤銷」修正為「廢止」。",
-        "第五十條": "　　本條有關「撤銷」救護車設置許可規定，係使合法行政處分失其效力，依行政程序法之規定，其用語應為「廢止」，爰將「撤銷」修正為「廢止」；又民間救護車機構依第十五條及第四十一條規定，亦有廢止設置許可情形，爰併予納入；另酌作文字修正。",
-        "第五十三條 之一": "　　一、本條新增。\n　　二、配合行政程序法之即將施行，將施行細則第十六條規定移列修正。"
+        "第六條": "　　一、配合災害防救法所定「災害」之範圍，將原條文之「天然災害」修正為「災害」，俾資涵蓋非天災部分之災害，並酌作文字修正。\n　　二、為防範各類災害及緊急事故，因資源調度問題，影響災情及緊急事故之處理，造成社會恐慌及經濟危機，爰增列第二項，規定各級衛生主管機關於規劃各類災害及緊急事故之緊急醫療救護時，得結合全民防衛動員準備體系，以增進調度救災救護資源能力。",
+        "第二十二條 之一": "　　一、現行緊急醫療救護法第二十二條僅規定救護直昇機、救護船等救護交通工具，卻未對於救護直昇機定點起、降的停機坪有所著墨及規劃。\n　　二、為因應偏遠地區緊急醫療救護之需要，予以規劃救護直昇機停機坪，方能真正凸顯政府保障民眾的醫療就醫權益。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "900327",
-            "立法紀錄": "90卷14期3148號上冊 9-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecdc681c6cfcecbcfcec4cfcfcfc6c4cfcfcecf",
+            "會議日期": "920926",
+            "立法紀錄": "92卷40期3314號上冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdceccce81c6cdcbcfcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": false,
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfcccfcfc5cecac8d2cec9cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "921126",
+            "立法紀錄": "92卷54期3328號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdceccce81c6cdcacbcfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcccfcbc5ccd2cecdcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecdcfcec5cec9cbd2cec9c8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900523",
-            "立法紀錄": "90卷38期3172號 94-115頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecdc681c6cfccc7cfcfc4cfcfc6cbc4cfcececa",
+            "會議日期": "940106",
+            "立法紀錄": "94卷7期3389號下冊 241-252頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdceccce81c6cbcfc8cfccc4cfcdcbcec4cfcdcacd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "910108",
-            "立法紀錄": "91卷5期3201號下冊 740-750頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecdc681c6cecfcacfccc4cfc8cbcfc4cfc8cacf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940114",
+            "立法紀錄": "94卷6期3388號一冊 30-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdceccce81c6cbcfc9cfcec4cfcfcccfc4cfcfcccb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cfc9cfcdc5cdc6ccd2cccfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecdcfcdc5cbcdc6d2cbccca"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "940114",
+            "立法紀錄": "94卷6期3388號一冊 34-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdceccce81c6cbcfc9cfcec4cfcfcccbc4cfcfcccb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "910108",
-            "立法紀錄": "91卷5期3201號下冊 750-750頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecdc681c6cecfcacfccc4cfc8cacfc4cfc8cacf",
+            "會議日期": "940114",
+            "立法紀錄": "94卷6期3388號一冊 34-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdceccce81c6cbcfc9cfcec4cfcfcccbc4cfcfcccb",
             "關係文書": []
         }
     ]
