@@ -1,10 +1,12 @@
 {
     "title": "中華民國七十五年度所得稅稅率條例",
     "versions": [
-        "中華民國76年6月26日期滿廢止"
+        "中華民國74年12月24日制定",
+        "中華民國74年12月30日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -44,5 +46,59 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "741206",
+            "立法紀錄": "74卷98期1896號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbc981c8cbcfc6c7cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc9cfcfc5c9cdc7d2c9ccc7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "741212",
+            "立法紀錄": "75卷25期1927號 127-145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbc981c8cacfcdcacfcfc4cfcecdc8c4cfcecbca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "741214",
+            "立法紀錄": "75卷26期1928號 69-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbc981c8cacfcdc9cfcfc4cfcfc9c6c4cfcfc8ca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 12-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbc981c8cbcecfcccfcfc4cfcfcecdc4cfcfcdca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc6cfcfc5cec9c9d2cec8c8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 25-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbc981c8cbcecfcccfcfc4cfcfcdcac4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbc981c8cbcecfcccfcfc4cfcfcdc8c4cfcfcdc8",
+            "關係文書": []
+        }
+    ]
 }
