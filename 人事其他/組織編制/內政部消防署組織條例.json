@@ -1,8 +1,8 @@
 {
     "title": "內政部消防署組織條例",
     "versions": [
-        "中華民國92年6月6日修正",
-        "中華民國92年6月25日公布"
+        "中華民國92年12月26日修正",
+        "中華民國93年1月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -72,7 +72,7 @@
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本署視業務需要，得設消防科學研究所、消防學校、空中消防隊、港務消防隊、科學工業園區消防隊等機關；其組織以法律定之。",
+            "content": "　　本署視業務需要，得設消防科學研究所、消防學校、空中消防隊、各港務消防隊、各科學工業園區消防隊及各加工出口區消防隊；其組織以法律定之。",
             "relates": {}
         },
         {
@@ -119,71 +119,72 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　為避免在園區整體介面上，發生不同縣、市管轄，各自就同一區塊衍生出二套以上不同之消防審查、流程及制度，或創造出不同之救災體系，以及能在便民、安全、效益下，提供園區廠商優良投資環境，並能確實、迅速完成防災及緊急救難之任務，爰於本條增訂「科學工業園區消防隊」，賦予消防中央主管機關得在園區內設立辦理消防事務之消防隊，以統籌辦理消防業務及工作。"
+        "第十一條": "　　增加「各加工出口區消防隊」之設立法源依據，並將文字酌作修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920314",
-            "立法紀錄": "92卷13期3287號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c8c681c6cdcecccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "呂學樟",
+            "會議日期": "921017",
+            "立法紀錄": "92卷43期3317號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cdcbcccfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "黃昭順",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcccfcec5cecbcdd2cecbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc9cfcec5cccbced2cccbcc"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "930321",
-            "立法紀錄": "92卷14期3288號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c8c681c6cdcecbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "民進黨黨團",
+            "會議日期": "921024",
+            "立法紀錄": "92卷45期3319號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cdcbcacfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "侯彩鳳",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cec7ced2cec7cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cecac6d2cec9cd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "920523",
-            "立法紀錄": "92卷31期3305號一冊 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c8c681c6cdcccecfcec4cfcfcfc6c4cfcfcfc6",
+            "會議日期": "921107",
+            "立法紀錄": "92卷49期3323號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cdcbc6cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "黃昭順",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecccfcdc5ccceced2cccecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc6cfcec5cec9c7d2cec8cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920528",
-            "立法紀錄": "92卷35期3309號下冊 145-166頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c8c681c6cdcccacfccc4cfcecbcac4cfcec9c9",
+            "會議日期": "921215",
+            "立法紀錄": "93卷1期3335號 233-244頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cccfcecfcfc4cfcdccccc4cfcdcbcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 149-154頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c8c681c6cdcccbcfccc4cfcecbc6c4cfcecacb",
+            "會議日期": "921226",
+            "立法紀錄": "93卷2期3336號上冊 218-230頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cccfcdcfcec4cfcdcec7c4cfcdcccf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5cbcacad2cbc9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfcfc5cac7cfd2cac7c6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 154-154頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c8c681c6cdcccbcfccc4cfcecacbc4cfcecacb",
+            "會議日期": "921226",
+            "立法紀錄": "93卷2期3336號上冊 230-230頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cccfcdcfcec4cfcdcccfc4cfcdcccf",
             "關係文書": []
         }
     ]
