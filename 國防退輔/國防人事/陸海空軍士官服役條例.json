@@ -1,11 +1,11 @@
 {
     "title": "陸海空軍士官服役條例",
     "versions": [
-        "中華民國83年12月29日修正",
-        "中華民國84年1月16日公布"
+        "中華民國88年4月20日廢止",
+        "中華民國88年5月5日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -228,68 +228,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二十八條": "　　現行法規定女子志願服士官役者「服役限齡為四十五歲」已不合時宜，故予刪除。"
-    },
+    "deprecated_reason": "　　「陸海空軍軍官士官服役條例」於八十四年十一月通過，且該法自八十六年一月一日施行，「陸海空軍士官服役條例」已為該法所取代，故予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820326",
-            "立法紀錄": "82卷16期2615號上冊 56-57頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7cdcec9cfcec4cfcfcac9c4cfcfcac8",
-            "主提案": "潘維剛",
+            "會議日期": "860307",
+            "立法紀錄": "86卷6期2898號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7c9cfc9cfcec4cfcfcfccc4cfcfcfcc",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc6cfcfc5c9c7c6d2c9c6cf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "821207",
-            "立法紀錄": "82卷70期2669號 99-100頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7cdc8cfcfcfc4cfcfc6c6c4cfcecfcf",
-            "主提案": "蕭金蘭",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcecdcfcfc5cacacbd2cacaca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccfcccfcec5cecbcbd2cec9cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "821215",
-            "立法紀錄": "82卷75期2674號下冊 401-407頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7cdc8cacfccc4cfcbcfcec4cfcbcfc8",
+            "會議日期": "870304",
+            "立法紀錄": "87卷7期2956號下冊 53-61頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7c8cfc8cfccc4cfcfcaccc4cfcfc9ce",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "831219",
-            "立法紀錄": "83卷83期2757號下冊 1-19頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7ccc7cccfccc4cfcfcfcec4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831219",
-            "立法紀錄": "84卷2期2759號 35-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7cbcfcdcfcfc4cfcfcccac4cfcfccc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec9cfcfc5cbc7cbd2cbc7c7"
-                ]
-            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 39-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7cbcfcdcfcfc4cfcfccc6c4cfcfccc6",
-            "關係文書": []
+            "會議日期": "880420",
+            "立法紀錄": "88卷19期3019號上冊 86-97頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccc81c7c7cec6cfcec4cfcfc7c9c4cfcfc6c8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5c7ccd2cecfce"
+                ]
+            ]
         }
     ]
 }
