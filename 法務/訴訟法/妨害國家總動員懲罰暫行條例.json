@@ -1,10 +1,11 @@
 {
     "title": "妨害國家總動員懲罰暫行條例",
     "versions": [
-        "中華民國39年5月23日修正",
-        "中華民國39年6月3日公布"
+        "中華民國42年12月11日修正",
+        "中華民國42年12月25日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -23,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　犯本條例之罪者，由有軍法審判權之機關審判，呈由中央最高軍事機關核准後執行。",
+            "content": "　　犯本條例之罪者，軍人由軍事機關審理，非軍人由司法機關審理之。",
             "relates": {}
         },
         {
@@ -97,6 +98,47 @@
             "rule_no": "第十五條",
             "content": "　　本條例自公布日施行",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "421120",
+            "立法紀錄": "42卷12期號5冊 60-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcec781cbcdcecdcfcac4cfcfc9cfc4cfcfc9cf",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5cecfcad2cececf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "421211",
+            "立法紀錄": "43卷12期號7冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcec781cbcccecdcfc8c4cfcfcfcbc4cfcfcfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5cec7cad2cec7c9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421211",
+            "立法紀錄": "43卷12期號7冊 17-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcec781cbcccecdcfc8c4cfcfcec8c4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "421211",
+            "立法紀錄": "43卷12期號7冊 17-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcec781cbcccecdcfc8c4cfcfcec8c4cfcfcec7",
+            "關係文書": []
         }
     ]
 }
