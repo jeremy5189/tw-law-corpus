@@ -1,12 +1,11 @@
 {
     "title": "國軍軍官佐考績條例",
     "versions": [
-        "中華民國68年12月14日廢止",
-        "中華民國68年12月28日公布"
+        "中華民國37年12月7日制定",
+        "中華民國38年1月7日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -62,42 +61,6 @@
             "rule_no": "第九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　「國軍軍官佐考績條例」行之已久，已不能適應現時實際需要，故擬具「陸海空軍軍官士官考績條例」，而將本法廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "681113",
-            "立法紀錄": "68卷91期1263號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdcd81c9c7c9cbc6cecfcfc4cfcfcfcdc4cfcfcfcd",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cdcecdd2cdcccf"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "681109",
-            "立法紀錄": "68卷102期1274號 15-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdcd81c9c7c9cbcecfcdcfcfc4cfcfcecac4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "681124",
-            "立法紀錄": "69卷10期1286號 2-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdcd81c9c6c9cbcecfcfcfc4cfcfcfcdc4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "681214",
-            "立法紀錄": "68卷100期1272號 6-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdcd81c9c7c9cbcecfcfcfcfc4cfcfcfc9c4cfcfceca",
-            "關係文書": []
         }
     ]
 }
