@@ -1,11 +1,11 @@
 {
     "title": "外國人應專門職業及技術人員考試條例",
     "versions": [
-        "中華民國68年3月23日修正",
-        "中華民國68年4月4日公布"
+        "中華民國90年10月30日廢止",
+        "中華民國90年11月14日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -160,36 +160,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　將「藥劑師」修正為「藥師」以求法律用語一致。",
-        "第十二條": "　　將「藥劑師」修正為「藥師」以求法律用語一致。"
-    },
+    "deprecated_reason": "　　外國人應專門職業及技術人員考試之應考資格、考試科目、考試方式、成績計算、及格方式等，與中華民國國民殆無二致，無須另定法律規範，爰將外國人應專門職業及技術人員考試條例重要事項納入專門職業及技術人員考試法第二十四條規範。現行之「外國人應專門職業及技術人員考試條例」並配合予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680320",
-            "立法紀錄": "68卷23期1195號 5-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9ce81c9c7c9cccdcccfcfc4cfcfcfcac4cfcfcfc8",
-            "主提案": "吳延環",
+            "會議日期": "901030",
+            "立法紀錄": "90卷53期3187號一冊 122-156頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cd81c6cfcacccfcec4cfcecdcdc4cfcecac9",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cccacbd2cccaca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cfc8cfcec5cdcbced2cdcace"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "680320",
-            "立法紀錄": "68卷23期1195號 7-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9ce81c9c7c9cccdcccfcfc4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "901030",
+            "立法紀錄": "90卷53期3187號一冊 156-156頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cd81c6cfcacccfcec4cfcecac9c4cfcecac9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680323",
-            "立法紀錄": "68卷24期1196號 3-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9ce81c9c7c9cccdcbcfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "901030",
+            "立法紀錄": "90卷53期3187號一冊 156-156頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cd81c6cfcacccfcec4cfcecac9c4cfcecac9",
             "關係文書": []
         }
     ]
