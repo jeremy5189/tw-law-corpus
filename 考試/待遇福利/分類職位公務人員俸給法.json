@@ -1,8 +1,8 @@
 {
     "title": "分類職位公務人員俸給法",
     "versions": [
-        "中華民國56年5月26日制定",
-        "中華民國56年6月8日公布"
+        "中華民國57年4月26日修正",
+        "中華民國57年5月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,7 +12,7 @@
         {
             "note": "(立法依據)",
             "rule_no": "第一條",
-            "content": "　　本法依公務職位分類法第十二條之規定制定之。",
+            "content": "　　本法依公務職位分類法第十一條之規定制定之。",
             "relates": {}
         },
         {
@@ -78,7 +78,7 @@
         {
             "note": "(因職責變動調整歸級者之核敘)",
             "rule_no": "第十二條",
-            "content": "　　依公務職位分類法第十條之規定，因職責變動而調整歸級者，依左列規定核敘：\n　　一、改任高職等者，依前條規定辦理；其未具高職等任用資格者，仍依原職等斂俸，俟取得任用資格後，再依前條規定晉敘。\n　　二、改任低職等者，得敘原俸階。但以敘至本職等最高年功俸為限。其無年功俸者，得敘至該職等最高俸階。",
+            "content": "　　依公務職位分類法第九條之規定，因職責變動而調整歸級者，依左列規定核敘：\n　　一、改任高職等者，依前條規定辦理；其未具高職等任用資格者，仍依原職等敘俸，俟取得任用資格後，再依前條規定晉敘。\n　　二、改任低職等者，得敘原俸階。但以敘至本職等最高年功俸為限。其無年功俸者，得敘至該職等最高俸階。",
             "relates": {}
         },
         {
@@ -127,69 +127,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "520618",
-            "立法紀錄": "52卷31期號12冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9ce81cacdcccececdc4cfcfcfcac4cfcfcfca",
+            "會議日期": "570402",
+            "立法紀錄": "57卷23期號 1224-1224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9cd81cac8cbcecdcccfcfc4cecdcdcbc4cecdcdcb",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccbcfcdcfcfc5cacacfd2cac8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cdc8c7d2cdc7cd"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "531204",
-            "立法紀錄": "53卷34期號8冊 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9ce81cacccccbcfc7c4cfcfcecfc4cfcfcecf",
-            "主提案": "考試院",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "540423",
-            "立法紀錄": "54卷35期號7冊 92-108頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9ce81cacbcccacfc8cfcfc4cfcfc6cdc4cfcecfc7",
-            "主提案": "張金檻",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccbcfcdcfcfc5cbcbc9d2cbc9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "540427",
-            "立法紀錄": "54卷35期號7冊 109-111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9ce81cacbcccacfc8cfcfc4cfcecfc6c4cfcecece",
+            "進度": "委員會審查",
+            "會議日期": "570406",
+            "立法紀錄": "57卷36期號 3090-3093頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9cd81cac8cbceccc9cfcfc4cccfc6cfc4cccfc6cc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "560516",
-            "立法紀錄": "56卷4期號5冊 132-139頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9ce81cac9ccc6cfcacfcbc4cfcecccdc4cfceccc6",
+            "會議日期": "570426",
+            "立法紀錄": "57卷30期號 2704-2706頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9cd81cac8cbcecccfcfcfc4cdc8cfcbc4cdc8cfc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc9cfcdcfcfc5c9cec7d2c9c9c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5c8cecbd2c8cec8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560516",
-            "立法紀錄": "56卷4期號5冊 143-146頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9ce81cac9ccc6cfcacfcbc4cfcecbccc4cfcecbc9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "560526",
-            "立法紀錄": "56卷7期號5冊 222-227頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9ce81cac9ccc6cfcacfc8c4cfcdcdcdc4cfcdcdc8",
+            "會議日期": "570426",
+            "立法紀錄": "57卷30期號 2706-2706頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9cd81cac8cbcecccfcfcfc4cdc8cfc9c4cdc8cfc9",
             "關係文書": []
         }
     ]
