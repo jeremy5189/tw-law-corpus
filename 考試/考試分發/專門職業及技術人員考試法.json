@@ -1,8 +1,8 @@
 {
     "title": "專門職業及技術人員考試法",
     "versions": [
-        "中華民國89年5月26日修正",
-        "中華民國89年6月14日公布"
+        "中華民國90年5月1日修正",
+        "中華民國90年5月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -120,7 +120,7 @@
         {
             "note": "(及格方式、總成績計算規則之訂定)",
             "rule_no": "第十九條",
-            "content": "　　專門職業及技術人員考試得視等級或類科之不同，其及格方式採科別及格、各科目平均滿六十分及格、或以錄取各類科全程到考人數一定比例為及格。\n　　前項及格方式，由考選部報請考試院定之。\n　　專門職業及技術人員考試總成績計算規則，由考選部報請考試院定之。",
+            "content": "　　專門職業及技術人員考試得視等級或類科之不同，其及格方式採科別及格、總成績滿六十分及格或以錄取各類科全程到考人數一定比例為及格。\n　　前項及格方式，由考選部報請考試院定之。\n　　專門職業及技術人員考試總成績計算規則，由考選部報請考試院定之。",
             "relates": {}
         },
         {
@@ -173,60 +173,46 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　在權衡國人健康權利之保障、中醫學術的發展，與減緩對於已通過檢定考試者應考權限制之衡擊後，短期內將正規教育擇才與檢定考試兩個管道採分流原則實施，應為一較佳的過度設計，故修正刪除本法第十三條第一項，既維持中醫師檢定考試及格考中醫師特考之權利，亦使未來中醫師專技高考步上正軌。"
+        "第十九條": "　　為維持專技人員之執業水準，其專業科目成績之計分允宜占較高之比重，爰將本條第一項規定之及格方式「各科目平均滿六十分及格」修正為「總成績滿六十分及格」，俾其普通科目成績與專業科目成績能按不同配分比例計算，以加重專業科目之計分比重。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890331",
-            "立法紀錄": "89卷14期3073號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc981c7c6cecbcfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "賴勁麟",
+            "會議日期": "891128",
+            "立法紀錄": "89卷67期3126號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc881c7c6c9c8cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林濁水",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcbcfcec5cec6cad2cec6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecfcfcdc5cbcdcdd2cbcdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890424",
-            "立法紀錄": "89卷22期3081號 327-377頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc981c7c6cdcdcfcfc4cfcccdc8c4cfccc8c8",
+            "會議日期": "891214",
+            "立法紀錄": "90卷4期3138號 403-410頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc881c6cfcfcbcfcfc4cfcbcfccc4cfcbcecf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "890526",
-            "立法紀錄": "89卷29期3088號 34-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc981c7c6cdc6cfcfc4cfcfcccbc4cfcfcbcf",
+            "會議日期": "900501",
+            "立法紀錄": "90卷22期3156號上冊 94-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc881c6cfcdcdcfcec4cfcfc6cbc4cfcfc6c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecacfcfc5cbc6cad2cacfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec9cfcec5cbc8cdd2cbc8c9"
                 ]
             ]
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "890512",
-            "立法紀錄": "89卷25期3084號 30-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc981c7c6cdcacfcfc4cfcfcccfc4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "890526",
-            "立法紀錄": "89卷29期3088號 40-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc981c7c6cdc6cfcfc4cfcfcbcfc4cfcfcbcf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "890526",
-            "立法紀錄": "89卷29期3088號 40-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc981c7c6cdc6cfcfc4cfcfcbcfc4cfcfcbcc",
+            "會議日期": "900501",
+            "立法紀錄": "90卷22期3156號上冊 99-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacdc881c6cfcdcdcfcec4cfcfc6c6c4cfcfc6c6",
             "關係文書": []
         }
     ]
