@@ -1,12 +1,12 @@
 {
     "title": "學位授予法",
     "versions": [
-        "中華民國48年3月20日修正",
-        "中華民國48年4月1日公布"
+        "中華民國61年5月12日修正",
+        "中華民國61年5月27日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -24,7 +24,7 @@
         {
             "note": "(學士學位)",
             "rule_no": "第三條",
-            "content": "　　凡曾在公立或立案私立之大學或獨立學院修業期滿，考試合格，並經教育部覆核無異者，由大學或獨立學院授予學士學位。\n　　軍事院校合於教育部規定之大學或獨立學院標準，其學生修業期滿，考試合格，並經教育部覆核無異者，亦得由各該院校授予學士學位。",
+            "content": "　　凡曾在公立或立案私立之大學或獨立學院修業期滿，考試合格，並經教育部覆核無異者，由大學或獨立學院授予學士學位。\n　　軍警院校合於教育部規定之大學或獨立學院標準，其學生修業期滿，考試合格，並經教育部覆核無異者，亦得由各該院校授予學士學位。",
             "relates": {}
         },
         {
@@ -82,51 +82,47 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　第二項「軍事院校」修正為「軍警院校」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "480116",
-            "立法紀錄": "48卷22期號19冊 45-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcdcec6c4cfcfcbcac4cfcfcace",
-            "主提案": "喬一凡",
+            "會議日期": "461029",
+            "立法紀錄": "46卷20期號3冊 100-100頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c781cbc9cdcfcfccc4cfcecfcfc4cfcecfcf",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cbc9c8d2cbc9c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcdcfcfc5c9cdd2c9cb"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480320",
-            "立法紀錄": "48卷23期號6冊 19-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcccfc9c4cfcfcec6c4cfcfcdce",
+            "會議日期": "610512",
+            "立法紀錄": "61卷38期491號 37-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c781c9cecbc6ccc7cfcfcfcec4cfcfccc8c4cfcfcbcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcecfcfc5cac9c8d2cac9c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c9c6c8d2c8cfcf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "480320",
-            "立法紀錄": "48卷23期號6冊 35-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcccfc9c4cfcfcccac4cfcfccc8",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480320",
-            "立法紀錄": "48卷23期號6冊 37-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcccfc9c4cfcfccc8c4cfcfccc8",
+            "會議日期": "610512",
+            "立法紀錄": "61卷38期491號 40-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c781c9cecbc6ccc7cfcfcfcec4cfcfcbcfc4cfcfcbcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480320",
-            "立法紀錄": "48卷23期號6冊 37-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcccfc9c4cfcfccc8c4cfcfccc8",
+            "會議日期": "610512",
+            "立法紀錄": "61卷38期491號 40-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c781c9cecbc6ccc7cfcfcfcec4cfcfcbcfc4cfcfcbcf",
             "關係文書": []
         }
     ]
