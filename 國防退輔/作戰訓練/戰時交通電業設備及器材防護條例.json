@@ -1,12 +1,12 @@
 {
     "title": "戰時交通電業設備及器材防護條例",
     "versions": [
-        "中華民國49年4月15日全文修正",
-        "中華民國49年4月25日公布"
+        "中華民國86年4月18日廢止",
+        "中華民國86年5月7日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -130,58 +130,44 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「戰時交通電業設備及器材防護條例」係於民國三十三年十月國民政府公布施行迄今，其間曾經四次修正。此次廢止，歸結四點理由：（一）現有法令已有規範，無重複規定之必要。（二）動員戡亂時期已終止，回歸憲政常態，以符法制。（三）現行法缺失：如給獎辦法等，應予廢止。（四）廢止此一條例並不影響交通電業設備及器材防護。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "480731",
-            "立法紀錄": "48卷23期號24冊 42-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6caca81cbc7cdcccdcbc4cfcfcbcdc4cfcfcbc7",
-            "主提案": "商文立",
+            "會議日期": "841205",
+            "立法紀錄": "84卷59期2816號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec6cac881c7cbcac6cfcfc4cfcfcfccc4cfcfcfcc",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cbcbc6d2cbcacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfc7cfcec5cec8ced2cec8ca"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "851002",
+            "立法紀錄": "85卷49期2871號 463-466頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec6cac881c7cacbc6cfcfc4cfcbc9ccc4cfcbc9c9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "490401",
-            "立法紀錄": "49卷25期號7冊 5-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6caca81cbc6cdcacfc8c4cfcfcfcac4cfcfcdc6",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 71-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec6cac881c7c9cec7cfcec4cfcfc8cec4cfcfc8c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcecfcfc5c8cdcbd2c8cacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5cbcfc9d2cbcec9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "490401",
-            "立法紀錄": "49卷25期號6冊 48-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6caca81cbc6cdcacfc9c4cfcfcbc7c4cfcfcacf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490401",
-            "立法紀錄": "49卷25期號6冊 50-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6caca81cbc6cdcacfc9c4cfcfcacfc4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490405",
-            "立法紀錄": "49卷25期號6冊 58-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6caca81cbc6cdcacfc9c4cfcfcac7c4cfcfc9ca",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "490415",
-            "立法紀錄": "49卷25期號7冊 44-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6caca81cbc6cdcacfc8c4cfcfcbcbc4cfcfcbc7",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 77-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec6cac881c7c9cec7cfcec4cfcfc8c8c4cfcfc8c8",
             "關係文書": []
         }
     ]
