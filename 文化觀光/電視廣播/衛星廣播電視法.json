@@ -1,8 +1,8 @@
 {
     "title": "衛星廣播電視法",
     "versions": [
-        "中華民國91年12月27日修正",
-        "中華民國92年1月15日公布"
+        "中華民國92年12月9日修正",
+        "中華民國92年12月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -68,7 +68,7 @@
         {
             "note": "(衛星廣播電視事業之資格)",
             "rule_no": "第九條",
-            "content": "　　衛星廣播電視事業之組織，應為依公司法設立之股份有限公司。\n　　衛星廣播電視事業最低實收資本額，由主管機關定之。",
+            "content": "　　衛星廣播電視事業之組織，以股份有限公司及財團法人為限。\n　　衛星廣播電視事業最低實收資本額及捐助財產總額，由主管機關定之。\n　　政府、政黨、其捐助成立之財團法人及其受託人不得直接、間接投資衛星廣播電視事業。\n　　除法律另有規定外，政府、政黨不得捐助成立衛星廣播電視事業。\n　　本法修正施行前，政府、政黨、其捐助成立之財團法人及其受託人有不符前二項所定情形之一者，應於本法修正施行之日起二年內改正。\n　　政黨黨務工作人員、政務人員及選任公職人員不得投資衛星廣播電視事業；其配偶、二親等血親、直系姻親投資同一衛星廣播電視事業者，其持有之股份，合計不得逾該事業已發行股份總數百分之一。本法修正施行前，衛星廣播電視事業有不符規定者，應自本法修正施行之日起二年內改正。\n　　政府、政黨、政黨黨務工作人員及選任公職人員不得擔任衛星廣播電視事業之發起人、董事、監察人及經理人。本法修正施行前已擔任者，衛星廣播電視事業應自本法修正施行之日起六個月內解除其職務。\n　　前二項所稱政黨黨務工作人員、政務人員及選任公職人員之範圍，於本法施行細則定之。\n　　衛星廣播電視事業不得播送有候選人參加，且由政府出資或製作之節目、短片及廣告；政府出資或製作以候選人為題材之節目、短片及廣告，亦同。",
             "relates": {}
         },
         {
@@ -311,21 +311,19 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　一、本法施行細則第三條有關經營衛星廣播電視事業申請文件補正之相關規定，提昇至法律位階，增列為第三項。\n　　二、原條文第三項及第四項遞移為第四項及第五項。",
-        "第九條": "　　本法施行細則第六條有關衛星廣播電視事業最低實收資本額之規定，涉及人民權利義務，配合行政程序法之施行，爰於第二項增訂其授權依據。",
-        "第十六條": "　　本法施行細則第十一條第二項有關暫停經營期間之規定，涉及人民權利義務，配合行政程序法之施行，爰於第二項增訂其授權依據。"
+        "第九條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfce81c6cecccbcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "910604",
+            "立法紀錄": "91卷40期3236號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfcd81c6cecbcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "羅文嘉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5cec8cad2cec8c9"
                 ]
             ]
         },
@@ -333,40 +331,40 @@
             "進度": "委員會審查",
             "會議日期": "911016",
             "立法紀錄": "91卷66期3262號上冊 57-98頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfce81c6cec9c9cfcec4cfcfcac8c4cfcfc6c7",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfcd81c6cec9c9cfcec4cfcfcac8c4cfcfc6c7",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "911211",
-            "立法紀錄": "92卷3期3277號三冊 257-297頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfce81c6cdcfcccfccc4cfcdcac8c4cfcdc6c8",
+            "立法紀錄": "92卷3期3277號三冊 257-280頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfcd81c6cdcfcccfccc4cfcdcac8c4cfcdc7cf",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "911227",
-            "立法紀錄": "92卷3期3277號一冊 91-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfce81c6cdcfcccfcec4cfcfc6cec4cfcfc6c9",
+            "進度": "委員會審查",
+            "會議日期": "911212",
+            "立法紀錄": "92卷3期3277號三冊 280-297頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfcd81c6cdcfcccfccc4cfcdc7cfc4cfcdc6c8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "921209",
+            "立法紀錄": "92卷57期3331號二冊 502-504頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfcd81c6cdcac8cfcdc4cfcacfcdc4cfcacfcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecbcfccc5cbc8cfd2cbc7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5c8c7d2c7cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "911227",
-            "立法紀錄": "92卷3期3277號一冊 108-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfce81c6cdcfcccfcec4cfcecfc7c4cfcececd",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "911227",
-            "立法紀錄": "92卷3期3277號一冊 115-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfce81c6cdcfcccfcec4cfcececac4cfcecec9",
+            "會議日期": "921209",
+            "立法紀錄": "92卷57期3331號二冊 504-507頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccecfcd81c6cdcac8cfcdc4cfcacfcbc4cfcacfc8",
             "關係文書": []
         }
     ]
