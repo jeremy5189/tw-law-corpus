@@ -1,11 +1,11 @@
 {
     "title": "博士學位評定會組織條例",
     "versions": [
-        "中華民國67年5月23日修正",
-        "中華民國67年6月2日公布"
+        "中華民國72年4月26日廢止",
+        "中華民國72年5月6日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -46,55 +46,53 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　一、目前科際研究日益專精，聘請專家七人之多常有困難，故修正為五至九人。\n　　二、增訂第二項。提出侯選人之學校教師或考試委負擔任評定委員之人數，以一人為限。",
-        "第四條": "　　若干專精論著，評定委員甚難物色，除將中央研究院研究所資深研究員予以納入本條第二款及酌作文字修正外、並將第一款「大學教授」改為「教授」，以利適用。"
-    },
+    "deprecated_reason": "　　現行博士學位評定會組織條例之規定，已納入新學位授予法中，故將本法予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "670224",
-            "立法紀錄": "67卷16期1084號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecec9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "711123",
+            "立法紀錄": "71卷94期1579號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9ca81c8cec8cfc6cbcfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcecfcfc5cac7c7d2cac6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcbcfcfc5cec6d2cdc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "670406",
-            "立法紀錄": "67卷44期1112號 54-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecbcbcfcfc4cfcfcacbc4cfcfcac7",
+            "會議日期": "711211",
+            "立法紀錄": "72卷26期1615號 47-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9ca81c8cdc8cecdc9cfcfc4cfcfcbc8c4cfcfcac8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711222",
+            "立法紀錄": "72卷28期1617號 19-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9ca81c8cdc8cecdc7cfcfc4cfcfcec6c4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "720106",
+            "立法紀錄": "72卷31期1620號 83-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9ca81c8cdc8cecccecfcfc4cfcfc7ccc4cfcfc6cd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "670519",
-            "立法紀錄": "67卷40期1108號 5-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecbcfcfcfc4cfcfcfcac4cfcfcecd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcccfcfc5cacdd2cac8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670519",
-            "立法紀錄": "67卷40期1108號 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecbcfcfcfc4cfcfcecdc4cfcfcecd",
+            "會議日期": "720419",
+            "立法紀錄": "72卷32期1621號 9-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9ca81c8cdc8cecccdcfcfc4cfcfcfc6c4cfcfcdcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "670523",
-            "立法紀錄": "67卷41期1109號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecbcecfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "720426",
+            "立法紀錄": "72卷34期1623號 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9ca81c8cdc8cecccbcfcfc4cfcfcecac4cfcfceca",
             "關係文書": []
         }
     ]
