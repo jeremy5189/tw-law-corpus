@@ -1,8 +1,8 @@
 {
     "title": "臺灣地區與大陸地區人民關係條例",
     "versions": [
-        "中華民國83年9月13日修正",
-        "中華民國83年9月16日公布"
+        "中華民國84年7月4日修正",
+        "中華民國84年7月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -414,7 +414,7 @@
         {
             "note": "(繼承權之拋棄)",
             "rule_no": "第六十六條",
-            "content": "　　大陸地區人民繼承臺灣地區人民之遺產，應於繼承開始起三年內以書面向被繼承人住所地之法院為繼承之表示；逾期視為拋棄其繼承權。\n　　繼承在本條例施行前開始者，前項期間自本條例施行之日起算。",
+            "content": "　　大陸地區人民繼承臺灣地區人民之遺產，應於繼承開始起三年內以書面向被繼承人住所地之法院為繼承之表示；逾期視為拋棄其繼承權。\n　　大陸地區人民繼承本條例施行前已由主管機關處理，且在臺灣地區無繼承人之現役軍人或退除役官兵遺產者，前項繼承表示之期間為四年。\n　　繼承在本條例施行前開始者，前二項期間自本條例施行之日起算。",
             "relates": {}
         },
         {
@@ -611,34 +611,62 @@
         }
     ],
     "law_reasons": {
-        "第六十六條": "　　負責保管在臺灣地區無繼承人之退除役官兵或現役軍人遺產之行政院退輔會，常因大陸地區繼承人之相關資料不完整，及在大陸地區繼承人協尋作業推展之不順利，使得其保管遺產之筆數及金額總計高達二十八億餘元。有鑑於原法規定之兩年期間即將屆滿，為避免爾後處理是類遺產事件之困擾，並維護大陸地區繼承人之合法權益，爰將繼承表示期間明定延長為三年。"
+        "第六十六條": "　　一、本條例施行前，兩岸交流尚未法制化，且兩岸阻絕四十餘年，在大陸地區繼承人協尋作業之推展，有事實上困難，且因主管機關保管遺產之筆數及金額，為數甚多，為避免爾後處理之困擾，並維護大陸地區繼承人權益，爰增訂第二項，俾貫徹政府代為保管遺產，以期歸還繼承人之美意。\n　　二、原第二項移列為第三項，並配合將「前項」二字修正為「前二項」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830913",
-            "立法紀錄": "83卷57期2731號 50-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcb81c7cccac8cfcfc4cfcfcacfc4cfcfcac6",
-            "主提案": "潘維剛",
+            "會議日期": "840502",
+            "立法紀錄": "84卷26期2783號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcdc9cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "朱鳳芝",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcacfcfc5cacecad2cacec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdcbcfcdc5cececbcad2cececbc8"
                 ]
             ]
         },
         {
+            "進度": "一讀",
+            "會議日期": "840630",
+            "立法紀錄": "84卷42期2799號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "朱鳳芝",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdcbcfcec5c9cac6d2c9c9cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "840630",
+            "立法紀錄": "84卷42期2799號上冊 29-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcdcfcec4cfcfcdc6c4cfcfccc9",
+            "主提案": "廖福本",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "830913",
-            "立法紀錄": "83卷57期2731號 59-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcb81c7cccac8cfcfc4cfcfcac6c4cfcfc9cf",
+            "會議日期": "840630",
+            "立法紀錄": "84卷42期2799號上冊 36-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcdcfcec4cfcfccc9c4cfcfcacd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840704",
+            "立法紀錄": "84卷43期2800號 53-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcccfcfc4cfcfcaccc4cfcfcaca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "830913",
-            "立法紀錄": "83卷57期2731號 60-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdcb81c7cccac8cfcfc4cfcfc9cfc4cfcfc9ce",
+            "會議日期": "840704",
+            "立法紀錄": "84卷43期2800號 53-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcccfcfc4cfcfcaccc4cfcfcaca",
             "關係文書": []
         }
     ]
