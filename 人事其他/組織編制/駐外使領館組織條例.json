@@ -1,8 +1,8 @@
 {
     "title": "駐外使領館組織條例",
     "versions": [
-        "中華民國48年6月12日全文修正",
-        "中華民國48年6月24日公布"
+        "中華民國52年7月30日修正",
+        "中華民國52年8月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　大使館設特命全權大使一人特任並設左列外交官員：\n　　一、參事一人或二人。\n　　二、一等秘書及二等秘書一人至五人。\n　　三、三等秘書及助理三等秘書一人至七人。\n　　大使館業務繁重者，得設公使一人。",
+            "content": "　　大使館設特命全權大使一人，特任或簡任，並設左列外交官員：\n　　一、參事一人或二人。\n　　二、一等秘書及二等秘書一人至五人。\n　　三、三等秘書一人至七人。\n　　大使館業務繁重者，得設公使一人。",
             "relates": {}
         },
         {
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　領事館設左列領事官員：\n　　一、領事一人。\n　　二、副領事一人或二人。\n　　三、助理副領事一人或二人。",
+            "content": "　　領事館設左列領事官員：\n　　一、領事一人。\n　　二、副領事一人至三人。",
             "relates": {}
         },
         {
@@ -60,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　外交部得視事實需要，在國外就地聘用專門人才，派在駐外使領館辦事。\n　　前項聘用人員名額，不得超過駐外使館除各館館長外實有使館人員總員額百分之五。",
+            "content": "　　外交部得視事實需要，在國外聘用專門人才，派在駐外使領館辦事。\n　　前項聘用人員名額，不得超過駐外使領館除各館館長外法定總員額百分之二。",
             "relates": {}
         },
         {
@@ -115,48 +115,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "461210",
-            "立法紀錄": "47卷20期號6冊 77-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccf81cbc8cdcfcfc9c4cfcfc8c8c4cfcfc8c8",
+            "會議日期": "510706",
+            "立法紀錄": "51卷29期號25冊 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccd81cacecdc6cecac4cfcfcbc7c4cfcfcbc7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5cdc7d2cbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5cccec8d2cccdc9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480605",
-            "立法紀錄": "48卷23期號17冊 3-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccf81cbc7cdcccec8c4cfcfcfccc4cfcfcec6",
+            "會議日期": "520726",
+            "立法紀錄": "52卷31期號15冊 6-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccd81cacdcccececac4cfcfcfc9c4cfcfcec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5cccdcbd2cccdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcdcfcfc5c8ccc9d2c8cbca"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480605",
-            "立法紀錄": "48卷23期號16冊 66-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccf81cbc7cdcccec9c4cfcfc9c9c4cfcfc9c6",
+            "會議日期": "520726",
+            "立法紀錄": "52卷31期號15冊 66-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccd81cacdcccececac4cfcfc9c9c4cfcfc8ce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480609",
-            "立法紀錄": "48卷23期號16冊 124-134頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccf81cbc7cdcccec9c4cfcecdcbc4cfcecccb",
+            "會議日期": "520726",
+            "立法紀錄": "52卷31期號15冊 71-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccd81cacdcccececac4cfcfc8cec4cfcfc8cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480612",
-            "立法紀錄": "48卷23期號17冊 30-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccf81cbc7cdcccec8c4cfcfcccfc4cfcfcccb",
+            "會議日期": "520730",
+            "立法紀錄": "52卷31期號15冊 88-88頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccd81cacdcccececac4cfcfc7c7c4cfcfc7c7",
             "關係文書": []
         }
     ]
