@@ -1,8 +1,8 @@
 {
     "title": "國營事業管理法",
     "versions": [
-        "中華民國89年6月30日修正",
-        "中華民國89年7月19日公布"
+        "中華民國91年5月24日修正",
+        "中華民國91年6月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -232,7 +232,7 @@
         {
             "note": "(董事監察人或理監事兼任之禁止)",
             "rule_no": "第三十五條",
-            "content": "　　國營事業董事、監察人或理、監事，不得兼任其他國營事業董事、監察人或理、監事。\n　　前項董事或理事，其代表政府股份者，應至少有五分之一席次，由國營事業主管機關聘請工會推派之代表擔任。\n　　前項工會推派之代表，有不適任情形者，該國營事業工會得另行推派之。",
+            "content": "　　國營事業董事、監察人或理、監事，不得兼任其他國營事業董事、監察人或理、監事。但為推動合併或成立控股公司而兼任者，僅得兼任一職，且擔任董事或理事者不得兼任監察人或監事，反之亦然；並得被選任為董事長、副董事長或相當之職位。\n　　前項董事或理事，其代表政府股份者，應至少有五分之一席次，由國營事業主管機關聘請工會推派之代表擔任。\n　　前項工會推派之代表，有不適任情形者，該國營事業工會得另行推派之。",
             "relates": {}
         },
         {
@@ -259,47 +259,40 @@
         }
     ],
     "law_reasons": {
-        "第三十五條": "　　一定比例董事、監察人由工會推派員工代表擔任，員工可參與公司的組織經營與決策，除能減少勞資爭議外，並能提高企業競爭力，爰增列第二、三項。"
+        "第三十五條": "　　第一項後段增列董事監察人或理監事兼任之禁止規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "840516",
-            "立法紀錄": "84卷30期2787號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c781c7cbcccfcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "蘇煥智",
+            "會議日期": "910319",
+            "立法紀錄": "91卷18期3214號 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c681c6cecec7cfcfc4cfcfcfc9c4cfcfcfc8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacec7cfcec5c9c7c6d2c9c6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cbc9c6d2cbc8cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "861218",
-            "立法紀錄": "86卷57期2949號下冊 35-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c781c7c9cac8cfccc4cfcfcccac4cfcfcacd",
+            "會議日期": "910429",
+            "立法紀錄": "91卷43期3239號下冊 177-190頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c681c6cecbcccfccc4cfcec8c8c4cfcec6cf",
             "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號中冊 487-494頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c781c7c6ccc6cfcdc4cfcbc7c8c4cfcbc6cb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacecdcfcec5cac6cbd2c9cfcf"
-                ]
-            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號中冊 494-495頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c781c7c6ccc6cfcdc4cfcbc6cbc4cfcbc6ca",
-            "關係文書": []
+            "會議日期": "910524",
+            "立法紀錄": "91卷37期3233號上冊 42-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c681c6ceccc8cfcec4cfcfcbcdc4cfcfcbc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececccfcdc5cdcdced2cdcdc9"
+                ]
+            ]
         }
     ]
 }
