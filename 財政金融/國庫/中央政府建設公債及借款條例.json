@@ -1,8 +1,8 @@
 {
     "title": "中央政府建設公債及借款條例",
     "versions": [
-        "中華民國84年12月19日修正",
-        "中華民國85年1月17日公布"
+        "中華民國91年5月14日修正",
+        "中華民國91年5月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -13,7 +13,17 @@
             "note": "(公債發行或借款之原因及種類)",
             "rule_no": "第一條",
             "content": "　　中央政府為支應重大建設，籌集建設資金，依本條例之規定，發行中央政府建設公債（以下簡稱本公債）或洽借一年以上之借款（以下簡稱本借款）。\n　　前項公債及借款，各分甲、乙兩類。甲類公債及甲類借款，指支應非自償之建設資金；乙類公債及乙類借款，指支應自償之建設資金。\n　　中央政府為應特殊需要，依預算法第七十五條之規定，經行政院送請立法院決議通過之特別預算所列之借款，得以甲類借款支應。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "02301",
+                        "law_name": "預算法",
+                        "numbers": [
+                            "第七十五條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(刪除)",
@@ -54,13 +64,13 @@
         {
             "note": "(掛失止付)",
             "rule_no": "第八條",
-            "content": "　　本公債債票遺失、被盜或滅失者，不得掛失止付，並不適用民法第七百二十條第一項但書、第七百二十五條及第七百二十七條之規定。但記名者，得向原經售機構辦理掛失手續，申請補發債票。",
+            "content": "　　本公債債票遺失、被盜或滅失者，記名債票，得向原經售機構辦理掛失手續，申請補發；無記名債票，得經掛失止付、公示催告程序，取得法院除權判決後申請補發。但中華民國八十四年九月二十八日以前發行之無記名公債債票，不得辦理掛失止付。",
             "relates": {}
         },
         {
             "note": "(發售及還本付息之經理)",
             "rule_no": "第九條",
-            "content": "　　本公債之發售及還本付息，由中央銀行經理。",
+            "content": "　　本公債之發售及還本付息，由中央銀行經理；其經理辦法，由財政部洽商中央銀行定之。",
             "relates": {}
         },
         {
@@ -95,83 +105,42 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　為維護整體財政之健全，支應國家發展需要，故有關公共債務之上限，應依公共債務法之規定，本條規定已無必要，爰予刪除。",
-        "第三條": "　　配合第二條之刪除，修正刪除第一項「依前條法定預算所列數額」等字。\n　　第二項不修正。",
-        "第九條 之一": "　　為保持中央銀行貨幣政策之中立性與獨立性，除不得承受本公債之發行外，增訂不得承貸本借款之規定，以期周延。"
+        "第八條": "　　按司法院於八十四年九月二十九日公布釋字第三八六號解釋意旨人民合法持有之無記名公債債票於遺失、被盜或滅失時，無從依民法關於無記名證券之規定請求權利保護，亦未提供其他合理救濟途徑，財政部為符合上開解釋意旨，於「中央公債經理辦法」第三十五條之一第二項規定，為配合行政程序法之施行，爰將該規定提昇至法律位階。",
+        "第九條": "　　財政部為統一經理中央政府各種公債發行之相關事項，訂有「中央公債經理辦法」，為配合行政程序法之施行，爰增訂授權由財政部洽商中央銀行訂定該辦法之法律依據。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcfcdcfcfc4cfcfcfcec4cfcfcfce",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 152-154頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac781c6cecccbcfcec4cfcecacdc4cfcecacb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcdcfcdc5cec6c8d2cdcdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "840111",
-            "立法紀錄": "84卷7期2764號 351-385頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcfc8cfcfc4cfcccacec4cfccc7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "840313",
-            "立法紀錄": "84卷16期2773號下冊 383-430頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcec9cfccc4cfccc7ccc4cfcbcccf",
-            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "841005",
-            "立法紀錄": "84卷50期2807號 27-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcacfcfcfc4cfcfcdc8c4cfcfc9c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacfc8cfcdc5cdcbcad2cdc8cc"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "841005",
-            "立法紀錄": "84卷50期2807號 67-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcacfcfcfc4cfcfc9c8c4cfcfc8ce",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 213-216頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac781c6cecccbcfcec4cfcdceccc4cfcdcec9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "841012",
-            "立法紀錄": "84卷52期2809號 17-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcacdcfcfc4cfcfcec8c4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "841208",
-            "立法紀錄": "84卷60期2817號 141-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbc9cfcfcfc4cfcecbcec4cfcecbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "841219",
-            "立法紀錄": "84卷63期2820號上冊 104-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbc9cccfcec4cfcecfcbc4cfcecfca",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 338-339頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac781c6cecccbcfcec4cfccccc7c4cfccccc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "841219",
-            "立法紀錄": "84卷63期2820號上冊 105-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbc9cccfcec4cfcecfcac4cfcecfca",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 339-339頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac781c6cecccbcfcec4cfccccc6c4cfccccc6",
             "關係文書": []
         }
     ]
