@@ -1,8 +1,8 @@
 {
     "title": "公務人員任用法（民國37年）",
     "versions": [
-        "中華民國51年8月21日全文修正",
-        "中華民國51年9月1日公布"
+        "中華民國57年12月6日修正",
+        "中華民國57年12月18日公布"
     ],
     "types": [
         "立法歷程",
@@ -30,7 +30,7 @@
         {
             "note": "(公務人員之任用資格)",
             "rule_no": "第四條",
-            "content": "　　公務人員之任用資格，以考試及格或依法考績升等或在本法施行前，依法銓敘合格者為限。\n　　各機關擬任人員，於本機關以外選用時，以考試及格者為先，無適合與擬任職務相當之考試及格人員時，以依法考績升等或在本法施行前，依法銓敘合格而適合該職務需要者任用之。\n　　具有第一項任用資格之考試及格人員，應由銓敘部編列候用人員名冊，分發各機關備用。",
+            "content": "　　公務人員之任用資格，以考試及格或依法考績升等或在本法施行前，依法銓敘合格者為限。\n　　各機關擬任人員，於本機關以外選用時，以考試及格者為先，無適合與擬任職務相當之考試及格人員時，以依法考績升等或在本法施行前，依法銓敘合格而適合該職務需要者任用之。\n　　具有第一項任用資格之考試及格人員，應由銓敘部分發各機關任用。但行政院及所屬各機關任用人員，由行政院人事行政局分發，其分發辦法，由考試院會同行政院定之。",
             "relates": {}
         },
         {
@@ -40,9 +40,9 @@
             "relates": {}
         },
         {
-            "note": "(高等、普通、甲等及升等考試及格者任用之資格)",
+            "note": "(考試及格人員之任用規定)",
             "rule_no": "第六條",
-            "content": "　　高等考試及格者，取得薦任職任用之資格，但其成績列中等者，得先以高級委任職任用。\n　　普通考試及格者，取得中級以上委任職任用之資格。\n　　特種考試之甲等考試及格者，取得簡任職任用之資格，但其成績列中等者，得先以高級薦任職任用。乙等考試及格者，取得薦任職任用之資格，但其成績列中等者，得先以高級委任職任用。丙等考試及格者，取得中級以上委任職任用之資格。丁等考試及格者，取得初級委任職任用之資格或其關係法規所賦予之任用資格。\n　　升等考試及格者，取得升等任用之資格，雇員升等考試及格者，取得初級委任職任用之資格。",
+            "content": "　　考試及格人員之任用，依左列規定：\n　　一、高等考試及格者，取得薦任職任用之資格，其成績列中等者，得先以高級委任職任用。\n　　二、普通考試及格者，取得中級以上委任職任用之資格。\n　　三、特種考試之甲等考試及格者，取得簡任職任用之資格，其成績列中等者，得先以高級薦任職任用。乙等考試及格者，取得薦任職任用之資格，其成績列中等者，得先以高級委任職任用。丙等考試及格者，取得中級以上委任職任用之資格。丁等考試及格者，取得初級委任職任用之資格。\n　　四、升等考試及格者，分別取得簡任、薦任或初級委任職任用之資格。\n　　分類職位公務人員各職等考試及格者，得視為具有簡任、薦任、委任相當職務之任用資格。",
             "relates": {}
         },
         {
@@ -54,13 +54,13 @@
         {
             "note": "(甄審委員會之設立)",
             "rule_no": "第八條",
-            "content": "　　各機關任用人員，得設立甄審委員會，就具有任用資格之候用人員公開甄審，其辦法由考試院定之。",
+            "content": "　　各機關任用新進人員，得設立甄審委員會，除經考試及格分發任用者外，就具有任用資格之人員公開甄審，其辦法由考試院定之。",
             "relates": {}
         },
         {
             "note": "(初任各職等人員先予試用)",
             "rule_no": "第九條",
-            "content": "　　初任各職等人員，先予試用一年，試用成績及格，予以實授，不及格者，由銓敘機關分別情節延長其期間，最長以六個月為限，延長後仍不及格，得停止其試用，在試用前依其職務有學習必要者，得予以學習，其辦法由考試院定之。\n　　各級主管職務，其本職最低俸級為簡任或薦任中級以上者。\n　　前項試用或學習人員不得充任。",
+            "content": "　　初任各職等人員，先予試用一年，試用成績及格，予以實授，不及格者，由銓敘機關分別情節延長其期間，但以六個月為限，延長後仍不及格者，停止其試用，在試用前依其職務有學習必要時，得予以學習，其辦法由考試院定之。\n　　前項先予試用或學習人員，不得充任簡任或薦任中級以上各級主管職務。",
             "relates": {}
         },
         {
@@ -136,26 +136,20 @@
             "relates": {}
         },
         {
-            "note": "(實施職位分類之機關或職位人員之任用)",
-            "rule_no": "第二十二條",
-            "content": "　　實施職位分類之機關或職位，其人員之任用，不適用本法之規定。",
-            "relates": {}
-        },
-        {
             "note": "(政務官不適用)",
-            "rule_no": "第二十三條",
+            "rule_no": "第二十二條",
             "content": "　　本法對於政務官不適用之。",
             "relates": {}
         },
         {
             "note": "(施行細則)",
-            "rule_no": "第二十四條",
+            "rule_no": "第二十三條",
             "content": "　　本法施行細則，由考試院定之。",
             "relates": {}
         },
         {
             "note": "(施行日)",
-            "rule_no": "第二十五條",
+            "rule_no": "第二十四條",
             "content": "　　本法自公布日施行。",
             "relates": {}
         }
@@ -163,62 +157,55 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "500310",
-            "立法紀錄": "50卷27期號3冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc881cacfcdc8cfccc4cfcfcfcac4cfcfcfca",
+            "會議日期": "571029",
+            "立法紀錄": "57卷80期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc781cac8cbcdc7cfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc8cfcecfcfc5cbcdcbd2cbcbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcecfcfc5c7cbccd2c7cbc8"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "501103",
-            "立法紀錄": "50卷28期號6冊 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc881cacfcdc7cfc9c4cfcfcecbc4cfcfcecb",
+            "進度": "委員會審查",
+            "會議日期": "571116",
+            "立法紀錄": "57卷93期號 8-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc781cac8cbcdc6cccfcfcfcdc4cfcfcfc7c4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "571120",
+            "立法紀錄": "57卷93期號 14-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc781cac8cbcdc6cccfcfcfcdc4cfcfcecbc4cfcfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "571203",
+            "立法紀錄": "57卷90期號 4-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc781cac8cbcdc6cfcfcfcfcec4cfcfcfcbc4cfcfcdcf",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5cbc7c7d2cacecb"
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5cacfc6d2cacdcd"
                 ]
             ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510817",
-            "立法紀錄": "51卷29期號19冊 46-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc881cacecdc6cec6c4cfcfcbc9c4cfcfc8ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510817",
-            "立法紀錄": "51卷29期號19冊 88-104頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc881cacecdc6cec6c4cfcfc7c7c4cfcecfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510821",
-            "立法紀錄": "51卷29期號19冊 111-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc881cacecdc6cec6c4cfcececec4cfcecec9",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "510821",
-            "立法紀錄": "51卷29期號19冊 116-124頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc881cacecdc6cec6c4cfcecec9c4cfcecdcb",
+            "會議日期": "571203",
+            "立法紀錄": "57卷90期號 20-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc781cac8cbcdc6cfcfcfcfcec4cfcfcdcfc4cfcfcdce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "510821",
-            "立法紀錄": "51卷29期號19冊 124-128頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc881cacecdc6cec6c4cfcecdcbc4cfcecdc7",
+            "會議日期": "571206",
+            "立法紀錄": "57卷91期號 2-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cbc781cac8cbcdc6cecfcfcfcec4cfcfcfcdc4cfcfcfcb",
             "關係文書": []
         }
     ]
