@@ -1,12 +1,12 @@
 {
     "title": "技術合作條例",
     "versions": [
-        "中華民國53年5月19日全文修正",
-        "中華民國53年5月29日公布"
+        "中華民國84年7月12日廢止",
+        "中華民國84年8月2日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -100,79 +100,27 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　技術合作條例於民國五十一年公布施行，原制定主要係為配合外匯管制，同時藉由技術合作合約之審查兼具保護國內廠商免於被技術來源予取予求之作用。惟在目前經濟國際化、自由化趨勢下，外匯管制已放寬，且企業對世界技術潮流、資訊之掌握程度日增，企業為本身發展而尋求與國外技術合作，自有其判斷依據與採擇，無需政府居間再過度干預。因此予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "520823",
-            "立法紀錄": "52卷31期號19冊 54-54頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacdcccecec6c4cfcfcacbc4cfcfcacb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcccfcfc5c8ceccd2c8cdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "530519",
-            "立法紀錄": "53卷33期號10冊 8-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacccccccecfc4cfcfcfc7c4cfcfcdcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccdcfcdcfcfc5c8cfced2c8cecd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "530421",
-            "立法紀錄": "53卷33期號7冊 61-73頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacccccccfc8c4cfcfc9cec4cfcfc8cc",
+            "會議日期": "840331",
+            "立法紀錄": "84卷19期2776號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccacd81c7cbcec6cfcfc4cfcfcfcec4cfcfcfce",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "530501",
-            "立法紀錄": "53卷33期號8冊 37-56頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacccccccfc7c4cfcfccc8c4cfcfcac9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "530501",
-            "立法紀錄": "53卷33期號8冊 74-89頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacccccccfc7c4cfcfc8cbc4cfcfc7c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "530505",
-            "立法紀錄": "53卷33期號8冊 89-91頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacccccccfc7c4cfcfc7c6c4cfcfc6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "530512",
-            "立法紀錄": "53卷33期號9冊 71-80頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacccccccfc6c4cfcfc8cec4cfcfc7cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "530512",
-            "立法紀錄": "53卷33期號9冊 117-118頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacccccccfc6c4cfcecec8c4cfcecec7",
+            "進度": "委員會審查",
+            "會議日期": "840705",
+            "立法紀錄": "84卷46期2803號四冊 213-215頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccacd81c7cbcbc9cfcbc4cfcdceccc4cfcdceca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "530519",
-            "立法紀錄": "53卷33期號10冊 38-41頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccace81cacccccccecfc4cfcfccc7c4cfcfcbce",
+            "會議日期": "840712",
+            "立法紀錄": "84卷46期2803號一冊 255-259頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacccacd81c7cbcbc9cfcec4cfcdcacac4cfcdcac6",
             "關係文書": []
         }
     ]
