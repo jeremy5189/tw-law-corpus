@@ -1,11 +1,12 @@
 {
     "title": "中央造幣廠組織法",
     "versions": [
-        "中華民國24年3月8日修正",
-        "中華民國24年3月19日公布"
+        "中華民國71年5月21日廢止",
+        "中華民國71年5月31日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -115,6 +116,28 @@
             "rule_no": "第十八條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本法係二十二年公布，依該法規定，中央造幣廠係隸屬於財政部，旋因適應實際需要，於六十八年修正中央銀行法時，將貨幣之印製及鑄造由中央銀行專營並管理之，故本組織法已無繼續施行之必要，爰予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "700331",
+            "立法紀錄": "70卷26期1407號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c7ce81c8cfc9c8cdc9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5cdcdcdd2cdcdc9"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "710521",
+            "立法紀錄": "71卷41期1526號 8-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c7ce81c8cec9c6cbcecfcfc4cfcfcfc7c4cfcfcecf",
+            "關係文書": []
         }
     ]
 }
