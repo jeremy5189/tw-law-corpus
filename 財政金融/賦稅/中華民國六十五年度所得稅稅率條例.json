@@ -1,10 +1,12 @@
 {
     "title": "中華民國六十五年度所得稅稅率條例",
     "versions": [
-        "中華民國66年9月8日期滿廢止"
+        "中華民國64年12月26日制定",
+        "中華民國64年12月29日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -44,5 +46,59 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "641209",
+            "立法紀錄": "64卷99期853號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8c881c9cbcac9c6c6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcccfcfc5c9cbcdd2c9cbca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "641217",
+            "立法紀錄": "65卷6期865號 1-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8c881c9cacac9cfc9cfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "641222",
+            "立法紀錄": "65卷10期869號 2-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8c881c9cacac9cecfcfcfc4cfcfcfcdc4cfcfcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "641226",
+            "立法紀錄": "64卷104期858號 16-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8c881c9cbcac9cecfcbcfcfcfcec4cfcfcec9c4cfcfcdc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcbcfcfc5cdcec6d2cdcdcb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "641226",
+            "立法紀錄": "64卷104期858號 26-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8c881c9cbcac9cecfcbcfcfcfcec4cfcfcdc9c4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "641226",
+            "立法紀錄": "64卷104期858號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8c881c9cbcac9cecfcbcfcfcfcec4cfcfcdc8c4cfcfcdc8",
+            "關係文書": []
+        }
+    ]
 }
