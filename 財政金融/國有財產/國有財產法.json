@@ -1,8 +1,8 @@
 {
     "title": "國有財產法",
     "versions": [
-        "中華民國69年12月26日修正",
-        "中華民國70年1月12日公布"
+        "中華民國81年3月19日修正",
+        "中華民國81年4月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -536,9 +536,9 @@
             "relates": {}
         },
         {
-            "note": "(動員戡亂時期非公用財產類不動產之轉讓處理)",
+            "note": "(刪除)",
             "rule_no": "第七十四條",
-            "content": "　　動員戡亂時期，台灣地區非公用財產類之不動產，其讓售與已有租賃關係之直接使用人之優待辦法，及對於承租人轉讓他人使用之處理辦法，由行政院定之。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -561,54 +561,46 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　修正增加「或經營」三字，使委託經營國有土地有所依據，藉以增加收益及土地利用。",
-        "第四十二條": "　　一、現行條文第一項「得申請租用」改為「得予出租」使管理機關自被動地位成為主動地位，以利業務推展。\n　　二、第一項所列各款及第二項、第三項，維持現行條文。"
+        "第七十四條": "　　一、本條刪除。\n　　二、本條為動員戡亂時期適用之條款，動員戡亂時期終止之時，即不再適用，應予刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "691121",
-            "立法紀錄": "69卷94期1370號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cdcec781c9c6c9c9c6cbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "800313",
+            "立法紀錄": "80卷22期2446號 20-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcec681c7cfcfcdcdcfcfc4cfcfcdcfc4cfcfcdcf",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cbc6ced2cbc6cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfc9cfcfc5cccdd2ccca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691201",
-            "立法紀錄": "70卷10期1391號 18-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cdcec781c8cfc9c9cecfcfcfc4cfcfcec7c4cfcfcdcc",
+            "會議日期": "801106",
+            "立法紀錄": "80卷91期2515號 337-355頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcec681c7cfcfc6cecfcfc4cfccccc8c4cfcccaca",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 46-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cdcec781c9c6c9c9cecfcbcfcfc4cfcfcbc9c4cfcfcbc6",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810319",
+            "立法紀錄": "81卷24期2552號 56-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcec681c7cecfcdcbcfcfc4cfcfcac9c4cfcfc9cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5cac6c6d2cac9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfc6cfcfc5ccc8cad2ccc8c6"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 49-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cdcec781c9c6c9c9cecfcbcfcfc4cfcfcbc6c4cfcfcbc6",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 49-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7cdcec781c9c6c9c9cecfcbcfcfc4cfcfcbc6c4cfcfcbc6",
+            "會議日期": "810319",
+            "立法紀錄": "81卷24期2552號 60-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcec681c7cecfcdcbcfcfc4cfcfc9cfc4cfcfc9cf",
             "關係文書": []
         }
     ]
