@@ -1,12 +1,11 @@
 {
     "title": "蒙古盟部旗組織法",
     "versions": [
-        "中華民國95年1月13日廢止",
-        "中華民國95年1月27日公布"
+        "中華民國20年10月3日制定",
+        "中華民國20年10月12日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -230,68 +229,6 @@
             "rule_no": "第三十七條",
             "content": "　　本法自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　「蒙古盟部旗組織法」係蒙古各盟、部、旗管轄治理權之規定，其內容為有關各盟、部、旗之區域、隸屬、軍事、外交、組織、編制等事項，惟蒙古並非我國統治權所及地區，我國現行地方制度亦無盟、部、旗之設置，該法已無施行必要，爰依中央法規標準法，予以廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "940318",
-            "立法紀錄": "94卷12期3394號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfc7cf81c6cbcecdcfcfc4cfcfcfcac4cfcfcfca",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5cccec9d2cccec6"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "940530",
-            "立法紀錄": "94卷43期3425號 167-183頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfc7cf81c6cbcbcccfcfc4cfcec9c8c4cfcec7cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "940927",
-            "立法紀錄": "94卷45期3427號 140-143頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfc7cf81c6cbcbcacfcfc4cfcecbcfc4cfcecbcc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5cacfcad2cacfc6"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "941213",
-            "立法紀錄": "94卷76期3458號 223-223頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfc7cf81c6cbc8c9cfcfc4cfcdcdccc4cfcdcdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "941220",
-            "立法紀錄": "94卷77期3459號三冊 1014-1014頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfc7cf81c6cbc8c8cfccc4cecfcecbc4cecfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "941230",
-            "立法紀錄": "95卷2期3463號一冊 261-261頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfc7cf81c6cacfcdcfcec4cfcdc9cec4cfcdc9ce",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 399-399頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfc7cf81c6cacfcacfcec4cfccc6c6c4cfccc6c6",
-            "關係文書": []
         }
     ]
 }
