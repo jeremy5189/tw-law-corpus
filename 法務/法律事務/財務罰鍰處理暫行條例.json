@@ -1,8 +1,8 @@
 {
     "title": "財務罰鍰處理暫行條例",
     "versions": [
-        "中華民國70年7月3日修正",
-        "中華民國70年7月13日公布"
+        "中華民國84年6月13日修正",
+        "中華民國84年6月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "(每案獎金之最高額限)",
             "rule_no": "第四條",
-            "content": "　　前條第一款之獎金每案最高額以新臺幣二百四十萬元為限，第二款之獎金每案最高額以新臺幣三百六十萬元為限。",
+            "content": "　　前條第一款之獎金每案最高額以新臺幣四百八十萬元為限，第二款之獎金每案最高額以新臺幣七百二十萬元為限。",
             "relates": {}
         },
         {
@@ -65,60 +65,73 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　本條例自民國四十三年公布施行以來，迄今已逾二十六年，其間物價上漲超過五倍半而最高獎金限額未曾調整，顯已偏低，不足以鼓勵告密，為對走私漏稅案件鼓勵舉發加強查緝，爰參酌物價上升幅度就每案獎金最高限額提高四倍。同時為資簡明，將國幣改為新臺幣，藉以鼓勵社會大眾踴躍提供情報，並激勵查緝機關之在事人員之士氣。"
+        "第四條": "　　將獎金金額部分各提高一倍。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "700410",
-            "立法紀錄": "70卷29期1410號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cacd81c8cfc9c8cdc6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "821119",
+            "立法紀錄": "82卷65期2664號上冊 93-94頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cacc81c7cdc9cacfcec4cfcfc6ccc4cfcfc6cb",
+            "主提案": "廖福本",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5cacccdd2cacccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfc6cfcfc5c8caccd2c8caca"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "700618",
-            "立法紀錄": "70卷73期1454號 23-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cacd81c8cfc9c8c8cccfcfc4cfcfcdccc4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "700625",
-            "立法紀錄": "70卷77期1458號 149-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cacd81c8cfc9c7c8c8cfcfc4cfcecbc6c4cfcecacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "700703",
-            "立法紀錄": "70卷53期1434號 27-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cacd81c8cfc9c8cacccfcfc4cfcfcdc8c4cfcfcccf",
+            "進度": "一讀",
+            "會議日期": "840105",
+            "立法紀錄": "84卷3期2760號上冊 28-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cacc81c7cbcfcccfcec4cfcfcdc7c4cfcfcccd",
+            "主提案": "彭百顯",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc8cfcfc5cbcbc7d2cbcacf"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcccfcfc5cdcdce"
                 ]
             ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830609",
+            "立法紀錄": "83卷44期2718號 438-446頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cacc81c7cccbcbcfcfc4cfcbccc7c4cfcbcbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "831102",
+            "立法紀錄": "83卷73期2747號 303-303頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cacc81c7ccc8cccfcfc4cfcccfccc4cfcccfcc",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "700703",
-            "立法紀錄": "70卷53期1434號 30-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cacd81c8cfc9c8cacccfcfc4cfcfcccfc4cfcfcccf",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 99-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cacc81c7cbcfcdcfcfc4cfcfc6c6c4cfcecfcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcecfcdc5c9cecdd2c9cec9"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 103-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cacc81c7cbcfcdcfcfc4cfcecfccc4cfcecfcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "700703",
-            "立法紀錄": "70卷53期1434號 30-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cacd81c8cfc9c8cacccfcfc4cfcfcccfc4cfcfcccf",
+            "會議日期": "840613",
+            "立法紀錄": "84卷37期2794號 38-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cacc81c7cbccc8cfcfc4cfcfccc7c4cfcfccc6",
             "關係文書": []
         }
     ]
