@@ -1,8 +1,8 @@
 {
     "title": "政府發展經濟社會向國外借款及保證條例",
     "versions": [
-        "中華民國68年11月23日修正",
-        "中華民國68年12月5日公布"
+        "中華民國71年6月8日修正",
+        "中華民國71年6月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -40,9 +40,9 @@
             "relates": {}
         },
         {
-            "note": "(借款限額)",
+            "note": "(借款或保證本金限制)",
             "rule_no": "第六條",
-            "content": "　　依本條例所借或保證之借款，其未清償之本金總額，不得超過六十五億美元，或依借款時匯率折計等值之其他外幣。",
+            "content": "　　依本條例所借或保證之借款，其未清償之本金總額，不得超過九十五億美元，或依借款時匯率折計等值之其他外幣。",
             "relates": {}
         },
         {
@@ -71,53 +71,60 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　依本條例所借及保證之借款，目前未清償之本金總額及正進行簽約及審議中之借款總額即將超過四十五億美元，原條文限額已不能適應，爰予修正，以應實際需要。"
+        "第六條": "　　依本條例所借及保證之借款，目前未清償之本金總額及正進行簽約及審議中之借款總額，即將超過六十五億美元，原條文限額已不能適應，爰予修正，以應實際需要。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "681009",
-            "立法紀錄": "68卷81期1253號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcd81c9c7c9cbc7cecfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "710504",
+            "立法紀錄": "71卷36期1521號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcc81c8cec9c6ccc9cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5cecfd2cecc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfc9cfcfc5cdc8c8d2cdc8c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "681017",
-            "立法紀錄": "69卷7期1283號 34-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcd81c9c6c9cbcfc8cfcfc4cfcfcccbc4cfcfccc6",
+            "會議日期": "710522",
+            "立法紀錄": "71卷66期1551號 2-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcc81c8cec9c6c9c9cfcfc4cfcfcfcdc4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "710602",
+            "立法紀錄": "71卷67期1552號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcc81c8cec9c6c9c8cfcfc4cfcfcfcdc4cfcfcfcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "681123",
-            "立法紀錄": "68卷94期1266號 7-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcd81c9c7c9cbc6cbcfcfc4cfcfcfc8c4cfcfcece",
+            "會議日期": "710608",
+            "立法紀錄": "71卷46期1531號 5-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcc81c8cec9c6cbc9cfcfc4cfcfcfcac4cfcfcdce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5c8c7cad2c8c7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfc7cfcfc5cec9cbd2cec9c9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "681123",
-            "立法紀錄": "68卷94期1266號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcd81c9c7c9cbc6cbcfcfc4cfcfcecec4cfcfcece",
+            "會議日期": "710608",
+            "立法紀錄": "71卷46期1531號 21-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcc81c8cec9c6cbc9cfcfc4cfcfcdcec4cfcfcdce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "681123",
-            "立法紀錄": "68卷94期1266號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcd81c9c7c9cbc6cbcfcfc4cfcfcecec4cfcfcece",
+            "會議日期": "710608",
+            "立法紀錄": "71卷46期1531號 21-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcc81c8cec9c6cbc9cfcfc4cfcfcdcec4cfcfcdce",
             "關係文書": []
         }
     ]
