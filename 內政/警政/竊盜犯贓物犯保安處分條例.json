@@ -1,8 +1,8 @@
 {
     "title": "竊盜犯贓物犯保安處分條例",
     "versions": [
-        "中華民國56年7月18日修正",
-        "中華民國56年8月1日公布"
+        "中華民國58年11月7日修正",
+        "中華民國58年11月19日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本條例所稱竊盜犯，指意圖為自己或第三人不法之所有，而竊取他人之動產者而言。\n　　本條例所稱贓物犯，指收受、搬運、寄藏、故買竊盜犯竊得之動產或為牙保者而言。",
+            "content": "　　本條例所稱竊盜犯，指意圖為自己或第三人不法之所有，而竊取他人之動產者而言。\n　　本條例所稱贓物犯，指收受、搬運、寄藏、故買竊盜犯竊得之動產或為牙保者而言。\n　　本條例所稱法院及檢察官，包括軍法機關之軍事法庭及軍事檢察官。",
             "relates": {}
         },
         {
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　十八歲以上之竊盜犯、贓物犯，有左列情形之一者，應於刑之執行前，令入勞動場所強制工作：\n　　一、有犯罪之習慣者。\n　　二、以犯竊盜罪或贓物罪為常業者。\n　　三、因遊蕩或懶惰成習而犯罪者。\n　　四、品性惡劣，素行不端，經當地警察機關會同里長或鄰長證明者。",
+            "content": "　　十八歲以上之竊盜犯、贓物犯，有左列情形之一者，應於刑之執行前，令入勞動場所強制工作：\n　　一、有犯罪之習慣者。\n　　二、以犯竊盜罪或贓物罪為常業者。\n　　三、因遊蕩或懶惰成習而犯罪者。\n　　四、品性惡劣，素行不端，經當地警察機關會同里長或鄰長證明者。\n　　刑法第八十四條第一項期間，自前項強制工作執行完畢之日起算。",
             "relates": {}
         },
         {
@@ -103,36 +103,76 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "560714",
-            "立法紀錄": "56卷5期號7冊 750-754頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cc81cac9ccc6cfc8cfcac4cfc8cacfc4cfc8cacb",
-            "主提案": "ⓙ士源",
+            "會議日期": "580516",
+            "立法紀錄": "58卷36期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbccccc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcccfcfc5c9c7cbd2c9c7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcdcfcfc5c8cdc9d2c8ccce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580605",
+            "立法紀錄": "58卷54期號 7-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcccacbcfcfcfcdc4cfcfcfc8c4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580626",
+            "立法紀錄": "58卷58期號 1-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcccac7cfcfcfcdc4cfcfcfcec4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580703",
+            "立法紀錄": "58卷56期號 13-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcccac9cfcfcfcdc4cfcfceccc4cfcfcec9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "581028",
+            "立法紀錄": "58卷78期號 18-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc8c7cfcfcfcec4cfcfcec7c4cfcfcdc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cac8d2c9cc"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "560714",
-            "立法紀錄": "56卷5期號7冊 750-754頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cc81cac9ccc6cfc8cfcac4cfc8cacfc4cfc8cacb",
+            "會議日期": "581031",
+            "立法紀錄": "58卷79期號 13-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc8c6cfcfcfcec4cfcfceccc4cfcfcec9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "560714",
-            "立法紀錄": "56卷5期號7冊 754-754頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cc81cac9ccc6cfc8cfcac4cfc8cacbc4cfc8cacb",
+            "會議日期": "581031",
+            "立法紀錄": "58卷79期號 16-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc8c6cfcfcfcec4cfcfcec9c4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "581104",
+            "立法紀錄": "58卷80期號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc7cfcfcfcfcec4cfcfcfccc4cfcfcfcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "560718",
-            "立法紀錄": "56卷6期號7冊 785-785頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cc81cac9ccc6cfc8cfc9c4cfc8c7cac4cfc8c7ca",
+            "會議日期": "581107",
+            "立法紀錄": "58卷81期號 2-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc7cecfcfcfcec4cfcfcfcdc4cfcfcecf",
             "關係文書": []
         }
     ]
