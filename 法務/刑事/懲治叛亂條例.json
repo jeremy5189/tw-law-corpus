@@ -1,10 +1,11 @@
 {
     "title": "懲治叛亂條例",
     "versions": [
-        "中華民國39年4月14日全文修正",
-        "中華民國39年4月26日公布"
+        "中華民國47年7月18日修正",
+        "中華民國47年7月26日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -59,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　犯本條例之罪而自首或攜帶槍械密件來歸者，得不起訴或減輕免除其刑。但依其情節有予以感化處分之必要者，得以三年以下之期間內施以感化教育、感化處分以裁定或命令行之，其無繼續執行必要者，得免除之。",
+            "content": "　　犯本條例之罪，而有左列情形之一者，得不起訴或減輕或免除其刑：\n　　一、自首或反正來歸者。\n　　二、於犯罪發覺後，檢舉叛徒或有關叛亂組織因而破獲者。\n　　前項案件，經不起訴或減輕或免除其刑者，得按其情節，施以三年以下感化教育。\n　　感化教育不得延長，認為無繼續執行之必要者，得免除之；其辦法由行政院定之。",
             "relates": {}
         },
         {
@@ -85,6 +86,54 @@
             "rule_no": "第十三條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "451204",
+            "立法紀錄": "46卷18期號5冊 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc9cec7cfcac4cfcfc6cec4cfcfc6ce",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cdcbcad2cdcbc9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "470711",
+            "立法紀錄": "47卷21期號20冊 5-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc8cdcecdcfc4cfcfcfcac4cfcfcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5cecac6d2cec9cd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "470711",
+            "立法紀錄": "47卷21期號19冊 128-130頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc8cdcecec6c4cfcecdc7c4cfcecccf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "470718",
+            "立法紀錄": "47卷21期號20冊 45-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc8cdcecdcfc4cfcfcbcac4cfcfcbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "470718",
+            "立法紀錄": "47卷21期號20冊 46-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc8cdcecdcfc4cfcfcbc9c4cfcfcbc7",
+            "關係文書": []
         }
     ]
 }
