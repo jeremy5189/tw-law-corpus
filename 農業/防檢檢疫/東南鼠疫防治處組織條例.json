@@ -1,11 +1,12 @@
 {
     "title": "東南鼠疫防治處組織條例",
     "versions": [
-        "中華民國37年3月13日全文修正",
-        "中華民國37年3月26日公布"
+        "中華民國61年3月7日廢止",
+        "中華民國61年3月18日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -121,6 +122,30 @@
             "rule_no": "第十九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例係三十七年公布施行，迄今已歷多年，情勢多所變遷，現在醫藥發達，鼠疫已易於防治，且尚有中央防疫實驗處組織條例可運用，本條例已無保留實益，故廢止之。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "601210",
+            "立法紀錄": "60卷95期448號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc6ca81c9cfcbc7c6cacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "601227",
+            "立法紀錄": "61卷21期474號 18-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc6ca81c9cecbc6cdcecfcfcfcdc4cfcfcec7c4cfcfcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 36-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc6ca81c9cecbc6cec6cfcfcfcec4cfcfccc9c4cfcfccc8",
+            "關係文書": []
         }
     ]
 }
