@@ -1,8 +1,8 @@
 {
     "title": "貪污治罪條例",
     "versions": [
-        "中華民國52年7月5日制定",
-        "中華民國52年7月15日公布"
+        "中華民國62年8月7日全文修正",
+        "中華民國62年8月17日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,13 +12,13 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　戡亂時期，為嚴懲貪污，澄清吏治，特制定本條例。",
+            "content": "　　戡亂時期，為嚴懲貪汙，澄清吏治，特制定本條例。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　依據法令從事公務之人員，犯本條例之罪者，依本條例處斷。其受公務機關委託承辦公務之人，犯本條例之罪者，亦同。",
+            "content": "　　依據法令從事公務之人員，犯本條例之罪者，依本條例處斷；其受公務機關委託承辦公務之人，犯本條例之罪者亦同。",
             "relates": {}
         },
         {
@@ -30,85 +30,85 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　有左列行為之一者，處死刑、無期徒刑或十年以上有期徒刑，除死刑外，得併科十萬元以下罰金。\n　　一、盜賣、侵占或竊取公用器材財物者。\n　　二、盜賣、侵占或竊取公糧者。\n　　三、藉勢或藉端勒索、勒徵、強占或強募財物者。\n　　四、建築或經辦公用工程，或購辦公用器材物品，浮報價額數量，收取回扣或有其他舞弊情事者。\n　　五、以公用馬匹、馱獸、艦艇、舟車或航空器裝運違禁物品或漏稅物品者。\n　　六、對於違背職務之行為，要求期約或收受賄賂，或其他不正利益者。",
+            "content": "　　有左列行為之一者，處死刑、無期徒刑或十年以上有期徒刑，除死刑外，得併科十萬元以下罰金：\n　　一、盜賣、侵占或竊取公用器材、財物者。\n　　二、盜賣、侵占或竊取公糧者。\n　　三、藉勢或藉端勒索、勒徵、強占或強募財物者。\n　　四、建築或經辦公用工程，或購辦公用器材、物品，浮報價額、數量，收取回扣或有其他舞弊情事者。\n　　五、以公用馬匹、馱獸、艦艇、舟車或航空器裝運違禁物品或漏稅物品者。\n　　六、對於違背職務之行為，要求期約或收受賄賂，或其他不正利益者。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　有左列行為之一者，處無期徒刑或七年以上有期徒刑，得併科五萬元以下罰金。\n　　一、意圖得利，擅提或截留公款，或違背法令收募稅捐或公債者。\n　　二、利用職務上之機會、詐取財物者。\n　　三、對於職務上之行為，要求期約或收受賄賂，或其他不正利益者。",
+            "content": "　　有左列行為之一者，處無期徒刑或七年以上有期徒刑，得併科五萬元以下罰金：\n　　一、意圖得利，擅提或截留公款，或違背法令收募稅捐或公債者。\n　　二、利用職務上之機會，詐取財物者。\n　　三、對於職務上之行為，要求期約或收受賄賂，或其他不正利益者。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　有左列行為之一者，處五年以上有期徒刑，得併科三萬元以下罰金。\n　　一、意圖得利，抑留不發職務上應發之財物者。\n　　二、募集款項或徵用土地、民伕、財物，從中舞弊者。\n　　三、對於主管或監督之事務，直接或間接圖利者。\n　　四、對於非主管或監督之事務，利用職權機會或身分圖利者。",
+            "content": "　　有左列行為之一者，處五年以上有期徒刑，得併科三萬元以下罰金：\n　　一、意圖得利，抑留不發職務上應發之財物者。\n　　二、募集款項或徵用土地、民伕、財物，從中舞弊者。\n　　三、對於主管或監督之事務，直接或間接圖利者。\n　　四、對於非主管或監督之事務，利用職權機會或身分圖利者。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　本條例第四條至第六條之未遂犯，罰之。",
+            "content": "　　第四條至第六條之未遂犯罰之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　有調查追訴或審判職務之人員，犯本條例第四條第六款、第五條第三款之罪者，加重其刑至三分之一。",
+            "content": "　　有調查追訴或審判職務之人員，犯第四條第六款、第五條第三款之罪者，加重其刑至三分之一。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　犯本條例之罪，情節輕微，而其所得財物在三千元以下者，適用有較輕處罰規定之刑法或其他法律。",
+            "content": "　　犯第四條至第六條各款之罪自首者，減輕其刑；在偵查中自白者，得減輕其刑。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　犯本條例第四條至第六條各款之罪自首者，減輕其刑，在偵查中自白者，得減輕其刑。",
+            "content": "　　犯第四條至第六條各款之罪者，其所得財物，應予追繳，並依其情節分別沒收或發還被害人。\n　　前項財物之全部或一部無法追繳時，應追徵其價額，或以其財產抵償之。其財產總額不足抵償應追徵之價額時，毋庸酌留其家屬必需生活費。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　對於本條例第二條人員，關於違背職務之行為，行求期約或交付賄賂或其他不正利益者，處一年以上七年以下有期徒刑。\n　　不具本條例第二條人員之身分而犯前項之罪者，亦同。\n　　犯前二項之罪自首者，減輕或免除其刑，在偵查或審判中自白者，減輕其刑。",
+            "content": "　　對於第二條人員，關於違背職務之行為，行求期約或交付賄賂或其他不正利益者，處一年以上、七年以下有期徒刑。\n　　不具第二條人員之身分而犯前項之罪者，亦同。\n　　犯前二項之罪，於犯罪後六個月內自首者，免除其刑；逾六個月者，減輕或免除其刑；在偵查或審判中自白者，減輕其刑。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　犯本條例第四條至第六條各款之罪者，其所得財物，應予追繳，並依其情節分別沒收或發還被害人。\n　　前項財物之全部或一部無法追繳時，應追徵其價額，或以其財產抵償之，其財產總額不足抵償應追徵之價額時，毋庸酌留其家屬必需生活費。",
+            "content": "　　犯第四條至第六條各款之罪，情節輕微，而其所得或所圖得財物在三千元以下者，適用有較輕處罰規定之刑法或其他法律。\n　　犯前條第一項、第二項之罪、情節輕微，而其行求期約或交付財物在三千元以下者，亦同。\n　　依前項規定適用有較輕處罰規定之刑法或其他法律時，其自首或在偵查、審判中自白者，仍適用前條第三項之規定。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　直屬主管長官對於所屬人員，明知貪污有據，而予以庇護或不為舉發者，處一年以上七年以下有期徒刑。\n　　公務機關主管長官，對於受其委託承辦公務之人，明知貪污有據，而予以庇護或不為舉發者，處六月以上五年以下有期徒刑。",
+            "content": "　　直屬主管長官對於所屬人員，明知貪汙有據，而予以庇護或不為舉發者，處一年以上、七年以下有期徒刑。\n　　公務機關主管長官，對於受其委託承辦公務之人，明知貪汙有據，而予以庇護或不為舉發者，處六月以上、五年以下有期徒刑。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　辦理會計、審計人員，因執行職務，對於貪污有據之人員，不為舉發者，處一年以上七年以下有期徒刑。",
+            "content": "　　辦理會計、審計人員，因執行職務，對於貪汙有據之人員，不為舉發者，處一年以上、七年以下有期徒刑。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　明知因犯本條例第四條至第六條之罪，所得之財物，故為隱匿，寄藏或代管者，處一年以上七年以下有期徒刑。",
+            "content": "　　明知因犯第四條至第六條之罪所得之財物，故為隱匿、寄藏或代管者，處一年以上、七年以下有期徒刑。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　誣告他人犯本條例之罪者，依刑法規定加重其刑至二分之一。\n　　不具本條例第二條人員之身分而犯前項之罪者，亦同。",
+            "content": "　　誣告他人犯本條例之罪者，依刑法規定加重其刑至二分之一。\n　　意圖他人受刑事處分，虛構事實，而為第十一條第三項之自首者，處三年以上有期徒刑。\n　　不具第二條人員之身分而犯前二項之罪者，亦依各該項規定處斷。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十七條",
-            "content": "　　犯本條例之罪，宣告有期徒刑以上之刑者，並宣告禠奪公權。",
+            "content": "　　犯本條例之罪，宣告有期徒刑以上之刑者，並宣告褫奪公權。",
             "relates": {}
         },
         {
@@ -133,237 +133,104 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "510525",
-            "立法紀錄": "51卷29期號11冊 75-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecdc6cecec4cfcfc8cac4cfcfc6c9",
-            "主提案": "林樹藝",
+            "會議日期": "620320",
+            "立法紀錄": "62卷20期576號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecdcfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc8cfcccfcfc5cec9d2cdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcccfcfc5cdcbced2cdcacb"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "620402",
+            "立法紀錄": "62卷39期595號 5-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcaceccc6cfcfcfcdc4cfcfcfcac4cfcfcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620409",
+            "立法紀錄": "62卷42期598號 39-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecbcdcfcfcfcdc4cfcfccc6c4cfcfcbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620430",
+            "立法紀錄": "62卷48期604號 12-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecbc7cfcfcfcdc4cfcfcecdc4cfcfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620507",
+            "立法紀錄": "62卷51期607號 20-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecacecfcfcfcdc4cfcfcdcfc4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620620",
+            "立法紀錄": "62卷67期623號 24-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacec9c8cfcfc4cfcfcdcbc4cfcfcccc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620628",
+            "立法紀錄": "62卷68期624號 15-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacec9c7cfcfc4cfcfcecac4cfcfcdcb",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "520702",
-            "立法紀錄": "52卷31期號13冊 5-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececcc4cfcfcfcac4cfcfcdcb",
+            "會議日期": "620601",
+            "立法紀錄": "62卷41期597號 5-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecbcecfcfcfcec4cfcfcfcac4cfcfcbcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccfcfcecfcfc5c8cfcad2c8cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc7cfcfc5c9d2cdc9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "511023",
-            "立法紀錄": "51卷30期號4冊 16-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfcbc4cfcfcec9c4cfcfcbcd",
+            "會議日期": "620605",
+            "立法紀錄": "62卷42期598號 7-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecbcdcfcfcfcec4cfcfcfc8c4cfcfcec7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "511026",
-            "立法紀錄": "51卷30期號4冊 43-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfcbc4cfcfcbccc4cfcfc8c8",
+            "會議日期": "620628",
+            "立法紀錄": "62卷43期599號 2-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecbcccfcfcfcec4cfcfcfcdc4cfcfcec7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "511030",
-            "立法紀錄": "51卷30期號5冊 10-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfcac4cfcfcecfc4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "511106",
-            "立法紀錄": "51卷30期號5冊 42-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfcac4cfcfcbcdc4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "511113",
-            "立法紀錄": "51卷30期號6冊 29-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfc9c4cfcfcdc6c4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "511120",
-            "立法紀錄": "51卷30期號7冊 36-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfc8c4cfcfccc9c4cfcfc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "511123",
-            "立法紀錄": "51卷30期號8冊 10-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfc7c4cfcfcecfc4cfcfceca",
+            "會議日期": "620803",
+            "立法紀錄": "62卷59期615號 19-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecac6cfcfcfcec4cfcfcec6c4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "511123",
-            "立法紀錄": "51卷30期號8冊 15-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfc7c4cfcfcecac4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "511204",
-            "立法紀錄": "51卷30期號9冊 62-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfc6c4cfcfc9cdc4cfcfc9cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "511207",
-            "立法紀錄": "51卷30期號9冊 72-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacecccfcfc6c4cfcfc8cdc4cfcfc7c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520322",
-            "立法紀錄": "52卷31期號4冊 46-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfcbc4cfcfcbc9c4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520405",
-            "立法紀錄": "52卷31期號5冊 97-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfcac4cfcfc6c8c4cfcfc6c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520412",
-            "立法紀錄": "52卷31期號5冊 138-138頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfcac4cfceccc7c4cfceccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520416",
-            "立法紀錄": "52卷31期號6冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfc9c4cfcfcfcbc4cfcfcfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520419",
-            "立法紀錄": "52卷31期號6冊 41-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfc9c4cfcfcbcec4cfcfcbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520423",
-            "立法紀錄": "52卷31期號7冊 15-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfc8c4cfcfcecac4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520430",
-            "立法紀錄": "52卷31期號7冊 20-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfc8c4cfcfcdcfc4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520430",
-            "立法紀錄": "52卷31期號7冊 38-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfc8c4cfcfccc7c4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520514",
-            "立法紀錄": "52卷31期號9冊 6-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfc6c4cfcfcfc9c4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520517",
-            "立法紀錄": "52卷31期號9冊 38-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccecfc6c4cfcfccc7c4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520521",
-            "立法紀錄": "52卷31期號10冊 90-111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececfc4cfcfc6cfc4cfcecece",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520521",
-            "立法紀錄": "52卷31期號10冊 146-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececfc4cfcecbc9c4cfcecac9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520607",
-            "立法紀錄": "52卷31期號11冊 8-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececec4cfcfcfc7c4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520614",
-            "立法紀錄": "52卷31期號11冊 48-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececec4cfcfcbc7c4cfcfc8c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520618",
-            "立法紀錄": "52卷31期號12冊 8-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececdc4cfcfcfc7c4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520621",
-            "立法紀錄": "52卷31期號12冊 33-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececdc4cfcfccccc4cfcfcac9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520625",
-            "立法紀錄": "52卷31期號12冊 57-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececdc4cfcfcac8c4cfcfc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520628",
-            "立法紀錄": "52卷31期號13冊 27-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececcc4cfcfcdc8c4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520702",
-            "立法紀錄": "52卷31期號13冊 45-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececcc4cfcfcbcac4cfcfcacb",
+            "會議日期": "620803",
+            "立法紀錄": "62卷59期615號 37-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacecac6cfcfcfcec4cfcfccc8c4cfcfcbcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "520705",
-            "立法紀錄": "52卷31期號13冊 77-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcc81cacdcccececcc4cfcfc8c8c4cfcfc7c8",
+            "會議日期": "620807",
+            "立法紀錄": "62卷60期616號 5-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececfcb81c9cdcacec9cfcfcfcfcec4cfcfcfcac4cfcfcfc8",
             "關係文書": []
         }
     ]
