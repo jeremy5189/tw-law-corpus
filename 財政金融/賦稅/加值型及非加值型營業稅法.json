@@ -1,8 +1,8 @@
 {
     "title": "加值型及非加值型營業稅法",
     "versions": [
-        "中華民國44年12月16日全文修正",
-        "中華民國44年12月30日公布"
+        "中華民國48年4月3日修正",
+        "中華民國48年4月13日公布"
     ],
     "types": [
         "立法歷程",
@@ -42,7 +42,7 @@
         {
             "note": "(免徵營業稅)",
             "rule_no": "第六條",
-            "content": "　　左列各項免徵營業稅：\n　　一、農民出售其收穫之農產品，但股資經營農業生產之營業人，不在此限。\n　　二、漁民出售其捕獲之魚類，但投資經營漁業之營業人，不在此限。\n　　三、繳納貨物稅之工廠或出產人，但其有不屬於繳納貨物稅部份之產品，不在此限。\n　　四、繳納屠宰稅之屠宰商。\n　　五、營利事業已納交易所稅或交易所內之該部份營業額。\n　　六、依法經營之合作社。\n　　七、監獄工廠。\n　　八、依法登記之慈善救濟事業，以其全部營業收益作該事業本身之用者。\n　　九、政府經辦之郵電及專賣事業。\n　　十、依法登記出版之報社、雜誌社、通訊社及廣播電台，但其所收廣告費及販賣非本身出版品部份，仍應徵收營業稅。\n　　十一、書局發售經政府審定之各級學校所用之教科書。\n　　十二、肩挑負販沿街叫售者。",
+            "content": "　　左列各項免徵營業稅：\n　　一、農民出售其收穫之農產品，但股資經營農業生產之營業人，不在此限。\n　　二、漁民出售其補獲之魚類，但投資經營漁業之營業人，不在此限。\n　　三、繳納貨物稅之工廠或出產人，但其有不屬於繳納貨物稅部份之產品，不在此限。\n　　四、繳納屠宰稅之屠宰商。\n　　五、營利事業已納交易所稅或交易所內之該部份營業額。\n　　六、依法經營之合作社。\n　　七、監獄工廠。\n　　八、依法登記之慈善救濟事業，以其全部營業收益作該事業本身之用者。\n　　九、政府經辦之郵電及專賣事業。\n　　十、依法登記出版之報社、雜誌社、通訊社及廣播電臺，但其銷售非本身出版品部份，及報社、雜誌社、通訊社所收廣告費，仍應徵收營業稅。\n　　十一、書局發售經政府審定之各級學校所用之教科書。\n　　十二、肩挑負販沿街叫售者。",
             "relates": {}
         },
         {
@@ -187,41 +187,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430921",
-            "立法紀錄": "43卷14期號3冊 61-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcac9ce81cbcccecbcfccc4cfcfc9cec4cfcfc9ce",
-            "主提案": "行政院",
+            "會議日期": "471007",
+            "立法紀錄": "47卷22期號6冊 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcac9cd81cbc8cdcdcfc9c4cfcfcccac4cfcfccca",
+            "主提案": "請願案",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcecfcfc5cecccad2cecac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcccfcfc5cdcdcad2cdcccf"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "441216",
-            "立法紀錄": "45卷16期號9冊 18-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcac9ce81cbcacec9cfc6c4cfcfcec7c4cfcfc8c9",
+            "會議日期": "480403",
+            "立法紀錄": "48卷23期號8冊 9-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcac9cd81cbc7cdcccfc7c4cfcfcfc6c4cfcfceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcdcfcfc5cececdd2cecac8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcecfcfc5c9cfced2c9cfca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "441216",
-            "立法紀錄": "45卷16期號9冊 162-172頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcac9ce81cbcacec9cfc6c4cfcec9cdc4cfcec8cd",
+            "會議日期": "480403",
+            "立法紀錄": "48卷23期號8冊 28-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcac9cd81cbc7cdcccfc7c4cfcfcdc7c4cfcfcccf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "441216",
-            "立法紀錄": "45卷16期號9冊 172-180頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcac9ce81cbcacec9cfc6c4cfcec8cdc4cfcec7cf",
+            "會議日期": "480403",
+            "立法紀錄": "48卷23期號8冊 30-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcac9cd81cbc7cdcccfc7c4cfcfcccfc4cfcfccce",
             "關係文書": []
         }
     ]
