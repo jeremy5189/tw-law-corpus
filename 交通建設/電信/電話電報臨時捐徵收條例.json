@@ -1,12 +1,12 @@
 {
     "title": "電話電報臨時捐徵收條例",
     "versions": [
-        "中華民國58年5月13日修正",
-        "中華民國58年5月22日公布"
+        "中華民國59年5月26日修正",
+        "中華民國59年6月4日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -42,33 +42,36 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本條例自中華民國五十八年七月一日施行。施行期間一年。",
+            "content": "　　本條例自中華民國五十九年七月一日施行。施行期間一年。",
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第六條": "　　目前中央政府因加強國防建設，發展科學教育以及合理調整公教人員待遇，財政收入仍待充裕，為免影響財政穩定起見，爰將徵收期間延長一年。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580425",
-            "立法紀錄": "58卷30期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cf81cac7cbcccccfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "590421",
+            "立法紀錄": "59卷29期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cd81cac6cbcacdc6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfc9cfcfc5ccc6d2cbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5cbc6c7d2cacfcf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "580513",
-            "立法紀錄": "58卷35期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cf81cac7cbcccccacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "590526",
+            "立法紀錄": "59卷39期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cd81cac6cbcaccc6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfc9cfcfc5c9cfd2c9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfc9cfcfc5c9cfd2c9cd"
                 ]
             ]
         }
