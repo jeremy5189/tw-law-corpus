@@ -1,132 +1,168 @@
 {
     "title": "票據法施行法",
     "versions": [
-        "中華民國19年6月21日制定",
-        "中華民國19年7月1日公布"
+        "中華民國49年3月22日全文修正",
+        "中華民國49年3月31日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　票據法施行前所發與匯票、本票、支票性質相同之票據，其定有期限者，應於到期日即行了結，不得再為轉讓，其未定有期限者，應於本法施行之日起一年內了結之。\n　　票據之發行在本法施行後者，非依票據法之規定，不生票據之效力。",
+            "content": "　　票據上之金額，應填寫之，不得變更，改寫票據上金額以外之記載，如有變更時，應於變更處簽名或蓋章。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　票據上之金額，應填寫之。\n　　票據上之記載，如有變更時，應於變更處簽名或蓋章。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第三條",
             "content": "　　除禁止轉讓之票據外，不問何種票據，其背面均應空白，不得加印花紋或為其他記載。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第四條",
+            "rule_no": "第三條",
             "content": "　　背書非於票背已無背書地位時，不得在黏單上為之。",
             "relates": {}
         },
         {
             "note": "",
+            "rule_no": "第四條",
+            "content": "　　票據債務人，認執票人有詐欺惡意或重大過失時，應負舉證之責。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第五條",
-            "content": "　　二人以上共同簽名時，應連帶負責。",
+            "content": "　　凡無兌價或以不相當之兌價取得票據者，不得有優於其前手之權利。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　票據債務人認執票人有詐欺惡意或重大過失時，應負舉證之責。",
+            "content": "　　發票人發行見票即付，並不記載受款人之本票者，其金額須在五十圓以上。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　凡無兌價或以不相當之兌價取得票據者，不能有優於其前手之權利。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第八條",
-            "content": "　　對於票據關係人應為之行為，如其無特定營業日或未訂有營業時間者，應於通常營業日及營業時間內為之。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第九條",
-            "content": "　　公示催告程序，雖經開始，非俟票據到期，不得請求金額之給付或提存。但得提供擔保，請求給與新票據。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十條",
-            "content": "　　發票人發行見票即付並不記載受款人之本票者，其金額須在五十元以上。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十一條",
-            "content": "　　執票人因不可抗力不能於所定期限內為承兌或付款提示之通知者，於不可抗力消滅時，應即對付款人為之。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十二條",
             "content": "　　匯票之複本，以三份為限。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十三條",
-            "content": "　　本票執票人，依票據法第一百十九條之規定，作成見票拒絕證書後，無須再為付款之提示，亦無須再請求作成付款拒絕證書。",
+            "rule_no": "第八條",
+            "content": "　　依票據法第一百三十八條第一項之規定，業經付款人保付之支票，不適用票據法第十八條，第十九條，第一百三十條及第一百三十六條之規定。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十四條",
-            "content": "　　支票未載發票地者，以發票人之營業所、住所或居所為發票地。",
+            "rule_no": "第九條",
+            "content": "　　付款人業已付款之支票，不適用票據法第十八條及第十九條之規定。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十五條",
-            "content": "　　依票據法第一百三十三條第一項之規定，業經付款人保付之支票，不適用票據法第十五條、第十六條、第一百二十六條及第一百三十一條之規定。",
+            "rule_no": "第十條",
+            "content": "　　平行線支票，得由發票人於平行線內記載照付現款，或同義字樣，由發票人簽名或蓋章於其旁，支票上有此記載者，視為平行線之撤銷。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十六條",
-            "content": "　　付款人業已付款之支票，不適用票據法第十五條及第十六條之規定。",
+            "rule_no": "第十一條",
+            "content": "　　依票據法第一百十三條之規定，抄存於作成人事務所之拒絕證書，應併載匯票全文。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十七條",
-            "content": "　　平行線支票，得由發票人於平行線內記載照付現款或同義字樣，由發票人簽名於其旁。支票上有此記載者，視為平行線之撤銷。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十八條",
-            "content": "　　執票人依票據法第一百一十五條之規定，就匯票作成謄本時，應將已作謄本之旨，記載於原本。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十九條",
-            "content": "　　依票據法第一百一十條之規定，抄存於作成人事務所之拒絕證書，應併載匯票全文。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第二十條",
+            "rule_no": "第十二條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "480320",
+            "立法紀錄": "48卷23期號6冊 25-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc7cdcccfc9c4cfcfcdcac4cfcfcdca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcecfcfc5cbc7c8d2cac9cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "490322",
+            "立法紀錄": "49卷25期號5冊 3-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcac4cfcfcfccc4cfcfc9cb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5ccc8c6d2cbcac8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "481215",
+            "立法紀錄": "48卷24期號10冊 16-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc7cdcbcecfc4cfcfcec9c4cfcfcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "481215",
+            "立法紀錄": "48卷24期號10冊 21-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc7cdcbcecfc4cfcfcdcec4cfcfcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "481218",
+            "立法紀錄": "48卷24期號10冊 55-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc7cdcbcecfc4cfcfcacac4cfcfc7cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "481222",
+            "立法紀錄": "49卷24期號11冊 39-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcbcecec4cfcfccc6c4cfcfcaca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "490304",
+            "立法紀錄": "49卷25期號4冊 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcbc4cfcfcccac4cfcfccca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "490315",
+            "立法紀錄": "49卷25期號4冊 68-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcbc4cfcfc9c7c4cfcfc8cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "490318",
+            "立法紀錄": "49卷25期號4冊 79-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcbc4cfcfc8c6c4cfcfc7cf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "490322",
+            "立法紀錄": "49卷25期號5冊 94-94頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcac4cfcfc6cbc4cfcfc6cb",
+            "關係文書": []
         }
     ]
 }
