@@ -1,8 +1,8 @@
 {
     "title": "中央研究院組織法",
     "versions": [
-        "中華民國90年10月4日全文修正",
-        "中華民國90年10月17日公布"
+        "中華民國91年4月25日修正",
+        "中華民國91年5月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -102,7 +102,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　下列事項由中央研究院評議會於研究所組織規程定之：\n　　一、研究院及研究所籌備處設立程序。\n　　二、研究所所長、副所長及研究所籌備處主任資格。\n　　三、各種研究人員資格。\n　　四、研究所及研究所籌備處人員編制。",
+            "content": "　　下列事項由中央研究院評議會於研究所組織規程定之：\n　　一、研究所及研究所籌備處設立程序。\n　　二、研究所所長、副所長及研究所籌備處主任資格。\n　　三、各種研究人員資格。\n　　四、研究所及研究所籌備處人員編制。",
             "relates": {}
         },
         {
@@ -197,122 +197,46 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　母法條次更動，乃配合修正。",
-        "第二條": "　　照黨團協商條文通過。",
-        "第三條": "　　照黨團協商條文通過。",
-        "第四條": "　　照黨團協商條文通過。",
-        "第五條": "　　維持原條文，不予修正。",
-        "第六條": "　　維持原條文，不予修正。",
-        "第七條": "　　照黨團協商條文通過。",
-        "第八條": "　　照黨團協商條文通過。",
-        "第九條": "　　照黨團協商條文通過。",
-        "第十條": "　　維持原條文，不予修正。",
-        "第十一條": "　　照黨團協商條文通過。",
-        "第十二條": "　　照黨團協商條文通過。",
-        "第十三條": "　　維持原條文，不予修正。",
-        "第十四條": "　　維持原條文，不予修正。",
-        "第十五條": "　　維持原條文，不予修正。",
-        "第十六條": "　　照黨團協商條文通過。",
-        "第十七條": "　　照黨團協商條文通過。",
-        "第十八條": "　　該院目前除研究人員得依教師聘任規定，以學經歷進用外，其餘行政、技術人員均係依公務員任用規定，須具考試及格資格始能進用。惟甚多高科技貴重精密儀器之維修操作，以及實驗器材之設計製造等，均需特具專才之技術人員始能勝任。此類人員或因用人考試缺乏相關領域，或因其就業管道較廣而不易延攬，爰增列得置「研究技術人員」之規定，以免此類目前以約聘僱方式進用之人員，常因屬非正式編制內人員而無法久任，影響研究工作之推動。",
-        "第十九條": "　　條次變更，本條為原條文第十七條移列，內容未修正。",
-        "第二十條": "　　照黨團協商條文通過。",
-        "第二十一條": "　　照黨團協商條文通過。",
-        "第二十二條": "　　為有效調度使用中央研究院精密儀器，於總辦事處下加設「儀器服務中心」，俾便協調管理。另為整合全院圖書之採購與管理，於總辦事處下加設一學術事務組。",
-        "第二十三條": "　　照黨團協商條文通過。",
-        "第二十四條": "　　照黨團協商條文通過。",
-        "第二十五條": "　　照黨團協商條文通過。",
-        "第二十六條": "　　條次變更，本條為原條文第二十七條移列，內容未修正。",
-        "第二十七條": "　　照黨團協商條文通過。",
-        "第二十八條": "　　條次變更，本條為原條文第二十九條移列，並酌作文字修正。",
-        "第二十九條": "　　條次變更，本條為原條文第三十條移列，內容未修正。",
-        "第三十條": "　　條次變更，本條為原條文第三十一條移列，內容未修正。",
-        "第三十一條": "　　條次變更，本條為原條文第三十二條移列，內容未修正。"
+        "第十六條": "　　本條第一款規定中央研究院各種研究所及研究所籌備處之設立，須經中央研究院評議會於研究所組織規程定之，原條文將「研究所」誤繕為「研究院」，爰予以修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890530",
-            "立法紀錄": "89卷30期3089號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc981c7c6cccfcfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "李慶華",
+            "會議日期": "910312",
+            "立法紀錄": "91卷16期3212號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc781c6cecec9cfcfc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cec6ced2cdcfce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890718",
-            "立法紀錄": "89卷45期3104號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc981c7c6cbcacfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccccecfcec5cdcbcfd2cdc9cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900518",
-            "立法紀錄": "90卷28期3162號上冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc981c6cfcdc7cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "施明德",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc6cfcfc5cdc8c7d2cdc6cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900525",
-            "立法紀錄": "90卷30期3164號一冊 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc981c6cfcccfcfcec4cfcfcfccc4cfcfcfcb",
-            "主提案": "劉光華",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacecfcfcfc5cbcecbd2cbcccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcdcfcdc5cecfcad2cecfc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900531",
-            "立法紀錄": "90卷42期3176號 1-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc981c6cfcbcdcfcfc4cfcfcfcec4cfcfcdcb",
+            "會議日期": "910327",
+            "立法紀錄": "91卷33期3229號下冊 209-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc781c6cecccccfccc4cfcdcfc6c4cfcdceca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "900606",
-            "立法紀錄": "90卷34期3168號上冊 170-232頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc981c6cfcccbcfcec4cfcec8cfc4cfcdcccd",
+            "會議日期": "910425",
+            "立法紀錄": "91卷28期3224號上冊 316-318頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc781c6cecdc7cfcec4cfcccec9c4cfcccec7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacecdcfcec5cbc7c9d2cacbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc7cfcec5ccc7cad2ccc7c7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "901004",
-            "立法紀錄": "90卷46期3180號下冊 405-409頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc981c6cfcbc9cfccc4cfcbcfcac4cfcbcfc6",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "901004",
-            "立法紀錄": "90卷46期3180號下冊 409-410頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc981c6cfcbc9cfccc4cfcbcfc6c4cfcbcecf",
+            "會議日期": "910425",
+            "立法紀錄": "91卷28期3224號上冊 318-318頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cbc781c6cecdc7cfcec4cfcccec7c4cfcccec7",
             "關係文書": []
         }
     ]
