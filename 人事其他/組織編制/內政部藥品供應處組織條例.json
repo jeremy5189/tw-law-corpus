@@ -1,12 +1,12 @@
 {
     "title": "內政部藥品供應處組織條例",
     "versions": [
-        "中華民國44年5月24日修正",
-        "中華民國44年6月4日公布"
+        "中華民國62年5月22日廢止",
+        "中華民國62年6月2日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -106,33 +106,20 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本條例係三十五年公布施行，並於三十七年及四十四年先後修正。由於本條例有關機關，因情勢變遷，已經裁撤，本條例自亦無存在之必要，故廢止之。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "441222",
-            "立法紀錄": "43卷12期號8冊 35-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cecc81cbcccecdcfc7c4cfcfcccac4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "440520",
-            "立法紀錄": "44卷15期號5冊 97-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cecc81cbcbcecacfcac4cfcfc6c8c4cfcecfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "440520",
-            "立法紀錄": "44卷15期號5冊 174-175頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cecc81cbcbcecacfcac4cfcec8cbc4cfcec8ca",
+            "會議日期": "620302",
+            "立法紀錄": "62卷15期571號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cecb81c9cdcacececacfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "440524",
-            "立法紀錄": "44卷15期號5冊 180-185頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cecc81cbcbcecacfcac4cfcec7cfc4cfcec7ca",
+            "會議日期": "620522",
+            "立法紀錄": "62卷38期594號 23-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cecb81c9cdcaceccc7cfcfcfcec4cfcfcdccc4cfcfcdca",
             "關係文書": []
         }
     ]
