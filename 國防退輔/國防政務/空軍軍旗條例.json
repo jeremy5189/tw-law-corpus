@@ -1,12 +1,11 @@
 {
     "title": "空軍軍旗條例",
     "versions": [
-        "中華民國74年12月17日廢止",
-        "中華民國75年1月3日公布"
+        "中華民國37年12月31日制定",
+        "中華民國38年1月13日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -24,7 +23,7 @@
         {
             "note": "(空軍旗幟之種類)",
             "rule_no": "第三條",
-            "content": "　　空軍旗幟，分空軍旗、階級旗，編制單位旗三種。",
+            "content": "　　空軍旗幟，分空軍旗、階級旗、隊校旗三種。",
             "relates": {}
         },
         {
@@ -40,9 +39,9 @@
             "relates": {}
         },
         {
-            "note": "(空軍編制單位旗旗式與製法)",
+            "note": "(空軍隊校旗旗式與製法)",
             "rule_no": "第六條",
-            "content": "　　空軍編制單位旗，橫直按五與三之比例，以紅羽紗或綢為地，靠旗桿之一邊加黃綢一道，兩面均綴編制單位番號或名稱，旗面上角鑲嵌鮮藍色空軍軍旗，旗形面積，佔紅地四分之一，其相對之下角，嵌編制單位徽，其大小尺度如附圖。",
+            "content": "　　空軍隊校旗，橫直按五與三之比例，以紅羽紗或紅綢為地，靠旗桿之一邊加黃綢一道，兩面均綴部隊番號或學校校名，旗面上角鑲嵌鮮藍色空軍旗形，其面積佔紅地四分之一，其相對之下角，嵌部隊隊徽或學校校徽，並以大小尺度區分大隊旗、中隊旗、校旗如附圖。",
             "relates": {}
         },
         {
@@ -52,9 +51,9 @@
             "relates": {}
         },
         {
-            "note": "(編制單位旗之給予原則標準)",
+            "note": "(隊校旗之懸掛)",
             "rule_no": "第八條",
-            "content": "　　編制單位旗之給與原則，以空軍聯隊、大隊、直屬中隊及學校為標準，凡同等或以上階層之編制單位參加校閱者，均比照頒給之。",
+            "content": "　　隊校旗限駐在地空軍作戰隊部（大隊、中隊）及空軍學校懸掛之。",
             "relates": {}
         },
         {
@@ -74,61 +73,6 @@
             "rule_no": "第十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　本法因其內容陳舊，種類複雜，原有規定多與國軍現行體制不符，且行政院為統一體系，乃修正公布陸海空軍軍旗條例，故將本條例廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "740927",
-            "立法紀錄": "74卷78期1876號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cbcfc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfcdcfcfc5cbcbd2cecac7"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741107",
-            "立法紀錄": "74卷99期1897號 120-127頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cbcfc6c6cfcfc4cfcecdcfc4cfcecdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741114",
-            "立法紀錄": "75卷8期1910號 13-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cacfcfc7cfcfc4cfcfceccc4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741127",
-            "立法紀錄": "75卷11期1913號 2-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cacfcececfcfc4cfcfcfcdc4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "741213",
-            "立法紀錄": "74卷100期1898號 14-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cbcecfcfcfcfc4cfcfcecbc4cfcfcac7",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "741217",
-            "立法紀錄": "74卷101期1899號 6-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cbcecfcecfcfc4cfcfcfc9c4cfcfcdcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc8cfcfc5c9c6c6d2c8cec7"
-                ]
-            ]
         }
     ]
 }
