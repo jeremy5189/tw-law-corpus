@@ -1,8 +1,8 @@
 {
     "title": "私立學校法",
     "versions": [
-        "中華民國88年12月30日修正",
-        "中華民國89年1月19日公布"
+        "中華民國90年10月12日修正",
+        "中華民國90年10月31日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -490,9 +490,15 @@
             "relates": {}
         },
         {
-            "note": "(賸餘財產之歸屬)",
+            "note": "(剩餘財產之歸屬)",
             "rule_no": "第七十五條",
-            "content": "　　私立學校解散清算後，其賸餘財產之歸屬，依左列方式之一辦理：\n　　一、依捐助章程之規定；捐助章程未規定者，歸屬學校所在地之地方自治團體辦理教育事業之用。\n　　二、依董事會之決議，捐贈與財團法人之學校，在原地繼續辦理學校之用。",
+            "content": "　　私立學校解散清算後，其剩餘財產之歸屬，依下列方式之一辦理。但不得歸屬於自然人或以營利為目的之團體：\n　　一、依捐助章程規定。\n　　二、依董事會之決議，並報經主管教育行政機關核定，捐贈予私立學校或辦理教育文化社會福利事業之財團法人，或各級政府。\n　　三、不能定其歸屬時，其剩餘財產歸屬於私立學校所在地之地方政府。\n　　各級政府運用前項私立學校之剩餘財產，以辦理教育文化社會福利事業為限。",
+            "relates": {}
+        },
+        {
+            "note": "(最優先受清償者)",
+            "rule_no": "第七十五條 之一",
+            "content": "　　私立學校於停辦、解散、清算開始前，本於教職員工聘僱契約所積欠應支付之薪資、資遣費，應最優先受清償。",
             "relates": {}
         },
         {
@@ -537,47 +543,47 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　為配合省政府功能業務與組織調整，刪除原條文之「省教育廳」。並配合大學法、專科學校法、職業學校法及高級中學法之規定修正之。",
-        "第四十三條": "　　配合臺灣省政府功能業務與組織之調整，將第二項「省（市）教育廳（局）」修正為「主管教育行政機關」。"
+        "第七十五條": "　　一、增列第一項明確規範私立學校辦理解散清算時，應優先處理現職教職員工問題以保障其之權益避免造成社會問題。\n　　二、原第一項移列第二項、增列私立學校解散清算後剩餘財產可捐贈做為辦理教育文化社會福利之財團法人，以使資源能持續作為公益性之使用。",
+        "第七十五條 之一": "　　一、本條新增。\n　　二、為因應私立學校招生不足致無法營運需停辦、解散時，在學校清算前，應優先清償學校教職員工之薪資、資遣費，以利學校順利處理。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881029",
-            "立法紀錄": "88卷46期3046號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9cc81c7c7cbc9cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "900525",
+            "立法紀錄": "90卷30期3164號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9cb81c6cfcccfcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "林政則",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc9cfcec5cec7c9d2cec7c6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacecfcfcfc5cbc8cdd2cbc8cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881215",
-            "立法紀錄": "89卷3期3062號上冊 31-33頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9cc81c7c6cfcccfcec4cfcfcccec4cfcfcccc",
+            "會議日期": "900528",
+            "立法紀錄": "90卷40期3174號 257-266頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9cb81c6cfcbcfcfcfc4cfcdcac8c4cfcdc9c9",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "881230",
-            "立法紀錄": "89卷2期3061號上冊 307-315頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9cc81c7c6cfcdcfcec4cfcccfc8c4cfccceca",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "900601",
+            "立法紀錄": "90卷31期3165號上冊 162-165頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9cb81c6cfcccecfcec4cfcec9cdc4cfcec9ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5ccc6cfd2ccc6c9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacececfcbc5cec8c8d2cec7cd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "881230",
-            "立法紀錄": "89卷2期3061號上冊 314-315頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9cc81c7c6cfcdcfcec4cfcccecbc4cfccceca",
+            "會議日期": "911012",
+            "立法紀錄": "90卷47期3181號下冊 838-839頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9cb81c6cfcbc8cfccc4cfc7ccc7c4cfc7ccc6",
             "關係文書": []
         }
     ]
