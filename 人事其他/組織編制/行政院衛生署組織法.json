@@ -1,12 +1,12 @@
 {
     "title": "行政院衛生署組織法",
     "versions": [
-        "中華民國59年7月10日制定",
-        "中華民國59年7月23日公布"
+        "中華民國63年12月10日修正",
+        "中華民國63年12月21日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -78,25 +78,25 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　衛生署置署長一人，其職位列第十四職等，綜理署務並指揮監督所屬職員及機關。副署長二人，其職位列第十三職等，輔助署長處理署務。",
+            "content": "　　衛生署置署長一人，簡任，綜理署務，並指揮、監督所屬職員及機關；副署長二人，簡任，輔助署長處理署務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　衛生署置主任秘書一人，參事一人或二人，處長五人、室主任一人，其職位均列第十至第十三職等；技正十人至十六人，其中三人至五人職位列第十至第十三職等，其餘列第六至第九職等；視察二人至四人，其中一人職位列第十至第十三職等，其餘列第六至第九職等；秘書三人至五人，其中一人職位列第十至第十三職等，其餘列第六至第九職等；科長十四人至二十二人，專員三人至七人，其職位均列第六至第九職等；技士九人至十五人，其中三人至五人職位得列第六至第九職等，其餘列第二至第五職等；科員二十人至三十六人，其中八人至十三人職位得列第六至第九職等，其餘列第二至第五職等；技佐六人至八人，其職位列第二至第五職等；書記八人至十六人，其職位列第一至第三職等。",
+            "content": "　　衛生署置主任秘書一人、參事一人或二人，處長五人、室主任一人，均簡任；技正十人至十六人，其中三人至五人簡任，餘薦任；視察二人至四人，其中一人簡任，餘薦任；秘書三人至五人，其中一人簡任，餘薦任；科長十四人至二十二人，專員三人至七人，均薦任；技士九人至十五人，其中三人至五人薦任，餘委任；科員二十人至三十六人，其中八人至十三人薦任，餘委任；技佐六人至八人，委任；雇員八人至十六人。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　衛生署設人事室、會計室及統計室，各置主任一人，其職位均列第六至第九職等，依法律規定，分別辦理人事、歲計、會計及統計事項。\n　　前項各室所需工作人員，應就本法所定員額內派充之。",
+            "content": "　　衛生署設人事室、會計室及統計室，各置主任一人，均薦任，依法律規定，分別辦理人事、歲計、會計及統計事項。\n　　前項各室所需工作人員，應就本法所定員額內派充之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　第十二條至第十四條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就衛生行政、衛生檢驗、公共衛生、衛生工程、一般行政管理、人事行政、會計統計及其他有關職系選用之。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -136,142 +136,39 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十二條": "　　將原條文中署長、副署長之職位職等刪除，修正為「簡任」。",
+        "第十三條": "　　將原條文中之主任秘書職位職等刪除，修正為「均簡任」；技正、視察、秘書之職位職等刪除，修正為「簡任，餘薦任」；科長、專員之職位職等刪除，修正為「均薦任」；技士、科員之職位職等刪除，修正為「薦任，餘委任」；技佐之職位職等刪除，修正為「委任」；書記修正為「雇員」，並刪除其職位職等。",
+        "第十四條": "　　將原條文中主任之職位職等刪除，並修正為「均薦任」。",
+        "第十五條": "　　本條刪除。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "581216",
-            "立法紀錄": "58卷93期0號 20-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac7cbcbc6cccfcfcfcec4cfcfcdcfc4cfcfcdcf",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5c8cfc9d2c8cecc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590114",
-            "立法紀錄": "59卷20期0號 1-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacdcfcfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "會議日期": "630920",
+            "立法紀錄": "63卷70期726號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfcbcf81c9cccaccc8cfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "590121",
-            "立法紀錄": "59卷20期0號 7-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacdcfcfcfcfcdc4cfcfcfc8c4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590128",
-            "立法紀錄": "59卷20期0號 13-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacdcfcfcfcfcdc4cfcfceccc4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590312",
-            "立法紀錄": "59卷28期0號 1-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacdc7cfcfcfcdc4cfcfcfcec4cfcfcfca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590318",
-            "立法紀錄": "59卷28期0號 5-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacdc7cfcfcfcdc4cfcfcfcac4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590325",
-            "立法紀錄": "59卷28期0號 19-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacdc7cfcfcfcdc4cfcfcec6c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590408",
-            "立法紀錄": "59卷44期0號 18-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacbcbcfcfcfcdc4cfcfcec7c4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590413",
-            "立法紀錄": "59卷45期0號 13-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacbcacfcfcfcdc4cfcfceccc4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590415",
-            "立法紀錄": "59卷46期0號 14-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacbc9cfcfcfcdc4cfcfcecbc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590429",
-            "立法紀錄": "59卷46期0號 25-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacbc9cfcfcfcdc4cfcfcdcac4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590507",
-            "立法紀錄": "59卷47期0號 23-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacbc8cfcfcfcdc4cfcfcdccc4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "590619",
-            "立法紀錄": "59卷46期0號 2-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacbc9cfcfcfcec4cfcfcfcdc4cfcfccc6",
+            "會議日期": "631007",
+            "立法紀錄": "63卷91期747號 22-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfcbcf81c9cbcacbc6cecfcfcfcdc4cfcfcdcdc4cfcfcdca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "590619",
-            "立法紀錄": "59卷46期0號 39-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacbc9cfcfcfcec4cfcfccc6c4cfcfccc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcccfcfc5cec6c7d2cdcdca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "590623",
-            "立法紀錄": "59卷47期0號 4-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacbc8cfcfcfcec4cfcfcfcbc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "590703",
-            "立法紀錄": "59卷50期0號 14-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacacfcfcfcfcec4cfcfcecbc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "590707",
-            "立法紀錄": "59卷51期0號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacacecfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "631210",
+            "立法紀錄": "63卷93期749號 8-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfcbcf81c9cbcacbc6cccfcfcfcec4cfcfcfc7c4cfcfcec6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "590710",
-            "立法紀錄": "59卷52期0號 2-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfccc781cac6cbcacacdcfcfcfcec4cfcfcfcdc4cfcfceca",
+            "會議日期": "631210",
+            "立法紀錄": "63卷93期749號 20-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfcbcf81c9cbcacbc6cccfcfcfcec4cfcfcdcfc4cfcfcdce",
             "關係文書": []
         }
     ]
