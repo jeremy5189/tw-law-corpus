@@ -1,8 +1,8 @@
 {
     "title": "道路交通管理處罰條例",
     "versions": [
-        "中華民國86年4月8日修正",
-        "中華民國86年4月23日公布"
+        "中華民國88年3月30日修正",
+        "中華民國88年4月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -242,7 +242,7 @@
         {
             "note": "",
             "rule_no": "第三十七條",
-            "content": "　　曾犯故意殺人、搶劫、搶奪、強盜、恐嚇取財、擄人勒贖或刑法第二百二十一條至第二百二十九條妨害風化之罪，經判決罪刑確定者，不准辦理營業小客車駕駛人執業登記。\n　　營業小客車駕駛人，在執業期中，犯前項所列各罪之一，經判決罪刑確定者，吊銷其營業小客車執業登記證及駕駛執照。\n　　營業小客車駕駛人，在執業期中，犯竊盜、詐欺、贓物、妨害自由或刑法第二百三十條至第二百三十六條妨害風化各罪之一，經判決有期徒刑以上之刑確定而未宣告緩刑或易科罰金者，吊銷其營業小客車執業登記證及駕駛執照。\n　　依前二項吊銷之營業小客車執業登記證及駕駛執照，由主管機關通知繳銷，不繳送者，逕行註銷。\n　　營業小客車駕駛人，不依規定辦理執業登記，經依前條規定處罰仍不辦理者，吊銷其駕駛執照。\n　　營業小客車駕駛人執業登記管理辦法，由內政部會同交通部定之。",
+            "content": "　　曾犯故意殺人、搶劫、搶奪、強盜、恐嚇取財、擄人勒贖或刑法第二百二十一條至第二百二十九條妨害性自主之罪，經判決罪行確定者，不准辦理營業小客車駕駛人執業登記。\n　　營業小客車駕駛人，在執業期中，犯前項所列各罪之一，經判決罪刑確定者，吊銷其營業小客車執業登記證及駕駛執照。\n　　營業小客車駕駛人，在執業期中，犯竊盜、詐欺、贓物、妨害自由或刑法第二百三十條至第二百三十六條妨害風化各罪之一，經判決有期徒刑以上之刑確定而未宣告緩刑或易科罰金者，吊銷其營業小客車執業登記證及駕駛執照。\n　　依前二項吊銷之營業小客車執業登記證及駕駛執照，由主管機關通知繳銷，不邀送者，逕行註銷。\n　　營業小客車駕駛人，不依規定辦理執業登記，經依前條規定處罰仍不辦理者，吊銷其駕駛執照。\n　　營業小客車駕駛人執業登記管理辦法，由內政部會同交通部定之。",
             "relates": {}
         },
         {
@@ -623,47 +623,47 @@
         }
     ],
     "law_reasons": {
-        "第十二條": "　　一、將原條文第十二條加入第七款，第十四條第一款刪除。\n　　二、原條例中第十二、十三、十四、三十三、四十條之相關規定對惡意未懸掛車牌者罰則不明確，罰鍰過輕，有違比例原則。\n　　三、本條增列第七款。",
-        "第十四條": "　　基於行車安全之考量，對於車輛故意不掛牌者予以加重處罰。爰將第一款移列為第十二條第七款。"
+        "第三十七條": "　　配合刑法第十六章章名之修正，原條文「妨害風化」修改為「妨害性自主」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "840512",
-            "立法紀錄": "84卷29期2786號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfcc81c7cbcdc6cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "蕭金蘭",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-243頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfcb81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
+            "主提案": "謝啟大",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacec7cfcec5c7cbd2c7c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cdc8c7d2cdc7cc"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "851127",
-            "立法紀錄": "85卷65期2887號下冊 27-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfcc81c7cac9cacfccc4cfcfcdc8c4cfcfcac9",
-            "關係文書": []
+            "進度": "一讀",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-243頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfcb81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
+            "主提案": "謝啟大",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfccc5c9cccdd2c9cacf"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 56-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfcc81c7c9cecacfcec4cfcfcac9c4cfcfc9ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccfc7cfcfc5cac7cfd2cac7cb"
-                ]
-            ]
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 250-251頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfcb81c7c7cecccfcec4cfcdcacfc4cfcdcace",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 61-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfcc81c7c9cecacfcec4cfcfc9cec4cfcfc9ce",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 251-251頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfcb81c7c7cecccfcec4cfcdcacec4cfcdcace",
             "關係文書": []
         }
     ]
