@@ -1,10 +1,12 @@
 {
     "title": "中華民國七十八年度中央政府總預算執行條例",
     "versions": [
-        "中華民國83年10月28日期滿廢止"
+        "中華民國77年5月31日制定",
+        "中華民國77年6月15日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -86,5 +88,45 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "770322",
+            "立法紀錄": "77卷24期2135號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcccd81c8c8cfcdcbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cecfcacfcfc5cbcbc7d2cbcbc6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "770521",
+            "立法紀錄": "77卷100期2211號 160-164頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcccd81c8c8cecfcfcfcfc4cfcec9cfc4cfcec9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "770531",
+            "立法紀錄": "77卷44期2155號 276-309頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcccd81c8c8cfcbcbcfcfc4cfcdc8c9c4cfcccfc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cececbcfcfc5c8cfc9d2c8c8cf"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "770531",
+            "立法紀錄": "77卷44期2155號 309-310頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcccd81c8c8cfcbcbcfcfc4cfcccfc6c4cfcccecf",
+            "關係文書": []
+        }
+    ]
 }
