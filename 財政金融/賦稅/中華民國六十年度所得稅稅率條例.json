@@ -1,13 +1,9 @@
 {
     "title": "中華民國六十年度所得稅稅率條例",
     "versions": [
-        "中華民國59年12月29日制定",
-        "中華民國59年12月30日公布"
+        "中華民國60年12月31日廢止"
     ],
-    "types": [
-        "立法歷程",
-        "異動條文"
-    ],
+    "types": [],
     "law_data": [
         {
             "note": "(立法依據)",
@@ -44,61 +40,6 @@
             "rule_no": "第六條",
             "content": "　　本條例施行期間，自中華民國六十年一月一日起，至同年十二月三十一日止。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "591204",
-            "立法紀錄": "59卷90期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7c981cac6cbc9c6cfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcccfcfc5c9cbccd2c9cbc8"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "591216",
-            "立法紀錄": "60卷23期377號 7-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7c981c9cfcbc8cdcccfcfcfcdc4cfcfcfc8c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "591221",
-            "立法紀錄": "60卷24期378號 13-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7c981c9cfcbc8cdcbcfcfcfcdc4cfcfceccc4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "591223",
-            "立法紀錄": "60卷25期379號 7-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7c981c9cfcbc8cdcacfcfcfcdc4cfcfcfc8c4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591229",
-            "立法紀錄": "59卷97期號 3-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7c981cac6cbc9c6c8cfcfcfcec4cfcfcfccc4cfcfcecc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcbcfcfc5cccac9d2ccc9cc"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "591229",
-            "立法紀錄": "59卷97期號 13-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7c981cac6cbc9c6c8cfcfcfcec4cfcfceccc4cfcfcecc",
-            "關係文書": []
         }
     ]
 }
