@@ -1,11 +1,11 @@
 {
     "title": "煤業安定基金條例",
     "versions": [
-        "中華民國93年6月11日廢止",
-        "中華民國93年6月23日公布"
+        "中華民國74年6月25日制定",
+        "中華民國74年7月5日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -58,38 +58,69 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　依「煤業安定基金條例」第七條規定，基金之徵收期限為六年，業已屆滿，其法規規定之事項已執行完畢，且無繼續再施行之必要，爰依中央法規標準法第二十一條第二款規定予以廢止。",
+    "law_reasons": {
+        "第一條": "　　明定本條例制定之宗旨在於就進口能源所徵收之基金，以作為輔導煤礦礦工轉業訓練，並補助雇主資遣所需之部分資金。",
+        "第二條": "　　明定主管機關。",
+        "第三條": "　　明定徵收之範圍。",
+        "第四條": "　　獎勵投資條例第八條規定，國內事業赴國外投資開採運回之能源，享有免稅之獎勵，但為期寬籌經費，仍須徵收基金。",
+        "第五條": "　　依本條例徵收之基金，係就進口能源價格之一定比例予以徵收，爰定其徵收率為進口能源關稅完稅價格百分之０．五。",
+        "第六條": "　　臺灣地區煤業合理化基金於民國六十二年設立，其歲計均依預算法編入中央總預算，每年送經立法院審核，因經費不足，爰將徵收之基金併入臺灣地區煤業合理化基金專戶存儲，專供第一條規定用途。",
+        "第七條": "　　徵收基金之數額依所需金額及進口能源數量預估，約需六年。",
+        "第八條": "　　明定本條例之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910430",
-            "立法紀錄": "91卷30期3226號上冊 13-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cac9c781c6cecccfcfcec4cfcfceccc4cfcfcecc",
+            "會議日期": "740607",
+            "立法紀錄": "74卷46期1844號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c8c9c681c8cbcfcbc9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc6cfcec5cecdc7d2cecccf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cacfc9cfcfc5cdcdcdd2cdcdc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "930531",
-            "立法紀錄": "93卷34期3368號五冊 139-148頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cac9c781c6cccccbcfcac4cfceccc6c4cfcecbc7",
+            "會議日期": "740615",
+            "立法紀錄": "74卷72期1870號 2-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c8c9c681c8cbcfc8cdcfcfc4cfcfcfcdc4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "740619",
+            "立法紀錄": "74卷75期1873號 26-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c8c9c681c8cbcfc8cacfcfc4cfcfcdc9c4cfcfcdc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "740625",
+            "立法紀錄": "74卷51期1849號 5-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c8c9c681c8cbcfcacecfcfc4cfcfcfcac4cfcfcec8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cacfc9cfcfc5cecccfc6d2cecccecb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "740625",
+            "立法紀錄": "74卷51期1849號 17-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c8c9c681c8cbcfcacecfcfc4cfcfcec8c4cfcfcec8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "930611",
-            "立法紀錄": "93卷34期3368號一冊 208-213頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cac9c781c6cccccbcfcec4cfcdcfc7c4cfcdcecc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecbcfcec5cacfcfd2cacfc9"
-                ]
-            ]
+            "會議日期": "740625",
+            "立法紀錄": "74卷51期1849號 17-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c8c9c681c8cbcfcacecfcfc4cfcfcec8c4cfcfcec8",
+            "關係文書": []
         }
     ]
 }
