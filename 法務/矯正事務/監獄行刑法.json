@@ -1,8 +1,8 @@
 {
     "title": "監獄行刑法",
     "versions": [
-        "中華民國43年12月14日全文修正",
-        "中華民國43年12月25日公布"
+        "中華民國45年12月28日修正",
+        "中華民國46年1月7日公布"
     ],
     "types": [
         "立法歷程",
@@ -184,7 +184,7 @@
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　作業應斟酌衛生、教化、經濟與受刑人之刑期、健康、知識、技能及出獄後之生計定之。\n　　監獄應按作業性質分設各種工場或農作場所，並得酌令受刑人在監外作業特定作業；監外作業辦法由司法行政部定之。\n　　炊事、打掃、看護及其他由監獄經理之事務，視同作業。",
+            "content": "　　作業應斟酌衛生、教化、經濟與受刑人之刑期、健康、知識、技能及出獄後之生計定之。\n　　監獄應按作業性質分設各種工場或農作場所，並得酌令受刑人在監外從事特定作業；其辦法由司法行政部定之。\n　　炊事、打掃、看護及其他由監獄經理之事務，視同作業。",
             "relates": {}
         },
         {
@@ -218,13 +218,13 @@
         {
             "note": "",
             "rule_no": "第三十二條",
-            "content": "　　作業者給予作業勞作金。\n　　作業勞作金額，斟酌作業者之行狀及作業者之成績定之。",
+            "content": "　　作業者給予勞作金，其平均所得數額，不得低於當地廠商同類成品或僱用同類工人之工價百分之二十。\n　　作業勞作金額，斟酌作業者之行狀及作業者之成績定之。\n　　前項給付辦法，由司法行政部定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三十三條",
-            "content": "　　作業收入以百分之十充作業勞作金，如有盈餘，以其盈餘百分之五十撥充作業基金，百分之十五補助受刑人飲食費用，其餘充改善監獄內部設施及獎勵之用。\n　　前項改善監獄內部設施及獎勵，由典獄長擬具詳細計劃呈請該管監督機關核定之。",
+            "content": "　　作業收入，除作業支出外如有盈餘，以其盈餘百分之五十充作業基金，百分之十五補助受刑人飲食費用，百分之二十五改善監獄內部設施，百分之十充獎勵之用。\n　　前項改善監獄內部設施及獎勵，由典獄長擬具詳細計劃呈請該管監督機關核定之。",
             "relates": {}
         },
         {
@@ -649,41 +649,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430618",
-            "立法紀錄": "43卷13期號6冊 40-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccdc781cbcccecccfc9c4cfcfcbcfc4cfcfcbcf",
+            "會議日期": "451204",
+            "立法紀錄": "46卷18期號5冊 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccf81cbc9cec7cfcac4cfcfc6cec4cfcfc6ce",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5c9cac7d2c9c6c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cdcdcbd2cdccc6"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 47-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccdc781cbcbcecbcfc9c4cfcfcbc8c4cfcfc7c8",
+            "會議日期": "451228",
+            "立法紀錄": "46卷18期號6冊 16-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccf81cbc9cec7cfc9c4cfcfcec9c4cfcfcdc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcdcfcfc5c9cfcad2c9cccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cbc9cdd2cbc8c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 142-154頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccdc781cbcbcecbcfc9c4cfcecbcdc4cfcecacb",
+            "會議日期": "451228",
+            "立法紀錄": "46卷18期號6冊 72-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccf81cbc9cec7cfc9c4cfcfc8cdc4cfcfc8cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 169-179頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccdc781cbcbcecbcfc9c4cfcec9c6c4cfcec8c6",
+            "會議日期": "451228",
+            "立法紀錄": "46卷18期號6冊 74-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccf81cbc9cec7cfc9c4cfcfc8cbc4cfcfc8cb",
             "關係文書": []
         }
     ]
