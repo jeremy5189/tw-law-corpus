@@ -1,8 +1,8 @@
 {
     "title": "國民大會組織法",
     "versions": [
-        "中華民國42年12月29日修正",
-        "中華民國43年1月6日公布"
+        "中華民國48年12月8日修正",
+        "中華民國48年12月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -78,7 +78,7 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　國民大會設秘書處，置秘書長一人，副秘書長二人，其人選由主席團提請大會決定之，承主席團之命處理全會事務。\n　　秘書處之組織及處務規程，由國民大會主席團訂定之。",
+            "content": "　　國民大會設秘書處，置秘書長一人，副秘書長二人，其人選由主席團提請大會決定之，承主席團之命處理全會事務。\n　　秘書長、副秘書長因故出缺，其繼任人選未能依照前項程序產生時，得由總統派員暫行代理。\n　　秘書處之組織及處務規程，由國民大會主席團訂定之。",
             "relates": {}
         },
         {
@@ -97,48 +97,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "421218",
-            "立法紀錄": "43卷12期號7冊 35-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6ca81cbcccecdcfc8c4cfcfcccac4cfcfccca",
+            "會議日期": "481110",
+            "立法紀錄": "48卷24期號6冊 53-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc9c4cfcfcaccc4cfcfcacc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5cdc7c8d2cdc7c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cccdd2cccb"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 13-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6ca81cbcccecdcfc7c4cfcfceccc4cfcfcecb",
+            "會議日期": "481201",
+            "立法紀錄": "48卷24期號9冊 37-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc6c4cfcfccc8c4cfcfcbcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5cbcdcbd2cbcdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cdc8ced2cdc8cc"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 51-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6ca81cbcccecdcfc7c4cfcfcacec4cfcfcac8",
+            "會議日期": "481201",
+            "立法紀錄": "48卷24期號9冊 5-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc6c4cfcfcfcac4cfcfcfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 57-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6ca81cbcccecdcfc7c4cfcfcac8c4cfcfcac8",
+            "會議日期": "481208",
+            "立法紀錄": "48卷24期號9冊 81-82頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc6c4cfcfc7cec4cfcfc7cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 58-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6ca81cbcccecdcfc7c4cfcfcac7c4cfcfcac7",
+            "會議日期": "481208",
+            "立法紀錄": "48卷24期號9冊 82-83頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc6c4cfcfc7cdc4cfcfc7cc",
             "關係文書": []
         }
     ]
