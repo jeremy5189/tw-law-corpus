@@ -1,8 +1,8 @@
 {
     "title": "懲治走私條例",
     "versions": [
-        "中華民國67年1月13日修正",
-        "中華民國67年1月23日公布"
+        "中華民國74年6月14日修正",
+        "中華民國74年6月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,7 +12,7 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　私運政府管制物品或應稅物品進口、出口之案件，合於本條例所列處罰之規定者，由海關或關務署移送司法或軍法機關處理；其涉及匪諜或其他刑事罪嫌部分，得逕由軍法或司法機關依法處理。",
+            "content": "　　私運政府管制物品或應稅物品進口、出口之案件，合於本條例所列處罰之規定者，送司法或軍法機關處理；其涉及匪諜或其他刑事罪嫌部分，逕由軍法或司法機關依法處理。",
             "relates": {}
         },
         {
@@ -83,69 +83,87 @@
         },
         {
             "note": "",
+            "rule_no": "第十一條 之一",
+            "content": "　　在動員戡亂時期，自淪陷區私運物品進入本國自由地區，或自本國自由地區私運物品前往淪陷區者，以私運物品進口、出口論，適用本條例規定處斷。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、第一項未修正。\n　　二、第二項係由第六條走私常業罪中就以走私本條第一項走私物品為常業部分予以提列，並酌定其法定刑為三年以上十年以下有期徒刑，得併科一萬元以下罰金，以資因應，並期公允。\n　　三、第三項係原第二項依序移列，並作文字修正。\n　　四、本條第四項以原第三項為準，略加修正。",
-        "第二條 之一": "　　一、本條新增。\n　　二、運送、銷售或藏匿前條第一項走私物品之行為，足以助長該項之走私風氣，影響國家社會法益甚鉅，故增訂本條第一項之刑罰制裁，以期杜絕。\n　　三、本條第二項係由現行第六條常業罪中就屬於運送、銷售、藏匿第二條第一項走私物品為常業罪部分予以提列，並酌定其刑度為一年以上七年以下有期徒刑，得併科七千元以下罰金，用期適切。\n　　四、本條第三項係規定第一項之未遂犯之處罰。",
-        "第六條": "　　本條文字，分為二項排列並加修正，將以私運、銷售、藏匿未逾公告數額之管制物品或應稅物品進出口為常業者，科以較重之刑。",
-        "第十條": "　　公務員或軍人犯第二條之一規定之罪者，與其犯現行第二條、第三條、第四條之罪有同予從重處斷之必要，故增列「第二條之一」。"
+        "第一條": "　　一、因本條例第十一條已有明文規定，在本條毋庸作重複規定之必要，爰將本條後段「由海關移送．．．依法處理。」予以刪除修正為「依本條例處理」。\n　　二、私運政府管制物品或應稅物品進口、出口而合於本條例處罰規定之案件，已往多由海關逕行移送司法或軍法機關偵辦。爰將原條文中「或關務署」四字刪除。",
+        "第十一條 之一": "　　一、本條新增。\n　　二、按本條例之性質係屬平時法，惟為因應動員戡亂時期遏止與匪區間私運物品往來之特殊情勢，特增訂本條，並於條文首句冠以「動員戡亂時期」字樣，用示本條僅於員戡亂時期適用。\n　　三、在公海上取得物品而私運往來者，乃係成立本條例第二條走私罪或與對方構成本條共犯之問題。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "661230",
-            "立法紀錄": "66卷105期1068號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c9c9cfcecfcacfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "740111",
+            "立法紀錄": "74卷4期1802號上冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececacc81c8cbcfcfcbcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5cbc7cdd2cbc7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfc7cfcfc5cecbd2cec8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "670104",
-            "立法紀錄": "67卷28期1096號 59-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cecdc7cfcfc4cfcfcac6c4cfcfc9ca",
+            "會議日期": "740417",
+            "立法紀錄": "74卷45期1843號 124-135頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececacc81c8cbcfcbcacfcfc4cfcecdcbc4cfceccca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "670109",
-            "立法紀錄": "67卷31期1099號 48-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cecccecfcfc4cfcfcbc7c4cfcfcacb",
+            "會議日期": "740411",
+            "立法紀錄": "74卷46期1844號 112-123頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececacc81c8cbcfcbc9cfcfc4cfcececdc4cfcecdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "740516",
+            "立法紀錄": "74卷61期1859號 131-143頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececacc81c8cbcfc9cecfcfc4cfcecccec4cfcecbcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "670113",
-            "立法紀錄": "67卷4期1072號 4-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cfcfcbcfcfc4cfcfcfcbc4cfcfcecb",
+            "會議日期": "740607",
+            "立法紀錄": "74卷46期1844號 8-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececacc81c8cbcfcbc9cfcfc4cfcfcfc7c4cfcfcdcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5c9c7c8d2c9c6cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cacfc9cfcfc5cec8ccd2cec8c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "670113",
-            "立法紀錄": "67卷4期1072號 14-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cfcfcbcfcfc4cfcfcecbc4cfcfcec8",
+            "會議日期": "740607",
+            "立法紀錄": "74卷46期1844號 20-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececacc81c8cbcfcbc9cfcfc4cfcfcdcfc4cfcfccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "740611",
+            "立法紀錄": "74卷47期1845號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececacc81c8cbcfcbc8cfcfc4cfcfcfc8c4cfcfcfc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "670113",
-            "立法紀錄": "67卷4期1072號 17-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cfcfcbcfcfc4cfcfcec8c4cfcfcec7",
+            "會議日期": "740614",
+            "立法紀錄": "74卷48期1846號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececacc81c8cbcfcbc7cfcfc4cfcfcecdc4cfcfcecd",
             "關係文書": []
         }
     ]
