@@ -1,12 +1,12 @@
 {
     "title": "交通銀行條例",
     "versions": [
-        "中華民國68年1月16日全文修正",
-        "中華民國68年1月26日公布"
+        "中華民國80年1月15日修正",
+        "中華民國80年1月28日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本行資本總額定為新臺幣壹百億元。\n　　前項資本總額如有增減必要時，得由董事會議決，報經財政部核轉行政院核准之。",
+            "content": "　　本行資本總額定為新臺幣二百億元。\n　　前項資本總額如有增減必要時，由董事會議決，報經財政部核轉行政院核准之。",
             "relates": {}
         },
         {
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本行經營左列業務：\n　　一、辦理中長期開發性放款、保證及有關配合性之短期授信；存款及代人保管證券、票據及其他貴重物品。\n　　二、主動參加創導性之投資。\n　　三、輔導、協助授信與投資事業，改進生產技術與經營管理。\n　　四、辦理證券之認購、承銷及保證。\n　　五、辦理國內外匯兌及貨物押匯。\n　　六、其他經財政部核定或中央銀行特許辦理之業務。\n　　前項第一款至第四款業務對象，以工、礦、交通及其他公用事業為限。",
+            "content": "　　本行經營左列業務：\n　　一、辦理中、長期開發性放款、保證等授信業務。\n　　二、主動參加創導性之投資。\n　　三、輔導、協助授信與投資事業，改進生產技術與經營管理。\n　　四、辦理證券之認購、承銷及保證。\n　　五、辦理中、短期放款、保證等授信業務，以及收受存款、代人保管證券、票據與其他貴重物品。\n　　六、辦理國內外匯兌及貨物押匯。\n　　七、其他經財政部核定或中央銀行特許辦理之業務。",
             "relates": {}
         },
         {
@@ -118,58 +118,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　為配合金融自由化、國際化政策，提高國際信用地位，強化市場競爭能力，充實自有資本，增加營運資金，以辦理政策性融資業務發揮專業銀行之功能，爰將該行資本總額由新臺幣一百億元修正提高為二百億元，並酌作文字修正。",
+        "第五條": "　　一、將現行條文第一項第一款前段之中長期開發性放款、保證業務單獨列為第一款，明定該行具開發銀行之特性。\n　　二、現行條文第一項第一款後段有關配合性短期授信、存款、代人保管證券、票據與其他貴重物品移列第五款，並將配合性短期授信擴充為一般性授信，以明定該行除開發性業務外，亦辦理一般商業銀行業務。\n　　三、現行條文第一項第五款、第六款分別改列為第六款及第七款。\n　　四、第七條已定有該行對工、礦、交通及其他公用事業中長期開發性之授信，不得少於其授信總額百分之七十之規定，為擴大該行之服務層面爰刪除現行條文之第二項之規定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "671124",
-            "立法紀錄": "67卷94期1162號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c781c9c8c9cdc6cbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "790515",
+            "立法紀錄": "79卷39期2359號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c681c8c6cfccc6cfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cdc8ccd2cdc7c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cacec6cfcfc5cbc7d2cace"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "671227",
-            "立法紀錄": "68卷26期1198號 52-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c781c9c7c9cccdc9cfcfc4cfcfcacdc4cfcfcac7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680104",
-            "立法紀錄": "68卷28期1200號 37-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c781c9c7c9cccdc7cfcfc4cfcfccc8c4cfcfcbc8",
+            "會議日期": "790714",
+            "立法紀錄": "80卷22期2446號 477-489頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c681c7cfcfcdcdcfcfc4cfcbc8c8c4cfcbc7c6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "680112",
-            "立法紀錄": "68卷4期1176號 14-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c781c9c7c9cdcfcbcfcfc4cfcfcecbc4cfcfccca",
+            "會議日期": "800115",
+            "立法紀錄": "80卷5期2429號 27-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c681c7cfcfcfcacfcfc4cfcfcdc8c4cfcfcccb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5cacbc7d2cac9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cdc7cfcfc5c8c8cad2c8c7cf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "680112",
-            "立法紀錄": "68卷4期1176號 35-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c781c9c7c9cdcfcbcfcfc4cfcfcccac4cfcfcbcf",
+            "會議日期": "800115",
+            "立法紀錄": "80卷5期2429號 34-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c681c7cfcfcfcacfcfc4cfcfcccbc4cfcfcccb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680116",
-            "立法紀錄": "68卷5期1177號 4-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c781c9c7c9cdcfcacfcfc4cfcfcfcbc4cfcfcfc9",
+            "會議日期": "800115",
+            "立法紀錄": "80卷5期2429號 34-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7c681c7cfcfcfcacfcfc4cfcfcccbc4cfcfcccb",
             "關係文書": []
         }
     ]
