@@ -1,8 +1,8 @@
 {
     "title": "實施耕者有其田條例",
     "versions": [
-        "中華民國43年4月6日修正",
-        "中華民國43年4月22日公布"
+        "中華民國43年12月14日修正",
+        "中華民國43年12月24日公布"
     ],
     "types": [
         "立法歷程",
@@ -190,7 +190,7 @@
         {
             "note": "",
             "rule_no": "第二十八條",
-            "content": "　　耕地承領人，依本條例承領之耕地，在地價未繳清以前，不得移轉，地價繳清以後，如有移轉，其承受人以能自耕及工業用者為限。",
+            "content": "　　耕地承領人，依本條例承領之耕地，在地價未繳清前，不得移轉，地價繳清以後，如有移轉，其承受人以能自耕或供工業用，或供建築用者為限。\n　　違反前項規定者，其耕地所有權之移轉無效。",
             "relates": {}
         },
         {
@@ -249,36 +249,54 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430213",
-            "立法紀錄": "43卷13期號1冊 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9cb81cbcccecccfcec4cfcfcac9c4cfcfcac9",
+            "會議日期": "430713",
+            "立法紀錄": "43卷13期號10冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcccecccecfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5ccccc7d2cccbcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cdcbcdd2cdcbcc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "430730",
+            "立法紀錄": "43卷13期號7冊 92-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcccecccfc8c4cfcfc6cdc4cfcfc6cd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cccccfd2ccccce"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "430406",
-            "立法紀錄": "43卷13期號3冊 24-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9cb81cbcccecccfccc4cfcfcdcbc4cfcfcdc9",
-            "關係文書": []
+            "會議日期": "431214",
+            "立法紀錄": "44卷14期號6冊 88-90頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcbcecbcfc9c4cfcfc7c7c4cfcfc6cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5cecad2cec8"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "430406",
-            "立法紀錄": "43卷13期號3冊 172-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9cb81cbcccecccfccc4cfcec8cdc4cfcec8cc",
+            "會議日期": "431214",
+            "立法紀錄": "44卷14期號6冊 184-185頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcbcecbcfc9c4cfcec7cbc4cfcec7ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430406",
-            "立法紀錄": "43卷13期號3冊 173-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9cb81cbcccecccfccc4cfcec8ccc4cfcec8cc",
+            "會議日期": "431214",
+            "立法紀錄": "44卷14期號6冊 185-185頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcbcecbcfc9c4cfcec7cac4cfcec7ca",
             "關係文書": []
         }
     ]
