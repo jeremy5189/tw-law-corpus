@@ -1,11 +1,12 @@
 {
     "title": "海軍旗章條例",
     "versions": [
-        "中華民國41年2月12日全文修正",
-        "中華民國41年2月27日公布"
+        "中華民國74年12月17日廢止",
+        "中華民國75年1月3日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -259,6 +260,51 @@
             "rule_no": "第四十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本法因內容陳舊，種類複雜，原有規定多與國軍現行體制不符，且行政院為統一體系，乃修正公布陸海空軍軍旗條例，故本條例應予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "740927",
+            "立法紀錄": "74卷78期1876號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcec881c8cbcfc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "741107",
+            "立法紀錄": "74卷99期1897號 120-127頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcec881c8cbcfc6c6cfcfc4cfcecdcfc4cfcecdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "741114",
+            "立法紀錄": "75卷08期1910號 13-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcec881c8cacfcfc7cfcfc4cfcfceccc4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "741127",
+            "立法紀錄": "75卷11期1913號 2-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcec881c8cacfcececfcfc4cfcfcfcdc4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "741213",
+            "立法紀錄": "74卷100期1898號 14-58頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcec881c8cbcecfcfcfcfc4cfcfcecbc4cfcfcac7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "741217",
+            "立法紀錄": "74卷101期1899號 24-24頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcec881c8cbcecfcecfcfc4cfcfcdcbc4cfcfcdcb",
+            "關係文書": []
         }
     ]
 }
