@@ -1,12 +1,12 @@
 {
     "title": "空軍軍旗條例",
     "versions": [
-        "中華民國43年4月27日修正",
-        "中華民國43年5月12日公布"
+        "中華民國74年12月17日廢止",
+        "中華民國75年1月3日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -76,45 +76,59 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本法因其內容陳舊，種類複雜，原有規定多與國軍現行體制不符，且行政院為統一體系，乃修正公布陸海空軍軍旗條例，故將本條例廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430302",
-            "立法紀錄": "43卷13期號2冊 1-1頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcc81cbcccecccfcdc4cfcfcfcec4cfcfcfce",
-            "主提案": "行政院",
+            "會議日期": "740927",
+            "立法紀錄": "74卷78期1876號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cbcfc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5cbc6ccd2cbc6cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfcdcfcfc5cbcbd2cecac7"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "430427",
-            "立法紀錄": "43卷13期號4冊 7-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcc81cbcccecccfcbc4cfcfcfc8c4cfcfcfc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5c7cdd2c7cc"
-                ]
-            ]
+            "進度": "委員會審查",
+            "會議日期": "741107",
+            "立法紀錄": "74卷99期1897號 120-127頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cbcfc6c6cfcfc4cfcecdcfc4cfcecdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "741114",
+            "立法紀錄": "75卷8期1910號 13-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cacfcfc7cfcfc4cfcfceccc4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "741127",
+            "立法紀錄": "75卷11期1913號 2-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cacfcececfcfc4cfcfcfcdc4cfcfcfc8",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "430427",
-            "立法紀錄": "43卷13期號4冊 63-63頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcc81cbcccecccfcbc4cfcfc9ccc4cfcfc9cc",
+            "會議日期": "741213",
+            "立法紀錄": "74卷100期1898號 14-58頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cbcecfcfcfcfc4cfcfcecbc4cfcfcac7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430427",
-            "立法紀錄": "43卷13期號4冊 63-63頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcc81cbcccecccfcbc4cfcfc9ccc4cfcfc9cc",
-            "關係文書": []
+            "會議日期": "741217",
+            "立法紀錄": "74卷101期1899號 6-24頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcb81c8cbcecfcecfcfc4cfcfcfc9c4cfcfcdcb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc8cfcfc5c9c6c6d2c8cec7"
+                ]
+            ]
         }
     ]
 }
