@@ -1,10 +1,11 @@
 {
     "title": "機關營繕工程及購置定製變賣財物稽察條例",
     "versions": [
-        "中華民國39年10月20日制定",
-        "中華民國39年10月31日公布"
+        "中華民國44年12月20日修正",
+        "中華民國44年12月29日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -33,9 +34,9 @@
             "relates": {}
         },
         {
-            "note": "(招標資料之通知查核)",
+            "note": "(招標及比價之規定)",
             "rule_no": "第五條",
-            "content": "　　招標及比價各項規則、圖樣說明書、預估底價標單式樣以及契約底稿等，應隨時通知該管審計機關查核。",
+            "content": "　　招標及比價各項規則及圖樣說明書、預估底價標單式樣以及契約底稿等，應於開標比價前三日送達該管審計機關查核，但購置定製變賣財物項目簡單者，其底價得於開標比價前臨時通知。",
             "relates": {}
         },
         {
@@ -151,6 +152,47 @@
             "rule_no": "第二十四條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "440916",
+            "立法紀錄": "44卷16期號4冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c6c6c681cbcbcec9cfcbc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "監察院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5cbc8d2cbc7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "441220",
+            "立法紀錄": "45卷16期號9冊 120-121頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c6c6c681cbcacec9cfc6c4cfcecdcfc4cfcecdce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5c7cfcad2c7cfc9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "441220",
+            "立法紀錄": "45卷16期號9冊 224-225頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c6c6c681cbcacec9cfc6c4cfcdcdcbc4cfcdcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "441220",
+            "立法紀錄": "45卷16期號9冊 225-225頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c6c6c681cbcacec9cfc6c4cfcdcdcac4cfcdcdca",
+            "關係文書": []
         }
     ]
 }
