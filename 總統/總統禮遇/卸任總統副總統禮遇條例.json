@@ -1,8 +1,8 @@
 {
     "title": "卸任總統副總統禮遇條例",
     "versions": [
-        "中華民國67年4月25日制定",
-        "中華民國67年5月3日公布"
+        "中華民國90年5月29日修正",
+        "中華民國90年6月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,13 +12,13 @@
         {
             "note": "(立法目的)",
             "rule_no": "第一條",
-            "content": "　　為禮遇卸任總統，特制定本條例。",
+            "content": "　　為禮遇卸任總統、副總統，特制定本條例。",
             "relates": {}
         },
         {
-            "note": "(卸任總統禮遇範圍)",
+            "note": "(禮遇範圍)",
             "rule_no": "第二條",
-            "content": "　　卸任總統享有左列禮遇：\n　　一、邀請參加國家大典。\n　　二、依現任總統月俸按月致送終身俸。\n　　三、供應房屋及其設備。\n　　四、供應交通工具。\n　　五、供應處理事務人員及事務費。\n　　六、供應保健醫療。\n　　七、供應安全護衛。",
+            "content": "　　卸任總統享有下列禮遇：\n　　一、邀請參加國家大典。\n　　二、依現任總統月俸按月致送終身俸。\n　　三、供應房屋及其設備。\n　　四、供應交通工具。\n　　五、供應處理事務人員及事務費。\n　　六、供應保健醫療。\n　　七、供應安全護衛。\n　　卸任副總統依現任副總統月俸按月致送終身俸，並享有前項第一款及第四款至第七款之禮遇。\n　　本條例修正施行前，卸任總統之終身俸月支數額高於現任總統月俸時，按原月支數額致送終身俸。\n　　本條例修正施行前，卸任副總統已依政務人員退職酬勞金給與條例辦理退職者，得改依本條例致送終身俸。但其原支月退職酬勞金數額高於現任副總統月俸時，按原月退職酬勞金數額致送終身俸。\n　　現任或卸任總統、副總統逝世後，其配偶比照本條例之規定，應給予適當之禮遇及照顧。",
             "relates": {}
         },
         {
@@ -42,84 +42,79 @@
         {
             "note": "(施行日)",
             "rule_no": "第六條",
-            "content": "　　本條例自公布日施行。",
+            "content": "　　本條例自公布日施行。\n　　本條例修正條文自中華民國九十年一月一日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條": "　　規定本條例之立法意旨。",
-        "第二條": "　　規定政府禮遇卸任總統之事項。",
-        "第三條": "　　規定停止禮遇之事由。",
-        "第四條": "　　規定不得享有禮遇之事由。",
-        "第五條": "　　規定本條例實施辦法之訂定機關。",
-        "第六條": "　　規定本條例之施行日期。"
+        "第一條": "　　配合將卸任副總統納入本條例適用對象，修正本條例之立法意旨。",
+        "第二條": "　　一、第一項配合法制用語酌作文字修正。\n　　二、增訂第二項，明定卸任副總統依現任副總統月俸按月致送終身俸及其他禮遇事項。\n　　三、基於法律不溯既往及信賴保護原則，增訂第三項，明定本條例修正施行前卸任總統之終身俸月支數額，高於現任總統月俸時，仍按原月支數額致送終身俸，以維護其既有權益。\n　　四、配合本條例將卸任副總統納為適用對象，為維護其既有權益，爰增訂第四項。\n　　五、增訂第五項。現任或卸任總統、副總統逝世後，其配偶應給予適當之禮遇及照顧。",
+        "第六條": "　　鑒於現任總統、副總統之待遇將自中華民國九十年一月一日起調降，為保障本條例修正條文施行前已卸任總統、副總統之權益，爰增訂第二項，明定本條例修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "670224",
-            "立法紀錄": "67卷16期1084號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc881c9c8c9cecec9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "890502",
+            "立法紀錄": "89卷22期3081號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c7c6cdcdcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "劉光華",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfc6cfcfc5c6cbd2c6c9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "900327",
+            "立法紀錄": "90卷14期3148號上冊 15-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c6cfcecbcfcec4cfcfcecac4cfcfceca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcecfcfc5cac8cbd2cac8c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcfc5cec7c6d2cec6cc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "900403",
+            "立法紀錄": "90卷15期3149號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c6cfcecacfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "劉光華",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcbcfcdc5c6d2cecd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "670112",
-            "立法紀錄": "67卷22期1090號 53-74頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc881c9c8c9cecdcdcfcfc4cfcfcaccc4cfcfc8cb",
+            "會議日期": "900508",
+            "立法紀錄": "89卷27期3086號 347-359頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c7c6cdc8cfcfc4cfcccbc8c4cfcccac6",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "670327",
-            "立法紀錄": "67卷48期1116號 60-66頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc881c9c8c9cecbc7cfcfc4cfcfc9cfc4cfcfc9c9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670403",
-            "立法紀錄": "67卷50期1118號 29-36頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc881c9c8c9cecacfcfcfc4cfcfcdc6c4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "670414",
-            "立法紀錄": "67卷30期1098號 3-16頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc881c9c8c9cecccfcfcfc4cfcfcfccc4cfcfcec9",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "900529",
+            "立法紀錄": "90卷30期3164號一冊 427-444頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c6cfcccfcfcec4cfcbcdc8c4cfcbcbcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcccfcfc5cbc9d2cace"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacecfcfcac5cecccdd2cecbc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670418",
-            "立法紀錄": "67卷31期1099號 3-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc881c9c8c9cecccecfcfc4cfcfcfccc4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670421",
-            "立法紀錄": "67卷32期1100號 3-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc881c9c8c9cecccdcfcfc4cfcfcfccc4cfcfcec7",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "670425",
-            "立法紀錄": "67卷33期1101號 3-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc881c9c8c9cecccccfcfc4cfcfcfccc4cfcfcece",
+            "會議日期": "900529",
+            "立法紀錄": "90卷30期3164號一冊 444-444頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c6cfcccfcfcec4cfcbcbcbc4cfcbcbcb",
             "關係文書": []
         }
     ]
