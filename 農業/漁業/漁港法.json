@@ -1,8 +1,8 @@
 {
     "title": "漁港法",
     "versions": [
-        "中華民國89年10月27日修正",
-        "中華民國89年11月15日公布"
+        "中華民國93年3月23日修正",
+        "中華民國93年4月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,9 +66,9 @@
             "relates": {}
         },
         {
-            "note": "(公用事業或漁業設施)",
+            "note": "(漁港一般設施之土地租用)",
             "rule_no": "第九條",
-            "content": "　　漁港公用事業設施或漁業設施，得由投資人依據漁港計畫擬訂投資計畫，向該管主管機關租用土地申請建設、經營，並取得地上物所有權，或由主管機關無償提供土地，由投資者以建設、經營、轉移之方式辦理之。\n　　前項租用之土地不得設定地上權。",
+            "content": "　　漁港一般設施優先由漁會依據漁會法第四條所規定任務及漁港計畫擬訂投資計畫，向主管機關租用土地申請建設、經營，並取得地上物所有權。\n　　漁會因人力、物力不足無法依前項規定辦理時，得由投資人依據漁港計畫擬訂投資計畫，向主管機關租用土地申請建設、經營，並取得地上物所有權，或由主管機關無償提供土地，由投資人以投資建設、經營，經營期滿後移轉該設施之所有權予主管機關之方式辦理之。\n　　前二項租用之土地不得設定地上權。",
             "relates": {}
         },
         {
@@ -108,7 +108,7 @@
         {
             "note": "(漁港之維護管理)",
             "rule_no": "第十五條",
-            "content": "　　主管機關應逐年編列預算，辦理各該管漁港維護管理工作，並應向漁港基本設施使用者收取管理費。\n　　前項管理費之收費類目及費率，由中央主管機關定之。",
+            "content": "　　主管機關應逐年編列預算，辦理各該管漁港維護管理工作，並應向漁港基本設施使用者收取管理費。但本國籍漁船免收管理費。\n　　前項管理費之收費類目及費率，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -205,58 +205,67 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、第一項配合臺灣省政府功能業務與組織調整予以修正。\n　　二、漁港或商港之規劃，各有主管機關辦理是項業務，倘有關涉其他機關職掌，本以經協調為必要，無庸予以明定，爰刪除第二項。",
-        "第四條": "　　第一項第二款配合臺灣省政府功能業務與組織調整予以修正。",
-        "第五條": "　　第二項、第三項配合臺灣省政府功能業務與組織調整予以修正。",
-        "第六條": "　　第二項、第三項配合臺灣省政府功能業務與組織調整予以修正。",
-        "第十四條": "　　配合臺灣省政府功能業務與組織調整予以修正。",
-        "第十五條": "　　第一項配合臺灣省政府功能業務與組織調整予以修正。"
+        "第九條": "　　一、配合第三條第四款第三目，爰將「公用事業設施或漁業設施」修正為「一般設施」。\n　　二、基於政策需要及維護管理便利性考量，規定漁港一般設施優先由漁會依據漁港計畫向主管機關租用土地申請建設、經營，爰修正第一項條文。\n　　三、對於地方漁會因人力、物力不足，無法為一般設施之建設、經營及管理時，得開放鼓勵一般投資人參與建設經營。\n　　四、參考「促進民間參與公共建設法」第八條文字，將原條文之「移轉」兩字具體作法，給予更明確之規範。\n　　五、另「該管主管機關」中「該管」二字為贅語，爰予刪除。",
+        "第十五條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890328",
-            "立法紀錄": "89卷13期3072號 18-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec881c7c6cecccfcfc4cfcfcec7c4cfcfcec7",
-            "主提案": "行政院",
+            "會議日期": "911011",
+            "立法紀錄": "91卷59期3255號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec781c6cecac6cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "林炳坤",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecacfcfc5c9cdc8d2c9cccd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcbcfcec5c8cfd2c8cd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "921121",
+            "立法紀錄": "92卷53期3327號上冊 5-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec781c6cdcacccfcec4cfcfcfcac4cfcfcfc9",
+            "主提案": "中國國民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcececfcec5cdc9ced2cdc9cc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890621",
-            "立法紀錄": "89卷41期3100號下冊 165-166頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec881c7c6cbcecfccc4cfcec9cac4cfcec9c9",
+            "會議日期": "921217",
+            "立法紀錄": "93卷2期3336號下冊 262-268頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec781c6cccfcdcfccc4cfcdc9cdc4cfcdc9c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "891027",
-            "立法紀錄": "89卷58期3117號上冊 114-119頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec881c7c6cac7cfcec4cfcececbc4cfcecec6",
+            "會議日期": "930323",
+            "立法紀錄": "93卷17期3351號上冊 204-209頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec781c6cccec8cfcec4cfcdcfcbc4cfcdcfc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcbcfcdc5cdc8cfd2cdc8ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec8cfcdc5c7cbd2c7c6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "891027",
-            "立法紀錄": "89卷58期3117號上冊 119-120頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec881c7c6cac7cfcec4cfcecec6c4cfcecdcf",
+            "會議日期": "930323",
+            "立法紀錄": "93卷17期3351號上冊 209-210頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec781c6cccec8cfcec4cfcdcfc6c4cfcdcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "891027",
-            "立法紀錄": "89卷58期3117號上冊 120-120頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec881c7c6cac7cfcec4cfcecdcfc4cfcecdcf",
+            "會議日期": "930323",
+            "立法紀錄": "93卷17期3351號上冊 210-210頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7cec781c6cccec8cfcec4cfcdcecfc4cfcdcecf",
             "關係文書": []
         }
     ]
