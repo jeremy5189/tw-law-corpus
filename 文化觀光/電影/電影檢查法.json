@@ -1,8 +1,8 @@
 {
     "title": "電影檢查法",
     "versions": [
-        "中華民國44年12月30日修正",
-        "中華民國45年1月10日公布"
+        "中華民國45年10月23日修正",
+        "中華民國45年11月3日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,7 +18,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第二條",
-            "content": "　　電影片之檢查及取締事宜，由行政院新聞局電影檢查處負責辦理，其組織另定之。",
+            "content": "　　電影片之檢查及取締事宜，由行政院新聞局電影檢查處負責辦理。",
             "relates": {}
         },
         {
@@ -169,41 +169,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "440916",
-            "立法紀錄": "44卷16期號4冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcdc681cbcbcec9cfcbc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "450518",
+            "立法紀錄": "45卷17期號6冊 95-96頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbcacec8cfc9c4cfcfc6cac4cfcfc6c9",
+            "主提案": "張翰書",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5cdcfd2cdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcdcfcfc5cdccc9d2cdccc8"
                 ]
             ]
         },
         {
+            "進度": "一讀",
+            "會議日期": "450525",
+            "立法紀錄": "45卷17期號6冊 103-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbcacec8cfc9c4cfcecfccc4cfcecfcc",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "441230",
-            "立法紀錄": "45卷16期號10冊 102-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcdc681cbcacec9cecfc4cfcecfcdc4cfcecfca",
+            "會議日期": "451023",
+            "立法紀錄": "46卷18期號4冊 12-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbc9cec7cfcbc4cfcfcecdc4cfcfcecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcdcfcfc5cecfc7d2cecece"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5c9d2c8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "441230",
-            "立法紀錄": "45卷16期號10冊 150-151頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcdc681cbcacec9cecfc4cfcecacfc4cfcecace",
+            "會議日期": "451023",
+            "立法紀錄": "46卷18期號4冊 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbc9cec7cfcbc4cfcfcdc8c4cfcfcdc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "441230",
-            "立法紀錄": "45卷16期號10冊 151-151頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcdc681cbcacec9cecfc4cfcecacec4cfcecace",
+            "會議日期": "451023",
+            "立法紀錄": "46卷18期號4冊 27-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbc9cec7cfcbc4cfcfcdc8c4cfcfcdc7",
             "關係文書": []
         }
     ]
