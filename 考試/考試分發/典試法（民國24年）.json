@@ -1,8 +1,8 @@
 {
     "title": "典試法（民國24年）",
     "versions": [
-        "中華民國50年1月10日全文修正",
-        "中華民國50年1月20日公布"
+        "中華民國57年12月3日修正",
+        "中華民國57年12月12日公布"
     ],
     "types": [
         "立法歷程",
@@ -96,7 +96,7 @@
         {
             "note": "(考試完畢呈報考試院)",
             "rule_no": "第十五條",
-            "content": "　　典試委員會於考試完畢後，應將辦理典試情形連同關係文件，呈報考試院。\n　　考選部於考試完畢後，應將辦理試務情形連同關係文件，呈報考試院。\n　　考銓處考試院所派主辦試務人員或委託辦理試務之機關，於考試完畢後，應將辦理試務情形連同關係文件，送由考選部呈報考試院。",
+            "content": "　　典試委員會於考試完畢後，應將辦理典試情形與關係文件，送由考選部連同辦理試務情形，一併呈報考試院。",
             "relates": {}
         },
         {
@@ -127,54 +127,62 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "490517",
-            "立法紀錄": "49卷25期號10冊 73-76頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac981cbc6cdcacecfc4cfcfc8ccc4cfcfc8c9",
-            "主提案": "吳延環",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcdcfcfc5cecbc8d2cecacf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "490708",
-            "立法紀錄": "49卷25期號12冊 35-36頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac981cbc6cdcacecdc4cfcfcccac4cfcfccc9",
+            "會議日期": "570719",
+            "立法紀錄": "57卷54期號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac881cac8cbcecacbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcdcfcfc5cbc6cfd2cbc6cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcbcfcfc5cdcaccd2cdcac9"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "571030",
+            "立法紀錄": "57卷86期號 1-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac881cac8cbcdc7c9cfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "571106",
+            "立法紀錄": "57卷93期號 1-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac881cac8cbcdc6cccfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "571112",
+            "立法紀錄": "57卷93期號 6-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac881cac8cbcdc6cccfcfcfcdc4cfcfcfc9c4cfcfcfc7",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "500110",
-            "立法紀錄": "50卷26期號13冊 27-53頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac981cacfcdc9ceccc4cfcfcdc8c4cfcfcacc",
+            "會議日期": "571126",
+            "立法紀錄": "57卷88期號 4-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac881cac8cbcdc7c7cfcfcfcec4cfcfcfcbc4cfcfcecf",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc9cfcdcfcfc5cdcbcdd2cdc9c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5cbc9cdd2cbc9c6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "491230",
-            "立法紀錄": "50卷26期號12冊 91-94頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac981cacfcdc9cecdc4cfcfc6cec4cfcfc6cb",
+            "會議日期": "571126",
+            "立法紀錄": "57卷88期號 10-11頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac881cac8cbcdc7c7cfcfcfcec4cfcfcecfc4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "500110",
-            "立法紀錄": "50卷26期號13冊 73-76頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac981cacfcdc9ceccc4cfcfc8ccc4cfcfc8c9",
+            "會議日期": "571203",
+            "立法紀錄": "57卷90期號 3-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcac881cac8cbcdc6cfcfcfcfcec4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         }
     ]
