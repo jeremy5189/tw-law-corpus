@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國70年4月28日修正",
-        "中華民國70年5月2日公布"
+        "中華民國71年1月8日修正",
+        "中華民國71年1月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　立法院會議須有立法委員總額五分之一出席，始得開會",
+            "content": "　　立法院會議，須有立法委員總額七分之一出席，始得開會。",
             "relates": {}
         },
         {
@@ -179,34 +179,69 @@
         }
     ],
     "law_reasons": {
-        "第二十二條": "　　增額立法委員在其任期內自應有依憲法第六十六條規定選舉院長、副院長及被選為院長、副院長之權利，而此項院長、副院長之選舉並無不能定期舉行之原因存在，允宜修改立法院組織法，明定院長、副院長之任期為三年，建立制度，用符憲法第六十六條之旨意。"
+        "第五條": "　　我國立法院院會法定人數一七七人之規定，已與實際狀況不符。而現在立法委員之實有人數，又無從使其達到八八一人之總額，在此進退維谷之中，祇有修改現行立法院組織法第五條，將其中五分之一之出席率，減為七分之一，始為名實兼顧兩全之道。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "700428",
-            "立法紀錄": "70卷34期1415號 3-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c981c8cfc9c8cccbcfcfc4cfcfcfccc4cfcfcfc6",
-            "主提案": "張子揚",
+            "會議日期": "701208",
+            "立法紀錄": "70卷98期1479號 6-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cfc9c7c6c7cfcfc4cfcfcfc9c4cfcfceca",
+            "主提案": "仲肇湘",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "701214",
+            "立法紀錄": "71卷37期1522號 133-140頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c6ccc8cfcfc4cfceccccc4cfcecbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "701229",
+            "立法紀錄": "70卷104期1485號 21-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cfc9c7cecfcbcfcfc4cfcfcdcec4cfcfcdc6",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcbcfcfc5cbcac9d2cbcac7"
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfc8cfcfc5cac7c6d2cac6ce"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "710105",
+            "立法紀錄": "71卷2期1487號 5-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcdcfcfc4cfcfcfcac4cfcfcdcb",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "700428",
-            "立法紀錄": "70卷34期1415號 9-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c981c8cfc9c8cccbcfcfc4cfcfcfc6c4cfcfcecd",
+            "會議日期": "710105",
+            "立法紀錄": "71卷2期1487號 24-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcdcfcfc4cfcfcdcbc4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "710108",
+            "立法紀錄": "71卷3期1488號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcccfcfc4cfcfcfcac4cfcfcfca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "710108",
+            "立法紀錄": "71卷3期1488號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcccfcfc4cfcfcecbc4cfcfcecb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "700428",
-            "立法紀錄": "70卷34期1415號 12-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c981c8cfc9c8cccbcfcfc4cfcfcecdc4cfcfcecc",
+            "會議日期": "710108",
+            "立法紀錄": "71卷3期1488號 14-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c781c8cec9c7cfcccfcfc4cfcfcecbc4cfcfceca",
             "關係文書": []
         }
     ]
