@@ -1,10 +1,12 @@
 {
     "title": "中華民國六十六年度中央政府總預算施行條例",
     "versions": [
-        "中華民國72年12月12日期滿廢止"
+        "中華民國65年5月28日制定",
+        "中華民國65年6月8日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -80,5 +82,45 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "650402",
+            "立法紀錄": "65卷27期886號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfca81c9cacac8cdc8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcdcfcfc5cbccc7d2cbc7c9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "650520",
+            "立法紀錄": "65卷60期919號 2-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfca81c9cacac8c9cfcfcfc4cfcfcfcdc4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "650528",
+            "立法紀錄": "65卷43期902號 7-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfca81c9cacac8cbcccfcfcfcec4cfcfcfc8c4cfcfcac7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcbcfcfc5cbc7ccd2cacec9"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "650528",
+            "立法紀錄": "65卷43期902號 58-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfca81c9cacac8cbcccfcfcfcec4cfcfcac7c4cfcfcac7",
+            "關係文書": []
+        }
+    ]
 }
