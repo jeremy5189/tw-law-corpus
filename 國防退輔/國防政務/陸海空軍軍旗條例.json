@@ -1,8 +1,8 @@
 {
     "title": "陸海空軍軍旗條例",
     "versions": [
-        "中華民國91年6月4日修正",
-        "中華民國91年6月26日公布"
+        "中華民國92年4月29日修正",
+        "中華民國92年5月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,7 +36,7 @@
         {
             "note": "(官職旗)",
             "rule_no": "第五條",
-            "content": "　　官職旗，區分如左：\n　　一、國防部部長旗。\n　　二、國防部參謀總長旗。\n　　三、國防部陸軍總司令旗。\n　　四、國防部海軍總司令旗。\n　　五、國防部空軍總司令旗。\n　　六、國防部聯合後勤司令旗。\n　　前項第一款、第二款旗式，如附圖三。第三款至第六款旗式，由國防部定之。[附圖三：官職旗]",
+            "content": "　　官職旗，區分如左：\n　　一、國防部部長旗。\n　　二、國防部參謀總長旗。\n　　三、國防部陸軍總司令旗。\n　　四、國防部海軍總司令旗。\n　　五、國防部空軍總司令旗。\n　　六、國防部聯合後勤司令旗。\n　　七、國防部後備司令旗。\n　　前項第一款、第二款旗式，如附圖三。第三款至第七款旗式，由國防部定之。[附圖三：官職旗]",
             "relates": {}
         },
         {
@@ -77,41 +77,47 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、軍事單位涵蓋國防部及其所屬機關、部隊、學校，無須贅述，爰將原條文第一項之「為國防部及其所屬機關、部隊、學校之旗。其」文字刪除。\n　　二、配合八十九年一月二十九日修正公布之「國防部組織法」第十條規定，爰將原條文第一項酌作修正及款次調整。\n　　三、第三項文字酌作修正。",
-        "第五條": "　　一、依「國防部組織法」第六條規定，國防部設參謀本部，參謀本部置參謀總長，故「參謀總長」官職旗應予保留，並配合組織調整體例，將原條文第一項第二款所定「參謀總長旗」修正為「國防部參謀總長旗」。\n　　二、依「國防部組織法」第十條第一項規定，爰將原條文第一項各款酌作修正。\n　　三、原條文第一項之序文，配合第一項各款之修正，酌作文字修正。"
+        "第五條": "　　九十一年八月一日國防部後備司令部司令編階，由原先規劃之中將編階，修訂為上將編階，爰於第一項增訂第七款「國防部後備司令旗」為官職旗，以符實需，並配合修正第二項文字。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910507",
-            "立法紀錄": "91卷31期3227號上冊 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c881c6cecccecfcec4cfcfceccc4cfcfcecc",
+            "會議日期": "920307",
+            "立法紀錄": "92卷12期3286號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c881c6cdcecdcfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececfcfcdc5c8cbd2c7c6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcdcfcec5ceccc9d2ceccc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910527",
-            "立法紀錄": "91卷50期3246號下冊 5-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c881c6cecacfcfccc4cfcfcfcac4cfcfcecb",
+            "會議日期": "920326",
+            "立法紀錄": "92卷19期3293號三冊 241-242頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c881c6cdcec6cfccc4cfcdcbcec4cfcdcbcd",
             "關係文書": []
         },
         {
-            "進度": "三讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 321-339頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c881c6cecbcfcfcec4cfcccdcec4cfccccc6",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "920429",
+            "立法紀錄": "92卷23期3297號一冊 160-162頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c881c6cdcdcccfcec4cfcec9cfc4cfcec9cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcdc5c6cad2cececd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfc6cfcdc5cccfc9d2cccfc6"
                 ]
             ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "920429",
+            "立法紀錄": "92卷23期3297號一冊 162-162頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c881c6cdcdcccfcec4cfcec9cdc4cfcec9cd",
+            "關係文書": []
         }
     ]
 }
