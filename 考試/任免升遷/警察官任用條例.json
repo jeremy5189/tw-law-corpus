@@ -1,11 +1,12 @@
 {
     "title": "警察官任用條例",
     "versions": [
-        "中華民國34年4月14日修正",
-        "中華民國34年4月27日公布"
+        "中華民國65年1月6日廢止",
+        "中華民國65年1月17日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -79,6 +80,30 @@
             "rule_no": "第十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　為改革警政制度，以適應當前需要，故依據警察法而制定「警察人員管理條例」；因有關事項已訂有新法，故將本條例予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "640926",
+            "立法紀錄": "64卷78期832號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6ccc9cc81c9cbcac9c8c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "650106",
+            "立法紀錄": "65卷2期861號 4-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6ccc9cc81c9cacac9cfcdcfcfcfcec4cfcfcfcbc4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "650106",
+            "立法紀錄": "65卷2期861號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6ccc9cc81c9cacac9cfcdcfcfcfcec4cfcfcecec4cfcfcece",
+            "關係文書": []
         }
     ]
 }
