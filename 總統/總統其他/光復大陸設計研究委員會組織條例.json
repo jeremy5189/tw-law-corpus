@@ -1,8 +1,8 @@
 {
     "title": "光復大陸設計研究委員會組織條例",
     "versions": [
-        "中華民國45年3月30日修正",
-        "中華民國45年4月6日公布"
+        "中華民國55年1月4日修正",
+        "中華民國55年1月12日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本會置委員若干人，由總統就第一屆國民大會代表，及原任行政院設計委員會委員聘任之；均為無給職。",
+            "content": "　　本會置委員若干人，由總統就第一屆國民大會代表，及原任行政院設計委員會委員分別聘任之。但總統於必要時，亦得就其他特別有助於光復大陸工作之人士中遴聘之；均為無給職。",
             "relates": {}
         },
         {
@@ -91,41 +91,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "450221",
-            "立法紀錄": "45卷17期號1冊 55-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6ccc881cbcacec8cfcec4cfcfcacac4cfcfcaca",
+            "會議日期": "540716",
+            "立法紀錄": "54卷35期號16冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6ccc781cacbcccacec9cfcfc4cfcfcfc8c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcecfcfc5cdc8c7d2cdc8c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcacfcfc5cccbcdd2cccbcc"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "450420",
-            "立法紀錄": "45卷17期號4冊 6-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6ccc881cbcacec8cfcbc4cfcfcfc9c4cfcfcfc7",
+            "會議日期": "541230",
+            "立法紀錄": "54卷36期號8冊 19-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6ccc781cacaccc9cfc7cfcfc4cfcfcec6c4cfcfcdce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcecfcfc5c8c9ced2c8c9cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc9cfcdcfcfc5cbcbcbd2cbcbc8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "450330",
-            "立法紀錄": "45卷17期號4冊 31-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6ccc881cbcacec8cfcbc4cfcfcccec4cfcfcccb",
+            "會議日期": "550104",
+            "立法紀錄": "54卷36期號8冊 49-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6ccc781cacaccc9cfc7cfcfc4cfcfcbc6c4cfcfcacf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "450330",
-            "立法紀錄": "45卷17期號4冊 34-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6ccc881cbcacec8cfcbc4cfcfcccbc4cfcfcccb",
+            "會議日期": "550401",
+            "立法紀錄": "54卷36期號8冊 50-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6ccc781cacaccc9cfc7cfcfc4cfcfcacfc4cfcfcace",
             "關係文書": []
         }
     ]
