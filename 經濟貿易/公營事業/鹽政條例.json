@@ -1,11 +1,11 @@
 {
     "title": "鹽政條例",
     "versions": [
-        "中華民國70年11月6日修正",
-        "中華民國70年11月16日公布"
+        "中華民國93年1月9日廢止",
+        "中華民國93年1月20日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -180,65 +180,44 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　配合鹽政劃歸經濟部主管，修正有關文字。",
-        "第六條": "　　本條係將現行第六條所定「財政部」修正為「經濟部」。",
-        "第七條": "　　本條係將現行第七條所定「財政部」修正為「經濟部」。",
-        "第八條": "　　本條係將現行第八條所定「財政部」修正為「經濟部」。",
-        "第二十四條": "　　本條係將現行第二十四條所定「財政部」修正為「經濟部」。"
-    },
+    "deprecated_reason": "　　「鹽政條例」係於民國36年3月12日所制定，並於70年11月16日修正施行迄今，由於時空環境變遷，本條例之規定，如各類鹽品售價需由鹽政機關訂定、非經許可不得由國外輸入或對外輸出鹽、須經鹽政機關發給單照始得運銷等規定，均已不合時宜；且為因應經濟自由化、國際化政策，以及配合我國加入世界貿易組織之需要，開放鹽品進出口為必然之趨勢。同時我已對世界貿易組織會員國承諾於台鹽實業有限公司民營化時，開放國內鹽品市場。茲台鹽公司已於92年11月14日完成民營化，爰予廢止「鹽政條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "700626",
-            "立法紀錄": "70卷51期1432號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c8cacecfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "921219",
+            "立法紀錄": "92卷60期3334號一冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcc81c6cdc9cfcfcec4cfcfcfc6c4cfcfcfc6",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc8cfcfc5cec9d2cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecacfcdc5cac8c8d2cac7cd"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "700626",
-            "立法紀錄": "70卷51期1432號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c8cacecfcfc4cfcfcfcbc4cfcfcfca",
-            "關係文書": []
-        },
-        {
             "進度": "委員會審查",
-            "會議日期": "701022",
-            "立法紀錄": "70卷102期1483號 114-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c7cecfcdcfcfc4cfcececbc4cfcecec8",
+            "會議日期": "921229",
+            "立法紀錄": "93卷5期3339號 390-391頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcc81c6cccfcacfcfc4cfccc6cfc4cfccc6ce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "701106",
-            "立法紀錄": "70卷89期1470號 5-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c7c7c6cfcfc4cfcfcfcac4cfcfcfc7",
+            "會議日期": "930109",
+            "立法紀錄": "93卷6期3340號一冊 211-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcc81c6cccfc9cfcec4cfcdcecec4cfcdceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcacfcfc5cecec8d2cecec6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec8cfcec5cbc8c8d2cbc7cb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701106",
-            "立法紀錄": "70卷89期1470號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c7c7c6cfcfc4cfcfcfc7c4cfcfcfc7",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "701106",
-            "立法紀錄": "70卷89期1470號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c7c7c6cfcfc4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "930109",
+            "立法紀錄": "93卷6期3340號一冊 215-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcc81c6cccfc9cfcec4cfcdcecac4cfcdceca",
             "關係文書": []
         }
     ]
