@@ -1,11 +1,12 @@
 {
     "title": "證券交易稅條例",
     "versions": [
-        "中華民國54年6月8日制定",
-        "中華民國54年6月19日公布"
+        "中華民國67年11月17日修正",
+        "中華民國67年11月27日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -17,7 +18,7 @@
         {
             "note": "(課徵稅率)",
             "rule_no": "第二條",
-            "content": "　　證券交易稅按每次買賣證券成交價格課徵千分之一點五。",
+            "content": "　　證券交易稅，按每次買賣證券成交價格課徵千分之三。",
             "relates": {}
         },
         {
@@ -103,6 +104,57 @@
             "rule_no": "第十六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第二條": "　　本條所定證券交易稅稅率千分之一點五，僅為日本證券交易稅稅率之半，與當前買進賣出之一般差價相交衡，顯已偏低，易於導致投機買賣。茲為抑制證券市場之投機活動，爰將證券交易稅稅率提高為千分之三，以促進資本市場之正常發展。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "671020",
+            "立法紀錄": "67卷84期1152號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cec8c7c881c9c8c9cdc7cbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cacacbd2cacac8"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671109",
+            "立法紀錄": "68卷7期1179號 39-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cec8c7c881c9c7c9cdcfc8cfcfc4cfcfccc6c4cfcfcbca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "671114",
+            "立法紀錄": "67卷91期1159號 3-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cec8c7c881c9c8c9cdc6cecfcfc4cfcfcfccc4cfcfcece",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cec6ced2cec6cc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "671114",
+            "立法紀錄": "67卷91期1159號 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cec8c7c881c9c8c9cdc6cecfcfc4cfcfcecec4cfcfcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "671117",
+            "立法紀錄": "67卷92期1160號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cec8c7c881c9c8c9cdc6cdcfcfc4cfcfcfcbc4cfcfcfcb",
+            "關係文書": []
         }
     ]
 }
