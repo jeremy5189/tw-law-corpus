@@ -1,12 +1,12 @@
 {
     "title": "防空疏散建築用地徵用領用條例",
     "versions": [
-        "中華民國44年12月16日制定",
-        "中華民國44年12月29日公布"
+        "中華民國72年4月8日廢止",
+        "中華民國72年4月15日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -208,44 +208,32 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本法自四十四年公布施行迄今，未發揮其積極作用；近二十年來，由於社會實際環境變遷，加以目前大部分土地已依都市計畫法、區域計畫法及土地法之規定辦理編定使用並實施管制，難以再依該條例之規定辦理徵用領用，故加以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "440916",
-            "立法紀錄": "44卷16期號4冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cbcaca81cbcbcec9cfcbc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "710702",
+            "立法紀錄": "71卷53期1538號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cbcac881c8cec9c6cacccfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5cecfccd2cecdcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfc7cfcfc5cecdcfcdd2cecdcfc6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "441216",
-            "立法紀錄": "45卷16期號9冊 77-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cbcaca81cbcacec9cfc6c4cfcfc8c8c4cfcecfcd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcdcfcfc5cac9c8d2cac7cd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "441216",
-            "立法紀錄": "45卷16期號9冊 180-187頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cbcaca81cbcacec9cfc6c4cfcec7cfc4cfcec7c8",
+            "進度": "委員會審查",
+            "會議日期": "720112",
+            "立法紀錄": "72卷31期1620號 83-83頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cbcac881c8cdc8cecccecfcfc4cfcfc7ccc4cfcfc7cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "441216",
-            "立法紀錄": "45卷16期號9冊 187-192頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cbcaca81cbcacec9cfc6c4cfcec7c8c4cfcec6cd",
+            "會議日期": "720408",
+            "立法紀錄": "72卷29期1618號 6-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cbcac881c8cdc8cecdc6cfcfc4cfcfcfc9c4cfcfcfc7",
             "關係文書": []
         }
     ]
