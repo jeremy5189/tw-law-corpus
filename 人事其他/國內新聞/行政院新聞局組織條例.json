@@ -1,8 +1,8 @@
 {
     "title": "行政院新聞局組織條例",
     "versions": [
-        "中華民國44年12月20日全文修正",
-        "中華民國44年12月30日公布"
+        "中華民國47年7月1日修正",
+        "中華民國47年7月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -54,25 +54,25 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　新聞局置處長三人，簡任；秘書三人或四人，其中一人簡任，餘薦任；編審四人至六人，其中二人簡任，餘薦任；專門委員二人至四人，簡派；專員四人至六人，薦任；編輯四人至六人，其中二人薦任，餘委任；辦事員十一人至十三人，委任。",
+            "content": "　　新聞局置處長三人，簡任，秘書三人或五人，其中一人簡任，餘薦任，編審五人至七人，其中二人簡任，餘薦任，專門委員二人至四人，簡派，科長五人至七人，薦任，編輯五人至七人，其中三人薦任，餘委任，科員及辦事員十四人至十六人，委任。\n　　新聞局各處得分科辦事。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　新聞局置主計主任一人，薦任，助理員二人委任，依法辦理主計事務。",
+            "content": "　　新聞局設會計室置主任一人，薦任，科員二人，委任，依法辦理歲計會計事務，並兼辦統計事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　新聞局置人事管理員一人，委任，依法辦理人事管理事務。",
+            "content": "　　新聞局設人事室置主任一人，薦任，助理員一人，委任，依法辦理人事管理事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　新聞局得聘用顧問及技術人員若干人，其中二人至四人得支薪給。",
+            "content": "　　新聞局得聘用顧問及技術人員若干人，其中五人至七人得支薪給。",
             "relates": {}
         },
         {
@@ -84,7 +84,7 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　新聞局應事實需要，得於國內外適當地點設置辦事機構。\n　　前項機構之設置與組織，由行政院定之。",
+            "content": "　　新聞局應事實需要，得於國內外適當地點設置辦事機構，其組織通則另定之。",
             "relates": {}
         },
         {
@@ -103,48 +103,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "440405",
-            "立法紀錄": "44卷15期號1冊 78-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c881cbcbcecacfcec4cfcfc8c7c4cfcfc8c7",
+            "會議日期": "461029",
+            "立法紀錄": "46卷20期號3冊 101-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c781cbc9cdcfcfccc4cfcecfcec4cfcecfce",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececacfcdcfcfc5cbcfd2cbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcdcfcfc5cac7d2c9ce"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "441220",
-            "立法紀錄": "45卷16期號9冊 117-120頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c881cbcacec9cfc6c4cfcecec8c4cfcecdcf",
+            "會議日期": "470701",
+            "立法紀錄": "47卷21期號17冊 4-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c781cbc8cdcecec8c4cfcfcfcbc4cfcfcfc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5c8cec6d2c8cdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5c8ccd2c8c8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "441220",
-            "立法紀錄": "45卷16期號9冊 204-205頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c881cbcacec9cfc6c4cfcdcfcbc4cfcdcfca",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "441220",
-            "立法紀錄": "45卷16期號9冊 205-216頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c881cbcacec9cfc6c4cfcdcfcac4cfcdcec9",
+            "會議日期": "470701",
+            "立法紀錄": "47卷21期號17冊 36-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c781cbc8cdcecec8c4cfcfccc9c4cfcfccc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "441220",
-            "立法紀錄": "45卷16期號9冊 216-216頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c881cbcacec9cfc6c4cfcdcec9c4cfcdcec9",
+            "會議日期": "470701",
+            "立法紀錄": "47卷21期號17冊 38-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c781cbc8cdcecec8c4cfcfccc7c4cfcfccc7",
             "關係文書": []
         }
     ]
