@@ -1,11 +1,12 @@
 {
     "title": "主計人員任用條例",
     "versions": [
-        "中華民國32年11月30日全文修正",
-        "中華民國32年12月22日公布"
+        "中華民國70年12月15日廢止",
+        "中華民國70年12月28日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -127,6 +128,28 @@
             "rule_no": "第二十條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　現行「主計人員任用條例」、「行政部主計處設置各機關歲計、會計、統計人員條例」及「地方政府暨所屬機關主計機構及人員設置條例」，均施行已久，與現實情況未盡適合，經參酹實際情況及客觀需要，而合併修訂為「各級主計機構設置及主計人員管理條例」，同時將此三法予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "700403",
+            "立法紀錄": "70卷27期1408號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8c9c981c8cfc9c8cdc8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5cdc6c9d2cccdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "701215",
+            "立法紀錄": "70卷100期1481號 4-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8c9c981c8cfc9c7cecfcfcfcfc4cfcfcfcbc4cfcfcecc",
+            "關係文書": []
         }
     ]
 }
