@@ -1,8 +1,8 @@
 {
     "title": "民事訴訟法施行法",
     "versions": [
-        "中華民國88年1月15日修正",
-        "中華民國88年2月3日公布"
+        "中華民國92年1月14日修正",
+        "中華民國92年2月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　郵政機關送達訴訟文書實施辦法，由司法行政最高機關會同交通行政最高機關訂定之。",
+            "content": "　　郵務機構送達訴訟文書實施辦法，由司法院會同行政院訂定之。",
             "relates": {}
         },
         {
@@ -37,6 +37,18 @@
             "note": "",
             "rule_no": "第四條 之一",
             "content": "　　民事訴訟法簡易訴訟及小額訴訟程序修正施行後，於修正前已繫屬之事件，其法院管轄權及審理程序依下列之規定：\n　　一、地方法院未為終局裁判者，依新法。\n　　二、地方法院已為終局裁判者，依舊法。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第四條 之二",
+            "content": "　　修正之民事訴訟法第四百四十七條之規定，依本施行法第十二條第二項公告施行後，於修正前已繫屬於第二審之事件，於該審級終結前，仍適用修正前之規定。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第四條 之三",
+            "content": "　　修正之民事訴訟法第四百六十九條之一及第四百七十條之規定，依本施行法第十二條第二項公告施行後，於修正前已經第二審法院判決之事件，仍適用修正前之規定。",
             "relates": {}
         },
         {
@@ -78,7 +90,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　關於民事訴訟法第一百六十二條所稱法院所在地之範圍，由司法行政最高機關斟酌實際情形訂定之。",
+            "content": "　　關於民事訴訟法第一百六十二條所稱法院所在地之範圍，由司法院斟酌實際情形訂定之。",
             "relates": {}
         },
         {
@@ -90,66 +102,117 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　本法自修正民事訴訟法施行之日施行。",
+            "content": "　　本法自修正民事訴訟法施行之日施行。\n　　中華民國九十二年一月十四日修正之民事訴訟法，其施行日期，由司法院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第四條 之一": "　　一、明定小額訴訟程序公布施行後，其原已繫屬之此類案件適用新法或舊法之基準日，與簡易訴訟程序相同。\n　　二、本條所稱「新法」，係指簡易訴訟程序修正後之法律，所稱「舊法」係指前述訴訟程序修正前之法律。",
-        "第七條 之一": "　　一、本條係新增。\n　　二、為期同一法典用語之一致，爰增訂本條，將民事訴訟法其餘各編、章所規定之推事，一律改稱為法官。"
+        "第三條": "　　配合民事訴訟法第一百二十四條之修正，將「郵政機關」修正為「郵務機構」。又「司法行政最高機關」，現即為司法院爰將之修正為「司法院」。另訴訟文書之送達，刑事訴訟法、行政訴訟法及訴願法皆有準用民事訴訟法之規定，因此原規定會同「交通行政最高機關」訂定已不合時宜，併將之修正為「行政院」。",
+        "第四條 之二": "　　一、本條新增。\n　　二、依修正後民事訴訟法第四百四十七條規定，原則上當事人不得提出新攻擊或防禦方法，影響當事人權益甚鉅，爰增訂於該條修正前已繫屬於第二審之事件，在該審級終結前，仍適用修正前之規定，以保障其權益。",
+        "第四條 之三": "　　一、本條新增。\n　　二、依修正後民事訴訟法第四百六十九條之一及第四百七十條規定，第三審已修正為嚴格法律審，並採上訴許可制度，影響當事人權益至鉅，爰增訂於該條文修正前，已經第二審法院判決之事件，仍適用修正前之規定，以維護其權益。",
+        "第十條": "　　「司法行政最高機關」，現即為司法院爰將之修正為「司法院」。",
+        "第十二條": "　　此次民事訴訟法修正幅度甚大，並牽涉當事人於第二審法院不得提出新攻擊防禦方法、第三審律師代理採認許制度，並採上訴許可制度，第三審法院原則上亦須進行言詞辯論程序，及配合司法院最高審判機關化，最高法院將予以裁併等情事，爰增訂第二項，授權由司法院斟酌時宜訂定本次修正之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "860509",
-            "立法紀錄": "86卷24期2916號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c9cdcbcfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "911011",
+            "立法紀錄": "91卷59期3255號 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cecac6cfcfc4cfcfcfcac4cfcfcfc9",
             "主提案": "司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecacfcfc5cec7ccd2cccbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcbcfcec5cdc9c7d2cbc9c9"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "861201",
-            "立法紀錄": "86卷51期2943號下冊 119-160頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c9cacecfccc4cfcecec6c4cfcec9cf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "861208",
-            "立法紀錄": "86卷53期2949號下冊 391-421頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c9cacccfccc4cfccc6cec4cfcbcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "861218",
-            "立法紀錄": "86卷57期2949號下冊 175-201頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c9cac8cfccc4cfcec8cac4cfcdcfce",
+            "進度": "一讀",
+            "會議日期": "911018",
+            "立法紀錄": "91卷61期3257號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cec9cecfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "尤清",
             "關係文書": [
                 [
-                    "",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cecfcfcdc5cdc9d2cecac9"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcececfcdc5cbcfccd2cbceca"
                 ]
             ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911106",
+            "立法紀錄": "91卷75期3271號五冊 3-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cec8cacfcac4cfcfcfccc4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911107",
+            "立法紀錄": "91卷75期3271號五冊 27-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cec8cacfcac4cfcfcdc8c4cfcfcccd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911127",
+            "立法紀錄": "92卷1期3275號三冊 17-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cdcfcecfccc4cfcfcec8c4cfcfc9c6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911211",
+            "立法紀錄": "92卷2期3276號下冊 265-321頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cdcfcdcfccc4cfcdc9cac4cfcccdce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911212",
+            "立法紀錄": "92卷3期3277號四冊 45-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cdcfcccfcbc4cfcfcbcac4cfcfc8cb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911226",
+            "立法紀錄": "92卷7期3281號上冊 173-188頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cdcfc8cfcec4cfcec8ccc4cfcec7c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "920114",
+            "立法紀錄": "92卷8期3282號四冊 1100-1116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cdcfc7cfcbc4cececfcfc4cececec9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfc7c5ced2ccc9c7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "920114",
+            "立法紀錄": "92卷8期3282號四冊 1451-1468頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cdcfc7cfcbc4cecbcacec4cecbc9c7",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "880115",
-            "立法紀錄": "88卷6期3006號二冊 635-794頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c7cfc9cfcdc4cfc9cccac4cfc8c6cb",
+            "會議日期": "920114",
+            "立法紀錄": "92卷8期3282號四冊 1516-1516頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cdcfc7cfcbc4cecacec9c4cecacec9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "880115",
-            "立法紀錄": "88卷6期3006號二冊 794-794頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c7cfc9cfcdc4cfc8c6cbc4cfc8c6cb",
+            "會議日期": "920114",
+            "立法紀錄": "92卷8期3282號四冊 1521-1522頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8ccce81c6cdcfc7cfcbc4cecacdcec4cecacdcd",
             "關係文書": []
         }
     ]
