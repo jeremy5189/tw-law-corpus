@@ -1,12 +1,12 @@
 {
     "title": "中華民國六十三年度公債發行條例",
     "versions": [
-        "中華民國62年5月18日制定",
-        "中華民國62年5月26日公布"
+        "中華民國63年1月19日修正",
+        "中華民國63年1月25日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -36,7 +36,7 @@
         {
             "note": "(債票利息)",
             "rule_no": "第五條",
-            "content": "　　本公債各期債票利息，由行政院定之。但利率不得超過年息百分之十一；各期公債自發行之日起，每六個月付息一次。",
+            "content": "　　本公債各期債票利息，由行政院定之。但調整時，不得低於發行時利率。各期公債自發行之日起，每六個月付息一次。",
             "relates": {}
         },
         {
@@ -88,51 +88,28 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第五條": "　　為因應目前需要，對政府已發行未到期之公債，如因銀行利率變動須作必要調整時，授權行政院對公債利率及其發行條件作必要之調整，爰予修正之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "620403",
-            "立法紀錄": "62卷24期580號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c981c9cdcacecdcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "630118",
+            "立法紀錄": "63卷6期662號 89-90頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c881c9cccacdcfc9cfcfc4cfcfc7c6c4cfcfc6cf",
+            "主提案": "吳延環",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcbcfcfc5cbcbd2cbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcacfcfc5cecccfd2cecccc"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620419",
-            "立法紀錄": "62卷39期595號 1-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c981c9cdcaceccc6cfcfcfcdc4cfcfcfcec4cfcfcfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "620515",
-            "立法紀錄": "62卷36期592號 25-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c981c9cdcaceccc9cfcfcfcec4cfcfcdcac4cfcfcdc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcacfcfc5c7cdd2c7c9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "620515",
-            "立法紀錄": "62卷36期592號 29-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c981c9cdcaceccc9cfcfcfcec4cfcfcdc6c4cfcfcccf",
-            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "620518",
-            "立法紀錄": "62卷37期593號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c981c9cdcaceccc8cfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "630119",
+            "立法紀錄": "63卷6期662號 111-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6c881c9cccacdcfc9cfcfc4cfcececec4cfcececd",
             "關係文書": []
         }
     ]
