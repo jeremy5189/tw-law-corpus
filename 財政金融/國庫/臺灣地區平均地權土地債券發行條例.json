@@ -1,8 +1,8 @@
 {
     "title": "臺灣地區平均地權土地債券發行條例",
     "versions": [
-        "中華民國58年1月28日全文修正",
-        "中華民國58年2月7日公布"
+        "中華民國67年1月13日全文修正",
+        "中華民國67年1月23日公布"
     ],
     "types": [
         "立法歷程",
@@ -10,75 +10,75 @@
     ],
     "law_data": [
         {
-            "note": "(立法依據)",
+            "note": "(立法目的)",
             "rule_no": "第一條",
-            "content": "　　中央政府為在臺灣地區實施都市平均地權，授權臺灣省政府及臺北市政府，依本條例之規定，發行各該省、市實施都市平均地權土地債券（以下簡稱本債券）。\n　　本債券專作依照實施都市平均地權條例施行照價收買、區段徵收及超額土地徵收時，補償土地或建築改良物價款之用。",
+            "content": "　　中央政府為在臺灣地區實施平均地權，授權臺灣省政府及臺北市政府依本條例之規定，發行各該省、市平均地權土地債券（以下簡稱本債券）。",
             "relates": {}
         },
         {
-            "note": "(償付價款之規定)",
+            "note": "(專作補償地價用)",
             "rule_no": "第二條",
-            "content": "　　本債券於償付價款時，依實施都市平均地權條例第五條之規定，按成搭發。",
+            "content": "　　本債券專作依照平均地權條例實施照價收買、區段徵收時，補償土地價款之用。\n　　本債券於償付前項土地價款時，依平均地權條例第六條之規定，按成搭發。",
             "relates": {}
         },
         {
-            "note": "(委託發行之規定)",
+            "note": "(委託發行)",
             "rule_no": "第三條",
-            "content": "　　本債券之發行及還本付息事務，由發行之省、市政府委託臺灣土地銀行辦理。",
+            "content": "　　本債券之發行及還本付息事務，由發行之省（市）政府委託臺灣土地銀行或臺北市銀行辦理。",
             "relates": {}
         },
         {
-            "note": "(發行之規定)",
+            "note": "(發行數額日期、債券面額之核定)",
             "rule_no": "第四條",
-            "content": "　　本債券每年發行一次，其發行數額、日期、債券面額及利率，由發行之省、市政府報請行政院核定之。",
+            "content": "　　本債券發行數額、日期、債券面額及利率，由發行之省（市）政府報請行政院核定之。",
             "relates": {}
         },
         {
-            "note": "(擔保之規定)",
+            "note": "(債券之保證)",
             "rule_no": "第五條",
-            "content": "　　本債券以左列各款收入為擔保，並由省、市庫保證之：\n　　一、依照實施都市平均地權條例，施行照價收買、區段徵收及超額土地徵收之土地及建築改良物，出租後之租金及違約金收入。\n　　二、依照實施都市平均地權條例，施行照價收買、區段徵收及超額土地徵收之土地及建築改良物，出售後之價款收入。\n　　前項各款收入，應設置臺灣省或臺北市實施都市平均地權土地債券還本付息保證基金，專戶存儲臺灣土地銀行，以備到期還本付息；如有不足，由發行之省、市政府指撥專款墊付之。",
+            "content": "　　本債券由省（市）庫保證，並以省（市）平均地權基金為還本付息之財源。",
             "relates": {}
         },
         {
-            "note": "(償還之規定)",
+            "note": "(縣市辦理照價收買、區段徵收土地債券之撥用)",
             "rule_no": "第六條",
-            "content": "　　臺灣省各縣（市），辦理照價收買、區段徵收及超額土地徵收，由省撥借土地債券，分年歸還；其償還辦法及財源，由省政府定之。",
+            "content": "　　臺灣省各縣（市）辦理照價收買、區段徵收，由省撥借土地債券，分年歸還；其償還暨收支管理辦法由省政府定之。",
             "relates": {}
         },
         {
-            "note": "(掛失止付之規定)",
+            "note": "(無記名式債券之兌付)",
             "rule_no": "第七條",
-            "content": "　　本債券採無記名式，憑券兌付，其遺失被盜或滅失者，不得掛失止付，並不適用民法第七百二十條第一項但書、第七百二十五條及第七百二十七條之規定。",
+            "content": "　　本債券採無記名式，憑券兌付，其遺失、被盜或滅失者，不得掛失止付，並不適用民法第七百二十條第一項但書、第七百二十五條及第七百二十七條之規定。",
             "relates": {}
         },
         {
-            "note": "(償還本息合計之規定)",
+            "note": "(債券之償還)",
             "rule_no": "第八條",
-            "content": "　　本債券之償還，依本息合計均等攤還法，自發行之日起，每屆滿一年，攤還本息一次，分五年償清；其還本付息表應由發行之省、市政府按年公告之。",
+            "content": "　　本債券之償還，依本息合計均等攤還法，自發行之日起，每屆滿一年，攤還本息一次，分五年償清；其還本付息表應由發行之省（市）政府按年公告之。",
             "relates": {}
         },
         {
-            "note": "(轉讓買賣之規定)",
+            "note": "(債券之利用)",
             "rule_no": "第九條",
             "content": "　　本債券得轉讓、買賣，及充司法上、稅務上與其他公務上之保證。",
             "relates": {}
         },
         {
-            "note": "(抵繳租金之規定)",
+            "note": "(本息券之抵繳租金)",
             "rule_no": "第十條",
-            "content": "　　本債券當年本息券，得十足用以承購當年出售之照價收買、區段徵收及超額土地徵收之土地，並得抵繳承租上列土地當年之租金。",
+            "content": "　　本債券當年本息券持有人，得十足用以承購當年政府出售之照價收買、區段徵收之土地，並得抵繳承租上列土地當年之租金。",
             "relates": {}
         },
         {
-            "note": "(免稅之規定)",
+            "note": "(免稅)",
             "rule_no": "第十一條",
-            "content": "　　本債券免予課徵印花稅及所得稅。",
+            "content": "　　本債券免徵印花稅及所得稅。",
             "relates": {}
         },
         {
-            "note": "(懲治之規定)",
+            "note": "(兌付期限)",
             "rule_no": "第十二條",
-            "content": "　　對於本債券如有偽造或變造之行為者，依法懲治。",
+            "content": "　　本債券自最後一次還本付息開付日所屬會計年度終了後，屆滿五年仍未請領者，不再兌付。",
             "relates": {}
         },
         {
@@ -91,50 +91,55 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "571119",
-            "立法紀錄": "57卷86期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacaceca81cac8cbcdc7c9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "661125",
+            "立法紀錄": "66卷95期1058號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c9c9cfc6cacfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5cec9cbd2cec8cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcdcfcfc5c9c9ced2c9c9c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "571121",
-            "立法紀錄": "58卷16期號 15-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacaceca81cac7cbcccec9cfcfcfcdc4cfcfcecac4cfcfcdcf",
+            "會議日期": "661222",
+            "立法紀錄": "67卷10期1078號 2-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcecfcfcfc4cfcfcfcdc4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580104",
-            "立法紀錄": "58卷17期號 19-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacaceca81cac7cbcccec8cfcfcfcdc4cfcfcec6c4cfcfcdcd",
+            "會議日期": "661229",
+            "立法紀錄": "67卷14期1082號 2-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcecbcfcfc4cfcfcfcdc4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "580121",
-            "立法紀錄": "58卷7期號 2-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacaceca81cac7cbcdcfc8cfcfcfcec4cfcfcfcdc4cfcfcecc",
-            "關係文書": []
+            "會議日期": "670110",
+            "立法紀錄": "67卷3期1071號 19-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcfcccfcfc4cfcfcec6c4cfcfcdc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5cac6cbd2c9cfcf"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "580121",
-            "立法紀錄": "58卷7期號 13-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacaceca81cac7cbcdcfc8cfcfcfcec4cfcfceccc4cfcfceca",
+            "會議日期": "670110",
+            "立法紀錄": "67卷3期1071號 29-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcfcccfcfc4cfcfcdc6c4cfcfcccd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "580128",
-            "立法紀錄": "58卷9期號 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacaceca81cac7cbcdcfc6cfcfcfcec4cfcfcfcac4cfcfcfc9",
+            "會議日期": "670113",
+            "立法紀錄": "67卷4期1072號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcfcbcfcfc4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         }
     ]
