@@ -1,12 +1,11 @@
 {
     "title": "中學法",
     "versions": [
-        "中華民國68年4月20日廢止",
-        "中華民國68年5月2日公布"
+        "中華民國21年11月12日制定",
+        "中華民國21年12月24日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -92,28 +91,6 @@
             "rule_no": "第十四條",
             "content": "　　本法自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　教育部以我國之中學原包括高級中學、初級中學及高、初級合設之中學，自五十七年實施九年國民教育以後，初級中學改為國民中學，納入國民教育範圍，而高級中學則單獨設立，其目標、教育內容及實施方法與前不盡相同，現行「中學法」自不能完全適用，爰依教育趨勢，制定「高級中學法」，並將「中學法」予以廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "671103",
-            "立法紀錄": "67卷88期1156號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcfc881c9c8c9cdc7c7cfcfc4cfcfcfcbc4cfcfcfcb",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5c9cbccd2c9cac9"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "680420",
-            "立法紀錄": "68卷32期1204號 4-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcfc881c9c7c9cccccdcfcfc4cfcfcfcbc4cfcfcfc8",
-            "關係文書": []
         }
     ]
 }
