@@ -1,12 +1,12 @@
 {
     "title": "軍人保險條例",
     "versions": [
-        "中華民國59年1月30日全文修正",
-        "中華民國59年2月12日公布"
+        "中華民國93年12月24日修正",
+        "中華民國94年1月12日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -78,7 +78,7 @@
         {
             "note": "(保險費率)",
             "rule_no": "第十條",
-            "content": "　　保險費率，以被保險人保險基數金額為計算標準，按月百分之三至百分之八繳納；軍官應繳保險費，由國庫補助百分之五十至百分之七十，士官、士兵應繳保險費，由國庫全數負擔；其由國庫補助或負擔之保險費，按實際需要，列入年度預算。\n　　前項保險基數金額，由行政院定之。",
+            "content": "　　本保險之保險費率，為被保險人每月保險基數金額百分之三至百分之八。\n　　前項費率，由國防部聘請精算師或委託精算機構定期精算，並評估保險實際收支情形及精算結果，報請行政院覈實釐定；費率調整時，亦同。\n　　第一項所稱每月保險基數金額，依被保險人月支薪俸為準。\n　　義務役軍官、士官每月保險基數金額，比照志願役軍官、士官同階一級辦理；士兵、軍事學校軍費學生每月保險基數金額，比照志願役下士一級辦理。\n　　本保險之保險費，按月繳付，由被保險人自付百分之三十五，政府補助百分之六十五。但義務役士官、士兵之保險費，全額由政府負擔。\n　　前項由政府補助或負擔之保險費，由被保險人所屬機關分別編列預算，逐月撥付承保機構。",
             "relates": {}
         },
         {
@@ -180,53 +180,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十條": "　　一、保險費率之釐定程式，原條文並無明文，增訂釐定程式，將原條文第一項分列為二項，修正條文第一項規定軍人保險之保險費率，第二項規定保險費率釐定及調整程式。\n　　二、原保險基數金額，係依軍人保險條例施行細則第十二條規定，由國防部報請行政院核定實施。是項規定業已涉及被保險人之權利義務，為符法制，提昇至本條例規範，爰明定於修正條文第三項。並於修正條文第四項明定保險基金數額之內涵。\n    三、另考量現行志願役士官之待遇業大幅提昇，爰於修正條文第五項明定除義務役士官及士兵之保險費全額由政府負擔外，其餘之被保險人均應自行負擔保險費之百分之三十五。\n    四、保險費為人事費之一部，為落實單位預算中之人薪合一制度，爰將軍人保險條例施行細則第十四條前段之規定，提昇至修正條文第六項規定，並修正為國庫補助或負擔之保險費，由現役軍人所屬機關編列預算支付。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "581205",
-            "立法紀錄": "58卷89期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c7c881cac7cbcbc7c6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "930507",
+            "立法紀錄": "93卷26期3360號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c8c7c681c6cccdc9cfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cac7ced2cac6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacececfcdc5ceccc7d2cecbcd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "590120",
-            "立法紀錄": "59卷5期0號 11-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c7c881cac6cbcbcfcacfcfcfcec4cfcfcecec4cfcfccc9",
+            "進度": "委員會審查",
+            "會議日期": "931014",
+            "立法紀錄": "93卷44期3378號下冊 355-364頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c8c7c681c6cccbcbcfccc4cfcccacac4cfccc9cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "590127",
-            "立法紀錄": "59卷7期0號 11-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c7c881cac6cbcbcfc8cfcfcfcec4cfcfcecec4cfcfcecd",
-            "關係文書": []
+            "會議日期": "931224",
+            "立法紀錄": "94卷1期3383號上冊 22-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c8c7c681c6cbcfcecfcec4cfcfcdcdc4cfcfcdc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cfc6cfcdc5ccd2c6"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "590127",
-            "立法紀錄": "59卷7期0號 12-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c7c881cac6cbcbcfc8cfcfcfcec4cfcfcecdc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "590130",
-            "立法紀錄": "59卷8期0號 3-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c7c881cac6cbcbcfc7cfcfcfcec4cfcfcfccc4cfcfcec9",
+            "會議日期": "931224",
+            "立法紀錄": "94卷1期3383號上冊 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c8c7c681c6cbcfcecfcec4cfcfcdc9c4cfcfcdc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "590130",
-            "立法紀錄": "59卷8期0號 16-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8c8c7c881cac6cbcbcfc7cfcfcfcec4cfcfcec9c4cfcfcdcd",
+            "會議日期": "931224",
+            "立法紀錄": "94卷1期3383號上冊 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c8c7c681c6cbcfcecfcec4cfcfcdc8c4cfcfcdc8",
             "關係文書": []
         }
     ]
