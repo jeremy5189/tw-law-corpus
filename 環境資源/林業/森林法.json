@@ -1,11 +1,12 @@
 {
     "title": "森林法",
     "versions": [
-        "中華民國34年1月17日全文修正",
-        "中華民國34年2月6日公布"
+        "中華民國61年5月12日修正",
+        "中華民國61年5月27日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -331,7 +332,7 @@
         {
             "note": "(竊取森林主副產物之處罰)",
             "rule_no": "第四十九條",
-            "content": "　　竊取森林主副產物，收受搬運寄藏，故買贓物，或為牙保者，依刑法之規定處斷。",
+            "content": "　　竊取森林主副產物，收受、搬運、寄藏、故買贓物或為牙保者，依刑法之規定處斷。\n　　於他人森林內擅自墾植或設置工作物者，處六月以上五年以下有期徒刑，得併科五千元以下罰金。\n　　前項之罪於保安林犯之者，得加重其刑至二分之一。\n　　前二項之未遂犯罰之。\n　　犯本條之罪者，其墾植物及工作物沒收之。",
             "relates": {}
         },
         {
@@ -385,6 +386,71 @@
             "rule_no": "第五十七條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第四十九條": "　　鑒於近年來臺灣濫墾林地之風甚熾，影響國土保安及水土保持，而現行森林法對濫墾林地又缺乏適當之處罰，為求有效防止林地濫墾，藉以保土減災及維護國家資源，修正森林法第四十九條條文，洵屬必要。爰於原條文「竊取森林主副產物收受搬運、寄藏、故買贓物或為牙保者，依刑法之規定處斷。」之後增列第二項：「於他人森林內擅自墾植或設置工作物者，處六個月以上五年以下有期徒刑。得併科五千元以下罰金。」俾使濫墾者所知戒懼，而收嚇阻作用。並增列第三項：「前項之罪於保安林犯之者，得加重其刑至二分之一。」及第四項：「前二項之未遂犯罰之。」以資適應。關於濫墾物經取締後之處理問題，亦復增列第五項：「犯本條之罪者，其墾植物及工作物沒收之。」以利執行。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "610104",
+            "立法紀錄": "61卷2期455號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cccfcb81c9cecbc7cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5cacecad2cacec7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610120",
+            "立法紀錄": "61卷20期473號 1-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cccfcb81c9cecbc6cdcfcfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610126",
+            "立法紀錄": "61卷21期474號 13-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cccfcb81c9cecbc6cdcecfcfcfcdc4cfcfceccc4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610317",
+            "立法紀錄": "61卷22期475號 67-71頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cccfcb81c9cecbc6cdcdcfcfcfcec4cfcfc9c8c4cfcfc8ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c9ccd2c9c9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610321",
+            "立法紀錄": "61卷23期476號 10-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cccfcb81c9cecbc6cdcccfcfcfcec4cfcfcecfc4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "610321",
+            "立法紀錄": "61卷23期476號 15-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cccfcb81c9cecbc6cdcccfcfcfcec4cfcfcecac4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610512",
+            "立法紀錄": "61卷38期491號 9-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cccfcb81c9cecbc6ccc7cfcfcfcec4cfcfcfc6c4cfcfcecf",
+            "關係文書": []
         }
     ]
 }
