@@ -1,12 +1,12 @@
 {
     "title": "考試法",
     "versions": [
-        "中華民國57年12月3日修正",
-        "中華民國57年12月12日公布"
+        "中華民國61年1月25日修正",
+        "中華民國61年2月5日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -122,7 +122,7 @@
         {
             "note": "(應公務人員特種考試之甲考資格)",
             "rule_no": "第十八條",
-            "content": "　　具有左列資格之一者，得應公務人員特種考試之甲等考試：\n　　一、公立或立案之私立大學研究院、所，或經教育部承認之國外大學研究院、所畢業，得有博士學位，並任專攻學科有關工作三年以上，成績優良，有證明文件者。\n　　二、公立或立案之私立大學研究院、所，或經教育部承認之國外大學研究院、所畢業，得有碩士學位，並任專攻學科有關工作五年以上，成績優良，有證明文件者。\n　　三、曾任公立或立案之私立專科以上學校教授，或曾任副教授三年以上，經教育部審查合格，成績優良，有證明文件者。",
+            "content": "　　具有左列資格之一者，得應公務人員特種考試之甲等考試：\n　　一、公立或立案之私立大學研究院、所，或經教育部承認之國外大學研究院、所，得有博士學位，並任專攻學科有關工作二年以上，成績優良，有證明文件者。\n　　二、公立或立案之私立大學研究院、所，或經教育部承認之國外大學研究院、所，得有碩士學位，並任專攻學科有關工作四年以上，成績優良，有證明文件者。\n　　三、曾任公立或立案之私立專科以上學校教授，或曾任副教授二年以上，經教育部審查合格，成績優良，有證明文件者。\n　　四、高等考試及格，並就其錄取類科在機關服務六年以上，成績特優，有證明文件者。",
             "relates": {}
         },
         {
@@ -212,65 +212,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十八條": "　　考試院為配合政治革新，適應當前情勢，因此擴大考試等級，放寬應考資格，俾利政府廣事延攬人才，爰予以修正之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "570719",
-            "立法紀錄": "57卷54期號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc781cac8cbcecacbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "610114",
+            "立法紀錄": "61卷5期458號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcacf81c9cecbc7cfcacfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcbcfcfc5cdcaccd2cdcac9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c9c6cfd2c9c6c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "571030",
-            "立法紀錄": "57卷86期號 1-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc781cac8cbcdc7c9cfcfcfcdc4cfcfcfcec4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "571106",
-            "立法紀錄": "57卷93期號 1-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc781cac8cbcdc6cccfcfcfcdc4cfcfcfcec4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "571112",
-            "立法紀錄": "57卷93期號 6-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc781cac8cbcdc6cccfcfcfcdc4cfcfcfc9c4cfcfcfc7",
+            "會議日期": "610117",
+            "立法紀錄": "61卷28期481號 18-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcacf81c9cecbc6cdc7cfcfcfcdc4cfcfcec7c4cfcfcdc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "571126",
-            "立法紀錄": "57卷88期號 4-10頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc781cac8cbcdc7c7cfcfcfcec4cfcfcfcbc4cfcfcecf",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 8-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcacf81c9cecbc7cfc7cfcfcfcec4cfcfcfc7c4cfcfcec9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5cbc9cdd2cbc9c6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c8c6c6d2c7cecd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "571126",
-            "立法紀錄": "57卷88期號 10-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc781cac8cbcdc7c7cfcfcfcec4cfcfcecfc4cfcfcece",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 16-23頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcacf81c9cecbc7cfc7cfcfcfcec4cfcfcec9c4cfcfcdcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "571203",
-            "立法紀錄": "57卷90期號 3-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc781cac8cbcdc6cfcfcfcfcec4cfcfcfccc4cfcfcfcb",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 23-24頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcacf81c9cecbc7cfc7cfcfcfcec4cfcfcdccc4cfcfcdcb",
             "關係文書": []
         }
     ]
