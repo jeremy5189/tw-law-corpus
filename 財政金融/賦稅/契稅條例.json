@@ -1,8 +1,8 @@
 {
     "title": "契稅條例",
     "versions": [
-        "中華民國82年7月9日修正",
-        "中華民國82年7月30日公布"
+        "中華民國88年1月14日修正",
+        "中華民國88年1月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,7 +24,7 @@
         {
             "note": "(契稅稅率)",
             "rule_no": "第三條",
-            "content": "　　契稅稅率如左：\n　　一、買賣契稅為其契價百分之七．五。\n　　二、典權契稅為其契價百分之五。\n　　三、交換契稅為其契價百分之二．五。\n　　四、贈與契稅為其契價百分之七．五。\n　　五、分割契稅為其契價百分之二．五。\n　　六、占有契稅為其契價百分之七．五。",
+            "content": "　　契稅稅率如左：\n　　一、買賣契稅為其契價百分之六。\n　　二、典權契稅為其契價百分之五。\n　　三、交換契稅為其契價百分之二˙五。\n　　四、贈與契稅為其契價百分之七˙五。\n　　五、分割契稅為其契價百分之二˙五。\n　　六、占有契稅為其契價百分之七˙五。",
             "relates": {}
         },
         {
@@ -209,60 +209,35 @@
         }
     ],
     "law_reasons": {
-        "第三十一條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。"
+        "第三條": "　　為提振營建業長期低迷景氣以刺激市場買氣，並減輕購置自用住宅者稅負，爰修正本條，由現行百分之七．五，降為百分之六。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "810616",
-            "立法紀錄": "81卷49期2577號上冊 32-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cfc981c7cecfcbc6cfcec4cfcfcccdc4cfcfccc9",
-            "主提案": "吳梓",
+            "會議日期": "880114",
+            "立法紀錄": "88卷6期3006號一冊 64-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cfc781c7c7cfc9cfcec4cfcfc9cbc4cfcfc9ca",
+            "主提案": "王令麟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdc8cfcfc5c8cfc8d2c8cecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cececfcbc5cecbcbd2cecbca"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "820323",
-            "立法紀錄": "82卷15期2614號 69-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cfc981c7cdcecacfcfc4cfcfc9c6c4cfcfc8ce",
-            "主提案": "彭百顯",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c9cbc7d2c9c8ce"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820303",
-            "立法紀錄": "82卷12期2611號 282-298頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cfc981c7cdcecdcfcfc4cfcdc7cdc4cfcdc6c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820407",
-            "立法紀錄": "82卷22期2621號下冊 180-202頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cfc981c7cdcdcdcfccc4cfcec7cfc4cfcdcfcd",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "880114",
+            "立法紀錄": "88卷6期3006號一冊 65-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cfc781c7c7cfc9cfcec4cfcfc9cac4cfcfc9ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "820709",
-            "立法紀錄": "82卷46期2645號下冊 56-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cfc981c7cdcbc9cfccc4cfcfcac9c4cfcfc7ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cec7cdd2cdcfc8"
-                ]
-            ]
+            "會議日期": "880114",
+            "立法紀錄": "88卷6期3006號一冊 65-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cfc781c7c7cfc9cfcec4cfcfc9cac4cfcfc9ca",
+            "關係文書": []
         }
     ]
 }
