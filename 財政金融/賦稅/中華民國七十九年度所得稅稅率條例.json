@@ -1,10 +1,12 @@
 {
     "title": "中華民國七十九年度所得稅稅率條例",
     "versions": [
-        "中華民國80年7月11日期滿廢止"
+        "中華民國78年12月28日制定",
+        "中華民國78年12月30日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -44,5 +46,59 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "781208",
+            "立法紀錄": "78卷98期2314號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfccc981c8c7cfc6c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcecccfcfc5ccc7d2c8c6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "781218",
+            "立法紀錄": "79卷56期2376號 346-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfccc981c8c6cfcac9cfcfc4cfcccbc9c4cfcccacb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "781220",
+            "立法紀錄": "79卷60期2380號 13-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfccc981c8c6cfc9cfcfcfc4cfcfceccc4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "781228",
+            "立法紀錄": "78卷104期2320號 6-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfccc981c8c7cecfcbcfcfc4cfcfcfc9c4cfcfcdce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcec9cfcfc5c9cac9d2c9c9c8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "781228",
+            "立法紀錄": "78卷104期2320號 21-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfccc981c8c7cecfcbcfcfc4cfcfcdcec4cfcfcdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "781228",
+            "立法紀錄": "78卷104期2320號 23-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfccc981c8c7cecfcbcfcfc4cfcfcdccc4cfcfcdcb",
+            "關係文書": []
+        }
+    ]
 }
