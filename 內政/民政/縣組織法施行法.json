@@ -1,11 +1,12 @@
 {
     "title": "縣組織法施行法",
     "versions": [
-        "中華民國18年9月21日制定",
-        "中華民國18年10月2日公布"
+        "中華民國83年11月10日廢止",
+        "中華民國83年11月25日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -109,6 +110,72 @@
             "rule_no": "第十七條",
             "content": "　　本法於縣組織法施行之日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　臺灣省自民國三十九年訂定「臺灣省各縣市實施地方自治綱要」實施地方自治後，各縣（市）業已依綱要規定完成縣（市）、鄉（鎮、市、區）組織之建制，自無再予適用本法之必要。至福建省金門、連江二縣自民國八十一年十一月七日終止戰地政務後，亦由福建省政府訂頒「福建省金門縣連江縣實施地方自治綱要」實施自治，二縣之組織亦經依該綱要規定完成建制，亦無適用「縣組織法施行法」之必要，乃予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "680706",
+            "立法紀錄": "68卷54期1226號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc9cb81c9c7c9cccacbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5cbccc7"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5cbcbcbd2cbcbc9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "681027",
+            "立法紀錄": "69卷4期1280號 53-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc9cb81c9c6c9cbcfcbcfcfc4cfcfcaccc4cfcfcac7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "681121",
+            "立法紀錄": "69卷11期1287號 19-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc9cb81c9c6c9cbcececfcfc4cfcfcec6c4cfcfcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830323",
+            "立法紀錄": "83卷22期2696號下冊 59-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc9cb81c7cccdcdcfccc4cfcfcac6c4cfcfc9cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "681109",
+            "立法紀錄": "68卷90期1262號 6-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc9cb81c9c7c9cbc6cfcfcfc4cfcfcfc9c4cfcfcfc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cec6cad2cec6c9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "831110",
+            "立法紀錄": "83卷73期2747號 37-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc9cb81c7ccc8cccfcfc4cfcfccc8c4cfcfcbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "831110",
+            "立法紀錄": "83卷73期2747號 40-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbc9cb81c7ccc8cccfcfc4cfcfcbcfc4cfcfcbcf",
+            "關係文書": []
         }
     ]
 }
