@@ -1,195 +1,222 @@
 {
     "title": "經濟部工業局組織條例",
     "versions": [
-        "中華民國59年12月8日制定",
-        "中華民國59年12月23日公布"
+        "中華民國73年4月6日全文修正",
+        "中華民國73年4月18日公布"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　經濟部為加速工業發展，設工業局。",
-            "relates": {}
+            "content": "　　本條例依經濟部組織法第六條規定制定之。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01019",
+                        "law_name": "經濟部組織法",
+                        "numbers": [
+                            "第六條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本局掌理左列事項：\n　　一、工業政策及法規之擬訂事項。\n　　二、工業發展計畫之擬訂事項。\n　　三、工業之管理、輔導、監督及統籌配合事項。\n　　四、工業發展環境之改善事項。\n　　五、工業創造、研究、改進、推廣之獎助事項。\n　　六、工業團體目的事業之指導、監督事項。\n　　七、中小工業之輔導事項。\n　　八、軍、公、民工業配合及工業動員之研議與協調事項。\n　　九、工廠登記及考核事項。\n　　十、工業技師之登記及監督事項。\n　　十一、工業區及加工出口區規劃之指導事項。\n　　十二、工業外銷品原料核退標準之擬訂，及進口工業原料、成品、設備、技術方面之審核事項。\n　　十三、工業技術合作及投資事項。\n　　十四、工業人力訓練之協助、建教合作之協調及工業安全管理與工業公害處理之協助、推動事項。\n　　十五、其他有關工業發展及工業行政事項。",
-            "relates": {}
+            "content": "　　經濟部工業局（以下簡稱本局）掌理左列事項：\n　　一、工業政策及法規擬訂事項。\n　　二、工業發展計畫擬訂事項。\n　　三、工業管理、輔導、監督及統籌配合事項。\n　　四、工業發展環境改善事項。\n　　五、工業創造、研究、改進、推廣之獎助事項。\n　　六、工業團體目的事業指導、監督事項。\n　　七、工業產品產銷配合之規劃及協調事項。\n　　八、軍、公、民工業配合及工業動員研議與協調事項。\n　　九、工廠登記及考核事項。\n　　十、工業技師登記及監督事項。\n　　十一、工業區規劃、開發、管理及加工出口區規劃之指導事項。\n　　十二、工業外銷品原料核退標準之擬訂及進口工業原料、成品、設備、技術方面之審核事項。\n　　十三、工業技術合作及投資事項。\n　　十四、工業人力訓練之協助、建教合作之協調、工業安全管理及工業公害處理之協助、推動事項。\n　　十五、其他有關工業發展、國際工業合作及工業行政事項。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01903",
+                        "law_name": "經濟部工業局組織條例",
+                        "numbers": [
+                            "第三條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本局設七組，分掌前條所列事項。",
-            "relates": {}
+            "content": "　　本局設七組，分掌前條所列事項，並得分科辦事。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01903",
+                        "law_name": "經濟部工業局組織條例",
+                        "numbers": [
+                            "第二條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　本局設秘書室，掌理文書、印信、出納、庶務、議事、編譯及不屬於各組事項。",
+            "content": "　　本局設秘書室，掌理文書、印信、出納、庶務、議事、檔案管理及不屬於其他各組、室事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本局置局長一人，綜理局務；副局長二人，襄理局務，其職位均列第十至第十四職等。",
-            "relates": {}
+            "content": "　　本局置局長一人，綜理局務；副局長二人，襄理局務；其職位均列第十至第十四職等。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01903",
+                        "law_name": "經濟部工業局組織條例",
+                        "numbers": [
+                            "第九條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本局置主任秘書一人，組長七人，職位均列第八至第十二職等；副組長七人，職位列第七至十一職等；專門委員四人至六人，職位列第八至第十二職等；秘書二人或三人，技正二十八人至三十五人，職位均列第六至第九職等，其中秘書一人，技正九人至十二人，職位得列第十或第十一職等；科長四人，編審一人或二人，專員八人至十一人，職位均列第六至第九職等；技士二十七人至三十四人，科員十二人至十五人，職位均列第一至第五職等，其中技士九人至十一人，科員三人至五人，職位得列第六或第七職等；辦事員十三人至二十二人，職位列第一至第五職等；書記十三人至十九人，職位列第一至第三職等。",
-            "relates": {}
+            "content": "　　本局置主任秘書一人，組長七人，專門委員六人至八人，職位均列第八至第十二職等；副組長七人，職位列第七至第十一職等；秘書二人或三人，技正五十人至五十八人，職位均列第六至第九職等，其中秘書一人，技正十人，職位得列第十或第十一職等；科長二十一人至二十五人，編審一人或二人，專員十二人至二十二人，職位均列第六至第九職等；技士三十人至四十人，科員十六人至二十人，職位均列第三至第五職等，其中技士十人，科員八人，職位得列第六或第七職等；辦事員十三人至二十一人，職位列第三或第四職等；書記九人至十九人，職位列第一至第三職等。\n　　前項組長、副組長及科長職位，得由技正兼任。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01903",
+                        "law_name": "經濟部工業局組織條例",
+                        "numbers": [
+                            "第九條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　本局設人事室、會計室，各置主任一人，其職位均列第六至第九職等；依法律規定，分別辦理人事、歲計、會計及統計事項。\n　　前項各室所需工作人員，應就本條例所定員額內派充之。",
-            "relates": {}
+            "content": "　　本局設人事室，置主任一人，職位列第六至第九職等；依法律規定，辦理人事管理事項。\n　　前項所需工作人員，應就本條例所定員額內派充之。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01903",
+                        "law_name": "經濟部工業局組織條例",
+                        "numbers": [
+                            "第九條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　第五條至第七條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就經建行政、工業行政、工業工程、機械工程、電力工程、電子工程、土木工程、一般工程、化學、紡織、鐵路、冶金、稅務、法制、人事行政、會計行政、一般行政及其他有關職系選用之。",
-            "relates": {}
+            "content": "　　本局設會計室，置會計主任一人，職位列第六至第九職等；依法律規定，辦理歲計、會計事項，並兼辦統計事項。\n　　前項所需工作人員，應就本條例所定員額內派充之。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01903",
+                        "law_name": "經濟部工業局組織條例",
+                        "numbers": [
+                            "第九條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　本局對外公文，以經濟部名義行之。但關於左列事項，得由局行文：\n　　一、遵照部令應行轉飭事項。\n　　二、依照部令所定辦法，督率進行事項。\n　　三、曾經呈部核准事項。",
-            "relates": {}
+            "content": "　　第五條至第八條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就經建行政、工業行政、工業工程、機械工程、電力工程、土木工程、一般工程、電子計算機、化學、藥事、紡織工程、冶金、一般財政及財務管理、林業技術、法制、人事行政、地政、會計、企業管理、統計、一般行政管理及其他有關職系選用之。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01903",
+                        "law_name": "經濟部工業局組織條例",
+                        "numbers": [
+                            "第五條",
+                            "第六條",
+                            "第七條",
+                            "第八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　本局辦事細則，由局擬訂，呈請經濟部核定之。",
+            "content": "　　本局對外公文，以經濟部名義行之。但關於左列事項，得由局行文：\n　　一、遵照部頒應行轉辦事項。\n　　二、依照部定辦法督導進行事項。\n　　三、曾經報部核准事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
+            "content": "　　本局辦事細則，由局擬訂，報請經濟部核定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　明定工業局之設立目的及隸屬關係。",
-        "第二條": "　　明定本局掌理事項。",
-        "第三條": "　　明定本局依掌理業務性質，分設七組。",
-        "第四條": "　　明定秘書室之設置及掌理事項。",
-        "第五條": "　　明定局長、副局長之設置及職掌。",
-        "第六條": "　　明定本局所置人員之職稱、職等及員額。",
-        "第七條": "　　人事室及會計室之設置及其業務範圍。",
-        "第八條": "　　明定本局所定各職稱人員，其職位所適用職系之法律依據。",
-        "第九條": "　　基於分層負責，本局對外公文，以「經濟部」名義行之。但部分事項，得由本局行文。",
-        "第十條": "　　明定本局辦事細則之擬訂機關及核定程序。",
-        "第十一條": "　　明定本條例施行日期。"
-    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "590512",
-            "立法紀錄": "59卷35期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbcacccacfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "711109",
+            "立法紀錄": "71卷90期1575號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc781c8cec8cfc6cfcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5c9cdc9d2c9cccf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcccfcfc5c9c6c7d2c8cfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "590518",
-            "立法紀錄": "59卷55期0號 26-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbcacacacfcfcfcdc4cfcfcdc9c4cfcfccca",
+            "會議日期": "720627",
+            "立法紀錄": "72卷94期1683號 141-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc781c8cdc8cdc6cbcfcfc4cfcecbcec4cfcecacd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "590525",
-            "立法紀錄": "59卷55期0號 36-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbcacacacfcfcfcdc4cfcfccc9c4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590601",
-            "立法紀錄": "59卷55期0號 47-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbcacacacfcfcfcdc4cfcfcbc8c4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590608",
-            "立法紀錄": "59卷65期0號 8-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbcac9cacfcfcfcdc4cfcfcfc7c4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590615",
-            "立法紀錄": "59卷65期0號 16-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbcac9cacfcfcfcdc4cfcfcec9c4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590622",
-            "立法紀錄": "59卷65期0號 22-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbcac9cacfcfcfcdc4cfcfcdcdc4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590629",
-            "立法紀錄": "59卷65期0號 37-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbcac9cacfcfcfcdc4cfcfccc8c4cfcfc9ce",
+            "會議日期": "730321",
+            "立法紀錄": "73卷55期1749號 62-67頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccacbc781c8cccfcacacfcfc4cfcfc9cdc4cfcfc9c8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "591110",
-            "立法紀錄": "59卷83期0號 18-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbc9c7cccfcfcfcec4cfcfcec7c4cfcfcccb",
+            "會議日期": "730403",
+            "立法紀錄": "73卷27期1721號 59-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccacbc781c8cccfcdc8cfcfc4cfcfcac6c4cfcfc8cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcdcfcfc5ccc8cdd2ccc7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cccfcccfcfc5ccccc6d2cccbc6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "591110",
-            "立法紀錄": "59卷83期0號 34-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbc9c7cccfcfcfcec4cfcfcccbc4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591127",
-            "立法紀錄": "59卷88期0號 14-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbc9c7c7cfcfcfcec4cfcfcecbc4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591204",
-            "立法紀錄": "59卷90期0號 2-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbc9c6cfcfcfcfcec4cfcfcfcdc4cfcfcdc7",
+            "會議日期": "730403",
+            "立法紀錄": "73卷27期1721號 70-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccacbc781c8cccfcdc8cfcfc4cfcfc8cfc4cfcfc8cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "591208",
-            "立法紀錄": "59卷91期0號 5-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccacbc881cac6cbc9c6cecfcfc4cfcfcfcac4cfcfcecf",
+            "會議日期": "730406",
+            "立法紀錄": "73卷28期1722號 15-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccacbc781c8cccfcdc7cfcfc4cfcfcecac4cfcfcec8",
             "關係文書": []
         }
     ]
