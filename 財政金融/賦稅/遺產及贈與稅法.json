@@ -1,8 +1,8 @@
 {
     "title": "遺產及贈與稅法",
     "versions": [
-        "中華民國87年5月29日修正",
-        "中華民國87年6月24日公布"
+        "中華民國88年6月22日修正",
+        "中華民國88年7月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -116,7 +116,7 @@
         {
             "note": "(視同財產)",
             "rule_no": "第十五條",
-            "content": "　　被繼承人死亡前三年內贈與下列個人之財產，應於被繼承人死亡時，視為被繼承人之遺產，併入其遺產總額，依本法規定徵稅：\n　　一、被繼承人之配偶。\n　　二、被繼承人依民法第一千一百三十八條及第一千一百四十條規定之各順序繼承人。\n　　三、前款各順序繼承人之配偶。",
+            "content": "　　被繼承人死亡前二年內贈與下列個人之財產，應於被繼承人死亡時，視為被繼承人之遺產，併入其遺產總額，依本法規定徵稅：\n　　一、被繼承人之配偶。\n　　二、被繼承人依民法第一千一百三十八條及第一千一百四十條規定之各順序繼承人。\n　　三、前款各順序繼承人之配偶。\n　　八十七年六月二十六日以後至前項修正公布生效前發生之繼承案件，適用前項之規定。",
             "relates": {}
         },
         {
@@ -419,80 +419,53 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　被繼承人死亡前二年內贈與特定人之財產，須併入其遺產總額課徵遺產稅，其生前贈與已繳納之贈與稅可自遺產稅額內扣抵；但相對於被繼承人死亡前二年內贈與土地時所繳納之土地增值稅，非但無法自應納遺產稅額內扣抵；還得以被繼承人死亡時之公告現值併入其遺產總額再課徵一筆遺產稅，如此隻重課稅，造成賦稅不公，故予以修正。",
-        "第二十條": "　　一、為求與本法第十七條第六款規定之意旨相符，以切合人民實際生活所需，故在確保農地農用原則下，特修正第五款將農業用地贈與民法第一千一百三十八條所定繼承人者，應免徵贈與稅。但該土地如繼續供農業使用不滿五年者，應追繳應納稅賦，以確保農地農用。\n　　二、增列第二項。針對第一項第六及第七款規定之適用，加以說明。"
+        "第十五條": "　　一、為避免被繼承人死亡前三年內贈與之財產，併課遺產稅後，已納之贈與稅、土地增值稅於依第十一條規定核計扣抵稅額時，僅限於死亡前二年內贈與財產部分之贈與稅、土地增值稅，始可扣抵遺產稅之不合理現象，修正第一項為「被繼承人死亡前二年內」。\n　　二、為避免八十七年六月二十六日遺產及贈與稅法第十一條公布修正生效後，本條修正公布生效前發生之繼承案件，發生前述不合理現象，爰於第二項增訂追溯適用規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "860531",
-            "立法紀錄": "86卷31期2923號上冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfcf81c7c9cccecfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "林文郎",
+            "會議日期": "880413",
+            "立法紀錄": "88卷17期3017號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfce81c7c7cec8cfcfc4cfcfcfc8c4cfcfcfc7",
+            "主提案": "李顯榮",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcbcfcdc5cec8cfd2cec8cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "861016",
-            "立法紀錄": "86卷41期2933號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfcf81c7c9cbcecfcfc4cfcfcfc9c4cfcfcfc8",
-            "主提案": "洪性榮",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcfc8cfcec5c9c6c6d2c8cfcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "861030",
-            "立法紀錄": "86卷45期2937號上冊 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfcf81c7c9cbcacfcec4cfcfcfc6c4cfcfcfc6",
-            "主提案": "趙永清",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcecfcfcdc5cbcdcad2cbcdc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc8cfcdc5cbc9c7d2cbc8ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "861222",
-            "立法紀錄": "87卷1期2950號下冊 77-92頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfcf81c7c8cfcecfccc4cfcfc8c8c4cfcfc6cd",
+            "會議日期": "880524",
+            "立法紀錄": "88卷33期3033號上冊 323-347頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfce81c7c7cccccfcec4cfcccdccc4cfcccbc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "870529",
-            "立法紀錄": "87卷31期2980號中冊 254-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfcf81c7c8cccecfcdc4cfcdcacbc4cfcdc9cd",
+            "會議日期": "880622",
+            "立法紀錄": "88卷37期3037號二冊 110-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfce81c7c7ccc8cfcdc4cfcececfc4cfcececb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacfc6cfcec5c9c9cfd2c9c9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcececacfcec5cbc6cdd2cbc6ca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "870529",
-            "立法紀錄": "87卷31期2980號中冊 262-263頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfcf81c7c8cccecfcdc4cfcdc9cdc4cfcdc9cc",
+            "會議日期": "880622",
+            "立法紀錄": "88卷37期3037號二冊 114-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfce81c7c7ccc8cfcdc4cfcececbc4cfcececb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "870529",
-            "立法紀錄": "87卷31期2980號中冊 263-263頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfcf81c7c8cccecfcdc4cfcdc9ccc4cfcdc9cc",
+            "會議日期": "880622",
+            "立法紀錄": "88卷37期3037號二冊 114-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfce81c7c7ccc8cfcdc4cfcececbc4cfcececb",
             "關係文書": []
         }
     ]
