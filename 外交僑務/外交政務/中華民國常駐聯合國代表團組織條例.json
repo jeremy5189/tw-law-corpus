@@ -1,8 +1,8 @@
 {
     "title": "中華民國常駐聯合國代表團組織條例",
     "versions": [
-        "中華民國48年6月12日全文修正",
-        "中華民國48年6月24日公布"
+        "中華民國52年7月30日修正",
+        "中華民國52年8月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　代表團設大使級常任代表一人，特任，並設左列人員：\n　　一、公使級副代表一人至三人。\n　　二、參事一人至三人。\n　　三、一等秘書及二等秘書一人至八人。\n　　四、三等秘書及助理三等秘書一人至六人。\n　　五、主事一人至五人。\n　　外交部得視代表團業務上之必要，就副代表中指定一人為副常任代表。",
+            "content": "　　代表團設大使級常任代表一人，特任，並設左列人員：\n　　一、公使級副代表一人至三人。\n　　二、參事一人至三人。\n　　三、一等秘書及二等秘書一人至八人。\n　　四、三等秘書一人至六人。\n　　五、主事一人至五人。\n　　外交部得視代表團業務上之必要，就副代表中指定一人為副常任代表。",
             "relates": {}
         },
         {
@@ -85,41 +85,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "461210",
-            "立法紀錄": "47卷20期號6冊 77-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8ce81cbc8cdcfcfc9c4cfcfc8c8c4cfcfc8c8",
+            "會議日期": "510706",
+            "立法紀錄": "51卷29期號15冊 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cd81cacecdc6cecac4cfcfcbc7c4cfcfcbc7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5cdc7d2cbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5cccec8d2cccdc9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480612",
-            "立法紀錄": "48卷23期號17冊 3-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8ce81cbc7cdcccec8c4cfcfcfccc4cfcfcdca",
+            "會議日期": "520726",
+            "立法紀錄": "52卷31期號15冊 6-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cd81cacdcccececac4cfcfcfc9c4cfcfcec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cac8d2c9c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcdcfcfc5c8ccc9d2c8cbca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480609",
-            "立法紀錄": "48卷23期號16冊 134-137頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8ce81cbc7cdcccec9c4cfcecccbc4cfceccc8",
+            "會議日期": "520726",
+            "立法紀錄": "52卷31期號15冊 66-73頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cd81cacdcccececac4cfcfc9c9c4cfcfc8cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480612",
-            "立法紀錄": "48卷23期號17冊 34-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8ce81cbc7cdcccec8c4cfcfcccbc4cfcfccc9",
+            "會議日期": "520730",
+            "立法紀錄": "52卷31期號15冊 90-90頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc8cd81cacdcccececac4cfcfc6cfc4cfcfc6cf",
             "關係文書": []
         }
     ]
