@@ -1,8 +1,8 @@
 {
     "title": "兵役法",
     "versions": [
-        "中華民國43年8月3日全文修正",
-        "中華民國43年8月16日公布"
+        "中華民國48年7月21日修正",
+        "中華民國48年7月31日公布"
     ],
     "types": [
         "立法歷程",
@@ -102,13 +102,13 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　士兵役分為常備兵役、補充兵役、國民兵役。\n　　男子年滿十八歲者為國民兵役及齡；年滿二十歲者，為常備兵及補充兵現役之徵兵及齡。",
+            "content": "　　士兵役分為常備兵役、補充兵役、國民兵役。\n　　男子年滿十八歲者，為國民兵役及齡；年滿十九歲者，為常備兵及補充兵現役之徵兵及齡。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　常備兵役之區分如左：\n　　一、現役：以男子年滿二十歲之年，經徵兵檢查合格於翌年徵集入營者服之，陸軍為期二年，海空軍為期三年，期滿退伍。\n　　二、預備役：以現役期滿退伍者服之，至屆滿四十五歲除役時止。",
+            "content": "　　常備兵役之區分如左：\n　　一、現役：以男子年滿十九歲之年，經徵兵檢查合格，於翌年徵集入營者服之，陸軍為期二年，海、空軍為期三年，期滿退伍。\n　　二、預備役：以現役期滿退伍者服之，至屆滿四十五歲除役時止。",
             "relates": {}
         },
         {
@@ -120,7 +120,7 @@
         {
             "note": "",
             "rule_no": "第十七條",
-            "content": "　　國民兵役之區分如左：\n　　一、初期國民兵役：以男子年滿十八歲者服之，為期二年，得就所在地施以軍事預備教育。\n　　二、甲種國民兵役：以初期國民兵役期滿，適合於常備兵與補充兵現役所需之超額者服之，由縣市政府施以一個月至三個月之軍事訓練。\n　　三、乙種國民兵役：以初期國民兵役期滿，而未服常備兵役、補充兵役或甲種國民兵役者服之，就所在地施以一個月以內之軍事訓練。\n　　前項各款之教育訓練，以不脫離生產為原則。\n　　第一項第二款、第三款國民兵役期限，均至屆滿四十五歲除役時止。",
+            "content": "　　國民兵役之區分如左：\n　　一、初期國民兵役：以男子年滿十八歲者服之，為期一年，得就所在地施以軍事預備教育。\n　　二、甲種國民兵役：以初期國民兵役期滿，適合於常備兵與補充兵現役所需之超額者服之，由縣、市政府施以一個月至三個月之軍事訓練。\n　　三、乙種國民兵役：以初期國民兵役期滿，而未服常備兵役、補充兵役或甲種國民兵役者服之，就所在地施以一個月以內之軍事訓練。\n　　前項各款之教育、訓練，以不脫離生產為原則。\n　　第一項第二款、第三款國民兵役期限，均至屆滿四十五歲除役時止。",
             "relates": {}
         },
         {
@@ -340,7 +340,7 @@
         {
             "note": "",
             "rule_no": "第四十九條",
-            "content": "　　左列人員得依志願在營服役，但服士兵役者，其期間至多以五年為限。期滿後得再依志願定之。\n　　一、當年不在應徵應召之列而志願入營者。\n　　二、不在役齡內之男子而志願入營者。\n　　三、在營服役期滿而志願留營者。\n　　志願服役條例另定之。",
+            "content": "　　左列人員得依志願在營服役。但服士兵役者，其期間以五年為準，期滿後，得依國防需要或其志願予以繼續留營服役或分期退伍。\n　　一、當年不在應徵、應召之列，而志願入營者。\n　　二、不在役齡內之男子，而志願入營者。\n　　三、在營服役期滿，而志願留營者。\n　　志願士兵服役條例另定之。",
             "relates": {}
         },
         {
@@ -377,62 +377,54 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430507",
-            "立法紀錄": "43卷13期號4冊 95-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9cb81cbcccecccfcbc4cfcfc6cac4cfcfc6c9",
+            "會議日期": "480414",
+            "立法紀錄": "48卷23期號9冊 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccfc6c4cfcfcfccc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cec8c6d2cdcfc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5cdc6d2ccc8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "480703",
+            "立法紀錄": "48卷23期號21冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccdcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cdc6ccd2cdc6ca"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 5-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9cb81cbcccecccfc8c4cfcfcfcac4cfcfcbc7",
+            "會議日期": "480721",
+            "立法紀錄": "48卷23期號23冊 4-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccdccc4cfcfcfcbc4cfcfceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cdc7ccd2cccecc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cbc7c8d2cbc6c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 50-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9cb81cbcccecccfc8c4cfcfcacfc4cfcfc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 71-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9cb81cbcccecccfc8c4cfcfc8cec4cfcfc6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 92-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9cb81cbcccecccfc8c4cfcfc6cdc4cfcececd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 113-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9cb81cbcccecccfc8c4cfcececcc4cfcececb",
+            "會議日期": "480721",
+            "立法紀錄": "48卷23期號23冊 44-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccdccc4cfcfcbcbc4cfcfcbca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 114-124頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9cb81cbcccecccfc8c4cfcececbc4cfcecdcb",
+            "會議日期": "480721",
+            "立法紀錄": "48卷23期號23冊 55-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccdccc4cfcfcacac4cfcfcac8",
             "關係文書": []
         }
     ]
