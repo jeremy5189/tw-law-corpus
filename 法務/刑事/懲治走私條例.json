@@ -1,8 +1,8 @@
 {
     "title": "懲治走私條例",
     "versions": [
-        "中華民國44年12月20日全文修正",
-        "中華民國44年12月29日公布"
+        "中華民國58年10月31日修正",
+        "中華民國58年11月11日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　私運管制物品進口、出口逾公告數額者，處七年以下有期徒刑、拘役得併科七千元以下罰金。\n　　前項所稱管制物品及其數額，以經行政院依本條例專案指定公告者為限。",
+            "content": "　　私運管制物品進口、出口逾公告數額者，處七年以下有期徒刑、拘役，得併科七千元以下罰金。\n　　前項之未遂犯罰之。\n　　第一項所稱管制物品及其數額，以經行政院依本條例專案指定公告者為限。",
             "relates": {}
         },
         {
@@ -85,48 +85,62 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "400511",
-            "立法紀錄": "40卷7期號2冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacf81cbcfcfc8cfcdc4cfcfcfcac4cfcfcfca",
+            "會議日期": "571210",
+            "立法紀錄": "57卷92期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac8cbcdc6cdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecfc8cfcfcfcfc5ccc9ced2ccc9cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5c9c8c9d2c9c8c8"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "580419",
+            "立法紀錄": "58卷41期號 16-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcccbcecfcfcfcdc4cfcfcec9c4cfcfcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580515",
+            "立法紀錄": "58卷42期號 1-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcccbcdcfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "441220",
-            "立法紀錄": "45卷16期號9冊 109-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacf81cbcacec9cfc6c4cfcecfc6c4cfcecec8",
+            "會議日期": "581024",
+            "立法紀錄": "58卷77期號 37-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcbc8c8cfcfcfcec4cfcfccc8c4cfcfcbce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcdcfcfc5cec8cdd2cec7cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcccfcfc5cec6d2cdce"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "441220",
-            "立法紀錄": "45卷16期號9冊 200-201頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacf81cbcacec9cfc6c4cfcdcfcfc4cfcdcfce",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "581028",
+            "立法紀錄": "58卷78期號 2-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcbc8c7cfcfcfcec4cfcfcfcdc4cfcfcec7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "441220",
-            "立法紀錄": "45卷19期號9冊 201-203頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacf81cbcacec9cfc6c4cfcdcfcec4cfcdcfcc",
+            "會議日期": "581031",
+            "立法紀錄": "58卷79期號 5-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcbc8c6cfcfcfcec4cfcfcfcac4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "441220",
-            "立法紀錄": "45卷19期號9冊 203-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacf81cbcacec9cfc6c4cfcdcfccc4cfcdcfcb",
+            "會議日期": "581031",
+            "立法紀錄": "58卷79期號 12-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcbc8c6cfcfcfcec4cfcfcecdc4cfcfcecc",
             "關係文書": []
         }
     ]
