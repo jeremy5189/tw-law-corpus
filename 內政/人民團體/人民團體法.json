@@ -1,8 +1,8 @@
 {
     "title": "人民團體法",
     "versions": [
-        "中華民國81年7月3日修正",
-        "中華民國81年7月27日公布"
+        "中華民國82年12月14日修正",
+        "中華民國82年12月31日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -352,6 +352,12 @@
             "relates": {}
         },
         {
+            "note": "(政黨設置黨團組織之限制)",
+            "rule_no": "第五十條 之一",
+            "content": "　　政黨不得在大學、法院或軍隊設置黨團組織。",
+            "relates": {}
+        },
+        {
             "note": "(受外人捐助之禁止)",
             "rule_no": "第五十一條",
             "content": "　　政治團體不得收受外國團體、法人、個人或主要成員為外國人之團體、法人之捐助。",
@@ -463,94 +469,29 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　原條文規定「不得違背憲法」一節，係憲法制定之當然目的，僅具宣示性之意義，故予以刪除。",
-        "第四十六條 之一": "　　現行政黨係採備案制，非採許可制，若一任所有備案之政黨，均得辦理法人登記，可能有害交易安全之保護；爰增訂本條，明文具一定條件之政黨，經主管機關核准後，得依法向法院辦理法人登記。",
-        "第四十八條": "　　公職人員選舉罷免法亦將因應動員戡亂時期之終止而修正名稱及內容，惟該法之修正因牽連較廣，恐非短期內得予定案，為爭取時效，修正為「依法」。",
-        "第五十二條": "　　內政部為人民團體之中央主管機關，為求事權統一，及審慎處理政黨處分有關事件，爰將「行政院」修正為「內政部」設政黨審議委員會，其組織並修正由內政部定之。",
-        "第五十八條": "　　一、第一項及第二項，未修正。\n　　二、依權力分立之原則，行政部門之執行為事前權，司法審查為事後權，若均由司法部門既執行並審查政黨處分事件，似有未妥，為兼顧政黨之目的，爰將政黨之解散處分改由司法院大法官為之，一般警告及限期整理處分仍由主管機關為之。\n　　三、構成解散之事由須以政黨有違憲情事為要件，以配合司法院大法官職司釋憲之旨。惟為審慎認定政黨有無違憲之嫌，爰增列第四項，規定移送司法院大法官審理，須經政黨審議委員會出席委員三分之二以上之認定。",
-        "第五十九條": "　　照黨團協商條文通過。",
-        "第六十條": "　　罰鍰貨幣單位改為新臺幣。",
-        "第六十二條": "　　罰金貨幣單位改為新臺幣。"
+        "第五十條 之一": "　　為使政黨勢力澈底退出大學、法院及軍隊，以確保學術自由、司法獨立與軍隊中立（國家化），爰增列本條。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800301",
-            "立法紀錄": "80卷18期2442號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9cf81c7cfcfcec7cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfcdcfcfc5caccd2cac9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "810306",
-            "立法紀錄": "81卷20期2548號 26-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9cf81c7cecfcdcfcfcfc4cfcfcdc9c4cfcfccc7",
-            "主提案": "張俊雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfc9cfcfc5c7caccd2c7c9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "810508",
-            "立法紀錄": "81卷38期2566號 22-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9cf81c7cecfccc7cfcfc4cfcfcdcdc4cfcfcdcb",
-            "主提案": "林志嘉",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "810526",
-            "立法紀錄": "81卷43期2571號 32-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9cf81c7cecfcbcccfcfc4cfcfcccdc4cfcfcccb",
-            "主提案": "朱鳳芝",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdcccfcdc5cbceced2cbcecc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810527",
-            "立法紀錄": "81卷45期2573號 163-195頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9cf81c7cecfcbcacfcfc4cfcec9ccc4cfcec6ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810615",
-            "立法紀錄": "81卷50期2578號 421-469頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9cf81c7cecfcacfcfcfc4cfcbcdcec4cfcbc9c6",
+            "會議日期": "821214",
+            "立法紀錄": "82卷72期2671號 29-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9ce81c7cdc8cdcfcfc4cfcfcdc6c4cfcfcdc6",
+            "主提案": "謝長廷",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "810703",
-            "立法紀錄": "81卷54期2582號 128-168頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9cf81c7cecfcacbcfcfc4cfcecdc7c4cfcec9c7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccdcfcfc5cdcbc6d2cdc7cd"
-                ]
-            ]
+            "會議日期": "821214",
+            "立法紀錄": "82卷72期2671號 29-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9ce81c7cdc8cdcfcfc4cfcfcdc6c4cfcfcccc",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "810703",
-            "立法紀錄": "81卷54期2582號 168-168頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9cf81c7cecfcacbcfcfc4cfcec9c7c4cfcec9c7",
+            "會議日期": "821214",
+            "立法紀錄": "82卷72期2671號 33-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfccc9ce81c7cdc8cdcfcfc4cfcfccccc4cfcfcccc",
             "關係文書": []
         }
     ]
