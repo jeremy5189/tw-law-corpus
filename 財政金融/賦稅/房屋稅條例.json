@@ -1,8 +1,8 @@
 {
     "title": "房屋稅條例",
     "versions": [
-        "中華民國70年5月8日修正",
-        "中華民國70年5月20日公布"
+        "中華民國72年11月1日修正",
+        "中華民國72年11月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -78,7 +78,7 @@
         {
             "note": "(徵收期)",
             "rule_no": "第十二條",
-            "content": "　　房屋稅每年按季或分上下兩期徵收，其徵收期間，不得超過一個月。\n　　新建、增建或改建房屋，於當季或當期建造完成者，均須按月比例計課，未滿一個月者不計。",
+            "content": "　　房屋稅每年徵收一次，其開徵日期由省（市）政府定之。\n　　新建、增建或改建房屋，於當期建造完成者，均須按月比例計課，未滿一個月者不計。",
             "relates": {}
         },
         {
@@ -161,73 +161,60 @@
         }
     ],
     "law_reasons": {
-        "第十五條": "　　為配合房屋標準價格自七十年一月一日起調整提高百分之四十，爰將起徵點提高，以照顧低收入者之生活。"
+        "第十二條": "　　一、為簡化稅務行政並配合土地稅法第四十條地價稅徵期之規定，爰予修正。\n　　二、第二項「當季或」三字，予以刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "700324",
-            "立法紀錄": "70卷24期1405號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cc81c8cfc9c8cdcbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "720719",
+            "立法紀錄": "72卷58期1647號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cb81c8cdc8cecac7cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5cbd2c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "700414",
-            "立法紀錄": "70卷30期1411號 14-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cc81c8cfc9c8cccfcfcfc4cfcfcecbc4cfcfcec7",
-            "主提案": "袁其烱",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcccfcfc5c9c8c8d2c9c7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc6cfcfc5c9c9c9d2c9c9c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "700408",
-            "立法紀錄": "70卷45期1426號 77-83頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cc81c8cfc9c8cbcacfcfc4cfcfc8c8c4cfcfc7cc",
+            "會議日期": "721005",
+            "立法紀錄": "72卷93期1682號 153-162頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cb81c8cdc8cdc6cccfcfc4cfcecaccc4cfcec9cd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "700425",
-            "立法紀錄": "70卷45期1426號 83-89頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cc81c8cfc9c8cbcacfcfc4cfcfc7ccc4cfcfc7c6",
+            "會議日期": "721019",
+            "立法紀錄": "72卷98期1687號 117-121頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cb81c8cdc8cdc6c7cfcfc4cfcecec8c4cfcecdce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "700505",
-            "立法紀錄": "70卷36期1417號 7-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cc81c8cfc9c8ccc9cfcfc4cfcfcfc8c4cfcfcecc",
+            "會議日期": "721101",
+            "立法紀錄": "72卷88期1677號 31-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cb81c8cdc8cdc7c7cfcfc4cfcfcccec4cfcfcccb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcbcfcfc5c9cec6d2c9cdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cdcfcbcfcfc5ccc8cbd2ccc8c9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "700505",
-            "立法紀錄": "70卷36期1417號 13-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cc81c8cfc9c8ccc9cfcfc4cfcfceccc4cfcfcecc",
+            "會議日期": "721101",
+            "立法紀錄": "72卷88期1677號 34-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cb81c8cdc8cdc7c7cfcfc4cfcfcccbc4cfcfcbcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "700508",
-            "立法紀錄": "70卷37期1418號 21-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cc81c8cfc9c8ccc8cfcfc4cfcfcdcec4cfcfcdcd",
+            "會議日期": "721101",
+            "立法紀錄": "72卷88期1677號 44-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cb81c8cdc8cdc7c7cfcfc4cfcfcbcbc4cfcfcbcb",
             "關係文書": []
         }
     ]
