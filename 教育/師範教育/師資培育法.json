@@ -1,8 +1,8 @@
 {
     "title": "師資培育法",
     "versions": [
-        "中華民國92年5月13日修正",
-        "中華民國92年5月28日公布"
+        "中華民國93年4月23日修正",
+        "中華民國93年5月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -138,7 +138,7 @@
         {
             "note": "(教師資格（三）)",
             "rule_no": "第二十二條",
-            "content": "　　具有大學畢業學歷，於中華民國九十一年十二月三十一日前取得合格偏遠或特殊地區教師證書，並繼續擔任教職者，由中央主管機關協調師資培育之大學，於本法修正施行後五年內專案辦理師資職前教育課程，提供其進修機會。\n　　前項合格偏遠或特殊地區教師修畢規定之師資職前教育課程者，其教師資格之取得，得依中華民國九十年六月二十九日修正生效之高級中等以下學校及幼稚園教師資格檢定及教育實習辦法辦理。",
+            "content": "　　取得合格偏遠或特殊地區教師證書，並繼續擔任教職者，由中央主管機關協調師資培育之大學，於本法修正施行後三年內專案辦理教育專業課程，提供其進修機會。\n　　前項合格偏遠或特殊地區修畢規定之教育專業課程者，得報請主管機關換發一般地區教師證書，免參加資格檢定及參加教育實習。\n　　取得合格偏遠或特殊地區教師證書並擔任教職累積五年以上者，不用修習第一項所指稱的教育專業課程，亦得報請主管機關換發一般地區教師證書，免參加資格檢定及參加教育實習。",
             "relates": {}
         },
         {
@@ -167,59 +167,53 @@
         }
     ],
     "law_reasons": {
-        "第二十三條": "　　一、第一項中「五年內」修正為「六年內」。\n　　二、增訂第三項「本法修正施行前進用之現職大專校院護理教師，具有大學畢業學歷且持有中央主管機關發給之護理教師證書，並繼續擔任教職者，準用前二項之規定。」"
+        "第二十二條": "　　原條文規定，特殊及偏遠地區的老師除了要參加職前教育課程之外，還必須參加實習才發給一般教師證，如此作法嚴重影響原特殊與偏遠地區教師權益，爰予以修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910409",
-            "立法紀錄": "91卷24期3220號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfca81c6cecdcbcfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "余政道",
+            "會議日期": "930102",
+            "立法紀錄": "93卷4期3338號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfc881c6cccfcbcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "陳景峻",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cdcecad2cdcdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "911227",
-            "立法紀錄": "92卷3期3277號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfca81c6cdcfcccfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "湯金全",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecacfcfc5cec7cad2cec7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfcec5c9cbc6d2c9caca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920417",
-            "立法紀錄": "92卷24期3298號上冊 247-258頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfca81c6cdcdcbcfcec4cfcdcbc8c4cfcdcac7",
+            "會議日期": "930408",
+            "立法紀錄": "93卷22期3356號下冊 124-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfc881c6cccdcdcfccc4cfcecdcbc4cfcecbc6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "920513",
-            "立法紀錄": "92卷27期3301號上冊 94-103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfca81c6cdcdc8cfcec4cfcfc6cbc4cfcecfcc",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "930423",
+            "立法紀錄": "93卷23期3357號上冊 43-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfc881c6cccdcccfcec4cfcfcbccc4cfcfcace",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccececfcdc5cbcdcbd2cbcccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecfcfcdc5cecfc8d2cecec9"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "930423",
+            "立法紀錄": "93卷23期3357號上冊 51-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfc881c6cccdcccfcec4cfcfcacec4cfcfcace",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "920513",
-            "立法紀錄": "92卷27期3301號上冊 103-103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfca81c6cdcdc8cfcec4cfcecfccc4cfcecfcc",
+            "會議日期": "930423",
+            "立法紀錄": "93卷23期3357號上冊 51-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfc881c6cccdcccfcec4cfcfcacec4cfcfcace",
             "關係文書": []
         }
     ]
