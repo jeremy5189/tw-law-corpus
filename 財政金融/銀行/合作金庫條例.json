@@ -1,12 +1,11 @@
 {
     "title": "合作金庫條例",
     "versions": [
-        "中華民國104年6月15日廢止",
-        "中華民國104年7月1日公布"
+        "中華民國32年8月28日制定",
+        "中華民國32年9月18日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -166,61 +165,6 @@
             "rule_no": "第二十三條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　本條例設立之中央合作金庫業於39年裁撤外，國內尚無依據本條例設立之銀行，本條例之廢止不致影響國內銀行之運作。基於銀行業務依銀行法規範，有關公司組織運作依公司法管理，本條例應無存在之必要，爰廢止本條例。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "1020524",
-            "立法紀錄": "102卷34期4059號一冊 17-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc7c6c6c8c9c881cecfcdcfcccbcfcec4cfcfcec8c4cfcfcec8",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbcfcdc5cdc6cad2cdc6c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010511",
-            "立法紀錄": "101卷32期3973號 18-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc7c6c6c8c9c881cecfcecfcccdcfcec4cfcfcec7c4cfcfcec7",
-            "主提案": "許忠信",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecececfcec5cccdcfd2cccdcc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1040525",
-            "立法紀錄": "104卷50期4249號 323-323,328-340頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc7c6c6c8c9c881cecfcbcfcacfcfcec4cfcccdccc4cfcccdccd9cecfcbcfcacfcfcec4cfcccdc7c4cfcccbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1040615",
-            "立法紀錄": "104卷54期4253號七冊 62-66頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc7c6c6c8c9c881cecfcbcfcacbcfc8c4cfcfc9cdc4cfcfc9c9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cec9c7cbc5cdc8c8ccd2cdc8c8c7"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1040615",
-            "立法紀錄": "104卷54期4253號七冊 66-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc7c6c6c8c9c881cecfcbcfcacbcfc8c4cfcfc9c9c4cfcfc9c8",
-            "關係文書": []
         }
     ]
 }
