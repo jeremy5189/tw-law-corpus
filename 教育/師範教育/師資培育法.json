@@ -1,8 +1,8 @@
 {
     "title": "師資培育法",
     "versions": [
-        "中華民國86年4月8日修正",
-        "中華民國86年4月23日公布"
+        "中華民國90年5月4日修正",
+        "中華民國90年5月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -112,9 +112,15 @@
             "relates": {}
         },
         {
-            "note": "(本法修正施行前師範生之教師資格)",
+            "note": "(教師資格（一）)",
             "rule_no": "第十八條",
-            "content": "　　本法修正施行前已考入師範校院肄業之師範生，其教師資格之取得與分發，仍適用修正施行前之規定。",
+            "content": "　　中華民國八十三年二月九日本法修正生效前，依師範教育法考入師範校院肄業之學生，其教師資格之取得與分發，仍適用修正生效前之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(教師資格（二）)",
+            "rule_no": "第十八條 之一",
+            "content": "　　中華民國九十年九月三十日前修畢師資職前教育課程，初檢合格取得實習教師證書者，由主管機關另行訂定辦法辦理教師資格複檢。",
             "relates": {}
         },
         {
@@ -131,72 +137,60 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、本條第二項中「教育學分及課程」修正為「教育學程」。\n　　二、本條第三項句首「第一項」修正為「前二項」。",
-        "第七條": "　　本條第一項第一款中增加「且修畢規定教育學分」。",
-        "第十條": "　　本條增訂第二項「前項之專門科目，由各師資培育機構自行認定之。」，保障各師資培育機構的辦學自由，培育具特色的師資，以落實本法「師資培育多元化」的立法精神。"
+        "第十八條": "　　明確界定本條文之適用對象，為中華民國八十三年二月九日本法修正生效前，依師範教育法考入師範校院肄業之學生始得適用。",
+        "第十八條 之一": "　　一、本條新增。\n　　二、國小九年一貫課程英語課程擬於九十年九月實施，所招訓培育之英語師資擬先以代理教師方式充抵新課程所需之師資，為提供是類人員仍以代理年資折抵教育實習一年方式取得合格教師資格，爰增列之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "840105",
-            "立法紀錄": "84卷3期2760號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c6c681c7cbcfcccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "洪秀柱",
+            "會議日期": "900327",
+            "立法紀錄": "90卷14期3148號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcecbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "林政則",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcccfcfc5cbc6ced2cbc6cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcccfcfc5cec8c7d2cec7cd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "850702",
-            "立法紀錄": "85卷38期2860號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c6c681c7caccc7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "蔡式淵",
+            "會議日期": "900403",
+            "立法紀錄": "90卷15期3149號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcecacfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecdcfcfcec5cdcacfd2cdcacd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcbcfcfc5cec7cad2cec7c8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "840501",
-            "立法紀錄": "84卷28期2785號 431-442頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c6c681c7cbcdc7cfcfc4cfcbcccec4cfcbcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "850617",
-            "立法紀錄": "85卷36期2858號下冊 93-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c6c681c7caccc9cfccc4cfcfc6ccc4cfcecfce",
+            "會議日期": "900404",
+            "立法紀錄": "90卷22期3156號下冊 295-331頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcdcdcfccc4cfcdc6cac4cfccccce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 46-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c6c681c7c9cecacfcec4cfcfcbc9c4cfcfcac9",
+            "會議日期": "900504",
+            "立法紀錄": "90卷24期3158號上冊 80-87頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcdcbcfcec4cfcfc7cfc4cfcfc7c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5ccc9cbd2ccc9c7"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5ccc8cfd2ccc8ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc9cfcdc5cac9c9d2cac8cd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c6c681c7c9cecacfcec4cfcfcac9c4cfcfcac9",
+            "會議日期": "900504",
+            "立法紀錄": "90卷24期3158號上冊 87-87頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcf81c6cfcdcbcfcec4cfcfc7c8c4cfcfc7c8",
             "關係文書": []
         }
     ]
