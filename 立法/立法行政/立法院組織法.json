@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國82年12月3日修正",
-        "中華民國82年12月24日公布"
+        "中華民國83年11月10日修正",
+        "中華民國83年11月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -48,7 +48,7 @@
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　政府機關依憲法提出之議案，應先經立法院有關委員會審查，報告院會討論。但必要時，得逕提院會討論。立法委員提出之議案，應先經院會討論。\n　　前項議案在未經決議前，原提案者得提出修正案，或撤回原案。",
+            "content": "　　政府機關依憲法提出之議案或立法委員提出之法律案，經程序委員會提院會後，交付有關委員會審查，審查後提院會討論。但必要時，得逕提院會討論。\n　　立法委員提出之其他議案應先經院會討論。\n　　前二項議案在未經決議前，原提案者得提出修正案或撤回原案。",
             "relates": {}
         },
         {
@@ -203,34 +203,36 @@
         }
     ],
     "law_reasons": {
-        "第十五條": "　　現行憲法第一百七十四條第二款明確規定，賦予立法院修憲之權利，但自行憲以來，政治體制處於長期扭曲之狀態，致使此項權利從未曾實施，亦無法落實。由於立法院組織法之位階屬於法律性質，若將修憲委員會之組織規程列入其中，則修法程序繁複、且曠日廢時，因此，以立法院內規處理較具時效性。如此，一方面使修憲委員會之設置取得法律依據，一方面將其組織規程委由立法院依內規之方式訂定，兼具合法性及時效性。"
+        "第七條": "　　政府機關依憲法提出之議案，或立法委員提出之法律案，應先經立法院程序委員會審查。報告下次院會後交付有關委員會審查。審查後提報本次院會討論。但必要時，得逕提院會討論。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "821203",
-            "立法紀錄": "82卷69期2668號下冊 20-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cf81c7cdc9c6cfccc4cfcfcdcfc4cfcfcccc",
-            "主提案": "廖福本",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcececfcdc5caccc7d2caccc6"
-                ]
-            ]
+            "會議日期": "831027",
+            "立法紀錄": "83卷69期2743號上冊 42-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7ce81c7ccc9c6cfcec4cfcfcbcdc4cfcfcbcb",
+            "主提案": "彭百顯",
+            "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "821203",
-            "立法紀錄": "82卷69期2668號下冊 34-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cf81c7cdc9c6cfccc4cfcfcccbc4cfcfcbcb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "831110",
+            "立法紀錄": "83卷71期2745號 44-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7ce81c7ccc8cecfcfc4cfcfcbcbc4cfcfcbca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "831110",
+            "立法紀錄": "83卷73期2747號 46-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7ce81c7ccc8cccfcfc4cfcfcbc9c4cfcfcbc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "821203",
-            "立法紀錄": "82卷69期2668號下冊 44-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cf81c7cdc9c6cfccc4cfcfcbcbc4cfcfcbca",
+            "會議日期": "831110",
+            "立法紀錄": "83卷73期2747號 47-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7ce81c7ccc8cccfcfc4cfcfcbc8c4cfcfcbc8",
             "關係文書": []
         }
     ]
