@@ -1,11 +1,11 @@
 {
     "title": "民事訴訟費用法",
     "versions": [
-        "中華民國69年6月20日修正",
-        "中華民國69年7月4日公布"
+        "中華民國92年1月14日廢止",
+        "中華民國92年9月10日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -196,55 +196,79 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二十八條": "　　高等法院以下各級法院改隸司法院後，本條之推事、書記官、執達員因出外調查證據、送達文書之食、宿、舟、車等費之支給規則，原規定「請司法行政部核准施行」者，應修正為「報請司法院核准施行」。俾由司法院核准後下達施行。",
-        "第二十九條": "　　高等法院以下各級法院改隸司法院後，民事訴訟事件應徵收之裁判費、抄錄費、翻譯費、到庭費及滯留費等，若因經濟情形變動有提高加徵之必要者，自應由各高等法院報請司法院核准，爰將第一項原規定「經由司法行政部轉呈行政院核准」修正為「報請司法院核准」；並將第二項原規定「呈報司法行政部核准」，修正為「報請司法院核准」。"
-    },
+    "deprecated_reason": "　　我國「民事訴訟費用法」於民國30年4月8日制定公布，其後歷經七次修正，為現行民事訴訟關於訴訟標的之核定、費用之徵收及計算之依據。惟訴訟標的價額之核定、訴訟費用之計算及徵收，實涉及訴訟程序之適用及上訴利益之核算，體例上以於民事訴訟法總則編內專設章節規定為妥。有鑑於此，司法院民事訴訟法研究修正委員會乃修正民事訴訟法，於第三章增訂第一節「訴訟標的價額之核定」及第二節「訴訟費用之計算及徵收」，並將民事訴訟費用法相關條文予以修正後移置於此二節中。至於民事訴訟費用法第23條有關民事強制執行執行費用之徵收標準，已為現行強制執行法第28條之2規定所取代，第30條有關訴訟救助之規定，亦與民事訴訟法第109條規定合併修正。從而，本法已無單獨立法之必要，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690425",
-            "立法紀錄": "69卷34期1310號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cacccbcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "911011",
+            "立法紀錄": "91卷59期3255號 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cecac6cfcfc4cfcfcfcac4cfcfcfc9",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcccfcfc5cac9cdd2cac9ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcbcfcec5cdc9c7d2cbc9c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "690605",
-            "立法紀錄": "69卷70期1346號 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cac8cfcfcfc4cfcfcfcac4cfcfcfc9",
+            "會議日期": "911106",
+            "立法紀錄": "91卷75期3271號五冊 3-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cec8cacfcac4cfcfcfccc4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911107",
+            "立法紀錄": "91卷75期3271號五冊 27-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cec8cacfcac4cfcfcdc8c4cfcfcccd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911127",
+            "立法紀錄": "92卷1期3275號三冊 17-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cdcfcecfccc4cfcfcec8c4cfcfc9c6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911211",
+            "立法紀錄": "92卷2期3276號下冊 265-321頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cdcfcdcfccc4cfcdc9cac4cfcccdce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911212",
+            "立法紀錄": "92卷3期3277號四冊 45-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cdcfcccfcbc4cfcfcbcac4cfcfc8cb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911226",
+            "立法紀錄": "92卷7期3281號上冊 173-188頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cdcfc8cfcec4cfcec8ccc4cfcec7c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "690620",
-            "立法紀錄": "69卷50期1326號 67-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cacacfcfcfc4cfcfc9c8c4cfcfc8cf",
+            "會議日期": "920114",
+            "立法紀錄": "92卷8期3282號四冊 1100-1116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cdcfc7cfcbc4cececfcfc4cececec9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cecfcad2cecfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfc7c5ced2ccc9c7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "690620",
-            "立法紀錄": "69卷50期1326號 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cacacfcfcfc4cfcfc8cfc4cfcfc8cf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "690620",
-            "立法紀錄": "69卷50期1326號 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecd81c9c6c9cacacfcfcfc4cfcfc8cfc4cfcfc8cf",
+            "會議日期": "920114",
+            "立法紀錄": "92卷8期3282號四冊 1521-1522頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcecb81c6cdcfc7cfcbc4cecacdcec4cecacdcd",
             "關係文書": []
         }
     ]
