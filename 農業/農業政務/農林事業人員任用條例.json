@@ -1,12 +1,11 @@
 {
     "title": "農林事業人員任用條例",
     "versions": [
-        "中華民國88年11月30日廢止",
-        "中華民國88年12月15日公布"
+        "中華民國36年11月29日制定",
+        "中華民國36年12月13日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -80,40 +79,6 @@
             "rule_no": "第十二條",
             "content": "　　本條例施行日期及範圍，以命令定之。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　「農林事業人員任用條例」係民國三十六年公布。茲因行政院農業委員會及省（市）政府等機關目前均係依公務人員任用法等規定辦理人員進用，本條例已不符現今環境所需，依中央法規標準法第二十一條規定，無存續必要，爰予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "881001",
-            "立法紀錄": "88卷42期3042號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8c7cc81c7c7cbcdcfcec4cfcfcfcac4cfcfcfca",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5cbcaced2cbcac9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "881101",
-            "立法紀錄": "88卷47期3047號下冊 1-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8c7cc81c7c7cbc8cfccc4cfcfcfcec4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 117-120頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8c7cc81c7c7cacdcfcec4cfcecec8c4cfcecdcf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc7cfcdc5c8c7c6d2c8c6c7"
-                ]
-            ]
         }
     ]
 }
