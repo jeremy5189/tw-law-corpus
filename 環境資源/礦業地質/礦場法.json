@@ -1,11 +1,12 @@
 {
     "title": "礦場法",
     "versions": [
-        "中華民國25年6月12日制定",
-        "中華民國25年6月25日公布"
+        "中華民國75年11月11日廢止",
+        "中華民國75年11月24日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -217,6 +218,82 @@
             "rule_no": "第三十五條",
             "content": "　　本法施行日期以命令定之。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本法條文已先後納入礦場安全法、勞工安全衛生法及勞動基準法中，已無存在必要，為資精簡，故予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "750408",
+            "立法紀錄": "75卷29期1931號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfcdc6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cfc9cfcfc5cecac7d2cec8cd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "750515",
+            "立法紀錄": "75卷69期1971號 2-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfc9c6cfcfc4cfcfcfcdc4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "750528",
+            "立法紀錄": "75卷73期1975號 9-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfc8cccfcfc4cfcfcfc6c4cfcfcec9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "750529",
+            "立法紀錄": "75卷74期1976號 9-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfc8cbcfcfc4cfcfcfc6c4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "750605",
+            "立法紀錄": "75卷75期1977號 2-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfc8cacfcfc4cfcfcfcdc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "751021",
+            "立法紀錄": "75卷85期1987號 7-21頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfc7cacfcfc4cfcfcfc8c4cfcfcdce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c7cfcbcfcfc5caccccd2cacbca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "751021",
+            "立法紀錄": "75卷85期1987號 21-28頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfc7cacfcfc4cfcfcdcec4cfcfcdc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "751107",
+            "立法紀錄": "75卷90期1992號 14-17頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfc6cfcfcfc4cfcfcecbc4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "751111",
+            "立法紀錄": "75卷91期1993號 19-19頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cdcacd81c8cacfc6cecfcfc4cfcfcec6c4cfcfcec6",
+            "關係文書": []
         }
     ]
 }
