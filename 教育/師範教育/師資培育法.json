@@ -1,8 +1,8 @@
 {
     "title": "師資培育法",
     "versions": [
-        "中華民國91年5月17日修正",
-        "中華民國91年6月12日公布"
+        "中華民國91年6月20日修正",
+        "中華民國91年7月3日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -120,7 +120,7 @@
         {
             "note": "(教師資格（二）)",
             "rule_no": "第十八條 之一",
-            "content": "　　中華民國九十年九月三十日前修畢師資職前教育課程，初檢合格取得實習教師證書者，由主管機關另行訂定辦法辦理教師資格複檢。",
+            "content": "　　中華民國九十年九月三十日前修畢師資職前教育課程，初檢合格取得實習教師證書者，由主管機關另行訂定辦法辦理教師資格複檢。\n　　八十九學年度以前修習大學二年制在職進修專班師資職前教育課程之代理教師，初檢合格取得實習教師證書者，得依中華民國九十年六月二十九日修正生效之高級中等以下學校及幼稚園教師資格檢定及教育實習辦法第三十二條、第三十三條規定，並得自本法修正施行之日起四年內，適用原辦法之規定。",
             "relates": {}
         },
         {
@@ -137,35 +137,66 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　第一項後段加入「．．．及員額編制，．．．」等字。",
-        "第十六條": "　　一、第一項後段加入「其組織及員額編制，由教育部定之。」等字。\n　　二、第二項後段增加「．．．或委託學校、．．．」等字。"
+        "第十八條 之一": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 11-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfce81c6cecccccfcec4cfcfcecec4cfcfcecd",
-            "主提案": "行政院",
+            "會議日期": "910507",
+            "立法紀錄": "91卷31期3227號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcc81c6cecccecfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "王鍾渝",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececfcfcec5cec9cad2cec9c7"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 112-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfce81c6cecccacfcec4cfcececdc4cfcececc",
+            "進度": "一讀",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcc81c6cecccccfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "郭添財",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfcec5cbccc9d2cbccc6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "910516",
+            "立法紀錄": "91卷48期3244號下冊 1-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcc81c6cecbc7cfccc4cfcfcfcec4cfcfcfcb",
             "關係文書": []
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "910523",
+            "立法紀錄": "91卷50期3246號上冊 83-120頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcc81c6cecacfcfcec4cfcfc7ccc4cfcecdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "910620",
+            "立法紀錄": "91卷45期3241號一冊 201-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcc81c6cecbcacfcec4cfcdcfcec4cfcdcfc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcdc5cec7d2cdcb"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 192-192頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfce81c6cecccacfcec4cfcec6cdc4cfcec6cd",
+            "會議日期": "910620",
+            "立法紀錄": "91卷45期3241號一冊 207-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6cfcc81c6cecbcacfcec4cfcdcfc8c4cfcdcfc8",
             "關係文書": []
         }
     ]
