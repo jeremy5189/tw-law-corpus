@@ -1,8 +1,8 @@
 {
     "title": "看守所組織通則",
     "versions": [
-        "中華民國68年3月23日修正",
-        "中華民國68年4月4日公布"
+        "中華民國69年6月24日修正",
+        "中華民國69年7月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,7 +12,7 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　看守所隸屬於所在地之地方法院，關於羈押事項，並受檢察官之督導。\n　　地方法院轄區遼闊或案件繁多者，得設二以上之看守所。",
+            "content": "　　看守所隸屬於所在地之地方法院檢察處，關於審判中被告之羈押事項，並受法院之督導。\n　　地方法院轄區遼闊或案件繁多者，得設二以上之看守所。",
             "relates": {}
         },
         {
@@ -84,7 +84,7 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　看守所置主任管理員，委任；管理員，委任或僱用；辦理戒護事務。其名額由司法行政部按各看守所實際情形定之。\n　　女所主任管理員及管理員以婦女充之。\n　　管理員獎懲辦法，由司法行政部定之。",
+            "content": "　　看守所置主任管理員，委任；管理員，委任或僱用；辦理戒護事務。其名額由法務部按各看守所實際情形定之。\n　　女所主任管理員及管理員以婦女充之。\n　　管理員獎懲辦法，由法務部定之。",
             "relates": {}
         },
         {
@@ -107,36 +107,54 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。",
-        "第九條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。",
-        "第十二條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。"
+        "第一條": "　　審檢分隸後，看守所改隸於所在地之地方法院檢察處：關於審判中被告之羈押事項，並應受法院之督導，修正第一項。",
+        "第十三條": "　　一、司法行政部更名為法務部後，本條第一項之「司法行政部」修正為「法務部」以資配合。\n　　二、第二項未修正。\n　　三、第三項之「司法行政部」，修正為「法務部」，理由同前。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680320",
-            "立法紀錄": "68卷23期1195號 22-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c781c9c7c9cccdcccfcfc4cfcfcdcdc4cfcfcdcc",
-            "主提案": "吳延環",
+            "會議日期": "690506",
+            "立法紀錄": "69卷37期1313號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c681c9c6c9caccc8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cbc6ced2cbc6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcccfcfc5c8cfc8d2c8cecf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "690616",
+            "立法紀錄": "69卷88期1364號 35-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c681c9c6c9c9c7c7cfcfc4cfcfcccac4cfcfccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "690624",
+            "立法紀錄": "69卷51期1327號 7-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c681c9c6c9cacacecfcfc4cfcfcfc8c4cfcfcfc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5ccc7c6d2ccc6ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "680320",
-            "立法紀錄": "68卷23期1195號 23-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c781c9c7c9cccdcccfcfc4cfcfcdccc4cfcfcdcb",
+            "會議日期": "690624",
+            "立法紀錄": "69卷51期1327號 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c681c9c6c9cacacecfcfc4cfcfcfc6c4cfcfcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680323",
-            "立法紀錄": "68卷24期1196號 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c781c9c7c9cccdcbcfcfc4cfcfcfc6c4cfcfcfc6",
+            "會議日期": "690624",
+            "立法紀錄": "69卷51期1327號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c681c9c6c9cacacecfcfc4cfcfcecfc4cfcfcecf",
             "關係文書": []
         }
     ]
