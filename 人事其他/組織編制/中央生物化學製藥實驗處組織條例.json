@@ -1,11 +1,12 @@
 {
     "title": "中央生物化學製藥實驗處組織條例",
     "versions": [
-        "中華民國37年3月13日全文修正",
-        "中華民國37年3月26日公布"
+        "中華民國62年5月25日廢止",
+        "中華民國62年6月7日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -121,6 +122,37 @@
             "rule_no": "第十九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例係三十五年制定，三十七年修正公布，因目前未設有此項機關，致使本條例亦無存在必要，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "620302",
+            "立法紀錄": "62卷15期571號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c9ca81c9cdcacececacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620321",
+            "立法紀錄": "62卷38期594號 18-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c9ca81c9cdcaceccc7cfcfcfcdc4cfcfcec7c4cfcfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620404",
+            "立法紀錄": "62卷49期605號 38-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c9ca81c9cdcacecbc6cfcfcfcdc4cfcfccc7c4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620525",
+            "立法紀錄": "62卷39期595號 7-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c9ca81c9cdcaceccc6cfcfcfcec4cfcfcfc8c4cfcfcfc6",
+            "關係文書": []
         }
     ]
 }
