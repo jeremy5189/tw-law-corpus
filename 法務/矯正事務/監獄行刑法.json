@@ -1,8 +1,8 @@
 {
     "title": "監獄行刑法",
     "versions": [
-        "中華民國69年11月14日修正",
-        "中華民國69年12月1日公布"
+        "中華民國81年3月19日修正",
+        "中華民國81年4月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -506,7 +506,7 @@
         {
             "note": "",
             "rule_no": "第七十五條",
-            "content": "　　前條獎賞方法如左：\n　　一、公開嘉獎。\n　　二、增加接見或通信次數。\n　　三、發給獎狀或獎章。\n　　四、增給成績分數，並以為進級之依據。\n　　五、給與相當數額之獎金。\n　　六、給與書籍或其他獎品。\n　　七、與以較好之給養。\n　　受刑人有應予特別獎賞者，得報請法務部核獎。",
+            "content": "　　前條獎賞方法如左：\n　　一、公開嘉獎。\n　　二、增加接見或通信次數。\n　　三、發給獎狀或獎章。\n　　四、增給成績分數，並以為進級之依據。\n　　五、給與相當數額之獎金。\n　　六、給與書籍或其他獎品。\n　　七、與以較好之給養。\n　　八、其他特別獎賞。\n　　前項特別獎賞者，得為返家探視或與配偶及直系血親在指定處所及期間內同住之獎勵；其辦法，由法務部定之。",
             "relates": {}
         },
         {
@@ -651,61 +651,46 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。",
-        "第二十六條 之一": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。",
-        "第二十七條": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。",
-        "第三十二條": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。",
-        "第三十三條": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。",
-        "第七十五條": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。",
-        "第八十一條": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。",
-        "第九十條": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。",
-        "第九十三條 之一": "　　為配合審檢分隸後，司法行政部更名為法務部。故修正之。"
+        "第七十五條": "　　一、增列第一項第八款，以資明確。\n　　二、第二項增列「．．．為返家探視或與配偶及直系血親在指定處所及期間內同住之獎勵。」，以使特別獎賞的範圍予以明確化，並增列「其辦法由法務部定之」，使執行有所標準。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690930",
-            "立法紀錄": "69卷79期1355號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccc81c9c6c9cac8c6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "801105",
+            "立法紀錄": "80卷90期2514號 14-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccccb81c7cfcfc6cfcfcfc4cfcfcecbc4cfcfceca",
+            "主提案": "張俊雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcdcfcfc5cdc7d2cccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cecfcfcfc5c9c7c7d2c9c7c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691015",
-            "立法紀錄": "69卷89期1365號 52-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccc81c9c6c9c9c7c6cfcfc4cfcfcacdc4cfcfcacc",
+            "會議日期": "801113",
+            "立法紀錄": "80卷93期2517號 355-368頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccccb81c7cfcfc6cccfcfc4cfcccacac4cfccc9c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "691111",
-            "立法紀錄": "69卷91期1367號 9-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccc81c9c6c9c9c6cecfcfc4cfcfcfc6c4cfcfcecb",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810319",
+            "立法紀錄": "81卷24期2552號 61-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccccb81c7cecfcdcbcfcfc4cfcfc9cec4cfcfc9ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cec8cdd2cec8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfc6cfcfc5ccc7ced2ccc7c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "691111",
-            "立法紀錄": "69卷91期1367號 14-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccc81c9c6c9c9c6cecfcfc4cfcfcecbc4cfcfceca",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "691114",
-            "立法紀錄": "69卷92期1368號 4-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacccccc81c9c6c9c9c6cdcfcfc4cfcfcfcbc4cfcfcfc9",
+            "會議日期": "810319",
+            "立法紀錄": "81卷24期2552號 65-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccccb81c7cecfcdcbcfcfc4cfcfc9cac4cfcfc9c9",
             "關係文書": []
         }
     ]
