@@ -1,11 +1,11 @@
 {
     "title": "國立國父紀念館組織條例",
     "versions": [
-        "中華民國104年5月26日廢止",
-        "中華民國104年6月10日公布"
+        "中華民國75年6月27日制定",
+        "中華民國75年7月4日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -64,45 +64,83 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　為配合行政院組織改造作業，文化部及所屬組織法業自101年5月20日施行，其中原教育部所屬國立歷史博物館、國立中正紀念堂管理處及國立國父紀念館已於同日改隸文化部，爰依中央法規標準法第21條第4款規定廢止國立國父紀念館組織條例。",
+    "law_reasons": {
+        "第一條": "　　明定國立國父紀念館之隸屬與設置目的。",
+        "第二條": "　　一、明定國立國父紀念館內部組織及其職掌。\n　　二、國立國父紀念館成立之初，即設有庭園組編制，旋由臺北市政府劃歸公園路燈管理處管理，七十四年四月又復劃歸國立國父紀念館，故設園藝組，以專責成。\n　　三、機電組掌理全館機電設施，如大會堂錄音、錄影、音響控制維護，燈火調配控制，舞臺吊具、幕布操縱維護，高壓變電及低壓設施修護，空調中央系統調節保養維護暨館內外擴音、火警防盜，電話總機與多媒體電影放映維護等事項，種類繁多，均為專業技術人員管理維護，故設機電組，以專責成。\n　　四、國立國父紀念館地位顯著，幅員廣闊，全年開放，貴賓眾多，安全秩序特別重要，放設警衛組，以便督導駐警隊執行安全維護任務。\n　　五、陽明山中山樓管理所原屬臺北市政府民政局，改隸教育部後，其業務併入國立國父紀念館。",
+        "第三條": "　　明定國立國父紀念館置館長綜理館務，指揮監督職員。置副館長二人，襄理館務，其中一人負責陽明山中山樓管理所工作。",
+        "第四條": "　　一、明定國立國父紀念館所置行政及技術人員職稱、員額及官等職等。\n　　二、編審人員必要時得聘任之，以應專業需要，保持彈性運用。",
+        "第五條": "　　明定國立國父紀念館設人事室，規定其所置人員職稱、員額、官等職等及職掌。",
+        "第六條": "　　明定國立國父紀念館設會計室，規定其所置人員職稱、員額、官等職等及職掌。",
+        "第七條": "　　明定國立國父紀念館所置各職稱人員，須依據公務人員任用法第八條之規定，就有關職系選用之。",
+        "第八條": "　　明定國立國父紀念館辦事細則核定程序。",
+        "第九條": "　　明定本條例之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010928",
-            "立法紀錄": "101卷52期3993號一冊 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c6c981cecfcecfcacdcfcec4cfcfcecdc4cfcfcecd",
+            "會議日期": "750502",
+            "立法紀錄": "75卷41期1943號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbcd81c8cacfcbcecfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcecfcdc5ccc7c9d2ccc6ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cecfcfcfc5cdcecad2cdcec6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1040427",
-            "立法紀錄": "104卷37期4236號 1-103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c6c981cecfcbcfccc8cfcec4cfcfcfcec4cfcecfcc",
+            "會議日期": "750528",
+            "立法紀錄": "75卷87期1989號 107-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbcd81c8cacfc7c8cfcfc4cfcecfc8c4cfcececb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "750604",
+            "立法紀錄": "75卷91期1993號 116-121頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbcd81c8cacfc6cecfcfc4cfcecec9c4cfcecdce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "750612",
+            "立法紀錄": "75卷92期1994號 76-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbcd81c8cacfc6cdcfcfc4cfcfc8c9c4cfcfc7cb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "750616",
+            "立法紀錄": "75卷93期1995號 99-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbcd81c8cacfc6cccfcfc4cfcfc6c6c4cfcecfca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040526",
-            "立法紀錄": "104卷44期4243號二冊 261-267頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c6c981cecfcbcfcbcbcfcdc4cfcdc9cec4cfcdc9c8",
+            "會議日期": "750624",
+            "立法紀錄": "75卷51期1953號 10-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbcd81c8cacfcacecfcfc4cfcfcecfc4cfcfcec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecdc8c7c5ccc9c6d2ccc7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cecccfcfc5cbcdc9d2cbccc9"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "750624",
+            "立法紀錄": "75卷51期1953號 19-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbcd81c8cacfcacecfcfc4cfcfcec6c4cfcfcdcd",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1040526",
-            "立法紀錄": "104卷44期4243號二冊 267-268頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c6c981cecfcbcfcbcbcfcdc4cfcdc9c8c4cfcdc9c7",
+            "會議日期": "750627",
+            "立法紀錄": "75卷52期1954號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbcd81c8cacfcacdcfcfc4cfcfcfc8c4cfcfcfc7",
             "關係文書": []
         }
     ]
