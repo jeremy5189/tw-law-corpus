@@ -1,11 +1,11 @@
 {
     "title": "蠶種製造條例",
     "versions": [
-        "中華民國61年11月17日修正",
-        "中華民國61年11月30日公布"
+        "中華民國88年11月30日廢止",
+        "中華民國88年12月15日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -220,77 +220,44 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　將「省市」之「市」字加一括弧。",
-        "第三條": "　　將「省市」之「市」字加一括弧。",
-        "第五條": "　　將「省市」之「市」字加一括弧。",
-        "第六條": "　　將「省市」之「市」字加一括弧。",
-        "第九條": "　　將「省市」之「市」字加一括弧。",
-        "第十條": "　　將「省市」之「市」字加一括弧。",
-        "第十三條": "　　將「省市」之「市」字加一括弧。",
-        "第十六條": "　　將「省市」之「市」字加一括弧。",
-        "第十八條": "　　將機關名稱加以修正，使其合於目前體制。",
-        "第十九條": "　　將「圖記」二字修正為「印信」，並將「省市」之「市」字加一括弧。",
-        "第二十一條": "　　將「省市」之「市」字加一括弧。",
-        "第二十二條": "　　將「省市」之「市」字加一括弧。",
-        "第二十三條": "　　將「省市」之「市」字加一括弧。",
-        "第二十四條": "　　將「省市」之「市」字加一括弧。",
-        "第二十五條": "　　將機關名稱加以修正，使其合於目前體制。",
-        "第三十三條": "　　將「省市」之「市」字加一括弧。",
-        "第三十四條": "　　將機關名稱加以修正，使其合於目前體制。"
-    },
+    "deprecated_reason": "　　一、「蠶種製造條例」於民國二十五年公布施行。由於國際繭絲價格長期低迷，國內工資成本又遠高於開發中國家之主要蠶業生產國家，國內契作收繭單位多於八十一年底前陸續結束發種收繭工作。目前蠶種繁殖之主要用途為供應學校教學，所需蠶卵不多，蠶種繁殖已不具經濟性，蠶種及蠶繭生產亦無嚴格執行監管必要，爰予廢止。\n　　二、為配合該條例之廢止，未來蠶種管理將依下列方式管理：\n　　（一）國內優良蠶種原由苗栗區農業改良場妥善保存，並由該場以契約方式供應所需蠶種。\n　　（二）國外輸入之「蠶卵、蠶砂」品目，農業委員會動植物防疫檢疫局已將其納入進口應施檢驗品目，以防止帶病蠶種進口。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600604",
-            "立法紀錄": "60卷41期395號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc881c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "880420",
+            "立法紀錄": "88卷19期3019號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc781c7c7cec6cfcec4cfcfcfcbc4cfcfcfcb",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6ceced2c6cdcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcfc5cdc8c7d2cdc7cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601222",
-            "立法紀錄": "61卷5期458號 1-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc881c9cecbc7cfcacfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "會議日期": "880610",
+            "立法紀錄": "88卷36期3036號 265-270頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc781c7c7ccc9cfcfc4cfcdc9cac4cfcdc8cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 21-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc881c9cecacfc6cfcfcfcfcec4cfcfcdcec4cfcfcccd",
+            "會議日期": "881119",
+            "立法紀錄": "88卷50期3050號上冊 62-67頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc781c7c7cacfcfcec4cfcfc9cdc4cfcfc9c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c8c8d2c6ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c7cdcad2c7cccc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 36-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc881c9cecacfc6cfcfcfcfcec4cfcfccc9c4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "611117",
-            "立法紀錄": "61卷91期544號 3-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc881c9cecacfc6cecfcfcfcec4cfcfcfccc4cfcfcfca",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "611117",
-            "立法紀錄": "61卷91期544號 8-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc881c9cecacfc6cecfcfcfcec4cfcfcfc7c4cfcfcece",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 114-114頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8cecdc781c7c7cacdcfcec4cfcececbc4cfcececb",
             "關係文書": []
         }
     ]
