@@ -1,13 +1,9 @@
 {
     "title": "中美共同防禦期間處理在華美軍人員刑事案件條例",
     "versions": [
-        "中華民國57年3月12日修正",
-        "中華民國57年3月25日公布"
+        "中華民國68年12月31日"
     ],
-    "types": [
-        "立法歷程",
-        "異動條文"
-    ],
+    "types": [],
     "law_data": [
         {
             "note": "",
@@ -44,28 +40,6 @@
             "rule_no": "第六條",
             "content": "　　本條例自公布日施行，其有效期間至在華美軍地位協定廢止之日為止；該項協定停止適用時，本條例亦停止其適用。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "570312",
-            "立法紀錄": "57卷17期號 899-900頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec6cf81cac8cbcecec8cfcfc4cfc7c6c6c4cfc6cfcf",
-            "主提案": "溫士源",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cdcdd2cdcc"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "570312",
-            "立法紀錄": "57卷17期號 900-900頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec6cf81cac8cbcecec8cfcfc4cfc6cfcfc4cfc6cfcf",
-            "關係文書": []
         }
     ]
 }
