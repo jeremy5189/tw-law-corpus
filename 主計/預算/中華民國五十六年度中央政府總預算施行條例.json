@@ -1,12 +1,11 @@
 {
     "title": "中華民國五十六年度中央政府總預算施行條例",
     "versions": [
-        "中華民國62年3月13日廢止",
-        "中華民國62年3月22日公布"
+        "中華民國55年5月31日制定",
+        "中華民國55年6月8日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -80,23 +79,6 @@
             "rule_no": "第十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　「中華民國五十六年度中央政府總預算施行條例」，因施行年度已過，其規定事項業已執行完畢，爰依照中央法規標準法第21條第2款規定予以廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "611205",
-            "立法紀錄": "61卷96期549號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc7ce81c9cecacfc6c9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "620313",
-            "立法紀錄": "62卷18期574號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc7ce81c9cdcacecec7cfcfcfcec4cfcfcfcdc4cfcfcfcc",
-            "關係文書": []
         }
     ]
 }
