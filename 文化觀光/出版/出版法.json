@@ -1,8 +1,8 @@
 {
     "title": "出版法",
     "versions": [
-        "中華民國62年7月31日修正",
-        "中華民國62年8月10日公布"
+        "中華民國86年4月15日修正",
+        "中華民國86年5月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -58,7 +58,7 @@
         {
             "note": "(外籍人民聲請發行出版品)",
             "rule_no": "第八條",
-            "content": "　　外籍人民得依本法規定聲請發行出版品，並遵守中華民國關於出版品之一切法令。但該外籍人民之本國出版法律，對於中華民國人民有差別待遇時，不得享受本法所給予之待遇。",
+            "content": "　　外籍人民得依本法規定聲請發行出版品，並遵守中華民國關於出版品之一切法令。",
             "relates": {}
         },
         {
@@ -310,65 +310,52 @@
         {
             "note": "(施行日)",
             "rule_no": "第四十六條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文第八條施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第七條": "　　因主管官署變更，故將內政部修改為「行政院新聞局」。",
-        "第九條": "　　因主管官署變更，故將內政部修改為「行政院新聞局」。",
-        "第十四條": "　　因主管官署變更，故將內政部修改為「行政院新聞局」。",
-        "第二十二條": "　　因主管官署變更，故將內政部修改為「行政院新聞局」。",
-        "第四十條": "　　因主管官署變更，故將內政部修改為「行政院新聞局」。",
-        "第四十一條": "　　因主管官署變更，故將內政部修改為「行政院新聞局」。",
-        "第四十三條": "　　因主管官署變更，故將內政部修改為「行政院新聞局」。",
-        "第四十五條": "　　近因大眾傳播事業必須加強輔導與統一管理，行政院乃調整新聞局組織，將原屬內政部主管之出版事業以及教育部文化局主管之廣播電視既電影業務，併由新聞局掌理。為配合此一調整，爰予以修正之。"
+        "第八條": "　　我國因特殊處境，為確保國人得以進入他國市場，乃有互惠之規定。惟於加入世界貿易組織後，互惠規定有違「服務貿易總協定」第二條最惠國待遇原則，實不宜予以維持，爰將但書刪除。",
+        "第四十六條": "　　為配合我國加入世界貿易組織之時程，故修正條文之施行日期應以加入世界貿易組織生效日期為前提，爰增列第二項，其施行日期由行政院定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "620717",
-            "立法紀錄": "62卷54期610號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cf81c9cdcacecacbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "851217",
+            "立法紀錄": "85卷68期2890號 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ce81c7cac9c7cfcfc4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc7cfcfc5cecfcbd2cecece"
+                    "null",
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcdc9cecfcdce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "620721",
-            "立法紀錄": "62卷63期619號 1-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cf81c9cdcacec9cccfcfcfcdc4cfcfcfcec4cfcfcfca",
+            "會議日期": "860319",
+            "立法紀錄": "86卷11期2903號 449-457頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ce81c7c9cececfcfc4cfcbcbc6c4cfcbcac8",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "620727",
-            "立法紀錄": "62卷57期613號 24-30頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cf81c9cdcacecac8cfcfcfcec4cfcfcdcbc4cfcfcccf",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 123-127頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ce81c7c9cec8cfcec4cfcecdccc4cfcecdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc7cfcfc5cdc9cbd2cdc8cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5cccacfd2cccacb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "620727",
-            "立法紀錄": "62卷57期613號 30-31頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cf81c9cdcacecac8cfcfcfcec4cfcfcccfc4cfcfccce",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "620731",
-            "立法紀錄": "62卷58期614號 2-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cf81c9cdcacecac7cfcfcfcec4cfcfcfcdc4cfcfcfcb",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 127-127頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ce81c7c9cec8cfcec4cfcecdc8c4cfcecdc8",
             "關係文書": []
         }
     ]
