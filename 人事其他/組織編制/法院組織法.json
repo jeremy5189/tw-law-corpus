@@ -1,8 +1,8 @@
 {
     "title": "法院組織法",
     "versions": [
-        "中華民國57年12月10日修正",
-        "中華民國57年12月19日公布"
+        "中華民國58年3月28日修正",
+        "中華民國58年4月10日公布"
     ],
     "types": [
         "立法歷程",
@@ -234,7 +234,7 @@
         {
             "note": "",
             "rule_no": "第三十四條",
-            "content": "　　地方法院及其分院之推事及檢察官，薦任。但首都及院轄市地方法院兼任院長之推事及首席檢察官，得為簡任。\n　　高等法院兼任院長之推事及首席檢察官，簡任。推事及檢察官，薦任；但充任庭長之推事得為簡任。\n　　高等法院分院推事及檢察官，薦任。但兼任院長之推事，得為簡任。\n　　最高法院推事，簡任。\n　　最高法院檢察署檢察官，簡任。",
+            "content": "　　地方法院及其分院之推事及檢察官，薦任；其兼任院長、庭長之推事及首席檢察官，得為簡任。但首都及直轄市地方法院兼任院長之推事及首席檢察官，簡任。\n　　高等法院及其分院兼任院長、庭長之推事及首席檢察官，簡任。推事及檢察官，薦任或簡任；但簡任員額，不得逾三分之一。\n　　最高法院推事，簡任。\n　　最高法院檢察署檢察官，簡任。",
             "relates": {}
         },
         {
@@ -304,7 +304,7 @@
         {
             "note": "",
             "rule_no": "第四十五條",
-            "content": "　　最高法院書記官長，薦任或簡任；書記官，委任或薦任。高等法院書記官長，薦任；書記官，委任；但其中一人至三人，得為薦任。高等法院分院書記官長，委任或薦任；書記官，委任。地方法院及其分院書記官長，書記官，委任。但首都及院轄市地方法院之書記官長，得為薦任。",
+            "content": "　　最高法院書記官長，簡任；書記官，委任或薦任。但薦任員額不得逾二分之一。\n　　高等法院書記官長，薦任；書記官，委任；其中三人至七人，得為薦任。\n　　高等法院分院書記官長，薦任；書記官，委任，其中一人至三人，得為薦任。\n　　地方法院及分院書記官長，薦任；書記官，委任；其中一人至三人，得為薦任。",
             "relates": {}
         },
         {
@@ -619,55 +619,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "510810",
-            "立法紀錄": "51卷29期號18冊 65-83頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cacecdc6cec7c4cfcfc9cac4cfcfc7cc",
-            "主提案": "吳延環",
+            "會議日期": "510717",
+            "立法紀錄": "51卷29期號16冊 192-192頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c681cacecdc6cec9c4cfcec6cdc4cfcec6cd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5cacbcfd2cacbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5cbccced2cbccc7"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "571220",
-            "立法紀錄": "57卷95期號 9-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcdc6cacfcfcfcec4cfcfcfc6c4cfcfcecb",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "570726",
-            "立法紀錄": "57卷56期號 13-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcecac9cfcfcfcec4cfcfceccc4cfcfcecc",
+            "會議日期": "580321",
+            "立法紀錄": "58卷20期號 2-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c681cac7cbcccdcfcfcfcfcec4cfcfcfcdc4cfcfcec7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc7cfcecfcfc5c9c6cbd2c9c6c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcecfcfc5c9cdc6d2c9ccca"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "571206",
-            "立法紀錄": "57卷91期號 7-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcdc6cecfcfcfcec4cfcfcfc8c4cfcfceca",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "580321",
+            "立法紀錄": "58卷20期號 18-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c681cac7cbcccdcecfcfcfcec4cfcfcec7c4cfcfcccb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "571206",
-            "立法紀錄": "57卷91期號 15-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcdc6cecfcfcfcec4cfcfcecac4cfcfcec9",
+            "會議日期": "580325",
+            "立法紀錄": "58卷21期號 2-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c681cac7cbcccdcecfcfcfcec4cfcfcfcdc4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "571210",
-            "立法紀錄": "57卷92期號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcdc6cdcfcfcfcec4cfcfcfccc4cfcfcfcb",
+            "會議日期": "580328",
+            "立法紀錄": "58卷22期號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c681cac7cbcccdcdcfcfcfcec4cfcfcfcdc4cfcfcfcc",
             "關係文書": []
         }
     ]
