@@ -1,12 +1,12 @@
 {
     "title": "噪音管制法",
     "versions": [
-        "中華民國81年1月16日全文修正",
-        "中華民國81年2月1日公布"
+        "中華民國88年11月30日修正",
+        "中華民國88年12月22日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -28,7 +28,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　本法所稱主管機關：在中央為行政院環境保護署；在省為環境保護處；在直轄市為環境保護局；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱主管機關：在中央為行政院環境保護署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -42,9 +42,9 @@
             "section_name": "第二章  管制"
         },
         {
-            "note": "(噪音管制區之劃定公告)",
+            "note": "(噪音管制區之劃定)",
             "rule_no": "第五條",
-            "content": "　　省（市）及縣（市）主管機關得視轄境內噪音狀況劃定公告各類噪音管制區，並應定期檢討，重新劃定公告之。\n　　前項管制區，涉及二以上省（市）或有特殊需要者，由中央主管機關劃定並公告之。涉及二以上縣（市）或有特殊需要者，由省主管機關劃定並公告之。",
+            "content": "　　直轄市及縣（市）主管機關得視轄境內噪音狀況劃定公告各類噪音管制區，並應定期檢討，重新劃定公告之。\n　　前項管制區涉及二以上直轄市、縣（市）或有特殊需要者，由中央主管機關劃定並公告之。",
             "relates": {}
         },
         {
@@ -144,7 +144,7 @@
         {
             "note": "(處罰之執行機關)",
             "rule_no": "第二十一條",
-            "content": "　　本法所定之處罰，除本法另有規定外，在中央由行政院環境保護署為之，在省由環境保護處為之，在直轄市由環境保護局為之，在縣（市）由縣（市）政府為之。",
+            "content": "　　本法所定之處罰，除本法另有規定外，在中央由行政院環境保護署為之，在直轄市由直轄市政府為之，在縣（市）由縣（市）政府為之。",
             "relates": {}
         },
         {
@@ -182,79 +182,56 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　配合臺灣省政府功能業務與組織之調整，爰刪除臺灣省政府環境保護處為本法省之主管機關之規定，並配合地方制度法之規定意旨，將「直轄市」部分修正為「直轄市政府」。",
+        "第五條": "　　配合臺灣省政府功能業務與組織之調整，爰刪除涉二以上縣（市）者由臺灣省政府環境保護處劃定噪音管制區之規定，並將涉及二以上直轄市、縣（市）或有特殊需要者，改由中央主管機關劃定並公告。",
+        "第二十一條": "　　配合臺灣省政府功能業務與組織之調整，爰刪除臺灣省政府環境保護處為本法省之主管機關之規定，並配合第三條之修正，將「直轄市」部分修正為「直轄市政府」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "771220",
-            "立法紀錄": "77卷102期2213號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c8c8cecfcdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "881001",
+            "立法紀錄": "88卷42期3042號上冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cace81c7c7cbcdcfcec4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcec6cfcfc5ccc7d2cacf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5cacbc6d2cacacd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "780322",
-            "立法紀錄": "78卷57期2273號 2-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c8c7cfcac8cfcfc4cfcfcfcdc4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "780410",
-            "立法紀錄": "78卷58期2274號 30-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c8c7cfcac7cfcfc4cfcfcccfc4cfcfccc7",
+            "會議日期": "881118",
+            "立法紀錄": "88卷53期3053號下冊 417-426頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cace81c7c7cacccfccc4cfcbcec8c4cfcbcdc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "801203",
-            "立法紀錄": "80卷98期2522號 42-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c7cfcfc6c7cfcfc4cfcfcbcdc4cfcfc9c6",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 170-172頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cace81c7c7cacdcfcec4cfcec8cfc4cfcec8cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcfcccfcfc5c6cfc6d2c6cdcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5c8c7d2c7ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "801203",
-            "立法紀錄": "80卷98期2522號 69-73頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c7cfcfc6c7cfcfc4cfcfc9c6c4cfcfc8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "801205",
-            "立法紀錄": "80卷99期2523號 96-125頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c7cfcfc6c6cfcfc4cfcfc6c9c4cfcecdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "801206",
-            "立法紀錄": "80卷99期2523號 254-268頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c7cfcfc6c6cfcfc4cfcdcacbc4cfcdc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "810116",
-            "立法紀錄": "81卷7期2535號上冊 64-66頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c7cecfcfc8cfcec4cfcfc9cbc4cfcfc9c9",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 172-173頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cace81c7c7cacdcfcec4cfcec8cdc4cfcec8cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "810116",
-            "立法紀錄": "81卷7期2535號上冊 66-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cbc681c7cecfcfc8cfcec4cfcfc9c9c4cfcfc9c6",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 173-173頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c8c6cace81c7c7cacdcfcec4cfcec8ccc4cfcec8cc",
             "關係文書": []
         }
     ]
