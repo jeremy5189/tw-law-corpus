@@ -1,12 +1,10 @@
 {
     "title": "中華民國七十七年度所得稅稅率條例",
     "versions": [
-        "中華民國76年12月30日制定",
-        "中華民國76年12月30日公布"
+        "中華民國78年6月30日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -46,66 +44,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "761201",
-            "立法紀錄": "76卷96期2103號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcccc81c8c9cfc6c9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cfcecdcfcfc5cccbcbd2cccacb"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "761214",
-            "立法紀錄": "77卷39期2150號 127-139頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcccc81c8c8cfccc6cfcfc4cfcecdc8c4cfceccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "761217",
-            "立法紀錄": "77卷40期2151號 149-161頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcccc81c8c8cfcbcfcfcfc4cfcecbc6c4cfcec9ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "761219",
-            "立法紀錄": "77卷41期2152號 149-159頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcccc81c8c8cfcbcecfcfc4cfcecbc6c4cfcecac6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "761224",
-            "立法紀錄": "76卷103期2110號 25-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcccc81c8c9cecfcccfcfc4cfcfcdcac4cfcfcacb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cfcec9cfcfc5ccccc6d2cccacf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "761229",
-            "立法紀錄": "76卷104期2111號 22-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcccc81c8c9cecfcbcfcfc4cfcfcdcdc4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "761230",
-            "立法紀錄": "76卷104期2111號 120-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcccc81c8c9cecfcbcfcfc4cfcecdcfc4cfcecdc8",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
