@@ -1,8 +1,8 @@
 {
     "title": "預算法",
     "versions": [
-        "中華民國46年4月5日修正",
-        "中華民國46年4月19日公布"
+        "中華民國48年8月4日修正",
+        "中華民國48年8月12日公布"
     ],
     "types": [
         "立法歷程",
@@ -70,7 +70,7 @@
         {
             "note": "(會計年度)",
             "rule_no": "第十條",
-            "content": "　　政府會計年度，每年七月一日開始，至次年六月三十日終了，但國營事業會計年度，於每年一月一日開始，至十二月三十一日終了，其年度名稱各依其開始日所屬之中華民國紀元年次。",
+            "content": "　　政府會計年度，於每年七月一日開始，至次年六月三十日終了，以次年之中華民國紀元年次為其年度名稱。\n　　國營事業會計年度，於每年一月一日開始，至十二月三十一日終了，以當年之中華民國紀元年次為其年度名稱。",
             "relates": {}
         },
         {
@@ -485,41 +485,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "451211",
-            "立法紀錄": "46卷18期號5冊 109-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc7c681cbc9cec7cfcac4cfcecfc6c4cfcececc",
-            "主提案": "程烈",
+            "會議日期": "480501",
+            "立法紀錄": "48卷23期號11冊 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc6cf81cbc7cdcccecec4cfcfcccac4cfcfccca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cdc9c7d2cdc8cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5cecdcfd2cecdcd"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "460405",
-            "立法紀錄": "46卷19期號4冊 6-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc7c681cbc9cec6cfcbc4cfcfcfc9c4cfcfcfc7",
+            "會議日期": "480731",
+            "立法紀錄": "48卷23期號24冊 48-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc6cf81cbc7cdcccdcbc4cfcfcbc7c4cfcfcacf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5cbcaccd2cbcac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cacbcbd2cacbca"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "480804",
+            "立法紀錄": "48卷23期號25冊 13-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc6cf81cbc7cdcccdcac4cfcfceccc4cfcfceca",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "460405",
-            "立法紀錄": "46卷19期號4冊 86-88頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc7c681cbc9cec6cfcbc4cfcfc7c9c4cfcfc7c7",
+            "會議日期": "480804",
+            "立法紀錄": "48卷23期號25冊 56-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc6cf81cbc7cdcccdcac4cfcfcac9c4cfcfcac9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "460405",
-            "立法紀錄": "46卷19期號4冊 88-88頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc7c681cbc9cec6cfcbc4cfcfc7c7c4cfcfc7c7",
+            "會議日期": "480804",
+            "立法紀錄": "48卷23期號25冊 56-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9ccc6cf81cbc7cdcccdcac4cfcfcac9c4cfcfcac9",
             "關係文書": []
         }
     ]
