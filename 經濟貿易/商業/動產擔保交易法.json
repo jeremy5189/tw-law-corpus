@@ -1,12 +1,12 @@
 {
     "title": "動產擔保交易法",
     "versions": [
-        "中華民國52年8月23日制定",
-        "中華民國52年9月5日公布"
+        "中華民國59年5月19日修正",
+        "中華民國59年5月28日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -34,7 +34,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　機器、設備、工具、原料、半製品、成品、車輛、農林漁牧產品及牲畜均得為動產擔保交易之標的物。\n　　前項各類標的物之品名，由行政院視事實需要及交易性質，以命令定之。",
+            "content": "　　機器、設備、工具、原料、半製品、成品、車輛、農林漁牧產品、牲畜及總噸位未滿二十噸之動力船舶或未滿五十噸之非動力船舶，均得為動產擔保交易之標的物。\n　　前項各類標的物之品名，由行政院視事實需要及交易性質，以命令定之。",
             "relates": {}
         },
         {
@@ -292,65 +292,61 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第四條": "　　為期依海商法第三條第一款規定不適用該法設定抵押之「未滿二十噸之動力船舶或未滿五十噸之非動力船舶」得為動產擔保交易之標的，爰於本條第一項增訂之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "511106",
-            "立法紀錄": "51卷30期號5冊 41-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacf81cacecccfcfcac4cfcfcbcec4cfcfcbce",
+            "會議日期": "590130",
+            "立法紀錄": "59卷8期0號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcbcfc7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccfcfcecfcfc5c7cecdd2c7cdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcccfcfc5c8cfc7d2c8cecf"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "590507",
+            "立法紀錄": "59卷41期0號 1-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcacbcecfcfcfcdc4cfcfcfcec4cfcfcfcb",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "520823",
-            "立法紀錄": "52卷31期號19冊 7-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacf81cacdcccecec6c4cfcfcfc8c4cfcfcacc",
+            "會議日期": "590515",
+            "立法紀錄": "59卷36期0號 36-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcaccc9cfcfcfcec4cfcfccc9c4cfcfcbcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcccfcfc5cac7c6d2c9cdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5c7cecbd2c7cec9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "520816",
-            "立法紀錄": "52卷31期號17冊 87-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacf81cacdcccecec8c4cfcfc7c8c4cfcfc6cc",
+            "會議日期": "590519",
+            "立法紀錄": "59卷37期0號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcaccc8cfcfcfcec4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "520816",
-            "立法紀錄": "52卷31期號17冊 93-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacf81cacdcccecec8c4cfcfc6ccc4cfcfc6c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520820",
-            "立法紀錄": "52卷31期號18冊 199-217頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacf81cacdcccecec7c4cfcec6c6c4cfcdcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520823",
-            "立法紀錄": "52卷31期號19冊 60-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacf81cacdcccecec6c4cfcfc9cfc4cfcfc9cb",
+            "會議日期": "590519",
+            "立法紀錄": "59卷37期0號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcaccc8cfcfcfcec4cfcfcfcbc4cfcfcfcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "520823",
-            "立法紀錄": "52卷31期號19冊 64-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcacf81cacdcccecec6c4cfcfc9cbc4cfcfc8cc",
+            "會議日期": "590519",
+            "立法紀錄": "59卷37期0號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecbcace81cac6cbcaccc8cfcfcfcec4cfcfcfcbc4cfcfcfcb",
             "關係文書": []
         }
     ]
