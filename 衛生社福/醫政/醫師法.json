@@ -1,8 +1,8 @@
 {
     "title": "醫師法",
     "versions": [
-        "中華民國68年5月25日修正",
-        "中華民國68年6月6日公布"
+        "中華民國70年6月5日修正",
+        "中華民國70年6月12日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -195,6 +195,12 @@
         },
         {
             "note": "",
+            "rule_no": "第二十八條 之一",
+            "content": "　　未取得合法醫師資格為醫療廣告者，由衛生主管機關處以五千元以上五萬元以下罰鍰。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第二十九條",
             "content": "　　醫師違反本法規定之義務者，由衛生主管機關處以二百元以上一千元以下罰鍰，並得視其情節輕重移付懲戒。其觸犯刑者，應移送司法機關依法辦理，必要時並得由中央衛生主管機關撤銷其醫師證書。\n　　前項醫師懲戒辦法，由中央衛生主管機關擬訂，報請行政院核定之。",
             "relates": {}
@@ -236,7 +242,7 @@
         {
             "note": "",
             "rule_no": "第三十五條",
-            "content": "　　全國醫師公會聯合會之設立，應由省（市）醫師公會七個以上之發起及全體過半數之同意組織之。",
+            "content": "　　全國醫師公會聯合會之設立，應由省或直轄市醫師公會七個以上之發起，全體過半數之同意組織之。但在動員勘亂時期，不足法定單位發起組織時，得由內政部會商中央衛生主管機關同意後核准設立之。",
             "relates": {}
         },
         {
@@ -299,56 +305,75 @@
         }
     ],
     "law_reasons": {
-        "第三十九條": "　　為適應因會員人數過多或會員不能出席以致無法召開會員大會之情形，爰將本條第五款條文中「會員大會」一詞修正為「會員（代表）大會」，以應實際需要。",
-        "第四十條": "　　為商應因會員人數過多或會員不能出席以致無法召開會員大會之情形，爰將本條第五款條文中「會員大會」一詞修正為「會員（代表）大會」，以應實際需要。",
-        "第四十一條": "　　為商應因會員人數過多或會員不能出席以致無法召開會員大會之情形，爰將本條第五款條文中「會員大會」一詞修正為「會員（代表）大會」，以應實際需要。",
-        "第四十一條 之一": "　　一、本條新增。\n　　二、為因應事實需要，並參照工業團體法第六十六條及商業團體法第六十六條之先例增列。\n　　三、依中央法規標準法第十條第二項之規定，特將條次修正為第四十一條之一，以符法律規定。至其內容則未予修正。"
+        "第二十八條 之一": "　　一、本條新增。\n　　二、條乃旨在遏止未取得醫師資格之醫療廣告氾濫，原條文未規定處罰機關，似有未妥，且本法第廿七條及第廿九條之罰鍰均明定由衛生主管機關處罰，為求前後條文一致起見，爰於首句下增加「由衛生主管機關」七字以明權責。\n　　三、原條文末句「處五千元以上五萬元以下罰鍰」，其罰鍰之上下限差距過大，易滋流弊，爰將「五萬元」修正為「三萬元」，似較妥適。",
+        "第三十五條": "　　國家遭遇重大變故，致省（市）醫師公會不足七個單位時，亦能發起組織全國聯合會，立意尚合目前需要，惟「但因國家重大變故」一語，含有國家現在發重大變故之意，具其範圍，亦可包括重大災害在內，其意含糊，爰將其修正為「在動員戡亂時期」以較明確。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680420",
-            "立法紀錄": "68卷32期1204號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cccccdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "700123",
+            "立法紀錄": "70卷7期1388號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cace81c8cfc9c9cfc8cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c6cdd2c6ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5c7cdcbd2c7cdc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "680505",
-            "立法紀錄": "68卷93期1265號 55-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cbc6cccfcfc4cfcfcacac4cfcfc9ce",
+            "會議日期": "700430",
+            "立法紀錄": "70卷63期1444號 27-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cace81c8cfc9c8c9cccfcfc4cfcfcdc8c4cfcfcccd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "700318",
+            "立法紀錄": "70卷69期1450號 56-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cace81c8cfc9c8c9c6cfcfc4cfcfcac9c4cfcfc9cd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "700401",
+            "立法紀錄": "70卷72期1453號 82-90頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cace81c8cfc9c8c8cdcfcfc4cfcfc7cdc4cfcfc6cf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "700513",
+            "立法紀錄": "70卷76期1457號 150-154頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cace81c8cfc9c7c8c9cfcfc4cfcecacfc4cfcecacb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "680525",
-            "立法紀錄": "68卷42期1214號 4-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cccbcdcfcfc4cfcfcfcbc4cfcfcecf",
+            "會議日期": "700605",
+            "立法紀錄": "70卷45期1426號 4-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cace81c8cfc9c8cbcacfcfc4cfcfcfcbc4cfcfcece",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c9cdc6d2c9cccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcacfcfc5cac9cad2cac9c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "680525",
-            "立法紀錄": "68卷42期1214號 10-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cccbcdcfcfc4cfcfcecfc4cfcfcece",
+            "會議日期": "700605",
+            "立法紀錄": "70卷45期1426號 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cace81c8cfc9c8cbcacfcfc4cfcfcecec4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680525",
-            "立法紀錄": "68卷42期1214號 11-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cccbcdcfcfc4cfcfcecec4cfcfcecd",
+            "會議日期": "700605",
+            "立法紀錄": "70卷45期1426號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cace81c8cfc9c8cbcacfcfc4cfcfcecdc4cfcfcecd",
             "關係文書": []
         }
     ]
