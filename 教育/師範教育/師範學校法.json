@@ -1,12 +1,11 @@
 {
     "title": "師範學校法",
     "versions": [
-        "中華民國68年11月6日廢止",
-        "中華民國68年11月21日公布"
+        "中華民國21年11月26日制定",
+        "中華民國21年12月17日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -110,35 +109,6 @@
             "rule_no": "第十七條",
             "content": "　　本法自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　為確立師範教育之體制，以利師範教育之發展，爰依據現代師範教育理論，訂定「師範教育法」，並廢止師範學校法。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "680417",
-            "立法紀錄": "68卷31期1203號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcac8cb81c9c7c9cccccecfcfc4cfcfcfcdc4cfcfcfcd",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c7d2cdce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "681019",
-            "立法紀錄": "68卷84期1256號 2-29頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcac8cb81c9c7c9cbc7cbcfcfc4cfcfcfcdc4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "681106",
-            "立法紀錄": "68卷89期1261號 11-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcac8cb81c9c7c9cbc7c6cfcfc4cfcfcecec4cfcfcece",
-            "關係文書": []
         }
     ]
 }
