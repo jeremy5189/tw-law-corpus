@@ -1,10 +1,11 @@
 {
     "title": "反共抗俄戰士授田條例",
     "versions": [
-        "中華民國40年10月5日制定",
-        "中華民國40年10月16日公布"
+        "中華民國48年4月21日修正",
+        "中華民國48年4月30日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -117,16 +118,56 @@
             "relates": {}
         },
         {
-            "note": "(施行細則)",
+            "note": "(退除役官兵提前辦理授田)",
             "rule_no": "第十九條",
+            "content": "　　行政院得就安置於農墾事業之退除役官兵提前辦理授田。",
+            "relates": {}
+        },
+        {
+            "note": "(施行細則)",
+            "rule_no": "第二十條",
             "content": "　　本條例施行細則由行政院定之。",
             "relates": {}
         },
         {
             "note": "(施行日)",
-            "rule_no": "第二十條",
+            "rule_no": "第二十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "470429",
+            "立法紀錄": "47卷21期號10冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cacd81cbc8cdcececfc4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcdcfcfc5ccc6ccd2ccc6ca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "480421",
+            "立法紀錄": "48卷23期號10冊 28-30頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cacd81cbc7cdcccecfc4cfcfcdc7c4cfcfcccf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5caccd2caca"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "480421",
+            "立法紀錄": "48卷23期號10冊 43-45頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cacd81cbc7cdcccecfc4cfcfcbccc4cfcfcbca",
+            "關係文書": []
         }
     ]
 }
