@@ -1,11 +1,12 @@
 {
     "title": "統一中外地名譯文委員會組織條例",
     "versions": [
-        "中華民國34年10月31日制定",
-        "中華民國34年11月17日公布"
+        "中華民國62年5月25日廢止",
+        "中華民國62年6月7日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -55,6 +56,30 @@
             "rule_no": "第八條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例係於民國三十四年制定公布，在大陸局勢劇變時，為精簡機構，已將該機構裁撤；來臺後，其集中翻譯中外地名及統一譯文之業務，向由國立編譯館負責，此一機構已無再予設置之必要，本條例亦無存在之必要，故廢止之。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "620223",
+            "立法紀錄": "62卷14期570號 73-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccccc981c9cdcacececbcfcfcfcec4cfcfc8ccc4cfcfc8cb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620503",
+            "立法紀錄": "62卷54期610號 33-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccccc981c9cdcacecacbcfcfcfcdc4cfcfccccc4cfcfccca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620525",
+            "立法紀錄": "62卷39期595號 26-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccccc981c9cdcaceccc6cfcfcfcec4cfcfcdc9c4cfcfcdc8",
+            "關係文書": []
         }
     ]
 }
