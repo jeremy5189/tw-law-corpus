@@ -1,10 +1,12 @@
 {
     "title": "基隆河流域整治特別條例",
     "versions": [
-        "中華民國100年10月30日期滿廢止"
+        "中華民國90年10月11日制定",
+        "中華民國90年10月31日公布"
     ],
     "types": [
-        "廢止理由"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -28,7 +30,7 @@
         {
             "note": "(整治範圍)",
             "rule_no": "第四條",
-            "content": "　　本條例所稱之基隆河及基隆河流域，係指基隆河集水區內之臺北市、新北市及基隆市行政區域內之河段及地區。",
+            "content": "　　本條例所稱之基隆河及基隆河流域，係指基隆河集水區內之台北市、台北縣及基隆市行政區域內之河段及地區。",
             "relates": {}
         },
         {
@@ -52,9 +54,80 @@
         {
             "note": "(施行日)",
             "rule_no": "第八條",
-            "content": "　　本條例自公布日起施行，施行期間十年。\n　　本條例中華民國九十九年十一月十六日修正之條文，自九十九年十二月二十五日施行。",
+            "content": "　　本條例自公布日起施行，施行期間十年。",
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_reasons": {
+        "第一條": "　　說明本條例之立法宗旨。",
+        "第二條": "　　照黨團協商條文通過。",
+        "第三條": "　　說明本條例所稱中央主管機關為經濟部。",
+        "第四條": "　　說明本條例所指之整治範圍。",
+        "第五條": "　　說明本條例之預算來源。",
+        "第六條": "　　照黨團協商條文通過。",
+        "第七條": "　　明訂本條例之施行細則。",
+        "第八條": "　　明訂本條例之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "900227",
+            "立法紀錄": "90卷8期3142號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cec8c881c6cfcfc7cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "廖學廣",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcfc5cecacfd2cecac6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "900404",
+            "立法紀錄": "90卷22期3156號下冊 59-81頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cec8c881c6cfcdcdcfccc4cfcfcac6c4cfcfc7ce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "900423",
+            "立法紀錄": "90卷28期3162號下冊 129-132頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cec8c881c6cfcdc7cfccc4cfcecdc6c4cfcecccd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "900531",
+            "立法紀錄": "90卷42期3176號 107-114頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cec8c881c6cfcbcdcfcfc4cfcecfc8c4cfcececb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "901004",
+            "立法紀錄": "90卷46期3180號上冊 377-389頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cec8c881c6cfcbc9cfcec4cfccc8c8c4cfccc7c6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacecdcfcdc5c9c8cfd2c9c7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "901011",
+            "立法紀錄": "90卷47期3181號中冊 502-503頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cec8c881c6cfcbc8cfcdc4cfcacfcdc4cfcacfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "901011",
+            "立法紀錄": "90卷47期3181號中冊 503-505頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cec8c881c6cfcbc8cfcdc4cfcacfccc4cfcacfca",
+            "關係文書": []
+        }
+    ]
 }
