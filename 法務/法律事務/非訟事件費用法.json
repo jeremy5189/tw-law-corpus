@@ -1,12 +1,12 @@
 {
     "title": "非訟事件費用法",
     "versions": [
-        "中華民國57年11月1日制定",
-        "中華民國57年11月14日公布"
+        "中華民國61年8月29日廢止",
+        "中華民國61年9月9日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -82,58 +82,20 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　因非訟事件法乃將現行非訟事件法及非訟事件費用法合併修正，非訟事件費用法已無保留必要，故加以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "570719",
-            "立法紀錄": "57卷54期號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9cd81cac8cbcecacbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcbcfcfc5cdc9cad2cdc8ce"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570808",
-            "立法紀錄": "57卷65期號 8-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9cd81cac8cbcec9cacfcfcfcdc4cfcfcfc7c4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570822",
-            "立法紀錄": "57卷69期號 13-16頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9cd81cac8cbcec9c6cfcfc4cfcfceccc4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "571029",
-            "立法紀錄": "57卷80期號 6-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9cd81cac8cbcdc7cfcfcfcfcec4cfcfcfc9c4cfcfcecc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcecfcfc5c8cdc6d2c8ccc9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "571029",
-            "立法紀錄": "57卷80期號 14-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9cd81cac8cbcdc7cfcfcfcfcec4cfcfcecbc4cfcfceca",
+            "會議日期": "610606",
+            "立法紀錄": "61卷45期498號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9cc81c9cecbc6cbcacfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "571101",
-            "立法紀錄": "57卷81期號 2-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9cd81cac8cbcdc7cecfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "610829",
+            "立法紀錄": "61卷69期522號 42-45頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9cc81c9cecbc6c9c6cfcfc4cfcfcbcdc4cfcfcbca",
             "關係文書": []
         }
     ]
