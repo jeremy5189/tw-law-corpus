@@ -1,8 +1,8 @@
 {
     "title": "電影法",
     "versions": [
-        "中華民國90年10月31日修正",
-        "中華民國90年11月14日公布"
+        "中華民國91年4月2日修正",
+        "中華民國91年4月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -40,7 +40,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第五條",
-            "content": "　　本法所稱之主管機關：在中央為行政院新聞局；在省（市）為省（市）政府新聞處；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱之主管機關：在中央為行政院新聞局；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -409,36 +409,41 @@
         }
     ],
     "law_reasons": {
-        "第五條 之一": "　　一、本條新增。\n　　二、依據ＷＴＯ服務貿易總協定，會員為防止本國產業因進口服務增加，而受到嚴重損害，或有受到嚴重損害之虞時，可在不歧視原則下採緊急防衛措施。又為配合ＷＴＯ未來之服務貿易緊急防衛措施規範，授權主管機關未來配合ＷＴＯ之規定，訂定本條有關損害及有損害之虞之調查、認定及救助措施辦法等規定。",
-        "第十一條": "　　一、本條刪除。\n　　二、因映演比例之實施有違ＷＴＯ服務業貿易總定所承諾之國民待遇原則，為配合加入ＷＴＯ之需要，爰將本條刪除。",
-        "第四十條": "　　一、本條刪除。\n　　二、因映演比例之實施有違ＷＴＯ服務業貿易總定所承諾之國民待遇原則，為配合加入ＷＴＯ之需要，爰將本條刪除。"
+        "第五條": "　　因應精省做文字修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "901031",
-            "立法紀錄": "90卷53期3187號一冊 237-239頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcece81c6cfcacccfcec4cfcdccc8c4cfcdccc6",
-            "主提案": "民進黨黨團",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcecc81c6cecdcecfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cfc8cfcec5cdc8c8d2cdc8c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "901031",
-            "立法紀錄": "90卷53期3187號一冊 239-239頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcece81c6cfcacccfcec4cfcdccc6c4cfcdccc6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 100-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcecc81c6cecdcecfcec4cfcecfcfc4cfcecfce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 123-123頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcecc81c6cecdcecfcec4cfcecdccc4cfcecdcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "901031",
-            "立法紀錄": "90卷53期3187號一冊 239-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcece81c6cfcacccfcec4cfcdccc6c4cfcdcbcf",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 133-133頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcecc81c6cecdcecfcec4cfceccccc4cfcecccc",
             "關係文書": []
         }
     ]
