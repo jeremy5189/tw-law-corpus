@@ -1,12 +1,12 @@
 {
     "title": "駐外使領館組織條例",
     "versions": [
-        "中華民國55年1月4日修正",
-        "中華民國55年1月13日公布"
+        "中華民國62年10月16日修正",
+        "中華民國62年10月27日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　大使館設特命全權大使一人，特任或簡任，並設左列外交官員：\n　　一、參事一人或二人。\n　　二、一等秘書及二等秘書一人至五人。\n　　三、三等秘書一人至七人。\n　　大使館業務繁重者，得設公使一人。",
+            "content": "　　大使館置特命全權大使一人，特任或簡任。並設左列外交官員：\n　　一、參事一人至四人。\n　　二、一等秘書及二等秘書一人至六人。\n　　三、三等秘書一人至七人。\n　　大使館業務繁重者，得設公使一人。",
             "relates": {}
         },
         {
@@ -112,51 +112,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　近年來我駐外各使領館業務有增無已，較大使館高級館員每感不足，故擬調整使館編制，俾在人事調遺上更具彈性，爰予以修正。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "540416",
-            "立法紀錄": "54卷35期號6冊 62-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccc81cacbcccacfc9cfcfc4cfcfc9cdc4cfcfc9cd",
+            "會議日期": "620504",
+            "立法紀錄": "62卷33期589號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccb81c9cdcacecccccfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcdcfcfc5ccc9c7d2ccc8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcacfcfc5cecfcfd2cecfcd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550104",
-            "立法紀錄": "54卷36期號8冊 22-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccc81cacaccc9cfc7cfcfc4cfcfcdcdc4cfcfcdc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcacfcfc5caccced2caccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550104",
-            "立法紀錄": "54卷36期號8冊 51-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccc81cacaccc9cfc7cfcfc4cfcfcacec4cfcfcacb",
+            "進度": "委員會審查",
+            "會議日期": "620602",
+            "立法紀錄": "62卷58期614號 10-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccb81c9cdcacecac7cfcfcfcdc4cfcfcecfc4cfcfcecc",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "621016",
+            "立法紀錄": "62卷79期635號 30-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccb81c9cdcacdc8c6cfcfcfcec4cfcfcccfc4cfcfcccd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcdcfcfc5cdcaced2cdcacb"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "550104",
-            "立法紀錄": "54卷36期號8冊 54-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccc81cacaccc9cfc7cfcfc4cfcfcacbc4cfcfcaca",
+            "會議日期": "621016",
+            "立法紀錄": "62卷79期635號 33-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccb81c9cdcacdc8c6cfcfcfcec4cfcfccccc4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "550104",
-            "立法紀錄": "54卷36期號8冊 55-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccc81cacaccc9cfc7cfcfc4cfcfcacac4cfcfcaca",
+            "會議日期": "621016",
+            "立法紀錄": "62卷79期635號 33-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8cccb81c9cdcacdc8c6cfcfcfcec4cfcfccccc4cfcfcccc",
             "關係文書": []
         }
     ]
