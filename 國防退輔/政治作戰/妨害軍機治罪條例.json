@@ -1,8 +1,8 @@
 {
     "title": "妨害軍機治罪條例",
     "versions": [
-        "中華民國43年4月30日修正",
-        "中華民國43年5月4日公布"
+        "中華民國46年4月19日修正",
+        "中華民國46年5月2日公布"
     ],
     "types": [
         "立法歷程",
@@ -76,44 +76,52 @@
             "relates": {}
         },
         {
-            "note": "(施行期限)",
-            "rule_no": "第十二條",
-            "content": "　　本條例施行期間為六年。",
-            "relates": {}
-        },
-        {
             "note": "(施行日)",
-            "rule_no": "第十三條",
+            "rule_no": "第十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
     ],
     "law_history": [
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "430430",
-            "立法紀錄": "43卷13期號10冊 10-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c981cbcccecccfcbc4cfcfcecfc4cfcfcece",
+            "進度": "一讀",
+            "會議日期": "460405",
+            "立法紀錄": "46卷19期號4冊 70-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcbc4cfcfc8cfc4cfcfc8cf",
             "主提案": "行政院",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cecbcad2cecbc9"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5cacfc7d2cacecf"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "460419",
+            "立法紀錄": "46卷19期號5冊 5-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcac4cfcfcfcac4cfcfcfc8",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "430430",
-            "立法紀錄": "43卷13期號10冊 71-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c981cbcccecccfcbc4cfcfc8cec4cfcfc8cd",
+            "會議日期": "460405",
+            "立法紀錄": "46卷19期號4冊 108-113頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcbc4cfcecfc7c4cfcececc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "460419",
+            "立法紀錄": "46卷19期號5冊 78-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcac4cfcfc8c7c4cfcfc7cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430430",
-            "立法紀錄": "43卷13期號10冊 72-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c981cbcccecccfcbc4cfcfc8cdc4cfcfc8cd",
+            "會議日期": "460419",
+            "立法紀錄": "46卷19期號5冊 86-87頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcac4cfcfc7c9c4cfcfc7c8",
             "關係文書": []
         }
     ]
