@@ -1,11 +1,11 @@
 {
     "title": "財政部鹽務總局組織法",
     "versions": [
-        "中華民國37年3月16日修正",
-        "中華民國37年3月31日公布"
+        "中華民國69年12月26日停止適用",
+        "中華民國70年1月12日公布"
     ],
     "types": [
-        "異動條文"
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -121,6 +121,34 @@
             "rule_no": "第十七條",
             "content": "　　本法自公布施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "690118",
+            "立法紀錄": "69卷6期1282號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcecf81c9c6c9cbcfc9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcbcfcfc5c9c6cad2c8cfcf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "691210",
+            "立法紀錄": "70卷38期1419號 27-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcecf81c8cfc9c8ccc7cfcfc4cfcfcdc8c4cfcfccce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "691226",
+            "立法紀錄": "69卷104期1380號 56-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcecf81c9c6c9c9cecfcbcfcfc4cfcfcac9c4cfcfcac7",
+            "關係文書": []
         }
     ]
 }
