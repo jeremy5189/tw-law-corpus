@@ -1,8 +1,8 @@
 {
     "title": "財團法人國家衛生研究院設置條例",
     "versions": [
-        "中華民國84年1月17日制定",
-        "中華民國84年2月3日公布"
+        "中華民國88年1月14日修正",
+        "中華民國88年2月3日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -84,7 +84,7 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　本院董事、董事長及諮詢委員均為無給職。\n　　本院之組織編制及專任人員之任免、薪給、福利、退休、撫卹等，由董事會通過後報請主管機關核定之。",
+            "content": "　　本院董事、董事長及諮詢委員均為無給職。\n　　本院之組織編制及專任人員之任免、薪給、福利、退休、撫卹等，其辦法由董事會通過後報請主管機關核定之。",
             "relates": {}
         },
         {
@@ -119,77 +119,46 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　明定成立財團法人國家衛生研究院之宗旨。",
-        "第二條": "　　為發揮組織及專業功能，便於醫藥衛生高級科技人才之延攬，擴大參與層面，並得以非官方性質參與國際學術活動，爰明定本院之組織性質為財團法人。",
-        "第三條": "　　明定本院之主管機關，以明權責。",
-        "第四條": "　　為使本院各項經費來源能維持基本水準而不虞匱乏，以有效整合國家醫療保健研究資源，並獲致理想之研究成果，特設創立基金。",
-        "第五條": "　　明定本院經費來源，除創立基金之孳息、政府補助之研究計畫經費外，並得接受國內外公私立機構、團體或個人之捐贈及受託研究及提供服務之收入。",
-        "第六條": "　　明定本院設董事會及董事之人數。",
-        "第七條": "　　明列受聘任為董事之人員，以增強本院研究效能。",
-        "第八條": "　　一、明定受選任為董事之條件及其任期及改選方式，以擴大醫藥衛生學者專家之參與。\n　　二、明列但書限制連任之人數。",
-        "第九條": "　　明定董事會之組織及董事長之產生方式。",
-        "第十條": "　　明定常務董事之人數及產生方式。",
-        "第十一條": "　　明定本院院長、副院長與董事會之關係；副院長由院長提請董事會聘任之。",
-        "第十二條": "　　明定諮詢委員之產生方式及委員人數。",
-        "第十三條": "　　明定本院人員進用及其待遇、福利之規定，以保障人員之素質及其應享之權益。",
-        "第十四條": "　　為提升國內醫藥衛生及生物科技水準，於院內設研究單位，從事專題研究；另於國內其他地區，配合當地衛生問題，設置院外分支研究機構。此外，為促進國際醫藥衛生研究之合作與交流、培訓醫藥衛生研究人才，並於院內設國際合作、教育訓練等研究支援單位；且設立人事、會計等行政支援單位，以利院務之推動。",
-        "第十五條": "　　一、明定本院預算、決算之編具過程，以確保經費之正常運用。\n　　二、明定該院預算及決算均需送立法院審查之規定。",
-        "第十六條": "　　明定捐助章程之訂定依據。",
-        "第十七條": "　　一、明定本院若無法達到設置目的時，其財務之處理方式。\n　　二、明列主管機關亦得宣告解散及解散後其人員應予解聘之規定。",
-        "第十八條": "　　明定本條例之施行日期。"
+        "第十三條": "　　原條文第二項規定：「本院之組織編制及專任人員之任免、薪給、福利、退休、撫卹等，由董事會通過後報請主管機關核定之。」賦與主管機關對其組織編制之決定權及專任人員之人事權，影響該院從事學術研究之獨立性，爰以修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830318",
-            "立法紀錄": "83卷17期2691號上冊 400-400頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecfc681c7cccec8cfcec4cfcbcfcfc4cfcbcfcf",
-            "主提案": "行政院",
+            "會議日期": "880105",
+            "立法紀錄": "88卷3期3003號上冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcececf81c7c7cfcccfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "洪奇昌",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccfc8cfcdc5cacec9d2cacdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cececfcec5cbc6ced2cbc6cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830602",
-            "立法紀錄": "83卷42期2716號 418-436頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecfc681c7cccbcdcfcfc4cfcbcec7c4cfcbccc9",
+            "會議日期": "880111",
+            "立法紀錄": "88卷7期3007號 3-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcececf81c7c7cfc8cfcfc4cfcfcfccc4cfcfcecf",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830623",
-            "立法紀錄": "83卷47期2721號下冊 424-441頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecfc681c7cccbc8cfccc4cfcbcdcbc4cfcbcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "840117",
-            "立法紀錄": "84卷6期2763號下冊 180-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecfc681c7cbcfc9cfccc4cfcec7cfc4cfcec7c6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec6cfcdc5cacfcdd2cacecd"
-                ]
-            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "840117",
-            "立法紀錄": "84卷6期2763號下冊 189-190頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecfc681c7cbcfc9cfccc4cfcec7c6c4cfcec6cf",
-            "關係文書": []
+            "會議日期": "880114",
+            "立法紀錄": "88卷6期3006號一冊 49-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcececf81c7c7cfc9cfcec4cfcfcbc6c4cfcfcacc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cecdcfcec5cac8cbd2cac8c6"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "840117",
-            "立法紀錄": "84卷6期2763號下冊 190-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcecfc681c7cbcfc9cfccc4cfcec6cfc4cfcec6ce",
+            "會議日期": "880114",
+            "立法紀錄": "88卷6期3006號一冊 53-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcececf81c7c7cfc9cfcec4cfcfcaccc4cfcfcacb",
             "關係文書": []
         }
     ]
