@@ -1,8 +1,8 @@
 {
     "title": "兵役法施行法",
     "versions": [
-        "中華民國48年7月21日修正",
-        "中華民國48年7月31日公布"
+        "中華民國49年4月22日修正",
+        "中華民國49年4月30日公布"
     ],
     "types": [
         "立法歷程",
@@ -402,7 +402,7 @@
         {
             "note": "",
             "rule_no": "第六十條",
-            "content": "　　依兵役法第三十六條第一款緩徵者，應由學生肄業之學校，於每學期始業時，造具學生名冊，分別通知其原籍或寄居地縣（市）政府核定後，轉報省政府並彙送團管區司令部。",
+            "content": "　　依兵役法第三十六條第一款緩徵者，應由學生肄業之學校，於每學期始業時，造具學生名冊，呈經教育主管機關查核後，分別通知其原籍或寄居地縣（市）政府審定，轉報省政府並彙送團管區司令部。",
             "relates": {}
         },
         {
@@ -561,54 +561,67 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "480414",
-            "立法紀錄": "48卷23期號9冊 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c681cbc7cdcccfc6c4cfcfcfccc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "481110",
+            "立法紀錄": "48卷24期號6冊 1-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc7cdcbcfc9c4cfcfcfcec4cfcfcfcc",
+            "主提案": "臧元駿",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5cdc6d2ccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "480703",
-            "立法紀錄": "48卷23期號21冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c681cbc7cdcccdcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cdc6ccd2cdc6ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cdc6d2ccce"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480721",
-            "立法紀錄": "48卷23期號23冊 4-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c681cbc7cdcccdccc4cfcfcfcbc4cfcfceca",
+            "會議日期": "481110",
+            "立法紀錄": "48卷24期號6冊 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc7cdcbcfc9c4cfcfcecec4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "481110",
+            "立法紀錄": "48卷24期號6冊 53-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc7cdcbcfc9c4cfcfcaccc4cfcfcac6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cbc7c8d2cbc6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cdc8d2cdc7"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "490422",
+            "立法紀錄": "49卷25期號8冊 7-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc6cdcacfc7c4cfcfcfc8c4cfcfcfc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcecfcfc5c7cdcfd2c7cdcc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "490422",
+            "立法紀錄": "49卷25期號7冊 50-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc6cdcacfc8c4cfcfcacfc4cfcfc9cc",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480721",
-            "立法紀錄": "48卷23期號23冊 52-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c681cbc7cdcccdccc4cfcfcacdc4cfcfcaca",
+            "會議日期": "490422",
+            "立法紀錄": "49卷25期號7冊 63-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc6cdcacfc8c4cfcfc9ccc4cfcfc9cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480721",
-            "立法紀錄": "48卷23期號23冊 56-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c681cbc7cdcccdccc4cfcfcac9c4cfcfcac8",
+            "會議日期": "490422",
+            "立法紀錄": "49卷25期號8冊 38-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc6cdcacfc7c4cfcfccc7c4cfcfccc7",
             "關係文書": []
         }
     ]
