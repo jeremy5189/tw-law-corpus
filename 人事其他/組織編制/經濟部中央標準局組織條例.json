@@ -1,12 +1,12 @@
 {
     "title": "經濟部中央標準局組織條例",
     "versions": [
-        "中華民國68年7月24日全文修正",
-        "中華民國68年8月6日公布"
+        "中華民國91年6月11日廢止",
+        "中華民國91年7月3日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -124,115 +124,38 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「經濟部智慧財產局組織條例」業於88年1月26日施行，並於同日改制成立，原「經濟部中央標準局組織條例」爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "671205",
-            "立法紀錄": "67卷97期1165號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c8c9cdc6c8cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "910416",
+            "立法紀錄": "91卷26期3222號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7ce81c6cecdc9cfcfc4cfcfcfc6c4cfcfcfc6",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cac6c8d2c9cecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc8cfcdc5ccc8cdd2ccc8c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "671213",
-            "立法紀錄": "68卷33期1205號 39-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cccccccfcfc4cfcfccc6c4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680321",
-            "立法紀錄": "68卷50期1222號 19-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cccacfcfcfc4cfcfcec6c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680404",
-            "立法紀錄": "68卷52期1224號 19-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cccacdcfcfc4cfcfcec6c4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680411",
-            "立法紀錄": "68卷57期1229號 52-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cccac8cfcfc4cfcfcacdc4cfcfcac8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680502",
-            "立法紀錄": "68卷62期1234號 21-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9ccc9cdcfcfc4cfcfcdcec4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680623",
-            "立法紀錄": "68卷88期1260號 23-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cbc7c7cfcfc4cfcfcdccc4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680704",
-            "立法紀錄": "68卷90期1262號 53-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cbc6cfcfcfc4cfcfcaccc4cfcfc9cf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680711",
-            "立法紀錄": "68卷95期1267號 55-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cbc6cacfcfc4cfcfcacac4cfcfc9ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "680511",
-            "立法紀錄": "68卷38期1210號 3-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9ccccc7cfcfc4cfcfcfccc4cfcfcccf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c9cfc6d2c9cdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "680515",
-            "立法紀錄": "68卷39期1211號 2-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9ccccc6cfcfc4cfcfcfcdc4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "680720",
-            "立法紀錄": "68卷58期1230號 5-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cccac7cfcfc4cfcfcfcac4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "680525",
-            "立法紀錄": "68卷42期1214號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cccbcdcfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "910527",
+            "立法紀錄": "91卷50期3246號下冊 239-260頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7ce81c6cecacfcfccc4cfcdccc6c4cfcdc9cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680724",
-            "立法紀錄": "68卷59期1231號 3-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc8c681c9c7c9cccac6cfcfc4cfcfcfccc4cfcfcfc6",
-            "關係文書": []
+            "會議日期": "910611",
+            "立法紀錄": "91卷42期3238號上冊 179-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7ce81c6cecbcdcfcec4cfcec8c6c4cfcec7cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec9cfcdc5cac7c6d2c9cfce"
+                ]
+            ]
         }
     ]
 }
