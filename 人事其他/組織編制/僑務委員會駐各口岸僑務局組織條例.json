@@ -1,11 +1,12 @@
 {
     "title": "僑務委員會駐各口岸僑務局組織條例",
     "versions": [
-        "中華民國34年10月31日制定",
-        "中華民國34年11月16日公布"
+        "中華民國61年11月28日廢止",
+        "中華民國61年12月9日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -43,6 +44,30 @@
             "rule_no": "第六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　僑務委員會駐各口岸僑務局組織條例自民國三十四年公布施行，係依該會舊組織法第二十三條之規定而制定，現因本會組織法於民國六十一年修正後，已將原設僑務局條文刪除，且目前亦無是項機構之設置，本條例已無存在必要，故予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "611020",
+            "立法紀錄": "61卷83期536號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfcf81c9cecacfc7cccfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "611115",
+            "立法紀錄": "62卷4期560號 29-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfcf81c9cdcacfcfcbcfcfcfcdc4cfcfcdc6c4cfcfcccf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "611128",
+            "立法紀錄": "61卷94期547號 30-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcfcf81c9cecacfc6cbcfcfcfcec4cfcfcccfc4cfcfccce",
+            "關係文書": []
         }
     ]
 }
