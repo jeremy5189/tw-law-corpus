@@ -1,12 +1,12 @@
 {
     "title": "國民大會組織法",
     "versions": [
-        "中華民國48年12月8日修正",
-        "中華民國48年12月9日公布"
+        "中華民國81年1月16日修正",
+        "中華民國81年1月29日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -30,13 +30,13 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　國民大會代表，於國民大會舉行開會式時，應行宣誓，其誓詞如左：\n　　某某謹以至誠，恪遵憲法，代表中華民國人民依法行使職權，謹誓。\n　　國民大會代表宣誓後，應於誓詞簽名。",
+            "content": "　　國民大會代表應於當選後定期宣誓，其因故未宣誓者，得另定日期一次補行宣誓。其誓詞如左：\n　　余謹以至誠，恪遵憲法，代表中華民國人民依法行使職權。謹誓。\n　　國民大會代表宣誓後，應於誓詞簽名。\n　　國民大會代表不依規定宣誓者，不得出席會議及行使職權。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　國民大會設主席團，由出席代表互選八十五人組織之，其職掌如左：\n　　一、關於議事程序事項。\n　　二、關於國民大會行政事項。\n　　三、本法規定其他事項。",
+            "content": "　　國民大會設主席團，由出席代表互選三十三人組織之，其職掌如左：\n　　一、關於議事程序事項。\n　　二、關於國民大會行政事項。\n　　三、本法規定其他事項。",
             "relates": {}
         },
         {
@@ -94,51 +94,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第四條": "　　一、依照宣誓條例第三條規定，所有公職人員之宣誓，均以一次為已足，且係於就職時宣誓，惟國民大會代表例外，應求其一致在就職時宣誓。\n　　二、依宣誓條例第八條規定，不依本條例之規定宣誓者，視同未就職，乃增訂第三項。",
+        "第五條": "　　第一屆國民大會代表在南京集會時代表總額為三○四五人，因此當時設主席團八十五人，惟依中華民國憲法增修條文第五條規定國民大會第二屆國民大會代表（依中央選舉委員會公告計三二五人）與依動員戡亂時期臨時條款增加名額選出之國民大會代表（八十人），於中華民國八十二年一月卅一日前，共同行使職權，故第二屆代表集會總額應為四○五人，代表人數既已減少，故主席團人數宜配合修正為三十三人。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "481110",
-            "立法紀錄": "48卷24期號6冊 53-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc9c4cfcfcaccc4cfcfcacc",
+            "會議日期": "801226",
+            "立法紀錄": "81卷1期2529號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc6c781c7cecfcfcecfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cccdd2cccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdcccfcec5c7c8d2c7c6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "481201",
-            "立法紀錄": "48卷24期號9冊 37-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc6c4cfcfccc8c4cfcfcbcd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cdc8ced2cdc8cc"
-                ]
-            ]
+            "進度": "委員會審查",
+            "會議日期": "810104",
+            "立法紀錄": "81卷4期2532號 169-192頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc6c781c7cecfcfcbcfcfc4cfcec9c6c4cfcec6cd",
+            "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "481201",
-            "立法紀錄": "48卷24期號9冊 5-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc6c4cfcfcfcac4cfcfcfc7",
+            "進度": "委員會審查",
+            "會議日期": "810108",
+            "立法紀錄": "81卷5期2533號 402-419頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc6c781c7cecfcfcacfcfc4cfcbcfcdc4cfcbcec6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "481208",
-            "立法紀錄": "48卷24期號9冊 81-82頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc6c4cfcfc7cec4cfcfc7cd",
-            "關係文書": []
+            "會議日期": "810116",
+            "立法紀錄": "81卷7期2535號上冊 260-268頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc6c781c7cecfcfc8cfcec4cfcdc9cfc4cfcdc9c7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdc7cfcfc5cac7ced2cac7c7"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "481208",
-            "立法紀錄": "48卷24期號9冊 82-83頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc6c881cbc7cdcbcfc6c4cfcfc7cdc4cfcfc7cc",
+            "會議日期": "810116",
+            "立法紀錄": "81卷7期2535號上冊 268-268頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc6c781c7cecfcfc8cfcec4cfcdc9c7c4cfcdc9c7",
             "關係文書": []
         }
     ]
