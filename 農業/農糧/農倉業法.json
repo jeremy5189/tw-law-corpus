@@ -1,8 +1,8 @@
 {
     "title": "農倉業法",
     "versions": [
-        "中華民國61年11月17日修正",
-        "中華民國61年11月30日公布"
+        "中華民國74年12月24日修正",
+        "中華民國75年1月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -84,7 +84,7 @@
         {
             "note": "(農倉之申請登記)",
             "rule_no": "第十三條",
-            "content": "　　經營農倉事業者，應依本法之規定，擬具業務規則及其他應備章程，向所在地主管機關呈請登記。\n　　主管機關應將前項核准登記之農倉，呈經省（市）主管機關，核轉經濟部及內政部備案。",
+            "content": "　　經營農倉事業者，應依本法之規定，擬具業務規則及其他應備章程，向所在地主管機關申請登記。\n　　主管機關應將前項核准登記之農倉，報經省（市）主管機關，核轉行政院農業委員會及內政部備案。",
             "relates": {}
         },
         {
@@ -126,7 +126,7 @@
         {
             "note": "(倉單表冊之編造)",
             "rule_no": "第二十條",
-            "content": "　　農倉或聯合農倉每半年應編造倉單表冊，詳列受寄物之種類、數量、品質及保管情形，呈報主管機關備案，並應於年度終了後，編造資產負債表、損益計算書及財產目錄，呈請主管機關審核，轉呈經濟部及內政部備案。",
+            "content": "　　農倉或聯合農倉每半年應編造倉單表冊，詳列受寄物之種類、數量、品質及保管情形，報請主管機關備案，並應於年度終了後，編造資產負債表、損益計算表及財產目錄，報請主管機關審核，轉請行政院農業委員會及內政部備案。",
             "relates": {}
         },
         {
@@ -144,7 +144,7 @@
         {
             "note": "(農倉事業之獎勵及補助辦法)",
             "rule_no": "第二十三條",
-            "content": "　　農倉事業之獎勵及補助辦法，由經濟部會同內政部定之。",
+            "content": "　　農倉事業之獎勵及補助辦法，由行政院農業委員會會同內政部定之。",
             "relates": {}
         },
         {
@@ -167,75 +167,55 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　將條文中「主管官署」字樣修正為「主管機關」。",
-        "第十三條": "　　將條文中「主管官署」修正為「主管機關」，並將「實業部」修正為「經濟部」。",
-        "第十四條": "　　將條文中「主管官署」字樣修正為「主管機關」。",
-        "第十五條": "　　將條文中「主管官署」字樣修正為「主管機關」。",
-        "第十八條": "　　將條文中「主管官署」字樣修正為「主管機關」。",
-        "第十九條": "　　將條文中「主管官署」字樣修正為「主管機關」。",
-        "第二十條": "　　將條文中「主管官署」修正為「主管機關」，並將「實業部」修正為「經濟部」。",
-        "第二十一條": "　　將條文中「主管官署」字樣修正為「主管機關」。",
-        "第二十二條": "　　將條文中「主管官署」字樣修正為「主管機關」。",
-        "第二十三條": "　　將條文中「主管官署」修正為「主管機關」，並將「實業部」修正為「經濟部」。"
+        "第十三條": "　　一、配合現行公文用語，將第一項之「呈請」修正為「申請」。\n　　二、配合主管機關改隸，將第二項之「經濟部」修正為「行政院農業委員會」，並將「呈經」修正為「報經」。",
+        "第二十條": "　　一、將「呈報」、「呈請」、「轉呈」分別修正為「報請」及「轉陳」。\n　　二、「經濟部」修正為「行政院農業委員會」。\n　　三、配合會計法、商業會計法之用語，將「損益計算書」修正為「損益計算表」。\n　　四、將末句「行政院農業委員會」上之「轉陳」二字修正為「轉請」。",
+        "第二十三條": "　　「經濟部」修正為「行政院農業委員會」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600604",
-            "立法紀錄": "60卷41期395號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cf81c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "741206",
+            "立法紀錄": "74卷98期1896號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cbcfc6c7cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6ceced2c6cdcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 12-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cf81c9cecacfc6cfcfcfcfcec4cfcfcecdc4cfcfcdcf",
-            "主提案": "宋潄石",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c9c8d2c8c9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc9cfcfc5cacec7d2cacdcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601222",
-            "立法紀錄": "61卷5期458號 1-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cf81c9cecbc7cfcacfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "會議日期": "741219",
+            "立法紀錄": "75卷30期1932號 96-98頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cacfcccfcfcfc4cfcfc6c9c4cfcfc6c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 21-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cf81c9cecacfc6cfcfcfcfcec4cfcfcdcec4cfcfcccd",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 30-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cbcecfcccfcfc4cfcfcccfc4cfcfcccc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c8c8d2c6ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc6cfcfc5cdcfcdd2cdcfc9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 33-36頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cf81c9cecacfc6cfcfcfcfcec4cfcfccccc4cfcfccc9",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 34-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cbcecfcccfcfc4cfcfcccbc4cfcfcccb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "611117",
-            "立法紀錄": "61卷91期544號 6-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6cf81c9cecacfc6cecfcfcfcec4cfcfcfc9c4cfcfcfc8",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 34-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6ce81c8cbcecfcccfcfc4cfcfcccbc4cfcfcccb",
             "關係文書": []
         }
     ]
