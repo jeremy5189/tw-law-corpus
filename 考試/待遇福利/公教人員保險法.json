@@ -1,8 +1,8 @@
 {
     "title": "公教人員保險法",
     "versions": [
-        "中華民國89年1月13日修正",
-        "中華民國89年1月26日公布"
+        "中華民國91年6月7日修正",
+        "中華民國91年6月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -60,7 +60,7 @@
         {
             "note": "(保險費之給付與補助)",
             "rule_no": "第九條",
-            "content": "　　本保險之保險費，按月繳付，由被保險人自付百分之三十五，政府補助百分之六十五。但私立學校教職員由政府及學校各補助百分之三十二點五。\n　　前項政府補助私立學校教職員之保險費，由中央與省（市）政府分別編列預算核撥之。",
+            "content": "　　本保險之保險費，按月繳付，由被保險人自付百分之三十五，政府補助百分之六十五。但私立學校教職員由政府及學校各補助百分之三十二點五。\n　　前項政府補助私立學校教職員之保險費，由各級主管教育行政機關分別編列預算核撥之。",
             "relates": {}
         },
         {
@@ -167,48 +167,46 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　將第二項有關殘障標準依身心障礙者保護法辦理之規定予以修正，仍授權由主管機關另訂殘廢標準；並配合將第一、二項「重度殘障以上、中度殘障、輕度殘障」等用語修正為「全殘廢、半殘廢、部分殘廢」。",
-        "第十四條": "　　原法對於被保險人於八十四年三月一日以後八十八年五月三十日以前繳付保險費滿十五年並年滿五十五歲而離職退保者，未為溯及請領老年給付之保障規定，顯有漏失，應予設法救濟，爰增訂第五項。",
-        "第二十六條": "　　明定本法修正條文施行日期。"
+        "第九條": "　　臺灣省政府功能業務與組織調整後，原條文第二項規定宜配合修正，爰將「中央與省（市）政府」等文字修正為「各級主管教育行政機關」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881119",
-            "立法紀錄": "88卷50期3050號上冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cdc681c7c7cacfcfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "劉光華",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 10-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cccf81c6cecccccfcec4cfcfcecfc4cfcfcece",
+            "主提案": "考試院、行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc8cfcfc5c9c6cad2c8cfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfcec5cac6cad2cac6c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881209",
-            "立法紀錄": "88卷59期3059號下冊 295-303頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cdc681c7c7cac6cfccc4cfcdc6cac4cfcccfcc",
+            "會議日期": "910530",
+            "立法紀錄": "91卷52期3248號上冊 185-212頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cccf81c6cecacdcfcec4cfcec7cac4cfcdcecd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890113",
-            "立法紀錄": "89卷6期3065號二冊 189-197頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cdc681c7c6cfc9cfcdc4cfcec7c6c4cfcec6c8",
+            "會議日期": "910607",
+            "立法紀錄": "91卷40期3236號二冊 733-735頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cccf81c6cecbcfcfcdc4cfc8ccccc4cfc8ccca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcececfcdc5c9cbc9d2c9caca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcdc5cdcbccd2cdcbc9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "890113",
-            "立法紀錄": "89卷6期3065號二冊 197-197頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cdc681c7c6cfc9cfcdc4cfcec6c8c4cfcec6c8",
+            "會議日期": "910607",
+            "立法紀錄": "91卷40期3236號二冊 735-735頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cccf81c6cecbcfcfcdc4cfc8cccac4cfc8ccca",
             "關係文書": []
         }
     ]
