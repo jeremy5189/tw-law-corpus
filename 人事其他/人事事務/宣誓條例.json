@@ -1,12 +1,12 @@
 {
     "title": "宣誓條例",
     "versions": [
-        "中華民國42年5月29日全文修正",
-        "中華民國42年6月12日公布"
+        "中華民國68年4月20日修正",
+        "中華民國68年5月9日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,13 +18,13 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　左列公職人員，應於就職時宣誓，如因特殊情形先行任事者，應於三個月內補行宣誓：\n　　一、國民大會代表、立法委員、立法院院長、監察委員、監察院院長、各級地方議會議員、議長、及省縣民代表大會代表。\n　　二、中央政府各機關政務官，各部次長、及文職簡任以上，軍職上校以上單位主管人員。\n　　三、大法官、考試委員。\n　　四、駐外大使、公使、代辦、或其相當之駐外外交官及各級領事。\n　　五、各級法院推事及檢察官。\n　　六、省（市）縣（市局）政府首長（委員）及其所屬各機關之主管人員。\n　　七、各級公立學校校長。\n　　八、相當於文職簡任以上之公營事業機關或其所屬機關主管人員，及設有董事監事監察人組織者之董事及監察人。",
+            "content": "　　左列公職人員，除國民大會代表依國民大會組織法規定，於國民大會開會式時宣誓外，應於就職時宣誓：\n　　一、國民大會代表、立法委員、立法院院長、監察委員、監察院院長、各級地方議會議員、議長及省、縣民代表大會代表。\n　　二、中央政府各機關政務官、各部次長及文職簡任以上、軍職上校以上單位主管人員。\n　　三、大法官、考試委員。\n　　四、駐外大使、公使、代辦或其相當之駐外外交官及各級領事。\n　　五、各級法院推事及檢察官。\n　　六、省（市）、縣（市、局）政府首長（委員）及其所屬各機關主管人員。\n　　七、各級公立學校校長。\n　　八、相當於文職簡任以上之公營事業機關或其所屬機關主管人員，及置有董事、監事、監察人組織之董事及監察人。\n　　前項第二款至第八款人員，如因特殊情形先行任事者，應於三個月內補行宣誓。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　公職人員宣誓之監誓人，依左列之規定：\n　　一、國民大會代表、立法委員、立法院院長、監察委員、監察院院長之宣誓，由大法官為監誓人；各級地方議會議員、議長及省縣民代表大會代表之宣誓，由同級法院法官為監誓人。\n　　二、中央政府各機關政務官、大法官、考試委員及駐外大使、公使、代辦或其相當之駐外外交官之宣誓，由總統監誓或由總統派員監誓。\n　　三、第二條各款人員，除本條第一、二兩款規定者外，其宣誓由各該機關首長或其監督機關首長監誓，如其首長因事不能蒞場時，得派員代表監誓。",
+            "content": "　　公職人員宣誓之監誓人，依左列之規定：\n　　一、國民大會代表、立法委員、立法院院長、監察委員、監察院院長之宣誓，由大法官一人為監誓人；各級地方議會議員、議長及省、縣民代表大會代表之宣誓，由同級法院法官一人為監誓人。\n　　二、中央政府各機關政務官、大法官、考試委員及駐外大使、公使、代辦或其相當之駐外外交官之宣誓，由總統監誓或由總統派員監誓。\n　　三、第二條各款人員，除本條第一、二兩款規定外，其宣誓由各該機關首長或其監督機關首長監誓；如其首長因事不能蒞場時，得派員代表監誓。",
             "relates": {}
         },
         {
@@ -47,6 +47,12 @@
         },
         {
             "note": "",
+            "rule_no": "第六條 之一",
+            "content": "　　公職人員不依本條例之規定宣誓者，視同未就職；其依第二條第二項規定先行任事而未於三個月內補行宣誓者，視同辭職。但未於三個月內補行宣誓，而其事由非可歸責於宣誓人者，不在此限。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第七條",
             "content": "　　宣誓人如違背誓言，應依法從重處罰。",
             "relates": {}
@@ -64,31 +70,116 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　一、第一項前文「左列公職人員」之下，增加「除國民大會代表依國民大會組織法規定，於國民大會開會式時宣誓外」一段文字。\n　　二、第二項再作文字修正。",
+        "第三條": "　　將現行法第一款所定「由大法官為監誓人」，修正為「由大法官一人為監誓人」，「由同級法院法官為監誓人」，亦併予修正為「由同級法院法官一人為監誓人」。",
+        "第六條 之一": "　　增訂條文。以為防止不依規定宣誓或拒絕宣誓時之處理依據。"
+    },
     "law_history": [
         {
+            "進度": "一讀",
+            "會議日期": "671013",
+            "立法紀錄": "67卷82期1150號 2-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c8c9cdc7cdcfcfc4cfcfcfcdc4cfcfcfcb",
+            "主提案": "吳忠欽",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cbc8cdd2cbc8cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "671128",
+            "立法紀錄": "67卷95期1163號 8-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c8c9cdc6cacfcfc4cfcfcfc7c4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "671206",
+            "立法紀錄": "67卷95期1163號 6-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c8c9cdc6cacfcfc4cfcfcfc9c4cfcfcfc7",
+            "主提案": "吳延環",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cbcbcfd2cbcbcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "671128",
+            "立法紀錄": "67卷95期1163號 16-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c8c9cdc6cacfcfc4cfcfcec9c4cfcfcec8",
+            "主提案": "溫士源",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cbc6c9d2cbc6c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "680417",
+            "立法紀錄": "68卷31期1203號 4-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccecfcfc4cfcfcfcbc4cfcfcfc7",
+            "主提案": "吳延環",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cdcccdd2cdcccc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "680417",
+            "立法紀錄": "68卷31期1203號 8-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccecfcfc4cfcfcfc7c4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671108",
+            "立法紀錄": "68卷14期1186號 21-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cdcecbcfcfc4cfcfcdcec4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671206",
+            "立法紀錄": "68卷25期1197號 47-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccdcacfcfc4cfcfcbc8c4cfcfcace",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "420529",
-            "立法紀錄": "42卷11期號9冊 45-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdcf81cbcdcececfc6c4cfcfcbcac4cfcfcacf",
+            "會議日期": "680417",
+            "立法紀錄": "68卷31期1203號 8-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccecfcfc4cfcfcfc7c4cfcfcec7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cecad2cec6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cbcbcbd2cbcacc"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "420529",
-            "立法紀錄": "42卷11期號9冊 116-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdcf81cbcdcececfc6c4cfcecec9c4cfcecdcd",
+            "會議日期": "680417",
+            "立法紀錄": "68卷31期1203號 18-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccecfcfc4cfcfcec7c4cfcfcdce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "420529",
-            "立法紀錄": "42卷11期號9冊 125-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdcf81cbcdcececfc6c4cfcecdcac4cfcecdc9",
+            "會議日期": "680420",
+            "立法紀錄": "68卷32期1204號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccdcfcfc4cfcfcfc8c4cfcfcfc7",
             "關係文書": []
         }
     ]
