@@ -1,12 +1,11 @@
 {
     "title": "國民大會代表立法院立法委員選舉總事務所組織條例",
     "versions": [
-        "中華民國92年5月13日廢止",
-        "中華民國92年5月28日公布"
+        "中華民國36年4月24日制定",
+        "中華民國36年5月5日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -140,40 +139,6 @@
             "rule_no": "第二十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　已有「公職人員選舉罷免法」加以規範，本法無繼續施行之必要，爰予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "920328",
-            "立法紀錄": "92卷15期3289號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc7c8cf81c6cdcecacfcec4cfcfcfc9c4cfcfcfc9",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cccac9d2cac9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "920421",
-            "立法紀錄": "92卷24期3298號下冊 37-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc7c8cf81c6cdcdcbcfccc4cfcfccc8c4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "920513",
-            "立法紀錄": "92卷27期3301號上冊 103-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc7c8cf81c6cdcdc8cfcec4cfcecfccc4cfcecec8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccececfcdc5cbccc9d2cbcac6"
-                ]
-            ]
         }
     ]
 }
