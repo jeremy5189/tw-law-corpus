@@ -1,12 +1,10 @@
 {
     "title": "中華民國七十五年度中央政府總預算執行條例",
     "versions": [
-        "中華民國74年5月31日制定",
-        "中華民國74年6月14日公布"
+        "中華民國80年10月28日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -82,45 +80,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "740319",
-            "立法紀錄": "74卷23期1821號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbccc881c8cbcfcdcccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cacfcdcfcfc5cecfccc6d2cecfcbcf"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740522",
-            "立法紀錄": "74卷81期1879號 181-184頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbccc881c8cbcfc7cecfcfc4cfcec7cec4cfcec7cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "740528",
-            "立法紀錄": "74卷43期1841號 8-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbccc881c8cbcfcbcccfcfc4cfcfcfc7c4cfcfceca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cacfcacfcfc5cececaccd2cecec6cb"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "740531",
-            "立法紀錄": "74卷44期1842號 96-98頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbccc881c8cbcfcbcbcfcfc4cfcfc6c9c4cfcfc6c7",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
