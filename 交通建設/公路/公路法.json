@@ -1,12 +1,12 @@
 {
     "title": "公路法",
     "versions": [
-        "中華民國73年1月13日全文修正",
-        "中華民國73年1月23日公布"
+        "中華民國86年4月15日修正",
+        "中華民國86年5月7日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -226,9 +226,9 @@
             "relates": {}
         },
         {
-            "note": "(外國人經營汽車運輸業之禁止)",
+            "note": "(非中華民國國民或法人經營汽車運輸業之禁止)",
             "rule_no": "第三十五條",
-            "content": "　　外國人不得在中華民國境內投資經營汽車運輸業。",
+            "content": "　　非中華民國國民或法人不得在中華民國境內投資經營汽車運輸業。但經中央公路主管機關核准者，得申請投資經營小客車租賃業、汽車貨運業及汽車貨櫃貨運業。",
             "relates": {}
         },
         {
@@ -516,165 +516,52 @@
         {
             "note": "(施行日)",
             "rule_no": "第八十一條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文第三十五條施行日期，由行政院定之。",
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三十五條": "　　茲為因應我國加入關稅暨貿易總協定、世界貿易組織，及推動亞太海空運轉運中心計畫，現階段汽車運輸業宜適度擴大開放範圍，乃優先開放小客車租賃業、汽車貨櫃貨運業及汽車貨運業等三業。",
+        "第八十一條": "　　為配合我國加入世界貿易組織之時程，爰增訂第二項之修正條文，其施行日期由行政院訂定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "701224",
-            "立法紀錄": "70卷103期1484號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cfc9c7cecfcccfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "851217",
+            "立法紀錄": "85卷68期2890號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cf81c7cac9c7cfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfc8cfcfc5c9c8ccd2c8cfc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "710427",
-            "立法紀錄": "71卷34期1519號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec9c6cccbcfcfc4cfcfcfcac4cfcfcfca",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfcacfcfc5cececcc9"
+                    "null",
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcdc9cecfceca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "710313",
-            "立法紀錄": "71卷28期1513號 89-98頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec9c6cdc7cfcfc4cfcfc7c6c4cfcfc6c7",
+            "會議日期": "860310",
+            "立法紀錄": "86卷9期2901號下冊 175-200頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cf81c7c9cfc6cfccc4cfcec8cac4cfcdcfcf",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "710320",
-            "立法紀錄": "71卷30期1515號 97-107頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec9c6cccfcfcfc4cfcfc6c8c4cfcecfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710325",
-            "立法紀錄": "71卷38期1523號 117-135頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec9c6ccc7cfcfc4cfcecec8c4cfceccca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710424",
-            "立法紀錄": "71卷48期1533號 140-150頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec9c6cbc7cfcfc4cfcecbcfc4cfcecacf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710501",
-            "立法紀錄": "71卷49期1534號 7-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec9c6cbc6cfcfc4cfcfcfc8c4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710508",
-            "立法紀錄": "71卷51期1536號 3-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec9c6cacecfcfcfcdc4cfcfcfccc4cfcfcfca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711016",
-            "立法紀錄": "71卷94期1579號 103-116頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec8cfc6cbcfcfc4cfcecfccc4cfcecec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711028",
-            "立法紀錄": "71卷101期1586號 85-105頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cec8cfcecfcecfcfc4cfcfc7cac4cfcecfca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711120",
-            "立法紀錄": "72卷4期1593號 119-128頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cdc8cfcfcbcfcfc4cfcecec6c4cfcecdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711124",
-            "立法紀錄": "72卷8期1597號 14-22頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cdc8cfcfc7cfcfc4cfcfcecbc4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711201",
-            "立法紀錄": "72卷11期1600號 2-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cdc8cfcececfcfc4cfcfcfcdc4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711127",
-            "立法紀錄": "72卷36期1625號 167-178頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cdc8ceccc9cfcfc4cfcec9c8c4cfcec8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "721230",
-            "立法紀錄": "72卷105期1694號 19-84頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cdc8cdcecfcacfcfc4cfcfcec6c4cfcfc7cb",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 95-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cf81c7c9cec8cfcec4cfcfc6cac4cfcecfcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcacfcfc5c9cbc7d2c8cfcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5cccdcfd2cccdc9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "730106",
-            "立法紀錄": "73卷2期1696號 38-41頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cccfcfcdcfcfc4cfcfccc7c4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "730106",
-            "立法紀錄": "73卷2期1696號 41-56頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cccfcfcdcfcfc4cfcfcbcec4cfcfcac9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "730109",
-            "立法紀錄": "73卷3期1697號 5-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cccfcfcccfcfc4cfcfcfcac4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "730112",
-            "立法紀錄": "73卷4期1698號 66-68頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cccfcfcbcfcfc4cfcfc9c9c4cfcfc9c7",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "730113",
-            "立法紀錄": "73卷4期1698號 93-104頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbcac781c8cccfcfcbcfcfc4cfcfc6ccc4cfcecfcb",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 102-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cf81c7c9cec8cfcec4cfcecfcdc4cfcecfcd",
             "關係文書": []
         }
     ]
