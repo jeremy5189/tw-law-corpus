@@ -1,12 +1,11 @@
 {
     "title": "破產法施行法",
     "versions": [
-        "中華民國107年5月22日修正",
-        "中華民國107年6月13日公布"
+        "中華民國24年6月28日制定",
+        "中華民國24年7月18日公布"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -18,34 +17,14 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　依破產法修正前所為之羈押，與該法修正後所為之管收，其期間應合併計算，總計不得逾一年。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "04522",
-                        "law_name": "破產法",
-                        "numbers": [
-                            "第七十一條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　依破產程序所為之羈押，除破產法已有規定外，準用刑事訴訟法之規定。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
             "content": "　　破產法第一百四十九條之規定，於不能清償債務之事件，在破產法施行前已處理完結者，不適用之。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "04522",
-                        "law_name": "破產法",
-                        "numbers": [
-                            "第一百四十九條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
@@ -62,73 +41,8 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本法自破產法施行之日施行。\n　　中華民國一百零七年五月二十二日修正之破產法，自公布日施行。",
+            "content": "　　本法自破產法施行之日施行。",
             "relates": {}
-        }
-    ],
-    "law_reasons": {
-        "第六條": "　　為配合破產法第十三條之修正，明定本修正條文施行之日期，爰增訂第二項。"
-    },
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "1060217",
-            "立法紀錄": "106卷17期4419號一冊 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcfc8cccf81cecfc9cfcec8cfcec4cfcfcfc6c4cfcfcfc6",
-            "主提案": "鄭運鵬",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090301:LCEWA01_090301_00039"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1061123",
-            "立法紀錄": "106卷115期4517號 4-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcfc8cccf81cecfc9cececacfcec4cfcfcfcbc4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1061222",
-            "立法紀錄": "107卷4期4528號一冊 186-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcfc8cccf81cecfc8cfcfcbcfcec4cfcec7c9c4cfcec7c6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_40018"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1070515",
-            "立法紀錄": "107卷52期4576號二冊 329-329頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcfc8cccf81cecfc8cfcacdcfcdc4cfcccdc6c4cfcccdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1070424",
-            "立法紀錄": "107卷60期4584號 353-368頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcfc8cccf81cecfc8cfc9cfcfcec4cfcccaccc4cfccc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1070522",
-            "立法紀錄": "107卷56期4580號一冊 541-542頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcfc8cccf81cecfc8cfcac9cfcec4cfcacbcec4cfcacbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1070522",
-            "立法紀錄": "107卷56期4580號一冊 542-542頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcfc8cccf81cecfc8cfcac9cfcec4cfcacbcdc4cfcacbcd",
-            "關係文書": []
         }
     ]
 }
