@@ -1,10 +1,11 @@
 {
     "title": "姓名條例",
     "versions": [
-        "中華民國42年2月20日制定",
-        "中華民國42年3月7日公布"
+        "中華民國54年11月19日修正",
+        "中華民國54年12月1日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -41,7 +42,7 @@
         {
             "note": "(改名)",
             "rule_no": "第六條",
-            "content": "　　有左列情事之一者得申請改名：\n　　一、同時在一機關服務或同在一學校肄業姓名完全相同者。\n　　二、同時在一縣市內居住六個月以上姓名完全相同者。\n　　三、銓敘時發現姓名相同經銓敘機關通知者。\n　　四、與經通緝有案之人犯姓名完全相同者。",
+            "content": "　　有左列情事之一者得申請改名：\n　　一、同時在一機關服務或同在一學校肄業，姓名完全相同者。\n　　二、同時在一縣市內居住六個月以上，姓名完全相同者。\n　　三、銓敘時發現姓名相同，經銓敘機關通知者。\n　　四、與經通緝有案之人犯姓名完全相同者。\n　　五、命名文字字義粗俗不雅者。\n　　依前項第五款申請改名者，以一次為限。",
             "relates": {}
         },
         {
@@ -67,6 +68,131 @@
             "rule_no": "第十條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "540423",
+            "立法紀錄": "54卷35期號7冊 109-109頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacfc8cfcfc4cfcecfc6c4cfcecfc6",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcdcfcfc5cacecbd2cacec6"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "541119",
+            "立法紀錄": "54卷36期號5冊 10-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbccc9cfcacfcfc4cfcfcecfc4cfcfcecb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcbcfcfc5cdcacfd2cdcacd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540622",
+            "立法紀錄": "54卷35期號13冊 106-111頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacecccfcfc4cfcecfc9c4cfcecece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540622",
+            "立法紀錄": "54卷35期1號13冊 125-126頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacecccfcfc4cfcecdcac4cfcecdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540629",
+            "立法紀錄": "54卷35期號14冊 15-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacecbcfcfc4cfcfcecac4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540629",
+            "立法紀錄": "54卷35期號14冊 57-57頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacecbcfcfc4cfcfcac8c4cfcfcac8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540709",
+            "立法紀錄": "54卷35期號15冊 16-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacecacfcfc4cfcfcec9c4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540709",
+            "立法紀錄": "54卷35期號15冊 52-52頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacecacfcfc4cfcfcacdc4cfcfcacd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540716",
+            "立法紀錄": "54卷35期號16冊 54-54頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacec9cfcfc4cfcfcacbc4cfcfcacb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540716",
+            "立法紀錄": "54卷35期號16冊 14-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacec9cfcfc4cfcfcecbc4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540723",
+            "立法紀錄": "54卷35期號17冊 9-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacec8cfcfc4cfcfcfc6c4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540723",
+            "立法紀錄": "54卷35期號17冊 52-52頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacec8cfcfc4cfcfcacdc4cfcfcacd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540803",
+            "立法紀錄": "54卷39期號18冊 9-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacec7cfcfc4cfcfcfc6c4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "540806",
+            "立法紀錄": "54卷39期號18冊 43-43頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbcccacec7cfcfc4cfcfcbccc4cfcfcbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "541109",
+            "立法紀錄": "54卷36期號5冊 67-67頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbccc9cfcacfcfc4cfcfc9c8c4cfcfc9c8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "541119",
+            "立法紀錄": "54卷36期號5冊 117-118頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81cacbccc9cfcacfcfc4cfcecec8c4cfcecec7",
+            "關係文書": []
         }
     ]
 }
