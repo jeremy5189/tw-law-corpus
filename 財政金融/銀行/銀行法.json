@@ -1,8 +1,8 @@
 {
     "title": "銀行法",
     "versions": [
-        "中華民國67年7月7日修正",
-        "中華民國67年7月19日公布"
+        "中華民國68年11月23日修正",
+        "中華民國68年12月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -226,7 +226,7 @@
         {
             "note": "",
             "rule_no": "第三十五條 之一",
-            "content": "　　銀行之負責人及職員不得兼任其他銀行任何職務。",
+            "content": "　　銀行之負責人及職員不得兼任其他銀行任何職務。但因投資關係，並經中央主管機關核准者，得兼任被投資銀行之董事或監察人。",
             "relates": {}
         },
         {
@@ -893,34 +893,53 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　一、本條之修正，即增列第廿二款，具體規定專業銀行可辦理政府核准之有關業務，使所有銀行經營的業務均有具體根據，以維護法律尊嚴，並避免流弊。\n　　二、旨在為政府設立「中國輸出入銀行」辦理保險業務立法規範，使其於法有據。"
+        "第三十五條 之一": "　　由於目前各銀行間，有為符合公司組織須有七個發起人之規定，因而每有相互投資之情形存在，且多指派董事長、總經理或其他職員為被投資銀行之董、監事，以行使其投資權利。茲以本條規定，對銀行之負責人及職員不得兼任其他銀行任何職務，顯有影響投資銀行之權益及被投資銀行董監事會之組織，情形重大，至感執行困難，爰增訂但書，規定因投資關係並經中央主管機關核准者，得兼任被投資銀行之董事或監察人。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "670707",
-            "立法紀錄": "67卷54期1122號 22-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecc81c9c8c9cecacbcfcfc4cfcfcdcdc4cfcfcdca",
-            "主提案": "郭紫峻",
+            "會議日期": "681009",
+            "立法紀錄": "68卷81期1253號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6ceca81c9c7c9cbc7cecfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfc9cfcfc5c6c7d2cecfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5c9d2c7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "681015",
+            "立法紀錄": "69卷14期1290號 26-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6ceca81c9c6c9cbcecbcfcfc4cfcfcdc9c4cfcfcccf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "681123",
+            "立法紀錄": "68卷94期1266號 12-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6ceca81c9c7c9cbc6cbcfcfc4cfcfcecdc4cfcfcec7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5ccccd2ccca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "670707",
-            "立法紀錄": "67卷54期1122號 25-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecc81c9c8c9cecacbcfcfc4cfcfcdcac4cfcfcdc9",
+            "會議日期": "681123",
+            "立法紀錄": "68卷94期1266號 18-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6ceca81c9c7c9cbc6cbcfcfc4cfcfcec7c4cfcfcec6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "670707",
-            "立法紀錄": "67卷54期1122號 26-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecc81c9c8c9cecacbcfcfc4cfcfcdc9c4cfcfcdc9",
+            "會議日期": "681123",
+            "立法紀錄": "68卷94期1266號 19-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6ceca81c9c7c9cbc6cbcfcfc4cfcfcec6c4cfcfcec6",
             "關係文書": []
         }
     ]
