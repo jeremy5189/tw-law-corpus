@@ -1,12 +1,11 @@
 {
     "title": "技術人員任用條例（民國24年）",
     "versions": [
-        "中華民國80年10月15日廢止",
-        "中華民國80年11月1日公布"
+        "中華民國24年10月25日制定",
+        "中華民國24年11月8日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -50,63 +49,6 @@
             "rule_no": "第七條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　建立科技人事法制是解決科技人員延用問題之最根本途徑，本條例草案雖名稱亦擬定為「技術人員任用條例」草案，但其內容結構與原「技術人員任用條例」已截然不同。因此，應視為制定法，而非單純就原有法律加以修正。本條例制定公布後，原「技術人員任用條例」即予以廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "771007",
-            "立法紀錄": "77卷81期2192號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc8cbc981c8c8cfc7cecfcfc4cfcfcfccc4cfcfcfcc",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcfcacfcfc5cdcccad2cdcbcb"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "771208",
-            "立法紀錄": "78卷50期2266號 169-179頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc8cbc981c8c7cfcacfcfcfc4cfcec9c6c4cfcec8c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "771215",
-            "立法紀錄": "78卷53期2269號 180-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc8cbc981c8c7cfcacccfcfc4cfcec7cfc4cfcec6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "800705",
-            "立法紀錄": "80卷54期2478號 92-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc8cbc981c7cfcfcacbcfcfc4cfcfc6cdc4cfcecfcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "800709",
-            "立法紀錄": "80卷55期2479號 40-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc8cbc981c7cfcfcacacfcfc4cfcfcbcfc4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "801011",
-            "立法紀錄": "80卷83期2507號 33-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc8cbc981c7cfcfc7cccfcfc4cfcfccccc4cfcfcacb",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "801015",
-            "立法紀錄": "80卷84期2508號 37-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc8cbc981c7cfcfc7cbcfcfc4cfcfccc8c4cfcfc9cc",
-            "關係文書": []
         }
     ]
 }
