@@ -1,11 +1,11 @@
 {
     "title": "公務職位分類法",
     "versions": [
-        "中華民國62年10月26日修正",
-        "中華民國62年11月6日公布"
+        "中華民國76年1月9日廢止",
+        "中華民國76年1月14日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -100,82 +100,20 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　查政府機關自民國五十八年開始分批實施職位分類以來，迄今已三年，惟查司法、外交、警察、衛生、民意等機關，其業務性質特殊，各有事實困難，不宜實施職位分類，爰修正本條後半段，增列但書，列舉不分機關。若將來或仍有不宜實施之機關，故增列「其他經立法程序規定不宜分類機關」一款，藉資適應。"
-    },
+    "deprecated_reason": "　　考試院為建立新人事制度，而新制定「考試法」、「公務人員任用法」、「公務人員俸給法」、「公務人員考績法」，依中央法規標準法規定，同一事項已定有新法規，並公布或發布施行者，故舊法規應予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "611229",
-            "立法紀錄": "61卷103期556號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cecacfcecfcccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcccfcfc5cecec7d2cecdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620106",
-            "立法紀錄": "62卷22期578號 27-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacecdcdcfcfcfcdc4cfcfcdc8c4cfcfccca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620110",
-            "立法紀錄": "62卷23期579號 17-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacecdcccfcfcfcdc4cfcfcec8c4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620117",
-            "立法紀錄": "62卷24期580號 19-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacecdcbcfcfcfcdc4cfcfcec6c4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620711",
-            "立法紀錄": "62卷82期638號 1-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cdcfcfcfcdc4cfcfcfcec4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620721",
-            "立法紀錄": "62卷82期638號 15-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cdcfcfcfcdc4cfcfcecac4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "621023",
-            "立法紀錄": "62卷81期637號 13-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cecfcfcfcec4cfcfceccc4cfcfccc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcdcfcfc5cdc7c6d2cdc6cb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "621023",
-            "立法紀錄": "62卷81期637號 38-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cecfcfcfcec4cfcfccc7c4cfcfccc6",
+            "會議日期": "751230",
+            "立法紀錄": "75卷105期2007號 84-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac9c781c8cacecfcacfcfc4cfcfc7cbc4cfcfc7cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "621026",
-            "立法紀錄": "62卷82期638號 9-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cdcfcfcfcec4cfcfcfc6c4cfcfcec9",
+            "會議日期": "760109",
+            "立法紀錄": "76卷3期2010號 9-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac9c781c8c9cfcfcccfcfc4cfcfcfc6c4cfcfcecd",
             "關係文書": []
         }
     ]
