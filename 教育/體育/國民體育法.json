@@ -1,8 +1,8 @@
 {
     "title": "國民體育法",
     "versions": [
-        "中華民國87年10月2日修正",
-        "中華民國87年10月21日公布"
+        "中華民國88年12月30日修正",
+        "中華民國89年1月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第四條",
-            "content": "　　本法之主管機關：在中央為行政院體育委員會；在省（市）為省（市）政府；在縣（市）為縣（市）政府。\n　　省（市）政府、縣（市）政府應設體育專管單位，鄉（鎮、市、區）公所置體育專業人員，負責轄區內國民體育活動之規劃、輔導及推動事宜。",
+            "content": "　　本法之主管機關：在中央為行政院體育委員會；在直轄市為直轄市政府；在縣（市）為縣（市）政府。\n　　直轄市政府、縣（市）政府應設體育專責單位，鄉（鎮、市、區）公所應置體育專業人員，負責轄區內國民體育活動之規劃、輔導及推動事宜。",
             "relates": {}
         },
         {
@@ -101,68 +101,46 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　配合「行政院體育委員會」之設立，調整國民體育政策之主管機關及其權責。",
-        "第五條": "　　公共運動設施之主管機關修正為各級體育行政主管機關。",
-        "第六條": "　　於「有關法令規定」下增列「配合行政院體育委員會之政策」等字，以配合「行政院體育委員會」之設立。",
-        "第七條": "　　將政府補助各級學校運動場地之辦法，已改由行政院體育委員會會同教育部定之。",
-        "第八條": "　　將民間體育活動團體之主管機關改為各級體育主管機關。",
-        "第九條": "　　一、第一項中，「體育活動」修正為「體育休閒活動」。\n　　二、第二項新增。為使推行全民體育活動更具成效，特增訂獎助條件，其辦法由教育部另行訂之。",
-        "第十條": "　　體育專業人員之培養、進修與檢定辦法，改由行政院體育委員會定之。",
-        "第十二條": "　　一、第一、二及三項均作文字修正，並於末增列「辦法由行政院體育委員會定之」。\n　　二、原第二及第三項順序互調。",
-        "第十三條": "　　國民體能檢測辦法，改由行政院定之，並作文字修正。",
-        "第十四條": "　　施行細則改由「行政院體育委員會」定之。"
+        "第四條": "　　配合臺灣省政府功能業務與組織之調整，爰將原條文第一項及第二項所定「省政府」之文字刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "821028",
-            "立法紀錄": "82卷59期2658號上冊 425-426頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ce81c7cdcac6cfcec4cfcbcdcac4cfcbcdc9",
-            "主提案": "謝長廷",
+            "會議日期": "881001",
+            "立法紀錄": "88卷42期3042號上冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9cd81c7c7cbcdcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfc8cfcdc5cdc8c7d2cdc8c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "861111",
-            "立法紀錄": "86卷48期2940號 7-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ce81c7c9cbc7cfcfc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "劉光華",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcecccfcec5cbcbccd2cbcbc8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5cacbcad2cacbc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "870319",
-            "立法紀錄": "87卷12期2961號 195-216頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ce81c7c8cecdcfcfc4cfcec6cac4cfcdcec9",
+            "會議日期": "881215",
+            "立法紀錄": "89卷3期3062號上冊 31-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9cd81c7c6cfcccfcec4cfcfcccec4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "871002",
-            "立法紀錄": "87卷36期2985號一冊 465-478頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ce81c7c8ccc9cfcec4cfcbc9cac4cfcbc8c7",
+            "會議日期": "881230",
+            "立法紀錄": "89卷2期3061號上冊 307-315頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9cd81c7c6cfcdcfcec4cfcccfc8c4cfccceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacecdcfcec5cacbc6d2cac9ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5ccc6cfd2ccc6c9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "871002",
-            "立法紀錄": "87卷36期2985號一冊 478-479頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ce81c7c8ccc9cfcec4cfcbc8c7c4cfcbc8c6",
+            "會議日期": "881230",
+            "立法紀錄": "89卷2期3061號上冊 314-315頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9cd81c7c6cfcdcfcec4cfcccecbc4cfccceca",
             "關係文書": []
         }
     ]
