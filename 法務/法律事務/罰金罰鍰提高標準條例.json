@@ -1,8 +1,8 @@
 {
     "title": "罰金罰鍰提高標準條例",
     "versions": [
-        "中華民國58年12月26日修正",
-        "中華民國59年1月9日公布"
+        "中華民國72年6月10日全文修正",
+        "中華民國72年6月24日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,31 +12,31 @@
         {
             "note": "(罰金罰鍰之提高及其倍數)",
             "rule_no": "第一條",
-            "content": "　　依法律應處罰金、罰鍰者，就其原定數額得提高一倍至二倍。但法律已依一定比率規定罰金或罰鍰之倍數者，依其規定。",
+            "content": "　　依法律應處罰金、罰鍰者，就其原定數額得提高為二倍至十倍。但法律已依一定比率規定罰金或罰鍰之數額或倍數者，依其規定。",
             "relates": {}
         },
         {
             "note": "(易科罰金易服勞役折算金額之提高)",
             "rule_no": "第二條",
-            "content": "　　依刑法第四十一條易科罰金或第四十二條第二項易服勞役或依違警罰法第二十條第一項易處拘留者，均得就其原定金額提高一倍至二倍折算一日。",
-            "relates": {}
-        },
-        {
-            "note": "(不得適用之規定)",
-            "rule_no": "第三條",
-            "content": "　　依民事訴訟費用法應徵收之裁判費、執行費及依公證費用法應徵收之費用，得就其原定數額提高至一倍。但民事訴訟費用法第二十五條第一項之規定，不得再行適用。",
+            "content": "　　依刑法第四十一條易科罰金或第四十二條第二項易服勞役者，均就其原定數額提高為十倍折算一日；法律所定罰金數額未依本條例提高倍數，或其處罰法條無罰金刑之規定者，亦同。\n　　違警罰法所定罰鍰數額經依本條例提高倍數時，該法第二十第一項易處拘留之折算標準，依同一倍數提高之。",
             "relates": {}
         },
         {
             "note": "(提高倍數之核定)",
+            "rule_no": "第三條",
+            "content": "　　依本條例規定提高罰金罰鍰之法律及其倍數，由主管院定之。",
+            "relates": {}
+        },
+        {
+            "note": "(不溯既往)",
             "rule_no": "第四條",
-            "content": "　　依本條例得提高之倍數，由主管部擬定數額報請主管院核定之。",
+            "content": "　　本條例修正前所為處罰之裁判或裁決，於本條例修正後，其易科罰金、易服勞役依原確定裁判所諭知之標準折算；其違警罰鍰之易處拘留，依原裁決時之標準折算。",
             "relates": {}
         },
         {
             "note": "(後法優於前法)",
             "rule_no": "第五條",
-            "content": "　　本條例所定得提高之倍數之規定，於施行後，法律另行修正其數額者，依其規定；法律經全部修正而其數額未予變更者亦同。",
+            "content": "　　第一條所定得提高倍數之規定，於本條例修正後制定之法律，不適用之；本條例修正前公布之法律，於本條例修正後修正其罰金罰鍰數額或法律經全部修正而其罰金罰鍰數額未予變更者，亦同。",
             "relates": {}
         },
         {
@@ -49,55 +49,76 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "570726",
-            "立法紀錄": "57卷56期號 8-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac8cbcecac9cfcfcfcec4cfcfcfc7c4cfcfcecd",
-            "主提案": "梁肅戎",
+            "會議日期": "720429",
+            "立法紀錄": "72卷35期1624號 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecccacfcfc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "行政院、司法院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcccfcfc5cecfc7d2cecfc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfcbcfcfc5cecfc9c8d2cecfc8cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "570815",
-            "立法紀錄": "57卷68期號 12-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac8cbcec9c7cfcfc4cfcfcecdc4cfcfcec8",
+            "會議日期": "720505",
+            "立法紀錄": "72卷51期1640號 67-75頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecacecfcfc4cfcfc9c8c4cfcfc8ca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580501",
-            "立法紀錄": "58卷44期號 16-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac7cbcccbcbcfcfcfcdc4cfcfcec9c4cfcfcec7",
+            "會議日期": "720511",
+            "立法紀錄": "72卷58期1647號 89-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecac7cfcfc4cfcfc7c6c4cfcecfcd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "581211",
-            "立法紀錄": "58卷95期號 1-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac7cbcbc6cacfcfcfcdc4cfcfcfcec4cfcfcfcd",
+            "會議日期": "720518",
+            "立法紀錄": "72卷59期1648號 95-98頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecac6cfcfc4cfcfc6cac4cfcfc6c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "581226",
-            "立法紀錄": "58卷95期號 7-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac7cbcbc6cacfcfcfcec4cfcfcfc8c4cfcfcece",
+            "會議日期": "720524",
+            "立法紀錄": "72卷42期1631號 7-26頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbcdcfcfc4cfcfcfc8c4cfcfcdc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcccfcfc5cac7d2c9cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc9cfcfc5cbc6cfd2cbc6c6"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "720524",
+            "立法紀錄": "72卷42期1631號 26-42頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbcdcfcfc4cfcfcdc9c4cfcfcbcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "720603",
+            "立法紀錄": "72卷45期1634號 11-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbcacfcfc4cfcfcecec4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "720607",
+            "立法紀錄": "72卷46期1635號 12-20頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbc9cfcfc4cfcfcecdc4cfcfcdcf",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "581226",
-            "立法紀錄": "58卷95期號 11-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac7cbcbc6cacfcfcfcec4cfcfcecec4cfcfcece",
+            "會議日期": "720610",
+            "立法紀錄": "72卷47期1636號 5-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c681c8cdc8cecbc8cfcfc4cfcfcfcac4cfcfcfc9",
             "關係文書": []
         }
     ]
