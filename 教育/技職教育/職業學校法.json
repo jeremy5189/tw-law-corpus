@@ -1,12 +1,12 @@
 {
     "title": "職業學校法",
     "versions": [
-        "中華民國65年4月27日全文修正",
-        "中華民國65年5月7日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月18日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -28,9 +28,9 @@
             "relates": {}
         },
         {
-            "note": "(入學資格)",
+            "note": "(入學資格及修業年限)",
             "rule_no": "第四條",
-            "content": "　　職業學校入學資格，須曾在國民中學或初級中等學校畢業，或具有同等學力，經入學試驗及格者；其修業年限為二年至四年。但戲劇職業學校，不在此限。",
+            "content": "　　職業學校入學資格，須曾在國民中學畢業，或具有同等學力者，經入學考試合格、甄試錄取、登記、分發或保送入學。\n　　職業學校之修業年限以三年為原則。\n　　職業學校經主管教育行政機關核准得設實用技能班，其修業年限分一年段、二年段、三年段，得分年修習。\n　　第一項同等學力之標準、甄試、登記、分發及保送入學辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -88,9 +88,9 @@
             "relates": {}
         },
         {
-            "note": "(畢業證書發給)",
+            "note": "(各種證明書之發給)",
             "rule_no": "第十四條",
-            "content": "　　職業學校學生修業期滿，實習完竣，成績及格，由學校發給畢業證書。",
+            "content": "　　職業學校學生修畢應修課程，成績及格由學校發給畢業證書；修畢實用技能班一、二年段課程，成績及格，由學校發給年段修業證明書，修畢三年段課程，成績及格，由學校發給結業證明書，結業生得參加由主管教育行政機關舉行之資格考試，成績及格，給予資格證明書，其考驗辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -112,79 +112,62 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第四條": "　　一、為使入學方式更富彈性，爰將「入學試驗及格」修正為「入學考試合格、甄試錄取、登記、分發或保送入學」，俾將現行入學方式如入學考試、技能（藝）競賽、運動成績優良、資賦優異、蒙藏學生之甄試錄取、延教班登記入學及國民中學藝能學科成績優異得保送等予以納入。\n　　二、配合多元化入學方式，職業學校修業年限修正為「以三年為原則」；並刪除「但戲劇職業學校，不在此限」之規定，以符合職業學校現況及因應未來職業學校發展趨勢。\n　　三、增列第三項。俾將已實施九年之延教班實驗計畫納入條文中，並定名為「實用技能班」，使其成為正式學制之一。\n　　四、增列第四項。俾適應多元化入學方式需要。",
+        "第十四條": "　　一、配合修業年限之修正，將「學生修業期滿，實習完竣」修正為「修畢應修課程」。\n　　二、因應實用技能班課程特性，爰增列後段明定實用技能班學生取得年段修業證明書、結業證明書、資格證明書之條件及有關資格考驗之規定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "650305",
-            "立法紀錄": "65卷19期878號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cec6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "810929",
+            "立法紀錄": "81卷60期2588號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c781c7cecfc9cfcfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcecfcfc5cac6ced2c9cecc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfcdcfcec5cececdd2cecec6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "650318",
-            "立法紀錄": "65卷31期890號 17-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cccecfcfcfcdc4cfcfcec8c4cfcfcdc7",
+            "會議日期": "820315",
+            "立法紀錄": "82卷16期2615號上冊 318-327頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c781c7cdcec9cfcec4cfcccec7c4cfcccdc8",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "650325",
-            "立法紀錄": "65卷45期904號 48-55頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cbcacfcfcfcdc4cfcfcbc7c4cfcfcaca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "650401",
-            "立法紀錄": "65卷52期911號 40-49頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cacdcfcfcfcdc4cfcfcbcfc4cfcfcbc6",
+            "會議日期": "830526",
+            "立法紀錄": "83卷39期2713號下冊 269-280頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c781c7ccccc6cfccc4cfcdc9c6c4cfcdc7cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "650413",
-            "立法紀錄": "65卷30期889號 18-40頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cccfcfcfcfcec4cfcfcec7c4cfcfcbcf",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 59-63頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c781c7cbcfcdcfcfc4cfcfcac6c4cfcfc9cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcdcfcfc5cacdc9d2caccc8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcccfcfc5cccec7d2cccdcd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "650416",
-            "立法紀錄": "65卷31期890號 4-26頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cccecfcfcfcec4cfcfcfcbc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "650420",
-            "立法紀錄": "65卷32期891號 3-21頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cccdcfcfcfcec4cfcfcfccc4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "650423",
-            "立法紀錄": "65卷33期892號 2-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cccccfcfcfcec4cfcfcfcdc4cfcfcfcb",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 63-63頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c781c7cbcfcdcfcfc4cfcfc9ccc4cfcfc9cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "650427",
-            "立法紀錄": "65卷34期893號 3-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c881c9cacac8cccbcfcfcfcec4cfcfcfccc4cfcfcfca",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 63-63頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc8c781c7cbcfcdcfcfc4cfcfc9ccc4cfcfc9cc",
             "關係文書": []
         }
     ]
