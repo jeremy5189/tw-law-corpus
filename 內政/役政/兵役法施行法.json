@@ -1,12 +1,12 @@
 {
     "title": "兵役法施行法",
     "versions": [
-        "中華民國49年4月22日修正",
-        "中華民國49年4月30日公布"
+        "中華民國63年7月2日修正",
+        "中華民國63年7月12日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -262,7 +262,7 @@
         {
             "note": "",
             "rule_no": "第三十八條",
-            "content": "　　體格檢查合格適於服役者，依左列順序徵集之：\n　　一、常備兵現役，以甲等體位徵服之，不足時以乙等體位徵服之，再不足時以已區劃為補充兵役及國民兵役者之甲乙等體位遞徵之。\n　　二、補充兵現役，以甲乙等體位應徵服常備兵現役後之餘額徵服之，並依甲乙等體位之順序徵集。\n　　三、甲種國民兵，以甲乙等體位應徵服常備兵與補充兵現役後之餘額徵訓之。\n　　四、乙種國民兵，以應服甲種國民兵役之餘額與丙等體位徵訓之。\n　　前項第三款、第四款按軍事勤務所需之專長與體位等次順序徵訓之。",
+            "content": "　　體格檢查合格，適於服役者，依左列順序徵集之：\n　　一、常備兵現役，以甲、乙等體位徵服之；不足時，以補充兵役及國民兵役者之甲、乙等體位遞徵之。\n　　二、補充兵現役，以甲、乙等體位應徵服常備兵現役後之餘額徵服之。\n　　三、甲種國民兵，以甲、乙等體位應徵服常備兵與補充兵現役後之餘額徵訓之。\n　　四、乙種國民兵，以應服甲種國民兵役之餘額與丙等體位徵訓之。\n　　前項第三款、第四款，按軍事勤務所需之專長與體位等次順序徵訓之。",
             "relates": {}
         },
         {
@@ -558,70 +558,36 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三十八條": "　　刪除第一款「不足時以乙等體位征服之」及第二款「並依甲、乙等體位之順序徵集」兩段文字，使常備兵現役及補充兵現役，可同時依當年兵額需要在甲、乙等合格服現役之役男中，按平均比率抽籤決定，以保持國民服役機會均等。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "481110",
-            "立法紀錄": "48卷24期號6冊 1-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc7cdcbcfc9c4cfcfcfcec4cfcfcfcc",
-            "主提案": "臧元駿",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cdc6d2ccce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "481110",
-            "立法紀錄": "48卷24期號6冊 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc7cdcbcfc9c4cfcfcecec4cfcfcece",
+            "會議日期": "630618",
+            "立法紀錄": "63卷43期699號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cd81c9cccacccbcccfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "481110",
-            "立法紀錄": "48卷24期號6冊 53-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc7cdcbcfc9c4cfcfcaccc4cfcfcac6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5cdc8d2cdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "490422",
-            "立法紀錄": "49卷25期號8冊 7-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc6cdcacfc7c4cfcfcfc8c4cfcfcfc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcecfcfc5c7cdcfd2c7cdcc"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "490422",
-            "立法紀錄": "49卷25期號7冊 50-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc6cdcacfc8c4cfcfcacfc4cfcfc9cc",
+            "會議日期": "630702",
+            "立法紀錄": "63卷47期703號 7-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cd81c9cccacccbc8cfcfcfcec4cfcfcfc8c4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "490422",
-            "立法紀錄": "49卷25期號7冊 63-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc6cdcacfc8c4cfcfc9ccc4cfcfc9cc",
+            "會議日期": "630702",
+            "立法紀錄": "63卷47期703號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cd81c9cccacccbc8cfcfcfcec4cfcfcecdc4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "490422",
-            "立法紀錄": "49卷25期號8冊 38-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cf81cbc6cdcacfc7c4cfcfccc7c4cfcfccc7",
+            "會議日期": "630702",
+            "立法紀錄": "63卷47期703號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc6cd81c9cccacccbc8cfcfcfcec4cfcfcecdc4cfcfcecd",
             "關係文書": []
         }
     ]
