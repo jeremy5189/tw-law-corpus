@@ -1,12 +1,12 @@
 {
     "title": "公教人員保險法",
     "versions": [
-        "中華民國63年1月18日全文修正",
-        "中華民國63年1月29日公布"
+        "中華民國84年1月16日修正",
+        "中華民國84年1月28日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -54,7 +54,7 @@
         {
             "note": "(保險費率之規定)",
             "rule_no": "第八條",
-            "content": "　　公務人員之保險費率為被保險人每月俸給百分之七至百分之九。\n　　前項費率應依保險實際收支情形，由行政院會同考試院覈實釐定。",
+            "content": "　　公務人員保險之保險費率為被保險人每月保險俸給百分之四點五至百分之九。\n　　前項費率應依保險實際收支情形，由行政院會同考試院覈實釐定。",
             "relates": {}
         },
         {
@@ -148,6 +148,12 @@
             "relates": {}
         },
         {
+            "note": "(停止適用之規定)",
+            "rule_no": "第二十三條 之一",
+            "content": "　　本法第三條、第十一條、第十三條有關生育、疾病、傷害及眷屬疾病保險部分，於全民健康保險施行後，停止適用。",
+            "relates": {}
+        },
+        {
             "note": "(施行細則之訂定)",
             "rule_no": "第二十四條",
             "content": "　　本法施行細則，由考試院會同行政院訂定之。",
@@ -160,133 +166,43 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第八條": "　　本條係配合保險給付項目刪除醫療部分，故降低保險費率，依中華民國精算學會八十三年七月精算結果，在過去債務不攤提之前提下，公保未來十年平準純保險費率（不包含行政事務費）為百分之六點四。本保險保險費率擬訂為百分之四點五至百分之九，較具彈性，將視保險財務狀況作機動調整以適應業務需要。",
+        "第二十三條 之一": "　　一、本條新增。\n　　二、配合全民健康保險實施，爰明訂本本法中有關生育、疾病、傷害及眷屬疾病保險部分相關條文停止適用，俾免重複。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "621023",
-            "立法紀錄": "62卷81期637號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cdcacdc7cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
+            "會議日期": "840113",
+            "立法紀錄": "84卷5期2762號下冊 4-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cdc881c7cbcfcacfccc4cfcfcfcbc4cfcfcfc7",
+            "主提案": "廖福本",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcecfcfc5cacbd2c9c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcacfcfc5cececbd2cecec8"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "621117",
-            "立法紀錄": "63卷30期686號 37-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacccccfcfcfcfcdc4cfcfccc8c4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "621119",
-            "立法紀錄": "63卷34期690號 36-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacccccbcfcfcfcdc4cfcfccc9c4cfcfcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "621126",
-            "立法紀錄": "63卷40期696號 29-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacccbcfcfcfcfcdc4cfcfcdc6c4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "621203",
-            "立法紀錄": "63卷43期699號 38-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacccbcccfcfcfcdc4cfcfccc7c4cfcfcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "621210",
-            "立法紀錄": "63卷46期702號 24-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacccbc9cfcfcfcdc4cfcfcdcbc4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "621220",
-            "立法紀錄": "63卷53期709號 51-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacccacccfcfc4cfcfcacec4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "621219",
-            "立法紀錄": "63卷56期712號 14-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacccac9cfcfc4cfcfcecbc4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "621228",
-            "立法紀錄": "62卷100期656號 4-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cdcacdcecfcfcfcfcfcec4cfcfcfcbc4cfcfcccf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcacfcfc5cac6"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "630104",
-            "立法紀錄": "63卷2期658號 3-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacdcfcdcfcfcfcec4cfcfcfccc4cfcfcfc6",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840113",
+            "立法紀錄": "84卷5期2762號下冊 8-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cdc881c7cbcfcacfccc4cfcfcfc7c4cfcfcec9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "630104",
-            "立法紀錄": "63卷2期658號 9-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacdcfcdcfcfcfcec4cfcfcfc6c4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "630111",
-            "立法紀錄": "63卷4期660號 97-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacdcfcbcfcfc4cfcfc6c8c4cfcececc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "630117",
-            "立法紀錄": "63卷6期662號 7-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacdcfc9cfcfc4cfcfcfc8c4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "630118",
-            "立法紀錄": "63卷6期662號 97-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacdcfc9cfcfc4cfcfc6c8c4cfcecfcf",
+            "會議日期": "840116",
+            "立法紀錄": "84卷6期2763號上冊 77-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cdc881c7cbcfc9cfcec4cfcfc8c8c4cfcfc8c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "630118",
-            "立法紀錄": "63卷6期662號 100-106頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cdca81c9cccacdcfc9cfcfc4cfcecfcfc4cfcecfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "630312",
-            "立法紀錄": "63卷18期674號 3-8頁",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "630430",
-            "立法紀錄": "63卷29期685號 3-7頁",
+            "會議日期": "840116",
+            "立法紀錄": "84卷6期2763號上冊 77-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cdc881c7cbcfc9cfcec4cfcfc8c8c4cfcfc8c8",
             "關係文書": []
         }
     ]
