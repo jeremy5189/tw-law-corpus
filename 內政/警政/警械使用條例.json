@@ -1,8 +1,8 @@
 {
     "title": "警械使用條例",
     "versions": [
-        "中華民國91年4月25日修正",
-        "中華民國91年5月15日公布"
+        "中華民國91年5月14日修正",
+        "中華民國91年5月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -84,7 +84,7 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　警械非經內政部之許可，不得定製、售賣或持有，違者由警察機關沒入。但法律另有規定者，從其規定。",
+            "content": "　　警械非經內政部許可，不得定製、售賣或持有，違者由警察機關沒入。但法律另有規定者，從其規定。\n　　前項許可定製、售賣或持有之警械種類、規格、許可條件、許可之申請、審查、註銷、撤銷或廢止及其他應遵行事項之辦法，由內政部定之。",
             "relates": {}
         },
         {
@@ -95,41 +95,52 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　關於政府賠償醫藥費、埋葬費或撫卹費之標準，宜統一由內政部定之，爰修正第三項。"
+        "第十三條": "　　現行電氣警棍警棒電擊器管理辦法無法律授權，爰增訂第二項，以為該辦法之授權規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910423",
-            "立法紀錄": "91卷28期3224號上冊 10-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c981c6cecdc7cfcec4cfcfcecfc4cfcfcece",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c881c6cecccbcfcec4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5c9c8cad2c9c7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2c9"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5cecbc9d2cecbc8"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 444-445頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c981c6cecdc7cfcec4cfcbcbcbc4cfcbcbca",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 152-155頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c881c6cecccbcfcec4cfcecacdc4cfcecaca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 169-170頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c881c6cecccbcfcec4cfcec9c6c4cfcec8cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 447-447頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c981c6cecdc7cfcec4cfcbcbc8c4cfcbcbc8",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 331-331頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c881c6cecccbcfcec4cfcccccec4cfccccce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 447-447頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c981c6cecdc7cfcec4cfcbcbc8c4cfcbcbc8",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 331-331頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cec6c881c6cecccbcfcec4cfcccccec4cfccccce",
             "關係文書": []
         }
     ]
