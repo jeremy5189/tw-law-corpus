@@ -1,8 +1,8 @@
 {
     "title": "二二八事件處理及賠償條例",
     "versions": [
-        "中華民國89年1月15日修正",
-        "中華民國89年2月9日公布"
+        "中華民國90年10月4日修正",
+        "中華民國90年10月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,13 +18,13 @@
         {
             "note": "(受難者之定義及補償金之申請)",
             "rule_no": "第二條",
-            "content": "　　本條例所稱受難者，係指人民因本事件生命、身體、自由或財產遭受公務員或公權力侵害者。\n　　受難者應於本條例施行之日起四年內，依本條例規定申請給付補償金。\n　　前項期限屆滿後，若仍有受難者因故未及申請補償金，得再延長兩年。\n　　受難者曾依司法程序或台灣省行政長官公署之行政命令獲取補償、撫卹或救濟者，不得申請登記。",
+            "content": "　　本條例所稱受難者，係指人民因本事件生命、身體、自由或財產遭受公務員或公權力侵害者。\n　　受難者應於本條例施行之日起五年內，依本條例規定申請給付補償金。\n　　前項期限屆滿後，若仍有受難者因故未及申請補償金，得再延長兩年。\n　　受難者曾依司法程序或台灣省行政長官公署之行政命令獲取補償、撫卹或救濟者，不得申請登記。",
             "relates": {}
         },
         {
             "note": "(紀念基金會之設置及員額)",
             "rule_no": "第三條",
-            "content": "　　行政院為處理受難者之認定及申請補償事宜，得設「財團法人二二八事件紀念基金會」（以下簡稱紀念基金會），由學者專家、社會公正人士、政府及受難者或其家屬代表組成之。\n　　受難者或其家屬代表不得少於紀念基金會委員總額之四分之一。",
+            "content": "　　行政院為處理受難者之認定及申請補償事宜，得設「財團法人二二八事件紀念基金會」（以下簡稱紀念基金會），由學者專家、社會公正人士、政府及受難者或其家屬代表組成之。\n　　受難者或其家屬代表不得少於紀念基金會委員總額之四分之一。\n　　申請人不服基金會決定時，得依法提起訴願及行政訴訟。",
             "relates": {}
         },
         {
@@ -107,53 +107,80 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　本條例立法宗旨係以補償為手段，以安慰受難者家屬為目的，不應以手續、細目為由，妨礙求償，然而，依法四年內申請補償金之期限將於今（八十八）年十月六日截止，故修正原條文第二條第二項，延長申請期限為四年，未於前項期間內提出申請者之延展期限則保留為二年不變，以協助家屬順利求償。"
+        "第二條": "　　由於申請補償期限將於今年（九十年）十月六日再度屆滿，誠有必要再予延長一年，爰修正本條第二項，將「四」年改為「五」年。",
+        "第三條": "　　為充分落實政府照顧二二八事件受難者及其家屬權益，並使條例規定符合憲法第十六條人民有請願、訴願及訴訟之權之意旨，爰增訂第三項：申請人不服基金會決定時，得依法提起訴願及行政訴訟之規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881022",
-            "立法紀錄": "88卷45期3045號上冊 9-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccca81c7c7cbcacfcec4cfcfcfc6c4cfcfcfc6",
+            "會議日期": "881224",
+            "立法紀錄": "89卷2期3061號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccc981c7c6cfcdcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "許添財",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecdcfcfc5cdc8c7d2cdc7cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccc981c6cfcdc9cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "丁守中",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcacfcec5cecdc9d2cecdc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccc981c6cfcdc9cfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "蔡同榮",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcdc5cccfcfd2cccfcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc9cfcec5cdccc7d2cdcbcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881220",
-            "立法紀錄": "89卷4期3063號二冊 293-301頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccca81c7c6cfcbcfcdc4cfcdc6ccc4cfcccfce",
+            "會議日期": "900531",
+            "立法紀錄": "90卷42期3176號 131-134頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccc981c6cfcbcdcfcfc4cfcecccec4cfcecccb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "890115",
-            "立法紀錄": "89卷9期3068號四冊 251-253頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccca81c7c6cfc6cfcbc4cfcdcacec4cfcdcacc",
+            "會議日期": "901004",
+            "立法紀錄": "90卷46期3180號上冊 370-377頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccc981c6cfcbc9cfcec4cfccc8cfc4cfccc8c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecccfcdc5cccfc9d2cccecf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cfcccfccc5c8d2cecb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890115",
-            "立法紀錄": "89卷9期3068號四冊 254-254頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccca81c7c6cfc6cfcbc4cfcdcacbc4cfcdcacb",
+            "會議日期": "901004",
+            "立法紀錄": "90卷46期3180號上冊 377-377頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccc981c6cfcbc9cfcec4cfccc8c8c4cfccc8c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "890115",
-            "立法紀錄": "89卷9期3068號四冊 254-254頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccca81c7c6cfc6cfcbc4cfcdcacbc4cfcdcacb",
+            "會議日期": "901004",
+            "立法紀錄": "90卷46期3180號上冊 377-377頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cbccc981c6cfcbc9cfcec4cfccc8c8c4cfccc8c8",
             "關係文書": []
         }
     ]
