@@ -1,8 +1,8 @@
 {
     "title": "國有財產法",
     "versions": [
-        "中華民國91年4月2日修正",
-        "中華民國91年4月24日公布"
+        "中華民國92年1月13日修正",
+        "中華民國92年2月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -390,7 +390,7 @@
         {
             "note": "(直接使用人申請讓售之方式)",
             "rule_no": "第五十二條 之二",
-            "content": "　　非公用財產類之不動產，於民國三十五年十二月三十一日以前已供建築、居住使用至今者，其直接使用人得於本法修正施行日起三年內，檢具有關證明文件，向財政部國有財產局或所屬分支機構申請讓售。經核准者，其土地面積在五百平方公尺以內部分，得按第一次公告土地現值計價。",
+            "content": "　　非公用財產類之不動產，於民國三十五年十二月三十一日以前已供建築、居住使用至今者，其直接使用人得於民國一百零四年一月十三日前，檢具有關證明文件，向財政部國有財產局或所屬分支機構申請讓售。經核准者，其土地面積在五百平方公尺以內部分，得按第一次公告土地現值計價。",
             "relates": {}
         },
         {
@@ -573,43 +573,92 @@
         }
     ],
     "law_reasons": {
-        "第五十條": "　　依「臺灣省政府功能業務與組織調整暫行條例」第二條規定，台灣省政府為行政院派出機關，台灣省為非地方自治團體，故國有財產法中有關應由省政府核轉之規定允宜配合修正。爰將第二項「分別」及「或省（市）政府」文字刪除。",
-        "第五十一條": "　　依「臺灣省政府功能業務與組織調整暫行條例」第二條規定，台灣省政府為行政院派出機關，台灣省為非地方自治團體，故國有財產法中有關應由省政府核轉之規定允宜配合修正。爰將第二項「分別」及「或省（市）政府」文字刪除。"
+        "第五十二條 之二": "　　民眾欲申請讓售，卻常因土地變更程序曠日費時或根本不知有此法律存在，致使無法行使該項權益。爰提案修正延長期間至民國一百零四年一月十三日前，以確保民眾原有權益。至申請核准與否，主管機關仍保有決定之權利，自不待言。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 8-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcd81c6cecdcecfcec4cfcfcfc7c4cfcfcfc6",
-            "主提案": "行政院",
+            "會議日期": "911018",
+            "立法紀錄": "91卷61期3257號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcb81c6cec9cecfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "湯火聖",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5caccc6d2cac7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcacfcec5cecfc7d2cececf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 100-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcd81c6cecdcecfcec4cfcecfcfc4cfcecfce",
-            "關係文書": []
+            "進度": "一讀",
+            "會議日期": "911018",
+            "立法紀錄": "91卷61期3257號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcb81c6cec9cecfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "侯水盛",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcacfcec5cececed2cececc"
+                ]
+            ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 110-110頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcd81c6cecdcecfcec4cfcececfc4cfcececf",
+            "進度": "一讀",
+            "會議日期": "911108",
+            "立法紀錄": "91卷67期3263號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcb81c6cec9c8cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "張清芳",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc7cfcec5cec6c8d2cec6c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "911115",
+            "立法紀錄": "91卷68期3264號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcb81c6cec9c7cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "林岱樺",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc6cfcec5cdcdc7d2cdcccf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "911213",
+            "立法紀錄": "91卷77期3273號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcb81c6cec8c8cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "蔡同榮",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecccfcfc5cccfced2cccfcc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "920102",
+            "立法紀錄": "92卷9期3283號上冊 159-178頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcb81c6cdcfc6cfcec4cfcecac6c4cfcec8c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 129-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcd81c6cecdcecfcec4cfcecdc6c4cfcecccf",
-            "關係文書": []
+            "會議日期": "920113",
+            "立法紀錄": "92卷8期3282號一冊 294-303頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cdcdcb81c6cdcfc7cfcec4cfcdc6cbc4cfcccfcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfcec5cacbced2cacacf"
+                ]
+            ]
         }
     ]
 }
