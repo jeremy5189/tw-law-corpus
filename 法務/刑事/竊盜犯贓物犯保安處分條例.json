@@ -1,8 +1,8 @@
 {
     "title": "竊盜犯贓物犯保安處分條例",
     "versions": [
-        "中華民國46年1月18日全文修正",
-        "中華民國46年1月30日公布"
+        "中華民國56年7月18日修正",
+        "中華民國56年8月1日公布"
     ],
     "types": [
         "立法歷程",
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　十四歲以上未滿十八歲之竊盜犯、贓物犯免除其刑，令入感化處所施以感化教育。但具有左列情形而情節輕微者，以保護管束代之：\n　　一、未曾受刑之宣告。\n　　二、未曾受刑事訴訟法第二百三十二條之不起訴處分。\n　　三、未曾受保安處分之宣告。\n　　前項但書，檢察官得適用刑事訴訟法第二百三十二條之規定。",
+            "content": "　　十四歲以上未滿十八歲之竊盜犯、贓物犯免除其刑，令入感化處所施以感化教育。但具有左列情形而情節輕微者，以保護管束代之：\n　　一、未曾受刑之宣告。\n　　二、未曾受刑事訴訟法第二百五十三條之不起訴處分。\n　　三、未曾受保安處分之宣告。\n　　前項但書，檢察官得適用刑事訴訟法第二百五十三條之規定。",
             "relates": {}
         },
         {
@@ -103,61 +103,36 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "451012",
-            "立法紀錄": "45卷18期號3冊 59-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cd81cbcacec7cfccc4cfcfcac6c4cfcfcac6",
-            "主提案": "行政院",
+            "會議日期": "560714",
+            "立法紀錄": "56卷5期號7冊 750-754頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cc81cac9ccc6cfc8cfcac4cfc8cacfc4cfc8cacb",
+            "主提案": "ⓙ士源",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcecfcfc5cacbccd2cacacb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "451023",
-            "立法紀錄": "46卷18期號4冊 24-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cd81cbc9cec7cfcbc4cfcfcdcbc4cfcfcdca",
-            "主提案": "請願案",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cecbd2cdce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcccfcfc5c9c7cbd2c9c7c6"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "460118",
-            "立法紀錄": "46卷18期號6冊 41-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cd81cbc9cec7cfc9c4cfcfcbcec4cfcfcacc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cacac9d2cac9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460118",
-            "立法紀錄": "46卷18期號6冊 165-167頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cd81cbc9cec7cfc9c4cfcec9cac4cfcec9c8",
+            "會議日期": "560714",
+            "立法紀錄": "56卷5期號7冊 750-754頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cc81cac9ccc6cfc8cfcac4cfc8cacfc4cfc8cacb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "460118",
-            "立法紀錄": "46卷18期號6冊 167-187頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cd81cbc9cec7cfc9c4cfcec9c8c4cfcec7c8",
+            "會議日期": "560714",
+            "立法紀錄": "56卷5期號7冊 754-754頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cc81cac9ccc6cfc8cfcac4cfc8cacbc4cfc8cacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "460118",
-            "立法紀錄": "46卷18期號6冊 187-188頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cd81cbc9cec7cfc9c4cfcec7c8c4cfcec7c7",
+            "會議日期": "560718",
+            "立法紀錄": "56卷6期號7冊 785-785頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9cc81cac9ccc6cfc8cfc9c4cfc8c7cac4cfc8c7ca",
             "關係文書": []
         }
     ]
