@@ -1,11 +1,12 @@
 {
     "title": "非常時期農礦工商管理條例",
     "versions": [
-        "中華民國27年9月30日全文修正",
-        "中華民國27年10月6日公布"
+        "中華民國83年1月18日廢止",
+        "中華民國83年2月7日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -223,6 +224,37 @@
             "rule_no": "第三十六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例原名為「戰時農礦工商管理條例」係由國民政府於民國二十六年十二月二十二日公布，二十七年十月六日修正為現名並修正公布全文。主要係針對特殊情勢，因物質缺乏及對軍需品、日常生活用品的迫切需要，為使有限之物質能做最有效運用，以穩定一般人民生活而特別制定本條例。但因本條例管制性質頗強，且以其範圍過廣，因此予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "790302",
+            "立法紀錄": "79卷18期2338號 62-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecacacf81c8c6cfcec7cfcfc4cfcfc9cdc4cfcfc9cc",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "821007",
+            "立法紀錄": "82卷53期2652號上冊 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecacacf81c7cdcacccfcec4cfcfcecec4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "821201",
+            "立法紀錄": "82卷71期2670號下冊 151-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecacacf81c7cdc8cecfccc4cfcecacec4cfcecac9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "830118",
+            "立法紀錄": "83卷7期2681號上冊 122-126頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecacacf81c7cccfc8cfcec4cfcecdcdc4cfcecdc9",
+            "關係文書": []
         }
     ]
 }
