@@ -1,8 +1,8 @@
 {
     "title": "博士學位評定會組織條例",
     "versions": [
-        "中華民國65年11月30日修正",
-        "中華民國66年2月3日公布"
+        "中華民國67年5月23日修正",
+        "中華民國67年6月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,13 +24,13 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　博士學位評定會，置委員七人至九人，由教育部部長聘任之，並指定委員一人為主席。",
+            "content": "　　博士學位評定會，置委員五人至九人，由教育部部長聘任之，並指定委員一人為主席。\n　　前項委員如有由提出候選人之學校教師或原校考試委員擔任者，以一人為限。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　博士學位評定會委員應具左列資格之一：\n　　一、曾任大學教授五年以上，並係擔任與博士學位候選人所提研究論文之有關學科者。\n　　二、中央研究院院士，對博士學位候選人所提研究論文學科有專門研究者。\n　　三、在學術上有卓越之成就，並對博士學位候選人所提研究論文學科有專門研究者。",
+            "content": "　　博士學位評定會委員應具左列資格之一：\n　　一、曾任教授五年以上，並擔任與博士學位候選人所提研究論文之有關學科教學者。\n　　二、中央研究院院士及曾任中央研究院研究所研究員五年以上，對博士學位候選人所提研究論文學科有專門研究者。\n　　三、在學術上有卓越成就，並對博士學位候選人所提研究論文學科有專門研究者。",
             "relates": {}
         },
         {
@@ -47,34 +47,54 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　由於「學位授予法」業經修正通過，原第七條已修正為第五條，爰配合修正之。"
+        "第三條": "　　一、目前科際研究日益專精，聘請專家七人之多常有困難，故修正為五至九人。\n　　二、增訂第二項。提出侯選人之學校教師或考試委負擔任評定委員之人數，以一人為限。",
+        "第四條": "　　若干專精論著，評定委員甚難物色，除將中央研究院研究所資深研究員予以納入本條第二款及酌作文字修正外、並將第一款「大學教授」改為「教授」，以利適用。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "651126",
-            "立法紀錄": "65卷95期954號 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cc81c9cacac7c6cacfcfcfcec4cfcfcdcbc4cfcfcdcb",
-            "主提案": "張希哲",
+            "會議日期": "670224",
+            "立法紀錄": "67卷16期1084號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecec9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcccfcfc5cec6cfd2cec6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcecfcfc5cac7c7d2cac6cd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "670406",
+            "立法紀錄": "67卷44期1112號 54-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecbcbcfcfc4cfcfcacbc4cfcfcac7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "670519",
+            "立法紀錄": "67卷40期1108號 5-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecbcfcfcfc4cfcfcfcac4cfcfcecd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcccfcfc5cacdd2cac8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "651126",
-            "立法紀錄": "65卷95期954號 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cc81c9cacac7c6cacfcfcfcec4cfcfcdcbc4cfcfcdcb",
+            "會議日期": "670519",
+            "立法紀錄": "67卷40期1108號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecbcfcfcfc4cfcfcecdc4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "651130",
-            "立法紀錄": "65卷96期955號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cc81c9cacac7c6c9cfcfcfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "670523",
+            "立法紀錄": "67卷41期1109號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9cb81c9c8c9cecbcecfcfc4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         }
     ]
