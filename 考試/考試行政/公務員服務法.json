@@ -1,8 +1,8 @@
 {
     "title": "公務員服務法",
     "versions": [
-        "中華民國84年12月21日修正",
-        "中華民國85年1月15日公布"
+        "中華民國89年6月30日修正",
+        "中華民國89年7月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -72,7 +72,7 @@
         {
             "note": "(依法定時間辦公)",
             "rule_no": "第十一條",
-            "content": "　　公務員辦公，應依法定時間，不得遲到、早退；其有特別職務經長官許可者，不在此限。",
+            "content": "　　公務員辦公，應依法定時間，不得遲到早退，其有特別職務經長官許可者，不在此限。\n　　公務員每週應有二日之休息，作為例假。業務性質特殊之機關，得以輪休或其他彈性方式行之。\n　　前項規定自民國九十年一月一日起實施，其辦法由行政院會同考試院定之。",
             "relates": {}
         },
         {
@@ -85,19 +85,72 @@
             "note": "(經商之禁止)",
             "rule_no": "第十三條",
             "content": "　　公務員不得經營商業或投機事業。但投資於非屬其服務機關監督之農、工、礦、交通或新聞出版事業，為股份有限公司股東，兩合公司之有限責任股東，或非執行業務之有限公司股東，而其所有股份總額未超過其所投資公司股本總額百分之十者，不在此限。\n　　公務員非依法不得兼公營事業機關或公司代表官股之董事或監察人。\n　　公務員利用權力、公款或公務上之秘密消息而圖利者，依刑法第一百三十一條處斷；其他法令有特別處罰規定者，依其規定。其離職者，亦同。\n　　公務員違反第一項、第二項或第三項之規定者，應先予撤職。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04536",
+                        "law_name": "中華民國刑法",
+                        "numbers": [
+                            "第一百三十一條"
+                        ]
+                    }
+                ],
+                "被引用條文": [
+                    {
+                        "law_no": "01934",
+                        "law_name": "國營事業管理法",
+                        "numbers": [
+                            "第三十六條"
+                        ]
+                    },
+                    {
+                        "law_no": "02807",
+                        "law_name": "科學技術基本法",
+                        "numbers": [
+                            "第十七條"
+                        ]
+                    },
+                    {
+                        "law_no": "02814",
+                        "law_name": "生技新藥產業發展條例",
+                        "numbers": [
+                            "第十條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(兼職之限制)",
             "rule_no": "第十四條",
             "content": "　　公務員除法令所規定外，不得兼任他項公職或業務。其依法令兼職者，不得兼薪及兼領公費。\n　　依法令或經指派兼職者，於離去本職時，其兼職亦應同時免兼。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "02807",
+                        "law_name": "科學技術基本法",
+                        "numbers": [
+                            "第十七條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(離職後兼職之限制)",
             "rule_no": "第十四條 之一",
             "content": "　　公務員於其離職後三年內，不得擔任與其離職前五年內之職務直接相關之營利事業董事、監察人、經理、執行業務之股東或顧問。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04654",
+                        "law_name": "公務員服務法",
+                        "numbers": [
+                            "第二十二條之一"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(兼任之許可(一))",
@@ -163,7 +216,17 @@
             "note": "(違反兼職之懲處)",
             "rule_no": "第二十二條 之一",
             "content": "　　離職公務員違反本法第十四條之一者，處二年以下有期徒刑，得併科新臺幣一百萬元以下罰金。\n　　犯前項之罪者，所得之利益沒收之。如全部或一部不能沒收時，追徵其價額。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04654",
+                        "law_name": "公務員服務法",
+                        "numbers": [
+                            "第十四條之一"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(包庇屬官之懲處)",
@@ -185,71 +248,72 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　一、照現行條文修正通過。\n　　二、第三項句首「為營利事業」五字修正「圖利」；並於句末增訂「其離職者，亦同。」六字。",
-        "第十四條": "　　增列第二項，俾使規定更為明確、完備。",
-        "第十四條 之一": "　　本條係新增。\n　　為禁止公務員離職後，從事與原任職務具密切關係之行為，因所涵蓋範圍較為廣泛，故以「離職後三年內」為限制期間，且以「離職前五年內」之職務作為限制之內容，應屬合理。",
-        "第十四條 之二": "　　本條係新增。\n　　公務員兼任公益或非營利之事業或團體之職務，為了免其違背本身職務，應訂定辦法加以規範，如此可避免行政機關為逃避國會監督而私設公益或非營利團體的現象。",
-        "第十四條 之三": "　　本條係新增。\n　　為尊重首長之監督權，避免首長與屬員間產生不愉快，爰增訂此條文。",
-        "第二十二條 之一": "　　本條係新增。\n　　明訂違反第十四條之一規定者之罰則。"
+        "第十一條": "　　一、修正增訂公務員每週休息日數，以使週休二日取得法源依據，並得視機關業務性質彈性行之。\n　　二、明定自民國九十年一月一日起全面實施之日昇條款，並授權行政機關訂定施行辦法，以顧及不同地區與各機關業務之差異性，以求周延。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830104",
-            "立法紀錄": "83卷3期2677號 57-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cf81c7cccfcccfcfc4cfcfcac8c4cfcfc9cd",
-            "主提案": "程建人",
+            "會議日期": "840421",
+            "立法紀錄": "84卷24期2781號上冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cd81c7cbcdcbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "韓國瑜",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcdcecfcec5cccccad2ccccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacecccfcec5cdcdcbd2cdcdc8"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "830104",
-            "立法紀錄": "83卷3期2677號 59-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cf81c7cccfcccfcfc4cfcfcac6c4cfcfc9cd",
-            "主提案": "林濁水",
+            "會議日期": "851022",
+            "立法紀錄": "85卷53期2875號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cd81c7cacacccfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": "李慶華",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcdcecfcec5cbcfcdd2cbcfca"
+                    "null",
+                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcecdcecfcec9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "851029",
+            "立法紀錄": "85卷54期2876號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cd81c7cacacbcfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "簡錫堦",
+            "關係文書": [
+                [
+                    "null",
+                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcecccecfcfc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830616",
-            "立法紀錄": "83卷45期2719號下冊 363-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cf81c7cccbcacfccc4cfccc9ccc4cfccc8c7",
+            "會議日期": "851120",
+            "立法紀錄": "85卷63期2885號下冊 121-162頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cd81c7cac9cccfccc4cfcecdcec4cfcec9cd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "841221",
-            "立法紀錄": "84卷64期2821號 28-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cf81c7cbc9cbcfcfc4cfcfcdc7c4cfcfcbcf",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號上冊 208-219頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cd81c7c6ccc6cfcec4cfcdcfc7c4cfcdcec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcacfcfc5cbc6c6d2cacecc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5cecdc6d2cecbcc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "841221",
-            "立法紀錄": "84卷64期2821號 40-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cf81c7cbc9cbcfcfc4cfcfcbcfc4cfcfcbcd",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "841221",
-            "立法紀錄": "84卷64期2821號 42-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cf81c7cbc9cbcfcfc4cfcfcbcdc4cfcfcbcd",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號上冊 219-224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc9cd81c7c6ccc6cfcec4cfcdcec6c4cfcdcdcb",
             "關係文書": []
         }
     ]
