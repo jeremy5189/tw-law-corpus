@@ -1,12 +1,11 @@
 {
     "title": "國家銀行職員任免條例",
     "versions": [
-        "中華民國89年12月1日廢止",
-        "中華民國89年12月20日公布"
+        "中華民國36年12月6日制定",
+        "中華民國36年12月19日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -146,40 +145,6 @@
             "rule_no": "第二十三條",
             "content": "　　本條例施行日期，以命令定之。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　「國家銀行職員任免條例」係於民國三十六年十二月由國民政府公布，因時空環境改變，已無適用於各公營金融事業機構，爰予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "881015",
-            "立法紀錄": "88卷44期3044號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6c8c8c981c7c7cbcbcfcec4cfcfcfccc4cfcfcfcc",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdcac7d2cdc9ca"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "891019",
-            "立法紀錄": "89卷62期3121號下冊 109-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6c8c8c981c7c6c9cdcfccc4cfcecfc6c4cfcecdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "891201",
-            "立法紀錄": "89卷68期3127號上冊 29-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6c8c8c981c7c6c9c7cfcec4cfcfcdc6c4cfcfccca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecfcfcdc5cbc7cfd2cbc7c6"
-                ]
-            ]
         }
     ]
 }
