@@ -1,8 +1,8 @@
 {
     "title": "社會教育法",
     "versions": [
-        "中華民國91年4月25日修正",
-        "中華民國91年5月15日公布"
+        "中華民國91年12月24日修正",
+        "中華民國92年1月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -54,7 +54,7 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　私立社會教育機構之設立及獎勵辦法，由教育部定之。",
+            "content": "　　私立社會教育機構應依前條規定核准立案並辦理財團法人登記；其設立、變更、停辦、督導、獎勵及其他應遵行事項之辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -90,7 +90,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　社會教育之教材，除屬一般性質者，由教育部訂定綱要外，並得由直轄市、縣（市）主管教育行政機關，就地方特殊情形增訂之。\n　　教材、教具及通俗讀物之審定辦法，由教育部定之。",
+            "content": "　　社會教育之教材，除屬一般性質者，由教育部訂定綱要外，並得由直轄市、縣（市）主管教育行政機關，就地方特殊情形增訂之。",
             "relates": {}
         },
         {
@@ -107,41 +107,54 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　配合臺灣省政府功能業務與組織調整，將第一項「省（市）政府」修正為「直轄市政府」。",
-        "第六條": "　　配合臺灣省政府功能業務與組織調整，將第一項「省（市）」及「省（市）立」修正為「直轄市」及「市立」。",
-        "第七條": "　　一、配合臺灣省政府功能業務與組織調整，將省立社會教育機構之核准設立程序刪除。\n　　二、縣（市）立社會教育機構改由縣（市）政府核准及轉報教育部備案，並將文字簡化，酌作修正。",
-        "第十四條": "　　配合臺灣省政府功能業務與組織調整，將「省（市）主管教育行政機關」修正為「直轄市主管教育行政機關」。"
+        "第八條": "　　一、私立社會教育機構應依本法第七條規定核准立案後，並辦理財團法人登記，爰予增訂。\n　　二、配合行政程序法之施行，對於法規命令中限制人民權利或課予人民義務或其他重要事項之規定，必須有法律授權，且授權目的、內容及範圍必須具體明確，爰修正為私立社會教育機構設立、變更、停辦、督導、獎勵及其他應遵行事項之辦法，由教育部定之。",
+        "第十四條": "　　一、配合臺灣省政府功能業務與組織調整，爰修正第一項。\n　　二、因應國人終身學習需求，教材、教具及通俗讀物，免予審定，爰刪除第二項規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910402",
-            "立法紀錄": "91卷28期3224號上冊 432-433頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccca81c6cecdc7cfcec4cfcbcccdc4cfcbcccc",
+            "會議日期": "910423",
+            "立法紀錄": "91卷28期3224號上冊 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cecdc7cfcec4cfcfcecfc4cfcfcecf",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cbc8cad2cbc8c7"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cacec7d2cacdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cac6cad2cac6c7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 442-442頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccca81c6cecdc7cfcec4cfcbcbcdc4cfcbcbcd",
+            "進度": "委員會審查",
+            "會議日期": "911209",
+            "立法紀錄": "92卷2期3276號上冊 239-269頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cdcfcdcfcec4cfcdccc6c4cfcdc9c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "911224",
+            "立法紀錄": "92卷1期3275號一冊 84-88頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cdcfcecfcec4cfcfc7cbc4cfcfc7c7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecbcfcdc5c8c6ccd2c7ccca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "911224",
+            "立法紀錄": "92卷1期3275號一冊 92-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cdcfcecfcec4cfcfc6cdc4cfcfc6cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 442-442頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccca81c6cecdc7cfcec4cfcbcbcdc4cfcbcbcd",
+            "會議日期": "911224",
+            "立法紀錄": "92卷1期3275號一冊 124-130頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cdcfcecfcec4cfcecdcbc4cfcecccf",
             "關係文書": []
         }
     ]
