@@ -1,12 +1,12 @@
 {
     "title": "經濟部高雄加工出口區管理處組織條例",
     "versions": [
-        "中華民國55年7月1日制定",
-        "中華民國55年7月13日公布"
+        "中華民國61年12月15日廢止",
+        "中華民國61年12月28日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -100,51 +100,27 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本條例係於五十五年制定公布，原為適應高雄加工出口區之開闢而予單獨立法；今已新訂經濟部加工出口區管理處組織條例，本法已無存在必要，故爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "541022",
-            "立法紀錄": "54卷36期號3冊 59-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc7c781cacbccc9cfcccfcfc4cfcfcac6c4cfcfcac6",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc9cfcecfcfc5cbcac9d2cbc9cc"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550527",
-            "立法紀錄": "55卷37期號9冊 75-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc7c781cacaccc8cfc6cfcfc4cfcfc8cac4cfcfc8ca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc8cfcdcfcfc5c9ced2c8c6"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550701",
-            "立法紀錄": "55卷37期號12冊 9-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc7c781cacaccc8cecdcfcfc4cfcfcfc6c4cfcfcccf",
+            "會議日期": "610728",
+            "立法紀錄": "61卷60期513號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc7c681c9cecbc6c9cfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "550628",
-            "立法紀錄": "55卷37期號12冊 62-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc7c781cacaccc8cecdcfcfc4cfcfc9cdc4cfcfc9ca",
+            "進度": "委員會審查",
+            "會議日期": "610816",
+            "立法紀錄": "61卷86期539號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc7c681c9cecacfc7c9cfcfcfcdc4cfcfcfcec4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "550701",
-            "立法紀錄": "55卷37期號12冊 80-83頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc7c781cacaccc8cecdcfcfc4cfcfc7cfc4cfcfc7cc",
+            "會議日期": "611215",
+            "立法紀錄": "61卷99期552號 32-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc7c681c9cecacfc6c6cfcfcfcec4cfcfcccdc4cfcfcccc",
             "關係文書": []
         }
     ]
