@@ -1,8 +1,8 @@
 {
     "title": "中美共同防禦期間處理在華美軍人員刑事案件條例",
     "versions": [
-        "中華民國55年1月28日制定",
-        "中華民國55年2月10日公布"
+        "中華民國56年12月26日修正",
+        "中華民國57年1月17日公布"
     ],
     "types": [
         "立法歷程",
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　依在華美軍地位協定第十四條規定歸屬美國軍事法庭管轄之案件，中國法院或檢察官基於美國軍事法庭之請求，得簽發傳票，傳喚中國籍或其他屬於中國法院管轄之非中國籍證人，到美國軍事法庭作證。\n　　前項證人，無正當理由不遵傳喚到場者，中國法院得依刑事訴訟法第一百六十五條第一項規定，強制其到場。\n　　第一項之證人，無正當理由拒絕具結或拒絕證言，或有偽證情事者，中國法院得依刑事訴訟法第一百八十條第一項或刑法第一百六十八條規定處罰之。",
+            "content": "　　依在華美軍地位協定第十四條規定歸屬美國軍事法庭管轄之案件，中國法院或檢察官基於美國軍事法庭之請求，得簽發傳票，傳喚中國籍或其他屬於中國法院管轄之非中國籍證人，到美國軍事法庭作證。\n　　前項證人，無正當理由不遵傳喚到場者，中國法院得依刑事訴訟法第一百七十八條第一項規定，強制其到場。\n　　第一項之證人，無正當理由拒絕具結或拒絕證言，或有偽證情事者，中國法院得依刑事訴訟法第一百九十三條或刑法第一百六十八條規定處罰之。",
             "relates": {}
         },
         {
@@ -49,62 +49,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "541019",
-            "立法紀錄": "54卷36期號3冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c781cacbccc9cfcccfcfc4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "561006",
+            "立法紀錄": "56卷2期號10冊 1564-1564頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c681cac9cbcfcfcdcecfc4cecac9cbc4cecac9cb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc9cfcdcfcfc5cecaccd2cecaca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcecfcfc5cacac8d2cac9cf"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "561019",
+            "立法紀錄": "56卷3期號11冊 1967-1969頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c681cac9cbcfcfcccecec4cec6c9c8c4cec6c9c6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "550128",
-            "立法紀錄": "55卷36期號9冊 21-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c781cacaccc9cfc6cfcfc4cfcfcdcec4cfcfcdc9",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2699-2703頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c681cac9cbcfcfc8cecdc4cdc9c6c6c4cdc8cfcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc9cfcccfcfc5cccccdd2ccccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5cdccc7d2cdcbcc"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550111",
-            "立法紀錄": "55卷36期號9冊 36-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c781cacaccc9cfc6cfcfc4cfcfccc9c4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550114",
-            "立法紀錄": "55卷36期號9冊 54-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c781cacaccc9cfc6cfcfc4cfcfcacbc4cfcfcac7",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "550114",
-            "立法紀錄": "55卷36期號9冊 58-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c781cacaccc9cfc6cfcfc4cfcfcac7c4cfcfc8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "550128",
-            "立法紀錄": "55卷36期號9冊 110-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c781cacaccc9cfc6cfcfc4cfcececfc4cfcececc",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2703-2704頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c681cac9cbcfcfc8cecdc4cdc8cfccc4cdc8cfcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "550128",
-            "立法紀錄": "55卷36期號9冊 114-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c781cacaccc9cfc6cfcfc4cfcececbc4cfcecec9",
+            "會議日期": "561226",
+            "立法紀錄": "56卷8期號12冊 2746-2747頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec7c681cac9cbcfcfc7cecdc4cdc8cbc9c4cdc8cbc8",
             "關係文書": []
         }
     ]
