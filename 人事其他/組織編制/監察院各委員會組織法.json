@@ -1,12 +1,12 @@
 {
     "title": "監察院各委員會組織法",
     "versions": [
-        "中華民國58年12月16日修正",
-        "中華民國58年12月23日公布"
+        "中華民國60年4月2日修正",
+        "中華民國60年4月14日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -60,28 +60,40 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　各委員會置左列各職員，由院長依法任用之。\n　　一、秘書一人，薦任或簡任。\n　　二、科員二人或三人，委任，其中一人得為薦任。\n　　三、雇員一人至三人。\n　　各委員會職員，得視事務之繁簡，由院長相互調用之。",
+            "content": "　　各委員會各置秘書二人，職位列第十至十四職等者一人，列第六至第九職等者一人；科員二人或三人，職位列第一至第五職等，其中一人職位得列第六或第七職等；書記一人，職位列第一至第三職等。\n　　各委員會職員，得視事務之繁簡，由院長相互調用之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　各委員會於必要時得設專門委員一人，由各委員會提請院長聘任之。",
+            "content": "　　各委員會於必要時，得各置專門委員一人，職位列第十至第十四職等。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本法自公布日施行",
+            "content": "　　第九條及第十條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就一般行政管理、法制、議事、人事行政、事務管理、文書及其他有關職系選用之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十二條",
+            "content": "　　本法自公布日施行。",
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第九條": "　　參照立法院各委員會之組織法改為簡任秘書一人、薦任秘書一人、雇員一至三人，減少為一人。為配合新頒聘用人員聘用條例之實施，各委員會原聘用之專門委員，業經會同考試院共同認定應以簡任任用，故改為簡任。",
+        "第十條": "　　為配合新頒聘用人員聘用條例之實施，各委員會原聘用之專門委員，業經會同考試院共同認定應以簡任任用，故改為簡任。",
+        "第十一條": "　　該法內缺乏有關職位職系之規定，故予以增訂，方符職位分類新制之體制。",
+        "第十二條": "　　條次修改。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "581121",
-            "立法紀錄": "58卷85期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc7cacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "600330",
+            "立法紀錄": "60卷22期376號 17-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c981c9cfcbc8cdcdcfcfcfcec4cfcfcec8c4cfcfcec6",
             "主提案": "監察院",
             "關係文書": [
                 [
@@ -91,49 +103,29 @@
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "581205",
-            "立法紀錄": "58卷89期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc7c6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "監察院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cac6c6d2c9cfcf"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581210",
-            "立法紀錄": "59卷7期號 5-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac6cbcbcfc8cfcfcfcdc4cfcfcfcac4cfcfcecf",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "581216",
-            "立法紀錄": "58卷92期號 2-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc6cdcfcfcfcec4cfcfcfcdc4cfcfcfca",
+            "會議日期": "600330",
+            "立法紀錄": "60卷22期376號 19-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c981c9cfcbc8cdcdcfcfcfcec4cfcfcec6c4cfcfccc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5c8cdcbd2c8cdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcecfcfc5c7c6ced2c6cfc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "581216",
-            "立法紀錄": "58卷92期號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc6cdcfcfcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "600330",
+            "立法紀錄": "60卷22期376號 42-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c981c9cfcbc8cdcdcfcfcfcec4cfcfcbcdc4cfcfcbcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "581216",
-            "立法紀錄": "58卷92期號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc6cdcfcfcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "600402",
+            "立法紀錄": "60卷23期377號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9c981c9cfcbc8cdcccfcfcfcec4cfcfcfcbc4cfcfcfca",
             "關係文書": []
         }
     ]
