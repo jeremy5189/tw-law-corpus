@@ -1,10 +1,11 @@
 {
     "title": "考試法",
     "versions": [
-        "中華民國41年2月12日修正",
-        "中華民國41年2月27日公布"
+        "中華民國43年12月7日修正",
+        "中華民國43年12月17日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -183,9 +184,9 @@
             "relates": {}
         },
         {
-            "note": "(非中華民國國民應專門職業及技術人員考試之規定)",
+            "note": "(外國人應專門職業及技術人員考試之規定)",
             "rule_no": "第二十八條",
-            "content": "　　非中華民國國民應專門職業及技術人員之考試，另以法律定之。",
+            "content": "　　外國人應專門職業及技術人員之考試，另以法律定之。",
             "relates": {}
         },
         {
@@ -209,6 +210,42 @@
             "rule_no": "第三十一條",
             "content": "　　本條自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "430618",
+            "立法紀錄": "43卷13期號6冊 41-42頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc981cbcccecccfc9c4cfcfcbcec4cfcfcbcd",
+            "主提案": "魏惜言",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcdcfcfc5cac8c9d2cac8c7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430618",
+            "立法紀錄": "44卷14期號6冊 41-46頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc981cbcbcecbcfc9c4cfcfcbcec4cfcfcbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "431207",
+            "立法紀錄": "44卷14期號6冊 119-124頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc981cbcbcecbcfc9c4cfcecec6c4cfcecdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "431207",
+            "立法紀錄": "44卷14期號6冊 124-126頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcbc981cbcbcecbcfc9c4cfcecdcbc4cfcecdc9",
+            "關係文書": []
         }
     ]
 }
