@@ -1,8 +1,8 @@
 {
     "title": "經濟部加工出口區管理處組織條例",
     "versions": [
-        "中華民國92年12月26日修正",
-        "中華民國93年1月7日公布"
+        "中華民國61年12月19日制定",
+        "中華民國61年12月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,243 +12,156 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　本條例依經濟部組織法第十三條及加工出口區設置管理條例第四條規定制定之。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "01019",
-                        "law_name": "經濟部組織法",
-                        "numbers": [
-                            "第十三條"
-                        ]
-                    },
-                    {
-                        "law_no": "01923",
-                        "law_name": "加工出口區設置管理條例",
-                        "numbers": [
-                            "第四條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　本條例依加工出口區設置管理條例第七條之規定制定之。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　經濟部加工出口區管理處（以下簡稱本處）掌理加工出口區設置管理條例所定事項。",
+            "content": "　　經濟部加工出口區管理處掌理加工出口區設置管理條例第八條所定事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本處設四組，分別掌理前條所定事項；各組並得分科辦事。",
+            "content": "　　本處設六科及工務室，分掌前條所定事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　本處設祕書室，掌理總務、文書、印信、檔案管理、出納、公共關係、法制、各區公有財產保管之督導及其他不屬各組、室事項。",
+            "content": "　　本處設秘書室，掌理總務、文書、出納、公共關係、法律事務、各區公有財產保管之督導及不屬其他各科、室事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本處置處長一人，職務列簡任第十三職等，綜理處務；副處長二人，職務列簡任第十二職等，襄理處務。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01905",
-                        "law_name": "經濟部加工出口區管理處組織條例",
-                        "numbers": [
-                            "第十條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　本處置處長一人，職位列第十至第十四職等，綜理處務，並指揮、監督所屬職員及機關；副處長一人，職位列第八至第十二職等，襄理處務。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本處置主任秘書一人，組長四人，職務均列簡任第十一職等；副組長四人，職務列簡任第十職等；專門委員三人至五人，職務列薦任第九職等至簡任第十職等；科長十二人，職務列薦任第九職等；秘書二人，技正八人至十人，分析師一人，職務均列薦任第八職等至第九職等，其中技正二人，職務得列簡任第十職等；專員十四人至十八人，職務列薦任第七職等至第八職等；管理師二人，職務列薦任第六職等至第八職等；科員二十三人至三十人，技士七人至十一人，職務均列委任第五職等或薦任第六職等至第七職等；助理管理師二人，職務列委任第四職等至第五職等，其中一人，職務得列薦任第六職等；辦事員十五人至十七人，職務列委任第三職等至第五職等；書記十四人至十七人，職務列委任第一職等至第三職等。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01905",
-                        "law_name": "經濟部加工出口區管理處組織條例",
-                        "numbers": [
-                            "第十條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　本處置主任秘書一人，總工程司兼工務室主任一人，專門委員二人至四人，職位均列第八至第十二職等；技正一人至三人，工程司二人，職位均列第七至第十一職等；科長六人，秘書二人，專員十四人至十八人，副工程司一人，職位均列第六至第九職等；科員二十六人至三十四人，技士一人，辦事員十三人至十七人，職位均列第一至第五職等，其中科員七人至九人，職位得列第六或第七職等，書記十三人至十九人，職位得列第一至第三職等。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　本處設人事室，置主任一人，職務列薦任第九職等至簡任第十職等，依法辦理人事管理事項；其餘所需工作人員，就本條例所定員額內派充之。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01905",
-                        "law_name": "經濟部加工出口區管理處組織條例",
-                        "numbers": [
-                            "第十條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　本處設人事室、會計室，各置主任一人，職位均列第六至第九職等；依法律規定，分別辦理人事、歲計、會計及統計事項。\n　　前項各室所需工作人員，應就本條例所定員額內派充之。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　本處設會計室，置會計主任一人，職務列薦任第九職等至簡任第十職等，依法辦理歲計、會計及統計事項；其餘所需工作人員，就本條例所定員額內派充之。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01905",
-                        "law_name": "經濟部加工出口區管理處組織條例",
-                        "numbers": [
-                            "第十條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　第五條至第七條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就一般行政管理、勞工行政、經建行政、一般工程、人事行政、文書、事務管理、會計、統計及其他有關職系選用之。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　本處設政風室，置主任一人，職務列薦任第九職等至簡任第十職等，依法辦理政風事項；其餘所需工作人員，就本條例所定員額內派充之。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01905",
-                        "law_name": "經濟部加工出口區管理處組織條例",
-                        "numbers": [
-                            "第十條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　本處得商請警政主管機關，在各加工出口區設置警察單位，兼受管理處或分處之指揮，依法辦理加工出口區內有關警察業務。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　第五條至第九條所定列有官等職等人員，其職務所適用之職系，依公務人員任用法第八條規定，就有關職系選用之。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "01905",
-                        "law_name": "經濟部加工出口區管理處組織條例",
-                        "numbers": [
-                            "第五條",
-                            "第六條",
-                            "第七條",
-                            "第八條",
-                            "第九條"
-                        ]
-                    },
-                    {
-                        "law_no": "04617",
-                        "law_name": "公務人員任用法",
-                        "numbers": [
-                            "第八條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　本處辦事細則由處擬訂，呈請經濟部核定之。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本處得商請警察主管機關，在各加工出口區設置警察單位，兼受管理處之指揮，依法辦理加工出口區內有關警察業務。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十一條 之一",
-            "content": "　　本處得商請消防主管機關，在各加工出口區設消防單位，依法執行消防及災害防救業務。\n　　前項消防單位，兼受本處之指揮、監督。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十二條",
-            "content": "　　本處辦事細則，由本處擬訂，報請經濟部核定之。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十三條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十一條 之一": "　　一、本條新增。\n　　二、賦予本處轄區內成立消防救災單位之法源依據。"
+        "第一條": "　　明定本條例之法源依據。",
+        "第二條": "　　本條規定加工出口區管理處之總職掌。",
+        "第三條": "　　本條規定本處設六科及工務室，分科辦事。",
+        "第四條": "　　明定秘書室之職掌。",
+        "第五條": "　　明定處長、副處長之職掌及官等職等。",
+        "第六條": "　　明定本處編制員額職等。",
+        "第七條": "　　明定人事、會計人員之官等職等及職掌。",
+        "第八條": "　　明定本通則列有官等職等人員之職系，應依公務職位分類法及職系說明書選用。",
+        "第九條": "　　本條規定得商請警政主管機關，在各加工出口區設置警察單位，兼受管理處或分處之指揮，依法辦理加工出口區內有關警察業務。",
+        "第十條": "　　明定本處辦事細則，由本處擬訂，呈請經濟部核定。",
+        "第十一條": "　　明定本條例施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "921017",
-            "立法紀錄": "92卷43期3317號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcccdcdcb81c6cdcbcccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "黃昭順",
+            "會議日期": "610526",
+            "立法紀錄": "61卷42期495號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecbc6cbcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc9cfcec5cccbcad2cccbc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "921024",
-            "立法紀錄": "92卷45期3319號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcccdcdcb81c6cdcbcacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "侯彩鳳",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cecacad2cecac7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "921107",
-            "立法紀錄": "92卷49期3323號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcccdcdcb81c6cdcbc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "黃昭順",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc6cfcec5cec8cdd2cec8cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcccfcfc5cbcdccd2cbcdc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921215",
-            "立法紀錄": "93卷1期3335號 233-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcccdcdcb81c6cccfcecfcfc4cfcdccccc4cfcdcbcb",
+            "會議日期": "610605",
+            "立法紀錄": "61卷59期512號 19-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecbc6cac6cfcfcfcdc4cfcfcec6c4cfcfcdc6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "921226",
-            "立法紀錄": "93卷2期3336號上冊 218-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcccdcdcb81c6cccfcdcfcec4cfcdcec7c4cfcdcccf",
+            "進度": "委員會審查",
+            "會議日期": "610614",
+            "立法紀錄": "61卷60期513號 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecbc6c9cfcfcfcfcdc4cfcfcecec4cfcfcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610622",
+            "立法紀錄": "61卷83期536號 10-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecacfc7cccfcfcfcdc4cfcfcecfc4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610706",
+            "立法紀錄": "61卷84期537號 7-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecacfc7cbcfcfcfcdc4cfcfcfc8c4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610713",
+            "立法紀錄": "61卷85期538號 5-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecacfc7cacfcfcfcdc4cfcfcfcac4cfcfcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "611215",
+            "立法紀錄": "61卷99期552號 6-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecacfc6c6cfcfcfcec4cfcfcfc9c4cfcfcdcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfcfc5cac7cfd2cac7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcecfcfc5cacfced2cacdcd"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "611215",
+            "立法紀錄": "61卷99期552號 24-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecacfc6c6cfcfcfcec4cfcfcdcbc4cfcfcccd",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "921226",
-            "立法紀錄": "93卷2期3336號上冊 230-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcccdcdcb81c6cccfcdcfcec4cfcdcccfc4cfcdcccf",
+            "會議日期": "611219",
+            "立法紀錄": "61卷100期553號 10-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac9ca81c9cecacfcecfcfcfcfcfcec4cfcfcecfc4cfcfcecd",
             "關係文書": []
         }
     ]
