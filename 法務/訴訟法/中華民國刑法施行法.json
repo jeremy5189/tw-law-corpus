@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法施行法",
     "versions": [
-        "中華民國86年11月11日修正",
-        "中華民國86年11月26日公布"
+        "中華民國88年3月30日修正",
+        "中華民國88年4月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -71,40 +71,66 @@
         },
         {
             "note": "",
+            "rule_no": "第九條 之一",
+            "content": "　　刑法第二百三十一條之規定，於中華民國八十八年三月三十日刑法修正施行前依法令規定經營妓女戶者，不適用之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第九條 之二",
+            "content": "　　刑法第二百二十一條、第二百二十四條之罪，於中華民國八十九年十二月三十一日前仍適用八十八年三月三十日修正施行前之刑法第二百三十六條告訴乃論之規定。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第十條",
             "content": "　　本法自刑法施行之日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第七條 之一": "　　一、配合刑治第七十七條假釋要件之修正，為使目前在監服刑之受刑人及在刑法第七十七條修正施行前已犯罪者仍得適用修正前之假釋規定，從實審核其假釋，爰增訂本條規定，以求衡平。\n　　二、本條第二項係配合刑法第七十九條之一第五項之增訂而修正，亦比照前項「不溯及既往」之原則，使在本條修正施行前已經發生撤銷假釋之原因事實者亦得適用原條文規定計算其應執行之期間。"
+        "第九條 之一": "　　本條新增。配合刑法第二百三十一條之修正。即修正施行前即已依法令規定合法經營妓女戶者，不適用修正後之第二百三十一條規定。惟自本法修正實施後，即不再准許新的妓女戶申請營業。",
+        "第九條 之二": "　　為免因刑法妨害性自主罪驟然修正為全面非告訴乃論之罪，使被害人無法調適，影響被害人受協助之意願，及偵審機關追訴審判性侵害犯罪之成效，爰增訂落日條款，針對一般之強制性交及猥褻罪，規定一年之緩衝期，以使社會及全民及早導正觀念，並督促各相關部門積極規劃改善保護性侵害被害人之相關措施。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "861111",
-            "立法紀錄": "86卷48期2940號 102-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cbc6c781c7c9cbc7cfcfc4cfcecfcdc4cfcececd",
-            "主提案": "李友吉",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-243頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfcf81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
+            "主提案": "謝啟大",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcfcdcfcfc5cbc9cfd2cbc9ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cdc8c7d2cdc7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-243頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfcf81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
+            "主提案": "謝啟大",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfccc5c9cccdd2c9cacf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "861111",
-            "立法紀錄": "86卷48期2940號 113-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cbc6c781c7c9cbc7cfcfc4cfcececcc4cfcececb",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 246-246頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfcf81c7c7cecccfcec4cfcdcbc9c4cfcdcbc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "861111",
-            "立法紀錄": "86卷48期2940號 114-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cbc6c781c7c9cbc7cfcfc4cfcececbc4cfcececb",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 246-246頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfcf81c7c7cecccfcec4cfcdcbc9c4cfcdcbc9",
             "關係文書": []
         }
     ]
