@@ -1,8 +1,8 @@
 {
     "title": "土地稅法",
     "versions": [
-        "中華民國83年12月29日修正",
-        "中華民國84年1月18日公布"
+        "中華民國85年12月31日修正",
+        "中華民國86年1月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -234,7 +234,7 @@
         {
             "note": "(申報移轉現值審核標準)",
             "rule_no": "第三十條",
-            "content": "　　土地所有權移轉或設定典權，其申報移轉現值之審核標準，依左列規定：\n　　一、申報人於訂定契約之日起三十日內申報者，以訂約日當期之公告土地現值為準。\n　　二、申報人逾訂定契約之日起三十日始申報者，以受理申報機關收件日當期之公告土地現值為準。\n　　三、遺贈之土地，以遺贈人死亡日當期之公告土地現值為準。\n　　四、依法院判決移轉登記者，以申報人向法院起訴日當期之公告土地現值為準。\n　　五、經法院拍賣之土地，以拍定之價額為準。但拍定價額如已先將設定扺押金額及其他債務予以扣除者，應以併同計算之金額為準。\n　　六、經政府核定照價收買之土地，以政府給付之地價為準。\n　　前項第一款至第四款申報人申報之移轉現值，經審核低於公告土地現值者，得由主管機關照其自行申報之移轉現值收買或照公告土地現值徵收土地增值稅。第一款至第三款之申報移轉現值，經審核超過公告土地現值者，應以其自行申報之移轉現值為準，徵收土地增值稅。",
+            "content": "　　土地所有權移轉或設定典權，其申報移轉現值之審核標準，依左列規定：\n　　一、申報人於訂定契約之日起三十日內申報者，以訂約日當期之公告土地現值為準。\n　　二、申報人逾訂定契約之日起三十日始申報者，以受理申報機關收件日當期之公告土地現值為準。\n　　三、遺贈之土地，以遺贈人死亡日當期之公告土地現值為準。\n　　四、依法院判決移轉登記者，以申報人向法院起訴日當期之公告土地現值為準。\n　　五、經法院拍賣之土地，以拍定日當期之公告土地現值為準。\n　　六、經政府核定照價收買或協議購買之土地，以政府收買日或購買日當期之公告土地現值為準。\n　　前項第一款至第六款申報人申報之移轉現值，經審核低於公告土地現值者，得由主管機關照其自行申報之移轉現值收買或照公告土地現值徵收土地增值稅。但前項申報移轉現值，經審核超過公告土地現值者，應以其自行申報之移轉現值為準，徵收土地增值稅。",
             "relates": {}
         },
         {
@@ -461,87 +461,98 @@
         }
     ],
     "law_reasons": {
-        "第三十一條": "　　增列第一項第二款後段之規定，以符公允原則，並獎勵民間參與國家建設。",
-        "第五十五條 之二": "　　本條法律效果應符合「比例原則」與「相當性原則」，使法律規定所採取之手段與其欲達成之目的成比例，及犯罪行為之處罰應與其行為之程度相當。"
+        "第三十條": "　　一、為保障債權人之債權，修正本條文第一項第五款之規定，以法院拍賣土地的拍定日之當期之土地公告現值為課徵基準。\n　　二、為避免與平均地權條例規定不一及不利土地被徵收者，修正本條文第一項第六款之規定，加入「協議購買」，並以核定收買日或協議購買日當期之公告土地現值為課徵基準。\n　　三、配合上列第五、六款之修正，修正第二項，將第二項前段之「第一款至第四款」修正為「第一款至第六款」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820601",
-            "立法紀錄": "82卷35期2634號下冊 50-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cdcccacfccc4cfcfcacfc4cfcfcacd",
+            "會議日期": "831208",
+            "立法紀錄": "83卷78期2752號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccc81c7ccc8c7cfcfc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "劉文慶",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec6cfcec5c7cacdd2c7caca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "840929",
+            "立法紀錄": "84卷49期2806號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccc81c7cbcbc6cfcec4cfcfcfcac4cfcfcfca",
             "主提案": "洪昭男",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecdc8cfcec5cecfcfcdd2cecfcfca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfcdcfcfc5c8cacad2c8cac7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "830304",
-            "立法紀錄": "83卷13期2687號 91-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cccecccfcfc4cfcfc6cec4cfcfc6cb",
-            "主提案": "陳宏昌",
+            "會議日期": "841006",
+            "立法紀錄": "84卷51期2808號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccc81c7cbcacecfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "游淮銀",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccfcbcfcfc5ccc6cdd2ccc6cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdc9cfcec5cec6cdd2cec6ca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "830503",
-            "立法紀錄": "83卷30期2704號上冊 114-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cccccfcfcec4cfcececbc4cfcecec9",
-            "主提案": "郭金生",
+            "會議日期": "840419",
+            "立法紀錄": "85卷17期2839號上冊 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccc81c7cacec8cfcec4cfcfc6cec4cfcfc6ce",
+            "主提案": "許添財",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccecccfcdc5cbc7c8d2cbc7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecfc9cfcfc5cec9cdd2cec9cb"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "830526",
-            "立法紀錄": "83卷39期2713號下冊 151-175頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7ccccc6cfccc4cfcecacec4cfcec8ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830620",
-            "立法紀錄": "83卷46期2720號下冊 183-188頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cccbc9cfccc4cfcec7ccc4cfcec7c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "830714",
-            "立法紀錄": "83卷52期2726號上冊 364-440頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cccacdcfcec4cfccc9cbc4cfcbcbcf",
+            "進度": "一讀",
+            "會議日期": "840419",
+            "立法紀錄": "85卷17期2839號上冊 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccc81c7cacec8cfcec4cfcfc6cec4cfcfc6ce",
+            "主提案": "廖福本",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcacfcfc5cbc7ced2cbc6c7"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecfc9cfcfc5cec9c7d2cec8ce"
                 ]
             ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "850617",
+            "立法紀錄": "85卷36期2858號下冊 41-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccc81c7caccc9cfccc4cfcfcbcec4cfcfc9cf",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 106-118頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cbcfcdcfcfc4cfcecfc9c4cfcecec7",
-            "關係文書": []
+            "會議日期": "851231",
+            "立法紀錄": "86卷2期2894號上冊 215-227頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccc81c7c9cfcdcfcec4cfcdcecac4cfcdcdc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcfc9cfcec5cccdcbd2cccccb"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 118-118頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cbcfcdcfcfc4cfcecec7c4cfcecec7",
+            "會議日期": "851231",
+            "立法紀錄": "86卷2期2894號上冊 227-227頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccc81c7c9cfcdcfcec4cfcdcdc8c4cfcdcdc8",
             "關係文書": []
         }
     ]
