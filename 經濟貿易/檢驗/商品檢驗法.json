@@ -1,8 +1,8 @@
 {
     "title": "商品檢驗法",
     "versions": [
-        "中華民國59年8月21日修正",
-        "中華民國59年9月3日公布"
+        "中華民國65年10月22日修正",
+        "中華民國65年11月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,7 +22,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　左列商品經主管機關指定公布種類及品目者，應依本法執行檢驗：\n　　一、在國內生產製造或加工之農工礦商品。\n　　二、向國外輸出之農工礦商品。\n　　三、向國內輸入之農工礦商品。",
+            "content": "　　左列商品，經主管機關指定並公告品名目或輸往地區者，應依本法執行檢驗：\n　　一、在國內生產、製造或加工之農工礦商品。\n　　二、向國外輸出之農工礦商品。\n　　三、向國內輸入之農工礦商品。\n　　檢驗局應買賣雙方或任何一方之申請，依約定規範檢驗者，為特約檢驗，其辦法由主管機關定之。",
             "relates": {}
         },
         {
@@ -62,7 +62,7 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　輸出輸入商品之檢驗，依國家標準執行之，未定國家標準者，由主管機關定之。\n　　輸出商品其輸往地區所規定之規範低於國家標準者，得經貿易主管機關之許可，依買受者約定之規範檢驗。\n　　輸入商品如因特殊原因，其規範低於國家標準者，應先經主管機關核准。",
+            "content": "　　輸出、輸入商品之檢驗，依國家標準執行之；未定國家標準者，由主管機關定之。\n　　輸出商品，得依買賣雙方約定之規範檢驗；其低於國家標準者，須先經貿易主管機關之許可。\n　　輸入商品，如因特殊原因，其規範低於國家標準者，應先經主管機關核准。",
             "relates": {}
         },
         {
@@ -271,44 +271,54 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　本條揭示立法目的，因商品檢驗，除農工礦商品之品質檢驗外，尚有動植物及其產品之疫病蟲害檢驗，故增列「防止動植物病蟲害之傳佈」字樣，以資概括。",
-        "第三條": "　　就原條文添加「或過境之」字樣，以防止可能由船舶過境寄碇時，所載動植物或其產品有疫病蟲害之傳佈。",
-        "第十六條": "　　鑒於五十七年二、三月間發生過境寄碇船舶所載貨物發生蟲害，有使本國農牧生產事業受害之虞之新事例，故參照他國立法，依職權執行檢疫，以防可能發生之禍害，故增列第二項規定。",
-        "第三十條": "　　增列第二項規定，貨主不在之情形下責成運送人繳納各項有關費用，美國有關法規亦有此規定。",
-        "第三十一條": "　　本條內添列「或運送人」文字，以與前條呼應。",
-        "第三十三條": "　　貨物運送人如以不合作態度拒絕或妨礙所載過境貨物疫病蟲害之檢驗，為貫澈立法精神，亦應予處罰，惟其責任實與貨主有別，處罰自宜較輕，故增列第二項酌量減輕處罰。"
+        "第二條": "　　一、就現行條文第一項「種類及品目」下增列「或輸往地區」，以應事實需要。\n　　二、為使商品檢驗局得應買賣雙方或任何一方之要求，為其檢驗商品是否合於約定之品質，爰增訂第二項建立特約檢驗制度，並授權主管機關訂定辦法實施。",
+        "第八條": "　　一、本條第一項及第三項未修正。\n　　二、鑒於輸往地區規定之規範蒐集不易，項目繁多，難與國家標準比較規範之高低，而買受者所提規範，理應符合該地區規範，爰將現行條文第二項予以修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580715",
-            "立法紀錄": "58卷53期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac8ca81cac7cbcccacccfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "650713",
+            "立法紀錄": "65卷56期915號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac8c981c9cacac8cac9cfcfcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcbcfcfc5c7c8d2c6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcbcfcfc5cbcec7d2cbcdcc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "651006",
+            "立法紀錄": "65卷96期955號 1-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac8c981c9cacac7c6c9cfcfcfcdc4cfcfcfcec4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "651019",
+            "立法紀錄": "65卷84期943號 3-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac8c981c9cacac7c7cbcfcfcfcec4cfcfcfccc4cfcfcfc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcdcfcfc5c9cbced2c9cbc8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "590821",
-            "立法紀錄": "59卷64期0號 16-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac8ca81cac6cbcac9cbcfcfcfcec4cfcfcec9c4cfcfcec7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5c6c9d2cecfce"
-                ]
-            ]
+            "會議日期": "651019",
+            "立法紀錄": "65卷84期943號 9-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac8c981c9cacac7c7cbcfcfcfcec4cfcfcfc6c4cfcfcecd",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "590821",
-            "立法紀錄": "59卷64期0號 18-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac8ca81cac6cbcac9cbcfcfcfcec4cfcfcec7c4cfcfcec6",
+            "會議日期": "651022",
+            "立法紀錄": "65卷85期944號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac8c981c9cacac7c7cacfcfcfcec4cfcfcfcdc4cfcfcfcc",
             "關係文書": []
         }
     ]
