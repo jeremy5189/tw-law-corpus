@@ -1,8 +1,8 @@
 {
     "title": "勞動基準法",
     "versions": [
-        "中華民國87年5月1日修正",
-        "中華民國87年5月13日公布"
+        "中華民國89年6月16日修正",
+        "中華民國89年6月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -202,7 +202,7 @@
         {
             "note": "",
             "rule_no": "第三十條",
-            "content": "　　勞工每日正常工作時間不得超過八小時，每週工作總時數不得超過四十八小時。\n　　前項正常工作時間，雇主經工會或勞工半數以上同意，得將其週內一日之正常工作時數，分配於其他工作日。其分配於其他工作日之時數，每日不得超過二小時。每週工作總時數仍以四十八小時為度。\n　　雇主應置備勞工簽到簿或出勤卡，逐日記載勞工出勤情形。此項簿卡應保存一年。",
+            "content": "　　勞工每日正常工作時間不得超過八小時，每二週工作總時數不得超過八十四小時。\n　　前項正常工作時間，雇主經工會或勞工半數以上同意，得將其二週內一日之正常工作時數，分配於其他工作日。其分配於其他工作日之時數，每日不得超過二小時。每二週工作總時數仍以八十四小時為度。但每週工作總時數不得超過四十四小時。\n　　雇主應置備勞工簽到簿或出勤卡，逐日記載勞工出勤情形。此項簿卡應保存一年。\n　　本條文第一項、第二項自民國九十年元月一日起實施。",
             "relates": {}
         },
         {
@@ -593,34 +593,34 @@
         }
     ],
     "law_reasons": {
-        "第三十條 之一": "　　原規定對於在妊娠或哺乳期間之女性勞工無法獲得保障，有違國際勞工公約保護妊娠、哺乳期女性勞動者之精神。為補充法律規範保障之不足，故於原條文第一項第四款中增列排除妊娠或哺乳期間女性勞工適用之規定。"
+        "第三十條": "　　為落實勞工實施週休二日及推動未來全面實施週休二日，將原條文中每週工作總時數不得超過四十八小時之規定，修改為每二週工作總時數不得超過八十四小時，並增列第四項規定施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "870428",
-            "立法紀錄": "87卷21期2970號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c9ca81c7c8cdcecfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "簡錫堦",
+            "會議日期": "860318",
+            "立法紀錄": "86卷9期2901號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c9c981c7c9cfc6cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "李友吉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacfc6cfcdc5ccc6cad2ccc6c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccfc9cfcfc5cccbcdd2cccbc9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "870501",
-            "立法紀錄": "87卷22期2971號上冊 58-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c9ca81c7c8cdcdcfcec4cfcfcac7c4cfcfc9cd",
+            "會議日期": "890616",
+            "立法紀錄": "89卷35期3094號上冊 25-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c9c981c7c6cccacfcec4cfcfcdcac4cfcfccca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "870501",
-            "立法紀錄": "87卷22期2971號上冊 62-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c9ca81c7c8cdcdcfcec4cfcfc9cdc4cfcfc9cd",
+            "會議日期": "890616",
+            "立法紀錄": "89卷35期3094號上冊 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c9c981c7c6cccacfcec4cfcfcccac4cfcfccca",
             "關係文書": []
         }
     ]
