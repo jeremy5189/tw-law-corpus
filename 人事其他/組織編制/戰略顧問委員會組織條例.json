@@ -1,12 +1,12 @@
 {
     "title": "戰略顧問委員會組織條例",
     "versions": [
-        "中華民國57年4月26日修正",
-        "中華民國57年5月9日公布"
+        "中華民國86年4月18日廢止",
+        "中華民國86年5月7日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -52,58 +52,39 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　依中華民國總統府組織法第二十五條、第二十六條規定，總統府有國策顧問委員會、戰略顧問委員會及稽勳委員會之設置，但在八十五年一月修正通過的總統府組織法中，已無上述三委員會之設置規定，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "570312",
-            "立法紀錄": "57卷17期號 895-899頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecec8cfcfc4cfc7c6cac4cfc7c6c6",
-            "主提案": "余拯",
+            "會議日期": "850405",
+            "立法紀錄": "85卷14期2836號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcbc681c7cacecbcfcfc4cfcfcfcac4cfcfcfca",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cdcfd2cdce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecfcccfcec5c9ccc9d2c9cbcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "570323",
-            "立法紀錄": "57卷28期號 2554-2558頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecdc7cfcfc4cdcacacbc4cdcacac7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570406",
-            "立法紀錄": "57卷36期號 3090-3093頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbceccc9cfcfc4cccfc6cfc4cccfc6cc",
+            "會議日期": "851228",
+            "立法紀錄": "86卷2期2894號下冊 274-275頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcbc681c7c9cfcdcfccc4cfcdc8cbc4cfcdc8ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "570426",
-            "立法紀錄": "57卷30期號 2707-2708頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecccfcfcfc4cdc8cfc8c4cdc8cfc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5c8c9c7d2c8c8cf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "570426",
-            "立法紀錄": "57卷30期號 2708-2708頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecccfcfcfc4cdc8cfc7c4cdc8cfc7",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 67-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcbc681c7c9cec7cfcec4cfcfc9c8c4cfcfc8ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "570426",
-            "立法紀錄": "57卷30期號 2708-2708頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecccfcfcfc4cdc8cfc7c4cdc8cfc7",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 71-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcbc681c7c9cec7cfcec4cfcfc8cec4cfcfc8ce",
             "關係文書": []
         }
     ]
