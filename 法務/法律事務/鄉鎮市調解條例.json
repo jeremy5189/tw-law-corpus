@@ -1,8 +1,8 @@
 {
     "title": "鄉鎮市調解條例",
     "versions": [
-        "中華民國44年1月15日制定",
-        "中華民國44年1月22日公布"
+        "中華民國44年12月27日修正",
+        "中華民國45年1月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -124,8 +124,14 @@
             "relates": {}
         },
         {
-            "note": "(施行日)",
+            "note": "(本條例之準用)",
             "rule_no": "第二十條",
+            "content": "　　本條例於院（省）轄市之區及縣轄市之市準用之。\n　　區調解委員會委員如該區無區民代表會之組織者，由區長推薦加倍人數，報請市政府審定，提經市議會同意後聘任之，其因故解聘之程序亦同。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第二十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
@@ -133,82 +139,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "400515",
-            "立法紀錄": " ",
+            "會議日期": "440916",
+            "立法紀錄": "44卷16期號4冊 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececc81cbcbcec9cfcbc4cfcfcfc8c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecfc8cfcfcfcfc5cbcccbd2cbccc7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5c9d2c8"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "430427",
-            "立法紀錄": "43卷13期號4冊 63-66頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcccecccfcbc4cfcfc9ccc4cfcfc9c9",
+            "會議日期": "441227",
+            "立法紀錄": "45卷16期號10冊 44-45頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececc81cbcacec9cecfc4cfcfcbcbc4cfcfcbca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5cbc6ced2cbc6ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5c7cfcdd2c7cfcb"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "431005",
-            "立法紀錄": "43卷14期號1冊 4-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcccecbcfcec4cfcfcfcbc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "431005",
-            "立法紀錄": "43卷14期號1冊 40-45頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcccecbcfcec4cfcfcbcfc4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "440115",
-            "立法紀錄": "44卷14期號8冊 48-50頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcbcecbcfc7c4cfcfcbc7c4cfcfcacf",
+            "會議日期": "441220",
+            "立法紀錄": "45卷16期號9冊 225-229頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececc81cbcacec9cfc6c4cfcdcdcac4cfcdcdc6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "430427",
-            "立法紀錄": "43卷13期號4冊 66-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcccecccfcbc4cfcfc9c9c4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430430",
-            "立法紀錄": "43卷13期號4冊 75-84頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcccecccfcbc4cfcfc8cac4cfcfc7cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430706",
-            "立法紀錄": "43卷13期號6冊 133-137頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcccecccfc9c4cfceccccc4cfceccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "440115",
-            "立法紀錄": "44卷14期號8冊 112-113頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcbcecbcfc7c4cfcececdc4cfcececc",
+            "會議日期": "441227",
+            "立法紀錄": "45卷16期號10冊 120-120頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececc81cbcacec9cecfc4cfcecdcfc4cfcecdcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "440115",
-            "立法紀錄": "44卷14期號8冊 113-116頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececd81cbcbcecbcfc7c4cfcececcc4cfcecec9",
+            "會議日期": "441227",
+            "立法紀錄": "45卷16期號10冊 120-121頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccececc81cbcacec9cecfc4cfcecdcfc4cfcecdce",
             "關係文書": []
         }
     ]
