@@ -1,8 +1,8 @@
 {
     "title": "專科學校法",
     "versions": [
-        "中華民國83年12月29日修正",
-        "中華民國84年1月18日公布"
+        "中華民國84年6月13日修正",
+        "中華民國84年6月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "(分類設立原則)",
             "rule_no": "第四條",
-            "content": "　　專科學校以分類設立為原則，必要時得並設二類，每類各設若干科。",
+            "content": "　　專科學校以分類設立為原則，必要時得合類設置，每類各設若干科。",
             "relates": {}
         },
         {
@@ -215,53 +215,46 @@
         }
     ],
     "law_reasons": {
-        "第二十六條": "　　一、為使入學方式更富彈性，爰將第一項第一款及第二款修正之。又為開拓高及中學畢業生進修技職教育之管道，爰將第一款後段增列經教育部核定之科別得招收高級中學畢業生。\n　　二、第一項第三款將現行入學方式，如入學考試、技能（藝）競賽、運動成績優良、資賦優異、蒙藏學生之甄試錄取及國民中學藝能學科成績優異得保送等予以納入。\n　　三、第二項增列甄試、保送、登記及分發入學等辦法由教育部定之。"
+        "第四條": "　　為配合社會需求，增加辦學彈性，對專科學校並設類別之數目，加以限制已沒有必要，爰修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "810714",
-            "立法紀錄": "81卷57期2585號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec7c781c7cecfcac8cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "840113",
+            "立法紀錄": "84卷5期2762號下冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6cf81c7cbcfcacfccc4cfcfcfcec4cfcfcfce",
+            "主提案": "羅傳進",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccacfcfc5cccbc9d2cccbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcacfcfc5cacaccd2cacacb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "820315",
-            "立法紀錄": "82卷16期2615號上冊 318-327頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec7c781c7cdcec9cfcec4cfcccec7c4cfcccdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830526",
-            "立法紀錄": "83卷39期2713號下冊 269-280頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec7c781c7ccccc6cfccc4cfcdc9c6c4cfcdc7cf",
+            "會議日期": "840308",
+            "立法紀錄": "84卷15期2772號 265-269頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6cf81c7cbcecacfcfc4cfcdc9cac4cfcdc9c6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 92-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec7c781c7cbcfcdcfcfc4cfcfc6cdc4cfcfc6ca",
+            "會議日期": "840613",
+            "立法紀錄": "84卷37期2794號 72-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6cf81c7cbccc8cfcfc4cfcfc8cdc4cfcecfce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcecfcec5c9cbced2c9cbcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacec7cfcdc5c9c8cfd2c9c8cc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 95-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec7c781c7cbcfcdcfcfc4cfcfc6cac4cfcfc6c9",
+            "會議日期": "840613",
+            "立法紀錄": "84卷37期2794號 101-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6cf81c7cbccc8cfcfc4cfcecfcec4cfcecfce",
             "關係文書": []
         }
     ]
