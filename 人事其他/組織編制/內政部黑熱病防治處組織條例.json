@@ -1,12 +1,12 @@
 {
     "title": "內政部黑熱病防治處組織條例",
     "versions": [
-        "中華民國44年5月24日修正",
-        "中華民國44年6月4日公布"
+        "中華民國62年5月22日廢止",
+        "中華民國62年6月2日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -118,33 +118,20 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本條例係三十六年公布施行，且於三十七年及四十四年先後修正。設置本機關，原旨在防治大陸華北一帶地方性之黑熱病。迨政府遷臺，一無黑熱病例之發生，且今後防疫工作，在衛生署已設有防疫處專負其責，本條例已無存在必要，故予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "421222",
-            "立法紀錄": "43卷12期號8冊 40-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfcb81cbcccecdcfc7c4cfcfcbcfc4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "440520",
-            "立法紀錄": "44卷15期號5冊 97-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfcb81cbcbcecacfcac4cfcfc6c8c4cfcecfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "440520",
-            "立法紀錄": "44卷15期號5冊 174-175頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfcb81cbcbcecacfcac4cfcec8cbc4cfcec8ca",
+            "會議日期": "620302",
+            "立法紀錄": "62卷15期571號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfca81c9cdcacececacfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "440524",
-            "立法紀錄": "44卷15期號5冊 180-185頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfcb81cbcbcecacfcac4cfcec7cfc4cfcec7ca",
+            "會議日期": "620522",
+            "立法紀錄": "62卷38期594號 22-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfca81c9cdcaceccc7cfcfcfcec4cfcfcdcdc4cfcfcdcc",
             "關係文書": []
         }
     ]
