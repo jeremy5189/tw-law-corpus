@@ -1,8 +1,8 @@
 {
     "title": "臺灣省實物土地債券條例",
     "versions": [
-        "中華民國42年6月19日修正",
-        "中華民國42年7月4日公布"
+        "中華民國43年4月6日修正",
+        "中華民國43年4月22日公布"
     ],
     "types": [
         "立法歷程",
@@ -102,7 +102,7 @@
         {
             "note": "(免稅)",
             "rule_no": "第十六條",
-            "content": "　　本債券持有人，免繳印花稅及利息所得稅。",
+            "content": "　　本債券持有人，免繳印花稅、利息所得稅，及特別稅課之戶稅。",
             "relates": {}
         },
         {
@@ -121,41 +121,36 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "420602",
-            "立法紀錄": "42卷11期號9冊 147-147頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcc81cbcdcececfc6c4cfcecbc8c4cfcecbc8",
+            "會議日期": "430213",
+            "立法紀錄": "43卷13期號1冊 56-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcb81cbcccecccfcec4cfcfcac9c4cfcfcac9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cccacdd2cccacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5ccccc7d2cccbcf"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "420619",
-            "立法紀錄": "42卷11期號10冊 65-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcc81cbcdcecececfc4cfcfc9cac4cfcfc8cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cbc8cad2cbc7cd"
-                ]
-            ]
+            "會議日期": "430406",
+            "立法紀錄": "43卷13期號3冊 24-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcb81cbcccecccfccc4cfcfcdcbc4cfcfcdc9",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "420619",
-            "立法紀錄": "42卷11期號10冊 89-92頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcc81cbcdcecececfc4cfcfc7c6c4cfcfc6cd",
+            "會議日期": "430406",
+            "立法紀錄": "43卷13期號3冊 172-173頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcb81cbcccecccfccc4cfcec8cdc4cfcec8cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "420619",
-            "立法紀錄": "42卷11期號10冊 92-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcc81cbcdcecececfc4cfcfc6cdc4cfcfc6cc",
+            "會議日期": "430406",
+            "立法紀錄": "43卷13期號3冊 173-173頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcb81cbcccecccfccc4cfcec8ccc4cfcec8cc",
             "關係文書": []
         }
     ]
