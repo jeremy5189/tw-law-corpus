@@ -1,11 +1,11 @@
 {
     "title": "出版法",
     "versions": [
-        "中華民國86年4月15日修正",
-        "中華民國86年5月7日公布"
+        "中華民國88年1月12日廢止",
+        "中華民國88年1月25日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -314,49 +314,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第八條": "　　我國因特殊處境，為確保國人得以進入他國市場，乃有互惠之規定。惟於加入世界貿易組織後，互惠規定有違「服務貿易總協定」第二條最惠國待遇原則，實不宜予以維持，爰將但書刪除。",
-        "第四十六條": "　　為配合我國加入世界貿易組織之時程，故修正條文之施行日期應以加入世界貿易組織生效日期為前提，爰增列第二項，其施行日期由行政院定之。"
-    },
+    "deprecated_reason": "　　出版法自民國十九年公布施行至今，經六次修正，其中諸多條文已窒礙難行或不合時代潮流，且現行規定對出版品或出版事業之登記已形同無限制，而有關發行色情出版品之業者有刑法第二百三十五條可規範；色情廣告有兒童及少年性交易防制條例第三十三條可規範；保護性侵害事件被害人之資訊有性侵害犯罪防治法第十條可規範；防止色情出版品進口則依關稅法第四十五條及第五十四條規定處理，相關法令已甚周全。第二十四條有關新聞紙、雜誌、教科書及經政府獎勵之重要學術專門著作之發行，得免徵營業稅之規定，於營業稅法第八條已有明文。另有關出版事業之輔導及獎勵，將另訂法令辦理。本法實已無繼續施行之必要，應予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "851217",
-            "立法紀錄": "85卷68期2890號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ce81c7cac9c7cfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "871020",
+            "立法紀錄": "87卷41期2990號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cd81c7c8cbcecfcfc4cfcfcfccc4cfcfcfcc",
             "關係文書": [
                 [
-                    "null",
-                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcdc9cecfcdce"
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfcacfcfc5cdcfd2cccf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "860319",
-            "立法紀錄": "86卷11期2903號 449-457頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ce81c7c9cececfcfc4cfcbcbc6c4cfcbcac8",
+            "會議日期": "871028",
+            "立法紀錄": "87卷45期2994號 71-89頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cd81c7c8cbcacfcfc4cfcfc8cec4cfcfc7c6",
             "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 123-127頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ce81c7c9cec8cfcec4cfcecdccc4cfcecdc8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5cccacfd2cccacb"
-                ]
-            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 127-127頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ce81c7c9cec8cfcec4cfcecdc8c4cfcecdc8",
-            "關係文書": []
+            "會議日期": "880112",
+            "立法紀錄": "88卷5期3005號上冊 37-46頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cd81c7c7cfcacfcec4cfcfccc8c4cfcfcbc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cececfcbc5cecccfd2cecbce"
+                ]
+            ]
         }
     ]
 }
