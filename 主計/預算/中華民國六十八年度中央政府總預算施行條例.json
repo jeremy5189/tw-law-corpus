@@ -1,12 +1,10 @@
 {
     "title": "中華民國六十八年度中央政府總預算施行條例",
     "versions": [
-        "中華民國67年5月31日制定",
-        "中華民國67年6月9日公布"
+        "中華民國74年7月2日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -82,47 +80,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "670404",
-            "立法紀錄": "67卷27期990號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc6c981c9c8c9cecdc8cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670522",
-            "立法紀錄": "67卷59期1127號 40-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc6c981c9c8c9cecac6cfcfc4cfcfcbcfc4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "670530",
-            "立法紀錄": "67卷43期1111號 10-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc6c981c9c8c9cecbcccfcfc4cfcfcecfc4cfcfcdc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcbcfcfc5cccfcfd2cacdce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "670530",
-            "立法紀錄": "67卷43期1111號 239-241頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc6c981c9c8c9cecbcccfcfc4cfcdccc6c4cfcdcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "670531",
-            "立法紀錄": "67卷43期1111號 256-257頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc6c981c9c8c9cecbcccfcfc4cfcdcac9c4cfcdcac8",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
