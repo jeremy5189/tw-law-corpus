@@ -1,10 +1,11 @@
 {
     "title": "水利法",
     "versions": [
-        "中華民國31年6月20日制定",
-        "中華民國31年7月7日公布"
+        "中華民國44年1月7日修正",
+        "中華民國44年1月19日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -27,7 +28,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　本法所稱主管機關，在中央為水利委員會；在省為省政府，在市為市政府，在縣為縣政府，但關於農田水利之鑿井挖塘，及以人力、獸力或其他簡易方法，引水溉田，與天然水道及水權登記無關者，其在中央之主管機關為農林部。",
+            "content": "　　本法所稱主管機關，在中央為中央水利主管機關；在省為省政府，在市為市政府，在縣為縣政府。\n　　主管機關得視各地方區域之需要，核准設立地方水利自治團體，協助政府推行水利事業。\n　　前項水利自治團體為公法人，其組織規程，由省政府擬訂，呈請行政院核定之。",
             "relates": {}
         },
         {
@@ -247,9 +248,9 @@
             "relates": {}
         },
         {
-            "note": "(免為水權登記之用水)",
+            "note": "(免作水權登記之用水)",
             "rule_no": "第三十八條",
-            "content": "　　左列用水免予登記：\n　　一、家用。\n　　二、在私有土地內挖塘或鑿井汲水。\n　　三、用人力、獸力或其他簡易方法引水。",
+            "content": "　　左列用水免作水權登記：\n　　一、家用及牲畜飲料。\n　　二、在私有土地內挖塘或鑿井汲水。\n　　三、用人力、獸力或其他簡易方法引水。\n　　前項各款用水如足以妨害公共水利事業或他人用水之利益時。主管機關得酌予限制，或令其辦理登記。",
             "relates": {}
         },
         {
@@ -469,6 +470,54 @@
             "rule_no": "第七十一條",
             "content": "　　本法施行日期以命令定之。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "431217",
+            "立法紀錄": "44卷14期號7冊 133-133頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7c8ccc681cbcbcecbcfc8c4cfceccccc4cfcecccc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5c7c6d2c6cd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "440107",
+            "立法紀錄": "44卷14期號8冊 6-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7c8ccc681cbcbcecbcfc7c4cfcfcfc9c4cfcfcecf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5cbc9c8d2cbc8cf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "440107",
+            "立法紀錄": "44卷14期號8冊 67-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7c8ccc681cbcbcecbcfc7c4cfcfc9c8c4cfcfc9c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "440107",
+            "立法紀錄": "44卷14期號8冊 69-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7c8ccc681cbcbcecbcfc7c4cfcfc9c6c4cfcfc8cf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "440107",
+            "立法紀錄": "44卷14期號8冊 70-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec7c8ccc681cbcbcecbcfc7c4cfcfc8cfc4cfcfc8ce",
+            "關係文書": []
         }
     ]
 }
