@@ -1,8 +1,8 @@
 {
     "title": "農會法",
     "versions": [
-        "中華民國80年7月16日修正",
-        "中華民國80年8月2日公布"
+        "中華民國83年11月18日修正",
+        "中華民國83年12月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -100,7 +100,7 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　凡中華民國國民，年滿二十歲，居住農會組織區域內，不合前條規定者，得加入農會為個人贊助會員。\n　　凡依法登記之農業合作組織，得加入當地農會為團體贊助會員。\n　　個人贊助會員及團體贊助會員，除得當選監事外，無選舉權及其他被選舉權。但其他應享權利與會員同。",
+            "content": "　　凡中華民國國民，年滿二十歲，居住農會組織區域內，不合前條規定者，得加入農會為個人贊住會員。\n　　凡依法登記之農業合作組織、公司、行號、工廠，得加入當地農會為團體贊助會員。\n　　個人贊助會員及團體贊助會員，除得當選監事外，無選舉權及其他被選舉權。但其他應享權利與會員同。",
             "relates": {}
         },
         {
@@ -441,41 +441,34 @@
         }
     ],
     "law_reasons": {
-        "第二十七條": "　　原條文之立法原意雖在倡導農會員工專業之精神，但農會為人民組織之一種，任何人民團體之成員參加公職競選並無限制規定，原條文之規定剝奪農會員工參政之權益，有違憲法平等之原則，故修正之；使農會總幹事及聘雇人員得兼任國民大會代表。"
+        "第十三條": "　　為促使原持有股票而改從事工商或工廠亦得享受農會之權利，爰修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800328",
-            "立法紀錄": "80卷26期2450號 167-169頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9ccc681c7cfcfcdc9cfcfc4cfcec9c8c4cfcec9c6",
-            "主提案": "徐益權",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "800610",
-            "立法紀錄": "81卷13期2541號 130-142頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9ccc681c7cecfcecccfcfc4cfcecccfc4cfcecbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "800625",
-            "立法紀錄": "80卷51期2475號 37-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9ccc681c7cfcfcacecfcfc4cfcfccc8c4cfcfcac6",
+            "會議日期": "831118",
+            "立法紀錄": "83卷75期2749號上冊 218-220頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbce81c7ccc8cacfcec4cfcdcec7c4cfcdcdcf",
+            "主提案": "蔡友土",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cccbcfcfc5cbcccbd2cbccc6"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcececfcec5c9cdcfd2c9cdce"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "831118",
+            "立法紀錄": "83卷75期2749號上冊 220-222頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbce81c7ccc8cacfcec4cfcdcdcfc4cfcdcdcd",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "800716",
-            "立法紀錄": "80卷57期2481號下冊 495-499頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9ccc681c7cfcfcac8cfccc4cfcbc6cac4cfcbc6c6",
+            "會議日期": "831118",
+            "立法紀錄": "83卷75期2749號上冊 222-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbce81c7ccc8cacfcec4cfcdcdcdc4cfcdcdcc",
             "關係文書": []
         }
     ]
