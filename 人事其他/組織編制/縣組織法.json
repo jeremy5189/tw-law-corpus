@@ -1,12 +1,11 @@
 {
     "title": "縣組織法",
     "versions": [
-        "中華民國89年3月21日廢止",
-        "中華民國89年4月5日公布"
+        "中華民國18年5月14日制定",
+        "中華民國18年6月5日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -46,13 +45,13 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　各縣按戶口及地方情形，分劃為若干區，除因地方習慣或地勢限制，及有其他特殊情形者外，每區以十鄉鎮至五十鄉鎮組成之。",
+            "content": "　　各縣按戶口及地方情形，分劃為若干區，除因地方習慣或地勢限制，及有其他特殊情形者外，每區以二十至五十鄉鎮組成之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　凡縣內百戶以上之村莊地方為鄉，其不滿百戶者得聯合各村莊編為一鄉，百戶以上之街市地方為鎮，其不滿百戶者編入鄉。但因地方習慣或受地勢限制，及有其他特殊情形之地方，雖不滿百戶，亦得成為鄉鎮。\n　　鄉鎮均不得超過千戶。",
+            "content": "　　凡縣內百戶以上之村莊地方為鄉，其不滿百戶者得聯合各村莊編為一鄉，百戶以上之街市地方為鎮，其不滿百戶者編入鄉。但因地方習慣或受地勢限制，及有其他特殊情形之地方，雖不滿百戶，亦得成為鄉鎮。",
             "relates": {}
         },
         {
@@ -266,7 +265,7 @@
         {
             "note": "",
             "rule_no": "第四十條",
-            "content": "　　鄉置鄉公所，設鄉長一人，鎮置鎮公所，設鎮長一人，管理各該鄉、鎮自治事務，鄉、鎮各設副鄉長副鎮長一人，襄助鄉長、鎮長辦理事務。但鄉鎮在五百戶以上者，得增設副鄉長或副鎮長一人。",
+            "content": "　　鄉置鄉公所，設鄉長一人，鎮置鎮公所，設鎮長一人，管理各該鄉、鎮自治事務，鄉、鎮各設副鄉長副鎮長一人，襄助鄉長、鎮長辦理事務。但鄉鎮戶口在百戶以上者，每增百戶增設副鄉長或副鎮長一人。",
             "relates": {}
         },
         {
@@ -284,7 +283,7 @@
         {
             "note": "",
             "rule_no": "第四十三條",
-            "content": "　　鄉長、副鄉長、鎮長、副鎮長違法失職時，鄉民大會或鎮民大會得罷免改選之。",
+            "content": "　　鄉民大會或鎮民大會對於鄉鎮公約及自治事項，有創制及複決之權，鄉長、副鄉長、鎮長、副鎮長違法失職時，鄉民大會或鎮民大會得罷免改選之。\n　　前項之創制複決及罷免程序，另以法律定之。",
             "relates": {}
         },
         {
@@ -354,55 +353,6 @@
             "rule_no": "第五十三條",
             "content": "　　本法施行日期，另以命令行之。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　為因應地方制度法制化，配合省縣自治法及直轄市自治法之公布施行，本法已不符事實需要，爰予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "841006",
-            "立法紀錄": "84卷51期2808號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecec681c7cbcacecfcfc4cfcfcfccc4cfcfcfcc",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfcbcfcec5cecccad2ceccc9"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfcbcfcec5cecaced2cecac7"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "841213",
-            "立法紀錄": "84卷63期2820號下冊 103-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecec681c7cbc9cccfccc4cfcecfccc4cfcecacf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "890321",
-            "立法紀錄": "89卷12期3071號上冊 195-210頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecec681c7c6cecdcfcec4cfcec6cac4cfcdcecf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c8c7ccd2c8c7c9"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5c7cfcfd2c7cfc9"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "890321",
-            "立法紀錄": "89卷12期3071號上冊 210-210頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecec681c7c6cecdcfcec4cfcdcecfc4cfcdcecf",
-            "關係文書": []
         }
     ]
 }
