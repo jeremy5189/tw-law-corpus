@@ -1,12 +1,12 @@
 {
     "title": "內政部檢疫所組織條例",
     "versions": [
-        "中華民國44年5月24日修正",
-        "中華民國44年6月4日公布"
+        "中華民國61年3月21日廢止",
+        "中華民國61年3月28日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -94,33 +94,20 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本條例係三十八年公布，由於同一事項，因「行政院衛生署國際港埠檢疫所組織通則」之制定，已無保留必要，故加以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "421222",
-            "立法紀錄": "42卷12期號8冊 38-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfc781cbcccecdcfc7c4cfcfccc7c4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "440520",
-            "立法紀錄": "44卷15期號8冊 97-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfc781cbcbcecacfcac4cfcfc6c8c4cfcecfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "440520",
-            "立法紀錄": "44卷15期號5冊 174-175頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfc781cbcbcecacfcac4cfcec8cbc4cfcec8ca",
+            "會議日期": "601001",
+            "立法紀錄": "60卷74期428號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfc681c9cfcbc8c8cbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "440524",
-            "立法紀錄": "44卷15期號5冊 180-183頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfc781cbcbcecacfcac4cfcec7cfc4cfcec7cc",
+            "會議日期": "610321",
+            "立法紀錄": "61卷23期476號 2-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc7cfc681c9cecbc6cdcccfcfcfcec4cfcfcfcdc4cfcfcfcb",
             "關係文書": []
         }
     ]
