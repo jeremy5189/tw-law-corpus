@@ -1,12 +1,12 @@
 {
     "title": "中華民國六十三年度所得稅稅率條例",
     "versions": [
-        "中華民國62年12月28日制定",
-        "中華民國62年12月29日公布"
+        "中華民國63年12月17日修正",
+        "中華民國63年12月27日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -22,9 +22,9 @@
             "relates": {}
         },
         {
-            "note": "(綜合所得稅免稅額、寬減額之計算)",
+            "note": "",
             "rule_no": "第三條",
-            "content": "　　綜合所得稅，除各項扣除額依所得稅法第十七條第一項第三款之規定計算外，其免稅額、寬減額，依左列規定計算之：\n　　一、免稅額：納稅義務人個人免稅額，全年一萬二千元，有配偶者二萬四千元。\n　　二、扶養親屬寬減額：納稅義務人扶養親屬之寬減額，每人全年八千元。",
+            "content": "　　綜合所得稅，除各項扣除額依所得稅法第十七條第一項第三款之規定計算外，其免稅額、寬減額，依左列規定計算之：\n　　一、免稅額：納稅義務人個人免稅額，全年一萬五千元，有配偶者三萬元。\n　　二、扶養親屬寬減額：納稅義務人扶養親屬之寬減額，每人全年一萬一千元。",
             "relates": {}
         },
         {
@@ -46,32 +46,75 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　由於年來物價高漲，行政院為了配合「所得稅法」扣除額及特別扣除額之調整，將「中華民國六十三年度所得稅稅率條例」第三條予以適時修正，以減輕人民的負擔。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "621130",
-            "立法紀錄": "62卷92期648號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8cb81c9cdcacdc6cdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "631122",
+            "立法紀錄": "63卷88期744號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ca81c9cccacbc7c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcccfcfc5cccbcdd2ccc7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacbcfcccfcfc5cccec9d2cccdce"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "631128",
+            "立法紀錄": "63卷94期750號 1-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ca81c9cbcacbc6cbcfcfcfcdc4cfcfcfcec4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "631202",
+            "立法紀錄": "63卷96期752號 1-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ca81c9cbcacbc6c9cfcfcfcdc4cfcfcfcec4cfcfcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "631209",
+            "立法紀錄": "64卷3期757號 7-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ca81c9cbcacbcfcccfcfcfcdc4cfcfcfc8c4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "631211",
+            "立法紀錄": "64卷9期763號 6-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ca81c9cbcacbcfc6cfcfc4cfcfcfc9c4cfcfcecd",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "621226",
-            "立法紀錄": "62卷99期655號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8cb81c9cdcacdc6c6cfcfcfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "631217",
+            "立法紀錄": "63卷95期751號 12-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ca81c9cbcacbc6cacfcfcfcec4cfcfcecdc4cfcfcec6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacbcfcbcfcfc5cac9d2c9ce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "631217",
+            "立法紀錄": "63卷95期751號 21-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ca81c9cbcacbc6cacfcfcfcec4cfcfcdcec4cfcfcdce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "621228",
-            "立法紀錄": "62卷100期656號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8cb81c9cdcacdcecfcfcfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "631217",
+            "立法紀錄": "63卷95期751號 21-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ca81c9cbcacbc6cacfcfcfcec4cfcfcdcec4cfcfcdce",
             "關係文書": []
         }
     ]
