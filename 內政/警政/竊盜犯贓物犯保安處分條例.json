@@ -1,12 +1,12 @@
 {
     "title": "竊盜犯贓物犯保安處分條例",
     "versions": [
-        "中華民國58年11月7日修正",
-        "中華民國58年11月19日公布"
+        "中華民國62年10月26日修正",
+        "中華民國62年11月5日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -48,7 +48,7 @@
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　依本條例宣告之強制工作處分，其執行以五年為期，但執行已滿二年，而執行機關認為無繼續執行之必要者，得檢具事證，報請檢察官聲請法院免予繼續執行。\n　　依本條例宣告之強制工作處分，執行已滿五年，而執行機關認為有延長之必要者，得檢具事證報請檢察官聲請法院許可延長之，但延長處分期間至多不得逾二年。在延長期間內，執行機關認為無繼續延長之必要者，得隨時檢具事證，報請檢察官聲請法院免予繼續延長執行。",
+            "content": "　　依本條例宣告之強制工作處分，其執行以七年為期。但執行已滿三年，而執行機關認為無繼續執行之必要者，得檢具事證，執請檢察官聲請法院免予繼續執行。\n　　依本條例宣告之強制工作處分，執行已滿七年，而執行機關認為有延長之必要者，得檢具事證，報請檢察官聲請法院許可延長之。但延長處分期間至多不得逾三年，在延長期間內，執行機關認為無繼續延長之必要者，得隨時檢具事證，報請檢察官聲請法院免予繼續延長執行。",
             "relates": {}
         },
         {
@@ -100,79 +100,68 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第七條": "　　查竊盜犯猖獗，嚴重危害人民權益及社會安寧，尤以慣犯為甚。現行戡亂時期竊盜犯贓物犯保安處分條例第七條，對於執行強制工作之期間及免予繼續執行所須經過之一定期間暨得延長強制工作處分之期間，均嫌過短，尚不足以發揮嚇阻及使部份慣犯習於勞動生產或悔改之效，故將本案原定上述期間，分別酌予加長。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580516",
-            "立法紀錄": "58卷36期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbccccc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "620605",
+            "立法紀錄": "62卷42期598號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9c981c9cdcacecbcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcdcfcfc5c8cdc9d2c8ccce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc9cfcfc5cdcccdd2cdccca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580605",
-            "立法紀錄": "58卷54期號 7-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcccacbcfcfcfcdc4cfcfcfc8c4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580626",
-            "立法紀錄": "58卷58期號 1-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcccac7cfcfcfcdc4cfcfcfcec4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580703",
-            "立法紀錄": "58卷56期號 13-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcccac9cfcfcfcdc4cfcfceccc4cfcfcec9",
+            "會議日期": "621008",
+            "立法紀錄": "62卷92期648號 22-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9c981c9cdcacdc6cdcfcfcfcdc4cfcfcdcdc4cfcfcdc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "581028",
-            "立法紀錄": "58卷78期號 18-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc8c7cfcfcfcec4cfcfcec7c4cfcfcdc6",
+            "會議日期": "621019",
+            "立法紀錄": "62卷80期636號 4-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9c981c9cdcacdc7cfcfcfcfcec4cfcfcfcbc4cfcfcfc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cac8d2c9cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcdcfcfc5cdc9ccd2cdc9ca"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "581031",
-            "立法紀錄": "58卷79期號 13-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc8c6cfcfcfcec4cfcfceccc4cfcfcec9",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "621019",
+            "立法紀錄": "62卷80期636號 8-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9c981c9cdcacdc7cfcfcfcfcec4cfcfcfc7c4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "581031",
-            "立法紀錄": "58卷79期號 16-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc8c6cfcfcfcec4cfcfcec9c4cfcfcdc9",
+            "會議日期": "621023",
+            "立法紀錄": "62卷81期637號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9c981c9cdcacdc7cecfcfcfcec4cfcfcfcdc4cfcfcfcc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "581104",
-            "立法紀錄": "58卷80期號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc7cfcfcfcfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "621023",
+            "立法紀錄": "62卷81期637號 20-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9c981c9cdcacdc7cecfcfcfcec4cfcfcdcfc4cfcfcdcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "581107",
-            "立法紀錄": "58卷81期號 2-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9ca81cac7cbcbc7cecfcfcfcec4cfcfcfcdc4cfcfcecf",
+            "會議日期": "621026",
+            "立法紀錄": "62卷82期638號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecec9c981c9cdcacdc7cdcfcfcfcec4cfcfcfccc4cfcfcfcc",
             "關係文書": []
         }
     ]
