@@ -1,8 +1,8 @@
 {
     "title": "銀行法",
     "versions": [
-        "中華民國66年12月20日修正",
-        "中華民國66年12月29日公布"
+        "中華民國67年7月7日修正",
+        "中華民國67年7月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,7 +28,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　銀行經營之業務如左：\n　　一、收受支票存款。\n　　二、收受其他各種存款。\n　　三、受託經理信託資金。\n　　四、發行金融債券。\n　　五、辦理放款。\n　　六、辦理票據貼現。\n　　七、投資有價證券。\n　　八、直接投資生產事業。\n　　九、投資住宅建築及企業建築。\n　　十、辦理國內外匯兌。\n　　十一、辦理商業匯票承兌。\n　　十二、簽發信用狀。\n　　十三、辦理國內外保證業務。\n　　十四、代理收付款項。\n　　十五、承銷及自營買賣或代客買賣有價證券。\n　　十六、辦理債券發行之經理及顧問事項。\n　　十七、擔任股票及債券發行簽證人。\n　　十八、受託經理各種財產。\n　　十九、辦理證券投資信託有關業務。\n　　二十、買賣金銀及外國貨幣。\n　　二十一、辦理與前列各款業務有關之倉庫、保管及代理服務業務。",
+            "content": "　　銀行經營之業務如左：\n　　一、收受支票存款。\n　　二、收受其他各種存款。\n　　三、受託經理信託資金。\n　　四、發行金融債券。\n　　五、辦理放款。\n　　六、辦理票據貼現。\n　　七、投資有價證券。\n　　八、直接投資生產事業。\n　　九、投資住宅建築及企業建築。\n　　十、辦理國內外匯兌。\n　　十一、辦理商業匯票承兌。\n　　十二、簽發信用狀。\n　　十三、辦理國內外保證業務。\n　　十四、代理收付款項。\n　　十五、承銷及自營買賣或代客買賣有價證券。\n　　十六、辦理債券發行之經理及顧問事項。\n　　十七、擔任股票及債券發行簽證人。\n　　十八、受託經理各種財產。\n　　十九、辦理證券投資信託有關業務。\n　　二十、買賣金銀及外國貨幣。\n　　二十一、辦理與前列各款業務有關之倉庫、保管及代理服務業務。\n　　二十二、經政府對專業銀行核准辦理之其他有關業務。",
             "relates": {}
         },
         {
@@ -893,129 +893,34 @@
         }
     ],
     "law_reasons": {
-        "第九條": "　　本條原規定所稱「小額存款」經財政部會商中央銀行規定每戶存款最高額度暫以新臺幣壹百萬元為限，惟實施以來，社會迭有反映認為不切實際，對於非營利法人而有鉅額款項須賴存儲孳生利息者殊感不便，如存戶以分散方式存儲，銀行作業時亦難核阻，同時具有儲蓄性質之信託資金並無最高額度之限制，爰刪除原規定「小額」二字，俾切實際。",
-        "第二十條": "　　銀行之開放，其種類專業應在名稱中表示之。第二項中增列不在此限之條件。",
-        "第三十五條 之一": "　　一、本條新增。\n　　二、因董事與監察人均居重要地位，銀行一切大政方針均需經過董事議決。為避免造成銀行的「托辣斯」故改為「銀行之負責人及職員不得兼任其他銀行任何職務」。",
-        "第七十九條": "　　原條文之規定，鑒於二年來實際執行情形，對於部分存款人遇有特殊需要，必須提前解約者，甚感困難，增加銀行與存款人間之紛擾，社會亦多反映，為兼顧實情，爰酌予修正，俾富彈性。",
-        "第一百零三條": "　　一、本條第一項原規定信託資金應繳之賠償準備率過高，有礙信託投資業務之發展，故視信託業財務狀況採取彈性規定，並增列國庫券或現金亦得充作賠償準備，以及最低繳存額之規定，以資適應。\n　　二、公司經營一年後，其賠償準備應於每月月底調整，爰將第二項修正予以明定。\n　　三、第三項不修正。",
-        "第一百三十二條": "　　本條原規定限期糾正之程序可由行政機關自行斟酌採用，爰予刪除，以免違反規定者倖存免罰之企圖。",
-        "第一百三十六條": "　　本條原規定之處罰仍嫌過輕，不足發揮處罰之功效，爰予修正下列兩重點：\n　　一、原規定再予加倍處罰修正為再予加一至五倍處罰。\n　　二、原規定屢違而情節重大者，增列「責令限期撤換負責人」。以加強執行處罰之成效。"
+        "第三條": "　　一、本條之修正，即增列第廿二款，具體規定專業銀行可辦理政府核准之有關業務，使所有銀行經營的業務均有具體根據，以維護法律尊嚴，並避免流弊。\n　　二、旨在為政府設立「中國輸出入銀行」辦理保險業務立法規範，使其於法有據。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "660930",
-            "立法紀錄": "66卷79期1042號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc8c6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "670707",
+            "立法紀錄": "67卷54期1122號 22-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecc81c9c8c9cecacbcfcfc4cfcfcdcdc4cfcfcdca",
+            "主提案": "郭紫峻",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcecfcfc5cbc8c8d2cbc7c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfc9cfcfc5c6c7d2cecfcf"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "661008",
-            "立法紀錄": "66卷91期1054號 55-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6cecfcfc4cfcfcacac4cfcfc9cd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661012",
-            "立法紀錄": "66卷92期1055號 39-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6cdcfcfc4cfcfccc6c4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661019",
-            "立法紀錄": "66卷93期1056號 2-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6cccfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661026",
-            "立法紀錄": "66卷94期1057號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6cbcfcfc4cfcfcfcdc4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661102",
-            "立法紀錄": "66卷95期1058號 49-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6cacfcfc4cfcfcbc6c4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661116",
-            "立法紀錄": "66卷101期1064號 15-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfcecfcecfcfc4cfcfcecac4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "661125",
-            "立法紀錄": "66卷95期1058號 16-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6cacfcfc4cfcfcec9c4cfcfcdc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcdcfcfc5c8c8cad2c8c7c9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "661129",
-            "立法紀錄": "66卷96期1059號 3-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6c9cfcfc4cfcfcfccc4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "661202",
-            "立法紀錄": "66卷97期1060號 8-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6c8cfcfc4cfcfcfc7c4cfcfcfc6",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "661202",
-            "立法紀錄": "66卷97期1060號 9-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6c8cfcfc4cfcfcfc6c4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "661206",
-            "立法紀錄": "66卷98期1061號 3-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfc6c7cfcfc4cfcfcfccc4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "661213",
-            "立法紀錄": "66卷100期1063號 3-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfcecfcfcfcfc4cfcfcfccc4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "661216",
-            "立法紀錄": "66卷101期1064號 4-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfcecfcecfcfc4cfcfcfcbc4cfcfcfc9",
+            "會議日期": "670707",
+            "立法紀錄": "67卷54期1122號 25-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecc81c9c8c9cecacbcfcfc4cfcfcdcac4cfcfcdc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "661220",
-            "立法紀錄": "66卷102期1065號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecd81c9c9c9cfcecfcdcfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "670707",
+            "立法紀錄": "67卷54期1122號 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cecc81c9c8c9cecacbcfcfc4cfcfcdc9c4cfcfcdc9",
             "關係文書": []
         }
     ]
