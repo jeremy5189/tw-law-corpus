@@ -1,8 +1,8 @@
 {
     "title": "財政部關稅總局組織條例",
     "versions": [
-        "中華民國86年4月8日修正",
-        "中華民國86年4月23日公布"
+        "中華民國87年10月29日修正",
+        "中華民國87年11月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -19,13 +19,33 @@
             "note": "",
             "rule_no": "第二條",
             "content": "　　財政部關稅總局（以下簡稱本局）掌理左列事項：\n　　一、關於徵免關稅之核辦、核轉事項。\n　　二、關於關稅稅則之研修建議事項。\n　　三、關於私運貨物進出口之查緝事項。\n　　四、關於進口貨物價格之調查、審核事項。\n　　五、關於進出口貨物之化驗、鑑定事項。\n　　六、關於外銷品之進口原料保稅、退稅之核辦事項。\n　　七、關於燈塔及助航設備之建管、補給及無線電管理事項。\n　　八、關於關稅資料之建立處理事項。\n　　九、關於一般關務法規之研釋擬議事項。\n　　十、關於各地區關稅局設置之研擬事項。\n　　十一、關於關務之其他事項。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01586",
+                        "law_name": "財政部關稅總局組織條例",
+                        "numbers": [
+                            "第三條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第三條",
             "content": "　　本局設徵課處、稅則處、查緝處、驗估處、保稅退稅處、海務處、資料處理處及法制室，得分科辦事，分別掌理前條所列事項。驗估處、保稅退稅處及海務處各科，並得分股辦事。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01586",
+                        "law_name": "財政部關稅總局組織條例",
+                        "numbers": [
+                            "第二條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -37,7 +57,17 @@
             "note": "",
             "rule_no": "第五條",
             "content": "　　本局為稽徵關稅及執行關務需要，得報經財政部核轉行政院核定，於國內必要地區設置關稅局。\n　　前項關稅局，依其業務之繁簡分為一、二、三等局，其組織通則，另定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01605",
+                        "law_name": "財政部關稅總局各地區關稅局組織通則",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -83,6 +113,12 @@
         },
         {
             "note": "",
+            "rule_no": "第十一條 之一",
+            "content": "　　本局因業務需要，得設各種委員會；所需工作人員，應就本條例所定員額內派充之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第十二條",
             "content": "　　本局辦事細則，由本局擬訂，報請財政部核定之。",
             "relates": {}
@@ -90,53 +126,59 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　本條例自公布日施行。",
+            "content": "　　本條例自公布日施行。\n　　本條例修正條文施行日期，由行政院以命令定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第七條": "　　一、增列「執行秘書」，以供關稅總局已依法設置之「訴願審議委員會」、「稅則分類估價評議會」及「大陸物品鑑定委員會」其主管職務之核派。\n　　二、配合銓敘部原訂定之「各機關職務列等改進原則」，將科員得列薦任第六職等至第七職等之員額，由原規定三分之一提高其比例為二分之一。\n　　三、參照一般船艦之體制，增列大副、輪機長等主管職務，以利艦艇各部門之正常運作。\n　　四、增列「艙面佐理員」及「機艙佐理員」，將部分原配屬技役編制之員額，予以提昇為職員編制，俾利是類人員於依法執行緝私任務時，免遭適法性之質疑。",
-        "第十條 之一": "　　一、本條新增。\n　　二、配合「政風機構人員設置條例」設政風室，置主任一人。",
-        "第十一條": "　　酌降燈塔「管理員」之職務列等，增列「其中一人，職務得列委任第一職等至第三職等技術佐」，以利地處偏遠海邊燈塔人員之進用。"
+        "第十一條 之一": "　　一、本條新增。\n　　二、於本條明文規定，以令關稅總局設置委員會有法源依據。",
+        "第十三條": "　　一、原條文列為第一項，未修正。\n　　二、為使關務人員調整職務列等之實施日期，能配合「公務人員任用法」修正第六條經完成立法程序後，有關第二階段中央機關公務人員調整職務列等之實施日期，均同步實施，俾期平衡，爰增列第二項規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "841205",
-            "立法紀錄": "84卷59期2816號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc8c681c7cbcac6cfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "850920",
+            "立法紀錄": "85卷44期2866號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc7ce81c7cacbcbcfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfc7cfcec5cdcec8d2cdc6cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcfcdcfcec5cdc6cbd2cccfc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "841227",
-            "立法紀錄": "85卷3期2825號 329-344頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc8c681c7cacfcccfcfc4cfcccdc6c4cfcccbcb",
+            "會議日期": "870325",
+            "立法紀錄": "87卷13期2962號下冊 303-344頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc7ce81c7c8cecccfccc4cfcccfccc4cfcccbcb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "871014",
+            "立法紀錄": "87卷41期2990號 225-231頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc7ce81c7c8cbcecfcfc4cfcdcdcac4cfcdccce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 61-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc8c681c7c9cecacfcec4cfcfc9cec4cfcecfcd",
+            "會議日期": "871029",
+            "立法紀錄": "87卷44期2993號 113-143頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc7ce81c7c8cbcbcfcfc4cfcececcc4cfcecbcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecececfcdc5ccceccd2cccbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfc7cfcfc5cbcfcfd2cbcdc6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 102-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc8c681c7c9cecacfcec4cfcecfcdc4cfcecfcd",
+            "會議日期": "871029",
+            "立法紀錄": "87卷44期2993號 143-144頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccccc7ce81c7c8cbcbcfcfc4cfcecbccc4cfcecbcb",
             "關係文書": []
         }
     ]
