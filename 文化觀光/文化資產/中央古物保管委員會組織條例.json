@@ -1,11 +1,12 @@
 {
     "title": "中央古物保管委員會組織條例",
     "versions": [
-        "中華民國24年11月8日全文修正",
-        "中華民國24年11月19日公布"
+        "中華民國62年3月27日廢止",
+        "中華民國62年4月11日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -55,6 +56,23 @@
             "rule_no": "第八條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　內政部自播遷來台後，該部已無中央古物保管委員會之組織，致使本條例已無保留之必要，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "620109",
+            "立法紀錄": "62卷2期558號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c9ce81c9cdcacfcfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620327",
+            "立法紀錄": "62卷22期578號 6-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c9ce81c9cdcacecdcdcfcfcfcec4cfcfcfc9c4cfcfcfc7",
+            "關係文書": []
         }
     ]
 }
