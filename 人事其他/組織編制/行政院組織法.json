@@ -1,11 +1,12 @@
 {
     "title": "行政院組織法",
     "versions": [
-        "中華民國41年11月11日修正",
-        "中華民國41年11月20日公布"
+        "中華民國69年5月27日修正",
+        "中華民國69年6月29日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -23,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　行政院設左列各部及各委員會。\n　　一、內政部。\n　　二、外交部。\n　　三、國防部。\n　　四、財政部。\n　　五、教育部。\n　　六、司法行政部。\n　　七、經濟部。\n　　八、交通部。\n　　九、蒙藏委員會。\n　　十、僑務委員會。\n　　各部及各委員會之組織，以法律定之。",
+            "content": "　　行政院設左列各部及各委員會：\n　　一、內政部。\n　　二、外交部。\n　　三、國防部。\n　　四、財政部。\n　　五、教育部。\n　　六、法務部。\n　　七、經濟部。\n　　八、交通部。\n　　九、蒙藏委員會。\n　　一○、僑務委員會。\n　　各部及各委員會之組織，以法律定之。",
             "relates": {}
         },
         {
@@ -109,6 +110,57 @@
             "rule_no": "第十七條",
             "content": "　　本法施行日期，以命令定之。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第三條": "　　一、本條僅將第一項第六款「司法行政部」修正為「法務部」其餘各款及第二項均不修正。\n　　二、審檢分隸後之司法行政部除仍須主管檢察、監所、司法保護等之行政事務外，尚須主管本院之法律事務，就其業務之範圍宜改稱為法務部，爰修正本條第一項第六款如上。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "690401",
+            "立法紀錄": "69卷27期1303號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccecec781c9c6c9cacdc8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcdcfcfc5c7cfcdd2c7cfcb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "690409",
+            "立法紀錄": "69卷58期1334號 96-98頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccecec781c9c6c9cacac7cfcfc4cfcfc6c9c4cfcfc6c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "690527",
+            "立法紀錄": "69卷43期1319號 29-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccecec781c9c6c9cacbcccfcfc4cfcfcdc6c4cfcfcccd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5cacac9d2cacac7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "690527",
+            "立法紀錄": "69卷43期1319號 32-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccecec781c9c6c9cacbcccfcfc4cfcfcccdc4cfcfcccd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "690527",
+            "立法紀錄": "69卷43期1319號 32-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccecec781c9c6c9cacbcccfcfc4cfcfcccdc4cfcfcccd",
+            "關係文書": []
         }
     ]
 }
