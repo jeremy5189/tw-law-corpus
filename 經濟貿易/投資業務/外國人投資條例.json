@@ -1,8 +1,8 @@
 {
     "title": "外國人投資條例",
     "versions": [
-        "中華民國56年12月22日修正",
-        "中華民國57年1月8日公布"
+        "中華民國57年6月14日修正",
+        "中華民國57年6月22日公布"
     ],
     "types": [
         "立法歷程",
@@ -132,7 +132,7 @@
         {
             "note": "(施行區域)",
             "rule_no": "第二十一條",
-            "content": "　　本條例之施行區域，暫以臺灣省為限，擴增時由立法院決議定之。",
+            "content": "　　本條例之施行區域，暫以臺灣地區為限，擴增時由立法院決議定之。",
             "relates": {}
         },
         {
@@ -145,55 +145,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "560721",
-            "立法紀錄": "56卷7期號7冊 839-845頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c981cac9ccc6cfc8cfc8c4cfc7ccc6c4cfc7cbca",
-            "主提案": "駱擧蓮",
+            "會議日期": "570305",
+            "立法紀錄": "57卷15期號 798-798頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c781cac8cbcfcecacfcfc4cfc8c6c7c4cfc8c6c7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc8cfcccfcfc5cbcecfd2cbcec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcecfcfc5cbcaccd2cbcacb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "560823",
-            "立法紀錄": "56卷9期號8冊 1366-1373頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c981cac9ccc6cfc7cfc6c4ceccc9c9c4ceccc8cc",
+            "會議日期": "570404",
+            "立法紀錄": "57卷27期號 2511-2513頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c781cac8cbcecdc8cfcfc4cdcacecec4cdcacecc",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "561116",
-            "立法紀錄": "56卷9期號11冊 2257-2270頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c981cac9cbcfcfc7cecec4cdcdcac8c4cdcdc8cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "561222",
-            "立法紀錄": "56卷7期號12冊 2691-2694頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c981cac9cbcfcfc8cecdc4cdc9c6cec4cdc9c6cb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5ccc8cfd2ccc8c8"
-                ]
-            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "561222",
-            "立法紀錄": "56卷7期號12冊 2694-2694頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c981cac9cbcfcfc8cecdc4cdc9c6cbc4cdc9c6cb",
-            "關係文書": []
+            "會議日期": "570423",
+            "立法紀錄": "57卷29期號 2630-2634頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c781cac8cbcecdc6cfcfc4cdc9cccfc4cdc9cccb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cbcec6d2cbcdce"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "561222",
-            "立法紀錄": "56卷7期號12冊 2695-2695頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c981cac9cbcfcfc8cecdc4cdc9c6cac4cdc9c6ca",
+            "會議日期": "570614",
+            "立法紀錄": "57卷44期號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c781cac8cbcecbcbcfcfcfcec4cfcfcfccc4cfcfcfcc",
             "關係文書": []
         }
     ]
