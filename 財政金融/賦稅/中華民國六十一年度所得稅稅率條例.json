@@ -1,9 +1,13 @@
 {
     "title": "中華民國六十一年度所得稅稅率條例",
     "versions": [
-        "中華民國61年12月31日廢止"
+        "中華民國60年12月24日制定",
+        "中華民國60年12月30日公布"
     ],
-    "types": [],
+    "types": [
+        "立法歷程",
+        "異動條文"
+    ],
     "law_data": [
         {
             "note": "(立法依據)",
@@ -40,6 +44,61 @@
             "rule_no": "第六條",
             "content": "　　本條例施行期間，自中華民國六十一年一月一日起，至同年十二月三十一日止。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "601126",
+            "立法紀錄": "60卷91期444號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cf81c9cfcbc7c6cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcdcfcfc5c9c9cad2c9c9c7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "601201",
+            "立法紀錄": "61卷48期501號 16-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cf81c9cecbc6cbc7cfcfcfcdc4cfcfcec9c4cfcfcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "601215",
+            "立法紀錄": "61卷50期503號 27-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cf81c9cecbc6cacfcfcfcfcdc4cfcfcdc8c4cfcfcccf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "601224",
+            "立法紀錄": "60卷99期452號 3-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cf81c9cfcbc7c6c6cfcfcfcec4cfcfcfccc4cfcfcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5cec7cdd2cec7c8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "601224",
+            "立法紀錄": "60卷99期452號 8-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cf81c9cfcbc7c6c6cfcfcfcec4cfcfcfc7c4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "601224",
+            "立法紀錄": "60卷99期452號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cf81c9cfcbc7c6c6cfcfcfcec4cfcfcfc6c4cfcfcfc6",
+            "關係文書": []
         }
     ]
 }
