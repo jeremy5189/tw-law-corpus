@@ -1,8 +1,8 @@
 {
     "title": "經濟部組織法",
     "versions": [
-        "中華民國91年1月4日修正",
-        "中華民國91年1月25日公布"
+        "中華民國93年1月9日修正",
+        "中華民國93年1月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,7 +66,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　經濟部設能源委員會，其組織以法律定之。",
+            "content": "　　經濟部設能源局；其組織以法律定之。",
             "relates": {}
         },
         {
@@ -251,67 +251,53 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、為配合臺灣省政府功能業務與組織調整後所進行各部會地區辦公室及改隸機關組織之調整作業，合併原礦業司及礦務局，設立「礦務局」，合併商業司及中部辦公室，設立、「商業局」，爰將原條文第一款及第二款刪除。\n　　二、為配合執行「發展台灣成為亞太營運中心計畫」並兼顧未來規劃台灣成為全球運籌中心之政策方向，合併投資業務處及投資審議委員會改設為「投資業務處」，爰將原條文第五款刪除，款次遞移。",
-        "第十一條": "　　為配合臺灣省政府功能業務與組織調整後所進行各部會地區辦公室及改隸機關組織之調整作業，成立「礦務局」、「商業局」及「水利署」。",
-        "第十二條 之一": "　　一、本條新增。\n　　二、配合「發展臺灣成為亞太營運中心計畫」並兼顧未來規劃台灣成為全球運籌中心之政策方向，促進貿易及投資自由化，調整投資行政體系，爰將投資業務處及投資審議委員會合併，設立「投資業務處」，以統一事權，強化投資服務功能，促進投資效率。",
-        "第十五條": "　　一、本條刪除。\n　　二、配合原條文第四條刪除第一款之規定，本條爰予刪除。",
-        "第十六條": "　　一、本條刪除。\n　　二、配合原條文第四條刪除第二款之規定，本條爰予刪除。",
-        "第十九條": "　　一、本條刪除。\n　　二、配合原條文第四條刪除第五款之規定，本條爰予刪除。",
-        "第二十五條": "　　一、為配合「經濟部水利署」、「礦務局」、「商業局」及「投資業務處」成立，增置或減列員額。\n　　二、為提升國內產業技術水準，需增置中階職務人力，以規劃、協調及審議相關政策與措施，爰減列專門委員改置為科長，減列辦事員改置為專員，減列書記改置為科員；另為配合政府精簡人力政策，減列技士、科員、書記。\n　　三、本法八十五年十月十六日公布修正時，「組長」職稱業已刪除，爰將「組員」職稱刪除改置為「科員」。\n　　四、配合職務列等表修正，爰配合修正技士、科員及辦事員之職務列等。\n　　五、為配合銓敘部適切調配行政性職稱與技術性職稱之員額配置，爰減列技正改置為視察職，減列技士改置為科員職。",
-        "第三十六條": "　　依施行日期條文立法體例修正。"
+        "第十條": "　　為落實經濟發展諮詢委員會議共同意見，並配合能源事業自由化，積極推動石油、瓦斯及電力等能源政策、法規之研訂與執行及能源事業之管理，參考國內外能源主管機關之組織與定位，考量未來國內能源主管機關扮演之角色及業務量劇增需要，爰成立「經濟部能源局」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "900327",
-            "立法紀錄": "90卷14期3148號上冊 13-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6cf81c6cfcecbcfcec4cfcfceccc4cfcfcecc",
+            "會議日期": "910409",
+            "立法紀錄": "91卷24期3220號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cecdcbcfcfc4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcdc5cacecfd2cacac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cdccc7d2cdcbce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900502",
-            "立法紀錄": "90卷32期3166號 27-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6cf81c6cfcccdcfcfc4cfcfcdc8c4cfcfcacf",
+            "會議日期": "910529",
+            "立法紀錄": "91卷51期3247號上冊 3-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cecacecfcec4cfcfcfccc4cfcfcec9",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900521",
-            "立法紀錄": "90卷37期3171號 279-298頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6cf81c6cfccc8cfcfc4cfcdc8c6c4cfcdc6c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "901017",
-            "立法紀錄": "90卷54期3188號 219-239頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6cf81c6cfcacbcfcfc4cfcdcec6c4cfcdccc6",
+            "會議日期": "921229",
+            "立法紀錄": "93卷5期3339號 199-202頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cccfcacfcfc4cfcec6c6c4cfcdcfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "910104",
-            "立法紀錄": "91卷5期3201號上冊 48-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6cf81c6cecfcacfcec4cfcfcbc7c4cfcfc6cb",
+            "會議日期": "930109",
+            "立法紀錄": "93卷6期3340號一冊 179-189頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cccfc9cfcec4cfcec8c6c4cfcec7c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cececfccc5cdceced2cdcac8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec8cfcec5cbccc6d2cbcacd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "910104",
-            "立法紀錄": "91卷5期3201號上冊 94-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6cf81c6cecfcacfcec4cfcfc6cbc4cfcfc6ca",
+            "會議日期": "930109",
+            "立法紀錄": "93卷6期3340號一冊 189-189頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cccfc9cfcec4cfcec7c6c4cfcec7c6",
             "關係文書": []
         }
     ]
