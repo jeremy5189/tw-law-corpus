@@ -1,12 +1,12 @@
 {
     "title": "僑務委員會組織法",
     "versions": [
-        "中華民國70年12月11日全文修正",
-        "中華民國70年12月21日公布"
+        "中華民國87年1月7日修正",
+        "中華民國87年1月21日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -90,13 +90,31 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　僑務委員會置主任秘書一人，參事三人或四人，處長四人，專門委員九人至十一人，職位均列第十至第十二職等；室主任二人，副處長四人，職位均列第九至第十一職等；秘書六人至十人，視察十人至十四人，科長十八人至二十六人，專員二十二人至三十八人，稽核一人，職位均列第六至第九職等，其中秘書四人，視察五人，職位得列第十或第十一職等；科員七十五人至九十三人，職位列第三至第五職等，其中二十四人至三十二人，職位得列第六或第七職等；辦事員三十二人至五十八人，職位列第三或第四職等；書記三十四人至四十六人，職位列第一至第三職等。",
+            "content": "　　僑務委員會置主任秘書一人，參事五人或六人，處長四人，職務均列簡任第十二職等；副處長四人，職務列簡任第十一職等；專門委員九人至十一人，室主任二人，職務均列簡任第十職等至第十一職等；科長二十二人至三十人，職務列薦任第九職等；秘書八人至十二人，視察十六人至二十人，稽核一人，職務均列薦任第八職等至第九職等，其中秘書六人，視察十人，職務得列簡任第十職等至第十一職等；專員三十七人至五十三人，分析師一人，職務均列薦任第七職等至第九職等；設計師一人，職務列薦任第六職等至第八職等；科員八十六人至一０四人，職務列委任第五職等或薦任第六職等至第七職等；助理設計師二人，職務列委任第四職等至第五職等，其中一人職務得列薦任第六職等；辦事員十六人至四十二人，職務列委任第三職等至第五職等；書記六人至十八人，職務列委任第一職等至第三職等。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　僑務委員會設會計室、統計室，各置主任一人，職位均列第六至第九職等；人事室置主任一人，副主任一人，職位均列第六至第九職等；依法律規定，分別辦理歲計、會計、統計及人事事項。\n　　前項各室所需工作人員，應就本法所定員額內派充之。",
+            "content": "　　僑務委員會設人事室，置主任一人，職務列簡任第十職等至第十一職等；依法辦理人事管理事項。\n　　前項所需工作人員，應就本法所定員額內派充之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十五條 之一",
+            "content": "　　僑務委員會設會計室，置會計主任一人，職務列簡任第十職等至第十一職等；依法辦理歲計及會計事項。\n　　前項所需工作人員，應就本法所定員額內派充之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十五條 之二",
+            "content": "　　僑務委員會設統計室，置統計主任一人，職務列簡任第十職等至第十一職等；依法辦理統計事項。\n　　前項所需工作人員，應就本法所定員額內派充之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十五條 之三",
+            "content": "　　僑務委員會設政風室，置主任一人，職務列簡任第十職等至第十一職等；依法辦理政風事項。\n　　前項所需工作人員，應就本法所定員額內派充之。",
             "relates": {}
         },
         {
@@ -108,7 +126,7 @@
         {
             "note": "",
             "rule_no": "第十七條",
-            "content": "　　僑務委員會得報請行政院核准，在重要地區政府駐外機構內派駐僑務工作人員，協辦僑務工作；其員額由行政院視實際需要核定之。",
+            "content": "　　僑務委員會得報請行政院核准，在重要地區政府駐外機構內派駐僑務工作人員，協辦僑務工作，並得在該地區設海外華僑文教服務中心，所需人員由駐外僑務工作人員兼任。\n　　前項駐外僑務工作人員及海外華僑文教服務中心所需當地雇員員額，均由行政院視實際需要核定之。",
             "relates": {}
         },
         {
@@ -126,7 +144,7 @@
         {
             "note": "",
             "rule_no": "第二十條",
-            "content": "　　第十四條至第十六條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就僑務行政、一般行政管理、法制、新聞行政、一般教育行政、學校教育行政、社會教育行政、經建行政、商業行政、社會行政、人事行政、稽核、會計、統計及其他有關職系選用之。",
+            "content": "　　第十四條至第十六條列有官等職等人員，其職務所適用之職系，依公務人員任用法第八條之規定，就有關職系選用之。",
             "relates": {}
         },
         {
@@ -148,93 +166,106 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十四條": "　　一、在總員額不變之原則下，為便於僑務人才羅致及因應未來發展需要，調整各官等員額比率，作合理配置。\n　　二、各職稱職務之職等，與職務列等表規定不符者配合修正。",
+        "第十五條": "　　一、現行條文第十五條第一項所定會計室、統計室之規定，改列修正條文第十五條之一及第十五條之二，依新人事制度及各機關職務列等表規定，修正官職等。\n　　二、依據「政風機構人員設置條例」將原人事室副主任改派政風室主任並設立政風室，爰將「副主任一人，職務列薦任第九職等至簡任第十一職等；」之文字刪除。\n　　三、「依法辦理人事事項」等文字依例修正為」依法辦理人事管理事項「。",
+        "第十五條 之一": "　　一、本條新增。\n　　二、依新人事制度及各機關職務列等表規定，修正官職等。",
+        "第十五條 之二": "　　一、本條新增。\n　　二、依新人事制度及各機關職務列等表規定，修正官職等。",
+        "第十五條 之三": "　　一、本條新增。\n　　二、配合「政風機構人員設置條例」施行，設立政風室，將原人事室副主任改派為政風室主任。並明定其官職等及辦理事項。",
+        "第十七條": "　　僑務委員會為應海外工作之實際需要，陸續在海外設置華僑文教服務中心，作為政府在海外服務華僑之據點，為使海外華僑文教服務中心之設置有法律依據，爰修正本條，增訂僑務委員會得報請行政院核准，在海外重要地區設華僑文教服務中心，以利未來僑務工作之推展。",
+        "第二十條": "　　明定各職務職系之選用，依公務人員任用法第八條規定辦理，就有關職系選用之，不再一一列舉於條文中，使其更具彈性。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "701016",
-            "立法紀錄": "70卷83期1464號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c7cccfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "810630",
+            "立法紀錄": "81卷53期2581號上冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7cecfcacccfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcbcfcfc5cecfd2cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccecfcfc5cacdd2c9cc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "820706",
+            "立法紀錄": "82卷45期2644號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7cdcbcacfcfc4cfcfcfccc4cfcfcfcb",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccccfcec5c8c6d2c7ce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "860408",
+            "立法紀錄": "86卷15期2907號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c9cecacfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "劉光華",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5cecfc8d2cecfc6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "860925",
+            "立法紀錄": "86卷35期2927號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c9cccacfcfc4cfcfcfc8c4cfcfcfc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcfcdcfcdc5c9c9ccd2c9c9c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "701028",
-            "立法紀錄": "71卷17期1502號 147-157頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cec9c7cec8cfcfc4cfcecbc8c4cfcecac8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "701104",
-            "立法紀錄": "71卷18期1503號 136-148頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cec9c7cec7cfcfc4cfceccc9c4cfcecbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "701111",
-            "立法紀錄": "71卷19期1504號 133-140頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cec9c6cec6cfcfc4cfceccccc4cfcecbcf",
+            "會議日期": "861218",
+            "立法紀錄": "86卷57期2949號下冊 19-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c9cac8cfccc4cfcfcec6c4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "701124",
-            "立法紀錄": "70卷94期1475號 5-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6cbcfcfc4cfcfcfcac4cfcfcdc9",
+            "會議日期": "861230",
+            "立法紀錄": "87卷1期2950號上冊 34-49頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c8cfcecfcec4cfcfcccbc4cfcfcbc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcacfcfc5c8c8ced2c8c7ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcdcecfcfc5cccccdd2cccbc9"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701124",
-            "立法紀錄": "70卷94期1475號 26-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6cbcfcfc4cfcfcdc9c4cfcfcbcb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "870106",
+            "立法紀錄": "87卷4期2953號上冊 116-129頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c8cfcbcfcec4cfcecec9c4cfcecdc6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "701127",
-            "立法紀錄": "70卷95期1476號 5-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6cacfcfc4cfcfcfcac4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701201",
-            "立法紀錄": "70卷96期1477號 4-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6c9cfcfc4cfcfcfcbc4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701204",
-            "立法紀錄": "70卷97期1478號 14-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6c8cfcfc4cfcfcecbc4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701208",
-            "立法紀錄": "70卷98期1479號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6c7cfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "870106",
+            "立法紀錄": "87卷4期2953號上冊 129-176頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c8cfcbcfcec4cfcecdc6c4cfcec8c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "701211",
-            "立法紀錄": "70卷99期1480號 5-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6c6cfcfc4cfcfcfcac4cfcfcfc7",
+            "會議日期": "870107",
+            "立法紀錄": "87卷4期2953號上冊 176-177頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c8cfcbcfcec4cfcec8c9c4cfcec8c8",
             "關係文書": []
         }
     ]
