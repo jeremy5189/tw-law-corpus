@@ -1,11 +1,11 @@
 {
     "title": "國立中央圖書館臺灣分館組織條例",
     "versions": [
-        "中華民國102年12月31日廢止",
-        "中華民國103年1月15日公布"
+        "中華民國74年10月11日制定",
+        "中華民國74年10月23日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,59 +82,65 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　配合行政院組織改造作業，國立臺灣圖書館組織法業於101年2月3日公布，102年1月1日施行，爰將國立中央圖書館臺灣分館組織條例予以廢止。",
+    "law_reasons": {
+        "第一條": "　　明定本條例之制定依據。",
+        "第二條": "　　明定國立中央圖書館臺灣分館之設立目的及其任務。",
+        "第三條": "　　一、就國立中央圖書館臺灣分館之內部組織予以明定。\n　　二、第三款所定參考服務組為現有各公共圖書館所無，乃係因應現代社會之需要而設，俾加強其功能。",
+        "第四條": "　　置分館長一人，並明定其與中央圖書館館長之關係。",
+        "第五條": "　　一、規定國立中央圖書館臺灣分館所置人員數額及其職等。\n　　二、第二項明定除總務組主任、幹事、書記外，必要時得依教育人員任用條例之規定聘任之。",
+        "第六條": "　　置人事管理員，規定其職等及職掌。",
+        "第七條": "　　置會計員，規定其職等及職掌。",
+        "第八條": "　　本條係就第四條至第七條所定各職稱人員適用之職系予以明定。",
+        "第九條": "　　為促進事業發展需要，設立各種委員會，訂明條文，俾有所依據。",
+        "第十條": "　　規定輔導辦法之訂定程序。",
+        "第十一條": "　　規定辦事細則之訂定程序。",
+        "第十二條": "　　規定本條例之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020226",
-            "立法紀錄": "102卷7期4032號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c8cc81cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "650921",
+            "立法紀錄": "65卷76期935號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcec781c9cacac7c8c9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecccdd2cecccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcecfcfc5cbc9c8d2cbc8cc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1021205",
-            "立法紀錄": "102卷83期4108號 173-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c8cc81cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
+            "會議日期": "651006",
+            "立法紀錄": "66卷4期967號 16-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcec781c9c9cac7cfcbcfcfcfcdc4cfcfcec9c4cfcfcccd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 353-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c8cc81cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
+            "進度": "委員會審查",
+            "會議日期": "740612",
+            "立法紀錄": "74卷101期1899號 132-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcec781c8cbcecfcecfcfc4cfcecccdc4cfceccc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "741008",
+            "立法紀錄": "74卷81期1879號 27-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcec781c8cbcfc7cecfcfc4cfcfcdc8c4cfcfccca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5cecfc8d2cecfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfcccfcfc5cdcdcad2cdcccd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c8cc81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc7c8cc81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "741011",
+            "立法紀錄": "74卷82期1880號 12-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcec781c8cbcfc7cdcfcfc4cfcfcecdc4cfcfcecb",
             "關係文書": []
         }
     ]
