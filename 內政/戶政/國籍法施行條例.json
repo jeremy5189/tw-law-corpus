@@ -1,11 +1,12 @@
 {
     "title": "國籍法施行條例",
     "versions": [
-        "中華民國18年1月29日制定",
-        "中華民國18年2月5日公布"
+        "中華民國91年5月10日廢止",
+        "中華民國91年5月22日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -79,6 +80,47 @@
             "rule_no": "第十二條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「國籍法施行條例」自民國十八年二月五日公布施行至今已逾七十三年，其間並未曾修正，部分已不合時宜；且上開條例有關人民權利義務之實體部分已納入「國籍法」中；有關程序部分已於「國籍法施行細則」中予以規範。依中央法規標準法之規定，該施行條例應無繼續存在之必要，爰予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "910312",
+            "立法紀錄": "91卷16期3212號 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecec681c6cecec9cfcfc4cfcfcfc9c4cfcfcfc9",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcdcfcdc5cecbced2cecbca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "910415",
+            "立法紀錄": "91卷40期3236號四冊 301-301頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecec681c6cecbcfcfcbc4cfcccfcec4cfcccfce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 70-72頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecec681c6cecccccfcec4cfcfc8cfc4cfcfc8cd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfcdc5cbcac7d2cbc9cd"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 72-72頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecec681c6cecccccfcec4cfcfc8cdc4cfcfc8cd",
+            "關係文書": []
         }
     ]
 }
