@@ -1,11 +1,11 @@
 {
     "title": "漢翔航空工業股份有限公司設置條例",
     "versions": [
-        "中華民國108年12月6日廢止",
-        "中華民國108年12月31日公布"
+        "中華民國84年5月16日制定",
+        "中華民國84年5月31日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -76,45 +76,85 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　鑑於「漢翔航空工業股份有限公司設置條例」規範漢翔航空工業股份有限公司之組織、業務、人事、預算與決算、董事與監察人派任等事項，惟該公司已於103年8月21日移轉民營，並於103年8月25日股票上市，上述條例之規範事項應與一般民營上市公司所適用之法令規定無異，爰依「中央法規標準法」第21條第1項第2款：「法規規定之事項已執行完畢，或因情勢變遷，無繼續施行之必要者」之規定辦理廢止。",
+    "law_reasons": {
+        "第一條": "　　照黨團協商條文通過。",
+        "第二條": "　　照黨團協商條文通過。",
+        "第三條": "　　一、明定本公司業務項目。\n　　二、為有效運用能量，降低成本，並可藉以更新機具設備，而賦予生產及銷售任務。\n　　三、航發中心改制為國營事業公司非僅接受國軍單位之委製，為求事業永續經營與發展，民間與國際間委託計畫之承接或轉投資，均為未來努力爭取之業務。",
+        "第四條": "　　一、明定航發中心改制為國營事業公司，採公司組織，故設董事會、監察人，並明定董事、常務董事、董事長、監察人及常務監察人之產生方式。\n　　二、明定董事會及監察人設置辦法之核定程序。",
+        "第五條": "　　照黨團協商條文通過。",
+        "第六條": "　　一、第一項明定本公司配合改制後，置總經理一人。另基於國際航空工業機構對等立場，並考量航空工業特性，依業務功能與實際營運需要，置副總經理三人至七人。\n　　二、第二項明定總經理之任用及副總經理之聘用程序。",
+        "第七條": "　　一、第一項明定本公司董事長、常務監察人、總經理及代表官股之常務董事、董事、監察人，具有公務員身分，接受政府委任經營事業，對政府負有事業經營成敗之責，有關任派免、考核、獎懲、待遇、退休、撫卹、保險等事項，係依公司法及公務員有關法令規定辦理。\n　　二、明定副總經理以下從業人員，不適用公務員有關法令之規定，而適用「漢翔航空工業股份有限公司人事管理準則」。",
+        "第八條": "　　明定本公司為國營事業公司，因此依據預算法及決算法規定，應編製年度預算及決算。",
+        "第九條": "　　照黨團協商條文通過。",
+        "第十條": "　　照黨團協商條文通過。",
+        "第十一條": "　　航發中心改制為國營事業公司，相關作業仍須時程辦理，故明定施行日期由行政院定之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1070309",
-            "立法紀錄": "107卷021期4545號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfc9cec9ce81cecfc8cfcdcecfcec4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "830318",
+            "立法紀錄": "83卷17期2691號上冊 400-400頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9caceca81c7cccec8cfcec4cfcbcfcfc4cfcbcfcf",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090501:LCEWA01_090501_00046"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccfc8cfcdc5cacdccd2cacccf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1081118",
-            "立法紀錄": "108卷096期4739號二冊 199-223頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfc9cec9ce81cecfc7cfc6c9cfcdc4cfcec6c6c4cfcdcdcc",
+            "會議日期": "830504",
+            "立法紀錄": "83卷33期2707號下冊 173-214頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9caceca81c7cccccccfccc4cfcec8ccc4cfcdcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830609",
+            "立法紀錄": "83卷44期2718號 357-358頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9caceca81c7cccbcbcfcfc4cfcccac8c4cfcccac7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1081206",
-            "立法紀錄": "108卷101期4744號一冊 84-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfc9cec9ce81cecfc7cecfcecfcec4cfcfc7cbc4cfcfc7c8",
+            "會議日期": "840509",
+            "立法紀錄": "84卷28期2785號 58-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9caceca81c7cbcdc7cfcfc4cfcfcac7c4cfcfc8ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090813:LCEWA01_090813_00272"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdc8cfcec5cdc9cdd2cdc8ce"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "840512",
+            "立法紀錄": "84卷29期2786號上冊 22-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9caceca81c7cbcdc6cfcec4cfcfcdcdc4cfcfcdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840512",
+            "立法紀錄": "84卷29期2786號上冊 23-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9caceca81c7cbcdc6cfcec4cfcfcdccc4cfcfcbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840516",
+            "立法紀錄": "84卷30期2787號 32-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9caceca81c7cbcccfcfcfc4cfcfcccdc4cfcfccc6",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1081206",
-            "立法紀錄": "108卷101期4744號一冊 87-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfc9cec9ce81cecfc7cecfcecfcec4cfcfc7c8c4cfcfc7c8",
+            "會議日期": "840516",
+            "立法紀錄": "84卷30期2787號 39-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9caceca81c7cbcccfcfcfc4cfcfccc6c4cfcfcbcf",
             "關係文書": []
         }
     ]
