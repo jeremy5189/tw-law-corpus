@@ -1,8 +1,8 @@
 {
     "title": "國民大會代表報酬及費用支給條例",
     "versions": [
-        "中華民國81年7月17日制定",
-        "中華民國81年8月3日公布"
+        "中華民國86年5月31日修正",
+        "中華民國86年6月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,13 +12,19 @@
         {
             "note": "(立法依據)",
             "rule_no": "第一條",
-            "content": "　　國民大會代表報酬及費用之支給，依據司法院釋字第二八二號暨第二九九號解釋，特制定本條例。",
+            "content": "　　國民大會代表報酬及費月之支給，依據司法院釋字第二八二號、第二九九號及第四二一號解釋，特制定本條例。",
             "relates": {}
         },
         {
             "note": "(集會期間報酬支領標準)",
             "rule_no": "第二條",
-            "content": "　　國民大會依法集會期間得支領之報酬，比照相當政務官每月支領待遇之標準發給出席費。但兼具公職之代表，應擇一支給之。",
+            "content": "　　國民大會代表依法集會期間得支領之報酬，比照相當政務官每月支領待遇之標準發給出席費。但兼具公職之代表，應擇一支給之。",
+            "relates": {}
+        },
+        {
+            "note": "(正、副議長之待遇及特別費)",
+            "rule_no": "第二條 之一",
+            "content": "　　國民大會議長、副議長按相當職務人員支給月俸、政務加給之待遇及因公支出之特別費。",
             "relates": {}
         },
         {
@@ -30,7 +36,7 @@
         {
             "note": "(助理人員之聘用)",
             "rule_no": "第四條",
-            "content": "　　國民大會代表聘用助理人員一人，協助代表研究憲政及處理有關事宜。",
+            "content": "　　國民大會代表聘用助理人員二人，協助代表研究憲政及服務選民等有關事宜。",
             "relates": {}
         },
         {
@@ -48,92 +54,43 @@
         {
             "note": "(施行日)",
             "rule_no": "第七條",
-            "content": "　　本條例自第二屆國民大會代表報到之日起實施。",
+            "content": "　　本條例自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條": "　　照修正動議條文通過。",
-        "第二條": "　　照修正動議條文通過。",
-        "第三條": "　　照修正動議條文通過。",
-        "第四條": "　　協助代表蒐集、整理資料。",
-        "第五條": "　　照修正動議條文通過。",
-        "第六條": "　　政府現正向全民保險方向辦理，同時給予國大代表合理的保障。",
-        "第七條": "　　規定本條例生效日期。"
+        "第一條": "　　增訂制定本條例之依據：司法院釋字第四二一號解釋。",
+        "第二條": "　　在國民大會下增列「代表」兩字，使條文意旨更明確。",
+        "第二條 之一": "　　一、本條係新增。\n　　二、依據司法院釋字第四二一號解釋意旨增訂。",
+        "第四條": "　　聘用助理人員「一人」，修正為「二人」，「處理」修正為「服務選民等」。",
+        "第七條": "　　現行規定已無必要，依一般體例修正本條例之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "810505",
-            "立法紀錄": "81卷37期2565號 3-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc881c7cecfccc8cfcfc4cfcfcfccc4cfcfcfc7",
+            "會議日期": "860509",
+            "立法紀錄": "86卷24期2916號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc681c7c9cdcbcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cec6cfcdc5cec8c7d2cec7cd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecacfcfc5cecdc6d2ceccce"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "810505",
-            "立法紀錄": "81卷37期2565號 46-47頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc881c7cecfccc8cfcfc4cfcfcbc9c4cfcfcbc8",
-            "主提案": "謝長廷",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdcfcfcfc5c8cdcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "810717",
-            "立法紀錄": "81卷58期2586號中冊 10-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc881c7cecfcac7cfcdc4cfcfcecfc4cfcfcecd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6ccc9cfcdc5cccdc7d2ccccce"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810624",
-            "立法紀錄": "81卷53期2581號下冊 68-91頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc881c7cecfcacccfccc4cfcfc9c7c4cfcfc6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810701",
-            "立法紀錄": "81卷55期2583號下冊 198-221頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc881c7cecfcacacfccc4cfcec6c7c4cfcdcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "870717",
-            "立法紀錄": "81卷58期2586號中冊 95-99頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc881c7cecfcac7cfcdc4cfcfc6cac4cfcfc6c6",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "870717",
-            "立法紀錄": "81卷58期2586號中冊 99-99頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc881c7cecfcac7cfcdc4cfcfc6c6c4cfcfc6c6",
+            "會議日期": "860531",
+            "立法紀錄": "86卷31期2923號上冊 332-341頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc681c7c9cccecfcec4cfcccccdc4cfcccbce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "870717",
-            "立法紀錄": "81卷58期2586號中冊 99-99頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc881c7cecfcac7cfcdc4cfcfc6c6c4cfcfc6c6",
+            "會議日期": "860531",
+            "立法紀錄": "86卷31期2923號上冊 341-342頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc681c7c9cccecfcec4cfcccbcec4cfcccbcd",
             "關係文書": []
         }
     ]
