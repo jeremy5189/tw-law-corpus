@@ -1,8 +1,8 @@
 {
     "title": "鄉鎮市調解條例",
     "versions": [
-        "中華民國83年10月27日修正",
-        "中華民國83年11月9日公布"
+        "中華民國84年6月13日修正",
+        "中華民國84年6月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -31,6 +31,12 @@
             "note": "(鄉鎮市長不兼任原則)",
             "rule_no": "第四條",
             "content": "　　鄉、鎮、市長不得兼任調解委員。",
+            "relates": {}
+        },
+        {
+            "note": "(民意代表之兼任)",
+            "rule_no": "第四條 之一",
+            "content": "　　民意代表得兼任調解委員，其名額不得超過調解委員會人數三分之一。",
             "relates": {}
         },
         {
@@ -209,53 +215,46 @@
         }
     ],
     "law_reasons": {
-        "第三十一條": "　　為使鄉鎮市調解委員會調解業務之推展，不因鄉、鎮、市公所經費短絀而陷於停頓；且為使中央主管機關能夠扶助地方調解委員會，疏減訟源，並促進地方和諧。由中央主管機關視其實際需要，補助其經費之不足，有明確之法律依據起見，爰增列第二項規定，以期周延。"
+        "第四條 之一": "　　各鄉鎮市調解委員會於調解民事糾紛及告訴乃論之刑事事件成效良好。為使調解委員會之功能明確彰顯且不致於萎縮，爰明定民意代表得兼任調解委員。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "801121",
-            "立法紀錄": "80卷95期2519號 41-42頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec981c7cfcfc6cacfcfc4cfcfcbcec4cfcfcbcd",
-            "主提案": "洪昭男",
+            "會議日期": "840106",
+            "立法紀錄": "84卷3期2760號上冊 367-367頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec881c7cbcfcccfcec4cfccc9c8c4cfccc9c8",
+            "主提案": "林志嘉",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cecacfcfc5ccc9cad2ccc9c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcccfcfc5cac6c7d2cac6c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "810504",
-            "立法紀錄": "81卷38期2566號 256-263頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec981c7cecfccc7cfcfc4cfcdcac9c4cfcdc9cc",
+            "會議日期": "840109",
+            "立法紀錄": "84卷7期2764號 277-285頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec881c7cbcfc8cfcfc4cfcdc8c8c4cfcdc7ca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "820714",
-            "立法紀錄": "83卷65期2739號上冊 50-54頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec981c7ccc9cacfcec4cfcfcacfc4cfcfcacb",
+            "會議日期": "840613",
+            "立法紀錄": "84卷37期2794號 40-45頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec881c7cbccc8cfcfc4cfcfcbcfc4cfcfcbca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cccccdd2ccccca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdc9cfcec5cacbc8d2cacacd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831027",
-            "立法紀錄": "83卷69期2743號上冊 41-41頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec981c7ccc9c6cfcec4cfcfcbcec4cfcfcbce",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "831027",
-            "立法紀錄": "83卷69期2743號上冊 41-42頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec981c7ccc9c6cfcec4cfcfcbcec4cfcfcbcd",
+            "會議日期": "840613",
+            "立法紀錄": "84卷37期2794號 45-45頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccecec881c7cbccc8cfcfc4cfcfcbcac4cfcfcbca",
             "關係文書": []
         }
     ]
