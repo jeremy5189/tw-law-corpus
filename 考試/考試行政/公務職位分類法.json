@@ -1,12 +1,12 @@
 {
     "title": "公務職位分類法",
     "versions": [
-        "中華民國58年7月29日全文修正",
-        "中華民國58年8月25日公布"
+        "中華民國62年10月26日修正",
+        "中華民國62年11月6日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　職位應依工作之性質、繁簡難易、責任輕重及所需資格條件，予以分類。",
+            "content": "　　職位應依工作之性質、繁簡難易、責任輕重及所需資格條件，予以分類。但左列機關得不予分類：\n　　一、司法機關。\n　　二、外交機關。\n　　三、警察機關。\n　　四、衛生機關。\n　　五、民意機關。\n　　六、其他經立法程序規定不宜分類機關。",
             "relates": {}
         },
         {
@@ -100,65 +100,82 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　查政府機關自民國五十八年開始分批實施職位分類以來，迄今已三年，惟查司法、外交、警察、衛生、民意等機關，其業務性質特殊，各有事實困難，不宜實施職位分類，爰修正本條後半段，增列但書，列舉不分機關。若將來或仍有不宜實施之機關，故增列「其他經立法程序規定不宜分類機關」一款，藉資適應。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580613",
-            "立法紀錄": "58卷44期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c981cac7cbcccbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "611229",
+            "立法紀錄": "61卷103期556號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cecacfcecfcccfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcccfcfc5cac7d2cececb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcccfcfc5cecec7d2cecdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580709",
-            "立法紀錄": "58卷60期號 9-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c981cac7cbccc9cfcfcfcfcdc4cfcfcfc6c4cfcfcdcd",
+            "會議日期": "620106",
+            "立法紀錄": "62卷22期578號 27-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacecdcdcfcfcfcdc4cfcfcdc8c4cfcfccca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580716",
-            "立法紀錄": "58卷66期號 4-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c981cac7cbccc9c9cfcfc4cfcfcfcbc4cfcfcdca",
+            "會議日期": "620110",
+            "立法紀錄": "62卷23期579號 17-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacecdcccfcfcfcdc4cfcfcec8c4cfcfcdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620117",
+            "立法紀錄": "62卷24期580號 19-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacecdcbcfcfcfcdc4cfcfcec6c4cfcfcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620711",
+            "立法紀錄": "62卷82期638號 1-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cdcfcfcfcdc4cfcfcfcec4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620721",
+            "立法紀錄": "62卷82期638號 15-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cdcfcfcfcdc4cfcfcecac4cfcfcec6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "580722",
-            "立法紀錄": "58卷55期號 2-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c981cac7cbcccacacfcfcfcec4cfcfcfcdc4cfcfcdc7",
+            "會議日期": "621023",
+            "立法紀錄": "62卷81期637號 13-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cecfcfcfcec4cfcfceccc4cfcfccc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcbcfcfc5cecbced2cecac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcdcfcfc5cdc7c6d2cdc6cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "580722",
-            "立法紀錄": "58卷55期號 28-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c981cac7cbcccacacfcfcfcec4cfcfcdc7c4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "580725",
-            "立法紀錄": "58卷56期號 2-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c981cac7cbcccac9cfcfcfcec4cfcfcfcdc4cfcfcfcb",
+            "會議日期": "621023",
+            "立法紀錄": "62卷81期637號 38-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cecfcfcfcec4cfcfccc7c4cfcfccc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "580729",
-            "立法紀錄": "58卷57期號 2-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c981cac7cbcccac8cfcfc4cfcfcfcdc4cfcfcfca",
+            "會議日期": "621026",
+            "立法紀錄": "62卷82期638號 9-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9c881c9cdcacdc7cdcfcfcfcec4cfcfcfc6c4cfcfcec9",
             "關係文書": []
         }
     ]
