@@ -1,8 +1,8 @@
 {
     "title": "監察法",
     "versions": [
-        "中華民國42年4月17日修正",
-        "中華民國42年4月30日公布"
+        "中華民國56年8月15日修正",
+        "中華民國56年8月28日公布"
     ],
     "types": [
         "立法歷程",
@@ -56,19 +56,19 @@
         {
             "note": "(彈劾案之提議方式)",
             "rule_no": "第七條",
-            "content": "　　彈劾案之提議，以書面為之，並應詳敘事實。",
+            "content": "　　彈劾案之提議，以書面為之，並應詳敘事實，在未經審查決定前，原提案委員得以書面補充之。",
             "relates": {}
         },
         {
             "note": "(彈劾案之提出)",
             "rule_no": "第八條",
-            "content": "　　彈劾案經提議後，在未經審查決定前，原提案委員得以書面補充事實。\n　　彈劾案向懲戒機關提出後，於同一案件如發現新事實或證據經審查後，應送懲戒機關併案辦理。",
+            "content": "　　彈劾案經提案委員外之監察委員九人以上之審查及決定成立後，監察院應即向懲戒機關提出之。彈劾案向懲戒機關提出後，於同一案件如發現新事實或新證據，經審查後，應送懲戒機關併案辦理。",
             "relates": {}
         },
         {
             "note": "(彈劾案審查之輪值)",
             "rule_no": "第九條",
-            "content": "　　彈劾案經提案委員外之監察委員九人以上之審查及決定成立後，監察院應即向懲戒機關提出之。\n　　彈劾案之審查，應由全體監察委員按序輪流擔任。",
+            "content": "　　彈劾案之審查，應由全體監察委員按序輪流擔任之。",
             "relates": {}
         },
         {
@@ -228,36 +228,35 @@
     ],
     "law_history": [
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420414",
-            "立法紀錄": "42卷11期號4冊 9-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7cb81cbcdcececfcbc4cfcfcfc6c4cfcfcec9",
+            "進度": "一讀",
+            "會議日期": "551223",
+            "立法紀錄": "55卷38期號10冊 58-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7c981cacaccc7cecfcfcfc4cfcfcac7c4cfcfcac7",
+            "主提案": "監察院",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cec7ccd2cec6ce"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc7cfcccfcfc5cecdc6d2ceccce"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420414",
-            "立法紀錄": "42卷11期號4冊 25-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7cb81cbcdcececfcbc4cfcfcdcac4cfcfcdc9",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "420414",
-            "立法紀錄": "42卷11期號4冊 26-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7cb81cbcdcececfcbc4cfcfcdc9c4cfcfcdc7",
-            "關係文書": []
+            "會議日期": "560811",
+            "立法紀錄": "56卷4期號8冊 1110-1111頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7c981cac9ccc6cfc7cfcbc4cecececfc4cececece",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcdcfcfc5ceccd2cec9"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "420417",
-            "立法紀錄": "42卷11期號4冊 29-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7cb81cbcdcececfcbc4cfcfcdc6c4cfcfcccc",
+            "會議日期": "560815",
+            "立法紀錄": "56卷5期號8冊 1145-1145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7c981cac9ccc6cfc7cfcac4cececbcac4cececbca",
             "關係文書": []
         }
     ]
