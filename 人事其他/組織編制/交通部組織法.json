@@ -1,8 +1,8 @@
 {
     "title": "交通部組織法",
     "versions": [
-        "中華民國84年1月10日修正",
-        "中華民國84年1月13日公布"
+        "中華民國87年5月28日修正",
+        "中華民國87年6月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -143,6 +143,12 @@
         },
         {
             "note": "",
+            "rule_no": "第二十二條 之一",
+            "content": "　　交通部設政風處，置處長一人，職務列簡任第十二職等；副處長一人，兼任，依法辦理政風事項；其餘所需工作人員，就本法所定員額內派充之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第二十三條",
             "content": "　　交通部設會計處，置會計長一人，職務列簡任第十二職等；副會計長一人，職務列簡任第十一職等；依法辦理歲計、會計事項；其餘所需工作人員，就本法所定員額內派充之。",
             "relates": {}
@@ -191,57 +197,46 @@
         }
     ],
     "law_reasons": {
-        "第二十條": "　　交通部主管全國交通行政及交通事業，包括郵政、電信、公路、鐵路、捷運、航空、水運、港埠、氣象、觀光等，業務至為廣泛繁重，爰增列常務次長一人，以應業務需要。",
-        "第二十一條": "　　一、由於交通部業務性質多屬政策規劃與設計，亟需中、上級人員較多，爰將原編制員額減列，調整酌增秘書三人、科長六人、視查二人至四人、專員五人至七人、編審二人，以應業務需要。\n　　二、依據考試院所定「職務列等表」之規定，修正各相關職務之列等。",
-        "第二十二條": "　　配合政風機構人員設置條例之規定，爰將現行人事查核事項之規定刪除。",
-        "第二十三條": "　　一、配合一般立法體例，將會計處及統計處設置之規定分列為二條文。\n　　二、統計處設置之規定移列為第二十三條之一。",
-        "第二十三條 之一": "　　一、本條係新增。\n　　二、配合一般立法體例，將統計處設置之規定改為單列條文。"
+        "第二十二條 之一": "　　一、本條係新增。\n　　二、配合「政風機構人員設置條例」規定增設政風處，積極推動政風工作，加強執行重大交通建設計畫防制弊端之任務、預防暨發掘貪瀆不法情事、處理檢舉事項及財產申報等業務。\n　　三、增置政風處處長一人。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830118",
-            "立法紀錄": "83卷7期2681號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c981c7cccfc8cfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "840421",
+            "立法紀錄": "84卷24期2781號上冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c881c7cbcdcbcfcec4cfcfcfcec4cfcfcfce",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcdcccfcec5cecec9d2cecdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacecccfcec5cecccdd2ceccc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "831017",
-            "立法紀錄": "83卷68期2742號 350-360頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c981c7ccc9c7cfcfc4cfcccacfc4cfccc9cf",
+            "會議日期": "860515",
+            "立法紀錄": "86卷28期2920號 297-318頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c881c7c9cdc7cfcfc4cfcdc6c8c4cfcccec7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "840110",
-            "立法紀錄": "84卷4期2761號 37-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c981c7cbcfcbcfcfc4cfcfccc8c4cfcfcbc7",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "870528",
+            "立法紀錄": "87卷31期2980號上冊 220-224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c881c7c8cccecfcec4cfcdcdcfc4cfcdcdcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcecfcec5c9cacad2c9c9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcecccfcec5c9cbc7d2c9cacd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840110",
-            "立法紀錄": "84卷4期2761號 48-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c981c7cbcfcbcfcfc4cfcfcbc7c4cfcfc9cd",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "840110",
-            "立法紀錄": "84卷4期2761號 62-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c981c7cbcfcbcfcfc4cfcfc9cdc4cfcfc9cd",
+            "會議日期": "870528",
+            "立法紀錄": "87卷31期2980號上冊 224-224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc6c8c881c7c8cccecfcec4cfcdcdcbc4cfcdcdcb",
             "關係文書": []
         }
     ]
