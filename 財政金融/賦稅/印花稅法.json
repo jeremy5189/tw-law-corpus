@@ -1,8 +1,8 @@
 {
     "title": "印花稅法",
     "versions": [
-        "中華民國75年1月7日修正",
-        "中華民國75年1月17日公布"
+        "中華民國82年7月9日修正",
+        "中華民國82年7月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -190,15 +190,15 @@
             "relates": {}
         },
         {
-            "note": "(裁定抗告)",
+            "note": "(刪除)",
             "rule_no": "第二十七條",
-            "content": "　　本法之罰鍰，由主管徵收機關移送法院以裁定行之。法院裁定後，應酌定期限，令受罰人繳納；逾期不繳者，依法強制執行之。\n　　前項裁定，主管徵收機關或受罰人不服時，得於接到法院裁定通知書十日內提出抗告。但不得再抗告。受罰人提出抗告時，應先向主管徵收機關提繳應納罰鍰半數之保證金。\n　　前項裁定或抗告，自受理之日起，十五日內處理之。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
-            "note": "(違反本法憑證之處罰)",
+            "note": "(刪除)",
             "rule_no": "第二十八條",
-            "content": "　　各級法院審理案件時，發覺違反本法之憑證，應即移由管轄法院依本法之規定裁罰之。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -225,57 +225,61 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　一、本條第一款規定之營業發票，其印花稅係附隨於營業稅自動報繳，已形同營業稅之附加稅，因而發生重複課稅及稅上加稅之現象，具有與按營業收入毛額課徵之營業稅制相同之缺點，為配合新制（改按進銷項差額課徵）之施行，爰將本條第一款營業發票課徵印花稅之規定予以刪除。\n　　二、由於營業發票多兼具銀錢收據性質，而部分銀錢收據亦兼有營業發票性質，本法第五條第一款及第七條第一款刪除後，兼具營業發票性質之銀錢收據，及銀錢收據中具有營業發票性質者均不宜列入課徵印花稅範圍，爰增列但書規定，以杜適用上爭議。",
-        "第七條": "　　一、為配合第五條之修正，爰將本條第一款營業發票課徵印花稅稅率之規定予以刪除。\n　　二、本條第二款第二目之糧食業出售糧食所開收據，屬小規模營業人開立具有營業發票性質之收據，依新增之第五條第二款但書規定，已非印花稅法課徵之範圍，爰配合刪除。\n　　三、其餘第三款至第五款未修正。",
-        "第十九條": "　　第五條及第七條修正後，營業發票已非課徵印花稅之憑證，自不發生同一交易開立統一發票及銀錢收據應黏附使用，否則應分別貼花問題，爰將本條刪除。",
-        "第三十一條": "　　本法此次係配合修正營業稅法之施行而為之修正，修正條文自應與修正營業稅法同日施行，方能相互配合。惟本法此次僅係部分條文修正，關於施行日期之規定，為求明確，爰參仿民法總則施行法第十九條之例，於本條仍保留「本法自公布日施行」外，另列第二項「本法修正條文之施行日期，由行政院以命令定之。」"
+        "第二十七條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。",
+        "第二十八條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "741213",
-            "立法紀錄": "74卷100期1898號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc781c8cbcecfcfcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "810616",
+            "立法紀錄": "81卷49期2577號上冊 32-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc681c7cecfcbc6cfcec4cfcfcccdc4cfcfccc9",
+            "主提案": "吳梓",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9c8cfcfc9c5cacfcad2cacfc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdc8cfcfc5c8cfc8d2c8cecd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "820323",
+            "立法紀錄": "82卷15期2614號 69-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc681c7cdcecacfcfc4cfcfc9c6c4cfcfc8ce",
+            "主提案": "彭百顯",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c9cbc7d2c9c8ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "741219",
-            "立法紀錄": "75卷29期1931號 66-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc781c8cacfcdc6cfcfc4cfcfc9c9c4cfcfc8cd",
+            "會議日期": "820303",
+            "立法紀錄": "82卷12期2611號 282-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc681c7cdcecdcfcfc4cfcdc7cdc4cfcdc6c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "750103",
-            "立法紀錄": "75卷2期1904號 8-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc781c8cacfcfcdcfcfc4cfcfcfc7c4cfcfcecb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cecfcfcfc5cecbcad2cecacd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "750103",
-            "立法紀錄": "75卷2期1904號 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc781c8cacfcfcdcfcfc4cfcfcecbc4cfcfcecb",
+            "進度": "委員會審查",
+            "會議日期": "820407",
+            "立法紀錄": "82卷22期2621號下冊 180-202頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc681c7cdcdcdcfccc4cfcec7cfc4cfcdcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "750107",
-            "立法紀錄": "75卷3期1905號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc781c8cacfcfcccfcfc4cfcfcfcbc4cfcfcfca",
-            "關係文書": []
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 56-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cdc681c7cdcbc9cfccc4cfcfcac9c4cfcfc7ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cec7cdd2cdcfc8"
+                ]
+            ]
         }
     ]
 }
