@@ -1,12 +1,11 @@
 {
     "title": "中華民國三十八年愛國公債條例",
     "versions": [
-        "中華民國62年3月30日廢止",
-        "中華民國62年4月11日公布"
+        "中華民國39年4月25日制定",
+        "中華民國38年7月23日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -98,37 +97,6 @@
             "rule_no": "第十五條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　民國三十八年愛國公債條例係於38年7月23日公布，同年8月1日起發行依其所定還本付息期限，自開付之日起，按決算法規定計算至當年會計年度終了後五年止，應至民國61年6月30日方能終止兌付，嗣因國外發售部分未償還之本息為數尚多，為順應僑情爭取向心經擬不分期次一律延長兌付期限，至61年底止。呈奉行政院61年5月9日臺財字第4403號令核准，現該債兌付期限業經屆滿，本條例已執行完畢，依法爰予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "620226",
-            "立法紀錄": "62卷7期563號 65-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8cc81c9cdcacfcfc8cfcfc4cfcfc9cac4cfcfc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620307",
-            "立法紀錄": "62卷25期581號 22-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8cc81c9cdcacecdcacfcfcfcdc4cfcfcdcdc4cfcfcccf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620314",
-            "立法紀錄": "62卷26期582號 9-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8cc81c9cdcacecdc9cfcfcfcdc4cfcfcfc6c4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "620330",
-            "立法紀錄": "62卷23期579號 4-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8cc81c9cdcacecdcccfcfcfcec4cfcfcfcbc4cfcfcfc9",
-            "關係文書": []
         }
     ]
 }
