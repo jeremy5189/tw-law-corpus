@@ -1,12 +1,12 @@
 {
     "title": "教育部學術審議委員會組織條例",
     "versions": [
-        "中華民國102年12月31日廢止",
-        "中華民國103年1月15日公布"
+        "中華民國44年5月13日制定",
+        "中華民國44年5月27日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -76,59 +76,51 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　配合行政院組織改造作業，教育部學術審議委員會組織條例予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020226",
-            "立法紀錄": "102卷7期4032號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c7c881cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "440322",
+            "立法紀錄": "44卷15期號4冊 130-130頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccdc681cbcbcecacfcbc4cfcecccfc4cfcecccf",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececacfcecfcfc5cdc9cbd2cdc9c8"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1021205",
-            "立法紀錄": "102卷83期4108號 173-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c7c881cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
-            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 353-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c7c881cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
+            "會議日期": "440426",
+            "立法紀錄": "44卷15期號2冊 30-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccdc681cbcbcecacfcdc4cfcfcccfc4cfcfcccc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececacfcdcfcfc5cacfd2cacc"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "440426",
+            "立法紀錄": "44卷15期號2冊 58-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccdc681cbcbcecacfcdc4cfcfcac7c4cfcfc9cc",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c7c881cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "440510",
+            "立法紀錄": "44卷15期號2冊 66-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccdc681cbcbcecacfcdc4cfcfc9c9c4cfcfc8cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6c7c881cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "440513",
+            "立法紀錄": "44卷15期號2冊 86-89頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccdc681cbcbcecacfcdc4cfcfc7c9c4cfcfc7c6",
             "關係文書": []
         }
     ]
