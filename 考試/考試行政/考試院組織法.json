@@ -1,8 +1,8 @@
 {
     "title": "考試院組織法",
     "versions": [
-        "中華民國49年11月11日全文修正",
-        "中華民國49年11月21日公布"
+        "中華民國56年6月6日修正",
+        "中華民國56年6月19日公布"
     ],
     "types": [
         "立法歷程",
@@ -72,19 +72,19 @@
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　秘書處置秘書九人至十三人，其中六人簡任，餘薦任；科長三人至五人，薦任；科員九人至十一人委任，其中三人得為薦任；書記官及佐理員各六人至八人，委任；並得用雇員四人至六人。",
+            "content": "　　秘書處置秘書九人至十五人，其中七人簡任，餘薦任；科長六人，薦任；科員十一人至十八人委任，其中五人得為薦任；書記官及佐理員各三人至五人，委任；並得用雇員九人至十六人。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　考試院置參事六人至八人，簡任；掌理關於考選、銓敘等法案、命令之撰擬、審核事項。",
+            "content": "　　考試院置參事六人至九人，簡任；掌理關於考選、銓敘等法案、命令之撰擬、審核事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　考試院得置專門委員三人至五人，簡派；專員四人至六人，薦派。",
+            "content": "　　考試院置編纂三人，簡聘；編譯三人，薦派；專門委員三人至六人，簡派；專員四人至七人，薦派。",
             "relates": {}
         },
         {
@@ -127,105 +127,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "490517",
-            "立法紀錄": "49卷25期號10冊 73-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdcacecfc4cfcfc8ccc4cfcfc8c9",
-            "主提案": "吳延環",
+            "會議日期": "560224",
+            "立法紀錄": "56卷39期號1冊 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc781cac9ccc6cfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcdcfcfc5cecbc8d2cecacf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "490628",
-            "立法紀錄": "49卷25期號11冊 36-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdcacecec4cfcfccc9c4cfcfccc9",
-            "主提案": "考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcdcfcfc5cbcdcad2cbcccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcecfcfc5cdcfcbd2cdcfc7"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "491104",
-            "立法紀錄": "49卷26期號6冊 4-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdc9cfc9c4cfcfcfcbc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "490729",
-            "立法紀錄": "49卷25期號14冊 17-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdcacecbc4cfcfcec8c4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "490829",
-            "立法紀錄": "49卷25期號15冊 8-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdcacecac4cfcfcfc7c4cfcfcece",
-            "關係文書": []
+            "會議日期": "560606",
+            "立法紀錄": "56卷2期號6冊 316-318頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc781cac9ccc6cfc9cfcdc4cfcccec9c4cfcccec7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcdcfcfc5cdcccdd2cdccc9"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "490829",
-            "立法紀錄": "49卷25期號15冊 11-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdcacecac4cfcfcecec4cfcfcccf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491014",
-            "立法紀錄": "49卷26期號4冊 28-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdc9cfcbc4cfcfcdc7c4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491021",
-            "立法紀錄": "54卷26期號4冊 36-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdc9cfcbc4cfcfccc9c4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491028",
-            "立法紀錄": "49卷26期號5冊 18-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdc9cfcac4cfcfcec7c4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491028",
-            "立法紀錄": "49卷26期號5冊 52-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdc9cfcac4cfcfcacdc4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491104",
-            "立法紀錄": "49卷26期號6冊 28-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdc9cfc9c4cfcfcdc7c4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "491104",
-            "立法紀錄": "49卷26期號6冊 35-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdc9cfc9c4cfcfcccac4cfcfccc6",
+            "會議日期": "560606",
+            "立法紀錄": "56卷2期號6冊 318-321頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc781cac9ccc6cfc9cfcdc4cfcccec7c4cfcccdce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "491111",
-            "立法紀錄": "49卷26期號6冊 41-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc881cbc6cdc9cfc9c4cfcfcbcec4cfcfcbcc",
+            "會議日期": "560606",
+            "立法紀錄": "56卷2期號6冊 321-321頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccccc781cac9ccc6cfc9cfcdc4cfcccdcec4cfcccdce",
             "關係文書": []
         }
     ]
