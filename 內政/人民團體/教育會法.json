@@ -1,12 +1,12 @@
 {
     "title": "教育會法",
     "versions": [
-        "中華民國74年5月21日全文修正",
-        "中華民國74年6月5日公布"
+        "中華民國91年4月2日修正",
+        "中華民國91年4月24日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -28,7 +28,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　教育會主管機關：在中央為內政部；在省（市）為省（市）政府社會處（局）；在縣（市）為縣（市）政府。\n　　教育會之目的事業應受教育部或各省（市）、縣（市）主管教育行政機關之指導、監督。",
+            "content": "　　教育會之主管機關：在中央為內政部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。\n　　教育會之目的事業，應受教育部或各直轄市、縣（市）主管教育行政機關之指導、監督。",
             "relates": {}
         },
         {
@@ -74,7 +74,7 @@
         {
             "note": "(縣、市教育會之發起組織)",
             "rule_no": "第十條",
-            "content": "　　縣（市）教育會之設立，應由該區域內五個以上鄉（鎮、市、區）教育會發起組織之。但有特殊情形經省（市）主管機關核准者不在此限。",
+            "content": "　　縣（市）教育會之設立，應由該區域內五個以上鄉（鎮、市、區）教育會發起組織之。但有特殊情形經中央主管機關核准，不在此限。",
             "relates": {}
         },
         {
@@ -314,7 +314,7 @@
         {
             "note": "(施行細則)",
             "rule_no": "第四十六條",
-            "content": "　　本法施行細則，由內政部會同教育部定之。",
+            "content": "　　本法施行細則，由中央主管機關會同教育部定之。",
             "relates": {}
         },
         {
@@ -324,79 +324,44 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　一、第一項刪除主管機關在省為省政府社會處之規定，另配合地方制度法之施行，提升直轄市主管機關之層級為「直轄市政府」。\n　　二、第二項刪除省主管教育行政機關指導、監督教育會之目的事業之規定。",
+        "第十條": "　　將但書中省主管機關於特殊情形核准設立縣（市）教育會之規定，改由中央主管機關核准；另本條係在規定縣（市）教育會之設立，與直轄市主管機關無涉，爰併將轄市主管機關核准之規定刪除。",
+        "第四十六條": "　　將「內政部」配合其他條文用語，修正為「中央主管機關」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "720701",
-            "立法紀錄": "72卷53期1642號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cdc8cecacccfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 8-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdca81c6cecdcecfcec4cfcfcfc7c4cfcfcfc7",
             "主提案": "行政院",
             "關係文書": [
                 [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc7cfcfc5c9c6cdd2c8cecc"
+                    "null",
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcacfcecfc8cecfcace"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "730517",
-            "立法紀錄": "73卷75期1769號 52-61頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cccfc8cacfcfc4cfcfcacdc4cfcfc9ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "731107",
-            "立法紀錄": "74卷7期1805號 11-19頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cbcfcfc8cfcfc4cfcfcecec4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "731117",
-            "立法紀錄": "74卷12期1810號 29-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cbcfcecdcfcfc4cfcfcdc6c4cfcfccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "731122",
-            "立法紀錄": "74卷14期1812號 7-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cbcfcecbcfcfc4cfcfcfc8c4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "731126",
-            "立法紀錄": "74卷15期1813號 2-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cbcfcecacfcfc4cfcfcfcdc4cfcfcfc6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 100-101頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdca81c6cecdcecfcec4cfcecfcfc4cfcecfce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "740517",
-            "立法紀錄": "74卷40期1838號 28-63頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cbcfcbcfcfcfc4cfcfcdc7c4cfcfc9cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfc9cfcfc5c6c9ccd2c6c6c6"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "740517",
-            "立法紀錄": "74卷40期1838號 63-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cbcfcbcfcfcfc4cfcfc9ccc4cfcfc9c6",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 108-109頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdca81c6cecdcecfcec4cfcecfc7c4cfcecfc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "740521",
-            "立法紀錄": "74卷41期1839號 14-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdcb81c8cbcfcbcecfcfc4cfcfcecbc4cfcfcdcf",
+            "會議日期": "910402",
+            "立法紀錄": "91卷21期3217號上冊 128-129頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdca81c6cecdcecfcec4cfcecdc7c4cfcecdc6",
             "關係文書": []
         }
     ]
