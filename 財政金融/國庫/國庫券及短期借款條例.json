@@ -1,8 +1,8 @@
 {
     "title": "國庫券及短期借款條例",
     "versions": [
-        "中華民國74年5月7日修正",
-        "中華民國74年5月20日公布"
+        "中華民國76年11月10日修正",
+        "中華民國76年11月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,7 +18,7 @@
         {
             "note": "(國庫券償還之期限)",
             "rule_no": "第二條",
-            "content": "　　國庫券償還期限，每期不得超過三百六十四天。其未償還之總餘額，不得超過當年度中央政府總預算歲出總額百分之二十五。但其中用於調節國庫收支者，不得超過百分之五。",
+            "content": "　　國庫券償還期限，每期不得超過三百六十四天。其未償還之總餘額，不得超過當年度中央政府總預算歲出總額百分之五十。但其中用於調節國庫收支者，不得超過百分之十。",
             "relates": {}
         },
         {
@@ -95,53 +95,53 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　將國庫券償還期限，最長自現行二百七十天修正為三百六十四天，以增加中央銀行公開市場操作工具，強化金融調節功能，另可配合作為本部今後為調節國庫收支而發行國庫券之法律依據。"
+        "第二條": "　　一、近年來，由於對外貿易持續順差，外匯存底累積日豐，貨幣供給大幅增加，造成物價上漲潛在壓力，乃由中央銀行藉發行國庫券為短期信用工具，以調節金融，用資收縮通貨。\n　　二、國庫券具有高度變現性，為銀行調節準備部位之最佳流動資產，且國庫券經由公開標售所產生之利率亦為重要金融指標之一。茲為擴大中央銀行藉發行國庫券，以穩定金融，並強化國庫調度功能，其發行限額允宜提高，爰修正提高未償還總餘額上限為百分之五十，其中用於調節國庫收支者，不得超過百分之十。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "731113",
-            "立法紀錄": "73卷91期1785號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcdc681c8cccfc6cecfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "761006",
+            "立法紀錄": "76卷80期2087號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcccf81c8c9cfc7cfcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfcbcfcfc5cac7ced2cac7cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cfcfcccfcfc5c9c7d2c8ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "731215",
-            "立法紀錄": "74卷30期1828號 115-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcdc681c8cbcfcccfcfcfc4cfcececac4cfcecec9",
+            "會議日期": "761019",
+            "立法紀錄": "77卷22期2133號 225-228頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcccf81c8c8cfcdcdcfcfc4cfcdcdcac4cfcdcdc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "740507",
-            "立法紀錄": "74卷37期1835號 10-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcdc681c8cbcfccc8cfcfc4cfcfcecfc4cfcfceca",
+            "會議日期": "761110",
+            "立法紀錄": "76卷90期2097號 75-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcccf81c8c9cfc6cfcfcfc4cfcfc8cac4cfcfc8c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cacfcccfcfc5c6cac6d2c6c9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cfcfc7cfcfc5ccc7cfd2ccc7cd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "740507",
-            "立法紀錄": "74卷37期1835號 15-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcdc681c8cbcfccc8cfcfc4cfcfcecac4cfcfcec9",
+            "會議日期": "761110",
+            "立法紀錄": "76卷90期2097號 78-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcccf81c8c9cfc6cfcfcfc4cfcfc8c7c4cfcfc8c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "740507",
-            "立法紀錄": "74卷37期1835號 16-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcdc681c8cbcfccc8cfcfc4cfcfcec9c4cfcfcec9",
+            "會議日期": "761110",
+            "立法紀錄": "76卷90期2097號 78-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbcccf81c8c9cfc6cfcfcfc4cfcfc8c7c4cfcfc8c7",
             "關係文書": []
         }
     ]
