@@ -1,8 +1,8 @@
 {
     "title": "印花稅法",
     "versions": [
-        "中華民國42年5月22日全文修正",
-        "中華民國42年6月6日公布"
+        "中華民國43年11月30日修正",
+        "中華民國43年12月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -305,41 +305,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "420428",
-            "立法紀錄": "42卷11期號6冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cec681cbcdcececfc9c4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "430406",
+            "立法紀錄": "43卷13期號3冊 174-174頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdce81cbcccecccfccc4cfcec8cbc4cfcec8cb",
+            "主提案": "臺灣省電器商業同業公會聯合會",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cac9c8d2cac8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5c9cccad2c9ccc7"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "420522",
-            "立法紀錄": "42卷11期號8冊 53-120頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cec681cbcdcececfc7c4cfcfcaccc4cfcecdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420519",
-            "立法紀錄": "42卷11期號8冊 156-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cec681cbcdcececfc7c4cfcecac9c4cfcec8cc",
+            "會議日期": "431130",
+            "立法紀錄": "44卷14期號5冊 149-151頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdce81cbcbcecbcfcac4cfcecbc6c4cfcecace",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cacfc7d2cac9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcdcfcfc5cacfc9d2cacfc8"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "431130",
+            "立法紀錄": "44卷14期號5冊 191-193頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdce81cbcbcecbcfcac4cfcec6cec4cfcec6cc",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "420522",
-            "立法紀錄": "42卷11期號8冊 177-190頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cec681cbcdcececfc7c4cfcec8c8c4cfcec6cf",
+            "會議日期": "431130",
+            "立法紀錄": "44卷14期號5冊 193-193頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdce81cbcbcecbcfcac4cfcec6ccc4cfcec6cc",
             "關係文書": []
         }
     ]
