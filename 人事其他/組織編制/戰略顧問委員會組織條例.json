@@ -1,10 +1,11 @@
 {
     "title": "戰略顧問委員會組織條例",
     "versions": [
-        "中華民國37年12月31日修正",
-        "中華民國38年1月15日公布"
+        "中華民國57年4月26日修正",
+        "中華民國57年5月9日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -23,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　戰略顧問委員會開會時，由主任委員召集之，並為會議時之主席；主任委員因事不能出席時，由副主任委員代理。",
+            "content": "　　戰略顧問委員會開會時，由主任召集之，並為會議時之主席；主任因事不能出席時，由副主任代理。",
             "relates": {}
         },
         {
@@ -49,6 +50,61 @@
             "rule_no": "第七條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "570312",
+            "立法紀錄": "57卷17期號 895-899頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecec8cfcfc4cfc7c6cac4cfc7c6c6",
+            "主提案": "余拯",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cdcfd2cdce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570323",
+            "立法紀錄": "57卷28期號 2554-2558頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecdc7cfcfc4cdcacacbc4cdcacac7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570406",
+            "立法紀錄": "57卷36期號 3090-3093頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbceccc9cfcfc4cccfc6cfc4cccfc6cc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "570426",
+            "立法紀錄": "57卷30期號 2707-2708頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecccfcfcfc4cdc8cfc8c4cdc8cfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5c8c9c7d2c8c8cf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "570426",
+            "立法紀錄": "57卷30期號 2708-2708頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecccfcfcfc4cdc8cfc7c4cdc8cfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "570426",
+            "立法紀錄": "57卷30期號 2708-2708頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcbc881cac8cbcecccfcfcfc4cdc8cfc7c4cdc8cfc7",
+            "關係文書": []
         }
     ]
 }
