@@ -1,12 +1,12 @@
 {
     "title": "警察法",
     "versions": [
-        "中華民國42年6月2日制定",
-        "中華民國42年6月15日公布"
+        "中華民國75年6月17日修正",
+        "中華民國75年7月2日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -96,7 +96,7 @@
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　中央設警官學校，為高級警察教育機關，各省（直轄市）設警察學校，為初級警察教育機關。",
+            "content": "　　中央設警官學校，各省（市）設警察專科學校或警察學校。\n　　前項警察專科學校或警察學校，必要時得由中央設置或由省（市）聯合設置之。",
             "relates": {}
         },
         {
@@ -130,51 +130,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十五條": "　　一、為適應現況需要，第一項增列「警察專科學校」，並仍保留「警察學校」。\n　　二、增列第二項，以與目前狀況相符。\n　　三、刪除高級、初級警察教育機關區分。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "420407",
-            "立法紀錄": "42卷11期號3冊 32-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfccc4cfcfcccdc4cfcfccc9",
-            "主提案": "陳祖貽",
+            "會議日期": "750516",
+            "立法紀錄": "75卷40期1942號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdca81c8cacfcbcfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cecdc9d2ceccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cecfcfcfc5cecbd2cec9"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "420410",
-            "立法紀錄": "42卷11期號4冊 20-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfcbc4cfcfcdcfc4cfcfcdcc",
+            "進度": "委員會審查",
+            "會議日期": "750612",
+            "立法紀錄": "75卷72期1974號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdca81c8cacfc8cdcfcfc4cfcfcfcdc4cfcfcfcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "420529",
-            "立法紀錄": "42卷11期號9冊 62-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfc6c4cfcfc9cdc4cfcfc8c8",
+            "會議日期": "750617",
+            "立法紀錄": "75卷49期1951號 23-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdca81c8cacfcbc6cfcfc4cfcfcdccc4cfcfcdca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5c6d2cecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cecdcfcfc5c9c7ced2c9c7cc"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "420529",
-            "立法紀錄": "42卷11期號9冊 126-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfc6c4cfcecdc9c4cfcecccf",
+            "會議日期": "750617",
+            "立法紀錄": "75卷49期1951號 25-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdca81c8cacfcbc6cfcfc4cfcfcdcac4cfcfcdc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "420602",
-            "立法紀錄": "42卷11期號9冊 147-152頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfc6c4cfcecbc8c4cfcecacd",
+            "會議日期": "750617",
+            "立法紀錄": "75卷49期1951號 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdca81c8cacfcbc6cfcfc4cfcfcdc9c4cfcfcdc9",
             "關係文書": []
         }
     ]
