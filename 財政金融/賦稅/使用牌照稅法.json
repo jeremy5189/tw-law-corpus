@@ -1,8 +1,8 @@
 {
     "title": "使用牌照稅法",
     "versions": [
-        "中華民國68年7月20日修正",
-        "中華民國68年8月1日公布"
+        "中華民國82年7月9日修正",
+        "中華民國82年7月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -238,15 +238,15 @@
             "relates": {}
         },
         {
-            "note": "(罰鍰之裁定)",
+            "note": "(刪除)",
             "rule_no": "第三十五條",
-            "content": "　　本法之罰鍰，由主管稽徵機關移送法院裁定，限期令受處分人繳納罰鍰及應納稅款，逾期不繳納者，由法院依法強制執行之。\n　　前項罰鍰案件，主管稽徵機關於移送法院裁定前，應以書面通知受處分人。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
-            "note": "(抗告)",
+            "note": "(刪除)",
             "rule_no": "第三十六條",
-            "content": "　　前條裁定，法院應於收受主管機關移送文書之日起七日內為之，主管稽徵機關或受處分人不服法院裁定時，得於接到法院裁定通知書十日內，提出抗告。但不得再抗告。\n　　受處分人提出抗告時，應先向主管稽徵機關提繳應納罰鍰，及應納稅款之半數保證金。但已依本法第二十三條規定繳納現金保證者，免再提繳。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -266,53 +266,75 @@
             "relates": {}
         }
     ],
-    "law_reasons": {},
+    "law_reasons": {
+        "第三十五條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。",
+        "第三十六條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680615",
-            "立法紀錄": "68卷48期1220號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9cccbc7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "810616",
+            "立法紀錄": "81卷49期2577號上冊 32-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cbc981c7cecfcbc6cfcec4cfcfcccdc4cfcfccc9",
+            "主提案": "吳梓",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcacfcfc5cec7cdd2cec7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdc8cfcfc5c8cfc8d2c8cecd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "810619",
+            "立法紀錄": "81卷50期2578號 23-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cbc981c7cecfcacfcfcfc4cfcfcdccc4cfcfcdca",
+            "主提案": "洪昭男",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdc7cfcfc5c9ceced2c9cecb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "820323",
+            "立法紀錄": "82卷15期2614號 69-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cbc981c7cdcecacfcfc4cfcfc9c6c4cfcfc8ce",
+            "主提案": "彭百顯",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c9cbc7d2c9c8ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "680627",
-            "立法紀錄": "68卷74期1246號 2-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9ccc8cbcfcfc4cfcfcfcdc4cfcfcfc6",
+            "會議日期": "820303",
+            "立法紀錄": "82卷12期2611號 282-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cbc981c7cdcecdcfcfc4cfcdc7cdc4cfcdc6c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "680717",
-            "立法紀錄": "68卷57期1229號 17-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9cccac8cfcfc4cfcfcec8c4cfcfcdca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5c9c8c9d2c9c7cc"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "680720",
-            "立法紀錄": "68卷58期1230號 3-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9cccac7cfcfc4cfcfcfccc4cfcfcfca",
+            "進度": "委員會審查",
+            "會議日期": "820407",
+            "立法紀錄": "82卷22期2621號下冊 180-202頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cbc981c7cdcdcdcfccc4cfcec7cfc4cfcdcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680720",
-            "立法紀錄": "68卷58期1230號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcb81c9c7c9cccac7cfcfc4cfcfcfcac4cfcfcfca",
-            "關係文書": []
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 56-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cbc981c7cdcbc9cfccc4cfcfcac9c4cfcfc7ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cec7cdd2cdcfc8"
+                ]
+            ]
         }
     ]
 }
