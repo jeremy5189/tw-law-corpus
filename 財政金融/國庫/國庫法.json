@@ -1,12 +1,12 @@
 {
     "title": "國庫法",
     "versions": [
-        "中華民國59年7月3日全文修正",
-        "中華民國59年7月15日公布"
+        "中華民國88年6月22日修正",
+        "中華民國88年7月7日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -172,9 +172,9 @@
             "relates": {}
         },
         {
-            "note": "(發行國庫券)",
+            "note": "(發行國庫券或借款)",
             "rule_no": "第二十八條",
-            "content": "　　政府為調節國庫收支，得發行國庫券，其發行以法律定之。",
+            "content": "　　政府為調節國庫收支，得發行國庫券或洽借未滿一年之借款；其發行或洽借，以法律定之。",
             "relates": {}
         },
         {
@@ -256,85 +256,47 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二十八條": "　　鑑於未滿一年之借款，亦為中央政府調節國庫收支工具之一，為靈活調節國庫收支，落實國庫調度工具多樣化，爰增列「或洽借未滿一年之借款」，並規定其洽借以法律定之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "590120",
-            "立法紀錄": "59卷5期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbcbcfcacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "850920",
+            "立法紀錄": "85卷44期2866號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbccca81c7cacbcbcfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcccfcfc5cbcfcad2cbccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "590616",
-            "立法紀錄": "59卷45期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbcacbcacfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcccfcfc5ccc9ced2ccc9cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcfcdcfcec5cdc7cdd2cdc6cc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "590325",
-            "立法紀錄": "59卷40期0號 26-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbcacbcfcfcfcfcdc4cfcfcdc9c4cfcfccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590528",
-            "立法紀錄": "59卷85期0號 19-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbc9c7cacfcfcfcdc4cfcfcec6c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590617",
-            "立法紀錄": "59卷86期0號 18-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbc9c7c9cfcfcfcdc4cfcfcec7c4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590619",
-            "立法紀錄": "59卷94期0號 13-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbc9c6cbcfcfcfcdc4cfcfceccc4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "590630",
-            "立法紀錄": "59卷49期0號 2-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbcacbc6cfcfcfcec4cfcfcfcdc4cfcfcacc",
+            "會議日期": "871028",
+            "立法紀錄": "87卷45期2994號 121-136頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbccca81c7c8cbcacfcfc4cfcecdcec4cfceccc9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "590630",
-            "立法紀錄": "59卷49期0號 53-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbcacbc6cfcfcfcec4cfcfcaccc4cfcfc8ce",
+            "會議日期": "880622",
+            "立法紀錄": "88卷37期3037號一冊 353-368頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbccca81c7c7ccc8cfcec4cfcccaccc4cfccc9c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcccfcfc5c8cfcbd2c8cac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5cdcdccd2cdccc9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "590703",
-            "立法紀錄": "59卷50期0號 2-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcccb81cac6cbcacacfcfcfcfcec4cfcfcfcdc4cfcfcecb",
+            "會議日期": "880622",
+            "立法紀錄": "88卷37期3037號一冊 368-368頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbccca81c7c7ccc8cfcec4cfccc9c7c4cfccc9c7",
             "關係文書": []
         }
     ]
