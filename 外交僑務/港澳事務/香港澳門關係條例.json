@@ -1,8 +1,8 @@
 {
     "title": "香港澳門關係條例",
     "versions": [
-        "中華民國87年5月28日修正",
-        "中華民國87年6月17日公布"
+        "中華民國92年10月9日修正",
+        "中華民國92年10月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -284,7 +284,13 @@
         {
             "note": "(港澳公司在臺營業者，準用公司法有關外國公司之規定)",
             "rule_no": "第四十一條",
-            "content": "　　香港或澳門之公司組織，在臺灣地區營業，準用公司法有關外國公司之規定。\n　　前項公司組織，如大陸地區人民、法人、團體或其他機構，持有其資本達百分之二十以上或參與達實質控制之程度者，得不予認許。經認許者，得撤銷之。",
+            "content": "　　香港或澳門之公司，在臺灣地區營業，準用公司法有關外國公司之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(大陸地區人民、法人或團體機構於港澳投資之公司，適用之相關規定)",
+            "rule_no": "第四十一條 之一",
+            "content": "　　大陸地區人民、法人、團體或其他機構於香港或澳門投資之公司，有臺灣地區與大陸地區人民關係條例第七十三條所定情形者，得適用同條例關於在臺投資及稅捐之相關規定。",
             "relates": {}
         },
         {
@@ -427,47 +433,61 @@
         }
     ],
     "law_reasons": {
-        "第二十四條": "　　一、增訂第三項。\n　　二、本條已規定港澳船舶得航行至台灣地區，但依商港法第二十五條、船舶法第四條規定，中華民國船舶應懸掛中華民國國旗、船舶入港出港應懸掛中華民國國旗。為避免因旗幟問題影響港、澳、台之間的通航，擬增訂例本項規定例外規定。\n　　三、因不懸掛旗幟乃屬特別情形，且僅適用於港澳地區，故以本條例內另為特別規定為當。"
+        "第四十一條": "　　兩岸人民關係條例修正條文已建立陸資來臺投資之許可制，並授權訂定許可辦法，以資規範。大陸地區人民、法人、團體、其他機構於香港、澳門投資之公司，應適用兩岸人民關係條例修正條文第七十三條之規定予以規範，本條第二項之限制規定，已不合時宜，爰配合刪除。",
+        "第四十一條 之一": "　　一、本條新增。\n　　二、香港、澳門公司在臺之投資及營業，依港澳關係條例第三十一條及第四十一條規定，準用外國人投資及公司法外國公司之規定，鑒於陸資來臺政策規劃，大陸地區人民、法人、團體或其他機構於香港或澳門投資之公司，有兩岸人民關係條例修正條文第七十三條所定情形者，應適用兩岸人民關係條例關於在臺投資及稅捐之相關規定，爰依本條例第一條第二項規定意旨增訂本條，以資明確。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "860418",
-            "立法紀錄": "86卷18期2910號上冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c881c7c9cec7cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "陳一新",
+            "會議日期": "910409",
+            "立法紀錄": "91卷24期3220號 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cecdcbcfcfc4cfcfcfc8c4cfcfcfc8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5cccfcfd2cccfcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cbcdcfd2cbcdcc"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "860516",
-            "立法紀錄": "86卷26期2918號上冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c881c7c9cdc9cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "傅崐成",
+            "進度": "委員會審查",
+            "會議日期": "910502",
+            "立法紀錄": "91卷44期3240號下冊 133-149頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cecbcbcfccc4cfceccccc4cfcecbc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 127-131頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cecccbcfcec4cfcecdc8c4cfceccce",
             "關係文書": [
                 [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcdcfcec5ccc7cfd2ccc7ce"
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececdcfcec5cbcfced2cbcfc8"
                 ]
             ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "920926",
+            "立法紀錄": "92卷40期3314號中冊 803-807頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cdcbcfcfcdc4cfc7cfccc4cfc7cfc8",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "870528",
-            "立法紀錄": "87卷31期2980號上冊 315-319頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c881c7c8cccecfcec4cfcccecac4cfcccec6",
+            "會議日期": "921009",
+            "立法紀錄": "92卷41期3315號 329-329頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cdcbcecfcfc4cfcccdc6c4cfcccdc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "870528",
-            "立法紀錄": "87卷31期2980號上冊 319-319頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c881c7c8cccecfcec4cfcccec6c4cfcccec6",
+            "會議日期": "921009",
+            "立法紀錄": "92卷41期3315號 329-329頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cdcbcecfcfc4cfcccdc6c4cfcccdc6",
             "關係文書": []
         }
     ]
