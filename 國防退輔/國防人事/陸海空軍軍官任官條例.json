@@ -1,12 +1,12 @@
 {
     "title": "陸海空軍軍官任官條例",
     "versions": [
-        "中華民國69年6月20日廢止",
-        "中華民國69年6月29日公布"
+        "中華民國45年4月13日制定",
+        "中華民國45年5月1日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -94,29 +94,70 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　陸海空軍軍官任官條例行之已久，難以適應現況需要，且士官之任官未經立法，今制定「陸海空軍軍官士官任官條例」以為適用，並將本法廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0690603",
-            "立法紀錄": "69卷45期1321號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccca81c9c6c9cacbcacfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "421118",
+            "立法紀錄": "42卷12期號4冊 44-45頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccb81cbcdcecdcfcbc4cfcfcbcbc4cfcfcbca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5c7cec9d2cfc7cec8df"
-                ],
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5c7cdc6d2c7cccc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cacccbd2caccc6"
                 ]
             ]
         },
         {
+            "進度": "一讀",
+            "會議日期": "440916",
+            "立法紀錄": "44卷16期號4冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccb81cbcbcec9cfcbc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5ceced2cecc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "450330",
+            "立法紀錄": "45卷17期號4冊 8-20頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccb81cbcacec8cfcbc4cfcfcfc7c4cfcfcdcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcecfcfc5c8cacdd2c8c9cf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "450330",
+            "立法紀錄": "45卷17期號4冊 34-39頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccb81cbcacec8cfcbc4cfcfcccbc4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "450330",
+            "立法紀錄": "45卷17期號4冊 40-43頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccb81cbcacec8cfcbc4cfcfcbcfc4cfcfcbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "450410",
+            "立法紀錄": "45卷17期號4冊 51-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccb81cbcacec8cfcbc4cfcfcacec4cfcfcac9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "690620",
-            "立法紀錄": "69卷50期1326號 12-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7ccca81c9c6c9cacacfcfcfc4cfcfcecdc4cfcfcccb",
+            "會議日期": "450413",
+            "立法紀錄": "45卷17期號4冊 58-62頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cccb81cbcacec8cfcbc4cfcfcac7c4cfcfc9cd",
             "關係文書": []
         }
     ]
