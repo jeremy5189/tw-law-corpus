@@ -1,8 +1,8 @@
 {
     "title": "軍人婚姻條例",
     "versions": [
-        "中華民國81年6月30日修正",
-        "中華民國81年7月17日公布"
+        "中華民國88年3月30日修正",
+        "中華民國88年4月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -84,7 +84,7 @@
         {
             "note": "(刑責之加重)",
             "rule_no": "第十三條",
-            "content": "　　敵前或執行作戰命令或服務最艱苦地區之軍人或其配偶，犯刑法第二百三十七條或第二百三十九條之罪者，加重其刑至二分之一；其相婚或相姦者亦同。\n　　對敵前或執行作戰命令或服務最艱苦地區軍人之妻，犯刑法第二百二十一條、第二百三十一條或第二百九十八條之罪者，除軍人犯強姦罪依陸海空軍刑法之規定處罰外，加重其刑至二分之一。\n　　對敵前或執行作戰命令或服務最艱苦地區軍人之配偶，犯刑法第二百四十條第二項或第三項之罪者，加重其刑至二分之一。",
+            "content": "　　敵前或執行作戰命令或服務最艱苦地區之軍人或其配偶，犯刑法第二百三十七條、第二百三十九條之罪者，加重其刑至二分之一；其相婚或相姦者亦同。\n　　對敵前或執行作戰命令或服務最艱苦地區軍人之妻，犯刑法第二百二十一條、第二百三十一條或第二百九十八條之罪者，除軍人犯強制性交罪依陸海空軍刑法之規定處罰外，加重其刑至二分之一。\n　　對敵前或執行作戰命令或服務最艱苦地區軍人之配偶，犯刑法第二百四十條第二項或第三項之罪者，加重其刑至二分之一。",
             "relates": {}
         },
         {
@@ -101,66 +101,47 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　義務役官士兵對於國家安全並無明顯助益，徒增軍人結婚及其配偶申報戶籍時的困擾，爰予刪除。",
-        "第四條": "　　一、軍人出國受訓、觀光就學者眾，原條文第一款徒然造成軍人婚姻上的困擾。且軍人配偶之國籍與其對國家安全並無影響。\n　　二、依刑法將「叛亂」改為「內亂、外患」。",
-        "第五條": "　　一、軍人結婚之意願應受尊重。\n　　二、軍人之婚期不應受行政部門辦事效率的影響。",
-        "第七條": "　　為免除原法令對於軍人婚姻的不必要約束，爰予刪除。",
-        "第九條": "　　徵召服役之軍人，其訂有婚約者，雙方當事人欲解除婚約時，依民法行之，不需另行規定。",
-        "第十條": "　　徵召服役之軍人及其配偶向法院請求離婚者，依民法行之，不需另行規定，刪除第二項。",
-        "第十二條": "　　修正條次。",
-        "第十四條": "　　一、本法係行政法，非刑事法，並無犯罪之構成要件要素存在，故原條文「犯本條例之罪」語意不妥，修正為「犯前條所列各罪」。\n　　二、為保障軍人及其配偶合法之告訴權益，參照刑訴法第二百三十六條之立法意旨修正。"
+        "第十三條": "　　配合刑法第二百二十一條等之修正，原條文第二項「強姦罪」修改為「強制性交罪」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "791214",
-            "立法紀錄": "79卷100期2420號 178-178頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcc81c8c6cecfcfcfcfc4cfcec8c7c4cfcec8c7",
-            "主提案": "行政院",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-243頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
+            "主提案": "謝啟大",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cdcbcfcfc5cccfd2cccc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cdc8c7d2cdc7cc"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "800628",
-            "立法紀錄": "80卷52期2476號 213-216頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcc81c7cfcfcacdcfcfc4cfcdceccc4cfcdcec9",
-            "主提案": "蕭金蘭",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-243頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
+            "主提案": "謝啟大",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cccacfcfc5cbc9c9d2cbc9c6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfccc5c9cccdd2c9cacf"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801230",
-            "立法紀錄": "81卷2期2530號 441-481頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcc81c7cecfcfcdcfcfc4cfcbcbcec4cfcbc7ce",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "810630",
-            "立法紀錄": "81卷53期2581號上冊 90-104頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcc81c7cecfcacccfcec4cfcfc6cfc4cfcecfcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccecfcfc5cccfcbd2cccecb"
-                ]
-            ]
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 247-247頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c7c7cecccfcec4cfcdcbc8c4cfcdcbc8",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "810630",
-            "立法紀錄": "81卷53期2581號上冊 104-104頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcc81c7cecfcacccfcec4cfcecfcbc4cfcecfcb",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 247-248頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c7c7cecccfcec4cfcdcbc8c4cfcdcbc7",
             "關係文書": []
         }
     ]
