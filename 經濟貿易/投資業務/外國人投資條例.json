@@ -1,8 +1,8 @@
 {
     "title": "外國人投資條例",
     "versions": [
-        "中華民國69年3月25日修正",
-        "中華民國69年4月3日公布"
+        "中華民國69年4月15日修正",
+        "中華民國69年5月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -114,7 +114,7 @@
         {
             "note": "(公司法限制之放寬)",
             "rule_no": "第十八條",
-            "content": "　　投資人依公司法及其他有關法律組設公司者，得不受左列之限制：\n　　一、公司法第九十八條第一項、第一百二十八條第一項、第二百零八條第五項及第二百一十六條第一項關於國內住所之限制。\n　　二、公司法第二百零八條第五項關於中華民國國籍之限制。",
+            "content": "　　投資事業依公司法組設公司者，投資人不受同法第九十八條第一項，第一百零八條第二項、第一百二十八條第一項、第二百零八條第五項及第二百十六條第一項有關國內住所、國籍及出資額之限制。\n　　投資人對所投資之事業，其投資占該事業資本總額百分之四十五以上者，不適用公司法第一百五十六條第四項關於股票須公開發行之規定。",
             "relates": {}
         },
         {
@@ -155,27 +155,27 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　擬將第四款改列為第二項並作文字修正如上。"
+        "第十八條": "　　配合公司法之修正，爰予修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690325",
-            "立法紀錄": "69卷25期1301號 3-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cf81c9c6c9cacdcacfcfc4cfcfcfccc4cfcfcfc9",
-            "主提案": "魏壽永",
+            "會議日期": "690415",
+            "立法紀錄": "69卷31期1307號 18-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cd81c9c6c9cacccecfcfc4cfcfcec7c4cfcfcdcd",
+            "主提案": "范苑聲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5c8ccc7d2c8cbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5c9c9c7d2c9c8ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "690325",
-            "立法紀錄": "69卷25期1301號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cf81c9c6c9cacdcacfcfc4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "690415",
+            "立法紀錄": "69卷31期1307號 22-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cd81c9c6c9cacccecfcfc4cfcfcdcdc4cfcfcdcd",
             "關係文書": [
                 [
                     "審查報告",
@@ -185,9 +185,9 @@
         },
         {
             "進度": "三讀",
-            "會議日期": "690325",
-            "立法紀錄": "69卷25期1301號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cf81c9c6c9cacdcacfcfc4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "690415",
+            "立法紀錄": "69卷31期1307號 23-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cd81c9c6c9cacccecfcfc4cfcfcdccc4cfcfcdcc",
             "關係文書": []
         }
     ]
