@@ -1,12 +1,12 @@
 {
     "title": "提存法",
     "versions": [
-        "中華民國62年8月24日全文修正",
-        "中華民國62年9月3日公布"
+        "中華民國69年6月20日修正",
+        "中華民國69年7月4日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -144,7 +144,7 @@
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　本法施行細則，由司法行政部定之。",
+            "content": "　　本法施行細則，由司法院定之。",
             "relates": {}
         },
         {
@@ -154,128 +154,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二十三條": "　　審檢分隸實施後，各法院提存業務應由司法院監督，爰將原條文中之「司法行政部」修正為「司法院」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "611219",
-            "立法紀錄": "61卷100期553號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cecacfcecfcfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "690422",
+            "立法紀錄": "69卷33期1309號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdcc81c9c6c9cacccccfcfc4cfcfcfccc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcdcfcfc5c9cacbd2c9c8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcccfcfc5cbc8c8d2cbc8c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "620111",
-            "立法紀錄": "62卷20期576號 44-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacecdcfcfcfcfcdc4cfcfcbcbc4cfcfcbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620326",
-            "立法紀錄": "62卷41期597號 13-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacecbcecfcfcfcdc4cfcfceccc4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620514",
-            "立法紀錄": "62卷57期613號 17-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacecac8cfcfcfcdc4cfcfcec8c4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620528",
-            "立法紀錄": "62卷59期615號 30-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacecac6cfcfcfcdc4cfcfcccfc4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620604",
-            "立法紀錄": "62卷60期616號 26-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec9cfcfcfcfcdc4cfcfcdc9c4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620705",
-            "立法紀錄": "62卷69期625號 17-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec9c6cfcfc4cfcfcec8c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620712",
-            "立法紀錄": "62卷70期626號 13-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec8cfcfcfc4cfcfceccc4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620719",
-            "立法紀錄": "62卷71期627號 2-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec8cecfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620726",
-            "立法紀錄": "62卷72期628號 11-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec8cdcfcfc4cfcfcecec4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620802",
-            "立法紀錄": "62卷78期634號 1-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacdc8c7cfcfcfcdc4cfcfcfcec4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620808",
-            "立法紀錄": "62卷79期635號 1-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacdc8c6cfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "會議日期": "690602",
+            "立法紀錄": "69卷70期1346號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdcc81c9c6c9cac8cfcfcfc4cfcfcfcbc4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "620821",
-            "立法紀錄": "62卷64期620號 37-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec9cbcfcfcfcec4cfcfccc8c4cfcfcac8",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 61-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdcc81c9c6c9cacacfcfcfc4cfcfc9cec4cfcfc9cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc6cfcfc5c6c9d2cecec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5c6ccd2c6ca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "620821",
-            "立法紀錄": "62卷64期620號 57-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec9cbcfcfcfcec4cfcfcac8c4cfcfc9cf",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 62-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdcc81c9c6c9cacacfcfcfc4cfcfc9cdc4cfcfc9cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "620822",
-            "立法紀錄": "62卷65期621號 9-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec9cacfcfc4cfcfcfc6c4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "620824",
-            "立法紀錄": "62卷65期621號 107-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdce81c9cdcacec9cacfcfc4cfcecfc8c4cfcececc",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 62-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececdcc81c9c6c9cacacfcfcfc4cfcfc9cdc4cfcfc9cd",
             "關係文書": []
         }
     ]
