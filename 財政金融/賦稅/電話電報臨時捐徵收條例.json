@@ -1,12 +1,12 @@
 {
     "title": "電話電報臨時捐徵收條例",
     "versions": [
-        "中華民國61年6月27日全文修正",
-        "中華民國61年6月28日公布"
+        "中華民國62年5月15日修正",
+        "中華民國62年5月25日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -54,62 +54,51 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　本條例自中華民國六十一年七月一日施行。施行期間一年。",
+            "content": "　　本條例自中華民國六十二年七月一日施行。施行期間一年。",
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第八條": "　　基於此項臨時捐，為政府加強財政收入所必需，爰將徵收期間延長一年。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "610505",
-            "立法紀錄": "61卷36期489號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cb81c9cecbc6ccc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "620417",
+            "立法紀錄": "62卷28期584號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8ca81c9cdcacecdc7cfcfcfcec4cfcfcfccc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcccfcfc5cdcfcdd2cdcfc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcbcfcfc5cecbc6d2cecacd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "610515",
-            "立法紀錄": "61卷55期508號 15-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cb81c9cecbc6cacacfcfcfcdc4cfcfcecac4cfcfcdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610622",
-            "立法紀錄": "61卷62期515號 10-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cb81c9cecbc6c9cdcfcfcfcdc4cfcfcecfc4cfcfcecc",
+            "會議日期": "620423",
+            "立法紀錄": "62卷40期596號 19-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8ca81c9cdcacecbcfcfcfcfcdc4cfcfcec6c4cfcfcdcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "610627",
-            "立法紀錄": "61卷51期504號 3-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cb81c9cecbc6cacecfcfcfcec4cfcfcfccc4cfcfceca",
+            "會議日期": "620511",
+            "立法紀錄": "62卷35期591號 23-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8ca81c9cdcacecccacfcfcfcec4cfcfcdccc4cfcfcdc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcbcfcfc5cdcfd2ccce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcacfcfc5cbcad2cbc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610627",
-            "立法紀錄": "61卷51期504號 15-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cb81c9cecbc6cacecfcfcfcec4cfcfcecac4cfcfcdc9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "610627",
-            "立法紀錄": "61卷51期504號 27-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cb81c9cecbc6cacecfcfcfcec4cfcfcdc8c4cfcfcdc8",
+            "會議日期": "620515",
+            "立法紀錄": "62卷36期592號 13-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8ca81c9cdcaceccc9cfcfcfcec4cfcfceccc4cfcfcdca",
             "關係文書": []
         }
     ]
