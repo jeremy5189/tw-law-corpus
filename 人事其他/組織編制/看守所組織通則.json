@@ -1,12 +1,12 @@
 {
     "title": "看守所組織通則",
     "versions": [
-        "中華民國57年5月31日全文修正",
-        "中華民國57年6月12日公布"
+        "中華民國62年10月26日修正",
+        "中華民國62年11月7日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -60,13 +60,13 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　看守所置醫師一人至三人，薦聘；藥劑師或藥劑生一人或二人，藥劑師薦聘，藥劑生委派或僱用；護士一人至三人，委派或僱用，掌理保健、醫療及護理事務。",
+            "content": "　　看守所置醫師一人至三人，薦任；藥劑師或藥劑生一人或二人，藥劑師薦任，藥劑生委任或僱用；護士一人至三人，委任或僱用，掌理保健、醫療及護理事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　看守所得置作業導師一人至五人，委派或僱用。",
+            "content": "　　看守所得置作業導師一人至五人，委任或僱用。",
             "relates": {}
         },
         {
@@ -106,93 +106,69 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第九條": "　　「聘用派用人員管理條例」已經廢止，另公布「聘用人員聘用條例」和「派用人員派用條例」，所以原法中「薦聘」「委派」等字樣都不合適，爰予修正為「薦任」、「委任」，以符合規定。",
+        "第十條": "　　「聘用派用人員管理條例」已經廢止，另公布「聘用人員聘用條例」和「派用人員派用條例」，所以原法中「薦聘」「委派」等字樣都不合適，爰予修正為「薦任」、「委任」，以符合規定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "560314",
-            "立法紀錄": "56卷39期號3冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac9ccc6cfccc4cfcfcfcac4cfcfcfca",
+            "會議日期": "611020",
+            "立法紀錄": "61卷83期536號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cecacfc7cccfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5cbc6ccd2cacdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcecfcfc5c9cec7d2c9cdcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "561202",
-            "立法紀錄": "57卷4期號 214-217頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcfcfcbcfcfc4cfcdcecbc4cfcdcec8",
+            "會議日期": "611101",
+            "立法紀錄": "62卷1期557號 24-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacfcfcecfcfcfcdc4cfcfcdcbc4cfcfcccd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "561206",
-            "立法紀錄": "57卷14期號 786-791頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcfcecbcfcfc4cfc8c7c9c4cfc8c6ce",
+            "會議日期": "611122",
+            "立法紀錄": "62卷5期561號 32-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacfcfcacfcfcfcdc4cfcfcccdc4cfcfccca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "570313",
-            "立法紀錄": "57卷29期號 2643-2649頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecdc6cfcfc4cdc9cbccc4cdc9cbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570316",
-            "立法紀錄": "57卷30期號 2745-2751頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecccfcfcfc4cdc8cbcac4cdc8cace",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570320",
-            "立法紀錄": "57卷31期號 2804-2808頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecccecfcfc4cdc7cfcbc4cdc7cfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570327",
-            "立法紀錄": "57卷32期號 2864-2868頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecccdcfcfc4cdc7c9cbc4cdc7c9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570330",
-            "立法紀錄": "57卷33期號 2919-2927頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecccccfcfc4cdc6cec6c4cdc6cdc8",
+            "會議日期": "620718",
+            "立法紀錄": "62卷71期627號 9-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacec8cecfcfc4cfcfcfc6c4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "570521",
-            "立法紀錄": "57卷37期號 14-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbceccc8cfcfcfcec4cfcfcecbc4cfcfcbca",
+            "會議日期": "621026",
+            "立法紀錄": "62卷82期638號 17-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacdc7cdcfcfcfcec4cfcfcec8c4cfcfcec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5c8cdcfd2c8c9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcdcfcfc5cdc6cad2cccfcf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "570521",
-            "立法紀錄": "57卷37期號 45-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbceccc8cfcfcfcec4cfcfcbcac4cfcfcbc6",
+            "會議日期": "621026",
+            "立法紀錄": "62卷82期638號 20-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacdc7cdcfcfcfcec4cfcfcdcfc4cfcfcdcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "570531",
-            "立法紀錄": "57卷40期號 3-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecbcfcfcfcfcec4cfcfcfccc4cfcfcfc9",
+            "會議日期": "621026",
+            "立法紀錄": "62卷82期638號 20-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacdc7cdcfcfcfcec4cfcfcdcfc4cfcfcdcf",
             "關係文書": []
         }
     ]
