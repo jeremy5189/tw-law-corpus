@@ -1,11 +1,12 @@
 {
     "title": "取締棉花攙水攙雜暫行條例",
     "versions": [
-        "中華民國25年3月13日全文修正",
-        "中華民國25年3月25日公布"
+        "中華民國61年10月31日廢止",
+        "中華民國61年11月11日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -97,6 +98,30 @@
             "rule_no": "第十五條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例係於大陸時期，針對本國棉花生產情形所作之規定，旨在建立國產棉花品質標準。惟今時移勢遷，本條例已多落伍而不適用，故予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "610118",
+            "立法紀錄": "61卷6期459號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdccc681c9cecbc7cfc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610529",
+            "立法紀錄": "61卷48期501號 1-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdccc681c9cecbc6cbc7cfcfcfcdc4cfcfcfcec4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "611031",
+            "立法紀錄": "61卷86期539號 10-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdccc681c9cecacfc7c9cfcfcfcec4cfcfcecfc4cfcfcecd",
+            "關係文書": []
         }
     ]
 }
