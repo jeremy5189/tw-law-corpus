@@ -1,11 +1,11 @@
 {
     "title": "國立教育廣播電臺分臺組織通則",
     "versions": [
-        "中華民國102年12月31日廢止",
-        "中華民國103年1月15日公布"
+        "中華民國87年10月1日制定",
+        "中華民國87年10月21日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -70,59 +70,76 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　配合行政院組織改造作業，爰將國立教育廣播電臺分臺組織通則予以廢止。",
+    "law_reasons": {
+        "第一條": "　　一、明定設置分臺之依據。\n　　二、國立教育廣播電臺宣導教育政策政令，實施空中教學，係透過各分臺及轉播站連結之廣播網傳播，及運用分臺與地方相結合，製播各地方區域性社教廣播節目，推廣社會教育。在主要地區設立分臺，以均衡提升各地區文化水準。",
+        "第二條": "　　明訂甲種分臺與乙種分臺之設立原則及名稱。",
+        "第三條": "　　明定分臺掌理事項。",
+        "第四條": "　　明定分臺長之權責及官職等。",
+        "第五條": "　　明定甲種分臺與乙種分臺所置人員職稱、職等、員額及聘任規定。",
+        "第六條": "　　明定分臺人事管理事項，由適當人員兼任或兼辦。",
+        "第七條": "　　明定分臺會計事項，由適當人員兼任或兼辦。",
+        "第八條": "　　明定分臺第四條至第七條所置列有官等職等人員，須依公務人員任用法，就有關職系選用之。",
+        "第九條": "　　明定分臺辦事細則之擬訂及核定程序。",
+        "第十條": "　　明定本通則之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020226",
-            "立法紀錄": "102卷7期4032號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfcc81cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "810225",
+            "立法紀錄": "81卷17期2545號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbc681c7cecfcec8cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
-                ],
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfcdcfcec5cec7c9d2cdcfce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "860325",
+            "立法紀錄": "86卷11期2903號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbc681c7c9cececfcfc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "林政則",
+            "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5ceccce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc7cfc7cfcfc5cbcacfd2cbcacb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1021205",
-            "立法紀錄": "102卷83期4108號 173-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfcc81cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
+            "會議日期": "870105",
+            "立法紀錄": "87卷4期2953號下冊 81-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbc681c7c8cfcbcfccc4cfcfc7cec4cfcececb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 353-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfcc81cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
+            "會議日期": "871001",
+            "立法紀錄": "87卷36期2985號一冊 95-115頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbc681c7c8ccc9cfcec4cfcfc6cac4cfcececa",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5cecfc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacececfcec5c9ccc8d2c9cac6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfcc81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "871001",
+            "立法紀錄": "87卷36期2985號一冊 116-117頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbc681c7c8ccc9cfcec4cfcecec9c4cfcecec8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfcc81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "871001",
+            "立法紀錄": "87卷36期2985號一冊 117-118頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdcbc681c7c8ccc9cfcec4cfcecec8c4cfcecec7",
             "關係文書": []
         }
     ]
