@@ -1,12 +1,12 @@
 {
     "title": "中央政府興建臺灣區高速公路第二期工程建設公債發行條例",
     "versions": [
-        "中華民國63年1月8日制定",
-        "中華民國63年1月15日公布"
+        "中華民國64年11月25日廢止",
+        "中華民國64年12月4日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -76,51 +76,34 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「中央政府興建臺灣區高速公路第二期工程建設公債發行條例」，係於63年1月15日頒行，原擬依該條例於六十三年度發行公債九億元，六十四年度發行公債十億元，嗣為配合國庫收支，該兩年度均未發行，現政府為適應重大工程建設，統籌各項建設資金之需要，其中包括與建高速公路所需費用在內，已另制定中央政府建設公債發行條例公布施行。玆以鑒於高速公路第二期工程建設公債發行條例，係依當時需要擬訂，迄今經濟及金融狀況已有改變，原條例所規定之發行條件及發行方式，多已不能適應目前實際需要，因之，關於已成立特別預算發行之高速公路建設公債，自以改依中央政府建設公債發行條例發行，較屬適宜，爰將中央政府興建臺灣區高速公路第二期工程建設公債發行條例予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "621130",
-            "立法紀錄": "62卷92期648號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6cf81c9cdcacdc6cdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcccfcfc5cdc6cbd2cdc6c9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "621227",
-            "立法紀錄": "63卷8期664號 2-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6cf81c9cccacdcfc7cfcfc4cfcfcfcdc4cfcfcfca",
+            "會議日期": "640926",
+            "立法紀錄": "64卷78期832號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6ce81c9cbcac9c8c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "630108",
-            "立法紀錄": "63卷3期659號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6cf81c9cccacdcfcccfcfcfcec4cfcfcfcdc4cfcfcfc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcbcfcfc5cdcac8d2cdc9cf"
-                ]
-            ]
+            "進度": "委員會審查",
+            "會議日期": "641117",
+            "立法紀錄": "65卷8期867號 20-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6ce81c9cacac9cfc7cfcfc4cfcfcdcfc4cfcfcdce",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "630108",
-            "立法紀錄": "63卷3期659號 6-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6cf81c9cccacdcfcccfcfcfcec4cfcfcfc9c4cfcfcfc7",
+            "會議日期": "641125",
+            "立法紀錄": "64卷95期849號 4-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6ce81c9cbcac9c6cacfcfcfcec4cfcfcfcbc4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "630108",
-            "立法紀錄": "63卷3期659號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6cf81c9cccacdcfcccfcfcfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "641125",
+            "立法紀錄": "64卷95期849號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6ce81c9cbcac9c6cacfcfcfcec4cfcfcfc9c4cfcfcfc9",
             "關係文書": []
         }
     ]
