@@ -1,11 +1,11 @@
 {
     "title": "經濟部商品檢驗局所屬各分局組織通則",
     "versions": [
-        "中華民國91年6月11日廢止",
-        "中華民國91年7月3日公布"
+        "中華民國61年12月19日制定",
+        "中華民國61年12月29日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,38 +82,73 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　「經濟部標準檢驗局所屬各分局組織通則」，業於88年2月23日施行，並於同日改制成立。原「經濟部商品檢驗局所屬各分局組織通則」爰予廢止。",
+    "law_reasons": {
+        "第一條": "　　本通則依據經濟部商品檢驗局組織條例第九條之規定制定。",
+        "第二條": "　　明定所屬各分局職掌。",
+        "第三條": "　　明定各分局得設二課至六課，分科辦事。",
+        "第四條": "　　各分局業務，不無繁簡之分，應有等級之別，始可酌予分別規定編制員額，而不至漫無標準，無所遵循。另為易於識別起見，各分局須標明各該所在地之名稱。",
+        "第五條": "　　明定分局長、副分局長之職掌及官等職等。",
+        "第六條": "　　本條規定一等分局編制員額職等。",
+        "第七條": "　　本條規定二等分局編制員額職等。",
+        "第八條": "　　本條規定三等分局編制員額職等。",
+        "第九條": "　　明定人事、會計人員之官等職等及職掌。",
+        "第十條": "　　明定本通則列有官等職等人員之職系，應依公務職位分類法及職系說明書選用。",
+        "第十一條": "　　明定各分局辦事細則，由各該分局擬訂，呈請經濟部商品檢驗局核定。",
+        "第十二條": "　　明定本通則施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910416",
-            "立法紀錄": "91卷26期3222號 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcbc781c6cecdc9cfcfc4cfcfcfc6c4cfcfcfc6",
+            "會議日期": "611003",
+            "立法紀錄": "61卷79期532號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6ce81c9cecacfc8c6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc8cfcdc5cccacdd2cccaca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcecfcfc5cdc7ced2cdc7c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910527",
-            "立法紀錄": "91卷50期3246號下冊 239-260頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcbc781c6cecacfcfccc4cfcdccc6c4cfcdc9cf",
+            "會議日期": "611023",
+            "立法紀錄": "61卷100期553號 24-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6ce81c9cecacfcecfcfcfcfcfcdc4cfcfcdcbc4cfcfccce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "611106",
+            "立法紀錄": "61卷101期554號 9-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6ce81c9cecacfcecfcecfcfcfcdc4cfcfcfc6c4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "611215",
+            "立法紀錄": "61卷99期552號 33-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6ce81c9cecacfc6c6cfcfcfcec4cfcfccccc4cfcfcbcb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcdcfcfc5cccaced2ccc9cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "611215",
+            "立法紀錄": "61卷99期552號 44-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6ce81c9cecacfc6c6cfcfcfcec4cfcfcbcbc4cfcfcbca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910611",
-            "立法紀錄": "91卷42期3238號上冊 179-183頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcbc781c6cecbcdcfcec4cfcec8c6c4cfcec7cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec9cfcdc5cac7c6d2c9cfce"
-                ]
-            ]
+            "會議日期": "6111219",
+            "立法紀錄": "61卷100期553號 12-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc6ce81c9cecacfcecfcfcfcfcfcec4cfcfcecdc4cfcfcecb",
+            "關係文書": []
         }
     ]
 }
