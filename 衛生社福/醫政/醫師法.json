@@ -1,8 +1,8 @@
 {
     "title": "醫師法",
     "versions": [
-        "中華民國81年7月3日修正",
-        "中華民國81年7月29日公布"
+        "中華民國89年6月30日修正",
+        "中華民國89年7月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -40,7 +40,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　有左列各款情事之一者，不得充醫師；其已充醫師者，撤銷其醫師證書：\n　　一、曾犯煙毒罪或違反麻醉藥品之管理經判刑確定者。\n　　二、曾受本法所定除名或依法撤銷醫師證書處分者。",
+            "content": "　　有左列各款情事之一者，不得充醫師；其已充醫師者，撤銷其醫師證書：\n　　一、觸犯毒品罪經判刑確定。\n　　二、曾受本法所定除名或依法撤銷醫師證書處分。",
             "relates": {}
         },
         {
@@ -70,7 +70,7 @@
         {
             "note": "",
             "rule_no": "第七條 之三",
-            "content": "　　本法所稱之衛生主管機關：在中央為行政院衛生署；在省（市）為省（市）政府衛生處（局）；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱衛生主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -365,70 +365,54 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　現行所定「考試及格」之後增列「並依本法領有醫師證書」等字，以資明確。",
-        "第五條": "　　一、本諸醫師執業性質與內亂、外患犯無關，不宜因其犯內亂、外患罪而撤銷其醫師證書，爰將現行第一款消極資格條件予以刪除。\n　　二、鑑於麻醉藥品問題日趨嚴重，爰於現行第五條第二款增列違反麻醉藥品之管理經判刑確定者，不得充醫師之規定，並將款次變更為第一款。\n　　三、現行第三款款次變更。",
-        "第二十七條": "　　一、罰鍰計算標準由銀元改為新臺幣，並依比例乘以三倍之數額。\n　　二、將現行所定「及」字修正為「或」字。",
-        "第二十八條": "　　罰鍰計算標準由銀元改為新臺幣，並依比例乘以三倍之數額。",
-        "第二十八條 之二": "　　罰鍰計算標準由銀元改為新臺幣，並依比例乘以三倍之數額。",
-        "第二十八條 之三": "　　罰鍰計算標準由銀元改為新臺幣，並依比例乘以三倍之數額。",
-        "第二十九條": "　　一、罰鍰計算標準由銀元改為新臺幣，並依比例乘以三倍之數額。將現行所定「及第十九條」修正為「或第十九條」。\n　　二、醫事人員執業之管理及監督，由行政院衛生署掌理，且依現行醫師懲戒辦法，其內容未涉及重要政策或其他機關，故將第二項「報請行政院核定」等字刪除。",
-        "第二十九條 之一": "　　現行規定「撤銷其醫師證書」處罰太重且無彈性，爰修正為「得撤銷其醫師證書」以資因應。",
-        "第三十五條": "　　一、配合動員戡亂時期之終止而修正。\n　　二、將「過半數」三字修正為「三個以上」。",
-        "第三十七條": "　　一、第一項不修正。\n　　二、第二項關於醫師公會理事、監事任期之規定，與其他醫事人員職業公會團體，僅限制連選連任者不得超過二分之一，理事長之連任，以一次為限之規定相比，較為嚴格。為使各醫事人員職業公會團體理、監事連選連任之規定趨於統一，予以修正。",
-        "第四十一條 之一": "　　配合動員戡亂時期之終止而刪除。"
+        "第五條": "　　配合毒品危害防制條例及管制藥品管理條例之修正施行，將第一款「曾犯煙毒罪或違反麻醉藥品之管理經判刑確定者」修正為「觸犯毒品罪經判刑確定；」另酌作文字修正。",
+        "第七條 之三": "　　配合臺灣省政府功能業務與組織之調整，將省衛生主管機關刪除；另提升直轄市衛生主管機關之層級為直轄市政府，以與地方制度法將地方自治團體之組織列為其自治事項之立法意旨相配合；並酌作文字修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800430",
-            "立法紀錄": "80卷35期2459號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cacb81c7cfcfcccacfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "890321",
+            "立法紀錄": "89卷12期3071號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7caca81c7c6cecdcfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cec7cfcfc5cbc7d2cacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5c9c8cfd2c9c8c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "801113",
-            "立法紀錄": "80卷93期2517號 451-469頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cacb81c7cfcfc6cccfcfc4cfcbcacec4cfcbc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810309",
-            "立法紀錄": "81卷22期2550號 319-320頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cacb81c7cecfcdcdcfcfc4cfcccec6c4cfcccdcf",
+            "會議日期": "890511",
+            "立法紀錄": "89卷28期3087號 355-366頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7caca81c7c6cdc7cfcfc4cfcccacac4cfccc9c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "810703",
-            "立法紀錄": "81卷54期2582號 108-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cacb81c7cecfcacbcfcfc4cfcecfc7c4cfcecec8",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號上冊 41-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7caca81c7c6ccc6cfcec4cfcfcbcec4cfcfcbc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7ccc6cecfcfc5ccc9cfd2ccc9c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cbcdc8d2cbcccb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "810703",
-            "立法紀錄": "81卷54期2582號 117-118頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cacb81c7cecfcacbcfcfc4cfcecec8c4cfcecec7",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號上冊 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7caca81c7c6ccc6cfcec4cfcfcbc7c4cfcfcbc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "810703",
-            "立法紀錄": "81卷54期2582號 118-119頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cacb81c7cecfcacbcfcfc4cfcecec7c4cfcecec6",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號上冊 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7caca81c7c6ccc6cfcec4cfcfcbc7c4cfcfcbc7",
             "關係文書": []
         }
     ]
