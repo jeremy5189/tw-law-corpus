@@ -1,10 +1,12 @@
 {
     "title": "中華民國八十年度所得稅稅率條例",
     "versions": [
-        "中華民國81年6月26日期滿廢止"
+        "中華民國79年12月28日制定",
+        "中華民國79年12月29日公布"
     ],
     "types": [
-        "廢止理由"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -44,5 +46,74 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_reasons": {
+        "第一條": "　　七十九年終了，八十年度所得稅稅率條例亟待制定，爰依所得稅法第五條規定制定本條例。",
+        "第二條": "　　明定本條例規定之各種金額，均以新臺幣計算。",
+        "第三條": "　　為考慮基本生活及財政需要，每人全年免稅額五萬元 。",
+        "第四條": "　　一、現行課稅級距及累進稅率甫於七十八年底作大幅度調整，課稅級距由原來十三級簡化為五級，最高邊際稅率由五十％降低為四十％，加上允許配偶薪資所得分開計稅申報，適用較低之邊際稅率，應屬允當。\n　　二、現行課稅級距及累進稅率，除配合現階段需要，並符合先進國家趨勢外，稅率結構已較日、韓等鄰近國家合理。　　",
+        "第五條": "　　一、營利事業所得稅之起徵額、課稅級距及累進稅率，維持七十九年度標準。根據中、美、日、韓四國公司所得稅稅率結構比較，營利事業所得稅最高邊際稅率美國為三四％，日本為三七.五％，韓國為三三％，我國為二五％，已屬最低。\n　　二、兼顧稅負分配公平問題，財政部應於修正所得稅法研究考慮營利事業所得稅採行比例稅制。",
+        "第六條": "　　本條例施行期間，自中華民國八十年一月一日起，至同年十二月三十一日止。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "791130",
+            "立法紀錄": "79卷96期2416號 248-248頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcac881c8c6cfc6c9cfcfc4cfcdcbc7c4cfcdcbc7",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cec6cfcfc5cac8ced2cac7cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "791207",
+            "立法紀錄": "79卷98期2418號 248-254頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcac881c8c6cfc6c7cfcfc4cfcdcbc7c4cfcdcacb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "791212",
+            "立法紀錄": "80卷54期2478號 297-323頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcac881c7cfcfcacbcfcfc4cfcdc6c8c4cfcccdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "791219",
+            "立法紀錄": "80卷56期2480號 323-350頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcac881c7cfcfcac9cfcfc4cfcccdccc4cfcccacf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "791228",
+            "立法紀錄": "79卷104期2424號 292-319頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcac881c8c6cecfcbcfcfc4cfcdc6cdc4cfcccec6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cdc9cfcfc5c6c9c8d2c6c7ca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "791228",
+            "立法紀錄": "79卷104期2424號 319-324頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcac881c8c6cecfcbcfcfc4cfcccec6c4cfcccdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "791228",
+            "立法紀錄": "79卷104期2424號 324-325頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcac881c8c6cecfcbcfcfc4cfcccdcbc4cfcccdca",
+            "關係文書": []
+        }
+    ]
 }
