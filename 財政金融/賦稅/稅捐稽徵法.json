@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國86年10月9日修正",
-        "中華民國86年10月29日公布"
+        "中華民國89年4月28日修正",
+        "中華民國89年5月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -89,6 +89,12 @@
             "note": "",
             "rule_no": "第十一條 之一",
             "content": "　　本法所稱相當擔保，係指相當於擔保稅款之左列擔保品：\n　　一、黃金，按九折計算，經中央銀行掛牌之外幣、核准上市之有價證券，按八折計算；其計值辦法，由財政部定之。\n　　二、政府發行經規定可十足提供公務擔保之公債，按面額計值。\n　　三、銀行存款單摺，按存款本金額計值。\n　　四、其他經財政部核准，易於變價及保管，且無產權糾紛之財產。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十一條 之二",
+            "content": "　　依本法或稅法規定應辦理之事項及應提出之文件，得以電磁紀錄或電子傳輸方式辦理或提出；其實施辦法，由財政部訂之。",
             "relates": {}
         },
         {
@@ -435,59 +441,53 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　一、第一項及第二項未修正。\n　　二、第三項有關經法院拍賣或交債權人承受之土地，以拍定或承受價額為該土地移轉現值之規定，為配合土地稅法第三十條第一項第五款之修正，爰修正本條第三項，對經法院執行拍賣或交債權人承受之土地，刪除「其拍定或承受價額為該土地之移轉現值」之規定。"
+        "第十一條 之二": "　　一、本條新增。\n　　二、電子化、網路化政府為未來政府積極推展之政策，為期依本法或稅法規定應辦理之事項及應提出之文件，得以電子化、網路化等自動化方式辦理，製成紀錄，而供電腦處理，俾提供民眾快速便捷之服務，並簡化稽徵程序，提高稅務行政效率，爰增訂本條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "851213",
-            "立法紀錄": "85卷67期2889號上冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7cac9c8cfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "謝錦川",
+            "會議日期": "881015",
+            "立法紀錄": "88卷44期3044號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c7cbcbcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcec6cfcfc5c6c6d2cecfcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "860418",
-            "立法紀錄": "86卷18期2910號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7c9cec7cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "王令麟",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5cdcdcbd2cdcdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdcbcfd2cdcbcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "860519",
-            "立法紀錄": "86卷29期2921號上冊 43-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7c9cdc6cfcec4cfcfcbccc4cfcfcacf",
+            "會議日期": "881216",
+            "立法紀錄": "89卷3期3062號中冊 165-176頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c6cfcccfcdc4cfcec9cac4cfcec8c9",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "861009",
-            "立法紀錄": "86卷39期2931號 49-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7c9ccc6cfcfc4cfcfcbc6c4cfcfcacd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "890418",
+            "立法紀錄": "89卷18期3077號 73-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c6cec7cfcfc4cfcfc8ccc4cfcfc8c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcccfcfc5cacec7d2cacdce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecccfcdc5cccccfd2cccccc"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "890428",
+            "立法紀錄": "89卷21期3080號 67-68頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c6cdcecfcfc4cfcfc9c8c4cfcfc9c7",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "861009",
-            "立法紀錄": "86卷39期2931號 52-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7c9ccc6cfcfc4cfcfcacdc4cfcfcacd",
+            "會議日期": "890428",
+            "立法紀錄": "89卷21期3080號 68-68頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c6cdcecfcfc4cfcfc9c7c4cfcfc9c7",
             "關係文書": []
         }
     ]
