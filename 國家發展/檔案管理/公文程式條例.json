@@ -1,41 +1,42 @@
 {
     "title": "公文程式條例",
     "versions": [
-        "中華民國41年11月11日全文修正",
-        "中華民國41年11月21日公布"
+        "中華民國61年1月18日全文修正",
+        "中華民國61年1月25日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
         {
             "note": "(公文之定義)",
             "rule_no": "第一條",
-            "content": "　　稱公文者，謂處理公務之文書，其程式除法律別有規定外，依本條例之規定。",
+            "content": "　　稱公文者，謂處理公務之文書；其程式，除法律別有規定外，依本條例之規定辦理。",
             "relates": {}
         },
         {
-            "note": "(公文程式之類別)",
+            "note": "(公文程式之種類)",
             "rule_no": "第二條",
-            "content": "　　公文程式之類別如左：\n　　一、令：公布法令、任免官吏及上級機關對於所屬下級機關有所訓飭或指示時用之。\n　　二、咨：總統與立法院、監察院公文往復時用之。\n　　三、函：同級機關或不相隸屬之機關有所洽辦通報或答復時用之。\n　　四、公告：對於公眾宣布事實或有所勸誡時用之。\n　　五、通知：機關對於人民有所通知或答復時用之。\n　　六、呈：下級機關對於上級機關有所呈請或報告時用之。\n　　七、申請書：人民對於機關有所聲請或陳述時用之。\n　　前項各款之公文，除第四款外，必要時得以電或代電行之。",
+            "content": "　　公文程式之類別如左：\n　　一、令：公布法令、任免官員及上級機關對於所屬下級機關有所交辦或指示時用之。\n　　二、呈：下級機關對於上級機關有所呈請或報告時用之。\n　　三、咨：總統與立法院、監察院公文往復時用之。\n　　四、函：同級機關或不相隸屬之機關有所洽辦或人民與機關間之申請與答復時用之。\n　　五、公告：對於公眾宣布事實或有所勸誡時用之。\n　　六、其他公文。\n　　前項各款之公文，除第五款外，必要時得以電報或代電行之。",
             "relates": {}
         },
         {
             "note": "(機關公文之蓋印或簽署)",
             "rule_no": "第三條",
-            "content": "　　機關公文，應蓋用機關印信並由機關首長署名蓋章（官章或私章）或蓋簽字章，其依法應副署者，由副署人副署之。\n　　機關印信因損壞遺失或一時不能使用而公文急待送發時，得暫借蓋其他機關印信。",
+            "content": "　　機關公文，視其性質，分別依照左列各款，蓋用印信或簽署：\n　　一、蓋用機關印信，並由機關首長署名、蓋職章或蓋簽字章。\n　　二、不蓋用機關印信，僅由機關首長署名、蓋職章或蓋簽字章。\n　　三、僅蓋用機關印信。\n　　機關公文依法應副署者，由副署人副署之。\n　　機關內部單位處理公務，基於授權對外行文時，由該單位主管署名，蓋職章，其效力與蓋用該機關印信之公文同。\n　　機關公文蓋用印信或簽署及授權辦法，除總統府及五院自行訂定外，由各機關依其實際業務自行擬訂，呈經上級機關核定之。",
             "relates": {}
         },
         {
             "note": "(代理人之署名)",
             "rule_no": "第四條",
-            "content": "　　機關首長出缺由代理人代理首長職務時。其機關公文應由代理人署名。\n　　機關首長因故不能視事，由代理人代行首長職務時，其機關公文除署首長姓名註明不能視事事由外，應由代行人附署職銜姓名於後，並加註「代行」二字。",
+            "content": "　　機關首長出缺由代理人代理首長職務時，其機關公文應由首長署名者，由代理人署名。\n　　機關首長因故不能視事，由代理人代行首長職務時，其機關公文，除署首長姓名註明不能視事事由外，應由代行人附署職銜、姓名於後，並加註代行二字。\n　　機關內部單位基於授權行文，得比照前二項之規定辦理。",
             "relates": {}
         },
         {
-            "note": "(申請書應載事項)",
+            "note": "(申請函應載事項)",
             "rule_no": "第五條",
-            "content": "　　人民申請書，應署名蓋章，並註明性別年齡職業及住址。",
+            "content": "　　人民之申請函，應署名、蓋章，並註明性別、年齡、職業及住址。",
             "relates": {}
         },
         {
@@ -47,26 +48,154 @@
         {
             "note": "(公文敘述方式及其格式)",
             "rule_no": "第七條",
-            "content": "　　公文得分段敘述，冠以數字，除會計報表各種圖表或附件譯文得採由左而右之橫行格式外，應用由右而左直行格式。",
-            "relates": {}
-        },
-        {
-            "note": "(公文副本之抄送)",
-            "rule_no": "第八條",
-            "content": "　　公文除應分行者外，並得以副本抄送有關機關或人民，收受副本者應視副本之內容為適當之處理。",
+            "content": "　　公文得分段敘述，冠以數字，除會計報表、各種圖表或附件譯文，得採由左而右之橫行格式外，應用由右而左直行格式。",
             "relates": {}
         },
         {
             "note": "(文字之要求)",
+            "rule_no": "第八條",
+            "content": "　　公文文字應簡淺明確，並加具標點符號。",
+            "relates": {}
+        },
+        {
+            "note": "(公文副本之抄送)",
             "rule_no": "第九條",
-            "content": "　　公文文字應簡淺明確，並應加具標點符號。",
+            "content": "　　公文，除應分行者外，並得以副本抄送有關機關或人民；收受副本者，應視副本之內容為適當之處理。",
+            "relates": {}
+        },
+        {
+            "note": "(附件其附件數字)",
+            "rule_no": "第十條",
+            "content": "　　公文之附屬文件為附件，附件在二種以上時，應冠以數字。",
+            "relates": {}
+        },
+        {
+            "note": "(章戳)",
+            "rule_no": "第十一條",
+            "content": "　　公文在二頁以上時，應於騎縫處加蓋章戳。",
+            "relates": {}
+        },
+        {
+            "note": "(密件之處理)",
+            "rule_no": "第十二條",
+            "content": "　　應保守秘密之公文，其制作、傳遞、保管，均應以密件處理之。",
+            "relates": {}
+        },
+        {
+            "note": "(送達之準用)",
+            "rule_no": "第十三條",
+            "content": "　　機關致送人民之公文，得準用民事訴訟法有關送達之規定。",
             "relates": {}
         },
         {
             "note": "(施行日)",
-            "rule_no": "第十條",
+            "rule_no": "第十四條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "581107",
+            "立法紀錄": "58卷81期0號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac7cbcbc7cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cdc7cbd2cdc6ca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581115",
+            "立法紀錄": "59卷2期0號 22-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcdcfcfcfcdc4cfcfcdcdc4cfcfcdc7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581119",
+            "立法紀錄": "59卷2期0號 28-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcdcfcfcfcdc4cfcfcdc7c4cfcfcccf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581126",
+            "立法紀錄": "59卷3期0號 26-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcccfcfcfcdc4cfcfcdc9c4cfcfcccd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581128",
+            "立法紀錄": "59卷4期0號 12-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcbcfcfcfcdc4cfcfcecdc4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581206",
+            "立法紀錄": "59卷5期0號 5-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcacfcfcfcdc4cfcfcfcac4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581224",
+            "立法紀錄": "59卷8期0號 17-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfc7cfcfcfcdc4cfcfcec8c4cfcfcdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "590502",
+            "立法紀錄": "59卷48期0號 60-67頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcacbc7cfcfcfcdc4cfcfc9cfc4cfcfc9c8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "590509",
+            "立法紀錄": "59卷49期0號 13-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcacbc6cfcfcfcdc4cfcfceccc4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610111",
+            "立法紀錄": "61卷4期457號 8-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881c9cecbc7cfcbcfcfcfcec4cfcfcfc7c4cfcfcdcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcdcfcfc5cbccc7d2cbcacc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "610111",
+            "立法紀錄": "61卷4期457號 23-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881c9cecbc7cfcbcfcfcfcec4cfcfcdccc4cfcfcccd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "610114",
+            "立法紀錄": "61卷5期458號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881c9cecbc7cfcacfcfcfcec4cfcfcfccc4cfcfcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610118",
+            "立法紀錄": "61卷6期459號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881c9cecbc7cfc9cfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "關係文書": []
         }
     ]
 }
