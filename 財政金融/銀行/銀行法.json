@@ -1,8 +1,8 @@
 {
     "title": "銀行法",
     "versions": [
-        "中華民國84年6月13日修正",
-        "中華民國84年6月29日公布"
+        "中華民國86年4月15日修正",
+        "中華民國86年5月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -310,7 +310,7 @@
         {
             "note": "",
             "rule_no": "第四十二條",
-            "content": "　　銀行各種存款準備金比率，由中央銀行在左列範圍內定之：\n　　一、支票存款：百分之十五至四十。\n　　二、活期存款：百分之十至三十五。\n　　三、儲蓄存款：百分之五至二十。\n　　四、定期存款：百分之七至二十五。\n　　前項存款準備金，應按銀行每日存款餘額調整；其調整及查核辦法，由中央銀行定之。\n　　中央銀行為調節信用，於必要時對自一定期日起之支票存款及活期存款增加額，得另定額外準備金比率，不受第一項所列最高比率之限制。",
+            "content": "　　銀行各種存款及其他各種負債，應依中央銀行所定比率提準備金。\n　　前項其他各種負債之範圍，由中央銀行洽商財政部定之。",
             "relates": {}
         },
         {
@@ -960,144 +960,52 @@
         {
             "note": "",
             "rule_no": "第一百四十條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文第四十二條施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第三條": "　　修訂第一項第二十款明確劃分銀行與銀樓之業務範圍。",
-        "第三十八條": "　　為減低一般民眾房貸之負擔，乃將一般房貸放款期限延長至三十年，但無自用住宅之放款不在此限。"
+        "第四十二條": "　　鑒於中央銀行法第二十三條之修正，已將存款及各種負債準備金之內容予以明定，爰規定銀行應依中央銀行之規定提存準備金，以避免二者規定重複分歧。",
+        "第一百四十條": "　　為使本法修正條文之施行日期能配合我國加入世界貿易組織其他相關法律之修正，爰增訂第二項，規定其施行日期由行政院定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820420",
-            "立法紀錄": "82卷23期2622號 88-89頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cdcdcccfcfc4cfcfc7c7c4cfcfc7c6",
-            "主提案": "謝長廷",
+            "會議日期": "851217",
+            "立法紀錄": "85卷68期2890號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdca81c7cac9c7cfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcececacfcfc5c8c9cfd2c8c9cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820430",
-            "立法紀錄": "82卷26期2625號上冊 270-271頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cdcdc9cfcec4cfcdc8cfc4cfcdc8ce",
-            "主提案": "顏錦福",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecec9cfcfc5c6cfc8d2c6cfc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820615",
-            "立法紀錄": "82卷39期2638號 83-84頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cdccc6cfcfc4cfcfc7ccc4cfcfc7cb",
-            "主提案": "劉文慶",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecdc6cfcdc5c8c9d2c8c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820622",
-            "立法紀錄": "82卷41期2640號 102-103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cdcbcecfcfc4cfcecfcdc4cfcecfcc",
-            "主提案": "謝長廷",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecdc6cfccc5c8cccbd2c8ccca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820924",
-            "立法紀錄": "82卷50期2649號上冊 388-389頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cdcacfcfcec4cfccc7c7c4cfccc7c6",
-            "主提案": "趙少康",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfcececfc5c9c7c8d2c9c7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "821217",
-            "立法紀錄": "82卷73期2672號上冊 417-418頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cdc8cccfcec4cfcbcec8c4cfcbcec7",
-            "主提案": "陳癸淼",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcecccfcdc5cdc9cfd2cdc9ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "821221",
-            "立法紀錄": "82卷74期2673號 124-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cdc8cbcfcfc4cfcecdcbc4cfcecdc9",
-            "主提案": "李顯榮",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcec9cfcfc5c7ceccd2c7cec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcdcdcfcfc5cdc7ced2cdc7cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "821229",
-            "立法紀錄": "83卷4期2678號下冊 167-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cccfcbcfccc4cfcec9c8c4cfcec7c6",
+            "會議日期": "860317",
+            "立法紀錄": "86卷10期2902號下冊 317-362頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdca81c7c9cecfcfccc4cfcccec8c4cfccc9cd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "840613",
-            "立法紀錄": "84卷37期2794號 45-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cbccc8cfcfc4cfcfcbcac4cfcfc9c8",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 135-139頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdca81c7c9cec8cfcec4cfcecccac4cfceccc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacec9cfcfc5cbcbcfd2cbc9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecccfcfc5ccc8c8d2ccc7cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840613",
-            "立法紀錄": "84卷37期2794號 67-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cbccc8cfcfc4cfcfc9c8c4cfcfc8cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840613",
-            "立法紀錄": "84卷37期2794號 100-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cbccc8cfcfc4cfcecfcfc4cfcecfcf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "840613",
-            "立法紀錄": "84卷37期2794號 100-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdcb81c7cbccc8cfcfc4cfcecfcfc4cfcecfce",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 139-139頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6cdca81c7c9cec8cfcec4cfceccc6c4cfceccc6",
             "關係文書": []
         }
     ]
