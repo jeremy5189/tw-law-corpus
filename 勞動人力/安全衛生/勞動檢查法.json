@@ -1,8 +1,8 @@
 {
     "title": "勞動檢查法",
     "versions": [
-        "中華民國89年6月30日修正",
-        "中華民國89年7月19日公布"
+        "中華民國91年5月14日修正",
+        "中華民國91年5月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -194,7 +194,7 @@
         {
             "note": "",
             "rule_no": "第二十八條",
-            "content": "　　勞動檢查機構指派勞動檢查員對各事業單位工作場所實施安全衛生檢查時，發現勞工有立即發生危險之虞，得就該場所以書面通知事業單位逕予先行停工。",
+            "content": "　　勞動檢查機構指派勞動檢查員對各事業單位工作場所實施安全衛生檢查時，發現勞工有立即發生危險之虞，得就該場所以書面通知事業單位逕予先行停工。\n　　前項有立即發生危險之虞之情事，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -279,49 +279,34 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　配合臺灣省政府功能業務與組織之調整，將省主管機關規定刪除。",
-        "第三條": "　　配合臺灣省政府功能業務與組織之調整，將第一款有關省主管機關為辦理勞動檢查業務設置專責檢查機構之規定刪除。",
-        "第五條": "　　配合臺灣省政府功能業務與組織之調整，第一項刪除授權省主管機關專設檢查機構之規定。",
-        "第二十五條": "　　配合臺灣省政府功能業務與組織之調整，將第一項有關事業單位違反勞動法令規定事項時，勞動檢查機構副知省主管機關之規定刪除，並酌作標點符號修正。"
+        "第二十八條": "　　本條文所稱「勞工有立即發生危險之虞」之情事，原於本法施行細則第三十二條中明列，檢查機構檢查員得據以作成停工處分，因事涉人民權利事項，應以法律定之，爰增訂第二項，授權中央主管機關另行訂定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890321",
-            "立法紀錄": "89卷12期3071號上冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfca81c7c6cecdcfcec4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 152-154頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfc881c6cecccbcfcec4cfcecacdc4cfcecacb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5c8cccbd2c8cacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "890504",
-            "立法紀錄": "89卷26期3085號 358-369頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfca81c7c6cdc9cfcfc4cfcccac7c4cfccc9c6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 323-324頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfc881c6cecccbcfcec4cfcccdccc4cfcccdcb",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號上冊 49-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfca81c7c6ccc6cfcec4cfcfcbc6c4cfcfc9c6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cbcccad2cbcacb"
-                ]
-            ]
-        },
-        {
             "進度": "三讀",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號上冊 69-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfca81c7c6ccc6cfcec4cfcfc9c6c4cfcfc9c6",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 350-350頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfc881c6cecccbcfcec4cfcccacfc4cfcccacf",
             "關係文書": []
         }
     ]
