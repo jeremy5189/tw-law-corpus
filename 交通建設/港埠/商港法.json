@@ -1,8 +1,8 @@
 {
     "title": "商港法",
     "versions": [
-        "中華民國76年7月15日修正",
-        "中華民國76年8月7日公布"
+        "中華民國84年12月21日修正",
+        "中華民國85年1月10日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -90,7 +90,7 @@
         {
             "note": "(商港區內設施之興建)",
             "rule_no": "第十二條",
-            "content": "　　商港區域內各項商港設施，除工程鉅大或與船舶出入港及公共安全有關者，應由商港管理機關興建自營外，其餘得視需要，由公私事業機構以約定方式興建或租賃經營，並以中華民國船舶運送業，貨櫃集散站經營業為優先。\n　　前項由公私事業機構使用商港區域內之公有土地投資興建之商港設施，投資人得使用之年限，由投資人與商港管理機關按其投資金額與獲益報酬約定，報請商港主管機關核定之，不受土地法第二十五條之限制。但其產權，應屬商港管理機關所有。",
+            "content": "　　商港區域內各項商港設施，除工程鉅大或與船舶出入港及公共安全有關者，應由商港管理機關興建自營外，其餘得視需要，由公私事業機構以約定方式興建或租賃經營。\n　　前項由公私事業機構使用商港區域內之公有土地投資興建之商港設施，投資人得使用之年限，由投資人與商港管理機關按其投資金額與獲益報酬約定，報請商港主管機關核定之，不受土地法第二十五條之限制。但其產權，應屬商港管理機關所有。",
             "relates": {}
         },
         {
@@ -359,53 +359,46 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　一、本法六十九年制定當初及七十五修正當時，政府尚須貫澈「鼓勵出口」政策，故於本條文中，未將「出口貨物」與「進口貨物」同列為商港建設費收取對象，以減輕出口貨物成本，增強國際市場競爭能力。惟今國貿情勢丕變，貿易順差持續擴增，經詳加檢討結果，爰擬修正第一項，恢復對出口貨物亦得收取商港建設費；並權衡當前國際貿易情勢，考量國家當前總體利益，衡平商港建設費預算收入，將現行商港建設費費率收取之上限予以配合修正。\n　　二、第一項首句在「相關」二字下加「商港」二字，並明定進出口貨物價格徵收商港建設費費率為「百分之一」。\n　　三、第二項首句在「相關」二字下加「商港」二字，在首句末「建設」二字下加「但國際商港建設費不得少於百分之五十」。"
+        "第十二條": "　　目前公私事業機構經營商港設施，均已開放中外航商或其他事業機構自由競標。本國船舶運送業或貨櫃集散站經營業並未有優先權，現行條文第一項末段規定已不符現況，爰予刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "760619",
-            "立法紀錄": "76卷49期2056號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cc81c8c9cfcbc6cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "840704",
+            "立法紀錄": "84卷43期2800號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cb81c7cbcbcccfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "洪昭男",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cecccfcfc5ccc6cbd2ccc6c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdcbcfcdc5cacacfd2cacace"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "760624",
-            "立法紀錄": "76卷69期2076號 2-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cc81c8c9cfc9c6cfcfc4cfcfcfcdc4cfcfcec9",
+            "會議日期": "841018",
+            "立法紀錄": "84卷56期2813號 3-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cb81c7cbcac9cfcfc4cfcfcfccc4cfcfcecd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "760715",
-            "立法紀錄": "76卷57期2064號 49-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cc81c8c9cfcac8cfcfc4cfcfcbc6c4cfcfcaca",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "841221",
+            "立法紀錄": "84卷64期2821號 25-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cb81c7cbc9cbcfcfc4cfcfcdcac4cfcfcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cec8cfcfc5c9ceced2c9cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cecfcfccc5cccbc7d2cccacf"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "760715",
-            "立法紀錄": "76卷57期2064號 55-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cc81c8c9cfcac8cfcfc4cfcfcacac4cfcfcac9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "760715",
-            "立法紀錄": "76卷57期2064號 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cc81c8c9cfcac8cfcfc4cfcfcac9c4cfcfcac9",
+            "會議日期": "841221",
+            "立法紀錄": "84卷64期2821號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cb81c7cbc9cbcfcfc4cfcfcdc8c4cfcfcdc8",
             "關係文書": []
         }
     ]
