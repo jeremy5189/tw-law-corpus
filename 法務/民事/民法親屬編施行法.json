@@ -1,8 +1,8 @@
 {
     "title": "民法親屬編施行法",
     "versions": [
-        "中華民國85年9月6日修正",
-        "中華民國85年9月25日公布"
+        "中華民國89年1月14日修正",
+        "中華民國89年2月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -100,6 +100,12 @@
             "relates": {}
         },
         {
+            "note": "(法定監護人)",
+            "rule_no": "第十四條 之一",
+            "content": "　　本法於民國八十九年一月十四日修正前已依民法第一千零九十四條任監護人者，於修正公布後，仍適用修正後同條第二項至第四項之規定。",
+            "relates": {}
+        },
+        {
             "note": "(施行日)",
             "rule_no": "第十五條",
             "content": "　　本施行法自民法親屬編施行之日施行。\n　　民法親屬編修正條文及本施行法修正條文自公布日施行。",
@@ -107,46 +113,34 @@
         }
     ],
     "law_reasons": {
-        "第六條 之一": "　　一、本條新增。\n　　二、在民國七十四年六月四日以前，妻於婚姻關係中非因繼承或其他無償取得之財產，均非為妻之原有財產，其所有權歸屬於夫。然而此類型案例，除本施行法有特別規定之外，不適用修正後之規定。故本條明訂婚姻關係存續中以妻之名義在七十四年六月四日以前取得不動產，而今婚姻關係尚存續中且該不動產仍以妻之名義登記者或夫妻已離婚而該不動產仍以妻之名義登記者在新法施行後一年緩衝期間內，得由夫妻重新認定財產之歸屬，於施行一年後，則一體適用新法，以配合登記制度並維護妻之權益。"
+        "第十四條 之一": "　　一、本條新增。\n　　二、民法第一０九四條之修正係導因於九二一大地震，為使問題得以確實解決，故特強制規定本條自民國八十八年十二月三十日修正前，已依民法第一千零九十四條任監護人者，於修正公布後，仍適用修正後同條第二項至第四項之規定方能徹底照顧在九二一大地震中需要照顧之未成年人。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "850611",
-            "立法紀錄": "85卷32期2854號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc781c7cacccdcfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "謝啟大",
+            "會議日期": "890114",
+            "立法紀錄": "89卷9期3068號二冊 147-148頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc681c7c6cfc6cfcdc4cfcecbc8c4cfcecbc7",
+            "主提案": "曾永權",
             "關係文書": [
                 [
-                    "null",
-                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcecdcfcecfcfc7"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecacfcdc5cacbccd2cacbca"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "850617",
-            "立法紀錄": "85卷36期2858號下冊 5-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc781c7caccc9cfccc4cfcfcfcac4cfcfcece",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "850906",
-            "立法紀錄": "85卷40期2862號一冊 247-254頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc781c7cacbcfcfcec4cfcdcbc8c4cfcdcacb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcfcecfccc5cecad2cec7"
-                ]
-            ]
+            "會議日期": "890114",
+            "立法紀錄": "89卷9期3068號二冊 148-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc681c7c6cfc6cfcdc4cfcecbc7c4cfcecbc6",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "850906",
-            "立法紀錄": "85卷40期2862號一冊 254-254頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc781c7cacbcfcfcec4cfcdcacbc4cfcdcacb",
+            "會議日期": "890114",
+            "立法紀錄": "89卷9期3068號二冊 149-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccccc681c7c6cfc6cfcdc4cfcecbc6c4cfcecbc6",
             "關係文書": []
         }
     ]
