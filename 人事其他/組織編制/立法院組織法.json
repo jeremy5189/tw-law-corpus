@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國82年1月15日修正",
-        "中華民國82年10月20日公布"
+        "中華民國82年12月3日修正",
+        "中華民國82年12月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -96,7 +96,7 @@
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　立法院設紀律委員會，其組織規程，由立法院定之。",
+            "content": "　　立法院設紀律委員會，其組織規程，由立法院定之。\n　　立法院依憲法第一百七十四條之規定，設修憲委員會，其組織規程，由立法院定之。",
             "relates": {}
         },
         {
@@ -120,7 +120,7 @@
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　立法院各委員會委員人數，以立法院委員總數除以前條所規定之委員會數，所得之商數加二為最高額。\n　　若參加委員超出前項所定之人數時，則於召集委員選舉前五日，由各該委員會登記之委員抽籤決定之。\n　　每一委員以參加一委員會為限。",
+            "content": "　　立法院各委員會委員人數，以十八人為最高額。\n　　若參加委員超出前項所定之人數時，則於召集委員選舉前五日，由各該委員會登記之委員抽籤決定之。\n　　每一委員以參加一委員會為限。",
             "relates": {}
         },
         {
@@ -203,34 +203,34 @@
         }
     ],
     "law_reasons": {
-        "第十八條": "　　一、為強化立法院組織結構與功能。\n　　二、為因應第二屆立法委員參加各委員會意願之需要，精減兩個委員會後可充實各委員會之參加人數，以增進議事效率。"
+        "第十五條": "　　現行憲法第一百七十四條第二款明確規定，賦予立法院修憲之權利，但自行憲以來，政治體制處於長期扭曲之狀態，致使此項權利從未曾實施，亦無法落實。由於立法院組織法之位階屬於法律性質，若將修憲委員會之組織規程列入其中，則修法程序繁複、且曠日廢時，因此，以立法院內規處理較具時效性。如此，一方面使修憲委員會之設置取得法律依據，一方面將其組織規程委由立法院依內規之方式訂定，兼具合法性及時效性。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820114",
-            "立法紀錄": "82卷4期2603號上冊 30-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c881c7cdcfcbcfcec4cfcfcccfc4cfcfcccb",
-            "主提案": "羅傳進",
+            "會議日期": "821203",
+            "立法紀錄": "82卷69期2668號下冊 20-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cf81c7cdc9c6cfccc4cfcfcdcfc4cfcfcccc",
+            "主提案": "廖福本",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcec9cfcdc5cec9c8d2cec9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcececfcdc5caccc7d2caccc6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "820115",
-            "立法紀錄": "82卷4期2603號中冊 266-278頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c881c7cdcfcbcfcdc4cfcdc9c9c4cfcdc8c7",
+            "會議日期": "821203",
+            "立法紀錄": "82卷69期2668號下冊 34-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cf81c7cdc9c6cfccc4cfcfcccbc4cfcfcbcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "820115",
-            "立法紀錄": "82卷4期2603號中冊 278-278頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c881c7cdcfcbcfcdc4cfcdc8c7c4cfcdc8c7",
+            "會議日期": "821203",
+            "立法紀錄": "82卷69期2668號下冊 44-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cf81c7cdc9c6cfccc4cfcfcbcbc4cfcfcbca",
             "關係文書": []
         }
     ]
