@@ -1,8 +1,8 @@
 {
     "title": "老年農民福利津貼暫行條例",
     "versions": [
-        "中華民國89年5月26日修正",
-        "中華民國89年6月14日公布"
+        "中華民國91年5月21日修正",
+        "中華民國91年6月12日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　符合前條資格條件之老年農民，得申請發給福利津貼，每月新臺幣三千元，發放至本人死亡當月止。\n　　同一期間兼具前條及政府發放之生活補助或津貼之資格條件者，得擇一申領之。\n　　已領取社會保險老年給付者，於本條例修正通過後再加入農民健康保險者或加入勞工保險之漁會甲類會員，不適用本條例之規定。\n　　不符本條例資格而領取福利津貼者，其溢領之福利津貼應由本人或法定繼承人自事實發生之日起三十日內繳還；未繳還者，應依法追訴。\n　　老年農民福利津貼申領及核發辦法，由中央主管機關定之。",
+            "content": "　　符合前條資格條件之老年農民，得申請發給福利津貼，每月新臺幣三千元，發放至本人死亡當月止。\n　　本津貼之發放，經審查合格後，自受理申請日當月起算。\n　　同一期間兼具前條及政府發放之生活補助或津貼之資格條件者，得擇一申領之。\n　　已領取社會保險老年給付者，於本條例修正通過後再加入農民健康保險者或加入勞工保險之漁會甲類會員，不適用本條例之規定。\n　　不符本條例資格而領取福利津貼者，其溢領之福利津貼，應由本人或法定繼承人自事實發生之日起三十日內繳還；未繳還者，應依法追訴。\n　　老年農民福利津貼申領及核發辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -53,46 +53,41 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　為因應臺灣省政府功能與組織調整，爰修正本條，將省主管機關刪除。"
+        "第四條": "　　一、增列第二項，並將現行條文第五項修正，移列為修正條文第四條之一。\n　　二、為期明確，將老年農民福利津貼申領及核發辦法第十條規定，修正納入本條修正條文第二項。\n　　三、現行「老年農民福利津貼申領及核發辦法」係依原條文第四條第五項授權訂定，茲配合行政程序法之施行，爰修正之，並將項次調整為修正條文第六項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881029",
-            "立法紀錄": "88卷46期3046號上冊 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9ca81c7c7cbc9cfcec4cfcfcfccc4cfcfcfcb",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c981c6cecccccfcec4cfcfcecec4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc9cfcec5cdcfc9d2cdcfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "890410",
-            "立法紀錄": "89卷18期3077號 299-320頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9ca81c7c6cec7cfcfc4cfcdc6c6c4cfcccdcf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910521",
+            "立法紀錄": "91卷36期3232號上冊 52-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c981c6ceccc9cfcec4cfcfcacdc4cfcfcaca",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "890526",
-            "立法紀錄": "89卷29期3088號 43-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9ca81c7c6cdc6cfcfc4cfcfcbccc4cfcfcbc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecfcfcfc5cccacdd2cccacb"
-                ]
-            ]
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910521",
+            "立法紀錄": "91卷36期3232號上冊 59-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c981c6ceccc9cfcec4cfcfcac6c4cfcfc9cf",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "890526",
-            "立法紀錄": "89卷29期3088號 46-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9ca81c7c6cdc6cfcfc4cfcfcbc9c4cfcfcbc9",
+            "會議日期": "910521",
+            "立法紀錄": "91卷36期3232號上冊 75-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c981c6ceccc9cfcec4cfcfc8cac4cfcfc8ca",
             "關係文書": []
         }
     ]
