@@ -1,12 +1,10 @@
 {
     "title": "中華民國七十一年度中央政府總預算施行條例",
     "versions": [
-        "中華民國70年5月30日制定",
-        "中華民國70年6月10日公布"
+        "中華民國76年9月3日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -82,40 +80,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "700327",
-            "立法紀錄": "70卷25期1406號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbcdce81c8cfc9c8cdcacfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "700525",
-            "立法紀錄": "71卷10期1495號 68-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbcdce81c8cec9c7cecfcfcfc4cfcfc9c7c4cfcfc8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "700529",
-            "立法紀錄": "70卷43期1424號 61-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbcdce81c8cfc9c8cbcccfcfc4cfcfc9cec4cfcfc9cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcacfcfc5c9c6cfd2c8cdc8"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "700530",
-            "立法紀錄": "70卷44期1425號 36-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbcdce81c8cfc9c8cbcbcfcfc4cfcfccc9c4cfcfccc9",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
