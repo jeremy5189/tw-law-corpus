@@ -1,8 +1,8 @@
 {
     "title": "駐外外交領事人員任用條例",
     "versions": [
-        "中華民國48年6月9日制定",
-        "中華民國48年6月18日公布"
+        "中華民國52年7月30日修正",
+        "中華民國52年8月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,13 +18,13 @@
         {
             "note": "(駐外外交領事人員之定義)",
             "rule_no": "第二條",
-            "content": "　　本條例所稱之駐外外交領事人員如左：\n　　一、公使。\n　　二、參事。\n　　三、一等秘書、二等秘書、三等秘書、助理三等秘書。\n　　四、總領事。\n　　五、領事館領事。\n　　六、總領事館領事。\n　　七、副領事、助理副領事。\n　　公使、參事、總領事，簡任。一等秘書、二等秘書、三等秘書、領事館領事、總領事館領事、副領事、助理三等秘書、助理副領事，薦任。",
+            "content": "　　本條例所稱之駐外外交領事人員如左：\n　　一、公使。\n　　二、參事。\n　　三、一等秘書、二等秘書、三等秘書。\n　　四、總領事。\n　　五、領事館領事。\n　　六、總領事館領事。\n　　七、副領事。\n　　公使、參事、總領事，簡任。一等秘書、二等秘書、三等秘書、領事館領事、總領事館領事、副領事，薦任。",
             "relates": {}
         },
         {
             "note": "(駐外外交領事人員之資格)",
             "rule_no": "第三條",
-            "content": "　　駐外外交領事人員，應就具有左列各款資格之一者任用之：\n　　一、曾經高等考試、外交官領事官考試及格者。\n　　二、在本條例施行前，曾任相當於本條例規定之外交領事人員經銓敘合格者。",
+            "content": "　　駐外外交領事人員，應就具有左列各款資格之一者任用之：\n　　一、曾經高等考試或特種考試外交官、領事官考試及格者。\n　　二、在本條例施行前，曾任外交領事人員經銓敘合格者。",
             "relates": {}
         },
         {
@@ -48,7 +48,7 @@
         {
             "note": "(任期之規定)",
             "rule_no": "第七條",
-            "content": "　　駐外外交領事人員除助理三等秘書及助理副領事外服務期間，以三年為一任，必要時得予延長。但延長期間不得超過三年，任滿調回外交部服務。\n　　駐外外交領事人員於駐外任期內，得以同一職務調任其他駐外外交機構服務。但其駐外期間合計不得超過六年。",
+            "content": "　　駐外外交領事人員服務期間，以三年為一任，必要時得予延長。但延長期間不得超過三年，任滿調回外交部服務。\n　　駐外外交領事人員於駐外任期內，得以同一職務調任其他駐外外交機構服務。但其駐外期間合計不得超過六年。",
             "relates": {}
         },
         {
@@ -60,7 +60,7 @@
         {
             "note": "(晉升之規定)",
             "rule_no": "第九條",
-            "content": "　　駐外外交領事人員除助理三等秘書、助理副領事任職一年以上，成績優良者，得晉升三等秘書或副領事外，任同一職務滿三年以上成績優良者，依左列之規定晉升：\n　　一、三等秘書、副領事，三年考績平均分數在一等以上者，應升任二等秘書或總領事館領事。\n　　二、二等秘書、總領事館領事，三年考績平均分數在一等以上者，應升任一等秘書或領事館領事。\n　　三、一等秘書、領事館領事，三年考績取得升等任用資格者，得升任參事或總領事。\n　　四、參事、總領事，三年考績平均分數在一等以上者，得升任公使。\n　　前項應晉升人員無缺可升時，應先予存記。其具有第三條第一款資格者，並應優先晉升。",
+            "content": "　　駐外外交領事人員任同一職務滿三年以上，成績優良者，依左列之規定晉升：\n　　一、三等秘書、副領事，三年考績平均分數在一等以上者，應升任二等秘書或總領事館領事。\n　　二、二等秘書、總領事館領事，三年考績平均分數在一等以上者，應升任一等秘書或領事館領事。\n　　三、一等秘書、領事館領事，三年考績取得升等任用資格者，得升任參事或總領事。\n　　四、參事、總領事，三年考績平均分數在一等以上者，得升任公使。\n　　前項應晉升人員無缺可升時，應先予存記。其具有第三條第一款資格者，並應優先晉升。",
             "relates": {}
         },
         {
@@ -97,55 +97,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "470422",
-            "立法紀錄": "47卷21期號9冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cdc681cbc8cdcecfc6c4cfcfcfc7c4cfcfcfc7",
-            "主提案": "行政院、考試院",
+            "會議日期": "510706",
+            "立法紀錄": "51卷29期號15冊 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8ccce81cacecdc6cecac4cfcfcbc7c4cfcfcbc7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcdcfcfc5cdc6c6d2cccec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5cccec8d2cccdc9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480602",
-            "立法紀錄": "48卷23期號16冊 9-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cdc681cbc7cdcccec9c4cfcfcfc6c4cfcfcdc7",
+            "會議日期": "520726",
+            "立法紀錄": "52卷31期號15冊 6-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8ccce81cacdcccececac4cfcfcfc9c4cfcfcec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5cccccfd2ccccca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcdcfcfc5c8ccc9d2c8cbca"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480602",
-            "立法紀錄": "48卷23期號15冊 93-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cdc681cbc7cdcccecac4cfcfc6ccc4cfcfc6cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "480605",
-            "立法紀錄": "48卷23期號16冊 48-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cdc681cbc7cdcccec9c4cfcfcbc7c4cfcfcace",
+            "會議日期": "520726",
+            "立法紀錄": "52卷31期號15冊 66-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8ccce81cacdcccececac4cfcfc9c9c4cfcfc8ce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480605",
-            "立法紀錄": "48卷23期號16冊 51-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cdc681cbc7cdcccec9c4cfcfcacec4cfcfc9ca",
+            "會議日期": "520726",
+            "立法紀錄": "52卷31期號15冊 72-73頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8ccce81cacdcccececac4cfcfc8cdc4cfcfc8cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480609",
-            "立法紀錄": "48卷23期號16冊 119-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cdc681cbc7cdcccec9c4cfcecec6c4cfcecdcc",
+            "會議日期": "520730",
+            "立法紀錄": "52卷31期號15冊 88-90頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8ccce81cacdcccececac4cfcfc7c7c4cfcfc6cf",
             "關係文書": []
         }
     ]
