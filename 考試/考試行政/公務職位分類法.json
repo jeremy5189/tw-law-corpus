@@ -1,8 +1,8 @@
 {
     "title": "公務職位分類法",
     "versions": [
-        "中華民國47年10月17日制定",
-        "中華民國47年10月30日公布"
+        "中華民國56年12月5日修正",
+        "中華民國56年12月19日公布"
     ],
     "types": [
         "立法歷程",
@@ -24,84 +24,78 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　適用職位分類之機關或職位，應經立法程序公布之。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第四條",
             "content": "　　職位應依工作之性質繁簡難易，責任輕重，及所需資格條件予以分類。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第五條",
+            "rule_no": "第四條",
             "content": "　　無論在任何機關，凡職位相似者，應屬於同一職級，凡性質相似之職級，應屬於同一職系。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第六條",
+            "rule_no": "第五條",
             "content": "　　每一職級，應制定職級規範，明示職級之名稱，編號，特徵，工作舉例，所需資格，與專門知能，及其他必要之事項。\n　　前項職級規範，由考試院公告之。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第七條",
+            "rule_no": "第六條",
             "content": "　　職位應依左例規定，予以歸級：\n　　一、所任工作之性質屬於同一職系者，以其工作之性質繁簡難易，責任輕重，及所需資格條件為準。\n　　二、所任工作之性質屬兩職系以上，而其工作繁簡難易，責任輕重，及所需資格條件程度相當者，以其工作時間較多之工作性質為準。\n　　三、所任工作之性質屬兩職系以上，而其工作繁簡難易，責任輕重，及所需資格條件程度不相當者，以其程度較高之工作性質為準。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第八條",
+            "rule_no": "第七條",
             "content": "　　職級應依其工作繁簡難易，責任輕重，及所需資格條件予以列等。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第九條",
+            "rule_no": "第八條",
             "content": "　　機關實施職位分類之職位，應由銓敘部依本法及職級規範歸入適當之職級，列表送達實施機關，並轉知工作人員。\n　　前項實施機關或工作人員，對職位歸級如有異議，得陳明事實及理由，聲請覆核。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十條",
+            "rule_no": "第九條",
             "content": "　　職位歸級後，如歸級不當，或職位之職務與責任有變動時，由銓敘部調整之，並適用前條之規定。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十一條",
+            "rule_no": "第十條",
             "content": "　　實施職位分類機關，因業務上之需要，須增設變更或減少職位時，其分類填具職位調查表，送由銓敘部依法辦理。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十二條",
+            "rule_no": "第十一條",
             "content": "　　實施分類之職位，其人員之考試任用、俸給、考績、退休等，應以職級為依據，分別由考選部銓敘部主管。\n　　前項考試任用俸給考績退休等，另以法律定之。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十三條",
+            "rule_no": "第十二條",
             "content": "　　實施職位分類機關，對於人事管理預算及會計科目，應統一使用各職級之名稱。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十四條",
+            "rule_no": "第十三條",
             "content": "　　公務人員對於職位調查，不得拒絕或為虛偽之陳述。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十五條",
+            "rule_no": "第十四條",
             "content": "　　本法施行細則，由考試院定之。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十六條",
+            "rule_no": "第十五條",
             "content": "　　本法自公布日施行。",
             "relates": {}
         }
@@ -109,56 +103,23 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "451211",
-            "立法紀錄": "46卷18期號5冊 106-106頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9cc81cbc9cec7cfcac4cfcecfc9c4cfcecfc9",
-            "主提案": "考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cdc9cfd2cdc9c8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "471014",
-            "立法紀錄": "47卷22期號8冊 3-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9cc81cbc8cdcdcfc7c4cfcfcfccc4cfcfceca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcccfcfc5cacccdd2cacbce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "471014",
-            "立法紀錄": "47卷22期號7冊 117-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9cc81cbc8cdcdcfc8c4cfcecec8c4cfcecdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "471017",
-            "立法紀錄": "47卷22期號8冊 24-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9cc81cbc8cdcdcfc7c4cfcfcdcbc4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "471017",
-            "立法紀錄": "47卷22期號8冊 33-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9cc81cbc8cdcdcfc7c4cfcfccccc4cfcfccca",
+            "會議日期": "561205",
+            "立法紀錄": "56卷2期號12冊 2309-2391頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9cb81cac9cbcfcfcdcecdc4cdcccfc6c4cdccc6ce",
+            "主提案": "張金鑑",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "471017",
-            "立法紀錄": "47卷22期號8冊 35-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9cc81cbc8cdcdcfc7c4cfcfcccac4cfcfccc9",
-            "關係文書": []
+            "會議日期": "561205",
+            "立法紀錄": "56卷2期號12冊 2392-2392頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcac9cb81cac9cbcfcfcdcecdc4cdccc6cdc4cdccc6cd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5cbcdccd2cbcdcb"
+                ]
+            ]
         }
     ]
 }
