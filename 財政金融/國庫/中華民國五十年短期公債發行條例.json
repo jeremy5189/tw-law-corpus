@@ -1,11 +1,12 @@
 {
     "title": "中華民國五十年短期公債發行條例",
     "versions": [
-        "中華民國51年1月16日修正",
-        "中華民國51年1月25日公布"
+        "中華民國59年11月13日廢止",
+        "中華民國59年11月25日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -73,6 +74,30 @@
             "rule_no": "第十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「中華民國五十年短期公債發行條例」，係於50年7月24日公布施行。依該條例所定該項公債之還本付息期限，其應支付之本息，自開付之日起，計算至當年會計年度終了後五年止，最後截至59年6月30日終止兌付。現該項兌付期限業經屆滿，從而該條例所規定之事項，已屬執行完畢，爰依法予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "590728",
+            "立法紀錄": "59卷57期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6ca81cac6cbcacac8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "590813",
+            "立法紀錄": "59卷84期號 33-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6ca81cac6cbc9c7cbcfcfcfcdc4cfcfccccc4cfcfccca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "591113",
+            "立法紀錄": "59卷84期號 22-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6ca81cac6cbc9c7cbcfcfcfcec4cfcfcdcdc4cfcfcdcc",
+            "關係文書": []
         }
     ]
 }
