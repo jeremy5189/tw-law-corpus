@@ -1,10 +1,12 @@
 {
     "title": "中華民國七十八年度所得稅稅率條例",
     "versions": [
-        "中華民國79年6月30日期滿廢止"
+        "中華民國77年12月30日制定",
+        "中華民國77年12月30日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -44,5 +46,52 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "771125",
+            "立法紀錄": "77卷95期2206號 159-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbce81c8c8cfc6cacfcfc4cfcecac6c4cfcec9cf",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcec9cfcfc5cecad2cdca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "771130",
+            "立法紀錄": "78卷41期2257號 230-241頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbce81c8c7cfcbcecfcfc4cfcdcccfc4cfcdcbce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "771203",
+            "立法紀錄": "78卷43期2259號 106-129頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbce81c8c7cfcbcccfcfc4cfcecfc9c4cfcecdc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "771223",
+            "立法紀錄": "77卷103期2214號 23-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbce81c8c8cecfcccfcfc4cfcfcdccc4cfcfc9cb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcec6cfcfc5c7c8c9d2c7c7c8"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "771230",
+            "立法紀錄": "77卷105期2216號一冊 16-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcbce81c8c8cecfcacfcec4cfcfcec9c4cfcfcccb",
+            "關係文書": []
+        }
+    ]
 }
