@@ -1,12 +1,12 @@
 {
     "title": "中央再保險公司條例",
     "versions": [
-        "中華民國61年11月14日制定",
-        "中華民國61年11月24日公布"
+        "中華民國88年6月1日修正",
+        "中華民國88年6月16日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -16,9 +16,9 @@
             "relates": {}
         },
         {
-            "note": "(公司性質及資本額)",
+            "note": "(公司性質)",
             "rule_no": "第二條",
-            "content": "　　中央再保險公司為股份有限公司，其資本百分之五十一以上，由國庫撥給；百分之四十九以下，得經行政院核定，由公民營保險業參加認股。\n　　前項資本額，由財政部以命令定之。",
+            "content": "　　中央再保險公司為股份有限公司。",
             "relates": {}
         },
         {
@@ -94,100 +94,47 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　一、原條文規定，中央再保險公司之國庫持股應有百分之五十一以上，為國營公司，且股東僅限於國庫及公、民營保險業。為因應未來民營化國庫釋股及員工認股之需，爰刪除第一項有關國庫持股比率及股東認股之限制規定。\n　　二、保險法第一百三十九條及第一百四十三條第一項既已就保險業之最低實收資本額及應限期增資事項予以規範，爰刪除第二項規定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "610331",
-            "立法紀錄": "61卷26期479號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecbc6cdc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "871001",
+            "立法紀錄": "87卷36期2985號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c7c8ccc9cfcec4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5cacbced2cacbc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfcdcfcfc5c7cfcad2c7cfc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "610422",
-            "立法紀錄": "61卷49期502號 11-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecbc6cbc6cfcfcfcdc4cfcfcecec4cfcfcec7",
+            "會議日期": "871231",
+            "立法紀錄": "88卷4期3004號 93-94頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c7c7cfcbcfcfc4cfcfc6ccc4cfcfc6cb",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "610503",
-            "立法紀錄": "61卷52期505號 15-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecbc6cacdcfcfcfcdc4cfcfcecac4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610524",
-            "立法紀錄": "61卷57期510號 21-26頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecbc6cac8cfcfcfcdc4cfcfcdcec4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610722",
-            "立法紀錄": "61卷73期526號 30-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecbc6c8cccfcfc4cfcfcccfc4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610731",
-            "立法紀錄": "61卷75期528號 29-33頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecbc6c8cacfcfc4cfcfcdc6c4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610807",
-            "立法紀錄": "61卷83期536號 7-10頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecacfc7cccfcfcfcdc4cfcfcfc8c4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "611027",
-            "立法紀錄": "61卷85期538號 8-35頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecacfc7cacfcfcfcec4cfcfcfc7c4cfcfccca",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "880601",
+            "立法紀錄": "88卷31期3031號一冊 70-73頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c7c7cccecfcec4cfcfc8cfc4cfcfc8cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcecfcfc5cacdcad2caccc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5cdccc8d2cdccc6"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "611031",
-            "立法紀錄": "61卷86期539號 23-40頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecacfc7c9cfcfcfcec4cfcfcdccc4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "611103",
-            "立法紀錄": "61卷87期540號 2-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecacfc7c8cfcfcfcec4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "611110",
-            "立法紀錄": "61卷89期542號 2-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecacfc7c6cfcfcfcec4cfcfcfcdc4cfcfcfc9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 2-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac781c9cecacfc6cfcfcfcfcec4cfcfcfcdc4cfcfcfca",
+            "會議日期": "880601",
+            "立法紀錄": "88卷31期3031號一冊 73-73頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c7c7cccecfcec4cfcfc8ccc4cfcfc8cc",
             "關係文書": []
         }
     ]
