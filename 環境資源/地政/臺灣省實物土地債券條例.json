@@ -1,12 +1,12 @@
 {
     "title": "臺灣省實物土地債券條例",
     "versions": [
-        "中華民國43年4月6日修正",
-        "中華民國43年4月22日公布"
+        "中華民國69年12月26日廢止",
+        "中華民國70年1月12日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -118,39 +118,32 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本條例已於民國五十五年執行完畢，惟當時因顧及將來全面實施耕者有其田政策時，尚須以該條例作為補償徵收耕地地價而發行實物土地債券之依據，爰暫行保留迄今；玆以當前社會、經濟情況已有變更，台灣省之行政區域亦經調整，本條例已難適用，故應予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430213",
-            "立法紀錄": "43卷13期號1冊 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcb81cbcccecccfcec4cfcfcac9c4cfcfcac9",
-            "主提案": "行政院",
+            "會議日期": "691125",
+            "立法紀錄": "69卷95期1371號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdca81c9c6c9c9c6cacfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5ccccc7d2cccbcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5c9c7cdd2c9c7c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "430406",
-            "立法紀錄": "43卷13期號3冊 24-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcb81cbcccecccfccc4cfcfcdcbc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430406",
-            "立法紀錄": "43卷13期號3冊 172-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcb81cbcccecccfccc4cfcec8cdc4cfcec8cc",
+            "進度": "委員會審查",
+            "會議日期": "691213",
+            "立法紀錄": "70卷13期1394號 2-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdca81c8cfc9c9cecccfcfc4cfcfcfcdc4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430406",
-            "立法紀錄": "43卷13期號3冊 173-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcb81cbcccecccfccc4cfcec8ccc4cfcec8cc",
+            "會議日期": "691226",
+            "立法紀錄": "69卷104期1380號 55-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdca81c9c6c9c9cecfcbcfcfc4cfcfcacac4cfcfcac9",
             "關係文書": []
         }
     ]
