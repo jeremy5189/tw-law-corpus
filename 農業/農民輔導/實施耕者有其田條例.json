@@ -1,12 +1,12 @@
 {
     "title": "實施耕者有其田條例",
     "versions": [
-        "中華民國43年12月14日修正",
-        "中華民國43年12月24日公布"
+        "中華民國82年7月9日廢止",
+        "中華民國82年7月30日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -246,57 +246,32 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　一、本條例之頒行，係為因應當時社會經濟之特殊需要，而今其階段性任務已完成，且現時社會型態、經濟環境變遷，本條例諸多規定已不合時宜。\n　　二、當今農業政策，應鼓勵無意留農者釋出農地，但一般人對於耕地不敢輕易放租，唯恐再度被徵收放領，致影響農業發展，故本條例之存在，以目前農業發展重視農地利用之趨向而言，不無心理障礙。故廢止之。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430713",
-            "立法紀錄": "43卷13期號10冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcccecccecfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "800528",
+            "立法紀錄": "80卷43期2467號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c9c881c7cfcfcbcccfcfc4cfcfcfcbc4cfcfcfcb",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cdcbcdd2cdcbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdc9cfcfc5c7c9d2c6ca"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "430730",
-            "立法紀錄": "43卷13期號7冊 92-92頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcccecccfc8c4cfcfc6cdc4cfcfc6cd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cccccfd2ccccce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 88-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcbcecbcfc9c4cfcfc7c7c4cfcfc6cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5cecad2cec8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 184-185頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcbcecbcfc9c4cfcec7cbc4cfcec7ca",
+            "進度": "委員會審查",
+            "會議日期": "810514",
+            "立法紀錄": "81卷41期2569號 325-334頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c9c881c7cecfcbcecfcfc4cfcccdcac4cfcccccb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 185-185頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9ca81cbcbcecbcfc9c4cfcec7cac4cfcec7ca",
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 38-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c9c881c7cdcbc9cfccc4cfcfccc7c4cfcfcbca",
             "關係文書": []
         }
     ]
