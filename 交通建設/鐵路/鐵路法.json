@@ -1,12 +1,12 @@
 {
     "title": "鐵路法",
     "versions": [
-        "中華民國67年7月14日全文修正",
-        "中華民國67年7月26日公布"
+        "中華民國90年5月8日修正",
+        "中華民國90年5月23日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -196,7 +196,7 @@
         {
             "note": "",
             "rule_no": "第二十九條",
-            "content": "　　地方營、民營鐵路之興建，經核准備案後，應依所定期限，將左列文書，送請交通部立案，發給執照，方得施工：\n　　一、路線實測平、剖面圖及說明。\n　　二、各項工程與機車車輛圖式及說明。\n　　三、全部工程分段實施計畫。\n　　四、資本總額，已收款數及餘款續收期限。\n　　五、管理組織系統；民營者應附具公司章程、股東名簿及董、監事、經理人名冊。",
+            "content": "　　地方營、民營鐵路之興建，經核准備案後，應依所定期限，將左列文書，送請交通部立案，發給執照，方得施工。未依核定期限申請立案者，應由交通部廢止其籌辦，並報請行政院備案：\n　　一、路線實測平、剖面圖及說明。\n　　二、各項工程與機車車輛圖式及說明。\n　　三、全部工程分段實施計畫。\n　　四、資本總額、已收款數及餘款續收期限。\n　　五、管理組織系統；民營者應附具公司章程、股東名簿及董、監事、經理人名冊。",
             "relates": {}
         },
         {
@@ -274,13 +274,13 @@
         {
             "note": "",
             "rule_no": "第四十二條",
-            "content": "　　地方營及民營鐵路機構，非攤提全路建築及設備折舊後，不得分配盈餘；全年純益超過實收資本總額百分之二十五時，其超過額之全數，應用以擴充或改良設備。",
+            "content": "　　地方營及民營鐵路機構，非攤提全路建築及設備折舊後，不得分配盈餘；全年純益超過實收資本總額百分之二十五時，其超過額之全數，應用以擴充或改良設備。但依政府獎勵民間投資法令公告徵求民間參與鐵路建設之興建、營運而受獎勵之民營鐵路機構，其攤提全路建築及設備折舊後之盈餘分配，不受百分之二十五之限制。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四十三條",
-            "content": "　　地方營及民營鐵路之會計制度，準用國營鐵路會計之規定。",
+            "content": "　　國營、地方營及民營鐵路之會計制度，應依相關法令、會計制度規範及一般公認會計原則擬訂，報交通部核定。",
             "relates": {}
         },
         {
@@ -430,13 +430,13 @@
         {
             "note": "",
             "rule_no": "第六十六條",
-            "content": "　　地方營、民營、專用鐵路有左列情形之一者，處二千元以上一萬元以下罰鍰，情節重大者，並得停止其營業之一部或全部或撤銷其立案：\n　　一、違反本法致有害公益、公安之行為者。\n　　二、私收外股或私借外資者。\n　　三、非由不可抗力，停止運輸，繼續至三個月以上者。\n　　四、違反第三條第二項之規定者。\n　　前項處分停止營業期間，或撤銷立案時，應採取適當措施，繼續維持客貨運輸業務。",
+            "content": "　　地方營、民營、專用鐵路有左列情形之一者，處新臺幣一百萬元以上五百萬元以下罰鍰：\n　　一、違反第三條第二項規定，未經核准而興建、延長、移轉或經營者。\n　　二、違反第十六條第二項規定，未經履勘核准而營運者。\n　　三、違反第三十五條規定，未經核定或未依核定實施運價者。\n　　四、非因不可抗力而停止營運者。\n　　有前項第一款或第二款情形者，並令其立即停止興建、延長、移轉或經營，其未遵行者，按日連續處罰，並得廢止其立案；有前項第三款情形者，並令其立即改正，未改正者，按日連續處罰，並得停止其營運之一部或全部或廢止其立案；有前項第四款情形者，並令其立即恢復營運，未遵行者，按日連續處罰至其恢復營運為止，並得廢止其立案。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六十七條",
-            "content": "　　地方營、民營、專用鐵路有左列情形之一者，處一千元以上五千元以下罰鍰：\n　　一、依本法應經核准事項而未經核准或報請核准時有虛偽情弊者。\n　　二、依本法應經公告之事項而不公告或公告中有虛偽情弊者。\n　　三、依本法應報告事項而不報告或報告不實者。\n　　四、經通知改正之事項，逾期仍不辦理者。",
+            "content": "　　地方營、民營、專用鐵路有左列情形之一者，處新臺幣三十萬元以上一百五十萬元以下罰鍰：\n　　一、違反第十六條第一項規定，未依核定期限開工、竣工者。\n　　二、違反第三十二條或第四十條規定，應報告事項而未報告者。\n　　三、違反第三十四條規定，未經核准聘僱外籍員工者。\n　　四、違反第三十六條或第四十一條規定，經通知改正而未改正者。\n　　五、違反第三十八條第一項規定，未經核准經營所營事業以外之客貨運輸及其他附屬事業者。\n　　六、違反第三十九條第一項規定，未經核准變更組織、增減資本、租借營業、抵押財產、移轉管理、宣告停業或終止營業者。\n　　七、違反第四十七條規定，未經公告或未依公告實施運價或雜費者。\n　　八、違反第五十六條規定者。\n　　有前項第一款、第三款至第七款情形之一者，並通知其限期改正或改善；屆期未改正或改善者，按日連續處罰；情節重大者，停止其營運之一部或全部或廢止其立案。\n　　地方營、民營或專用鐵路機構受停止營運或廢止立案處分時，應採取適當措施，繼續維持客貨運輸業務。",
             "relates": {}
         },
         {
@@ -498,114 +498,78 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二十九條": "　　為落實法律保留原則，爰將現行地方營、民營及專用鐵路監督實施辦法第十八條，對於地方營、民營鐵路逾期未申請立案，應廢止其籌辦之涉及人民權利義務之規定增訂於本條，並明定須報請行政院備案，以配合鐵路法第二十八條核准籌辦之程序。",
+        "第四十二條": "　　因高速鐵路計畫係民間投資案，具有特許營運年限之特性，因此限制其全年純益超過實收資本額百分之二十五時，其超過額之全數，應用以擴充或改良設備之規定，將使民間投資業者在特許營運時間內，難以維持合理報酬。爰增列但書，規定對於依政府獎勵民間投資法令公告徵求民間參與鐵路建設之興建、營運而受獎勵之民營鐵路機構，其攤提全路建築及設備折舊後之盈餘分配，不受百分之二十五之限制。",
+        "第四十三條": "　　現行民營鐵路機構準用國營鐵路機構之會計制度，確有窒礙難行之處，鑑於現行商業與證券交易相關法規對於民營鐵路機構已足以規範，另考量鐵路事業仍有其特殊性，爰予以修正之。",
+        "第六十六條": "　　依行政程序法之規定，使違法行政處分失其效力者為撤銷，使合法行政處分失其效力者為廢止，爰加以修正之。",
+        "第六十七條": "　　一、為落實法律保留原則，爰將現行地方營、民營及專用鐵路監督實施辦法第十八條，對於地方營、民營鐵路未依限期開工、竣工之涉及人民權利義務之處罰規定，酌予修正後增訂於第一項第一款。\n　　二、依行政程序法規定，使違法行政處分失其效力者為撤銷，使合法行政處分失其效力者為廢止，爰予以修正之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "670526",
-            "立法紀錄": "67卷42期1110號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cecbcdcfcfc4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "881001",
+            "立法紀錄": "88卷42期3042號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c7c7cbcdcfcec4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcbcfcfc5cec8c8d2cdcecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5caccc6d2cacbcb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "891024",
+            "立法紀錄": "89卷57期3116號上冊 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c7c6cac8cfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc9cfcec5cccaced2cccac8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "670605",
-            "立法紀錄": "67卷55期1123號 91-99頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cecacacfcfc4cfcfc6cec4cfcfc6c6",
+            "會議日期": "881122",
+            "立法紀錄": "88卷54期3054號下冊 221-233頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c7c7cacbcfccc4cfcdcdcec4cfcdcccc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "670612",
-            "立法紀錄": "67卷62期1130號 2-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cec9cdcfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670615",
-            "立法紀錄": "67卷66期1134號 2-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cec9c9cfcfc4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670619",
-            "立法紀錄": "67卷68期1136號 2-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cec9c7cfcfc4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670622",
-            "立法紀錄": "67卷70期1138號 2-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cec8cfcfcfc4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670626",
-            "立法紀錄": "67卷72期1140號 2-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cec8cdcfcfc4cfcfcfcdc4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670629",
-            "立法紀錄": "67卷73期1141號 2-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cec8cccfcfc4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670706",
-            "立法紀錄": "67卷83期1151號 21-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cdc7cccfcfc4cfcfcdcec4cfcfccce",
+            "會議日期": "900308",
+            "立法紀錄": "90卷13期3147號 3-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c6cfcecccfcfc4cfcfcfccc4cfcfcdcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "670711",
-            "立法紀錄": "67卷55期1123號 10-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cecacacfcfc4cfcfcecfc4cfcfcacb",
+            "會議日期": "900508",
+            "立法紀錄": "90卷24期3158號上冊 123-136頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c6cfcdcbcfcec4cfcecdccc4cfceccc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfc9cfcfc5cecacbd2cec6cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc8cfcfc5ccccc7d2cccbc9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "670711",
-            "立法紀錄": "67卷55期1123號 54-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cecacacfcfc4cfcfcacbc4cfcfc8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670714",
-            "立法紀錄": "67卷56期1124號 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cecac9cfcfc4cfcfcfcac4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670714",
-            "立法紀錄": "67卷56期1124號 38-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cecac9cfcfc4cfcfccc7c4cfcfccc7",
+            "會議日期": "900508",
+            "立法紀錄": "90卷24期3158號上冊 136-137頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c6cfcdcbcfcec4cfceccc9c4cfceccc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "670714",
-            "立法紀錄": "67卷56期1124號 53-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfccca81c9c8c9cecac9cfcfc4cfcfcaccc4cfcfc9ca",
+            "會議日期": "900508",
+            "立法紀錄": "90卷24期3158號上冊 137-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c6cfcdcbcfcec4cfceccc8c4cfceccc7",
             "關係文書": []
         }
     ]
