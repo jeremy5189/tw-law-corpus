@@ -1,11 +1,12 @@
 {
     "title": "郵政國內匯兌法",
     "versions": [
-        "中華民國20年6月20日制定",
-        "中華民國20年6月29日公布"
+        "中華民國92年4月29日廢止",
+        "中華民國92年5月7日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -97,6 +98,40 @@
             "rule_no": "第十五條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「郵政國內匯兌法」、「郵政儲金法」、「交通部郵政總局組織法」、「郵政儲金匯業局組織法」、「交通部郵政總局郵區管理局組織通則」，配合郵政機關於民國92年1月1日改制為中華郵政股份有限公司，其有關規定已分由「郵政儲金匯兌法」及「中華郵政股份有限公司設置條例」加以規範，無繼續存在之必要，爰予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "920307",
+            "立法紀錄": "92卷12期3286號 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cecdc881c6cdcecdcfcfc4cfcfcfcbc4cfcfcfca",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcdcfcec5cdcfced2cdcdcb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "920331",
+            "立法紀錄": "92卷20期3294號上冊 127-152頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cecdc881c6cdcdcfcfcec4cfcecdc8c4cfcecacd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "920429",
+            "立法紀錄": "92卷23期3297號一冊 156-160頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cecdc881c6cdcdcccfcec4cfcecac9c4cfcec9cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfc6cfcdc5cdc6c7d2cccfca"
+                ]
+            ]
         }
     ]
 }
