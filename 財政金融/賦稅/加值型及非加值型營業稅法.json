@@ -1,8 +1,8 @@
 {
     "title": "加值型及非加值型營業稅法",
     "versions": [
-        "中華民國86年4月15日修正",
-        "中華民國86年5月7日公布"
+        "中華民國86年5月16日修正",
+        "中華民國86年5月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -364,9 +364,9 @@
             "relates": {}
         },
         {
-            "note": "(漏開統一發票或短開銷售額之處罰)",
+            "note": "(漏開統一發票之處罰)",
             "rule_no": "第五十二條",
-            "content": "　　營業人漏開統一發票或於統一發票上短開銷售額經查獲者，應就短漏開銷售額按規定稅率計算稅額繳納稅款外，處五倍至二十倍罰鍰。一年內經查獲達三次者，並停止其營業。",
+            "content": "　　營業人漏開統一發票或於統一發票上短開銷售額經查獲者，應就短漏開銷售額按規定稅率計算稅額繳納稅款外，處一倍至十倍罰鍰。一年內經查獲達三次者，並停止其營業。",
             "relates": {}
         },
         {
@@ -423,47 +423,46 @@
         }
     ],
     "law_reasons": {
-        "第十六條": "　　一、第一項未修正。\n　　二、為配合菸酒專賣改制及入關談判，原課徵公賣利益之菸酒產品未來將改課菸酒稅，菸酒稅係屬菸酒產品銷售價格之一部分，自應併計為營業稅之課稅基礎，爰修正第二項予以納入。",
-        "第二十條": "　　一、為配合加入世界貿易組織，商港建設費因非屬稅捐，不宜列入進口貨物之完稅價格中，爰刪除第一項中「及商港建設費」等文字。\n　　二、為配合菸酒專賣改制及入關談判，原屬貨物稅性質而課徵公賣利益之進口菸酒產品未來將改課菸酒稅，菸酒稅既屬進口稅捐之一部分，自應併計為營業稅之課稅基礎，爰修正第二項予以納入。"
+        "第五十二條": "　　配合本法第五十一條修正公布，爰修正本條罰鍰倍數。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "851217",
-            "立法紀錄": "85卷68期2890號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac8ca81c7cac9c7cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "850614",
+            "立法紀錄": "85卷33期2855號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac8c981c7cacccccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "李必賢",
             "關係文書": [
                 [
                     "null",
-                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcdc9cecfcece"
+                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcecdcececfcfcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "860317",
-            "立法紀錄": "86卷10期2902號下冊 317-362頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac8ca81c7c9cecfcfccc4cfcccec8c4cfccc9cd",
+            "會議日期": "851002",
+            "立法紀錄": "85卷49期2871號 279-290頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac8c981c7cacbc6cfcfc4cfcdc8c6c4cfcdc6cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 139-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac8ca81c7c9cec8cfcec4cfceccc6c4cfcecbcb",
+            "會議日期": "860516",
+            "立法紀錄": "86卷26期2918號上冊 246-249頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac8c981c7c9cdc9cfcec4cfcdcbc9c4cfcdcbc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5ccc7ccd2ccc7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccec9cfcfc5ccc9cfd2ccc9cc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 144-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac8ca81c7c9cec8cfcec4cfcecbcbc4cfcecbcb",
+            "會議日期": "860516",
+            "立法紀錄": "86卷26期2918號上冊 249-249頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac8c981c7c9cdc9cfcec4cfcdcbc6c4cfcdcbc6",
             "關係文書": []
         }
     ]
