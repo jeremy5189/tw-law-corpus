@@ -1,8 +1,8 @@
 {
     "title": "戶籍法",
     "versions": [
-        "中華民國89年6月20日修正",
-        "中華民國89年7月5日公布"
+        "中華民國92年12月26日修正",
+        "中華民國93年1月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -190,13 +190,13 @@
         {
             "note": "(戶籍登記之受理機關)",
             "rule_no": "第二十八條",
-            "content": "　　戶籍登記之申請，向當事人戶籍所在地之戶政事務所為之。但遷出登記得向遷入地戶政事務所為之。",
+            "content": "　　戶籍登記之申請，應向當事人戶籍所在地之戶政事務所為之。但有下列情形之一者，不在此限：\n　　一、遷出登記，得向遷入地戶政事務所為之。\n　　二、經內政部公告指定項目之登記，得向戶籍所在地以外之戶政事務所為之。",
             "relates": {}
         },
         {
             "note": "(戶籍登記之申請方式)",
             "rule_no": "第二十九條",
-            "content": "　　登記之申請，由申請人以書面或言詞向戶政事務所為之。",
+            "content": "　　登記之申請，由申請人以書面、言詞或網路向戶政事務所為之。\n　　依前項規定以網路申請登記之項目，由內政部公告指定之。",
             "relates": {}
         },
         {
@@ -405,48 +405,47 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　配合臺灣省政府功能業務與組織調整，刪除省政府為主管機關。",
-        "第五條": "　　配合地方制度法第七條有關「鄉（鎮、市、區）」之用詞，將「縣轄市」修正為「市」。",
-        "第五十二條": "　　配合臺灣省政府功能業務與組織調整，將「各級地方戶政機關」明確規定為「直轄市、縣（市）政府及其所屬戶政事務所」。"
+        "第二十八條": "　　一、目前民眾申請戶籍登記，除遷出登記向遷入地戶政事務所辦理外，其他戶籍登記均須至戶籍所在地戶政事務所辦理。\n　　二、為配合擴大異地申辦戶政業務免除轄區管理藩籬限制，提供跨區、跨直轄市、縣（市）為民服務，增列有關戶籍登記之申請，經內政部公告指定之項目得向當事人戶籍所在地以外之戶政事務所為之，爰修正原條文，將但書改列為第一款，並增訂第二款。",
+        "第二十九條": "　　一、配合電子化政府需求，於第一項增列網路申請。\n　　二、增訂第二項，有關網路申請登記之項目，授權內政部定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881210",
-            "立法紀錄": "88卷56期3056號一冊 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c881c7c7cac9cfcec4cfcfceccc4cfcfcecc",
+            "會議日期": "921114",
+            "立法紀錄": "92卷51期3325號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c781c6cdcacecfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc8cfcec5cdc9d2cdc7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecfcfcec5cdcfced2cdcfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890511",
-            "立法紀錄": "89卷28期3087號 367-385頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c881c7c6cdc7cfcfc4cfccc9c8c4cfccc7ca",
+            "會議日期": "921217",
+            "立法紀錄": "93卷2期3336號下冊 231-250頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c781c6cccfcdcfccc4cfcdcccec4cfcdcacf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890620",
-            "立法紀錄": "89卷36期3095號上冊 36-40頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c881c7c6ccc9cfcec4cfcfccc9c4cfcfcbcf",
+            "會議日期": "921226",
+            "立法紀錄": "93卷2期3336號上冊 215-218頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c781c6cccfcdcfcec4cfcdcecac4cfcdcec7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cbc8ced2cbc8ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfcfc5cac8cbd2cac8c6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "890620",
-            "立法紀錄": "89卷36期3095號上冊 40-40頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c881c7c6ccc9cfcec4cfcfcbcfc4cfcfcbcf",
+            "會議日期": "921226",
+            "立法紀錄": "93卷2期3336號上冊 218-218頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc6c781c6cccfcdcfcec4cfcdcec7c4cfcdcec7",
             "關係文書": []
         }
     ]
