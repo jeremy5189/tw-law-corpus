@@ -1,12 +1,12 @@
 {
     "title": "度量衡器及計量器營業條例",
     "versions": [
-        "中華民國43年3月9日全文修正",
-        "中華民國43年3月22日公布"
+        "中華民國73年4月6日廢止",
+        "中華民國73年4月18日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -70,125 +70,25 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　現行度量衡法自四十四年修正以來，今已不克因應當前科技與工業之需要，而本法除營業許可、納費及罰則等部分須由法律規定外，其餘多屬程序事項或解釋性之條文，爰參照一九六Ｏ年國際度量衡大會訂定之國際單位制，配合我國社會實況，將度量衡營業部分合併訂入度量衡法內，另增援權規定，將程序事項及解釋性事項改由行政命定之。故本法已因「度量衡法」的修正而無存在必要，應予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "401221",
-            "立法紀錄": " ",
-            "主提案": "行政院",
+            "會議日期": "721101",
+            "立法紀錄": "72卷88期1677號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacac981c8cdc8cdc7c7cfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecfc7cfcdcfcfc5cacec6d2caccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cdcfcbcfcfc5cec6cfd2cdcecd"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "420505",
-            "立法紀錄": " ",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5ccc8c9d2ccc7cf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420522",
-            "立法紀錄": "42卷11期號8冊 190-196頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcececfc7c4cfcec6cfc4cfcec6c9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcdcfcfc5cecad2cccb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420526",
-            "立法紀錄": "42卷11期號9冊 114-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcececfc6c4cfcececbc4cfcecec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421120",
-            "立法紀錄": "42卷12期號5冊 26-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfcac4cfcfcdc9c4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421124",
-            "立法紀錄": "42卷12期號5冊 43-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfcac4cfcfcbccc4cfcfcaca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421127",
-            "立法紀錄": "42卷12期號5冊 68-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfcac4cfcfc9c7c4cfcfc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421201",
-            "立法紀錄": "42卷12期號6冊 9-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfc9c4cfcfcfc6c4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421204",
-            "立法紀錄": "42卷12期號6冊 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcdcecdcfc9c4cfcfcecdc4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421211",
-            "立法紀錄": "43卷12期號7冊 26-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecdcfc8c4cfcfcdc9c4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421215",
-            "立法紀錄": "43卷12期號7冊 32-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecdcfc8c4cfcfcccdc4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421229",
-            "立法紀錄": "43卷12期號8冊 58-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecdcfc7c4cfcfcac7c4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430302",
-            "立法紀錄": "43卷13期號2冊 5-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecccfcdc4cfcfcfcac4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430302",
-            "立法紀錄": "43卷13期號2冊 39-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecccfcdc4cfcfccc6c4cfcfcbc8",
-            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430309",
-            "立法紀錄": "43卷13期號2冊 64-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacaca81cbcccecccfcdc4cfcfc9cbc4cfcfc9ca",
+            "會議日期": "730406",
+            "立法紀錄": "73卷28期1722號 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecacac981c8cccfcdc7cfcfc4cfcfcecac4cfcfceca",
             "關係文書": []
         }
     ]
