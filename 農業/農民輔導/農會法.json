@@ -1,8 +1,8 @@
 {
     "title": "農會法",
     "versions": [
-        "中華民國90年1月4日修正",
-        "中華民國90年1月20日公布"
+        "中華民國93年6月4日修正",
+        "中華民國93年6月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -158,7 +158,7 @@
         {
             "note": "",
             "rule_no": "第二十條 之一",
-            "content": "　　農會會員合於左列規定，得登記為農會理、監事候選人：\n　　一、入會滿二年以上。\n　　二、國民中學以上學校畢業或國民小學畢業並曾任農會理、監事、會員代表、總幹事、農事小組組長、副組長一任以上。\n　　三、實際從事農業符合中央主管機關所定之資格。",
+            "content": "　　農會會員合於左列規定，得登記為農會理事、監事候選人：\n　　一、入會滿二年以上。\n　　二、國民中學以上學校畢業或國民小學畢業並曾任農會理事、監事、會員代表、總幹事、農事小組組長、副組長一任以上。\n　　三、實際從事農業符合中央主管機關所定之資格。\n　　前項第三款農會理事、監事候選人實際從事農業資格之認定、審查程序及其他應遵行事項之辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -459,230 +459,53 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、第一項第八款酌作修正。增加第二十款，原款遞移為下一款。\n　　二、第二項增訂免稅範圍訂定機關。",
-        "第五條": "　　一、第一項共同經營機構改為法人。\n　　二、明訂農會信用部之管理機關。\n　　三、增訂第三、四、五、六、七、八項。",
-        "第十二條": "　　一、原條文第一項第三款刪除，其餘款次遞移，並酌作文字修正。\n　　二、增訂第二、三項。",
-        "第十三條": "　　一、第一項將「居住農會組織區域內」，修改為「設籍農會組織區域內」。\n　　二、增訂第四項。",
-        "第十五條 之一": "　　第一項酌作修正，並增訂第三、四、五、六、七、八款。",
-        "第二十條 之二": "　　重新規範農會會員，不得登記為農會理、監事候選人之資格。已登記者，應予撤銷或廢止。",
-        "第二十三條": "　　修正第二項，不得登記為農事小組組長、副組長候選人之情形。",
-        "第二十五條": "　　第一項增列聘期及續聘之情形。",
-        "第二十五條 之二": "　　增訂無中華民國國籍者不得登記為農會總幹事候聘人。",
-        "第二十五條 之三": "　　一、本條新增。\n　　二、明訂農會總幹事應於受聘之日十日內，檢具保證書或員工誠實保險，向農會保證。",
-        "第二十七條 之一": "　　一、本條新增。\n　　二、明訂具有血親或姻親關係者，不得同時擔任同一農會之理事長、常務監事或總幹事。",
-        "第四十條": "　　增訂第四項。",
-        "第四十三條": "　　第二項增列「或廢止登記」等文字。",
-        "第四十六條": "　　條文內容未更動。",
-        "第四十六條 之一": "　　增訂農會選任及聘、僱人員任職期間，喪失其候選或候聘資格者，由主管機關或其上級主管機關予以解除職務。其餘酌作文字修正。",
-        "第四十七條 之二": "　　增訂第二項，原款項遞移，並作文字修正。",
-        "第四十七條 之四": "　　一、第二項後段「撤銷其遴聘資格；．．．，撤銷其聘任。」修改為「廢止其候聘資格；．．．，廢止其聘任。」\n　　二、增訂第四項。",
-        "第四十七條 之五": "　　一、本條新增。\n　　二、明訂違反強制或禁止規定之處罰。",
-        "第四十九條 之一": "　　增訂第一項第一款至第五款。詳列農會各個辦法之內容及範圍。",
-        "第四十九條 之二": "　　增列「及總幹事聘、解任」等文字。"
+        "第二十條 之一": "　　為使農會理事、監事候選人實際從事農業之資格明確並符合規定，爰修正本條文，增列第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890609",
-            "立法紀錄": "89卷33期3092號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6cccccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "游月霞",
+            "會議日期": "930423",
+            "立法紀錄": "93卷23期3357號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc981c6cccdcccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林豐喜",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcdcfcfc5cec8cbd2cec8ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890613",
-            "立法紀錄": "89卷34期3093號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6cccbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "林濁水",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcdc5cdc9cfd2cdc9cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891103",
-            "立法紀錄": "89卷60期3119號上冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c9cfcfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "新黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc8cfccc5cccfc6d2cccdca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891103",
-            "立法紀錄": "89卷60期3119號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c9cfcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc8cfcdc5cac6c7d2c9cfc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891103",
-            "立法紀錄": "89卷60期3119號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c9cfcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "鄭逢時",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecacfcfc5ccc7c6d2ccc6ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891103",
-            "立法紀錄": "89卷60期3119號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c9cfcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "余政道",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcdc5cdcbc7d2cdcacf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891107",
-            "立法紀錄": "89卷61期3120號上冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c9cecfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "民進黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc7cfcec5c6c7d2cecccd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891128",
-            "立法紀錄": "89卷67期3126號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c9c8cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "謝言信",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecfcfcdc5cbcbcfd2cbcbcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891205",
-            "立法紀錄": "89卷69期3128號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c9c6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcececfcec5cec9c6d2cec8c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891222",
-            "立法紀錄": "89卷74期3133號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c8cbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "葉宜津",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec9cfccc5cbcbc7d2cbcac8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891226",
-            "立法紀錄": "90卷1期3135號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c6cfcfcecfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "新黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec9cfccc5cbc9cad2cbc8c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891228",
-            "立法紀錄": "90卷1期3135號上冊 52-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c6cfcfcecfcec4cfcfcacdc4cfcfcacb",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec7cfcec5cdcdc9d2cdcdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891103",
-            "立法紀錄": "89卷60期3119號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c9cfcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "何智輝",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc8cfcdc5c9cfc7d2c9cdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecfcfcec5c7cdd2c7cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890511",
-            "立法紀錄": "89卷28期3087號 355-366頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6cdc7cfcfc4cfcccacac4cfccc9c9",
+            "會議日期": "930517",
+            "立法紀錄": "93卷30期3364號 64-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc981c6cccccfcfcfc4cfcfc9cbc4cfcfc9c6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "891219",
-            "立法紀錄": "89卷73期3132號上冊 35-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c8cccfcec4cfcfcccac4cfcfc9cd",
-            "關係文書": []
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 37-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc981c6cccccccfcec4cfcfccc8c4cfcfcbcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5ccd2cecf"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "891222",
-            "立法紀錄": "89卷74期3133號上冊 22-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c7c6c8cbcfcec4cfcfcdcdc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "900104",
-            "立法紀錄": "90卷5期3139號二冊 606-623頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c6cfcfcacfcdc4cfc9cfc9c4cfc9cdcc",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 43-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc981c6cccccccfcec4cfcfcbccc4cfcfcbcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "900104",
-            "立法紀錄": "90卷5期3139號二冊 623-623頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbca81c6cfcfcacfcdc4cfc9cdccc4cfc9cdcc",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 43-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc981c6cccccccfcec4cfcfcbccc4cfcfcbcb",
             "關係文書": []
         }
     ]
