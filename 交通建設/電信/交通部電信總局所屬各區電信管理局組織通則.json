@@ -1,11 +1,11 @@
 {
     "title": "交通部電信總局所屬各區電信管理局組織通則",
     "versions": [
-        "中華民國74年4月12日修正",
-        "中華民國74年4月22日公布"
+        "中華民國91年6月7日廢止",
+        "中華民國91年6月19日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -100,73 +100,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　第四款增列「採購」二字以符實際。",
-        "第六條": "　　將交通部電信總局組織條例第十八條附表所列股長職稱予以納入，定其員額。",
-        "第九條": "　　將交通部電信總局組織條例第十八條附表所列股長職稱予以納入，定其員額。",
-        "第十條": "　　將交通部電信總局組織條例第十八條附表所列股長職稱予納入，定其員額。",
-        "第十三條": "　　一、目前各區管理局所設之工程總隊，計有北區四個總隊、中區三個總隊、南區二個總隊，爰將第一項「得設工程總隊」修正為「得分設工程總隊」，以符實際；及增列股長職稱、員額，並作員額調整。\n　　二、第二項酌作文字修正，人事室並增置副主任一人，俾便辦理人事查核業務。"
-    },
+    "deprecated_reason": "　　「交通部電信總局所屬各區電信管理局組織通則」係依「交通部電信總局組織條例」第11條規定制定，惟該條例於85年間修正，刪除第11條條文，致本組織通則失其依據，爰依「中央法規標準法」第21條第3款「法規因有關法規之廢止或修正致失其依據，而無單獨施行之必要者，廢止之。」之規定，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "731102",
-            "立法紀錄": "73卷88期1782號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcd81c8cccfc7c7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "910409",
+            "立法紀錄": "91卷24期3220號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcc81c6cecdcbcfcfc4cfcfcfc9c4cfcfcfc9",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfcbcfcfc5cccfd2cacd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cccbc9d2cccacf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "731205",
-            "立法紀錄": "74卷35期1833號 120-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcd81c8cbcfcccacfcfc4cfcecdcfc4cfceccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "731212",
-            "立法紀錄": "74卷36期1834號 112-120頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcd81c8cbcfccc9cfcfc4cfcececdc4cfcecdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "731227",
-            "立法紀錄": "74卷42期1840號 145-147頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcd81c8cbcfcbcdcfcfc4cfcecbcac4cfcecbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "740409",
-            "立法紀錄": "74卷29期1827號 49-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcd81c8cbcfcdc6cfcfc4cfcfcbc6c4cfcfcac7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cacfcbcfcfc5cec6c6d2cdcfce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "740409",
-            "立法紀錄": "74卷29期1827號 58-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcd81c8cbcfcdc6cfcfc4cfcfcac7c4cfcfcac6",
+            "會議日期": "910513",
+            "立法紀錄": "91卷47期3243號 3-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcc81c6cecbc8cfcfc4cfcfcfccc4cfcfcdcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "740412",
-            "立法紀錄": "74卷30期1828號 15-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcd81c8cbcfcccfcfcfc4cfcfcecac4cfcfcec8",
-            "關係文書": []
+            "會議日期": "910607",
+            "立法紀錄": "91卷40期3236號二冊 735-745頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cdcc81c6cecbcfcfcdc4cfc8cccac4cfc8cbca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececbcfcbc5cdccc9d2cdcace"
+                ]
+            ]
         }
     ]
 }
