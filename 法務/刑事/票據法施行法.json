@@ -1,12 +1,12 @@
 {
     "title": "票據法施行法",
     "versions": [
-        "中華民國49年3月22日全文修正",
-        "中華民國49年3月31日公布"
+        "中華民國62年5月15日廢止",
+        "中華民國62年5月28日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -82,86 +82,20 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本法因票據法之修正公布，其內容已將其歸納其中，且依中央法規標準法之規定，同一事項已定有新法規，並公布或發布施行者，舊法規應予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "480320",
-            "立法紀錄": "48卷23期號6冊 25-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc7cdcccfc9c4cfcfcdcac4cfcfcdca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcecfcfc5cbc7c8d2cac9cb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "490322",
-            "立法紀錄": "49卷25期號5冊 3-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcac4cfcfcfccc4cfcfc9cb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcbcfcdcfcfc5ccc8c6d2cbcac8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "481215",
-            "立法紀錄": "48卷24期號10冊 16-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc7cdcbcecfc4cfcfcec9c4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "481215",
-            "立法紀錄": "48卷24期號10冊 21-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc7cdcbcecfc4cfcfcdcec4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "481218",
-            "立法紀錄": "48卷24期號10冊 55-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc7cdcbcecfc4cfcfcacac4cfcfc7cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "481222",
-            "立法紀錄": "49卷24期號11冊 39-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcbcecec4cfcfccc6c4cfcfcaca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490304",
-            "立法紀錄": "49卷25期號4冊 35-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcbc4cfcfcccac4cfcfccca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490315",
-            "立法紀錄": "49卷25期號4冊 68-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcbc4cfcfc9c7c4cfcfc8cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "490318",
-            "立法紀錄": "49卷25期號4冊 79-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcbc4cfcfc8c6c4cfcfc7cf",
+            "會議日期": "610801",
+            "立法紀錄": "61卷61期514號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcb81c9cecbc6c9cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "490322",
-            "立法紀錄": "49卷25期號5冊 94-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcd81cbc6cdcacfcac4cfcfc6cbc4cfcfc6cb",
+            "會議日期": "620515",
+            "立法紀錄": "62卷36期592號 2-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdcb81c9cdcaceccc9cfcfcfcec4cfcfcfcdc4cfcfcecc",
             "關係文書": []
         }
     ]
