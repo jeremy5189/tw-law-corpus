@@ -1,12 +1,12 @@
 {
     "title": "商業團體法",
     "versions": [
-        "中華民國71年12月3日全文修正",
-        "中華民國71年12月15日公布"
+        "中華民國85年9月6日修正",
+        "中華民國85年9月25日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -480,7 +480,7 @@
         {
             "note": "",
             "rule_no": "第七十一條",
-            "content": "　　凡全國性商業團體，因國家重大變故，無法召開會員代表大會時，除原選出之理事、監事，仍繼續行使職權外，其理事、監事之缺額，得經主管機關核准，補選充任之；其所補選理事、監事之任期，依第二十三條之規定。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -514,108 +514,41 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第七十一條": "　　配合動員戡亂時期宣告終止，並輔導全國性商業團體會務正常運作，爰刪除本條規定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "710226",
-            "立法紀錄": "71卷17期1502號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec9c7cec8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "810929",
+            "立法紀錄": "81卷60期2588號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecacece81c7cecfc9cfcfcfc4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfcdcfcfc5ceccd2cac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfcdcfcec5cdcecfd2cdcecc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "710315",
-            "立法紀錄": "71卷39期1524號 148-158頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec9c6ccc6cfcfc4cfcecbc7c4cfcecac7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710519",
-            "立法紀錄": "71卷65期1550號 2-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec9c6c9cacfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710526",
-            "立法紀錄": "71卷74期1559號 14-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec9c6c8cbcfcfc4cfcfcecbc4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711006",
-            "立法紀錄": "71卷98期1583號 147-158頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfc6c7cfcfc4cfcecbc8c4cfcecac7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711007",
-            "立法紀錄": "71卷99期1584號 120-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfc6c6cfcfc4cfcecdcfc4cfcecccf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "711021",
-            "立法紀錄": "71卷104期1589號 137-157頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfcecfcbcfcfc4cfceccc8c4cfcecac8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "711119",
-            "立法紀錄": "71卷93期1578號 14-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfc6cccfcfc4cfcfcecbc4cfcfc9ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcccfcfc5c7cfcfd2c7cace"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "711119",
-            "立法紀錄": "71卷93期1578號 61-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfc6cccfcfc4cfcfc9cec4cfcfc7cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "711123",
-            "立法紀錄": "71卷94期1579號 11-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfc6cbcfcfc4cfcfcecec4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "711126",
-            "立法紀錄": "71卷95期1580號 6-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfc6cacfcfc4cfcfcfc9c4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "711130",
-            "立法紀錄": "71卷96期1581號 6-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfc6c9cfcfc4cfcfcfc9c4cfcfcecc",
+            "會議日期": "850701",
+            "立法紀錄": "85卷39期2861號 257-257頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecacece81c7caccc6cfcfc4cfcdcac8c4cfcdcac8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "711203",
-            "立法紀錄": "71卷97期1582號 6-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecacfc681c8cec8cfc6c8cfcfc4cfcfcfc9c4cfcfcec6",
-            "關係文書": []
+            "會議日期": "850906",
+            "立法紀錄": "85卷40期2862號一冊 281-282頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecacece81c7cacbcfcfcec4cfcdc7cec4cfcdc7cd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcecfcfc9c5c9cccdd2c9cccb"
+                ]
+            ]
         }
     ]
 }
