@@ -1,10 +1,11 @@
 {
     "title": "學位授予法",
     "versions": [
-        "中華民國24年4月12日制定",
-        "中華民國24年4月22日公布"
+        "中華民國43年5月21日修正",
+        "中華民國43年6月4日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -23,7 +24,7 @@
         {
             "note": "(學士學位)",
             "rule_no": "第三條",
-            "content": "　　凡曾在公立或立案私立之大學或獨立學院修業期滿，考試合格，並經教育部覆核無異者，由大學或獨立學院授予學士學位。",
+            "content": "　　凡曾在公立或立案私立之大學或獨立學院修業期滿，考試合格，並經教育部覆核無異者，由大學或獨立學院授予學士學位。\n　　軍事院校合於教育部規定之大學或獨立學院標準，其學生修業期滿，考試合格，並經教育部覆核無異者，亦得由各該院校授予學士學位。",
             "relates": {}
         },
         {
@@ -79,6 +80,54 @@
             "rule_no": "第十二條",
             "content": "　　本法施行日期，以命令定之。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "430326",
+            "立法紀錄": "43卷13期號3冊 101-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfccc4cfcecfcec4cfcecfce",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5c9cdccd2c9cdca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430521",
+            "立法紀錄": "43卷13期號5冊 4-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfcac4cfcfcfcbc4cfcfcfc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5ccc7cfd2ccc7ce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430521",
+            "立法紀錄": "43卷13期號5冊 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfcac4cfcfcdc8c4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430521",
+            "立法紀錄": "43卷13期號5冊 27-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfcac4cfcfcdc8c4cfcfcdc7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "430521",
+            "立法紀錄": "43卷13期號5冊 28-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfcac4cfcfcdc7c4cfcfcdc7",
+            "關係文書": []
         }
     ]
 }
