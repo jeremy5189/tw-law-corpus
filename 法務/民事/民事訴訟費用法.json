@@ -1,12 +1,12 @@
 {
     "title": "民事訴訟費用法",
     "versions": [
-        "中華民國57年1月9日全文修正",
-        "中華民國57年2月1日公布"
+        "中華民國60年11月2日修正",
+        "中華民國60年11月17日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -102,7 +102,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　民事非因財產權而起訴者，徵收裁判費十元。\n　　於非財產權上之訴，並為財產權上之請求者，其裁判費，分別徵收之。",
+            "content": "　　民事非因財產權而起訴者，徵收裁判費四十元。\n　　於非財產權上之訴，並為財產權上之請求者，其裁判費，分別徵收之。",
             "relates": {}
         },
         {
@@ -126,13 +126,13 @@
         {
             "note": "",
             "rule_no": "第二十條",
-            "content": "　　民事抗告，徵收裁判費三元，再為抗告者亦同。",
+            "content": "　　民事抗告，徵收裁判費十元；再為抗告者亦同。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十一條",
-            "content": "　　民事聲請或聲明，不徵費用。但左列聲請，徵收裁判費三元：\n　　一、聲請參加訴訟或駁回參加。\n　　二、聲請公示送達。\n　　三、聲請回復原狀。\n　　四、聲請證據保全。\n　　五、聲請發支付命令。\n　　六、聲請假扣押、假處分或撤銷假扣押、假處分。\n　　七、聲請公示催告或除權判決。",
+            "content": "　　民事聲請或聲明，不徵費用。但左列聲請，徵收裁判費十元：\n　　一、聲請參加訴訟或駁回參加。\n　　二、聲請公示送達。\n　　三、聲請回復原狀。\n　　四、聲請證據保全。\n　　五、聲請發支付命令。\n　　六、聲請假扣押、假處分或撤銷假扣押、假處分。\n　　七、聲請公示催告或除權判決。",
             "relates": {}
         },
         {
@@ -196,67 +196,63 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十六條": "　　裁判費由十元修正為四十元。",
+        "第二十條": "　　裁判費由三元修正為十元。",
+        "第二十一條": "　　裁判費由三元修正為十元。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430507",
-            "立法紀錄": "43卷13期號4冊 95-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecf81cbcccecccfcbc4cfcfc6cac4cfcfc6ca",
+            "會議日期": "591110",
+            "立法紀錄": "59卷83期0號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81cac6cbc9c7cccfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cdceced2cccccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcccfcfc5cdcacfd2cdcaca"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "600311",
+            "立法紀錄": "60卷33期387號 58-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc8cccccfcfcfcdc4cfcfcac7c4cfcfc9c9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "600325",
+            "立法紀錄": "60卷36期390號 33-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc8ccc9cfcfcfcdc4cfcfccccc4cfcfcbcf",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "561110",
-            "立法紀錄": "56卷4期號11冊 1994-2022頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecf81cac9cbcfcececfcbc4cec6c6cbc4cdcfcdcd",
-            "關係文書": []
+            "會議日期": "601026",
+            "立法紀錄": "60卷82期435號 9-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc7c7cdcfcfcfcec4cfcfcfc6c4cfcfcbcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcecfcfc5c8c6c7d2c7cdc8"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "561215",
-            "立法紀錄": "56卷5期號12冊 2557-2578頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecf81cac9cbcfcfcacecdc4cdcacac8c4cdcac8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561219",
-            "立法紀錄": "56卷6期號12冊 2615-2619頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecf81cac9cbcfcfc9cecdc4cdc9cecac4cdc9cec6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561212",
-            "立法紀錄": "56卷7期號12冊 2676-2685頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecf81cac9cbcfcfc8cecdc4cdc9c8c9c4cdc9c7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561229",
-            "立法紀錄": "56卷9期號12冊 2817-2817頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecf81cac9cbcfcfc6cecdc4cdc7cec8c4cdc7cec8",
+            "會議日期": "601026",
+            "立法紀錄": "60卷82期435號 43-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc7c7cdcfcfcfcec4cfcfcbccc4cfcfcbcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "570105",
-            "立法紀錄": "57卷1期號 2-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecf81cac8cbcfcfcecfcfc4cfcfcfcdc4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "570109",
-            "立法紀錄": "57卷2期號 92-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcecf81cac8cbcfcfcdcfcfc4cfcfc6cdc4cfcecfcd",
+            "會議日期": "601102",
+            "立法紀錄": "60卷84期437號 8-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcece81c9cfcbc7c7cbcfcfcfcec4cfcfcfc7c4cfcfcecc",
             "關係文書": []
         }
     ]
