@@ -1,8 +1,8 @@
 {
     "title": "電影檢查法",
     "versions": [
-        "中華民國45年10月23日修正",
-        "中華民國45年11月3日公布"
+        "中華民國47年7月11日修正",
+        "中華民國47年7月21日公布"
     ],
     "types": [
         "立法歷程",
@@ -84,7 +84,7 @@
         {
             "note": "(電影片檢查費)",
             "rule_no": "第十三條",
-            "content": "　　電影片持有人，於申請檢查時，應繳納電影片檢查費，每五百公尺二十元，不滿五百公尺者以五百公尺計。\n　　依第六條第七條或第十二條之規定，重行申請檢查者，應繳納加倍之檢查費。",
+            "content": "　　電影片持有人，於申請檢查時，應繳納電影片檢查費，每五百公尺六十元，不滿五百公尺者以五百公尺計。\n　　依第六條第七條或第十二條之規定，重行申請檢查者，應繳納加倍之檢查費。",
             "relates": {}
         },
         {
@@ -169,48 +169,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "450518",
-            "立法紀錄": "45卷17期號6冊 95-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbcacec8cfc9c4cfcfc6cac4cfcfc6c9",
-            "主提案": "張翰書",
+            "會議日期": "470117",
+            "立法紀錄": "47卷20期號9冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccd81cbc8cdcfcfc6c4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcdcfcfc5cdccc9d2cdccc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5cbcbcdd2cbcbcc"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "450525",
-            "立法紀錄": "45卷17期號6冊 103-103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbcacec8cfc9c4cfcecfccc4cfcecfcc",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "451023",
-            "立法紀錄": "46卷18期號4冊 12-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbc9cec7cfcbc4cfcfcecdc4cfcfcecc",
+            "會議日期": "470711",
+            "立法紀錄": "47卷21期號19冊 85-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccd81cbc8cdcecec6c4cfcfc7cac4cfcfc7c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5c9d2c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcdcfcfc5cecaced2cecacd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "451023",
-            "立法紀錄": "46卷18期號4冊 27-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbc9cec7cfcbc4cfcfcdc8c4cfcfcdc8",
+            "會議日期": "470711",
+            "立法紀錄": "47卷21期號19冊 126-128頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccd81cbc8cdcecec6c4cfcecdc9c4cfcecdc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "451023",
-            "立法紀錄": "46卷18期號4冊 27-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccf81cbc9cec7cfcbc4cfcfcdc8c4cfcfcdc7",
+            "會議日期": "470711",
+            "立法紀錄": "47卷21期號19冊 128-128頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccd81cbc8cdcecec6c4cfcecdc7c4cfcecdc7",
             "關係文書": []
         }
     ]
