@@ -1,8 +1,8 @@
 {
     "title": "獎勵投資條例",
     "versions": [
-        "中華民國67年12月26日修正",
-        "中華民國67年12月30日公布"
+        "中華民國68年1月9日修正",
+        "中華民國68年1月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -134,7 +134,7 @@
         {
             "note": "(非中華民國境內居住之個人所分配股利適用本法之規定)",
             "rule_no": "第十七條 之一",
-            "content": "　　非中華民國境內居住之個人，經依華僑回國投資條例或外國人投資條例核准在中華民國境內投資，並擔任該事業之董事、監察人或經理人者，如因經營或管理其投資事業需要，於一課稅年度內在中華民國境內居留期間超過所得稅法第七條第二項第二款所定一百八十三天時，其自該事業所分配之股利，得適用前條之規定。",
+            "content": "　　非中華民國境內居住之個人，經依華僑回國投資條例或外國人投資條例核准在中華民國境內投資，並擔任該事業之董事、監察人或經理人者，如因經營或管理其投資事業需要，於一課稅年度內在中華民國境內居留期間超過所得稅法第七條第一項第二款所定一百八十三天時，其自該事業所分配之股利，得適用前條之規定。",
             "relates": {}
         },
         {
@@ -571,54 +571,34 @@
         }
     ],
     "law_reasons": {
-        "第十七條 之一": "　　一、本條新增。\n　　二、為便利華僑及外國人到我國投資得以順利進行起見，爰增訂本條文，使其就源扣繳所得稅，不必綜合申報納稅。",
-        "第十七條 之二": "　　一、本條新增。\n　　二、為改善投資環境，特將所得稅法第八條第三款但書規定之九十天放寬為一百八十三天，但以國外營利事業依華僑回國投資條例或外國人投資條例核准在我國境內投資者，該國外營利事業之董事或經理人，及所派之技術人員在我國境內辦理投資、建廠或從事市場調查等臨時性工作為限。"
+        "第十七條 之一": "　　原通過法案誤為所得稅法第七條第二項，故修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "671212",
-            "立法紀錄": "67卷99期1167號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7c9cf81c9c8c9cdc6c6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "680109",
+            "立法紀錄": "68卷3期1175號 34-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7c9ce81c9c7c9cdcfcccfcfc4cfcfcccbc4cfcfccca",
+            "主提案": "吳延環",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5c8cfc8d2c8cecd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671221",
-            "立法紀錄": "68卷31期1203號 74-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7c9cf81c9c7c9cccccecfcfc4cfcfc8cbc4cfcfc7cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "671226",
-            "立法紀錄": "67卷103期1171號 21-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7c9cf81c9c8c9cdcecfcccfcfc4cfcfcdcec4cfcfcdc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5cec8cfd2cec8ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5cbc9ced2cbc9cd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "671226",
-            "立法紀錄": "67卷103期1171號 26-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7c9cf81c9c8c9cdcecfcccfcfc4cfcfcdc9c4cfcfcdc6",
+            "會議日期": "680109",
+            "立法紀錄": "68卷3期1175號 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7c9ce81c9c7c9cdcfcccfcfc4cfcfcccac4cfcfccca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "671226",
-            "立法紀錄": "67卷103期1171號 29-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7c9cf81c9c8c9cdcecfcccfcfc4cfcfcdc6c4cfcfcccf",
+            "會議日期": "680109",
+            "立法紀錄": "68卷3期1175號 36-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc7c9ce81c9c7c9cdcfcccfcfc4cfcfccc9c4cfcfccc9",
             "關係文書": []
         }
     ]
