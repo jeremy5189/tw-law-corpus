@@ -1,12 +1,12 @@
 {
     "title": "民事訴訟法施行法",
     "versions": [
-        "中華民國57年1月9日全文修正",
-        "中華民國57年2月1日公布"
+        "中華民國79年7月17日修正",
+        "中華民國79年8月20日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -31,6 +31,12 @@
             "note": "",
             "rule_no": "第四條",
             "content": "　　修正民事訴訟法施行前繫屬之事件，其法院依修正民事訴訟法或舊法有管轄權者，為有管轄權。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第四條 之一",
+            "content": "　　民事訴訟法簡易訴訟程序修正施行後，於修正前已繫屬之事件，其法院管轄權及審理程序依左列之規定：\n　　一、地方法院未為終局裁判者，依新法。\n　　二、地方法院已為終局裁判者，依舊法。",
             "relates": {}
         },
         {
@@ -82,137 +88,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第四條 之一": "　　民事訴訟法關於簡易訴訟程序之範圍、管轄權及審理程序均有重大修正，該修正案施行後，各種簡易事件，如尚在法院審理中，將發生新舊法如何適用之難題，為杜絕爭議，爰於民事訴訟法施行法中增列本條規定，即修正案施行後，簡易訴訟事件尚未經地方法院為終局裁判者，其適用範圍、法院管轄權及審理程序悉依新法，第一審由地方法院獨任推事審理，第二審由地方法院合議庭審理，在例外情形，尚可向最高法院提起第三審上訴，其已經地方法院為終局裁判者，關於適用範圍、法院管轄權及審理程序概依舊法，如依舊法不屬簡易事件者，仍可向高等法院提起第二審上訴，再向最高法院提起第三審上訴，依舊法屬簡易事件者，僅能向高等法院提起第二審上訴，不得再向最高法院提起第三審上訴。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430507",
-            "立法紀錄": "43卷13期號4冊 95-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cbcccecccfcbc4cfcfc6cac4cfcfc6ca",
-            "主提案": "行政院",
+            "會議日期": "780414",
+            "立法紀錄": "78卷30期2246號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c7cfcccfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cdceced2cccccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccecccfcfc5c9c6d2cececa"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "780511",
+            "立法紀錄": "78卷59期2275號 2-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c7cfcac6cfcfc4cfcfcfcdc4cfcfcdcd",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "561110",
-            "立法紀錄": "56卷4期號11冊 1994-2022頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcececfcbc4cec6c6cbc4cdcfcdcd",
-            "關係文書": []
+            "會議日期": "790717",
+            "立法紀錄": "79卷57期2377號上冊 170-214頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c6cfcac8cfcec4cfcec8cfc4cfcdcecb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7caccc8cfccc5ccc9cad2cbcfc7"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "561110",
-            "立法紀錄": "56卷4期號11冊 2022-2026頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcececfcbc4cdcfcdcdc4cdcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561114",
-            "立法紀錄": "56卷5期號11冊 2067-2081頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfcacecec4cdcfc9c8c4cdcfc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561117",
-            "立法紀錄": "56卷5期號11冊 2124-2141頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfc9cecec4cdcecdcbc4cdcecbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561121",
-            "立法紀錄": "56卷7期號11冊 2168-2190頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfc8cecec4cdcec9c7c4cdcec6cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561124",
-            "立法紀錄": "56卷8期號11冊 2225-2248頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfc7cecec4cdcdcdcac4cdcdcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561128",
-            "立法紀錄": "56卷9期號11冊 2276-2300頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfc6cecec4cdcdc8c9c4cdcccfcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561201",
-            "立法紀錄": "56卷1期號12冊 2333-2355頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfcececdc4cdccccccc4cdcccaca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561205",
-            "立法紀錄": "56卷2期號12冊 2392-2410頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfcdcecdc4cdccc6cdc4cdcbcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561208",
-            "立法紀錄": "56卷3期號12冊 2449-2468頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfcccecdc4cdcbcbc6c4cdcbc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561212",
-            "立法紀錄": "56卷4期號12冊 2505-2523頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfcbcecdc4cdcacfcac4cdcacdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561215",
-            "立法紀錄": "56卷5期號12冊 2557-2578頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfcacecdc4cdcacac8c4cdcac8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561219",
-            "立法紀錄": "56卷6期號12冊 2615-2619頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfc9cecdc4cdc9cecac4cdc9cec6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561222",
-            "立法紀錄": "56卷7期號12冊 2676-2685頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfc8cecdc4cdc9c8c9c4cdc9c7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "561229",
-            "立法紀錄": "56卷9期號12冊 2817-2817頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac9cbcfcfc6cecdc4cdc7cec8c4cdc7cec8",
+            "會議日期": "790717",
+            "立法紀錄": "79卷57期2377號上冊 214-214頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c6cfcac8cfcec4cfcdcecbc4cfcdcecb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "570105",
-            "立法紀錄": "57卷1期號 2-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac8cbcfcfcecfcfc4cfcfcfcdc4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "570109",
-            "立法紀錄": "57卷2期號 92-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfc8cdc881cac8cbcfcfcdcfcfc4cfcfc6cdc4cfcecfcd",
+            "會議日期": "790717",
+            "立法紀錄": "79卷57期2377號上冊 214-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c6cfcac8cfcec4cfcdcecbc4cfcdceca",
             "關係文書": []
         }
     ]
