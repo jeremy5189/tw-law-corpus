@@ -1,11 +1,12 @@
 {
     "title": "財政部關務署組織法（民國25年）",
     "versions": [
-        "中華民國31年7月10日全文修正",
-        "中華民國31年7月23日公布"
+        "中華民國71年11月9日廢止",
+        "中華民國71年11月19日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -109,6 +110,35 @@
             "rule_no": "第十七條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　因財政部組織法於七十年公布實施，依該法規定，財政部設關政司，為符合該組織法之規定，該部原設關務署已於七十一年改為關政司，原訂「財政部關務署組織法」已不適用，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "710722",
+            "立法紀錄": "71卷59期1544號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcfc981c8cec9c6cac6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfc6cfcfc5c6caccd2c6cac9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711030",
+            "立法紀錄": "71卷104期1589號 135-136頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcfc981c8cec8cfcecfcbcfcfc4cfcecccac4cfceccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "711109",
+            "立法紀錄": "71卷90期1575號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcfc981c8cec8cfc6cfcfcfc4cfcfcfc8c4cfcfcfc7",
+            "關係文書": []
         }
     ]
 }
