@@ -1,8 +1,8 @@
 {
     "title": "訴願法",
     "versions": [
-        "中華民國68年11月27日修正",
-        "中華民國68年12月7日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -162,7 +162,7 @@
         {
             "note": "",
             "rule_no": "第二十六條",
-            "content": "　　各機關辦理訴願事件，應設訴願審議委員會，組成人員以熟諳法令者為原則；受理事件繁多者，應增調人員專責辦理之。\n　　訴願審議委員會組織規程及審議規則，由主管院定之。",
+            "content": "　　各機關辦理訴願事件，應設訴願審議委員會，組成人員以熟諳法令者為原則，其中社會公正人士、學者、專家不得少於訴願審議委員會成員三分之一。\n　　訴願審議委員會組織規程及審議規則，由主管院定之。",
             "relates": {}
         },
         {
@@ -179,60 +179,72 @@
         }
     ],
     "law_reasons": {
-        "第二十六條": "　　受理訴願案件繁多之機關，置專人辦理訴願業務，易收專精之效。經檢討結果，認為平均每月受理訴願案件十五案或再訴願案八案以上者，置專任人員辦理，確有必要，所需員額，則於所屬機關總員額內撥用。至其置用標準，則於組織規程內訂之。此外，為促使訴願審議委員會發揮審議訴願事件之功能，訂定訴願審議委員會審議規則殊有必要，爰加以修正之。"
+        "第二十六條": "　　第一項文字修正，明定訴願審議委員會委員應包括公正之社會人士與學者、專家，其名額不得少於訴願委員成員之三分之一，以保障人民之訴願能獲得公平、公正的審議。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680713",
-            "立法紀錄": "68卷56期1228號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececcc781c9c7c9cccac9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "800927",
+            "立法紀錄": "80卷53期2477號 63-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececbcf81c7cfcfcacccfcfc4cfcfc9ccc4cfcfc9cb",
+            "主提案": "朱鳳芝",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8ccc8cfcfc5cacbc8d2cacbc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "800927",
+            "立法紀錄": "80卷79期2503號 27-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececbcf81c7cfcfc8c6cfcfc4cfcfcdc8c4cfcfcdc7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5cac6cdd2cac6ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cfcdcfcfc5c7cad2c7c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "830607",
+            "立法紀錄": "83卷40期2714號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececbcf81c7cccbcfcfcfc4cfcfcecec4cfcfcece",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcfcfcdc5ccc7cfd2cbc6ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "681020",
-            "立法紀錄": "68卷104期1276號 75-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececcc781c9c7c9cbcecfcbcfcfc4cfcfc8cac4cfcfc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "681123",
-            "立法紀錄": "68卷94期1266號 28-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececcc781c9c7c9cbc6cbcfcfc4cfcfcdc7c4cfcfccc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cec7c6d2cec6ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "681127",
-            "立法紀錄": "68卷95期1267號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececcc781c9c7c9cbc6cacfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "830117",
+            "立法紀錄": "83卷9期2683號 129-133頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececbcf81c7cccfc6cfcfc4cfcecdc6c4cfcecccc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "681127",
-            "立法紀錄": "68卷95期1267號 3-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececcc781c9c7c9cbc6cacfcfc4cfcfcfccc4cfcfcfca",
-            "關係文書": []
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 39-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececbcf81c7cbcfcdcfcfc4cfcfccc6c4cfcfcbc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdc9cfcec5c6c8cad2c6c7cf"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "681127",
-            "立法紀錄": "68卷95期1267號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececcc781c9c7c9cbc6cacfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 46-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcececbcf81c7cbcfcdcfcfc4cfcfcbc9c4cfcfcbc9",
             "關係文書": []
         }
     ]
