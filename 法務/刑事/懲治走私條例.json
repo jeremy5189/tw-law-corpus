@@ -1,12 +1,12 @@
 {
     "title": "懲治走私條例",
     "versions": [
-        "中華民國58年10月31日修正",
-        "中華民國58年11月11日公布"
+        "中華民國67年1月13日修正",
+        "中華民國67年1月23日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,7 +18,13 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　私運管制物品進口、出口逾公告數額者，處七年以下有期徒刑、拘役，得併科七千元以下罰金。\n　　前項之未遂犯罰之。\n　　第一項所稱管制物品及其數額，以經行政院依本條例專案指定公告者為限。",
+            "content": "　　私運管制物品進品、出口逾公告數額者，處七年以下有期徒刑，得併科七千元以下罰金。\n　　以犯前項之罪為常業者，處三年以上、十年以下有期徒刑，得併科一萬元以下罰金。\n　　第一項之未遂犯罰之。\n　　第一項所稱管制物品及其數額，由行政院公告之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第二條 之一",
+            "content": "　　運送、銷售或藏匿前條第一項之走私物品者，處五年以下有期徒刑、拘役或科或併科三千元以下罰金。\n　　以犯前項之罪為常業者，處一年以上、七年以下有期徒刑，得併科七千元以下罰金。\n　　第一項之未遂犯罰之。",
             "relates": {}
         },
         {
@@ -42,7 +48,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　以走私或以運送、銷售或藏匿走私物品為常業者，處五年以下有期徒刑，得併科三千元以下罰金。",
+            "content": "　　以私運未逾公告數額之管制物品或應稅物品進口、出口為常業者，處六月以上、五年以下有期徒刑，得併科千元以下罰金\n　　以運送、銷售或藏匿前項之走私物品為常業者，亦同。",
             "relates": {}
         },
         {
@@ -66,7 +72,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　公務員、軍人犯本條例第二條、第三條、第四條之罪者，從重處斷。",
+            "content": "　　公務員或軍人犯第二條、第二條之一、第三條或第四條之罪者，從重處斷。",
             "relates": {}
         },
         {
@@ -82,65 +88,64 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　一、第一項未修正。\n　　二、第二項係由第六條走私常業罪中就以走私本條第一項走私物品為常業部分予以提列，並酌定其法定刑為三年以上十年以下有期徒刑，得併科一萬元以下罰金，以資因應，並期公允。\n　　三、第三項係原第二項依序移列，並作文字修正。\n　　四、本條第四項以原第三項為準，略加修正。",
+        "第二條 之一": "　　一、本條新增。\n　　二、運送、銷售或藏匿前條第一項走私物品之行為，足以助長該項之走私風氣，影響國家社會法益甚鉅，故增訂本條第一項之刑罰制裁，以期杜絕。\n　　三、本條第二項係由現行第六條常業罪中就屬於運送、銷售、藏匿第二條第一項走私物品為常業罪部分予以提列，並酌定其刑度為一年以上七年以下有期徒刑，得併科七千元以下罰金，用期適切。\n　　四、本條第三項係規定第一項之未遂犯之處罰。",
+        "第六條": "　　本條文字，分為二項排列並加修正，將以私運、銷售、藏匿未逾公告數額之管制物品或應稅物品進出口為常業者，科以較重之刑。",
+        "第十條": "　　公務員或軍人犯第二條之一規定之罪者，與其犯現行第二條、第三條、第四條之罪有同予從重處斷之必要，故增列「第二條之一」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "571210",
-            "立法紀錄": "57卷92期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac8cbcdc6cdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "661230",
+            "立法紀錄": "66卷105期1068號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c9c9cfcecfcacfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5c9c8c9d2c9c8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5cbc7cdd2cbc7c8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580419",
-            "立法紀錄": "58卷41期號 16-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcccbcecfcfcfcdc4cfcfcec9c4cfcfcdcf",
+            "會議日期": "670104",
+            "立法紀錄": "67卷28期1096號 59-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cecdc7cfcfc4cfcfcac6c4cfcfc9ca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580515",
-            "立法紀錄": "58卷42期號 1-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcccbcdcfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "會議日期": "670109",
+            "立法紀錄": "67卷31期1099號 48-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cecccecfcfc4cfcfcbc7c4cfcfcacb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "581024",
-            "立法紀錄": "58卷77期號 37-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcbc8c8cfcfcfcec4cfcfccc8c4cfcfcbce",
+            "會議日期": "670113",
+            "立法紀錄": "67卷4期1072號 4-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cfcfcbcfcfc4cfcfcfcbc4cfcfcecb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcccfcfc5cec6d2cdce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5c9c7c8d2c9c6cc"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "581028",
-            "立法紀錄": "58卷78期號 2-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcbc8c7cfcfcfcec4cfcfcfcdc4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "581031",
-            "立法紀錄": "58卷79期號 5-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcbc8c6cfcfcfcec4cfcfcfcac4cfcfcecd",
+            "會議日期": "670113",
+            "立法紀錄": "67卷4期1072號 14-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cfcfcbcfcfc4cfcfcecbc4cfcfcec8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "581031",
-            "立法紀錄": "58卷79期號 12-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececace81cac7cbcbc8c6cfcfcfcec4cfcfcecdc4cfcfcecc",
+            "會議日期": "670113",
+            "立法紀錄": "67卷4期1072號 17-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcececacd81c9c8c9cfcfcbcfcfc4cfcfcec8c4cfcfcec7",
             "關係文書": []
         }
     ]
