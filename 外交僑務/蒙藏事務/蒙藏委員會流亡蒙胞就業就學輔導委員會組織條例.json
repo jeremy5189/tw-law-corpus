@@ -1,10 +1,11 @@
 {
     "title": "蒙藏委員會流亡蒙胞就業就學輔導委員會組織條例",
     "versions": [
-        "中華民國62年5月22日停止適用",
-        "中華民國62年6月2日公布"
+        "中華民國83年11月10日廢止",
+        "中華民國83年11月23日公布"
     ],
     "types": [
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -57,26 +58,32 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「蒙藏委員會流亡蒙胞就業就學輔導委員會組織條例」，係總統於38年公布施行，並於62年5月經立法院通過暫停適用。查本條例係動員戡亂時期之法規，且已不適用，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "620316",
-            "立法紀錄": "62卷19期575號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcdc981c9cdcacecec6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
+            "會議日期": "810225",
+            "立法紀錄": "81卷17期2545號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcdc881c7cecfcec8cfcec4cfcfcfccc4cfcfcfcc",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfcdcfcec5cdcbcdd2cdcbca"
+                ]
+            ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "620402",
-            "立法紀錄": "62卷39期595號 22-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcdc981c9cdcaceccc6cfcfcfcdc4cfcfcdcdc4cfcfcdc9",
+            "會議日期": "830323",
+            "立法紀錄": "83卷22期2696號下冊 59-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcdc881c7cccdcdcfccc4cfcfcac6c4cfcfc9cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "620522",
-            "立法紀錄": "62卷38期594號 25-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcdc981c9cdcaceccc7cfcfcfcec4cfcfcdcac4cfcfccce",
+            "會議日期": "831110",
+            "立法紀錄": "83卷73期2747號 40-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcdc881c7ccc8cccfcfc4cfcfcbcfc4cfcfcbc9",
             "關係文書": []
         }
     ]
