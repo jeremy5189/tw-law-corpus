@@ -1,8 +1,8 @@
 {
     "title": "幼稚教育法",
     "versions": [
-        "中華民國91年5月17日修正",
-        "中華民國91年6月12日公布"
+        "中華民國92年6月6日修正",
+        "中華民國92年6月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -72,7 +72,7 @@
         {
             "note": "(每班人數之限制)",
             "rule_no": "第八條",
-            "content": "　　幼稚園教學每班兒童不得超過三十人。\n　　幼稚園兒童得按年齡分班，每班置教師二人。\n　　幼稚園行政組織及職員編制，由各該主管教育行政機關定之。",
+            "content": "　　幼稚園教學每班兒童不得超過三十人。\n　　幼稚園兒童得按年齡分班，每班置教師二人，其中一人為導師。其導師費之發給，由教育部會商各地方主管教育行政機關另定之，不受第十三條第一項相關規定之限制。\n　　幼稚園行政組織及職員編制，由各該主管教育行政機關定之。",
             "relates": {}
         },
         {
@@ -203,42 +203,46 @@
         }
     ],
     "law_reasons": {
-        "第六條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將幼稚教育法施行細則第六條改列本法。",
-        "第六條 之二": "　　一、本條新增。\n　　二、配合行政程序法之施行，將幼稚教育法施行細則第五條改列本法。",
-        "第六條 之三": "　　一、本條新增。\n　　二、配合行政程序法之施行，將幼稚教育法施行細則第十條改列本法。",
-        "第八條": "　　配合行政程序法之施行，將幼稚教育法施行細則第七條，改列本條第二項及第三項。",
-        "第十三條": "　　增訂第二項。公立幼稚園園長、教職員之成績考核，比照公立國民小學校長、教職員之規定辦理。",
-        "第十七條 之一": "　　一、本條新增。\n　　二、增訂幼稚園應辦理兒童平安保險，及相關規定之訂定。",
-        "第二十條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將幼稚教育法施行細則第十二條改列本法。",
-        "第二十二條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將幼稚教育法施行細則第十一條改列本法，並配合地方制度法酌作文字修正。",
-        "第二十三條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將幼稚教育法施行細則第十三條改列本法。"
+        "第八條": "　　修正第二項。目前各級學校每班均設有導師一名，並肩負導護學童之責，幼教教師對此用心尤多，爰修正之，以慰良師之劬勞；另句末增列「其導師費之發給，由教育部會商各地方主管教育行政機關另定之，不受第十三條第一項相關規定之限制。」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 11-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacacb81c6cecccccfcec4cfcfcecec4cfcfcecd",
-            "主提案": "行政院",
+            "會議日期": "920516",
+            "立法紀錄": "92卷29期3303號一冊 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacaca81c6cdcdc6cfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "許淵國",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecdcfcec5cdccc8d2cdccc6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 106-111頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacacb81c6cecccacfcec4cfcecfc9c4cfcecece",
+            "進度": "委員會審查",
+            "會議日期": "920602",
+            "立法紀錄": "92卷36期3310號下冊 110-116頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacaca81c6cdccc9cfccc4cfcececfc4cfcecec9",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "920606",
+            "立法紀錄": "92卷34期3308號三冊 257-260頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacaca81c6cdcccbcfccc4cfcdcac8c4cfcdc9cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5cac9c8d2cac8ce"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 190-191頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacacb81c6cecccacfcec4cfcec6cfc4cfcec6ce",
+            "會議日期": "920606",
+            "立法紀錄": "92卷34期3308號三冊 260-260頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacaca81c6cdcccbcfccc4cfcdc9cfc4cfcdc9cf",
             "關係文書": []
         }
     ]
