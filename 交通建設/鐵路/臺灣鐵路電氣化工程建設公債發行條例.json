@@ -1,11 +1,11 @@
 {
     "title": "臺灣鐵路電氣化工程建設公債發行條例",
     "versions": [
-        "中華民國91年5月14日廢止",
-        "中華民國91年5月29日公布"
+        "中華民國68年1月17日制定",
+        "中華民國68年1月26日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -88,38 +88,81 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　臺灣省政府原依「興建臺中港第一期工程建設公債發行條例」、「興建臺中港第二期工程建設公債發行條例」、「興建臺中港第三期工程建設公債發行條例」、「臺灣鐵路電氣化工程建設公債發行條例」及臺北市政府依據「臺北市自來水工程建設公債發行條例」，所發行之公債，均已分別逾兌付期限或兌付完竣，以上五條例乃屬法規規定之事項已執行完畢者，依中央法規標準法第二十一條第二款規定，爰予一併廢止。",
+    "law_reasons": {
+        "第一條": "　　闡明本條例制定之目的，並授權臺灣省政府發行本公債。",
+        "第二條": "　　本公債分期發行，日期及數額依鐵路電氣化工程需要擬定。",
+        "第三條": "　　參照興建臺中港第二期工程建設公債發行條例之成規訂定。",
+        "第四條": "　　參照興建臺中港第二期工程建設公債發行條例之成規訂定。",
+        "第五條": "　　自發行之日起屆滿三年開始還本，每年平均還本一次，分五年全部還清。",
+        "第六條": "　　參照中央政府建設公債發行條例及臺中港第二期建設公債發行條例之成規訂定。",
+        "第七條": "　　參照中央政府建設公債發行條例及臺中港第二期建設公債發行條例之成規訂定。",
+        "第八條": "　　為掌握償債財源，鞏固債信，應逐年編列預算，預期撥交經理銀行備付。",
+        "第九條": "　　本公債係授權省政府發行，臺灣銀行代理省庫，爰參照臺中港第二期建設公債發行條例成規，由臺灣銀行經理。",
+        "第十條": "　　參照興建臺中港第二期建設公債各期發行債票奉核定情形訂定。",
+        "第十一條": "　　參照中央政府建設公債發行條例之成規訂定。",
+        "第十二條": "　　參照中央政府建設公債發行條例之成規訂定。",
+        "第十三條": "　　明定本條例之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910326",
-            "立法紀錄": "91卷20期3216號 7-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c881c6cecdcfcfcfc4cfcfcfc8c4cfcfcfc7",
+            "會議日期": "670929",
+            "立法紀錄": "67卷78期1146號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c981c9c8c9cdc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5c9cacad2c9c9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5ccc8d2cbcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910502",
-            "立法紀錄": "91卷44期3240號下冊 283-286頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c881c6cecbcbcfccc4cfcdc7ccc4cfcdc7c9",
+            "會議日期": "671111",
+            "立法紀錄": "68卷9期1181號 36-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c981c9c7c9cdcfc6cfcfc4cfcfccc9c4cfcfcbce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671130",
+            "立法紀錄": "68卷11期1183號 10-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c981c9c7c9cdcececfcfc4cfcfcecfc4cfcfcec9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "680110",
+            "立法紀錄": "68卷30期1202號 48-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c981c9c7c9cccccfcfcfc4cfcfcbc7c4cfcfcacb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "680116",
+            "立法紀錄": "68卷5期1177號 46-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c981c9c7c9cdcfcacfcfc4cfcfcbc9c4cfcfcace",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5c9c8cdd2c9c8c9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "680116",
+            "立法紀錄": "68卷5期1177號 51-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c981c9c7c9cdcfcacfcfc4cfcfcacec4cfcfcacd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 141-147頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c881c6cecccbcfcec4cfcecbcec4cfcecbc8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececdcfcec5cbcdced2cbccc9"
-                ]
-            ]
+            "會議日期": "680117",
+            "立法紀錄": "68卷5期1177號 130-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdc6c981c9c7c9cdcfcacfcfc4cfcecccfc4cfceccce",
+            "關係文書": []
         }
     ]
 }
