@@ -1,11 +1,11 @@
 {
     "title": "公務人員任用法（民國37年）",
     "versions": [
-        "中華民國69年11月14日修正",
-        "中華民國69年12月3日公布"
+        "中華民國76年1月9日廢止",
+        "中華民國76年1月14日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -160,63 +160,27 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第六條": "　　修正第二項，將原依分類職位公務人員各職等考試及格者，可以轉任簡薦委制相當職務，另將經依分類職位公務人員任用法所定銓敘合格或依分類職位公務人員考績法規定取得升等任用資格之人員，一併增列為本條第二項，以便分類職位人員轉任簡薦委制之職務有所依據，藉以兩制之溝通。",
-        "第七條": "　　一、第二項本身文字除將考列一等二等修正為甲等乙等，以資與分類職位一致外，其餘未予變動。\n　　二、增訂第三款為分類職位第六至九職等考試及格資格，作升等任用條件之一，俾資周延，而便配合。\n　　三、原第三款改為第四款，並增列「或分類職位第六職等升等考試及格者」，以資周延，而利執行。\n　　四、原第四款修正為第五款。將「專科以上學校畢業者」修正為「大學或獨立學院以上學校畢業者」依此修正不但可以提高公務人員之素質，且與分類職位公務人員任用法第六條第二項所規定升等之條件保持平衡。",
-        "第十五條 之一": "　　一、本條係新增。\n　　二、查分類職位公務人員任用法已規定公務人員之資遣，已於其第十九條之一設有專條，此為任用制度之創制，而簡薦委制公務人員任用法應配合修正，以便執行時有所依據，而免各機關發生疑義。"
-    },
+    "deprecated_reason": "　　新制公務人員任用、考績、俸給三法，業經總統分別於中華民國75年4月21日、7月11日、7月16日明令公布其施行日期均授權考試院以命令定之。玆考試院決定於中華民國76年1月16日起施行，特依據中央法規標準法第21條第4款之規定，爰予廢止「公務人員任用法」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690108",
-            "立法紀錄": "69卷3期1279號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cacf81c9c6c9cbcfcccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcbcfcfc5cccfc8d2cccece"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "690308",
-            "立法紀錄": "69卷37期1313號 87-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cacf81c9c6c9caccc8cfcfc4cfcfc7c8c4cfcfc6cf",
+            "會議日期": "751230",
+            "立法紀錄": "75卷105期2007號 84-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cace81c8cacecfcacfcfc4cfcfc7cbc4cfcfc7cb",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691001",
-            "立法紀錄": "70卷27期1408號 75-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cacf81c8cfc9c8cdc8cfcfc4cfcfc8cac4cfcfc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "691104",
-            "立法紀錄": "69卷89期1365號 18-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cacf81c9c6c9c9c7c6cfcfc4cfcfcec7c4cfcfcccd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcdcfcfc5c8c6ced2c8c6c6"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "691111",
-            "立法紀錄": "69卷91期1367號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cacf81c9c6c9c9c6cecfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "751227",
+            "立法紀錄": "76卷31期2038號 115-116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cace81c8c9cfcccecfcfc4cfcececac4cfcecec9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "691114",
-            "立法紀錄": "69卷92期1368號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cacf81c9c6c9c9c6cdcfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "760109",
+            "立法紀錄": "76卷3期2010號 9-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cace81c8c9cfcfcccfcfc4cfcfcfc6c4cfcfcecd",
             "關係文書": []
         }
     ]
