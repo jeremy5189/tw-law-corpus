@@ -1,7 +1,7 @@
 {
     "title": "警察服制條例",
     "versions": [
-        "中華民國90年5月11日修正",
+        "中華民國90年5月11日",
         "中華民國90年5月30日公布"
     ],
     "types": [
@@ -10,49 +10,49 @@
     ],
     "law_data": [
         {
-            "note": "",
+            "note": "(警察服制規定)",
             "rule_no": "第一條",
             "content": "　　警察服制依本條例之規定。",
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(警察服制分類)",
             "rule_no": "第二條",
             "content": "　　警察制服分為禮服、常服及便服三種，現任警察人員依規定服用之。",
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(警察人員服用禮服時間)",
             "rule_no": "第三條",
             "content": "　　警察人員服用禮服時間如左：\n　　一、參加本國或友邦大典及宴會時。\n　　二、晉謁總統或友邦元首時。\n　　三、正式訪問或回訪友邦文武官員時。\n　　四、參加警察各種重要典禮或校閱部隊時。\n　　前項第四款禮服得以常服代之。",
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(平日執行職務及參加集會服制)",
             "rule_no": "第四條",
             "content": "　　警察人員平日執行職務及參加集會時，除以服用常服為適當者外，均得服用便服。但因任務需要，得不服用制服。\n　　依前項規定服用制服時，因氣候寒冷或下雨，得加服大衣或雨衣。",
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(警察服制之標識)",
             "rule_no": "第五條",
             "content": "　　警察制服式樣及應佩帶之標識，依本條例所附警察制服制式說明書。\n　　前項警察制服及標識，由各級警察機關統籌製發。[附件：警察制服制式說明書暨附圖]",
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(警察服制制定機關)",
             "rule_no": "第六條",
             "content": "　　警察機關行政人員、中央警察大學、警察專科學校及警察學校學員、學生、警察儀隊、警察樂隊、特殊作業之工作人員、警察機關管理之駐衛警察或編訓之義勇警察等人員；其服式、標識與警察人員之雨衣、雨鞋及執行特種勤務之服式，由內政部定之。",
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(警察服裝之換季)",
             "rule_no": "第七條",
             "content": "　　警察服裝換季時間，由內政部警政署依各地氣候季節情形規定之。",
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(施行日)",
             "rule_no": "第八條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
@@ -63,12 +63,12 @@
             "進度": "一讀",
             "會議日期": "891024",
             "立法紀錄": "89卷57期3116號上冊 16-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c7c6cac8cfcec4cfcfcec9c4cfcfcec8",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcdcece81c7c6cac8cfcec4cfcfcec9c4cfcfcec8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cccdc9d2ccc8cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cccdc9d2ccc8cb"
                 ]
             ]
         },
@@ -76,18 +76,18 @@
             "進度": "委員會審查",
             "會議日期": "900308",
             "立法紀錄": "90卷13期3147號 127-141頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c6cfcecccfcfc4cfcecdc8c4cfcecbce",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcdcece81c6cfcecccfcfc4cfcecdc8c4cfcecbce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "900511",
             "立法紀錄": "90卷26期3160號一冊 113-166頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c6cfcdc9cfcec4cfcececcc4cfcec9c9",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcdcece81c6cfcdc9cfcec4cfcececcc4cfcec9c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc9cfcdc5cac6cfd2c9cbca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc9cfcdc5cac6cfd2c9cbca"
                 ]
             ]
         },
@@ -95,14 +95,14 @@
             "進度": "二讀(逐條討論)",
             "會議日期": "900511",
             "立法紀錄": "90卷26期3160號一冊 166-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c6cfcdc9cfcec4cfcec9c9c4cfcec9c7",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcdcece81c6cfcdc9cfcec4cfcec9c9c4cfcec9c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
             "會議日期": "900511",
             "立法紀錄": "90卷26期3160號一冊 169-169頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdce81c6cfcdc9cfcec4cfcec9c6c4cfcec9c6",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcdcece81c6cfcdc9cfcec4cfcec9c6c4cfcec9c6",
             "關係文書": []
         }
     ]
