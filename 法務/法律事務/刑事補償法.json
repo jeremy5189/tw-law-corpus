@@ -1,8 +1,8 @@
 {
     "title": "刑事補償法",
     "versions": [
-        "中華民國55年5月24日修正",
-        "中華民國55年6月2日公布"
+        "中華民國56年7月18日修正",
+        "中華民國56年8月1日公布"
     ],
     "types": [
         "立法歷程",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　受不起訴處分或無罪之宣告曾受羈押，有左列情形之一者，不得請求賠償：\n　　一、因刑法第十八條第一項、第十九條第一項規定之事由者。\n　　二、行為違反公共秩序或善良風俗或應施以保安處分者。\n　　三、因受害人故意或重大過失之行為，致受羈押或刑之執行者。\n　　四、因判決合併處罰之一部受無罪之宣告，而其他部分受有罪之宣告者。\n　　五、依刑事訴訟法第二百三十一條第一款至第五款、第七款、第九款及第二百三十二條之規定，為不起訴處分者。\n　　六、依刑事訴訟法第二百三十一條第六款之規定，受不起訴處分時，如有證據足認為無該事由即應起訴者。",
+            "content": "　　受不起訴處分或無罪之宣告曾受羈押，有左列情形之一者，不得請求賠償：\n　　一、因刑法第十八條第一項、第十九條第一項規定之事由者。\n　　二、行為違反公共秩序或善良風俗或應施以保安處分者。\n　　三、因受害人故意或重大過失之行為，致受羈押或刑之執行者。\n　　四、因判決合併處罰之一部受無罪之宣告，而其他部分受有罪之宣告者。\n　　五、依刑事訴訟法第二百五十二條第一款至第五款、第七款、第九款及第二百五十三條之規定，為不起訴處分者。\n　　六、依刑事訴訟法第二百五十二條第六款之規定，受不起訴處分時，如有證據足認為無該事由即應起訴者。",
             "relates": {}
         },
         {
@@ -169,55 +169,22 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "540219",
-            "立法紀錄": "54卷35期號1冊 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacbcccacfcecfcfc4cfcfcecfc4cfcfcecf",
-            "主提案": "行政院",
+            "會議日期": "560718",
+            "立法紀錄": "56卷5期號7冊 750-756頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdceca81cac9ccc6cfc8cfcac4cfc8cacfc4cfc8cac9",
+            "主提案": "ⓙ士源",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcecfcfc5cccad2ccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcccfcfc5c9c7cbd2c9c7c6"
                 ]
             ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550513",
-            "立法紀錄": "55卷37期號8冊 80-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc7cfcfc4cfcfc7cfc4cfcfc7ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcdcfcfc5cacdcfd2cacdcd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550527",
-            "立法紀錄": "55卷37期號9冊 11-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc6cfcfc4cfcfcecec4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550524",
-            "立法紀錄": "55卷37期號9冊 58-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc6cfcfc4cfcfcac7c4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "550524",
-            "立法紀錄": "55卷37期號9冊 59-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc6cfcfc4cfcfcac6c4cfcfc9ce",
-            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "550524",
-            "立法紀錄": "55卷37期號9冊 61-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc6cfcfc4cfcfc9cec4cfcfc9ce",
+            "會議日期": "560718",
+            "立法紀錄": "56卷6期號7冊 786-786頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdceca81cac9ccc6cfc8cfc9c4cfc8c7c9c4cfc8c7c9",
             "關係文書": []
         }
     ]
