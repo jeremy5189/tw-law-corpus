@@ -1,8 +1,8 @@
 {
     "title": "監察院各委員會組織法",
     "versions": [
-        "中華民國42年5月26日修正",
-        "中華民國42年5月27日公布"
+        "中華民國42年11月17日修正",
+        "中華民國42年11月30日公布"
     ],
     "types": [
         "立法歷程",
@@ -48,7 +48,7 @@
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　委員會之開會，須有各該委員會委員除因公出差者外之過半數出席，其決議須經出席委員過半數之通過。",
+            "content": "　　委員會之開會，須有各該委員會委員除外出調查、視察者外之過半數出席，其決議須經出席委員過半數之通過。",
             "relates": {}
         },
         {
@@ -79,41 +79,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "420519",
-            "立法紀錄": "42卷11期號8冊 144-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cc81cbcdcececfc7c4cfcecbcbc4cfcecbcb",
+            "會議日期": "420908",
+            "立法紀錄": "42卷12期號1冊 50-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfcec4cfcfcacfc4cfcfcacf",
             "主提案": "監察院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cacfc9d2cacfc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5c6cdd2c6cb"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "420526",
-            "立法紀錄": "42卷11期號9冊 17-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cc81cbcdcececfc6c4cfcfcec8c4cfcfcdcf",
+            "會議日期": "421117",
+            "立法紀錄": "42卷12期號4冊 22-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfcbc4cfcfcdcdc4cfcfcdcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cdcfd2cdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cccbcdd2cccbcb"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "421027",
+            "立法紀錄": "42卷12期號3冊 50-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfccc4cfcfcacfc4cfcfcacd",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "420526",
-            "立法紀錄": "42卷11期號9冊 106-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cc81cbcdcececfc6c4cfcecfc9c4cfcececc",
+            "會議日期": "421030",
+            "立法紀錄": "42卷12期號3冊 64-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfccc4cfcfc9cbc4cfcfc9c6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "420526",
-            "立法紀錄": "42卷11期號9冊 113-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cc81cbcdcececfc6c4cfcececcc4cfcececb",
+            "會議日期": "421117",
+            "立法紀錄": "42卷12期號4冊 45-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfcbc4cfcfcbcac4cfcfcbc9",
             "關係文書": []
         }
     ]
