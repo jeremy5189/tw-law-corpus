@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國43年7月6日修正",
-        "中華民國43年7月21日公布"
+        "中華民國43年10月12日修正",
+        "中華民國43年10月23日公布"
     ],
     "types": [
         "立法歷程",
@@ -1050,7 +1050,7 @@
         {
             "note": "",
             "rule_no": "第一百六十條",
-            "content": "　　意圖侮辱中華民國，而公然損壞、除去或污辱中華民國之國旗、國章者，處一年以下有期徒刑、拘役或三百元以下罰金。\n　　意圖侮辱創立中華民國之孫先生，而公然損壞、除去或污辱其遺像者亦同。",
+            "content": "　　意圖侮辱中華民國，而公然損壞、除去或污辱中華民國之國徽、國旗者，處一年以下有期徒刑、拘役或三百元以下罰金。\n　　意圖侮辱創立中華民國之孫先生，而公然損壞、除去或污辱其遺像者亦同。",
             "relates": {}
         },
         {
@@ -2351,42 +2351,28 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430514",
-            "立法紀錄": "43卷13期號5冊 13-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cecc81cbcccecccfcac4cfcfceccc4cfcfcec9",
-            "主提案": "宋述樵",
+            "會議日期": "431005",
+            "立法紀錄": "43卷14期號1冊 62-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9ceca81cbcccecbcfcec4cfcfc9cdc4cfcfc9cc",
+            "主提案": "營爾斌",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cccbc6d2cccace"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cececbd2cececa"
                 ]
             ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "430706",
-            "立法紀錄": "43卷13期號6冊 34-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cecc81cbcccecccfc9c4cfcfcccbc4cfcfccc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5cbcfcfd2cbcfce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430706",
-            "立法紀錄": "43卷13期號6冊 128-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cecc81cbcccecccfc9c4cfcecdc7c4cfceccce",
-            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "730706",
-            "立法紀錄": "43卷13期號6冊 131-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cecc81cbcccecccfc9c4cfcecccec4cfceccce",
-            "關係文書": []
+            "會議日期": "431012",
+            "立法紀錄": "43卷14期號1冊 100-100頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9ceca81cbcccecbcfcec4cfcecfcfc4cfcecfcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcecfcfc5cccac7"
+                ]
+            ]
         }
     ]
 }
