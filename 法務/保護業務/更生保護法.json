@@ -1,8 +1,8 @@
 {
     "title": "更生保護法",
     "versions": [
-        "中華民國69年6月20日修正",
-        "中華民國69年7月4日公布"
+        "中華民國91年6月21日修正",
+        "中華民國91年7月10日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　更生保護會為財團法人，辦理更生保護事業，受法務部之指揮、監督；登記前應經法務部之許可。其組織及管理辦法，除本法規定者外，由章程定之。\n　　其他個別捐助辦理之更生保護事業，管理辦法，由法務部定之。",
+            "content": "　　更生保護會為財團法人，辦理更生保護事業，受法務部之指揮、監督，登記前應經法務部之許可。\n　　前項更生保護會之組織及管理辦法，由法務部定之。",
             "relates": {}
         },
         {
@@ -61,6 +61,12 @@
             "note": "",
             "rule_no": "第九條",
             "content": "　　更生保護會實施更生保護或辦理更生保護事業所需經費，由更生保護會就其財產統籌支應，並得向會外籌募。\n　　為加強更生保護事業之推進，各級政府得按更生保護會及其分會之實際需要，予以補助。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第九條 之一",
+            "content": "　　更生保護會財產之使用、收益、處分及接受政府補助、向外籌募經費之處理與運用等事項之管理辦法，由法務部定之。",
             "relates": {}
         },
         {
@@ -107,6 +113,12 @@
         },
         {
             "note": "",
+            "rule_no": "第十六條 之一",
+            "content": "　　更生保護事業辦理不善或違反法令或設立許可條件者，法務部得視情節，分別為下列之處理：\n　　一、糾正。\n　　二、限期整頓改善。\n　　三、解散董事會。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第十七條",
             "content": "　　本法施行前，高等法院轄區內所設更生保護會，應依法辦理變更登記。",
             "relates": {}
@@ -125,57 +137,49 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　審檢分隸後，司法行政部更名為法務部，爰將本條第一項及第二項之「司法行政部」修正為「法務部」。",
-        "第十條": "　　審檢分隸後，司法行政部更名為法務部，爰將本條「司法行政部」修正為「法務部」。",
-        "第十二條": "　　審檢分隸後，更生保護會為推進更生保護各項措施，與當地檢察處及監獄亦應密切聯繫配合，故增加「檢察處、監獄」；又「職業介紹」機構修正為「就業輔導」機構。",
-        "第十八條": "　　審檢分隸，爰將「司法行政部」修正為「法務部」。"
+        "第四條": "　　一、為管理更生保護會，法務部訂有「財團法人臺灣更生保護會及所屬各分會工作人員管理辦法」、「財團法人臺灣更生保護會生產事業人事管理要點」、「財團法人福建更生保護會工作人員管理辦法」等規定，惟均乏法律授權訂定之依據，為符合行政程序法之相關規定，爰刪除第一項後段規定，另增訂第二項，明定其組織及管理辦法由法務部另定之。\n　　二、關於個別捐助辦理更生保護事業之規定，法務部固已訂有「法務部審查法務財團法人設立許可及監督要點」，惟其法律位階恐有不足。為配合前開之修正內容，原第二項規定已無存在必要，爰刪除之。",
+        "第九條 之一": "　　一、本條新增。\n　　二、有關更生保護會之財產管理，目前係依法務部訂定之「財團法人臺灣更生保護會及所屬各分會財產管理辦法」、「財團法人福建更生保護會財產管理辦法」等規定為之，惟上開規定並無法律授權訂定之依據，為符合行政程序法之相關規定，爰增訂本條，以明定其授權依據。",
+        "第十六條 之一": "　　一、本條新增。\n　　二、為配合行政程序法之相關規定，爰將本法施行細則第二十三條有關更生保護事業辦理不善或違反法令或設立許可條件時主管機關處理方式之規定，提昇於本法規定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690506",
-            "立法紀錄": "69卷37期1313號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9caccc8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcccdcd81c6cecccbcfcec4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5c7d2cece"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "690605",
-            "立法紀錄": "69卷70期1346號 12-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9cac8cfcfcfc4cfcfcecdc4cfcfcecc",
+            "會議日期": "910520",
+            "立法紀錄": "91卷49期3245號上冊 111-122頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcccdcd81c6cecbc6cfcec4cfcececec4cfcecdcd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "690620",
-            "立法紀錄": "69卷50期1326號 77-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9cacacfcfcfc4cfcfc8c8c4cfcfc7cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cecec8d2cecdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "690620",
-            "立法紀錄": "69卷50期1326號 80-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9cacacfcfcfc4cfcfc7cfc4cfcfc7ce",
+            "進度": "委員會審查",
+            "會議日期": "910530",
+            "立法紀錄": "91卷52期3248號上冊 65-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcccdcd81c6cecacdcfcec4cfcfc9cac4cfcfc8c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "690620",
-            "立法紀錄": "69卷50期1326號 81-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9cacacfcfcfc4cfcfc7cec4cfcfc7ce",
-            "關係文書": []
+            "會議日期": "910621",
+            "立法紀錄": "91卷45期3241號一冊 340-347頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcccdcd81c6cecbcacfcec4cfcccbcfc4cfcccbc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcdc5cdc8c9d2cdc7cc"
+                ]
+            ]
         }
     ]
 }
