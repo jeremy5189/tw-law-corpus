@@ -1,12 +1,12 @@
 {
     "title": "律師法",
     "versions": [
-        "中華民國70年12月24日全文修正",
-        "中華民國71年1月6日公布"
+        "中華民國73年11月30日修正",
+        "中華民國73年12月10日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -42,13 +42,13 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　高等法院或分院或地方法院應置律師名簿，其應記載事項如左：\n　　一、姓名、性別、年齡、籍貫、住址。\n　　二、律師證書號數。\n　　三、學歷及履歷。\n　　四、事務所。\n　　五、登錄年、月、日及其號數。\n　　六、加入律師公會年、月、日。\n　　七、曾否受過懲戒。\n　　八、其他法院之登錄號數。",
+            "content": "　　高等法院或分院或地方法院及各該法院檢察處，應置律師名簿。其應記載事項如左：\n　　一、姓名、性別、年齡、籍貫、住址。\n　　二、律師證書號數。\n　　三、學歷及經歷。\n　　四、事務所。\n　　五、登錄年、月、日及其號數。\n　　六、加入律師公會年、月、日。\n　　七、曾否受過懲戒。\n　　八、其他法院之登錄號數。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　律師得在所登錄之法院及最高法院，執行職務。",
+            "content": "　　律師得在左列機關執行職務：\n　　一、最高法院、最高法院檢察署。\n　　二、所登錄之法院及其檢察處。\n　　三、所登錄之地方法院管轄區域內之司法警察機關。\n　　四、其他依法令規定律師得執行職務之機關。",
             "relates": {}
         },
         {
@@ -144,7 +144,7 @@
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　律師接受事件之委託後，非有正當理由，不得終止其契約，如須終止契約，應於審期前十日通知委託人，在未得委託人同意前，不得中止進行。",
+            "content": "　　律師接受事件之委託後，非有正當理由，不得終止其契約；如須終止契約，應於審期前十日或偵查訊（詢）問前通知委託人，在未得委託人同意前，不得中止進行。",
             "relates": {}
         },
         {
@@ -156,19 +156,19 @@
         {
             "note": "",
             "rule_no": "第二十五條",
-            "content": "　　律師對於左列事件，不得執行其職務：\n　　一、曾受委託人之相對人之委任，或曾與商議而予以贊助者。\n　　二、任推事或檢察官時曾經處理之事件。\n　　三、依仲裁程序以仲裁人之資格曾經處理之事件。\n　　當事人之請求如係職務上所不應為之行為，律師應拒絕之。",
+            "content": "　　律師對於左列事件，不得執行其職務：\n　　一、曾受委託人之相對人之委任，或曾與商議而予以贊助者。\n　　二、任推事、檢察官或司法警察官、司法警察時曾經處理之事件。\n　　三、依仲裁程序以仲裁人資格曾經處理之事件。\n　　當事人之請求如係職務上所不應為之行為，律師應拒絕之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十六條",
-            "content": "　　律師在法庭執行職務時，應遵守法庭之秩序。",
+            "content": "　　律師在法庭或偵查中執行職務時，應遵守法庭或偵查之秩序。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　律師對於法院及委託人，不得有矇蔽或欺誘之行為。",
+            "content": "　　律師對於委託人、法院、檢察機關或司法警察機關，不得有矇蔽或欺誘之行為。",
             "relates": {}
         },
         {
@@ -198,7 +198,7 @@
         {
             "note": "",
             "rule_no": "第三十二條",
-            "content": "　　律師不得與司法人員為不正當之往還酬應。",
+            "content": "　　律師不得與司法人員及司法警察官、司法警察為不正當之往還酬應。",
             "relates": {}
         },
         {
@@ -228,19 +228,19 @@
         {
             "note": "",
             "rule_no": "第三十七條",
-            "content": "　　司法人員自離職之日起三年內，不得在曾任職務之法院管轄區域內執行律師職務。",
+            "content": "　　司法人員自離職之日起三年內，不得在曾任職務之法院或檢察處管轄區域內執行律師職務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三十八條",
-            "content": "　　律師於註銷登錄後一年內，不得在曾執行職務區域內之法院充任司法官。",
+            "content": "　　律師於註銷登錄後一年內，不得在曾執行職務區域內之法院或檢察處充任司法官。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三十九條",
-            "content": "　　律師與法院院長或首席檢察官有配偶、五親等內血親或三親等內姻親之關係者。不得在該法院登錄。\n　　律師與辦理案件之推事、檢察官有前項之親屬關係者，就其案件應行迴避。",
+            "content": "　　律師與法院院長或檢察處首席檢察官有配偶、五親等內血親或三親等內姻親之關係者，不得在該法院登錄。\n　　律師與辦理案件之推事、檢察官或司法警察官、司法警察有前項之親屬關係者，就其案件應行迴避。",
             "relates": {}
         },
         {
@@ -300,13 +300,13 @@
         {
             "note": "",
             "rule_no": "第四十九條",
-            "content": "　　外國人經許可在中國執行律師職務者，於法院開庭時，應用中國語言，所陳文件，應用中國文字。",
+            "content": "　　外國人經許可在中國執行律師職務者，於法院開庭或偵查訊（詢）問在場時，應用中國語言，所陳文件，應用中國文字。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五十條",
-            "content": "　　本法施行細則，由法務部會同內政部擬定，報請行政院核定之。\n　　律師管理規則由法務部擬訂，報請行政院核定之。\n　　律師懲戒程序，由法務部擬訂，報請行政院會同司法院核定之。",
+            "content": "　　本法施行細則，由法務部會同內政部擬訂，報請行政院核定之。\n　　律師懲戒程序，由法務部擬訂，報請行政院會同司法院核定之。",
             "relates": {}
         },
         {
@@ -316,223 +316,77 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第六條": "　　刑事訴訟法部分修正條文業已公布施行，被告在偵查中亦得選任辯護人，爰於「地方法院」下，增訂「及各該法院檢察處」八字，以資配合。",
+        "第七條": "　　刑事訴訟法部分條文修正公布後，律師得於偵查中執行職務，為期配合，並減少律師向法院檢察處聲請登錄之程序，爰於本條增訂律師得在最高法院檢察署，所登錄之法院檢察處及其管轄區域內之司法警察機關執行職務之規定，並作文字修正，以資適用。\n　　律師執行職務機關非僅限於本條三款所列舉者，故增列第四款概括規定，以資周延。",
+        "第二十三條": "　　本條原僅適用於律師在法院執行職務之情形，刑事訴訟法部分條文修正公布後，律師在偵查中亦得執行職務，爰於本條內增訂律師終止偵查案件之委託，應於偵查訊（詢）問前通知委託人，在未得委託人同意前，不得中止進行之規定，以確保偵查中被告或犯罪嫌疑人之正當權益。",
+        "第二十五條": "　　律師於偵查中得執行職務，因之，其於任司法警察官或司法警察時曾經處理之事件，自以不得執行律師職務為宜，爰於本條第二款內增訂「或司法警察官、司法警察」等字。",
+        "第二十六條": "　　配合刑事訴訟法部分條文修正公布，關於建立偵查中辯護制度之規定，爰於本條增列規定律師在偵查中執行職務，應遵守偵查。",
+        "第二十七條": "　　本條原僅就律師於法院執行職務時，對於法院及委託人之義務而設。茲偵查中既許律師在各級檢察機關，司法警察機關執行職務，爰於本條「法院」之下，增訂「檢察機關或司法警察機關」等字，並作文字修正，以資配合。",
+        "第三十二條": "　　本條原僅針對律師不得與司法人員為不正當之往還酬應而設，刑事訴訟法部分條文修正公布後，律師既得於偵查中受任為犯罪嫌疑人之辯護人，自應增訂律師亦不得與司法警察人員為不正當之往還酬應之規定，俾確保偵查程序之公正進行，並維護優良風紀。",
+        "第三十七條": "　　自六十九年七月一日審、檢分隸後，檢察處已成為獨立機關，爰於本條內之「法院」下，增列「檢察處」三字。",
+        "第三十八條": "　　審檢分隸後，檢察處已成為獨立機關，爰於「法院」之下，增列「檢察處」三字。",
+        "第三十九條": "　　一、審、檢分隸，爰於第一項內之「院長或」下，增列「檢察處」三字。\n　　二、第二項內之「檢察官」下，增列「或司法警察官、司法警察」等字，使律師與司法警察官或司法警察有第一項之親屬關係者，就其案件亦應迴避，以免司法警察官、司法警察偏頗或使人足認有偏頗之虞。",
+        "第四十九條": "　　刑事訴訟法部分條文修正公布後，已建立偵查中辯護制度，對於經法務部許可在中國執行律師職務之外國人，亦應有其適用，爰於本條增訂外國人經許可在中國執行律師職務者，於偵查訊（詢）問在場時，應用中國語言，所陳文件，應用中國文字之規定，以資配合。",
+        "第五十條": "　　律師公會全聯會已制訂「律師規範」以為自治、自律準則，無另訂「律師管理規」之必要，爰予刪除，以維律師尊嚴。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "621102",
-            "立法紀錄": "62卷84期640號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9cdcacdc7cbcfcfcfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "林忠雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcdcfcfc5cdc8cad2cdc7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "620322",
-            "立法紀錄": "63卷20期676號 15-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9cccacccdcfcfcfcfcec4cfcfcecac4cfcfcec7",
-            "主提案": "陳武",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacccfcdcfcfc5cbc7cad2cbc7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "631004",
-            "立法紀錄": "63卷74期730號 20-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9cccacbc8cbcfcfcfcec4cfcfcdcfc4cfcfcdce",
-            "主提案": "黃加昌",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "681116",
-            "立法紀錄": "68卷92期1264號 4-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9c7c9cbc6cdcfcfc4cfcfcfcbc4cfcfcfc8",
-            "主提案": "臺中律師公會",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5cac9c7d2cac8cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "690627",
-            "立法紀錄": "69卷52期1328號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9c6c9cacacdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "720308",
+            "立法紀錄": "72卷20期1609號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6ce81c8cdc8cecdcfcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cbcecdd2cbcec6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfcdcfcfc5cacad2c9cf"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "691028",
-            "立法紀錄": "69卷87期1363號 3-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9c6c9c9c7c8cfcfc4cfcfcfccc4cfcfcec7",
-            "主提案": "中華民國律師公會全國聯合會",
+            "會議日期": "730427",
+            "立法紀錄": "73卷34期1728號 41-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdc6ce81c8cccfcccbcfcfc4cfcfcbcec4cfcfcacd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5cac9c7d2cac8cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cccfcccfcfc5cecfc9cfd2cecfc8c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "661212",
-            "立法紀錄": "67卷23期1091號 26-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9c8c9cecdcccfcfc4cfcfcdc9c4cfcfcccf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661219",
-            "立法紀錄": "67卷25期1093號 26-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9c8c9cecdcacfcfc4cfcfcdc9c4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661228",
-            "立法紀錄": "67卷27期1095號 48-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c9c8c9cecdc8cfcfc4cfcfcbc7c4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "691119",
-            "立法紀錄": "70卷8期1389號 13-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c9cfc7cfcfc4cfcfceccc4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "691203",
-            "立法紀錄": "70卷13期1394號 10-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c9cecccfcfc4cfcfcecfc4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "691126",
-            "立法紀錄": "70卷23期1404號 91-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c8cdcccfcfc4cfcfc6cec4cfcfc6c8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "691217",
-            "立法紀錄": "70卷31期1412號 58-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c8cccecfcfc4cfcfcac7c4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "700409",
-            "立法紀錄": "70卷51期1432號 87-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c8cacecfcfc4cfcfc7c8c4cfcfc6cc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "700423",
-            "立法紀錄": "70卷54期1435號 76-83頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c8cacbcfcfc4cfcfc8c9c4cfcfc7cc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "700430",
-            "立法紀錄": "70卷55期1436號 139-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c8cacacfcfc4cfceccc6c4cfcecbcb",
+            "會議日期": "730509",
+            "立法紀錄": "73卷70期1764號 16-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdc6ce81c8cccfc8cfcfcfc4cfcfcec9c4cfcfcdcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "701113",
-            "立法紀錄": "70卷91期1472號 5-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7c6cecfcfc4cfcfcfcac4cfcfcbc7",
+            "會議日期": "731127",
+            "立法紀錄": "73卷95期1789號 17-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdc6ce81c8cccfc6cacfcfc4cfcfcec8c4cfcfcccf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcbcfcfc5c9c6c9d2c8ccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfcccfcfc5c7cdced2c7cccc"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "701113",
-            "立法紀錄": "70卷91期1472號 48-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7c6cecfcfc4cfcfcbc7c4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701117",
-            "立法紀錄": "70卷92期1473號 5-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7c6cdcfcfc4cfcfcfcac4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701120",
-            "立法紀錄": "70卷93期1474號 23-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7c6cccfcfc4cfcfcdccc4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701201",
-            "立法紀錄": "70卷96期1477號 6-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7c6c9cfcfc4cfcfcfc9c4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701204",
-            "立法紀錄": "70卷97期1478號 21-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7c6c8cfcfc4cfcfcdcec4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701215",
-            "立法紀錄": "70卷100期1481號 13-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7cecfcfcfcfc4cfcfceccc4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701222",
-            "立法紀錄": "70卷102期1483號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7cecfcdcfcfc4cfcfcfc9c4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "701222",
-            "立法紀錄": "70卷102期1483號 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7cecfcdcfcfc4cfcfcfc6c4cfcfcfc6",
+            "會議日期": "731127",
+            "立法紀錄": "73卷95期1789號 30-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdc6ce81c8cccfc6cacfcfc4cfcfcccfc4cfcfcbce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "701224",
-            "立法紀錄": "70卷103期1484號 4-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc6cf81c8cfc9c7cecfcccfcfc4cfcfcfcbc4cfcfcecf",
+            "會議日期": "731130",
+            "立法紀錄": "73卷96期1790號 6-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdc6ce81c8cccfc6c9cfcfc4cfcfcfc9c4cfcfcfc6",
             "關係文書": []
         }
     ]
