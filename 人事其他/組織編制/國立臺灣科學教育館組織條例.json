@@ -1,12 +1,12 @@
 {
     "title": "國立臺灣科學教育館組織條例",
     "versions": [
-        "中華民國102年12月31日廢止",
-        "中華民國103年1月15日公布"
+        "中華民國51年6月15日制定",
+        "中華民國51年6月26日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -76,59 +76,58 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　配合行政院組織改造作業，國立臺灣科學教育館組織法業於101年2月3日公布，102年1月1日施行，爰將國立臺灣科學教育館組織條例予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020226",
-            "立法紀錄": "102卷7期4032號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfc681cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "500815",
+            "立法紀錄": "50卷27期號19冊 59-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcacb81cacfcdc8cec6c4cfcfcac6c4cfcfcac6",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc8cfcccfcfc5c6cdcfd2c6cdc9"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1021205",
-            "立法紀錄": "102卷83期4108號 173-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfc681cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
-            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 353-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfc681cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
+            "會議日期": "510615",
+            "立法紀錄": "51卷29期號13冊 4-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcacb81cacecdc6ceccc4cfcfcfcbc4cfcfcecb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5cecfcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc7cfcdcfcfc5cecfc9d2cecdcf"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "510605",
+            "立法紀錄": "51卷29期號12冊 76-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcacb81cacecdc6cecdc4cfcfc8c9c4cfcfc7ca",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfc681cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "510612",
+            "立法紀錄": "51卷29期號12冊 103-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcacb81cacecdc6cecdc4cfcecfccc4cfcecfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "510612",
+            "立法紀錄": "51卷29期號12冊 117-137頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcacb81cacecdc6cecdc4cfcecec8c4cfceccc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cfc681cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "510615",
+            "立法紀錄": "51卷29期號13冊 76-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcacb81cacecdc6ceccc4cfcfc8c9c4cfcfc8c8",
             "關係文書": []
         }
     ]
