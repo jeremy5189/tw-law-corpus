@@ -1,11 +1,11 @@
 {
     "title": "國立北平研究院組織條例",
     "versions": [
-        "中華民國34年9月29日制定",
-        "中華民國34年10月17日公布"
+        "中華民國61年3月7日停止適用",
+        "中華民國61年3月20日公布"
     ],
     "types": [
-        "異動條文"
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -73,6 +73,29 @@
             "rule_no": "第十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "601214",
+            "立法紀錄": "60卷96期449號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcdc781c9cfcbc7c6c9cfcfcfcec4cfcfcfcac4cfcfcfca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610108",
+            "立法紀錄": "61卷27期480號 14-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcdc781c9cecbc6cdc8cfcfcfcdc4cfcfcecbc4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 38-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcdc781c9cecbc6cec6cfcfcfcec4cfcfccc7c4cfcfccc6",
+            "關係文書": []
         }
     ]
 }
