@@ -1,12 +1,12 @@
 {
     "title": "興建國民住宅貸款條例",
     "versions": [
-        "中華民國64年7月1日廢止",
-        "中華民國64年7月12日公布"
+        "中華民國46年7月15日制定",
+        "中華民國46年7月27日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -82,118 +82,59 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　本條例係四十六年公布施行，其內容僅止於國民住宅貸款之有關事項，實施以來缺點甚多，例如貸款利率規定不得超過年息六厘，缺乏彈性，致政府補貼過多，為改進上述缺點，故訂定「國民住宅條例」，並將本法予以廢止。",
     "law_history": [
         {
-            "進度": "一讀",
-            "會議日期": "640225",
-            "立法紀錄": "64卷17期771號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacec8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "460705",
+            "立法紀錄": "46卷19期號10冊 21-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfcec681cbc9cec6cecfc4cfcfcdcec4cfcfcccd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcdcfcfc5c9cccfd2c9ccca"
+                ]
+            ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "640310",
-            "立法紀錄": "64卷44期798號 25-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacbcbcfcfcfcdc4cfcfcdcac4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640319",
-            "立法紀錄": "64卷45期799號 27-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacbcacfcfcfcdc4cfcfcdc8c4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640326",
-            "立法紀錄": "64卷46期800號 30-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacbc9cfcfcfcdc4cfcfcccfc4cfcfccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640517",
-            "立法紀錄": "64卷47期801號 20-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacbc8cfcfcfcdc4cfcfcdcfc4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640522",
-            "立法紀錄": "64卷50期804號 1-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacacfcfcfcfcdc4cfcfcfcec4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640529",
-            "立法紀錄": "64卷51期805號 1-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacacecfcfcfcdc4cfcfcfcec4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640604",
-            "立法紀錄": "64卷52期806號 1-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacacdcfcfcfcdc4cfcfcfcec4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640607",
-            "立法紀錄": "64卷52期806號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacacdcfcfcfcdc4cfcfcfc7c4cfcfcfc7",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "460705",
+            "立法紀錄": "46卷19期號10冊 35-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfcec681cbc9cec6cecfc4cfcfcccac4cfcfcac7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "640613",
-            "立法紀錄": "64卷48期802號 13-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacbc7cfcfcfcec4cfcfceccc4cfcfccc8",
+            "會議日期": "460709",
+            "立法紀錄": "46卷19期號10冊 58-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfcec681cbc9cec6cecfc4cfcfcac7c4cfcfc8c6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "640617",
-            "立法紀錄": "64卷49期803號 5-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacbc6cfcfcfcec4cfcfcfcac4cfcfcfc7",
+            "會議日期": "460712",
+            "立法紀錄": "46卷19期號10冊 81-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfcec681cbc9cec6cecfc4cfcfc7cec4cfcfc7c9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "460715",
+            "立法紀錄": "46卷19期號10冊 106-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfcec681cbc9cec6cecfc4cfcecfc9c4cfcecfc6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "640617",
-            "立法紀錄": "64卷49期803號 8-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacbc6cfcfcfcec4cfcfcfc7c4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "640620",
-            "立法紀錄": "64卷50期804號 5-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacacfcfcfcfcec4cfcfcfcac4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "640624",
-            "立法紀錄": "64卷51期805號 20-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacacecfcfcfcec4cfcfcdcfc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "640627",
-            "立法紀錄": "64卷52期806號 2-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacacdcfcfcfcec4cfcfcfcdc4cfcfcfca",
+            "會議日期": "460715",
+            "立法紀錄": "46卷19期號10冊 109-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfcec681cbc9cec6cecfc4cfcecfc6c4cfcececd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "640701",
-            "立法紀錄": "64卷53期807號 2-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc7c6c6c8c7ca81c9cbcacacacccfcfcfcec4cfcfcfcdc4cfcfcfcb",
+            "會議日期": "460715",
+            "立法紀錄": "46卷19期號10冊 112-116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfcec681cbc9cec6cecfc4cfcececdc4cfcecec9",
             "關係文書": []
         }
     ]
