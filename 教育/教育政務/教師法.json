@@ -1,8 +1,8 @@
 {
     "title": "教師法",
     "versions": [
-        "中華民國84年7月13日制定",
-        "中華民國84年8月9日公布"
+        "中華民國89年6月30日修正",
+        "中華民國89年7月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -256,7 +256,7 @@
         {
             "note": "(兼任、代課及代理教師之權利義務)",
             "rule_no": "第三十五條",
-            "content": "　　各級學校兼任教師之資格檢定與審定，依本法之規定辦理。\n　　兼任、代課及代理教師之權利、義務，由教育部訂定辦法規定之。\n　　各級學校之專業及技術科目教師之資格，依教育人員任用條例之規定辦理。",
+            "content": "　　各級學校兼任教師之資格檢定與審定，依本法之規定辦理。\n　　兼任、代課及代理教師之權利、義務，由教育部訂定辦法規定之。\n　　各級學校專業、技術科目教師及擔任軍訓護理課程之護理教師，其資格均依教育人員任用條例之規定辦理。",
             "relates": {}
         },
         {
@@ -285,270 +285,105 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　照黨團協商條文通過。",
-        "第二條": "　　照黨團協商條文通過。",
-        "第三條": "　　照黨團協商條文通過。",
-        "第四條": "　　照黨團協商條文通過。",
-        "第五條": "　　照黨團協商條文通過。",
-        "第六條": "　　照黨團協商條文通過。",
-        "第七條": "　　照黨團協商條文通過。",
-        "第八條": "　　照黨團協商條文通過。",
-        "第九條": "　　照黨團協商條文通過。",
-        "第十條": "　　照黨團協商條文通過。",
-        "第十一條": "　　照黨團協商條文通過。",
-        "第十二條": "　　照黨團協商條文通過。",
-        "第十三條": "　　照黨團協商條文通過。",
-        "第十四條": "　　照黨團協商條文通過。",
-        "第十五條": "　　照黨團協商條文通過。",
-        "第十六條": "　　照黨團協商條文通過。",
-        "第十七條": "　　照修正動議條文通過。",
-        "第十八條": "　　照黨團協商條文通過。",
-        "第十九條": "　　照黨團協商條文通過。",
-        "第二十條": "　　照黨團協商條文通過。",
-        "第二十一條": "　　照黨團協商條文通過。",
-        "第二十二條": "　　照黨團協商條文通過。",
-        "第二十三條": "　　照黨團協商條文通過。",
-        "第二十四條": "　　照黨團協商條文通過。",
-        "第二十五條": "　　照黨團協商條文通過。",
-        "第二十六條": "　　照黨團協商條文通過。",
-        "第二十七條": "　　照修正動議條文通過。",
-        "第二十八條": "　　照黨團協商條文通過。",
-        "第二十九條": "　　照黨團協商條文通過。",
-        "第三十條": "　　照黨團協商條文通過。",
-        "第三十一條": "　　照黨團協商條文通過。",
-        "第三十二條": "　　照黨團協商條文通過。",
-        "第三十三條": "　　照黨團協商條文通過。",
-        "第三十四條": "　　照黨團協商條文通過。",
-        "第三十五條": "　　照黨團協商條文通過。",
-        "第三十六條": "　　照黨團協商條文通過。",
-        "第三十七條": "　　照黨團協商條文通過。",
-        "第三十八條": "　　照黨團協商條文通過。",
-        "第三十九條": "　　照黨團協商條文通過。"
+        "第三十五條": "　　軍訓護理教師從事實護理教學課程，卻礙於法令規章，並無任何法源依據使其取得合格教師資格，導致軍訓護理教師雖在師資培育法的配套措施下，仍無法與其他教師享有相同的進修機會，更遑論被納入教育人員退撫新制，對軍訓護理教師權益影響甚大，爰修正第三項，增列擔任軍訓護理課程之護理教師與專業、技術科目教師之資格皆依教育人員任用條例之規定辦理。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "801213",
-            "立法紀錄": "80卷101期2525號上冊 193-212頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cfcecfcecfcec4cfcec6ccc4cfcdcecd",
-            "主提案": "陳哲男",
+            "會議日期": "890411",
+            "立法紀錄": "89卷16期3075號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6cec9cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "湯金生",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdcecfcfc5cbcfc6d2cbcec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfc9cfcec5c7cdd2c7ca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "810327",
-            "立法紀錄": "81卷26期2554號上冊 21-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cecfcdc9cfcec4cfcfcdcec4cfcfcccd",
-            "主提案": "謝長廷",
+            "會議日期": "890425",
+            "立法紀錄": "89卷20期3079號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6cdcfcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "鄭龍水",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cecdcfcfc5c7cbcad2c7c9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecfcfcfc5cececfd2cececd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "810707",
-            "立法紀錄": "81卷55期2583號上冊 39-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cecfcacacfcec4cfcfccc6c4cfcfcbc8",
-            "主提案": "何智輝",
+            "會議日期": "890602",
+            "立法紀錄": "89卷32期3091號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6cccdcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "靳曾珍麗",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccbcfcfc5cecfcbc8d2cecfcac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcecfcfc5cecdcfd2cecdca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "820622",
-            "立法紀錄": "82卷41期2640號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdcbcecfcfc4cfcfcecec4cfcfcece",
-            "主提案": "行政院",
+            "會議日期": "890616",
+            "立法紀錄": "89卷35期3094號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6cccacfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳學聖",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccfcfcec5c7c6d2cecfcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcbcfcfc5c7cad2c7c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "890616",
+            "立法紀錄": "89卷35期3094號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6cccacfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林政則",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcbcfcfc5ceccccd2ceccca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "810321",
-            "立法紀錄": "81卷26期2554號下冊 476-501頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cecfcdc9cfccc4cfcbc8c9c4cfcacfce",
+            "會議日期": "890626",
+            "立法紀錄": "89卷42期3101號下冊 39-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6cbcdcfccc4cfcfccc6c4cfcfcacd",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "811024",
-            "立法紀錄": "81卷69期2597號下冊 102-125頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cecfc9c6cfccc4cfcecfcdc4cfcecdca",
+            "進度": "黨團協商",
+            "會議日期": "890627",
+            "立法紀錄": "89卷38期3097號上冊 84-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6ccc7cfcec4cfcfc7cbc4cfcfc7c9",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "811223",
-            "立法紀錄": "81卷71期2599號 275-290頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cecfc8cecfcfc4cfcdc8cac4cfcdc6cf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820318",
-            "立法紀錄": "82卷17期2616號下冊 183-200頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdcec8cfccc4cfcec7ccc4cfcdcfcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820324",
-            "立法紀錄": "82卷18期2617號上冊 455-475頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdcec7cfcec4cfcbcacac4cfcbc8ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820705",
-            "立法紀錄": "82卷48期2647號下冊 210-210頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdcbc7cfccc4cfcdcecfc4cfcdcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820712",
-            "立法紀錄": "82卷49期2648號下冊 191-213頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdcbc6cfccc4cfcec6cec4cfcdcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "821013",
-            "立法紀錄": "82卷57期2656號下冊 241-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdcac8cfccc4cfcdcbcec4cfcdc9cd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "821111",
-            "立法紀錄": "82卷66期2665號 15-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdc9c9cfcfc4cfcfcecac4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "821201",
-            "立法紀錄": "82卷71期2670號下冊 342-351頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdc8cecfccc4cfcccbcdc4cfcccace",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "821206",
-            "立法紀錄": "82卷73期2672號下冊 37-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdc8cccfccc4cfcfccc8c4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "821208",
-            "立法紀錄": "82卷73期2672號下冊 273-291頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdc8cccfccc4cfcdc8ccc4cfcdc6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "821215",
-            "立法紀錄": "82卷75期2674號下冊 306-322頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cdc8cacfccc4cfcccfc9c4cfcccdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "821222",
-            "立法紀錄": "83卷2期2676號下冊 276-281頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cccfcdcfccc4cfcdc8c9c4cfcdc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830112",
-            "立法紀錄": "83卷8期2682號 353-365頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cccfc7cfcfc4cfcccaccc4cfccc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830526",
-            "立法紀錄": "83卷39期2713號下冊 252-268頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7ccccc6cfccc4cfcdcacdc4cfcdc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830608",
-            "立法紀錄": "83卷43期2717號下冊 294-307頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cccbcccfccc4cfcdc6cbc4cfcccfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830622",
-            "立法紀錄": "83卷47期2721號下冊 144-159頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cccbc8cfccc4cfcecbcbc4cfcecac6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830627",
-            "立法紀錄": "83卷48期2722號下冊 96-119頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cccbc7cfccc4cfcfc6c9c4cfcecec6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "830706",
-            "立法紀錄": "83卷51期2725號 69-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cccacecfcfc4cfcfc9c6c4cfcfc6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "840712",
-            "立法紀錄": "84卷46期2803號一冊 73-160頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cbcbc9cfcec4cfcfc8ccc4cfcec9cf",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號中冊 453-487頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6ccc6cfcdc4cfcbcaccc4cfcbc7c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcfcacfcfc5cececfd2cec6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdc7cfcec5caccccd2cacbcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840712",
-            "立法紀錄": "84卷46期2803號一冊 160-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cbcbc9cfcec4cfcec9cfc4cfcec9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840713",
-            "立法紀錄": "84卷46期2803號二冊 233-238頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cbcbc9cfcdc4cfcdccccc4cfcdccc7",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "840713",
-            "立法紀錄": "84卷46期2803號二冊 238-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6cb81c7cbcbc9cfcdc4cfcdccc7c4cfcdcbcf",
+            "會議日期": "890630",
+            "立法紀錄": "89卷39期3098號中冊 487-487頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac6c981c7c6ccc6cfcdc4cfcbc7c8c4cfcbc7c8",
             "關係文書": []
         }
     ]
