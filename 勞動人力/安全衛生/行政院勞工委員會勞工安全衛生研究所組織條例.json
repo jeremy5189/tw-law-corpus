@@ -1,11 +1,11 @@
 {
     "title": "行政院勞工委員會勞工安全衛生研究所組織條例",
     "versions": [
-        "中華民國104年6月9日廢止",
-        "中華民國104年6月24日公布"
+        "中華民國81年4月21日制定",
+        "中華民國81年5月8日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,45 +82,72 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　「行政院勞工委員會勞工安全衛生研究所組織條例」所規範之組織，既已組織調整並另行制定新法規範，「行政院勞工委員會勞工安全衛生研究所組織條例」實無繼續施行或適用之必要，依中央法規標準法第21條規定，予以廢止。",
+    "law_reasons": {
+        "第一條": "　　行政院勞工委員會組織條例第二十三規定：「本會得設勞工安全衛生及勞工研究機構，其組織另以法律定之。」爰明定本條例之立法依據。",
+        "第二條": "　　一、明定本所之掌理事項。\n　　二、第一款所稱勞工安全技術，係指勞工作業有關設備改進及職業災害預防之技術。\n　　三、第二款所稱其他危害勞工健康因素，係指與勞工健康有關之勞動心理、勞動生理等因素。\n　　四、第三款所稱流行病學調查研究，係指利用流行病學技術調查研究勞工職業病流行狀況。\n　　五、第四款所稱勞工作業環境測定樣品，係指由勞工檢查機構或其他依法監督事業單位之機構所採之樣品。\n　　六、第五款係研究以工程方法及控制技術或管理措施來改善勞工作業環境。\n　　七、第六款係針對量測勞工作業場所設備及環境危害性應指定使用何種規格之儀器與其研究開發事項及勞工檢查機構所使用儀器之校正。\n　　八、第七款係針對各種保護勞工安全健康之器具就其防護性能加以認定，並予以必要之性能測試。",
+        "第三條": "　　本合理分工原則，依第二條所定之掌理事項，分四組辦事。",
+        "第四條": "　　規定秘書室之掌理事項。",
+        "第五條": "　　明定所長、副所長之職掌及其官等、職等。",
+        "第六條": "　　一、衡酌本所業務需要與發展趨勢，估列編制員額六十三人至七十七人，依業務發展情形，逐年編列預算員額進用。\n　　二、安全衛生為一綜合性科技研究工作，故將本所技術人員職位明定為研究員、副研究員及助理研究員，並以薦任以上研究人員為主，期能延攬優秀之安全衛生研究人才，鼓勵本所人員從事有關安全衛生之研究與開發，以提升安全衛生水準與知能。",
+        "第七條": "　　規定人事室之編制及其掌理事項。",
+        "第八條": "　　規定會計室之編制及其掌理事項。",
+        "第九條": "　　依據公務人員任用法之規定明定本條。",
+        "第十條": "　　明定本所得設勞工安全衛生展示館，該館係供展示國內外安全衛生狀況、研究與改善技術成果，具有教育宣導及技術推廣之功能。",
+        "第十一條": "　　規定本所辦事細則之訂定程序。",
+        "第十二條": "　　依中央法規標準法第十二條規定，訂定本條例之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1030307",
-            "立法紀錄": "103卷14期4123號 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9c9ce81cecfcccfcecbcfcec4cfcfcecdc4cfcfcecd",
+            "會議日期": "791130",
+            "立法紀錄": "79卷96期2416號 248-248頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfc781c8c6cfc6c9cfcfc4cfcdcbc7c4cfcdcbc7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcccfcec5cecccbd2cec9ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cec6cfcfc5cac9ccd2cac9c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1040520",
-            "立法紀錄": "104卷48期4247號 39-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9c9ce81cecfcbcfcbc7cfcec4cfcfccc6c4cfcfc8c7",
+            "會議日期": "791217",
+            "立法紀錄": "81卷11期2539號 193-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfc781c7cecfcececfcfc4cfcec6ccc4cfcdcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800701",
+            "立法紀錄": "81卷18期2546號 395-400頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfc781c7cecfcec7cfcfc4cfccc6cac4cfcbcfcf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040609",
-            "立法紀錄": "104卷51期4250號二冊 191-219頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9c9ce81cecfcbcfcacecfcdc4cfcec6cec4cfcdcec6",
+            "會議日期": "810421",
+            "立法紀錄": "81卷33期2561號上冊 33-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfc781c7cecfcccccfcec4cfcfccccc4cfcfcbcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecac8c6c5cecfccd2ceccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdcfcfcfc5cdcdced2cdcccf"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810421",
+            "立法紀錄": "81卷33期2561號上冊 43-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfc781c7cecfcccccfcec4cfcfcbccc4cfcfcbc8",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1040609",
-            "立法紀錄": "104卷51期4250號二冊 219-219頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9c9ce81cecfcbcfcacecfcdc4cfcdcec6c4cfcdcec6",
+            "會議日期": "810421",
+            "立法紀錄": "81卷33期2561號上冊 47-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfc781c7cecfcccccfcec4cfcfcbc8c4cfcfcbc8",
             "關係文書": []
         }
     ]
