@@ -1,10 +1,11 @@
 {
     "title": "票據法",
     "versions": [
-        "中華民國18年9月28日制定",
-        "中華民國18年10月30日公布"
+        "中華民國43年4月30日修正",
+        "中華民國43年5月14日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -807,7 +808,7 @@
         {
             "note": "",
             "rule_no": "第一百二十三條",
-            "content": "　　支票之付款人，以銀錢業者為限。",
+            "content": "　　支票之付款人，以銀錢業者及信用合作社為限。",
             "relates": {}
         },
         {
@@ -909,6 +910,47 @@
             "rule_no": "第一百三十九條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "420612",
+            "立法紀錄": "42卷11期號10冊 73-73頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc7ca81cbcdcecececfc4cfcfc8ccc4cfcfc8cc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cbccccd2cbccca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430430",
+            "立法紀錄": "43卷13期號4冊 39-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc7ca81cbcccecccfcbc4cfcfccc6c4cfcfcbc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5ceccccd2cecbcf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430430",
+            "立法紀錄": "43卷13期號4冊 85-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc7ca81cbcccecccfcbc4cfcfc7cac4cfcfc7c9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "430430",
+            "立法紀錄": "43卷13期號4冊 86-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc7ca81cbcccecccfcbc4cfcfc7c9c4cfcfc7c9",
+            "關係文書": []
         }
     ]
 }
