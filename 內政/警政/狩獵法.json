@@ -1,11 +1,11 @@
 {
     "title": "狩獵法",
     "versions": [
-        "中華民國61年11月17日修正",
-        "中華民國61年11月30日公布"
+        "中華民國78年6月9日廢止",
+        "中華民國78年6月23日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -124,71 +124,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　查行政院以現行民營公用事業監督條例、狩獵法、農倉業法、農倉業法施行條例及蠶種製造條例等，條文中仍有舊制機關名稱，例如「國民政府」「農林部」「實業部」等等，均與現行體制不符，爰予修正之。",
-        "第三條": "　　查行政院以現行民營公用事業監督條例、狩獵法、農倉業法、農倉業法施行條例及蠶種製造條例等，條文中仍有舊制機關名稱，例如「國民政府」「農林部」「實業部」等等，均與現行體制不符，爰將第二項末句中之「農林部」修正為「經濟部」。",
-        "第四條": "　　查行政院以現行民營公用事業監督條例、狩獵法、農倉業法、農倉業法施行條例及蠶種製造條例等，條文中仍有舊制機關名稱，例如「國民政府」「農林部」「實業部」等等，均與現行體制不符，爰將第一項後段之「農林部」修正為「經濟部」。",
-        "第五條": "　　查行政院以現行民營公用事業監督條例、狩獵法、農倉業法、農倉業法施行條例及蠶種製造條例等，條文中仍有舊制機關名稱，例如「國民政府」「農林部」「實業部」等等，均與現行體制不符，爰將末句中之「首都警察廳」修正為「內政部警政署」。",
-        "第十八條": "　　將本法施行細則，修正由經濟部會同內政部定之。"
-    },
+    "deprecated_reason": "　　因我國近年來自然環境發生甚大變化，野生動物棲息環境不斷減少，若干原有及特有野生動物絕種或瀕臨絕種，為避免此種現象繼續惡化，故廢止狩獵法，並制定「野生動物保育法」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600604",
-            "立法紀錄": "60卷41期395號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6ccce81c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "751219",
+            "立法紀錄": "75卷102期2004號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6cccd81c8cacecfcdcfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6ceced2c6cdcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c7cfc8cfcfc5cac7cbd2c9cfcd"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 12-21頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6ccce81c9cecacfc6cfcfcfcfcec4cfcfcecdc4cfcfcdce",
-            "主提案": "宋潄石",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c9c8d2c8c9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601222",
-            "立法紀錄": "61卷5期458號 1-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6ccce81c9cecbc7cfcacfcfcfcdc4cfcfcfcec4cfcfcfc9",
-            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 21-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6ccce81c9cecacfc6cfcfcfcfcec4cfcfcdcec4cfcfcccd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c8c8d2c6ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "611114",
-            "立法紀錄": "61卷90期543號 32-33頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6ccce81c9cecacfc6cfcfcfcfcec4cfcfcccdc4cfcfcccc",
+            "會議日期": "780602",
+            "立法紀錄": "78卷35期2251號 121-122頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6cccd81c8c7cfcccacfcfc4cfcecdcec4cfcecdcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "611117",
-            "立法紀錄": "61卷91期544號 3-11頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6ccce81c9cecacfc6cecfcfcfcec4cfcfcfccc4cfcfcece",
+            "會議日期": "780602",
+            "立法紀錄": "78卷46期2262號 35-36頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c6cccd81c8c7cfcbc9cfcfc4cfcfcccac4cfcfccc9",
             "關係文書": []
         }
     ]
