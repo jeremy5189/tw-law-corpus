@@ -1,11 +1,11 @@
 {
     "title": "民國二十四年廣東省建設公債條例",
     "versions": [
-        "中華民國62年5月22日停止適用",
-        "中華民國62年6月5日公布"
+        "中華民國24年7月12日制定",
+        "中華民國24年7月29日公布"
     ],
     "types": [
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -41,19 +41,19 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本公債定於中華民國二十四年十二月一日發行。",
+            "content": "　　本公債定於民國二十四年八月一日發行。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　本公債每年付息兩次，以五月及十一月末日行之。",
+            "content": "　　本公債每年付息兩次，以一月及七月末日行之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　本公債期限，定為五年，自發行日起，每六個月抽籤還本一次，第一次至第四次，抽還總額百分之八，第五第六兩次每次抽還總額百分之十，第七次至第十次，每次抽還總額百分之十二，至中華民國二十九年十一月底止，全數償清。　\n　　前項抽籤，於每年五月十五日及十一月十五日當眾舉行，即於各該月底開始付款，每次抽籤時，由財政部、審計部派員監視。",
+            "content": "　　本公債期限，定為五年，自發行日起每六個月抽籤還本一次，第一次至第四次每次抽還總額百分之八，第五第六兩次每次抽還總額百分之十，第七次至第十次每次抽還總額百分之十二，至民國二十九年七月底止全數償清。　\n　　前項抽籤，於每年一月十五日及七月十五日當眾舉行，即於各該月底開始付款，每次抽籤時，由財政部、審計部派員監視。",
             "relates": {}
         },
         {
@@ -91,50 +91,6 @@
             "rule_no": "第十四條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "610104",
-            "立法紀錄": "61卷2期455號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac9cc81c9cecbc7cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610119",
-            "立法紀錄": "61卷43期496號 49-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac9cc81c9cecbc6cbcccfcfcfcdc4cfcfcbc6c4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610307",
-            "立法紀錄": "61卷19期472號 41-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac9cc81c9cecbc6cec6cfcfcfcec4cfcfcbcec4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610310",
-            "立法紀錄": "61卷20期473號 2-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac9cc81c9cecbc6cdcfcfcfcfcec4cfcfcfcdc4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610317",
-            "立法紀錄": "61卷22期475號 4-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac9cc81c9cecbc6cdcdcfcfcfcec4cfcfcfcbc4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "620522",
-            "立法紀錄": "62卷38期594號 11-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecac9cc81c9cdcaceccc7cfcfcfcec4cfcfcecec4cfcfcdcd",
-            "關係文書": []
         }
     ]
 }
