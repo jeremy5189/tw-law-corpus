@@ -1,11 +1,10 @@
 {
     "title": "財政收支劃分法",
     "versions": [
-        "中華民國54年4月23日全文修正",
-        "中華民國54年5月4日公布"
+        "中華民國54年6月8日修正",
+        "中華民國54年6月19日公布"
     ],
     "types": [
-        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -66,7 +65,7 @@
         {
             "note": "(國稅)",
             "rule_no": "第八條",
-            "content": "　　左列各稅為國稅：\n　　一、所得稅：謂對綜合所得及營利事業所得依法課徵之稅。\n　　二、遺產稅：謂對繼承財產及有財產價值之權利依法課徵之稅。\n　　三、印花稅：謂商事憑證、產權憑證、人事憑證、許可憑證及其他憑證依法貼用之印花稅。\n　　四、關稅：謂由海、陸、空進出國境之貨物進出口稅、出口稅及海港之船舶噸稅。\n　　五、貨物稅：謂對國內貨物及國外同類進口貨物依法課徵之稅。\n　　六、鹽稅：謂對鹽及鹽鹵、鹽礦及其他鹽化合物依法課徵之稅。\n　　七、礦區稅：謂對取得礦區權依法課徵之稅。",
+            "content": "　　左列各稅為國稅：\n　　一、所得稅：謂對綜合所得及營利事業所得依法課徵之稅。\n　　二、遺產稅：謂對繼承財產及有財產價值之權利依法課徵之稅。\n　　三、印花稅：謂商事憑證、產權憑證、人事憑證、許可憑證及其他憑證依法貼用之印花稅。\n　　四、關稅：謂由海、陸、空進出國境之貨物進口稅、出口稅及海港之船舶噸稅。\n　　五、貨物稅：謂對國內貨物及國外同類進口貨物依法課徵之稅。\n　　六、鹽稅：謂對鹽及鹽鹵、鹽礦及其他鹽化合物依法課徵之稅。\n　　七、證券交易稅：謂對除各級政府發行之債券外，買賣有價證券法依法課徵之稅。\n　　八、礦區稅：謂對取得礦區權依法課徵之稅。",
             "relates": {}
         },
         {
@@ -298,113 +297,6 @@
             "rule_no": "第三十九條",
             "content": "　　本法自公布日施行。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "531006",
-            "立法紀錄": "53卷34期號2冊 104-104頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacccccbcfcdc4cfcecfcbc4cfcecfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "531117",
-            "立法紀錄": "53卷34期號6冊 27-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacccccbcfc9c4cfcfcdc8c4cfcfcccf",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "531124",
-            "立法紀錄": "53卷34期號6冊 73-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacccccbcfc9c4cfcfc8ccc4cfcfc8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "540423",
-            "立法紀錄": "54卷35期號7冊 8-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccacfc8cfcfc4cfcfcfc7c4cfcfcacf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "540123",
-            "立法紀錄": "54卷34期號14冊 51-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccbcecbc4cfcfcacec4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "540126",
-            "立法紀錄": "54卷34期號14冊 70-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccbcecbc4cfcfc8cfc4cfcfc8c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540125",
-            "立法紀錄": "54卷34期號14冊 76-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccbcecbc4cfcfc8c9c4cfcfc7c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540125",
-            "立法紀錄": "54卷34期號14冊 92-107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccbcecbc4cfcfc6cdc4cfcecfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540126",
-            "立法紀錄": "54卷34期號14冊 108-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccbcecbc4cfcecfc7c4cfcececb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540330",
-            "立法紀錄": "54卷35期號5冊 10-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccacfcacfcfc4cfcfcecfc4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540402",
-            "立法紀錄": "54卷34期號5冊 40-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccacfcacfcfc4cfcfcbcfc4cfcfc8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540413",
-            "立法紀錄": "54卷35期號6冊 23-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccacfc9cfcfc4cfcfcdccc4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540413",
-            "立法紀錄": "54卷35期號6冊 42-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccacfc9cfcfc4cfcfcbcdc4cfcfcac7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540413",
-            "立法紀錄": "54卷35期號6冊 85-92頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccacfc9cfcfc4cfcfc7cac4cfcfc6cd",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "540423",
-            "立法紀錄": "54卷35期號7冊 69-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfc681cacbcccacfc8cfcfc4cfcfc9c6c4cfcfc7ce",
-            "關係文書": []
         }
     ]
 }
