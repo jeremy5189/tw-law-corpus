@@ -1,12 +1,11 @@
 {
     "title": "鹽稅計徵條例",
     "versions": [
-        "中華民國66年6月28日廢止",
-        "中華民國66年6月29日公布"
+        "中華民國37年12月28日制定",
+        "中華民國38年1月1日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -38,72 +37,6 @@
             "rule_no": "第五條",
             "content": "　　本條例自公布之日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　因已重新修正鹽政條例，現行鹽稅計徵條例已無存在必要，故予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "660513",
-            "立法紀錄": "66卷39期1002號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6ccc6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660530",
-            "立法紀錄": "66卷67期1030號 9-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6c9c8cfcfc4cfcfcfc6c4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660601",
-            "立法紀錄": "66卷68期1031號 2-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6c9c7cfcfc4cfcfcfcdc4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660604",
-            "立法紀錄": "66卷70期1033號 5-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6c8cfcfcfc4cfcfcfcac4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "660614",
-            "立法紀錄": "66卷48期1011號 6-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6cbc7cfcfc4cfcfcfc9c4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660614",
-            "立法紀錄": "66卷48期1011號 31-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6cbc7cfcfc4cfcfcccec4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660617",
-            "立法紀錄": "66卷49期1012號 3-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6cbc6cfcfc4cfcfcfccc4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660624",
-            "立法紀錄": "66卷51期1014號 3-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6cacecfcfc4cfcfcfccc4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "660628",
-            "立法紀錄": "66卷52期1015號 3-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecec8c781c9c9cac6cacdcfcfc4cfcfcfccc4cfcfcfc9",
-            "關係文書": []
         }
     ]
 }
