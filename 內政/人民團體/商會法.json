@@ -1,11 +1,12 @@
 {
     "title": "商會法",
     "versions": [
-        "中華民國26年11月17日全文修正",
-        "中華民國27年1月13日公布"
+        "中華民國61年7月14日廢止",
+        "中華民國61年7月26日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -307,6 +308,37 @@
             "rule_no": "第四十四條",
             "content": "　　本法施行日期以命令定之。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　現行商會法及商業同業公會法，均係二十七年公布實施，歷時過久，內容未能適應當前需要。為期加強各級商業團體之組織及充實其任務，而將此二法合併修訂為「商業團體法」，此二法已無保存之要，故一併廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "570517",
+            "立法紀錄": "57卷36期0號 3058-3058頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac9ce81cac8cbceccc9cfcfc4cccfcac7c4cccfcac7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570803",
+            "立法紀錄": "57卷89期0號 27-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac9ce81cac8cbcdc7c6cfcfcfcdc4cfcfcdc8c4cfcfcccc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "580411",
+            "立法紀錄": "58卷26期0號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac9ce81cac7cbcccdc9cfcfcfcec4cfcfcfc8c4cfcfcfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610714",
+            "立法紀錄": "61卷56期509號 5-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecac9ce81c9cecbc6cac9cfcfcfcec4cfcfcfcac4cfcfcec6",
+            "關係文書": []
         }
     ]
 }
