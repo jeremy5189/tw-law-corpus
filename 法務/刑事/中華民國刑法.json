@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國81年5月15日修正",
-        "中華民國81年5月16日公布"
+        "中華民國83年1月18日修正",
+        "中華民國83年1月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -512,19 +512,25 @@
         {
             "note": "",
             "rule_no": "第七十七條",
-            "content": "　　受徒刑之執行而有悛悔實據者，無期徒刑逾十年後，有期徒刑逾二分之一後，由監獄長官呈司法行政最高官署，得許假釋出獄。但有期徒刑之執行未滿一年者，不在此限。",
+            "content": "　　受徒刑之執行而有悛悔實據者，無期徒刑逾十年後，有期徒刑逾三分之一後，由監獄長官報請法務部，得許假釋出獄，但有期徒刑之執行未滿六月者，不在此限。\n　　無期徒刑裁判確定前逾一年部分之羈押日數算入前項已執行之期間內。\n　　犯刑法第十六章妨害風化各條之罪者，非經強制診療，不得假釋。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七十八條",
-            "content": "　　假釋中更犯罪，受有期徒刑以上刑之宣告者，撤銷其假釋。\n　　因過失犯罪者，不適用前項之規定。\n　　假釋撤銷後，其出獄日數不算入刑期內。",
+            "content": "　　假釋中因故意更犯罪，受有期徒刑以上刑之宣告者，撤銷其假釋。\n　　前項犯罪，其起訴及判決確定均在假釋期滿前者，於假釋期滿後六月以內，仍撤銷其假釋；其判決確定在假釋期滿後者，於確定後六月以內，撤銷之。\n　　假釋撤銷後，其出獄日數不算入刑期內。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七十九條",
-            "content": "　　在無期徒刑假釋後滿十年、或在有期徒刑所餘刑期內未經撤銷假釋者，其未執行之刑，以已執行論。\n　　假釋中因他罪受刑之執行者，其執行之期間，不算入假釋期內。",
+            "content": "　　在無期徒刑假釋後滿十年、或在有期徒刑所餘刑期內未經撤銷假釋者，其未執行之刑，以已執行論。但依第七十八條第二項撤銷其假釋者，不在此限。\n　　假釋中另受刑之執行或羈押或其他依法拘束自由之期間，不算入假釋期內。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第七十九條 之一",
+            "content": "　　二以上徒刑併執行者，第七十七條所定最低應執行之期間，合併計算之。\n　　前項情形，併執行無期徒刑者，適用無期徒刑假釋之規定；二以上有期徒刑合併刑期逾三十年，而接續執行逾十年者，亦得許假釋。\n　　依第一項規定合併計算執行期間而假釋者，前條第一項規定之期間，亦合併計算之。\n　　有期徒刑假釋後所餘刑期逾十年者，準用前條第一項無期徒刑假釋之規定。前項合併計算後之期間逾十年者，亦同。",
             "relates": {}
         },
         {
@@ -2349,120 +2355,102 @@
         }
     ],
     "law_reasons": {
-        "第一百條": "　　一、第一項著手實行之行為態樣，宜明確規定，爰明定可罰性較高之「強暴」、「脅迫」二種行為，並與現行刑法第一百零一條之暴動內亂罪有所區別。\n　　二、第二項之陰謀犯，對於國家法益尚無明顯而立即之危害，可罰性較低，爰刪除陰謀內亂之處罰規定。"
+        "第七十七條": "　　一、原用之「呈」字，為配合現行行政公文程式上之用語，修正為「報請」二字；舊用語之「司法行政最高官署」，亦修正為「法務部」（參照監獄行刑法第八十一條第一項）\n　　二、假釋制度原為救濟長期自由刑之流弊而設，既然刑罰之目的在於使受刑人改悔向上順利回歸社會，因此受刑人之有無悛悔應為假釋要件之主要考量，至於已執行期之比例及下限自不宜過於嚴苛。至於無期徒刑，明定「無期徒刑裁判確定前逾一年部分之羈押日數算入前項已執行之期間內。」明示科處無期徒行者與科處有期徒刑者仍應有不同標準，惟有裁判確定前羈押之日數超過一年之部分始得算入前項執行日期中，用符公平。",
+        "第七十八條": "　　一、本條第一項原文所稱「犯罪」云云，依第二項規定「因過失犯罪者，不適用前項（撤銷假釋）之規定」觀之，當僅指犯罪出於故意之情形而言。故逕行標明「因故意更犯罪」字樣，並將原第二項刪除。亦即將第一、二項合併修正為假釋中因故意更犯罪，受有期徒刑以上刑之宣告者，撤銷其假釋，仍維持其為必要撤銷假釋之原因。\n　　二、依現行規定，假釋中因故意更犯罪，受有期徒刑以上刑之宣告者，須在假釋期滿前受裁判確定，方能據以撤銷假釋。因此，由於裁判確定之遲速，即可能發生可撤銷與不可撤銷的不公平結果，有時且難免使假釋出獄者於假釋即將期滿時，恃以更犯罪。為貫徹未能惕勵自新者，不宜許其繼續假釋之旨意，乃仿撤消緩刑之規定於第二項增設上述犯罪，其起訴及判決確定均在假釋期滿前者，於假釋期滿後六月以內，仍撤銷其假釋；其判決確定在假釋期滿後者，於確定後六月以內，撤銷之。期與假釋制度之理論基礎相符，並防止藉故上訴，拖延判決確定，或於假釋即將期滿時恃以更犯罪，避免假釋遭受撤銷之弊端。依此規定，適用上包括下列二種情形：\n　　（一）犯罪在假釋期滿前起訴，判決確定亦在假釋期滿前，而未及辦理撤銷假釋者，於假釋期滿後六月以內，撤銷之。\n　　（二）犯罪在假釋期滿前起訴，判決確定在假釋期滿以後者，於判決確定後六月以內，撤銷之。\n　　三、第三項未修正。",
+        "第七十九條": "　　一、由於撤銷假假釋或判決確定之遲速不同，可能發生撤銷與不撤銷假擇之不公平結果，為補救此一缺失，第七十八條第二項業已增訂：必要或裁量撤銷假釋原因之犯罪，其起訴及判決確定均在假擇期滿前者，於假釋期滿後六月以內，仍有必要或裁量撤銷假釋規定之適用；其判決確定在假釋期滿後者，於確定後六月以內，亦同。為配合此項修正，並引伸其修正原旨，爰於本條第一項增設但書規定，凡依第七十八條第二項於假釋期滿後依法撤銷其假釋者，其未執行之刑，不能以已執行論，故仍應繼續執行。\n　　二、將本條第二項內之「因他罪受刑之執行」等字，修正為「另受刑之執行」，使包括因本罪或他罪之執行，均不算入假釋期內，俾與假釋制度精神相符合。\n　　三、第二項已規定不論因本罪或他罪受刑之執行者，其期間不算入假釋期內，則因他罪受羈押，或其他依法拘束自由者，其身體自由受公力拘束之點，與受刑之執行當無不同，況羈押期間，收容期間且得折抵刑期故因他罪受羈押，或其他依法拘束自由之期間，自應與受刑之執行期間相同，以不算入假釋期內，始為合理，故納入第二項予以增訂，以資適用。",
+        "第七十九條 之一": "　　本條係新增列，旨在為二以上徒刑併執行者明示其假釋有關期間合併計算之原則。至於假釋之其他要件、撤銷假釋事由、假釋效力等，規定於第七十七條至第七十九條之事項，在性質上當然有其適用，無待增訂明文，併予說明。"
     },
     "law_history": [
         {
             "進度": "一讀",
             "會議日期": "790315",
-            "立法紀錄": "79卷22期2342號 12-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c8c6cfcdcdcfcfc4cfcfcecdc4cfcfcec7",
-            "主提案": "陳水扁",
+            "立法紀錄": "79卷22期2342號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c8c6cfcdcdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院、司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cacfcbcfcfc5cacecfd2cacec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cacfcacfcfc5ccccd2cccdcd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "800524",
-            "立法紀錄": "80卷42期2466號 17-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcbcdcfcfc4cfcfcec8c4cfcfcdc9",
-            "主提案": "黃主文",
+            "會議日期": "821014",
+            "立法紀錄": "82卷55期2654號 104-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c7cdcacacfcfc4cfcecfcbc4cfcecfca",
+            "主提案": "尤宏",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcccfcfc5c8cbccd2c8cbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfcccfcdc5cec7cdd2cec7cc"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "800524",
-            "立法紀錄": "80卷42期2466號 18-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcbcdcfcfc4cfcfcec7c4cfcfcdc9",
-            "主提案": "趙少康",
+            "會議日期": "821116",
+            "立法紀錄": "82卷64期2663號 103-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c7cdc9cbcfcfc4cfcecfccc4cfcecfca",
+            "主提案": "陳婉真",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcccfcfc5c8cccfd2c8cccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfc7cfcec5cccbced2cccbcd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "800524",
-            "立法紀錄": "80卷42期2466號 52-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcbcdcfcfc4cfcfcacdc4cfcfcacd",
-            "主提案": "王天競",
+            "會議日期": "830118",
+            "立法紀錄": "83卷7期2681號上冊 206-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c7cccfc8cfcec4cfcdcfc9c4cfcdcfc8",
+            "主提案": "潘維剛",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcacfcfc5cbccc8d2cbccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcdcccfccc5ceced2cecc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "791015",
-            "立法紀錄": "80卷25期2449號 225-242頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcdcacfcfc4cfcdcdcac4cfcdcbcd",
+            "會議日期": "830112",
+            "立法紀錄": "83卷8期2682號 366-398頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c7cccfc7cfcfc4cfccc9c9c4cfccc6c7",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "791022",
-            "立法紀錄": "80卷33期2457號 261-272頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcccccfcfc4cfcdc9cec4cfcdc8cd",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "830118",
+            "立法紀錄": "83卷7期2681號上冊 126-159頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c7cccfc8cfcec4cfcecdc9c4cfcecac6",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "791121",
-            "立法紀錄": "80卷43期2467號 307-325頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcbcccfcfc4cfcccfc8c4cfcccdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801003",
-            "立法紀錄": "80卷81期2505號 193-226頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfc7cecfcfc4cfcec6ccc4cfcdcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801007",
-            "立法紀錄": "80卷82期2506號 290-338頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfc7cdcfcfc4cfcdc6cfc4cfccccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "810515",
-            "立法紀錄": "81卷40期2568號 42-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cecfcbcfcfcfc4cfcfcbcdc4cfcfc9c7",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "830118",
+            "立法紀錄": "83卷7期2681號上冊 182-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c7cccfc8cfcec4cfcec7cdc4cfcec7cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdcfcfcfc5cec6c7d2cdceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcdcccfcec5cbc6cbd2cacdce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "810515",
-            "立法紀錄": "81卷40期2568號 68-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cecfcbcfcfcfc4cfcfc9c7c4cfcfc8cb",
+            "會議日期": "830118",
+            "立法紀錄": "83卷7期2681號上冊 205-210頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c7cccfc8cfcec4cfcdcfcac4cfcdcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "810515",
-            "立法紀錄": "81卷40期2568號 74-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cecfcbcfcfcfc4cfcfc8cbc4cfcfc8c9",
+            "會議日期": "830118",
+            "立法紀錄": "83卷7期2681號上冊 210-210頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cdcf81c7cccfc8cfcec4cfcdcecfc4cfcdcecf",
             "關係文書": []
         }
     ]
