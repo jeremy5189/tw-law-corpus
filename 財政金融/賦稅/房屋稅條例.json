@@ -1,8 +1,8 @@
 {
     "title": "房屋稅條例",
     "versions": [
-        "中華民國61年12月2日修正",
-        "中華民國61年12月11日公布"
+        "中華民國63年11月19日修正",
+        "中華民國63年11月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -96,7 +96,7 @@
         {
             "note": "(私有房屋免稅之情形)",
             "rule_no": "第十五條",
-            "content": "　　私有房屋有左列情形之一者，免徵房屋稅：\n　　一、業經立案之私立學校及學術研究機構，完成財團法人登記，辦理具有成績，經主管機關證明者，其供校舍或辦公使用之房屋。\n　　二、業經立案之私立慈善救濟事業，不以營利為目的，完成財團法人登記，辦理具有成績，經主管機關證明者，其直接供辦理事業所使用之房屋。\n　　三、專供祭祀用之宗祠，宗教團體供傳教佈道之教堂及寺廟。\n　　四、無償供政府機關公用或供軍用之房屋。\n　　五、不以營利為目的，並經政府核准之公益社團自有供辦公使用之房屋。\n　　六、專供飼養禽畜之房舍。\n　　七、受重大災害毀損面積佔整棟面積五成以上，必須修復始能使用之房屋。\n　　八、司法保護事業所有之房屋。\n　　九、住家房屋現值在五千元以下者。\n　　十、農會所有之倉庫，專供糧政機關儲存公糧，經主管機關證明者。\n　　私有房屋有左列情形之一者，其房屋稅減半徵收：\n　　一、政府平價配售之平民住宅。\n　　二、合法登記之工廠，自有供直接生產使用之房屋。\n　　三、農會所有之自用倉庫及檢驗場，經主管機關證明者。\n　　四、受重大災害，毀損面積佔整棟面積三成以上不及五成之房屋。\n　　第一項第七款免徵之房屋稅及第二項第四款減徵之房屋稅，應由納稅義務人於事實發生之日起十五日內，申報當地主管稽徵機關調查核定之。",
+            "content": "　　私有房屋有左列情形之一者，免徵房屋稅：\n　　一、業經立案之私立學校及學術研究機構，完成財團法人登記，辦理具有成績，經主管機構證明者，其供校舍或辦公使用之房屋。\n　　二、業經立案之私立慈善救濟事業，不以營利為目的，完成財團法人登記，辦理具有成績，經主管機關證明者，其直接供辦理事業所使用之房屋。\n　　三、專供祭祀用之宗祠、宗教團體供傳教佈道之教堂及寺廟。\n　　四、無償供政府機關公用或供軍用之房屋。\n　　五、不以營利為目的，並經政府核准之公益社團自有供辦公使用之房屋。\n　　六、專供飼養禽畜之房舍。\n　　七、受重大災害，毀損面積佔整棟面積五成以上，必須修復始能使用之房屋。\n　　八、司法保護事業所有之房屋。\n　　九、住家房屋現值在九千元以下者。\n　　十、農會所有之倉庫，專供糧政機關儲存公糧，經主管機關證明者。\n　　私有房屋有左列情形之一者，其房屋稅減半徵收：\n　　一、政府平價配售之平民住宅。\n　　二、合法登記之工廠自有供直接生產使用之房屋。\n　　三、農會所有之自用倉庫及檢驗場，經主管機關證明者。\n　　四、受重大災害，毀損面積佔整棟面積三成以上不及五成之房屋。\n　　第一項第七款免徵之房屋稅及第二項第四款減徵之房屋稅，應由納稅義務人於事實發生之日起十五日內，申報當地主管稽徵機關調查核定之。",
             "relates": {}
         },
         {
@@ -161,68 +161,57 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　參照其他稅法法例，復加規定申請復查之期限。",
-        "第十五條": "　　一、為促進以企業方式經營農牧場，俾配合當前發展農業之政策，條正第一項第六款。\n　　二、臺灣省糧食局委託農會儲存公糧之倉庫，給費甚少，為減輕其負擔，第一項增列第十款，以資明定。\n　　三、農會倉庫對其自用倉庫及檢驗場，仍維持減半徵收，為求文義前後配合貫通，爰就本條第二項第三款酌作文字修正。"
+        "第十五條": "　　第一項第九款：原條文規定不足減輕農民及低收入者負擔，為兼顧地方財政收入經酌予提高以資合理。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "611003",
-            "立法紀錄": "61卷79期532號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cf81c9cecacfc8c6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "630628",
+            "立法紀錄": "63卷46期702號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cd81c9cccacccbc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcecfcfc5cdcaccd2cdcac7"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "611023",
-            "立法紀錄": "61卷99期552號 33-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cf81c9cecacfc6c6cfcfcfcdc4cfcfccccc4cfcfccc6",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "611106",
-            "立法紀錄": "61卷102期555號 18-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cf81c9cecacfcecfcdcfcfcfcdc4cfcfcec7c4cfcfcdcf",
+            "會議日期": "630715",
+            "立法紀錄": "63卷77期733號 1-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cd81c9cccacbc8c8cfcfcfcdc4cfcfcfcec4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "631005",
+            "立法紀錄": "63卷80期736號 9-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cd81c9cccacbc7cfcfcfc4cfcfcfc6c4cfcfceca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "611128",
-            "立法紀錄": "61卷94期547號 31-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cf81c9cecacfc6cbcfcfcfcec4cfcfcccec4cfcfccc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcdcfcfc5cccfc6d2cccec7"
-                ]
-            ]
+            "會議日期": "631108",
+            "立法紀錄": "63卷84期740號 20-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cd81c9cccacbc7cbcfcfcfcec4cfcfcdcfc4cfcfcdc7",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "611201",
-            "立法紀錄": "61卷95期548號 5-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cf81c9cecacfc6cacfcfcfcec4cfcfcfcac4cfcfcecc",
+            "會議日期": "631119",
+            "立法紀錄": "63卷87期743號 13-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cd81c9cccacbc7c8cfcfcfcec4cfcfceccc4cfcfcdce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "611201",
-            "立法紀錄": "61卷95期548號 13-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cf81c9cecacfc6cacfcfcfcec4cfcfceccc4cfcfcec6",
+            "會議日期": "631119",
+            "立法紀錄": "63卷87期743號 21-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cd81c9cccacbc7c8cfcfcfcec4cfcfcdcec4cfcfcdca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "611202",
-            "立法紀錄": "61卷95期548號 33-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cf81c9cecacfc6cacfcfcfcec4cfcfccccc4cfcfcccc",
+            "會議日期": "631119",
+            "立法紀錄": "63卷87期743號 25-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9c8cd81c9cccacbc7c8cfcfcfcec4cfcfcdcac4cfcfcdc9",
             "關係文書": []
         }
     ]
