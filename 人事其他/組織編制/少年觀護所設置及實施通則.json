@@ -1,8 +1,8 @@
 {
     "title": "少年觀護所設置及實施通則",
     "versions": [
-        "中華民國68年3月23日修正",
-        "中華民國68年4月4日公布"
+        "中華民國69年7月11日修正",
+        "中華民國69年7月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -34,7 +34,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　少年觀護所隸屬於所在地之地方法院。",
+            "content": "　　少年觀護所隸屬於所在地之地方法院檢察處；關於少年管訓事件少年之收容及少年刑事案件審理中少年之羈押事項，並受法院之督導。",
             "relates": {}
         },
         {
@@ -132,7 +132,7 @@
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　少年觀護所非有該管推事或檢察官之通知，不得將被收容之少年釋放。\n　　前項通知書格式，由司法行政部定之。",
+            "content": "　　少年觀護所非有該管推事或檢察官之通知，不得將被收容之少年釋放。\n　　前項通知書格式，由法務部定之。",
             "relates": {}
         },
         {
@@ -241,34 +241,54 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。"
+        "第四條": "　　審檢分隸後，少年觀護所改隸於所在地之地方法院檢察處。惟少年管訓事件少年之收容及少年刑事案件審理中少年之羈押事項，均與法院有密切關係，爰將本條作適切之修正，俾少年觀護所就該事項應受法院之督導，以利少年事件之處理。",
+        "第十九條": "　　為配合審檢分隸，司法行政部改稱為法務部，故修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680320",
-            "立法紀錄": "68卷23期1195號 24-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c781c9c7c9cccdcccfcfc4cfcfcdcbc4cfcfcdca",
-            "主提案": "吳延環",
+            "會議日期": "690624",
+            "立法紀錄": "69卷51期1327號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c681c9c6c9cacacecfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cbc6ccd2cbc6cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cccecad2cccec7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "690630",
+            "立法紀錄": "69卷92期1368號 55-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c681c9c6c9c9c6cdcfcfc4cfcfcacac4cfcfcac8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "690711",
+            "立法紀錄": "69卷56期1332號 3-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c681c9c6c9cacac9cfcfc4cfcfcfccc4cfcfcfc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cac8ccd2cac8ca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "680320",
-            "立法紀錄": "68卷23期1195號 25-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c781c9c7c9cccdcccfcfc4cfcfcdcac4cfcfcdca",
+            "會議日期": "690711",
+            "立法紀錄": "69卷56期1332號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c681c9c6c9cacac9cfcfc4cfcfcfc9c4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680323",
-            "立法紀錄": "68卷24期1196號 9-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c781c9c7c9cccdcbcfcfc4cfcfcfc6c4cfcfcecf",
+            "會議日期": "690711",
+            "立法紀錄": "69卷56期1332號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c681c9c6c9cacac9cfcfc4cfcfcfc9c4cfcfcfc9",
             "關係文書": []
         }
     ]
