@@ -1,11 +1,11 @@
 {
     "title": "縣參議會組織條例",
     "versions": [
-        "中華民國37年12月31日修正",
-        "中華民國38年1月20日公布"
+        "中華民國61年3月7日停止適用",
+        "中華民國61年3月18日公布"
     ],
     "types": [
-        "異動條文"
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -175,6 +175,43 @@
             "rule_no": "第二十八條",
             "content": "　　本條例施行日期，以命令定之。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "601210",
+            "立法紀錄": "60卷95期448號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcaca81c9cfcbc7c6cacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "601227",
+            "立法紀錄": "61卷21期474號 18-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcaca81c9cecbc6cdcecfcfcfcdc4cfcfcec7c4cfcfcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610127",
+            "立法紀錄": "61卷31期484號 17-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcaca81c9cecbc6cccecfcfcfcdc4cfcfcec8c4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 40-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcaca81c9cecbc6cec6cfcfcfcec4cfcfcbcfc4cfcfcbce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 41-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbcaca81c9cecbc6cec6cfcfcfcec4cfcfcbcec4cfcfcbce",
+            "關係文書": []
         }
     ]
 }
