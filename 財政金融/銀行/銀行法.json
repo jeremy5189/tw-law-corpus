@@ -1,8 +1,8 @@
 {
     "title": "銀行法",
     "versions": [
-        "中華民國69年11月21日修正",
-        "中華民國69年12月5日公布"
+        "中華民國70年7月7日修正",
+        "中華民國70年7月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -184,7 +184,7 @@
         {
             "note": "",
             "rule_no": "第二十九條",
-            "content": "　　除法律另有規定者外，非銀行不得經營收受存款、受託經理公眾財產或辦理國內外匯兌業務。但以受託人身分收存委託人寄託款項，或基於交易行為收存定金或保證金，或工商企業經中央主管機關核准，收受本機構內之職工儲蓄者，不在此限。\n　　工商企業依前項但書規定收受職工儲蓄者，其負責人應負連帶清償責任。中央主管機關並得訂定辦法管理之。\n　　違反第一項規定者，除主管機關應查明取締，並移送法辦外，如屬法人組織，其負責人對有關債務，並應負連帶清償責任。",
+            "content": "　　除法律另有規定者外，非銀行不得經營收受存款、受託經理信託資金、公眾財產或辦理國內外匯兌業務。\n　　違反前項規定者，主管機關應查明取締，並移送法辦；如屬法人組織，其負責人對有關債務，應負連帶清償責任。其取締辦法由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -893,67 +893,60 @@
         }
     ],
     "law_reasons": {
-        "第八十四條": "　　本條就原條文增訂但書規定，旨在便利銀行得以配合政府推行住者有其屋政策，凡經中央主管機關核准辦理之購屋儲蓄放款，得不受本條原設最高限額之限制，俾資適應實際需要。此外並授權中央主管機關於必要時，得規定銀行辦理購屋儲蓄放款之最高額度，以便調節。"
+        "第二十九條": "　　一、修正第一項規定，增列非銀行不得受託經理信託資金。由於受託經理信託資金係屬信託投資公司主要業務，非銀行應不得經營，爰予增列。\n　　二、刪除第一項但書關於受託人收存寄託款項或收受定金、保證金之規定。由於收存寄託款項或收受定金、保證金，係屬私法上債之關係，當事人。原可依民事法規之規定為之。並受法律保障，無庸於銀行法中重覆規定。\n　　三、刪除第一項但書及第二項關於工商企業收受工儲蓄之規定。經營收受存款，屬於金融機構之專業，為現代國家銀行業務之常軌，良以金融機構之功能，在溝通儲蓄與投資，並使社會資金獲得有效之利用，而政府為保障存款人之權益，並確保金融政策之貫徹，對金融機構宜有相當之管理，如聽任非金融機構經營存款業務，極易導致擾亂金融，危害社會大眾。且目前工商企業向職工收受存款，大多均以立借據方式為之，實質上可視為企業向其職工借款，此屬私人間金錢消費借貸，民法對此已有明白規定，亦不必於銀行法中規定。\n　　四、原條文因第二項刪除，故將原條文第三項修正為第二項，並增列授權中央主管機關訂定取締辦法之規定，以便訂定「取締非法經營金融業務辦法」以資取締，爰於本條第二項增列後段規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690930",
-            "立法紀錄": "69卷79期1355號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec981c9c6c9cac8c6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "700519",
+            "立法紀錄": "70卷40期1421號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec781c8cfc9c8cbcfcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcdcfcfc5c9d2c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcacfcfc5cec7ccd2cec7c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691015",
-            "立法紀錄": "69卷95期1371號 94-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec981c9c6c9c9c6cacfcfc4cfcfc6cbc4cfcecfce",
+            "會議日期": "700603",
+            "立法紀錄": "70卷54期1435號 83-88頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec781c8cfc9c8cacbcfcfc4cfcfc7ccc4cfcfc7c7",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691027",
-            "立法紀錄": "70卷01期1382號 28-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec981c8cfc9c9cfcecfcfc4cfcfcdc7c4cfcfcccf",
+            "會議日期": "700617",
+            "立法紀錄": "70卷62期1443號 2-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec781c8cfc9c8c9cdcfcfc4cfcfcfcdc4cfcfcfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "691111",
-            "立法紀錄": "69卷91期1367號 30-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec981c9c6c9c9c6cecfcfc4cfcfcccfc4cfcfccca",
+            "會議日期": "700707",
+            "立法紀錄": "70卷54期1435號 9-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec781c8cfc9c8cacbcfcfc4cfcfcfc6c4cfcfcecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cdc9cdd2cdc9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc8cfcfc5cac7c8d2cac6cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "691114",
-            "立法紀錄": "69卷92期1368號 8-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec981c9c6c9c9c6cdcfcfc4cfcfcfc7c4cfcfcfc6",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "691114",
-            "立法紀錄": "69卷92期1368號 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec981c9c6c9c9c6cdcfcfc4cfcfcfc6c4cfcfcfc6",
+            "會議日期": "700707",
+            "立法紀錄": "70卷54期1435號 13-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec781c8cfc9c8cacbcfcfc4cfcfceccc4cfcfceca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "691121",
-            "立法紀錄": "69卷94期1370號 4-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec981c9c6c9c9c6cbcfcfc4cfcfcfcbc4cfcfcfc9",
+            "會議日期": "700707",
+            "立法紀錄": "70卷54期1435號 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6cec781c8cfc9c8cacbcfcfc4cfcfcecac4cfcfceca",
             "關係文書": []
         }
     ]
