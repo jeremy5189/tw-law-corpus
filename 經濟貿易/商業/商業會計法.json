@@ -1,8 +1,8 @@
 {
     "title": "商業會計法",
     "versions": [
-        "中華民國53年7月17日全文修正",
-        "中華民國53年7月30日公布"
+        "中華民國56年12月22日修正",
+        "中華民國57年1月8日公布"
     ],
     "types": [
         "立法歷程",
@@ -40,7 +40,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　商業會計事務之處理，應設置會計人員辦理之。\n　　公司組織主辦會計人員之任免，在股份有限公司應經董事過半數之同意；在有限公司及無限公司應經執行業務股東過半數之同意；在兩合公司及股份兩合公司應經無限責任股東過半數之同意行之。\n　　會計人員辦理會計事務，應受經理人之指揮監督。",
+            "content": "　　商業會計事務之處理，應設置會計人員辦理之。\n　　公司組織主辦會計人員之任免，在股份有限公司應經董事過半數之同意；在有限公司應經董事或執行業務股東過半數之同意；在無限公司應經執行業務股東過半數之同意；在兩合公司及股份兩合公司應經無限責任股東過半數之同意行之。\n　　會計人員辦理會計事務，應受經理人之指揮監督。",
             "relates": {}
         },
         {
@@ -465,76 +465,55 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "510821",
-            "立法紀錄": "51卷29期號19冊 105-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacecdc6cec6c4cfcecfcac4cfcecfca",
-            "主提案": "行政院",
+            "會議日期": "560721",
+            "立法紀錄": "56卷7期號7冊 839-845頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacaca81cac9ccc6cfc8cfc8c4cfc7ccc6c4cfc7cbca",
+            "主提案": "駱擧蓮",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5c9ccccd2c9c7cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc8cfcccfcfc5cbcecfd2cbcec9"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "560823",
+            "立法紀錄": "56卷9期號8冊 1366-1373頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacaca81cac9ccc6cfc7cfc6c4ceccc9c9c4ceccc8cc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561116",
+            "立法紀錄": "56卷8期號11冊 2257-2270頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacaca81cac9cbcfcfc7cecec4cdcdcac8c4cdcdc8cf",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "530721",
-            "立法紀錄": "53卷33期號17冊 6-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacccccccec8c4cfcfcfc9c4cfcfc8cf",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2691-2694頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacaca81cac9cbcfcfc8cecdc4cdc9c6cec4cdc9c6cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccccfcccfcfc5cbc7d2cececf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5ccc8cfd2ccc8c8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "530630",
-            "立法紀錄": "53卷33期號14冊 110-121頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacccccccecbc4cfcececfc4cfcecdce",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "530630",
-            "立法紀錄": "53卷33期號14冊 121-125頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacccccccecbc4cfcecdcec4cfcecdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "530703",
-            "立法紀錄": "53卷33期號15冊 8-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacccccccecac4cfcfcfc7c4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "530707",
-            "立法紀錄": "53卷33期號15冊 42-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacccccccecac4cfcfcbcdc4cfcfc8ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "530710",
-            "立法紀錄": "53卷33期號16冊 39-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacccccccec9c4cfcfccc6c4cfcfcac9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "530710",
-            "立法紀錄": "53卷33期號16冊 97-99頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacccccccec9c4cfcfc6c8c4cfcfc6c6",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2694-2694頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacaca81cac9cbcfcfc8cecdc4cdc9c6cbc4cdc9c6cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "530717",
-            "立法紀錄": "53卷33期號17冊 87-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacacc81cacccccccec8c4cfcfc7c8c4cfcfc6c8",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2695-2695頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcacaca81cac9cbcfcfc8cecdc4cdc9c6cac4cdc9c6ca",
             "關係文書": []
         }
     ]
