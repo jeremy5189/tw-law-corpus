@@ -1,8 +1,8 @@
 {
     "title": "都市計畫法",
     "versions": [
-        "中華民國77年6月28日修正",
-        "中華民國77年7月15日公布"
+        "中華民國89年1月6日修正",
+        "中華民國89年1月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -518,13 +518,13 @@
         {
             "note": "",
             "rule_no": "第七十九條",
-            "content": "　　在都市計畫地區範圍內建造或使用建築物，採取土石，變更地形，違反本法之規定及各級政府基於本法所發布之命令時，當地地方政府或鄉、鎮、縣轄市公所得命令其立即拆除、改建、停止使用或恢復原狀。\n　　依第八十一條劃定地區範圍實施禁建地區，適用前項之規定。",
+            "content": "　　都市計畫範圍內土地或建築物之使用，或從事建造、採取土石、變更地形，違反本法或各級政府依本法所發布之命令者，處其土地或建築物所有權人、使用人或管理人新臺幣六萬元以上三十萬元以下罰鍰，並勒令拆除、改建、停止使用或恢復原狀。不拆除、改建、停止使用或恢復原狀者，得按次處罰，並停止供水、供電、封閉、強制拆除或採取其他恢復原狀之措施，其費用由土地或建築物所有權人、使用人或管理人負擔。\n　　前項罰鍰，經限期繳納逾期不繳納者，移送法院強制執行。\n　　依第八十一條劃定地區範圍實施禁建地區，適用前二項之規定。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八十條",
-            "content": "　　不遵前條規定拆除、改建、停止使用或恢復原狀者，除應依法予以行政強制執行外，並得處六個月以下有期徒刑、拘役或科三千元以下之罰金。",
+            "content": "　　不遵前條規定拆除、改建、停止使用或恢復原狀者，除應依法予以行政強制執行外，並得處六個月以下有期徒刑或拘役。",
             "relates": {}
         },
         {
@@ -575,119 +575,47 @@
         }
     ],
     "law_reasons": {
-        "第四十九條": "　　公共設施保留之徵收，理應使其所有人得到充份之補償，如僅以徵收當期毗鄰非公共設施保留地之平均公告現值補償，則由於公告現值多屬偏低而地價又不時上漲，兩者之間發生很大差距，而對土地所有人之權益損害至鉅，為補救此項缺失，故加成補償，以臻合理。",
-        "第五十條": "　　一、刪除現行條文第一項及第二項有關公共設施保留地取得期限之理由，分述如左：\n　　（一）公共設施保留地取得期限為我國特有之規定，且大部分保留地均由政府取得，不符「用者付費」之公平原則。\n　　（二）現行條文第一項及第二項規定公共設施保留地應於十年或十五年內取得，難與都市發展及實質建設相配合。\n　　（三）本法為中央立法，公共設施保留地之取得則為地方政府及鄉、鎮、縣轄市公所應辦事項，致地方執行無法完全配合法律之規定。\n　　（四）保留地若逾期未取得致被撤銷，將嚴重妨礙都市計畫整體功能，降低生活環境品質，非惟保留地無從指定建築線致無以建築使用，非屬保留地之土地亦難以合理使用，導致全體國人同蒙其害，臺灣地區數十年來逐步建立之都市計畫體制及發展規模，亦將面臨存續之危機。基於以上理由，現行條文第一項及第二項有關公共設施保留地取得期限之規定，顯欠合理，窒礙難行，爰予刪除。\n　　二、將現行條文中「土地所有權人」等字刪除，俾使保留地土地所有權人得提供他人申請為臨時建築使用或自行聲請為臨時建築供營業或出租之用，以增進保留地所有權人之收益。",
-        "第五十條 之一": "　　配合第四十九條之修正，故增定之。",
-        "第五十一條": "　　配合第五十條之修正，將「在前條規定取得期限內」刪除。"
+        "第七十九條": "　　一、第一項配合區域計畫法修正，取消刑度規定及提高罰鍰上限額度，並增訂對連續違規使用且不依限改善者，施以連續性之罰鍰。\n　　二、增訂第二項關於拒繳納罰鍰之處理。\n　　三、第二項移列為第三項，並作文字修正。",
+        "第八十條": "　　依朝野協商修正，刪除「或科三千元以下之罰金」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "770429",
-            "立法紀錄": "77卷35期2146號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfcccacfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "881126",
+            "立法紀錄": "88卷52期3052號上冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc881c7c7cacdcfcec4cfcfcecdc4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cecececfcfc5cdc9d2cccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacfcccfcfc5cec9c7d2cdc8c8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "770505",
-            "立法紀錄": "77卷71期2182號 2-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfc8cecfcfc4cfcfcfcdc4cfcfcdc9",
+            "會議日期": "881213",
+            "立法紀錄": "89卷1期3060號 241-280頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc881c7c6cfcecfcfc4cfcdcbcec4cfcdc7cf",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "770507",
-            "立法紀錄": "77卷72期2183號 2-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfc8cdcfcfc4cfcfcfcdc4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "770511",
-            "立法紀錄": "77卷94期2205號 145-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfc6cbcfcfc4cfcecbcac4cfcec9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "770518",
-            "立法紀錄": "77卷96期2207號 93-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfc6c9cfcfc4cfcfc6ccc4cfcececb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "770606",
-            "立法紀錄": "77卷98期2209號 35-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfc6c7cfcfc4cfcfcccac4cfcfcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "770608",
-            "立法紀錄": "77卷99期2210號上冊 72-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfc6c6cfcec4cfcfc8cdc4cfcfc8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "770613",
-            "立法紀錄": "77卷100期2211號 156-160頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cecfcfcfcfc4cfcecac9c4cfcec9cf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "770616",
-            "立法紀錄": "77卷101期2212號 144-166頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cecfcecfcfc4cfcecbcbc4cfcec9c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "770621",
-            "立法紀錄": "77卷50期2161號 15-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfcacfcfcfc4cfcfcecac4cfcfcacb",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "890106",
+            "立法紀錄": "89卷4期3063號二冊 100-104頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc881c7c6cfcbcfcdc4cfcecfcfc4cfcecfcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cecec7cfcfc5ccc9c6d2ccc7c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5c9cfc8d2c9cecd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "770624",
-            "立法紀錄": "77卷51期2162號 24-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfcacecfcfc4cfcfcdcbc4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "770624",
-            "立法紀錄": "77卷51期2162號 40-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfcacecfcfc4cfcfcbcfc4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "770628",
-            "立法紀錄": "77卷52期2163號 12-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfcacdcfcfc4cfcfcecdc4cfcfcdcd",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "770628",
-            "立法紀錄": "77卷52期2163號 22-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc981c8c8cfcacdcfcfc4cfcfcdcdc4cfcfcdcc",
+            "會議日期": "890106",
+            "立法紀錄": "89卷4期3063號二冊 104-104頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cdc881c7c6cfcbcfcdc4cfcecfcbc4cfcecfcb",
             "關係文書": []
         }
     ]
