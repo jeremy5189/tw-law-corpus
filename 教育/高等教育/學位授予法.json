@@ -1,8 +1,8 @@
 {
     "title": "學位授予法",
     "versions": [
-        "中華民國43年5月21日修正",
-        "中華民國43年6月4日公布"
+        "中華民國48年3月20日修正",
+        "中華民國48年4月1日公布"
     ],
     "types": [
         "立法歷程",
@@ -48,7 +48,7 @@
         {
             "note": "(博士學位)",
             "rule_no": "第七條",
-            "content": "　　博士學位候選人，經博士學位評定會考試合格者，由國家授予博士學位。\n　　博士學位評定會之組織及博士學位考試細則，由行政院會同考試院定之。",
+            "content": "　　博士學位候選人，經博士學位評定會考試合格者，由教育部授予博士學位。\n　　博士學位評定會之組織，另以法律定之。",
             "relates": {}
         },
         {
@@ -85,48 +85,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430326",
-            "立法紀錄": "43卷13期號3冊 101-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfccc4cfcecfcec4cfcecfce",
-            "主提案": "行政院",
+            "會議日期": "480116",
+            "立法紀錄": "48卷22期號19冊 45-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcdcec6c4cfcfcbcac4cfcfcace",
+            "主提案": "喬一凡",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5c9cdccd2c9cdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cbc9c8d2cbc9c6"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "430521",
-            "立法紀錄": "43卷13期號5冊 4-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfcac4cfcfcfcbc4cfcfcfc9",
+            "會議日期": "480320",
+            "立法紀錄": "48卷23期號6冊 19-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcccfc9c4cfcfcec6c4cfcfcdce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5ccc7cfd2ccc7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcecfcfc5cac9c8d2cac9c6"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "430521",
-            "立法紀錄": "43卷13期號5冊 27-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfcac4cfcfcdc8c4cfcfcdc8",
+            "會議日期": "480320",
+            "立法紀錄": "48卷23期號6冊 35-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcccfc9c4cfcfcccac4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "430521",
-            "立法紀錄": "43卷13期號5冊 27-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfcac4cfcfcdc8c4cfcfcdc7",
+            "會議日期": "480320",
+            "立法紀錄": "48卷23期號6冊 37-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcccfc9c4cfcfccc8c4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430521",
-            "立法紀錄": "43卷13期號5冊 28-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6ca81cbcccecccfcac4cfcfcdc7c4cfcfcdc7",
+            "會議日期": "480320",
+            "立法紀錄": "48卷23期號6冊 37-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec8c9c6c981cbc7cdcccfc9c4cfcfccc8c4cfcfccc8",
             "關係文書": []
         }
     ]
