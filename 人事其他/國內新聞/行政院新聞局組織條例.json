@@ -1,8 +1,8 @@
 {
     "title": "行政院新聞局組織條例",
     "versions": [
-        "中華民國47年7月1日修正",
-        "中華民國47年7月9日公布"
+        "中華民國57年11月26日全文修正",
+        "中華民國57年12月5日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,90 +12,102 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　新聞局掌理闡明國家政策，宣達政令，政績，及發佈國內外新聞等事項。",
+            "content": "　　新聞局主管闡明國家政策，宣達政令、政績及發布國內外新聞等事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　新聞局設左列各處室：\n　　第一處。\n　　第二處。\n　　第三處。\n　　祕書室。",
+            "content": "　　新聞局設左列各處、室，並得分科辦事：\n　　一、國內宣傳處。\n　　二、國際宣傳處。\n　　三、資料編譯處。\n　　四、視聽資料室。\n　　五、聯絡室。\n　　六、秘書室。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　第一處掌左列各事項：\n　　一、關於國內宣傳事項。\n　　二、關於各項政策政令之闡述事項。\n　　三、關於地方政府宣傳業務之指導事項。\n　　四、關於政府與新聞界之聯繫事項。\n　　五、關於新聞事業之輔助事項。\n　　六、關於廣播電影戲劇等文化事業之輔助事項。\n　　七、關於電影檢查業務之監督事項。",
+            "content": "　　國內宣傳處掌理左列事項：\n　　一、關於國內宣傳工作之策劃事項。\n　　二、關於各項政策、政令之闡述事項。\n　　三、關於地方政府宣傳業務之督導事項。\n　　四、關於政府與新聞界之聯繫事項。\n　　五、關於新聞事業之輔導事項。\n　　六、其他有關國內宣傳事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　第二處掌左列各事項：\n　　一、關於國際宣傳事項。\n　　二、關於對外宣傳品編撰事項。\n　　三、關於與外國記者及外國來華訪問人士之聯繫事項。\n　　四、關於新聞片電影紀錄片之攝製與發行事項。",
+            "content": "　　國際宣傳處掌理左列事項：\n　　一、關於國際宣傳工作之策劃事項。\n　　二、關於新聞局駐外單位之工作指揮、考核事項。\n　　三、關於國際展覽之參加、策劃事項。\n　　四、關於對外宣傳書刊、資料之運用事項。\n　　五、其他有關國際宣傳事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　第三處掌左列各事項：\n　　一、關於國際問題研究事項。\n　　二、關於新聞資料之搜集及書刊之編印與供應事項。\n　　三、關於新聞圖書雜誌記載內容之分析事項。\n　　四、其他有關宣傳之研究事項。",
+            "content": "　　資料編譯處掌理左列事項：\n　　一、關於國際問題與國內外輿論之研究、分析及編譯事項。\n　　二、關於圖書、資料之蒐集、整理與保管事項。\n　　三、關於新聞、圖書、雜誌記載內容之分析事項。\n　　四、關於外文宣傳書刊之編撰、出版事項。\n　　五、關於外文新聞資料之製作、編纂、運用事項。\n　　六、關於重要對外宣傳文件之翻譯事項。\n　　七、其他有關宣傳研究及外文編譯事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　秘書室掌文書電務印信出納庶務，及不屬其他各處之事項。",
+            "content": "　　視聽資料室掌理左列事項：\n　　一、關於新聞照片攝製、供應事項。\n　　二、關於新聞片、電影紀錄片及電視片攝製事項。\n　　三、關於對外廣播節目錄音帶及唱片等製作、交換事項。\n　　四、關於圖片展覽、製作事項。\n　　五、其他有關視聽資料製作、應用事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　新聞局置局長一人，簡任，綜理全局事務，並指揮監督所屬機構及職員；副局長一人，簡任，襄助局長處理局務。",
+            "content": "　　聯絡室掌理關於與駐華外國記者及外國來華訪問人士之接待、聯繫事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　新聞局置處長三人，簡任，秘書三人或五人，其中一人簡任，餘薦任，編審五人至七人，其中二人簡任，餘薦任，專門委員二人至四人，簡派，科長五人至七人，薦任，編輯五人至七人，其中三人薦任，餘委任，科員及辦事員十四人至十六人，委任。\n　　新聞局各處得分科辦事。",
+            "content": "　　秘書室掌理文書、機要、電務、印信、出納、庶務及其他不屬各處、室事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　新聞局設會計室置主任一人，薦任，科員二人，委任，依法辦理歲計會計事務，並兼辦統計事務。",
+            "content": "　　新聞局置局長一人，簡任，綜理全局事務，並指揮監督所屬機構及職員。副局長一人，簡任，襄助局長處理局務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　新聞局設人事室置主任一人，薦任，助理員一人，委任，依法辦理人事管理事務。",
+            "content": "　　新聞局置處長三人，簡任；副處長三人，薦任或簡任；視聽資料室聯絡室各置主任一人，薦任或簡任；主任秘書一人，簡任；秘書四人至六人，其中二人簡任，餘薦任；編審二人至四人，其中二人簡任，餘薦任；編譯二人至四人，簡派；編輯八人至十人其中四人薦任，餘委任；專門委員五人至七人，簡派；專員五人至七人，薦派；科長九人至十三人，薦任；科員及辦事員十六人至二十人，委任；技正二人，薦任或簡任；技士四人，委派；並得用雇員八人至十四人。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　新聞局得聘用顧問及技術人員若干人，其中五人至七人得支薪給。",
+            "content": "　　新聞局設會計室，置主任一人，薦任，依法辦理歲計、會計、統計事項，所需人員就前條科員、辦事員名額內派充之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　新聞局設電影檢查處，其組織條例另定之。",
+            "content": "　　新聞局設人事室，置主任一人，薦任，助理員二人，委任，依法辦理人事管理事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　新聞局應事實需要，得於國內外適當地點設置辦事機構，其組織通則另定之。",
+            "content": "　　新聞局得聘用顧問九人至十一人，其中三人專任，簡聘，餘為無給職。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　新聞局辦事細則，由局擬訂，呈請行政院核定之。",
+            "content": "　　新聞局於必要時，得呈准行政院設置委員會，聘請有關專家充任委員，均為無給職。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
+            "content": "　　新聞局視事實需要，得於國內外適當地點設辦事機構，其組織通則另定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十六條",
+            "content": "　　新聞局辦事細則，由局擬訂，呈請行政院核定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十七條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
@@ -103,41 +115,125 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "461029",
-            "立法紀錄": "46卷20期號3冊 101-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c781cbc9cdcfcfccc4cfcecfcec4cfcecfce",
+            "會議日期": "570402",
+            "立法紀錄": "57卷23期號 1224-1224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcecdcccfcfc4cecdcdcbc4cecdcdcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcdcfcfc5cac7d2c9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cdc7ccd2cdc6cc"
                 ]
             ]
         },
         {
+            "進度": "一讀",
+            "會議日期": "570405",
+            "立法紀錄": "57卷24期號 2285-2294頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcecdcbcfcfc4cdcdc7cac4cdcdc6cb",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "570416",
+            "立法紀錄": "57卷27期號 2456-2462頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcecdc8cfcfc4cdcbcac9c4cdcbc9cd",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "570416",
+            "立法紀錄": "57卷27期號 2475-2476頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcecdc8cfcfc4cdcbc8cac4cdcbc8c9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570605",
+            "立法紀錄": "57卷37期號 1-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcecacbcfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570605",
+            "立法紀錄": "57卷54期號 1-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcecacbcfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570612",
+            "立法紀錄": "57卷56期號 1-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcecac9cfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570701",
+            "立法紀錄": "57卷61期號 6-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcec9cecfcfcfcdc4cfcfcfc9c4cfcfcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570724",
+            "立法紀錄": "57卷66期號 9-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcec9c9cfcfc4cfcfcfc6c4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570731",
+            "立法紀錄": "57卷69期號 5-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcec9c6cfcfc4cfcfcfcac4cfcfcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570808",
+            "立法紀錄": "57卷76期號 1-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcdc8c9cfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570817",
+            "立法紀錄": "57卷77期號 1-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcdc8c8cfcfcfcdc4cfcfcfcec4cfcfcfca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "571024",
+            "立法紀錄": "57卷87期號 1-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcdc7c8cfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "470701",
-            "立法紀錄": "47卷21期號17冊 4-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c781cbc8cdcecec8c4cfcfcfcbc4cfcfcfc8",
+            "會議日期": "571119",
+            "立法紀錄": "57卷86期號 4-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcdc7c9cfcfcfcec4cfcfcfcbc4cfcfcdca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5c8ccd2c8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5cecbcdd2cec9ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "470701",
-            "立法紀錄": "47卷21期號17冊 36-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c781cbc8cdcecec8c4cfcfccc9c4cfcfccc7",
+            "會議日期": "571122",
+            "立法紀錄": "57卷87期號 3-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcdc7c8cfcfcfcec4cfcfcfccc4cfcfcfc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "470701",
-            "立法紀錄": "47卷21期號17冊 38-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c781cbc8cdcecec8c4cfcfccc7c4cfcfccc7",
+            "會議日期": "571126",
+            "立法紀錄": "57卷88期號 2-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7c681cac8cbcdc7c7cfcfcfcec4cfcfcfcdc4cfcfcfcb",
             "關係文書": []
         }
     ]
