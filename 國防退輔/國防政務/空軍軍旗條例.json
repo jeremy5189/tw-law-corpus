@@ -1,10 +1,11 @@
 {
     "title": "空軍軍旗條例",
     "versions": [
-        "中華民國37年12月31日制定",
-        "中華民國38年1月13日公布"
+        "中華民國43年4月27日修正",
+        "中華民國43年5月12日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -23,7 +24,7 @@
         {
             "note": "(空軍旗幟之種類)",
             "rule_no": "第三條",
-            "content": "　　空軍旗幟，分空軍旗、階級旗、隊校旗三種。",
+            "content": "　　空軍旗幟，分空軍旗、階級旗，編制單位旗三種。",
             "relates": {}
         },
         {
@@ -39,9 +40,9 @@
             "relates": {}
         },
         {
-            "note": "(空軍隊校旗旗式與製法)",
+            "note": "(空軍編制單位旗旗式與製法)",
             "rule_no": "第六條",
-            "content": "　　空軍隊校旗，橫直按五與三之比例，以紅羽紗或紅綢為地，靠旗桿之一邊加黃綢一道，兩面均綴部隊番號或學校校名，旗面上角鑲嵌鮮藍色空軍旗形，其面積佔紅地四分之一，其相對之下角，嵌部隊隊徽或學校校徽，並以大小尺度區分大隊旗、中隊旗、校旗如附圖。",
+            "content": "　　空軍編制單位旗，橫直按五與三之比例，以紅羽紗或綢為地，靠旗桿之一邊加黃綢一道，兩面均綴編制單位番號或名稱，旗面上角鑲嵌鮮藍色空軍軍旗，旗形面積，佔紅地四分之一，其相對之下角，嵌編制單位徽，其大小尺度如附圖。",
             "relates": {}
         },
         {
@@ -51,9 +52,9 @@
             "relates": {}
         },
         {
-            "note": "(隊校旗之懸掛)",
+            "note": "(編制單位旗之給予原則標準)",
             "rule_no": "第八條",
-            "content": "　　隊校旗限駐在地空軍作戰隊部（大隊、中隊）及空軍學校懸掛之。",
+            "content": "　　編制單位旗之給與原則，以空軍聯隊、大隊、直屬中隊及學校為標準，凡同等或以上階層之編制單位參加校閱者，均比照頒給之。",
             "relates": {}
         },
         {
@@ -73,6 +74,47 @@
             "rule_no": "第十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "430302",
+            "立法紀錄": "43卷13期號2冊 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcc81cbcccecccfcdc4cfcfcfcec4cfcfcfce",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5cbc6ccd2cbc6cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430427",
+            "立法紀錄": "43卷13期號4冊 7-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcc81cbcccecccfcbc4cfcfcfc8c4cfcfcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcdcfcfc5c7cdd2c7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430427",
+            "立法紀錄": "43卷13期號4冊 63-63頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcc81cbcccecccfcbc4cfcfc9ccc4cfcfc9cc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "430427",
+            "立法紀錄": "43卷13期號4冊 63-63頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcfcc81cbcccecccfcbc4cfcfc9ccc4cfcfc9cc",
+            "關係文書": []
         }
     ]
 }
