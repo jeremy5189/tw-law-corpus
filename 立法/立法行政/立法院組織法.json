@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國75年1月7日修正",
-        "中華民國75年1月17日公布"
+        "中華民國75年5月2日修正",
+        "中華民國75年5月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -156,7 +156,7 @@
         {
             "note": "",
             "rule_no": "第二十五條",
-            "content": "　　秘書處置處長一人簡任；秘書十人至十三人簡任或薦任；組（室）主任若干人由簡任秘書或薦任秘書兼任；科長十一人薦任；編審三人至六人簡任或薦任；編輯一人薦任或委任；助理編輯一人委任；專員七人至九人薦任；科員二十二人至二十七人委任，其中十二人得為薦任；技士二人委任；速記長一人簡任或薦任；速記員四人至六人薦任或委任；書記官或書記十五人至二十八人書記官委任；司藥一人委任；護士二人。",
+            "content": "　　秘書處置處長一人，簡任；秘書十人至十三人，簡任或薦任；組（室）主任若干人，由簡任秘書或薦任秘書兼任；科長十一人，薦任；編審三人至六人，簡任或薦任；編輯一人，薦任或委任；助理編輯一人，委任；專員七人至九人，薦任；科員二十二人至二十七人，委任，其中十二人得為薦任；技士二人，委任；速記長一人，簡任或薦任；速記員四人至六人，薦任或委任；書記官或書記十五人至二十八人，書記官委任；藥師一人、護士長一人，均薦任或委任；藥劑生二人、檢驗員一人、護士四人、病歷管理員一人，均委任或僱用。",
             "relates": {}
         },
         {
@@ -179,61 +179,34 @@
         }
     ],
     "law_reasons": {
-        "第二十條": "　　於議事分工有利，但不致影響議事功能，在意識上且有強化議會組織之作用。"
+        "第二十五條": "　　將現雇具有任用資格之藥護檢技人員，納入正式編制，以期名實相副，而增強服務效能。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "741231",
-            "立法紀錄": "75卷1期1903號 7-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcecfcfc4cfcfcfc8c4cfcfcecd",
-            "主提案": "莫萱元",
+            "會議日期": "750429",
+            "立法紀錄": "75卷35期1937號 21-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ce81c8cacfcccacfcfc4cfcfcdcec4cfcfcdca",
+            "主提案": "鄧翔宇",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc6cfcfc5c8cfcfd2c8cfce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "750103",
-            "立法紀錄": "75卷2期1904號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcdcfcfc4cfcfcfc7c4cfcfcfc7",
-            "主提案": "莫萱元",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "750106",
-            "立法紀錄": "75卷30期1932號 94-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcccfcfcfc4cfcfc6cbc4cfcfc6ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "750107",
-            "立法紀錄": "75卷3期1905號 6-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcccfcfc4cfcfcfc9c4cfcfcece",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cecfcfcfc5cdc7c7d2cdc6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cfc7cfcfc5cbc9c7d2cbc8ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "750107",
-            "立法紀錄": "75卷3期1905號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcccfcfc4cfcfcecec4cfcfcece",
+            "會議日期": "750429",
+            "立法紀錄": "75卷35期1937號 25-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ce81c8cacfcccacfcfc4cfcfcdcac4cfcfcdc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "750107",
-            "立法紀錄": "75卷3期1905號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c9c681c8cacfcfcccfcfc4cfcfcecec4cfcfcece",
+            "會議日期": "750502",
+            "立法紀錄": "75卷36期1938號 10-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ce81c8cacfccc9cfcfc4cfcfcecfc4cfcfcece",
             "關係文書": []
         }
     ]
