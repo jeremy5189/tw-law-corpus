@@ -1,24 +1,24 @@
 {
     "title": "中央政府建設公債及借款條例",
     "versions": [
-        "中華民國64年5月20日制定",
-        "中華民國64年5月31日公布"
+        "中華民國76年5月19日修正",
+        "中華民國76年5月29日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
             "note": "(立法目的)",
             "rule_no": "第一條",
-            "content": "　　中央政府為籌集建設資金，支應重大建設，依本條例之規定，發行中央政府建設公債。",
+            "content": "　　中央政府為籌集建設資金，支應重大建設，依本條例之規定，發行中央政府建設公債（以下簡稱本公債）。",
             "relates": {}
         },
         {
             "note": "(發行數額限制)",
             "rule_no": "第二條",
-            "content": "　　本公債之發行總餘額，不得超過當年度中央政府總預算歲出總額百分之二十五。發行數額，由行政院依當年度中央政府總預算及特別預算法定預算所列數額，核定發行。",
+            "content": "　　本公債之發行總餘額，不得超過當年度中央政府總預算歲出總額百分之四十。\n　　本公債年度發行數額，由行政院依當年度中央政府總預算及特別預算法定預算所列發行數額，核定發行。",
             "relates": {}
         },
         {
@@ -82,58 +82,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第一條": "　　依本條例發行之公債，第二條以下，均稱「本公債」，爰予本條增列「（以下簡稱本公債）」等文字，以資明確。",
+        "第二條": "　　一、七十七年度中央政府總預算案經本院詳細審查結果，歲入實質收入不足，需發行公債五九五億元。經核算發行總餘額已超過限額規定，為支應往後年度重大建設資金之需求，爰修正本條，提高發行總餘額上限為百分之四十。\n　　二、現行條文前段係規定，依本條例所發行之公債累計總餘額，不得超過授權限額；至後段則係規定各該年度發行數額不得超過當年度法定預算所列發行數額，爰將後段改列第二項，並酌作文字修正，用資明確。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "640429",
-            "立法紀錄": "64卷35期789號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacccacd81c9cbcacacccacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "760320",
+            "立法紀錄": "76卷23期2030號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccacc81c8c9cfcdcccfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcbcfcfc5cad2cecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cfcbcfcfc5cbcccbd2cbccc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "640505",
-            "立法紀錄": "64卷44期798號 1-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacccacd81c9cbcacacbcbcfcfcfcdc4cfcfcfcec4cfcfcfc6",
+            "會議日期": "760423",
+            "立法紀錄": "76卷66期2073號 2-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccacc81c8c9cfc9c9cfcfc4cfcfcfcdc4cfcfcfc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "640513",
-            "立法紀錄": "64卷39期793號 5-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacccacd81c9cbcacaccc6cfcfcfcec4cfcfcfcac4cfcfcec6",
+            "會議日期": "760515",
+            "立法紀錄": "76卷39期2046號 13-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccacc81c8c9cfccc6cfcfc4cfcfceccc4cfcfcdc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcbcfcfc5cdcfcbd2cdcecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cfc6cfcfc5cac8c9d2cac8c6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "640513",
-            "立法紀錄": "64卷39期793號 19-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacccacd81c9cbcacaccc6cfcfcfcec4cfcfcec6c4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "640516",
-            "立法紀錄": "64卷40期794號 8-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacccacd81c9cbcacacbcfcfcfcfcec4cfcfcfc7c4cfcfcdc9",
+            "會議日期": "760515",
+            "立法紀錄": "76卷39期2046號 28-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccacc81c8c9cfccc6cfcfc4cfcfcdc7c4cfcfccc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "640520",
-            "立法紀錄": "64卷41期795號 3-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacccacd81c9cbcacacbcecfcfcfcec4cfcfcfccc4cfcfcfc9",
+            "會議日期": "760519",
+            "立法紀錄": "76卷40期2047號 13-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccacc81c8c9cfcbcfcfcfc4cfcfceccc4cfcfcecb",
             "關係文書": []
         }
     ]
