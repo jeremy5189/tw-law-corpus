@@ -1,10 +1,11 @@
 {
     "title": "實施耕者有其田條例",
     "versions": [
-        "中華民國42年1月20日制定",
-        "中華民國42年1月26日公布"
+        "中華民國43年4月6日修正",
+        "中華民國43年4月22日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -109,7 +110,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　實物土地債券，交由省政府依法發行，年利率百分之四，本利合計，分十年均等償清；持券人免繳印花稅及利息所得稅，其發行及還本付息事務，委託土地銀行辦理。",
+            "content": "　　實物土地債券，交由省政府依法發行，年利率百分之四，本利合計，分十年均等償清；其發行及還本付息事務，委託土地銀行辦理。\n　　前項債券持券人，免繳印花稅、利息所得稅及特別稅課之戶稅。",
             "relates": {}
         },
         {
@@ -243,6 +244,42 @@
             "rule_no": "第三十六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "430213",
+            "立法紀錄": "43卷13期號1冊 56-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9cb81cbcccecccfcec4cfcfcac9c4cfcfcac9",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcecfcfc5ccccc7d2cccbcf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "430406",
+            "立法紀錄": "43卷13期號3冊 24-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9cb81cbcccecccfccc4cfcfcdcbc4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "430406",
+            "立法紀錄": "43卷13期號3冊 172-173頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9cb81cbcccecccfccc4cfcec8cdc4cfcec8cc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "430406",
+            "立法紀錄": "43卷13期號3冊 173-173頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcec9c9cb81cbcccecccfccc4cfcec8ccc4cfcec8cc",
+            "關係文書": []
         }
     ]
 }
