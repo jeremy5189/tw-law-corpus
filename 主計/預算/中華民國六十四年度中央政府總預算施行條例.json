@@ -1,12 +1,10 @@
 {
     "title": "中華民國六十四年度中央政府總預算施行條例",
     "versions": [
-        "中華民國63年5月28日制定",
-        "中華民國63年6月7日公布"
+        "中華民國71年2月9日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -76,41 +74,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "630402",
-            "立法紀錄": "63卷22期678號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfc881c9cccacccdcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "630412",
-            "立法紀錄": "63卷32期688號 31-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfc881c9cccacccccdcfcfcfcdc4cfcfcccec4cfcfcbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "630518",
-            "立法紀錄": "63卷82期738號 20-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfc881c9cccacbc7cdcfcfcfcdc4cfcfcdcfc4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "630528",
-            "立法紀錄": "63卷37期693號 4-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfc881c9cccaccccc8cfcfcfcec4cfcfcfcbc4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "630528",
-            "立法紀錄": "63卷37期693號 70-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacfc881c9cccaccccc8cfcfcfcec4cfcfc8cfc4cfcfc8cd",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
