@@ -1,12 +1,12 @@
 {
     "title": "戡亂時期監所人犯處理條例",
     "versions": [
-        "中華民國43年8月15日制定",
-        "中華民國43年8月23日公布"
+        "中華民國70年10月30日修正",
+        "中華民國70年11月13日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -66,7 +66,7 @@
         {
             "note": "(人犯保釋之程序)",
             "rule_no": "第十條",
-            "content": "　　人犯之保釋，由監獄獄務委員會議決後，呈請該管高等法院核准，轉報司法行政部備案，或由縣司法處主任審判官、檢察官會同審查後，呈請監督官署核准。軍人監獄由獄務會議通過後，呈請國防部核准。",
+            "content": "　　人犯之保釋，由監獄監務委員會議決後，報請法務部核准。\n　　軍人監獄人犯之保釋，由監務委員會議決後，報請國防部核准。",
             "relates": {}
         },
         {
@@ -90,7 +90,7 @@
         {
             "note": "(人犯保釋後之察看辦法)",
             "rule_no": "第十四條",
-            "content": "　　已決人犯保釋後，除士兵回服兵役期間由所屬部隊自行管理外，應予察看；其察看辦法如左：\n　　一、已決人犯准予保釋時，由監獄或軍人監獄通知其住所地或居所地之警察機關、地方自治團體，及出獄人保護會或司法保護會。\n　　二、已決人犯保釋後，應向其住所地或居所地之警察機關及地方自治團體報到，按規定表式填明應填之事項，並由各地警察局轉呈當地最高治安機關備查。\n　　三、各地警察機關及地方自治團體，對保釋後之已決人犯，於其填表報到後，應嚴密注意其行動，如認為確有撤銷保釋之情形者，應即通知原執行監獄或軍人監獄轉呈該管高等法院或國防部核辦。\n　　四、保釋之已決人犯，在保釋期間內，應將其工作狀況及生活情形，詳細向其住所地或居所地之警察機關每月報告一次。\n　　五、已決人犯保釋後，如須遷移住址或他往，應事先報告當地警察機關，經許可後，方得移動。",
+            "content": "　　已決人犯保釋後，除士兵回服兵役期間由所屬部隊自行管理外，應予察看；其察看辦法如左：\n　　一、已決人犯准予保釋時，由監獄或軍人監獄通知其住所地或居所地之警察機關、地方自治團體或更生保護會。\n　　二、已決人犯保釋後，應向其住所地或居所地之警察機關及地方自治團體報到，按規定表式填明應填之事項，並由各地警察局報請當地最高治安機關備查。\n　　三、各地警察機關及地方自治團體，對保釋後之已決人犯，於其填表報到後，應嚴密注意其行動，如認為確有撤銷保釋之情形者，應即通知原執行監獄或軍人監獄報請法務部或國防部核辦。\n　　四、保釋之已決人犯，在保釋期間內，應將其工作狀況及生活情形，詳細向其住所地或居所地之警察機關每月報告一次。\n　　五、已決人犯保釋後，如須遷移住址或他往，應事先報告當地警察機關，經許可後，方得移動。",
             "relates": {}
         },
         {
@@ -124,51 +124,62 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十條": "　　依「監獄組織條例」第十九條，監獄設「監務委員會」。縣司法處早經廢止，各地監獄亦經前司法行政部於民國六十一年收回直接監督。司法行政部已改制為法務部。「呈請」二字與現行之公文用語不合。爰修正如上。",
+        "第十四條": "　　一、第一項第一款之「出獄人保護會或司法保護會」，修正為「更生保護會」，以符更生保護法第三條規定。\n　　二、第一項第二款之「轉呈」修正為「報請」。\n　　三、第一項第三款之「轉呈」二字修正為「報請」，「該管高等法院」修正為「法務部」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "430706",
-            "立法紀錄": "43卷13期號6冊 117-117頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc981cbcccecccfc9c4cfcecec8c4cfcecec8",
+            "會議日期": "691216",
+            "立法紀錄": "69卷101期1377號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c9c6c9c9cecfcecfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cecfc9d2cececc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5cac7cdd2cac7ca"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "700507",
+            "立法紀錄": "70卷61期1442號 23-26頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c8c9cecfcfc4cfcfcdccc4cfcfcdc9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "430815",
-            "立法紀錄": "43卷13期號9冊 25-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc981cbcccecccfc6c4cfcfcdcac4cfcfccc7",
+            "會議日期": "701023",
+            "立法紀錄": "70卷85期1466號 31-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c7c7cacfcfc4cfcfcccec4cfcfccca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cbcccdd2cbcbcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcacfcfc5cccfced2cccfca"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "430815",
-            "立法紀錄": "43卷13期號9冊 101-103頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc981cbcccecccfc6c4cfcecfcec4cfcecfcc",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "701023",
+            "立法紀錄": "70卷85期1466號 35-37頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c7c7cacfcfc4cfcfcccac4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "430815",
-            "立法紀錄": "43卷13期號9冊 113-125頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc981cbcccecccfc6c4cfcececcc4cfcecdca",
+            "會議日期": "701027",
+            "立法紀錄": "70卷86期1467號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c7c7c9cfcfc4cfcfcfcbc4cfcfcfcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430815",
-            "立法紀錄": "43卷13期號9冊 125-128頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc981cbcccecccfc6c4cfcecdcac4cfcecdc7",
+            "會議日期": "701030",
+            "立法紀錄": "70卷87期1468號 5-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccbcfc881c8cfc9c7c7c8cfcfc4cfcfcfcac4cfcfcfc9",
             "關係文書": []
         }
     ]
