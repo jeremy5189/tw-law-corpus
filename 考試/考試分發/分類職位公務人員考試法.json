@@ -1,11 +1,11 @@
 {
     "title": "分類職位公務人員考試法",
     "versions": [
-        "中華民國67年10月17日修正",
-        "中華民國67年10月27日公布"
+        "中華民國75年1月10日廢止",
+        "中華民國75年1月24日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -112,56 +112,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　一、酬合現行學制及分類職位公務人員任用法有關規定，將分類職位公務人員初任考試，分八個職等舉行，原列第七職等及第十一職等應考資格予以刪除。\n　　二、原定分類職位檢定考試，迄未付諸實行，爰予刪除，惟對取得高等或普通檢定考試及格者‧准分應三或第五職等考試。\n　　三、原條文第一項第二、三四、五款以曾任職務列為應考資格，將現職人員與新進人員之應考資格併列，似與現行考試法之婉定，不相平衡，爰予刪除，另於本條之後，新增三條之一，規定分類職位公務人員升等考試，使初任人員考試與現職人員考試分別舉行，以符實際需要。",
-        "第三條 之一": "　　一、本條係新增。\n　　二、按現行「考試法」中列有升等考試之燒定，故簡、薦、委制機關現職人員有參加升等考試取得升任高一職等之機會，而分類職位公務人員考試法，則無此一規定，依據各機關反映，經依據中央政策決定，特增訂本條條文。\n　　三、本條所定之第二、第六、第十職等之升等考試及其應考資格，係參照公務人員升等考試法有關規定擬列。",
-        "第四條": "　　一、原條文第一項中之「測驗」，已包含在筆試中，無獨特列舉之必要，該「測驗」兩字爰予刪除。\n　　二、第二項原定分類職位公務人員之考試或得以檢覈行之，經研究難達擇優選拔之目的，爰修正準用甲等特考之有關規定。"
-    },
+    "deprecated_reason": "　　考試院為建立新人事制度，已實行制定新的公務人員考試法，然依中央法規標準法之規定，同一事項已定有新法規，並公布或發布施行者，舊法規應予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "670929",
-            "立法紀錄": "67卷78期1146號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc681c9c8c9cdc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
+            "會議日期": "730309",
+            "立法紀錄": "73卷20期1714號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcccf81c8cccfcdcfcfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5c9ccd2c8cd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cccfcdcfcfc5ceced2cecd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "671002",
-            "立法紀錄": "67卷97期1165號 29-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc681c9c8c9cdc6c8cfcfc4cfcfcdc6c4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "671013",
-            "立法紀錄": "67卷82期1150號 4-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc681c9c8c9cdc7cdcfcfc4cfcfcfcbc4cfcfcecb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cbc8c9d2cbc7ca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "671013",
-            "立法紀錄": "67卷82期1150號 14-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc681c9c8c9cdc7cdcfcfc4cfcfcecbc4cfcfceca",
+            "會議日期": "741230",
+            "立法紀錄": "75卷25期1927號 105-106頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcccf81c8cacfcdcacfcfc4cfcecfcac4cfcecfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "671017",
-            "立法紀錄": "67卷83期1151號 3-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc681c9c8c9cdc7cccfcfc4cfcfcfccc4cfcfcfc9",
+            "會議日期": "750110",
+            "立法紀錄": "75卷4期1906號上冊 8-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcccf81c8cacfcfcbcfcec4cfcfcfc7c4cfcfcecf",
             "關係文書": []
         }
     ]
