@@ -1,12 +1,12 @@
 {
     "title": "筵席及娛樂稅法",
     "versions": [
-        "中華民國51年1月26日全文修正",
-        "中華民國51年2月3日公布"
+        "中華民國60年7月16日修正",
+        "中華民國60年7月30日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -16,13 +16,13 @@
         {
             "note": "(徵收依據)",
             "rule_no": "第一條",
-            "content": "　　各縣（市）（局）徵收筵席及娛樂稅，依本法之規定。",
+            "content": "　　各直轄市、縣（市）（局）徵收筵席及娛樂稅，依本法之規定。",
             "relates": {}
         },
         {
             "note": "(用辭定義)",
             "rule_no": "第二條",
-            "content": "　　本法用辭之定義如左：\n　　一、烹飪營業人，指經營筵席菜肴供顧客消費而有固定營業場所，或無固定營業場所，而以承包筵席為業者。\n　　二、筵席，指供顧客消費之菜肴達一定消費額者。\n　　三、消費總額，指所用筵席及其附帶消費之茶酒飯點水果飲料包括汽水果子露汁咖啡可可等類之總價額。\n　　四、娛樂，指電影戲劇歌舞說書撞球溜冰及其他供顧客消遣者。\n　　五、納稅義務人，指筵席及娛樂之顧客，或臨時舉辦娛樂之負責人。",
+            "content": "　　本法用辭之定義如左：\n　　一、烹飪營業人，指經營筵席菜肴，供顧客消費，而有固定營業場所，或無固定營業場所，而以承包筵席為業者。\n　　二、筵席，指供顧客消費之菜肴，達一定消費額者。\n　　三、消費總額，指所用筵席及其附帶消費之茶、酒、飯、點、水果、飲料（汽水、果子露汁、咖啡、可可等類）之總價額。\n　　四、娛樂，指電影、戲劇、歌舞、說書、夜總會、馬戲、撞球、保齡球、高爾夫球、音樂演奏、技藝表演、競技比賽及其他供顧客消遣者。\n　　五、納稅義務人，指筵席及娛樂之顧客，或臨時舉辦娛樂之負責人。",
             "relates": {}
         },
         {
@@ -34,7 +34,7 @@
         {
             "note": "(娛樂稅之課徵)",
             "rule_no": "第四條",
-            "content": "　　凡以營業為目的之電影戲劇舞場書場歌場球場溜冰場及其他娛樂場所，均課徵娛樂稅。\n　　各種臨時舉辦之娛樂，發售門票或收取代價者，依前項規定課徵娛樂稅。\n　　教育文化公益慈善機關團體，其合於民法總則公益社團及財團之組織，或依其他關係法令經向主管機關登記或立案者所舉辦之各種娛樂，其門票或代價全部收入，作為本事業之用，及有關促進體育活動之各種球類表演，免徵娛樂稅。",
+            "content": "　　於本法規定之娛樂業營業場所舉辦各種娛樂者，均課徵娛樂稅。\n　　各種臨時舉辦之娛樂，發售門票或收取代價者，除依本法第十七條規定報經主管稽徵機關核准免徵者外，均依前項規定課徵娛樂稅。\n　　教育文化公益慈善機關團體，其合於民法總則公益社團及財團之組織，或依其他關係法令經向主管機關登記或立案者，所舉辦之各種娛樂，其門票或代價全部收入，作為本事業之用，及有關促進體育活動之各種表演，免徵娛樂稅。",
             "relates": {}
         },
         {
@@ -70,7 +70,7 @@
         {
             "note": "(差別徵收率)",
             "rule_no": "第十條",
-            "content": "　　筵席及娛樂稅之徵收，應按筵席及娛樂種類與地區，依本法規定稅率，分別訂定差別徵收率。\n　　前項差別徵收率課徵範圍及一定消費額，由縣（市）（局）政府視地方實際情形分別規定，提經當地民意機關通過，層轉財政部備案，但在動員戡亂期間得由省（市）政府提經同級民意機關通過統一規定，仍報財政部備案。",
+            "content": "　　筵席及娛樂稅之徵收，應按筵席及娛樂種類與地區，依本法規定稅率，分別訂定差別徵收率。\n　　前項差別徵收率課徵範圍及一定消費額，由各直轄市及縣（市）（局）政府視地方實際情形分別規定，提經同級民意機關通過，報請或層轉財政部備案，但在縣（市）（局）於動員戡亂時期，得由省政府提經同級民意機關通過，統一規定，仍報財政部備案。",
             "relates": {}
         },
         {
@@ -86,7 +86,7 @@
         {
             "note": "(筵席稅稅率)",
             "rule_no": "第十二條",
-            "content": "　　筵席稅稅率最高不得超過百分之二十。",
+            "content": "　　筵席稅按消費總額課徵，其稅率如左：\n　　一、酒家：最低不得少於百分之三十，最高不得超過百分之四十。\n　　二、有娛樂節目之筵席場所：最低不得少於百分之二十，最高不得超過百分之三十。\n　　三、一般筵席場所：百分之十。",
             "relates": {}
         },
         {
@@ -114,7 +114,7 @@
         {
             "note": "(娛樂稅稅率)",
             "rule_no": "第十六條",
-            "content": "　　娛樂稅照所售票價課徵，其稅率如左：\n　　一、舞場最高不得超過百分之一百。\n　　二、電影撞球場最高不得超過百分之六十，本國語言片最高不得超過百分之五十。\n　　三、歌場書場魔術馬戲最高不得超過百分之三十。\n　　四、球房溜冰場暨歌唱舞蹈音樂演奏等表演，及其他各種娛樂，最高不得超過百分之二十。\n　　五、戲劇最高不得超過百分之十。\n　　前項各種娛樂，不售票券，或另以其他飲料品或娛樂工具供應顧客者，按其收費額課徵。",
+            "content": "　　娛樂稅照所售票價課徵，其稅率如左：\n　　一、舞場最高不得超過百分之一百。\n　　二、電影最高不得超過百分之六十，本國語言片最高不得超過百分之三十。\n　　三、撞球最高不得超過百分之五十，保齡球最高不得超過百分之三十，高爾夫球最高不得超過百分之二十。\n　　四、歌場、書場、夜總會、馬戲、歌、舞及職業性魔術等技藝表演，最高不得超過百分之三十。\n　　五、各種競技比賽，最高不得超過百分之十。戲劇表演及非職業性歌唱、舞蹈、音樂演奏會等，最高不得超過百分之五。\n　　前項各種娛樂，不售票券，另以其他飲料品或娛樂工具供應顧客者，按其收費額課徵娛樂稅。",
             "relates": {}
         },
         {
@@ -210,9 +210,9 @@
             "relates": {}
         },
         {
-            "note": "(民意機關議決由省政府核定免徵)",
+            "note": "(各縣（市）（局）民意機關議決由省政府核定免徵及備案)",
             "rule_no": "第三十一條",
-            "content": "　　稅源不旺地區，得經各縣（市）（局）民意機關議決，由省政府核定免徵之，並轉報財政部備案。",
+            "content": "　　稅源不旺地區，得經各縣（市）（局）民意機關議決，由省政府核定免徵之，並轉報財政部備案。\n　　直轄市稅源不旺地區，得經直轄市民意機關議決免徵，並由直轄市政府報請財政部備案。",
             "relates": {}
         },
         {
@@ -222,144 +222,143 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第一條": "　　在第一項前段增加「直轄市」字樣，以資配合。",
+        "第二條": "　　依修正動議，表決通過。",
+        "第四條": "　　依修正動議，表決通過。",
+        "第十條": "　　一、第一項未修正。\n　　二、第二項修正為：「前項差別徵收率課徵範圍及一定消費額，由直轄市及縣（市）（局）政府，視地方實際情形，分別規定，提經當地民意機關通過，報請或層轉財政部備案。但在縣（市）（局）於動員戡亂期間，得由省政府提經同級民意機關通過，統一規定仍報財政部備案。」",
+        "第十二條": "　　依修正動議，表決通過。",
+        "第十六條": "　　依修正動議，表決通過。",
+        "第三十一條": "　　一、原條文做為第一項。\n　　二、增訂第二項:「直轄市稅源不旺地區，得經直轄市民意機關議決免征，並由直轄市政府報請財政部備案。」"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "500106",
-            "立法紀錄": "50卷26期號12冊 76-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc9cecdc4cfcfc8c9c4cfcfc8c9",
+            "會議日期": "600122",
+            "立法紀錄": "60卷6期號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc9cfc9cfcfcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc8cfcccfcfc5cbcbccd2cbc8ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcbcfcfc5c9c8cdd2c9c8c7"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "500804",
-            "立法紀錄": "50卷28期號5冊 4-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc7cfcac4cfcfcfcbc4cfcfccca",
+            "進度": "一讀",
+            "會議日期": "600625",
+            "立法紀錄": "60卷47期401號 2-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbc8cfcfcfcec4cfcfcfcdc4cfcfcfca",
+            "主提案": "吳延環",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcbcfcfc5c6c9d2c6c9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "600306",
+            "立法紀錄": "60卷24期378號 1-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cdcbcfcfcfcdc4cfcfcfcec4cfcfcfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "600310",
+            "立法紀錄": "60卷25期379號 1-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cdcacfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "600311",
+            "立法紀錄": "60卷31期385號 25-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cccecfcfcfcdc4cfcfcdcac4cfcfccce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "600317",
+            "立法紀錄": "60卷33期387號 51-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cccccfcfcfcdc4cfcfcacec4cfcfcac8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "500808",
-            "立法紀錄": "50卷27期號18冊 45-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc8cec7c4cfcfcbcac4cfcfcbc9",
-            "關係文書": []
+            "會議日期": "600604",
+            "立法紀錄": "60卷41期395號 14-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbcecfcfcfcec4cfcfcecbc4cfcfccc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c8c6cbd2c7cfca"
+                ]
+            ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "500815",
-            "立法紀錄": "50卷27期號19冊 31-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc8cec6c4cfcfcccec4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "501222",
-            "立法紀錄": "51卷28期號18冊 64-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7cec7c4cfcfc9cbc4cfcfc6cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "501226",
-            "立法紀錄": "51卷28期號13冊 83-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7ceccc4cfcfc7ccc4cfcfc6ca",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "600608",
+            "立法紀錄": "60卷42期396號 2-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbcdcfcfcfcec4cfcfcfcdc4cfcfcdca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "500815",
-            "立法紀錄": "50卷27期號19冊 48-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc8cec6c4cfcfcbc7c4cfcfc6cf",
+            "會議日期": "600611",
+            "立法紀錄": "60卷43期397號 2-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbcccfcfcfcec4cfcfcfcdc4cfcfcdca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "500818",
-            "立法紀錄": "50卷27期號20冊 24-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc8cdcfc4cfcfcdcbc4cfcfcbcf",
+            "會議日期": "600615",
+            "立法紀錄": "60卷44期398號 2-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbcbcfcfcfcec4cfcfcfcdc4cfcfcdc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "500819",
-            "立法紀錄": "50卷27期號20冊 45-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc8cdcfc4cfcfcbcac4cfcfc8cb",
+            "會議日期": "600618",
+            "立法紀錄": "60卷45期399號 2-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbcacfcfcfcec4cfcfcfcdc4cfcfcdcc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "501017",
-            "立法紀錄": "50卷28期號4冊 38-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc7cfcbc4cfcfccc7c4cfcfc9ce",
+            "會議日期": "600622",
+            "立法紀錄": "60卷46期400號 6-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbc9cfcfcfcec4cfcfcfc9c4cfcfcfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "501226",
-            "立法紀錄": "51卷28期號13冊 95-103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7ceccc4cfcfc6cac4cfcecfcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510105",
-            "立法紀錄": "51卷28期號14冊 48-66頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7cecbc4cfcfcbc7c4cfcfc9c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510112",
-            "立法紀錄": "51卷28期號15冊 54-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7cecac4cfcfcacbc4cfcfc7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510123",
-            "立法紀錄": "51卷28期號17冊 37-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7cec8c4cfcfccc8c4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510124",
-            "立法紀錄": "51卷28期號17冊 62-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7cec8c4cfcfc9cdc4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510126",
-            "立法紀錄": "51卷28期號18冊 107-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7cec7c4cfcecfc8c4cfcececc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(復議)",
-            "會議日期": "501020",
-            "立法紀錄": "50卷28期號5冊 38-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc7cfcac4cfcfccc7c4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(復議)",
-            "會議日期": "501027",
-            "立法紀錄": "50卷28期號5冊 48-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacfcdc7cfcac4cfcfcbc7c4cfcfcac8",
+            "會議日期": "600625",
+            "立法紀錄": "60卷47期401號 2-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbc8cfcfcfcec4cfcfcfcdc4cfcfcecc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "510126",
-            "立法紀錄": "51卷28期號18冊 113-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbce81cacecdc7cec7c4cfcececcc4cfcececb",
+            "會議日期": "600629",
+            "立法紀錄": "60卷48期402號 2-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cbc7cfcfcfcec4cfcfcfcdc4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "600713",
+            "立法紀錄": "60卷52期406號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cacdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "600716",
+            "立法紀錄": "60卷53期407號 2-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cececbcc81c9cfcbc8cacccfcfcfcec4cfcfcfcdc4cfcfcfc8",
             "關係文書": []
         }
     ]
