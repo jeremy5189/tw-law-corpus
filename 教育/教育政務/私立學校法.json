@@ -1,8 +1,8 @@
 {
     "title": "私立學校法",
     "versions": [
-        "中華民國92年1月13日修正",
-        "中華民國92年2月6日公布"
+        "中華民國93年3月23日修正",
+        "中華民國93年4月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -62,9 +62,9 @@
             "relates": {}
         },
         {
-            "note": "(宗教課程、儀式施予之限制)",
+            "note": "(宗教研修學院之設立)",
             "rule_no": "第九條",
-            "content": "　　私立大學校院經教育部核准，得設立宗教學院或系所。\n　　私立學校不得強迫學生參加任何宗教儀式。",
+            "content": "　　私立大學校院或宗教法人為培養神職人員及宗教人才，並授予宗教學位者，應依相關法規向教育部申請，經核准後，設立宗教研修學院。\n　　私立學校不得強迫學生參加任何宗教儀式。但宗教研修學院不在此限。\n　　第一項宗教法人之設立及組織，應符合有關法律之規定。",
             "relates": {}
         },
         {
@@ -549,69 +549,48 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　一、第一項、第二項合併為第一項。\n　　二、配合行政程序法之施行，將本法施行細則第十二條第五項移列為第二項。",
-        "第十五條": "　　配合行政程序法之施行，將本法施行細則第七條規定移列納入第一項，增列授權教育部訂定認定基準。",
-        "第二十二條": "　　配合行政程序法之施行，將本法施行細則第十七條修正移列為第二項。",
-        "第二十三條": "　　一、配合行政程序法之施行，將本法施行細則第十四條第一項移列第二項。\n　　二、原條文第二項遞移為第三項。",
-        "第二十六條": "　　配合行政程序法之施行，將本法施行細則第十九條第一項修正移列為第三項。",
-        "第二十七條": "　　配合行政程序法之施行，將本法施行細則第十八條第二項及第二十二條第一項移列納入第一項及第四項。",
-        "第二十九條": "　　配合行政程序法之施行，將本法施行細則第十三條、第二十一條第一項及第二項、第二十二條第一項及第二項修正移列納入第三項，並增列第四項及第五項。",
-        "第五十四條": "　　一、配合行政程序法之施行，將本法施行細則第三十八條修正移列納入第四項及第五項。\n　　二、第三項末句「兼任」修正為「擔任」。\n　　三、第四項中「人事主管職務」中「主管」二字予以刪除，句末「違反規定之人員」以下文字移列至第五項末。",
-        "第六十條": "　　一、配合行政程序法之施行，將本法施行細則第四十二條及第四十三條第一項及第二項規定移列至本條第二項至第五項。\n　　二、第四項中「除設校基金」等字移列於「應注意收益性及安全性」下。",
-        "第七十九條 之一": "　　一、本條新增。\n　　二、現行僑務委員會與教育部會銜於七十四年八月五日修正施行之「華僑學校規程」，其內容涉及人民權利義務，依行政程序法之規定，其訂定應有法律依據，爰配合行政程序法之施行，增列訂定海外私立學校之授權依據。"
+        "第九條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9ca81c6cecccbcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "921003",
+            "立法紀錄": "92卷41期3315號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c981c6cdcbcecfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "911219",
-            "立法紀錄": "92卷5期3279號四冊 265-330頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9ca81c6cdcfcacfcbc4cfcdc9cac4cfcccccf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "911226",
-            "立法紀錄": "92卷7期3281號下冊 99-120頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9ca81c6cdcfc8cfccc4cfcfc6c6c4cfcecdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "920113",
-            "立法紀錄": "92卷8期3282號二冊 361-364頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9ca81c6cdcfc7cfcdc4cfccc9cec4cfccc9cb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfcec5cac8ccd2c9cfc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfcbcfcec5ceccccd2ceccc9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "920113",
-            "立法紀錄": "92卷8期3282號二冊 375-383頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9ca81c6cdcfc7cfcdc4cfccc8cac4cfccc7cc",
+            "會議日期": "921204",
+            "立法紀錄": "92卷57期3331號一冊 113-113頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c981c6cdcac8cfcec4cfcececcc4cfcececc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "930323",
+            "立法紀錄": "93卷17期3351號上冊 34-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c981c6cccec8cfcec4cfcfcccbc4cfcfccca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "930323",
+            "立法紀錄": "93卷17期3351號上冊 35-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c981c6cccec8cfcec4cfcfcccac4cfcfccca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "920113",
-            "立法紀錄": "92卷8期3282號二冊 398-400頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9ca81c6cdcfc7cfcdc4cfccc6c7c4cfcbcfcf",
+            "會議日期": "930323",
+            "立法紀錄": "93卷17期3351號上冊 35-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c981c6cccec8cfcec4cfcfcccac4cfcfccca",
             "關係文書": []
         }
     ]
