@@ -1,8 +1,8 @@
 {
     "title": "刑事補償法",
     "versions": [
-        "中華民國48年6月2日制定",
-        "中華民國48年6月11日公布"
+        "中華民國55年5月24日修正",
+        "中華民國55年6月2日公布"
     ],
     "types": [
         "立法歷程",
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　羈押及徒刑或拘役執行之賠償，依其羈押或執行之日數，以四元以上六元以下折算一日支付之。\n　　罰金執行之賠償，應依已繳罰金相等金額返還之。\n　　易服勞役執行之賠償，準用第一項規定支付之。\n　　沒收物執行之賠償，除應銷燬者外，應返還之，其已拍賣者，應支付與賣得價金相等之金額。\n　　死刑之賠償，除其羈押依第一項規定賠償外，並支付四萬元以上六萬元以下之撫慰金。\n　　羈押之日數應自拘捕時起算。",
+            "content": "　　羈押及徒刑或拘役執行之賠償，依其羈押或執行之日數，以十五元以上二十五元以下折算一日支付之。\n　　罰金執行之賠償，應依已繳罰金相等金額返還之。\n　　易服勞役執行之賠償，準用第一項規定支付之。\n　　沒收物執行之賠償，除應銷燬者外，應返還之，其已拍賣者，應支付與賣得價金相等之金額。\n　　死刑之賠償，除其羈押依第一項規定賠償外，並支付八萬元以上十二萬元以下之撫慰金。\n　　羈押之日數應自拘捕時起算。",
             "relates": {}
         },
         {
@@ -169,109 +169,55 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "420407",
-            "立法紀錄": "42卷11期號3冊 29-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbcdcececfccc4cfcfcdc6c4cfcfcdc6",
+            "會議日期": "540219",
+            "立法紀錄": "54卷35期號1冊 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacbcccacfcecfcfc4cfcfcecfc4cfcfcecf",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cecbcbd2cecbca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "421110",
-            "立法紀錄": "42卷12期號4冊 39-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbcdcecdcfcbc4cfcfccc6c4cfcfcbcb",
-            "主提案": "袁良驊",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cbc6ced2cbc6cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcecfcfc5cccad2ccc9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480424",
-            "立法紀錄": "48卷23期號11冊 4-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecec4cfcfcfcbc4cfcfccca",
+            "會議日期": "550513",
+            "立法紀錄": "55卷37期號8冊 80-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc7cfcfc4cfcfc7cfc4cfcfc7ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5c6cad2cecfcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcdcfcfc5cacdcfd2cacdcd"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480501",
-            "立法紀錄": "48卷23期號11冊 37-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecec4cfcfccc8c4cfcfcac8",
+            "會議日期": "550527",
+            "立法紀錄": "55卷37期號9冊 11-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc6cfcfc4cfcfcecec4cfcfcec9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480505",
-            "立法紀錄": "48卷23期號12冊 5-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecdc4cfcfcfcac4cfcfcdca",
+            "會議日期": "550524",
+            "立法紀錄": "55卷37期號9冊 58-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc6cfcfc4cfcfcac7c4cfcfcac6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480508",
-            "立法紀錄": "48卷23期號12冊 27-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecdc4cfcfcdc8c4cfcfcace",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480512",
-            "立法紀錄": "48卷23期號13冊 5-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdccceccc4cfcfcfcac4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480519",
-            "立法紀錄": "48卷23期號14冊 27-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecbc4cfcfcdc8c4cfcfcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480522",
-            "立法紀錄": "48卷23期號14冊 48-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecbc4cfcfcbc7c4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480522",
-            "立法紀錄": "48卷23期號14冊 51-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecbc4cfcfcacec4cfcfc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480602",
-            "立法紀錄": "48卷23期號15冊 5-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecac4cfcfcfcac4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480602",
-            "立法紀錄": "48卷23期號15冊 22-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecac4cfcfcdcdc4cfcfcdc7",
+            "會議日期": "550524",
+            "立法紀錄": "55卷37期號9冊 59-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc6cfcfc4cfcfcac6c4cfcfc9ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480602",
-            "立法紀錄": "48卷23期號15冊 63-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecc81cbc7cdcccecac4cfcfc9ccc4cfcfc8cd",
+            "會議日期": "550524",
+            "立法紀錄": "55卷37期號9冊 61-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcecb81cacaccc8cfc6cfcfc4cfcfc9cec4cfcfc9ce",
             "關係文書": []
         }
     ]
