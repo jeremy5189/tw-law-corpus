@@ -1,11 +1,11 @@
 {
     "title": "中央再保險公司條例",
     "versions": [
-        "中華民國88年6月1日修正",
-        "中華民國88年6月16日公布"
+        "中華民國93年6月11日廢止",
+        "中華民國93年6月23日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -94,48 +94,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　一、原條文規定，中央再保險公司之國庫持股應有百分之五十一以上，為國營公司，且股東僅限於國庫及公、民營保險業。為因應未來民營化國庫釋股及員工認股之需，爰刪除第一項有關國庫持股比率及股東認股之限制規定。\n　　二、保險法第一百三十九條及第一百四十三條第一項既已就保險業之最低實收資本額及應限期增資事項予以規範，爰刪除第二項規定。"
-    },
+    "deprecated_reason": "　　中央再保險公司條例於民國六十一年制定之旨，乃在於因應當時國內保險業初創，仰賴國外再保險，致保費大量外流，外匯短絀，及國內保險業者與國外再保險關係薄弱，安排再保險時有困難，惟今日在經濟自由化、國際化趨勢下，再保險業務之外匯流出管制已非保險監理之重點，且國內保險市場漸趨成熟多樣，對於再保險之安排，自有其專業判斷與採擇，政府無干預之必要，又中央再保險公司已於九十一年七月十一日完成民營化，一切再保險業務應回歸自由市場之競爭機制，故本條例已無繼續施行之必要，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "871001",
-            "立法紀錄": "87卷36期2985號一冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c7c8ccc9cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "920307",
+            "立法紀錄": "92卷12期3286號 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c6cdcecdcfcfc4cfcfcfcac4cfcfcfca",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfcdcfcfc5c7cfcad2c7cfc7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcdcfcec5cdcccdd2cdcbca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "871231",
-            "立法紀錄": "88卷4期3004號 93-94頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c7c7cfcbcfcfc4cfcfc6ccc4cfcfc6cb",
+            "會議日期": "930531",
+            "立法紀錄": "93卷34期3368號五冊 139-148頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c6cccccbcfcac4cfceccc6c4cfcecbc7",
             "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "880601",
-            "立法紀錄": "88卷31期3031號一冊 70-73頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c7c7cccecfcec4cfcfc8cfc4cfcfc8cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc7cfcdc5cdccc8d2cdccc6"
-                ]
-            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "880601",
-            "立法紀錄": "88卷31期3031號一冊 73-73頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c7c7cccecfcec4cfcfc8ccc4cfcfc8cc",
-            "關係文書": []
+            "會議日期": "930611",
+            "立法紀錄": "93卷34期3368號一冊 208-213頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcfcac681c6cccccbcfcec4cfcdcfc7c4cfcdcecc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecbcfcec5cacfcfd2cacfc9"
+                ]
+            ]
         }
     ]
 }
