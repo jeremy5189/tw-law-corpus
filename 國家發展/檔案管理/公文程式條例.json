@@ -1,12 +1,12 @@
 {
     "title": "公文程式條例",
     "versions": [
-        "中華民國61年1月18日全文修正",
-        "中華民國61年1月25日公布"
+        "中華民國62年10月19日修正",
+        "中華民國62年11月3日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,13 +18,13 @@
         {
             "note": "(公文程式之種類)",
             "rule_no": "第二條",
-            "content": "　　公文程式之類別如左：\n　　一、令：公布法令、任免官員及上級機關對於所屬下級機關有所交辦或指示時用之。\n　　二、呈：下級機關對於上級機關有所呈請或報告時用之。\n　　三、咨：總統與立法院、監察院公文往復時用之。\n　　四、函：同級機關或不相隸屬之機關有所洽辦或人民與機關間之申請與答復時用之。\n　　五、公告：對於公眾宣布事實或有所勸誡時用之。\n　　六、其他公文。\n　　前項各款之公文，除第五款外，必要時得以電報或代電行之。",
+            "content": "　　公文程式之類別如左：\n　　一、令：公布法律、任免、獎懲官員，總統、軍事機關、部隊發布命令時用之。\n　　二、呈：對總統有所呈請或報告時用之。\n　　三、咨：總統與立法院、監察院公文往復時用之。\n　　四、函：各機關間公文往復，或人民與機關間之申請與答復時用之。\n　　五、公告：對公眾有所宣布時用之。\n　　六、其他公文。\n　　前項各款之公文，除第五款外，必要時得以電報或代電行之。",
             "relates": {}
         },
         {
             "note": "(機關公文之蓋印或簽署)",
             "rule_no": "第三條",
-            "content": "　　機關公文，視其性質，分別依照左列各款，蓋用印信或簽署：\n　　一、蓋用機關印信，並由機關首長署名、蓋職章或蓋簽字章。\n　　二、不蓋用機關印信，僅由機關首長署名、蓋職章或蓋簽字章。\n　　三、僅蓋用機關印信。\n　　機關公文依法應副署者，由副署人副署之。\n　　機關內部單位處理公務，基於授權對外行文時，由該單位主管署名，蓋職章，其效力與蓋用該機關印信之公文同。\n　　機關公文蓋用印信或簽署及授權辦法，除總統府及五院自行訂定外，由各機關依其實際業務自行擬訂，呈經上級機關核定之。",
+            "content": "　　機關公文，視其性質，分別依照左列各款，蓋用印信或簽署：\n　　一、蓋用機關印信，並由機關首長署名，蓋職章或蓋簽字章。\n　　二、不蓋用機關印信，僅由機關首長署名，蓋職章或蓋簽字章。\n　　三、僅蓋用機關印信。\n　　機關公文依法應副署者，由副署人副署之。\n　　機關內部單位處理公務，基於授權對外行文時，由該單位主管署名，蓋職章，其效力與蓋用該機關印信之公文同。\n　　機關公文蓋用印信或簽署及授權辦法，除總統府及五院自行訂定外，由各機關依其實際業務自行擬訂，函請上級機關核定之。",
             "relates": {}
         },
         {
@@ -94,107 +94,62 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　刪除第一款中上級機關對所屬下級機關用令行文之規定，並保留由　總統及軍事機關部隊用令之規定。\n　　刪除第二款中下級機關對上級機關行文用呈之規定，但對　總統仍保留用呈。\n　　於第四款中規定不論同級或相隸屬不相隸屬之機關均用函行文。\n　　為避免對公眾使用「勸誡」字樣，並使文字簡潔，故將第五款文字予以修正。",
+        "第三條": "　　將第四項末句中「呈經」兩字修正為「函請」，其餘文字未修正。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "581107",
-            "立法紀錄": "58卷81期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac7cbcbc7cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "620706",
+            "立法紀錄": "62卷51期607號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec681c9cdcacecacecfcfcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cdc7cbd2cdc6ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc8cfcfc5cbcbcfd2cbcbcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "581115",
-            "立法紀錄": "59卷2期0號 22-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcdcfcfcfcdc4cfcfcdcdc4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581119",
-            "立法紀錄": "59卷2期0號 28-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcdcfcfcfcdc4cfcfcdc7c4cfcfcccf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581126",
-            "立法紀錄": "59卷3期0號 26-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcccfcfcfcdc4cfcfcdc9c4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581128",
-            "立法紀錄": "59卷4期0號 12-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcbcfcfcfcdc4cfcfcecdc4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581206",
-            "立法紀錄": "59卷5期0號 5-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfcacfcfcfcdc4cfcfcfcac4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581224",
-            "立法紀錄": "59卷8期0號 17-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcbcfc7cfcfcfcdc4cfcfcec8c4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590502",
-            "立法紀錄": "59卷48期0號 60-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcacbc7cfcfcfcdc4cfcfc9cfc4cfcfc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "590509",
-            "立法紀錄": "59卷49期0號 13-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881cac6cbcacbc6cfcfcfcdc4cfcfceccc4cfcfcec8",
+            "會議日期": "620721",
+            "立法紀錄": "62卷82期638號 10-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec681c9cdcacdc7cdcfcfcfcdc4cfcfcecfc4cfcfcecc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "610111",
-            "立法紀錄": "61卷4期457號 8-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881c9cecbc7cfcbcfcfcfcec4cfcfcfc7c4cfcfcdcc",
+            "會議日期": "621016",
+            "立法紀錄": "62卷79期635號 33-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec681c9cdcacdc8c6cfcfcfcec4cfcfccccc4cfcfccc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcdcfcfc5cbccc7d2cbcacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcdcfcfc5cdcacad2cdc9ce"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610111",
-            "立法紀錄": "61卷4期457號 23-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881c9cecbc7cfcbcfcfcfcec4cfcfcdccc4cfcfcccd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "621019",
+            "立法紀錄": "62卷80期636號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec681c9cdcacdc7cfcfcfcfcec4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "610114",
-            "立法紀錄": "61卷5期458號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881c9cecbc7cfcacfcfcfcec4cfcfcfccc4cfcfcfcb",
+            "會議日期": "621019",
+            "立法紀錄": "62卷80期636號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec681c9cdcacdc7cfcfcfcfcec4cfcfcfcbc4cfcfcfcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "610118",
-            "立法紀錄": "61卷6期459號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec881c9cecbc7cfc9cfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "621019",
+            "立法紀錄": "62卷80期636號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac9cbcacccecfcec681c9cdcacdc7cfcfcfcfcec4cfcfcfcbc4cfcfcfcb",
             "關係文書": []
         }
     ]
