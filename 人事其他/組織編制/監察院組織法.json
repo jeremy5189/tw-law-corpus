@@ -1,8 +1,8 @@
 {
     "title": "監察院組織法",
     "versions": [
-        "中華民國64年4月11日修正",
-        "中華民國64年4月22日公布"
+        "中華民國81年10月29日修正",
+        "中華民國81年11月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -29,6 +29,12 @@
         },
         {
             "note": "",
+            "rule_no": "第三條 之一",
+            "content": "　　監察院監察委員，須年滿三十五歲，並具有左列資格之一：\n　　一、曾任中央民意代表一任以上或省（市）議員二任以上，聲譽卓著者。\n　　二、任簡任司法官十年以上，並曾任高等法院、高等法院檢察署以上司法機關司法官，成績優異者。\n　　三、曾任簡任職公務員十年以上，成績優異者。\n　　四、曾任大學教授十年以上，聲譽卓著者。\n　　五、國內專門職業及技術人員高等考試及格，執行業務十五年以上，聲譽卓著者。\n　　六、清廉正直，富有政治經驗或主持新聞文化事業，聲譽卓著者。\n　　前項所稱之服務或執業年限，均計算至次屆監察委員就職前一日止。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第四條",
             "content": "　　監察院設審計部，其職掌如左：\n　　一、監督政府所屬全國各機關預算之執行。\n　　二、核定政府所屬全國各機關收入命令及支付命令。\n　　三、審核政府所屬全國各機關財務收支及審定決算。\n　　四、稽察政府所屬全國各機關財務及財政上不法或不忠於職務之行為。\n　　五、考核政府所屬全國各機關財務效能。\n　　六、核定各機關人員對於財務上之責任。\n　　七、其他依法律應行辦理之審計事項。\n　　審計部之組織，另以法律定之。",
             "relates": {}
@@ -42,7 +48,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　監察院院長綜理院務，並監督所屬機關。\n　　監察院院長因事故不能視事時，由副院長代理其職務。",
+            "content": "　　監察院院長綜理院務，並監督所屬機關；監察院院長因事故不能視事時，由副院長代理其職務。\n　　監察院院長出缺時，由副院長代理；其代理期間至總統提名繼任院長經國民大會同意，總統任命之日為止。\n　　監察院院長、副院長同時出缺時，由總統就監察委員中指定一人代理院長；其代理期間至總統提名繼任院長、副院長經國民大會同意，總統任命之日為止。\n　　監察院院長、副院長及監察委員出缺時，其繼任人之任期，至原任期屆滿之日為止。",
             "relates": {}
         },
         {
@@ -60,7 +66,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　監察院置秘書長一人，特派，由院長就監察委員外，遴選人員提請任命之。\n　　秘書長承院長之命，處理本院事務，並指揮監督所屬職員。",
+            "content": "　　監察院置秘書長一人，特任，由院長就監察委員外，遴選人員提請任命之。\n　　秘書長承院長之命，處理本院事務，並指揮監督所屬職員。",
             "relates": {}
         },
         {
@@ -96,69 +102,95 @@
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　本法施行日期，以命令定之。",
+            "content": "　　本法施行日期，以命令定之。\n　　本法第三條之一，自本法公布日施行。\n　　本法第六條第二項至第四項及第九條第一項，自中華民國八十二年二月一日起施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十一條": "　　為配合公務職位分類法第三條之修正。",
-        "第十二條": "　　為配合公務職位分類法第三條之修正。",
-        "第十三條": "　　為配合公務職位分類法第三條之修正。",
-        "第十四條": "　　本條刪除，不保留條次。",
-        "第十五條": "　　條號修改。"
+        "第三條 之一": "　　一、本條新增。\n　　二、依照憲法增修條文第十五條第二項規定，監察委員已非由選舉產生，原公職人員選舉罷免法所定之監察委員候選資格，已不再適用。爰參照司法院組織法及考試院組織法規範大法官及考試委員資格之例，於本法中增訂監察委員資格，以為總統提名依據。\n　　三、監察委員既負糾彈重任，並須富專業素養與經驗，其年齡自不宜太輕，爰參照原公職人員選舉罷免法對監察委員候選年齡之規定，明定須年滿三十五歲，為監察委員之必備條件。",
+        "第六條": "　　一、增列第二項，監察院院長出缺時，由副院長代理，其代理期間並予以明定。\n　　二、監察院院長、副院長及監察委員之任期六年，已明定於憲法，如中途出缺時，其繼任人之任期，參照大法官及考試委員之規定，至原任期屆滿之日為止，以臻明確，俾免爭議，爰增列第三項。",
+        "第九條": "　　監察院已非民意機關，參照行政院、司法院及考試院三院之組織法，將本院秘書長「特派」修正為「特任」，以符法制。",
+        "第十五條": "　　一、依照憲法增修條文第十六條第一項規定，自第二屆監察委員起，監察委員由總統提名，經國民大會同意任命之，爰增訂第二項。\n　　二、為配合第二屆監察委員於中華民國八十二年二月一日就職，爰增訂第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "640307",
-            "立法紀錄": "64卷20期774號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacc81c9cbcacacdcfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "810925",
+            "立法紀錄": "81卷59期2587號上冊 177-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfcac6cfcec4cfcec8c8c4cfcec7cc",
+            "主提案": "陳水扁",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfcdcfcdc5c9cfd2c9c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "810929",
+            "立法紀錄": "81卷60期2588號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfc9cfcfcfc4cfcfcfcac4cfcfcfca",
             "主提案": "監察院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcdcfcfc5cbcec8d2cbcdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfcdcfcec5cccfc9d2cccdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "640312",
-            "立法紀錄": "64卷37期791號 44-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacc81c9cbcacaccc8cfcfcfcdc4cfcfcbcbc4cfcfcbc6",
+            "會議日期": "811007",
+            "立法紀錄": "81卷64期2592號 137-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfc9cbcfcfc4cfceccc8c4cfcec8c6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "811012",
+            "立法紀錄": "81卷65期2593號 330-355頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfc9cacfcfc4cfcccccfc4cfcccaca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "811019",
+            "立法紀錄": "81卷67期2595號下冊 534-572頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfc9c8cfccc4cfcacccbc4cfcac8cd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "640408",
-            "立法紀錄": "64卷29期783號 19-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacc81c9cbcacacdc6cfcfcfcec4cfcfcec6c4cfcfcdca",
+            "會議日期": "811027",
+            "立法紀錄": "81卷68期2596號 62-90頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfc9c7cfcfc4cfcfc9cdc4cfcfc6cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcccfcfc5cdc7cbd2cdc6c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfc7cfcfc5c7cdd2c6c6"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "640408",
-            "立法紀錄": "64卷29期783號 27-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacc81c9cbcacacdc6cfcfcfcec4cfcfcdc8c4cfcfcdc6",
+            "會議日期": "811029",
+            "立法紀錄": "81卷69期2597號上冊 42-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfc9c6cfcec4cfcfcbcdc4cfcfc9cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "640408",
-            "立法紀錄": "64卷29期783號 29-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacc81c9cbcacacdc6cfcfcfcec4cfcfcdc6c4cfcfcdc6",
+            "會議日期": "811029",
+            "立法紀錄": "81卷69期2597號上冊 62-67頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfc9c6cfcec4cfcfc9cdc4cfcfc9c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "640411",
-            "立法紀錄": "64卷30期784號 13-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacc81c9cbcacacccfcfcfcfcec4cfcfceccc4cfcfcecc",
+            "會議日期": "811029",
+            "立法紀錄": "81卷69期2597號上冊 67-68頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cccaca81c7cecfc9c6cfcec4cfcfc9c8c4cfcfc9c7",
             "關係文書": []
         }
     ]
