@@ -1,12 +1,12 @@
 {
     "title": "政務人員退職酬勞金給與條例",
     "versions": [
-        "中華民國61年1月28日制定",
-        "中華民國61年2月5日公布"
+        "中華民國68年12月11日修正",
+        "中華民國68年12月24日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -72,7 +72,7 @@
         {
             "note": "(退休再任之規定)",
             "rule_no": "第十一條",
-            "content": "　　已領退職酬勞金之人員，再任政務官或依法令可辦退休之公職人員時，應將已領退職酬勞金繳還。",
+            "content": "　　已領退職酬勞金之人員，再任政務官或其他公職人員時，已領之退職酬勞金，無庸繳回；其退職前之任職年資，於重行退休或退職時，不予併計。",
             "relates": {}
         },
         {
@@ -100,72 +100,68 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十一條": "　　為配合六十八年修正公布之公務人員退休法第十三條「依本法退休者，如再任公務人員時，無庸繳回已領之退休金，其退休前之任職年資，於重行退休時不予計算。」之規定，爰予修正，以利執行。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "610104",
-            "立法紀錄": "61卷2期455號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c881c9cecbc7cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "680525",
+            "立法紀錄": "68卷42期1214號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c681c9c7c9cccbcdcfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院、考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5caccced2caccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c9c8c8d2c9c8c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "610112",
-            "立法紀錄": "61卷25期478號 19-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c881c9cecbc6cdcacfcfcfcdc4cfcfcec6c4cfcfcdc8",
+            "會議日期": "681013",
+            "立法紀錄": "68卷102期1274號 20-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c681c9c7c9cbcecfcdcfcfc4cfcfcdcfc4cfcfcdca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "610113",
-            "立法紀錄": "61卷26期479號 7-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c881c9cecbc6cdc9cfcfcfcdc4cfcfcfc8c4cfcfcecc",
+            "會議日期": "681020",
+            "立法紀錄": "68卷104期1276號 75-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c681c9c7c9cbcecfcbcfcfc4cfcfc8cac4cfcfc8c9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "681103",
+            "立法紀錄": "69卷7期1283號 21-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c681c9c6c9cbcfc8cfcfc4cfcfcdcec4cfcfcdcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "610118",
-            "立法紀錄": "61卷6期459號 11-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c881c9cecbc7cfc9cfcfcfcec4cfcfcecec4cfcfcdcf",
+            "會議日期": "681211",
+            "立法紀錄": "68卷99期1271號 16-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c681c9c7c9cbc6c6cfcfc4cfcfcec9c4cfcfcec7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c8cec8d2c8cdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cccecbd2cccec9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "610118",
-            "立法紀錄": "61卷6期459號 20-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c881c9cecbc7cfc9cfcfcfcec4cfcfcdcfc4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610121",
-            "立法紀錄": "61卷7期460號 5-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c881c9cecbc7cfc8cfcfcfcec4cfcfcfcac4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610125",
-            "立法紀錄": "61卷8期461號 3-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c881c9cecbc7cfc7cfcfcfcec4cfcfcfccc4cfcfcfc7",
+            "會議日期": "681211",
+            "立法紀錄": "68卷99期1271號 18-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c681c9c7c9cbc6c6cfcfc4cfcfcec7c4cfcfcdcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "610128",
-            "立法紀錄": "61卷9期462號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c881c9cecbc7cfc6cfcfcfcec4cfcfcfc9c4cfcfcfc8",
+            "會議日期": "681211",
+            "立法紀錄": "68卷99期1271號 20-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7c9c681c9c7c9cbc6c6cfcfc4cfcfcdcfc4cfcfcdcf",
             "關係文書": []
         }
     ]
