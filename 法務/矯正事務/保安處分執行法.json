@@ -1,8 +1,8 @@
 {
     "title": "保安處分執行法",
     "versions": [
-        "中華民國52年5月21日制定",
-        "中華民國52年7月3日公布"
+        "中華民國56年7月18日修正",
+        "中華民國56年8月1日公布"
     ],
     "types": [
         "立法歷程",
@@ -40,7 +40,7 @@
         {
             "note": "(裁判書及應備文件之解送)",
             "rule_no": "第五條",
-            "content": "　　保安處分之執行，檢察官應將受處分人連同裁判書及應備文件，命司法警察或司法警察官解送至保安處分處所。\n　　刑事訴訟法第四百七十三條之規定，於保安處分之執行，除感化教育外準用之。",
+            "content": "　　保安處分之執行，檢察官應將受處分人連同裁判書及應備文件，命司法警察或司法警察官解送至保安處分處所。\n　　刑事訴訟法第四百六十九條之規定，於保安處分之執行，除感化教育外準用之。",
             "relates": {}
         },
         {
@@ -583,188 +583,22 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "460920",
-            "立法紀錄": "46卷20期號1冊 38-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cbc9cdcfcfcec4cfcfccc7c4cfcfccc7",
-            "主提案": "行政院",
+            "會議日期": "560718",
+            "立法紀錄": "56卷5期號7冊 751-756頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac781cac9ccc6cfc8cfcac4cfc8cacec4cfc8cac9",
+            "主提案": "{^97EA^}士源",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcecfcfc5c9cfcfd2c9cdcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcccfcfc5c9c7cbd2c9c7c6"
                 ]
             ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "520521",
-            "立法紀錄": "52卷31期號10冊 5-65頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccececfc4cfcfcfcac4cfcfc9ca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc7cfcccfcfc5c9caced2c9c6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510629",
-            "立法紀錄": "51卷29期號14冊 77-80頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cecbc4cfcfc8c8c4cfcfc7cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510703",
-            "立法紀錄": "51卷29期號15冊 25-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cecac4cfcfcdcac4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510703",
-            "立法紀錄": "51卷29期號15冊 32-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cecac4cfcfcccdc4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "570710",
-            "立法紀錄": "51卷29期號15冊 81-84頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cecac4cfcfc7cec4cfcfc7cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510717",
-            "立法紀錄": "51卷29期號16冊 200-200頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cec9c4cfcdcfcfc4cfcdcfcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510720",
-            "立法紀錄": "51卷29期號17冊 18-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cec8c4cfcfcec7c4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510810",
-            "立法紀錄": "51卷29期號18冊 65-65頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cec7c4cfcfc9cac4cfcfc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510821",
-            "立法紀錄": "51卷29期號19冊 129-130頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cec6c4cfcecdc6c4cfcecccf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510824",
-            "立法紀錄": "51卷29期號20冊 64-65頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacecdc6cdcfc4cfcfc9cbc4cfcfc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520322",
-            "立法紀錄": "52卷31期號4冊 65-65頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfcbc4cfcfc9cac4cfcfc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520405",
-            "立法紀錄": "52卷31期號5冊 99-99頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfcac4cfcfc6c6c4cfcfc6c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520412",
-            "立法紀錄": "52卷31期號5冊 138-138頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfcac4cfceccc7c4cfceccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520416",
-            "立法紀錄": "52卷31期號6冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc9c4cfcfcfcbc4cfcfcfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520419",
-            "立法紀錄": "52卷31期號6冊 34-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc9c4cfcfcccbc4cfcfccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520430",
-            "立法紀錄": "52卷31期號7冊 41-41頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc8c4cfcfcbcec4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520507",
-            "立法紀錄": "52卷31期號8冊 28-48頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc7c4cfcfcdc7c4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520507",
-            "立法紀錄": "52卷31期號8冊 54-63頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc7c4cfcfcacbc4cfcfc9cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520510",
-            "立法紀錄": "52卷31期號8冊 75-95頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc7c4cfcfc8cac4cfcfc6ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520514",
-            "立法紀錄": "52卷31期號9冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc6c4cfcfcfc9c4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520514",
-            "立法紀錄": "52卷31期號9冊 12-23頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc6c4cfcfcecdc4cfcfcdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520517",
-            "立法紀錄": "52卷31期號9冊 38-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc6c4cfcfccc7c4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "520517",
-            "立法紀錄": "52卷31期號9冊 46-46頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccecfc6c4cfcfcbc9c4cfcfcbc9",
-            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "520521",
-            "立法紀錄": "52卷31期號10冊 75-90頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac881cacdcccececfc4cfcfc8cac4cfcfc6cf",
+            "會議日期": "560718",
+            "立法紀錄": "56卷6期號7冊 786-786頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccccac781cac9ccc6cfc8cfc9c4cfc8c7c9c4cfc8c7c9",
             "關係文書": []
         }
     ]
