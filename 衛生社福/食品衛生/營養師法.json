@@ -1,8 +1,8 @@
 {
     "title": "營養師法",
     "versions": [
-        "中華民國91年4月25日修正",
-        "中華民國91年5月15日公布"
+        "中華民國91年5月17日修正",
+        "中華民國91年6月12日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -146,7 +146,7 @@
         {
             "note": "",
             "rule_no": "第二十條",
-            "content": "　　營養師公會分縣（市）公會及省（市）公會，並得設全國營養師公會職合會於中央政府所在地。",
+            "content": "　　營養師公會分縣（市）公會及省（市）公會，並得設全國營養師公會聯合會於中央政府所在地。\n　　營養師公會會址，應設於各該公會主管機關所在地區。但經各該主管機關核准者，不在此限。",
             "relates": {}
         },
         {
@@ -193,6 +193,12 @@
         },
         {
             "note": "",
+            "rule_no": "第二十七條 之一",
+            "content": "　　上級營養師公會理事、監事之當選，不限於下級營養師公會選派參加之會員代表。\n　　下級營養師公會選派參加上級營養師公會之會員代表，不限於下級營養師公會之理事、監事。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第二十八條",
             "content": "　　營養師公會每年開會員（代表）大會一次，必要時得召開臨時大會。\n　　營養師公會會員人數超過三百人以上時，得就會員分布狀況劃定區域，由各區域會員選舉代表，召開會員代表大會，行使會員大會之職權。\n　　前項會員代表之名額，依各區域會員人數比例定之。",
             "relates": {}
@@ -233,6 +239,12 @@
         },
         {
             "note": "",
+            "rule_no": "第三十三條 之一",
+            "content": "　　中央或直轄市、縣（市）衛生主管機關依本法核發證書或執照時，得收取證書費或執照費；其費額，由中央衛生主管機關定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第三十四條",
             "content": "　　本法施行細則，由中央衛生主管機關會同內政部及教育部擬訂，報請行政院核定之。",
             "relates": {}
@@ -245,45 +257,47 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　為配合臺灣省政府功能業務與組織之調整，將條文中之「省政府衛生處」刪除。另將直轄市衛生主管機關之層級提升為「直轄市政府」，以與地方制度法將地方自治團體之組織列為其自治事項之立法意旨相配合。"
+        "第二十條": "　　配合行政程序法之施行，將本法施行細則第八條規定移列修正。",
+        "第二十七條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將本法施行細則第十條規定移列修正。",
+        "第三十三條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將本法施行細則第十四條規定移列修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910423",
-            "立法紀錄": "91卷28期3224號上冊 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfcac981c6cecdc7cfcec4cfcfcecfc4cfcfcecf",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfcac781c6cecccccfcec4cfcfcecec4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cbc8cad2cbc8c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2c8"
                 ],
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cacdccd2cacdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5cec8c7d2cec8c6"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 434-435頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfcac981c6cecdc7cfcec4cfcbcccbc4cfcbccca",
+            "會議日期": "910517",
+            "立法紀錄": "91卷35期3231號上冊 152-153頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfcac781c6cecccacfcec4cfcecacdc4cfcecacc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 443-443頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfcac981c6cecdc7cfcec4cfcbcbccc4cfcbcbcc",
+            "會議日期": "910517",
+            "立法紀錄": "91卷35期3231號上冊 204-205頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfcac781c6cecccacfcec4cfcdcfcbc4cfcdcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 443-443頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfcac981c6cecdc7cfcec4cfcbcbccc4cfcbcbcc",
+            "會議日期": "910517",
+            "立法紀錄": "91卷35期3231號上冊 205-205頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfcac781c6cecccacfcec4cfcdcfcac4cfcdcfca",
             "關係文書": []
         }
     ]
