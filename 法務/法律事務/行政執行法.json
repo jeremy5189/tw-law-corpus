@@ -1,12 +1,12 @@
 {
     "title": "行政執行法",
     "versions": [
-        "中華民國87年10月22日全文修正",
-        "中華民國87年11月11日公布"
+        "中華民國89年6月9日修正",
+        "中華民國89年6月21日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -256,7 +256,7 @@
         {
             "note": "(得使用、處置或限制使用土地等之情形)",
             "rule_no": "第三十九條",
-            "content": "　　遇有天災、事變或交通上、衛生上或公共安全上有危害情形，非使用或處置其土地、住宅、建築物、物品或限制其使用，不能達防護之目的時，得使用、處置或將限制其使用。",
+            "content": "　　遇有天災、事變或交通上、衛生上或公共安全上有危害情形，非使用或處置其土地、住宅、建築物、物品或限制其使用，不能達防護之目的時，得使用、處置或限制其使用。",
             "relates": {}
         },
         {
@@ -294,78 +294,47 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三十九條": "　　後段「或將限制其使用」之「將」字，係屬贅字，爰予刪除。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "750325",
-            "立法紀錄": "75卷25期1927號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cf81c8cacfcdcacfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "890328",
+            "立法紀錄": "89卷13期3072號 8-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ce81c7c6cecccfcfc4cfcfcfc7c4cfcfcfc7",
+            "主提案": "邱太三",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cfcacfcfc5c8c9d2cecfcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "800524",
-            "立法紀錄": "80卷42期2466號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cf81c7cfcfcbcdcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcacfcfc5ccc6d2c8c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecbcfcfc5cdc6c8d2cdc6c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "801125",
-            "立法紀錄": "80卷96期2520號 254-257頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cf81c7cfcfc6c9cfcfc4cfcdcacbc4cfcdcac8",
+            "會議日期": "890420",
+            "立法紀錄": "89卷21期3080號 429-431頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ce81c7c6cdcecfcfc4cfcbcdc6c4cfcbccce",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810611",
-            "立法紀錄": "81卷49期2577號下冊 232-246頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cf81c7cecfcbc6cfccc4cfcdcccdc4cfcdcbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810617",
-            "立法紀錄": "81卷51期2579號下冊 7-31頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cf81c7cecfcacecfccc4cfcfcfc8c4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "871022",
-            "立法紀錄": "87卷42期2991號上冊 156-264頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cf81c7c8cbcdcfcec4cfcecac9c4cfcdc9cb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcecdcfcec5c8cac7d2c7cbca"
-                ]
-            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "871022",
-            "立法紀錄": "87卷42期2991號上冊 264-274頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cf81c7c8cbcdcfcec4cfcdc9cbc4cfcdc8cb",
-            "關係文書": []
+            "會議日期": "890609",
+            "立法紀錄": "89卷33期3092號上冊 41-43頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ce81c7c6cccccfcec4cfcfcbcec4cfcfcbcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecccfcfc5cbcec9d2cbcec7"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "871022",
-            "立法紀錄": "87卷42期2991號上冊 274-274頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cf81c7c8cbcdcfcec4cfcdc8cbc4cfcdc8cb",
+            "會議日期": "890609",
+            "立法紀錄": "89卷33期3092號上冊 43-43頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ce81c7c6cccccfcec4cfcfcbccc4cfcfcbcc",
             "關係文書": []
         }
     ]
