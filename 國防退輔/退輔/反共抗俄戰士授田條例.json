@@ -1,12 +1,12 @@
 {
     "title": "反共抗俄戰士授田條例",
     "versions": [
-        "中華民國48年4月21日修正",
-        "中華民國48年4月30日公布"
+        "中華民國78年12月12日廢止",
+        "中華民國78年12月27日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -136,37 +136,20 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本條例立法原意係為激勵戰士士氣，然主客觀環境變遷，當年戰士年紀已老，近年來要求解決授田證的呼聲日高，為免舊的「授田證」問題尚未解決，新頒發「授田證」的問題又接踵而來，實應立即廢止本條例，以解決前之問題。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "470429",
-            "立法紀錄": "47卷21期號10冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cacd81cbc8cdcececfc4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcdcfcfc5ccc6ccd2ccc6ca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "480421",
-            "立法紀錄": "48卷23期號10冊 28-30頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cacd81cbc7cdcccecfc4cfcfcdc7c4cfcfcccf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5caccd2caca"
-                ]
-            ]
+            "會議日期": "781212",
+            "立法紀錄": "78卷99期2315號 34-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cacc81c8c7cfc6c6cfcfc4cfcfcccbc4cfcfcccb",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480421",
-            "立法紀錄": "48卷23期號10冊 43-45頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cacd81cbc7cdcccecfc4cfcfcbccc4cfcfcbca",
+            "會議日期": "781212",
+            "立法紀錄": "78卷99期2315號 35-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6cacc81c8c7cfc6c6cfcfc4cfcfcccac4cfcfccca",
             "關係文書": []
         }
     ]
