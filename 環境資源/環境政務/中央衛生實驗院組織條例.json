@@ -1,11 +1,12 @@
 {
     "title": "中央衛生實驗院組織條例",
     "versions": [
-        "中華民國37年3月13日全文修正",
-        "中華民國37年3月26日公布"
+        "中華民國68年3月23日修正",
+        "中華民國68年4月4日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -113,7 +114,7 @@
         {
             "note": "",
             "rule_no": "第十八條",
-            "content": "　　中央衛生實驗院各所組及實驗區，得置醫師、藥劑師、衛生工程師、護士、助產士、衛生工程員及衛生稽查員。",
+            "content": "　　中央衛生實驗院各所組及實驗區，得置醫師、藥師、衛生工程師、護士、助產士、衛生工程員及衛生稽查員。",
             "relates": {}
         },
         {
@@ -163,6 +164,38 @@
             "rule_no": "第二十六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第十八條": "　　將「藥劑師」修正為「藥師」以求法律用語一致。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 10-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c7ca81c9c7c9cccdcccfcfc4cfcfcecfc4cfcfcece",
+            "主提案": "吳延環",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5ccc9cfd2ccc9ce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c7ca81c9c7c9cccdcccfcfc4cfcfcecec4cfcfcece",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "680323",
+            "立法紀錄": "68卷24期1196號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c7ca81c9c7c9cccdcbcfcfc4cfcfcfcac4cfcfcfca",
+            "關係文書": []
         }
     ]
 }
