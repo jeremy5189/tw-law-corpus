@@ -1,17 +1,18 @@
 {
     "title": "律師法",
     "versions": [
-        "中華民國37年12月7日修正",
-        "中華民國38年1月4日公布"
+        "中華民國51年5月25日修正",
+        "中華民國51年6月5日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　中華民國人民經律師考試及格者得充律師。\n　　對於具有左列資格之一者，前項考試以檢覈行之。\n　　一、曾任推事或檢察官者。\n　　二、曾任公立或經立案之大學、獨立學院、專門學校任教授、副教授、講師、講授主要法律科目二年以上者。\n　　三、有法院組織法第三十三條第四款或第三十七條第五款之資格者。\n　　前項檢覈辦法，由考試院會同司法院、行政院定之。",
+            "content": "　　中華民國人民經律師考試及格者得充律師。\n　　有左列資格之一者，前項考試以檢覈行之。\n　　一、曾任推事或檢察官者。\n　　二、曾在公立或經立案之大學、獨立學院、專門學校任教授、副教授、講師、講授主要法律科目二年以上者。\n　　三、有法院組織法第三十三條第四款或第三十七條第五款之資格者。\n　　四、曾在公立或經立案之專科以上學校修習法律學科三年以上畢業，或經軍法官考試及格，而任相當於薦任職軍法官二年以上者。\n　　五、在軍事審判法施行前，曾經修習法律學科二年以上，並任相當於薦任職軍法官四年以上者。\n　　前項檢覈辦法，由考試院會同司法院、行政院定之。",
             "relates": {}
         },
         {
@@ -313,6 +314,61 @@
             "rule_no": "第五十一條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "500228",
+            "立法紀錄": "50卷27期號1冊 83-83頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7ca81cacfcdc8cfcec4cfcfc7ccc4cfcfc7cc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc8cfcecfcfc5cccbced2cccbcd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "510601",
+            "立法紀錄": "51卷29期號11冊 5-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7ca81cacecdc6cecec4cfcfcfcac4cfcfcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc8cfcdcfcfc5cbcacad2cbcac7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "501017",
+            "立法紀錄": "50卷28期號4冊 96-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7ca81cacfcdc7cfcbc4cfcfc6c9c4cfcecfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "510522",
+            "立法紀錄": "51卷29期號10冊 116-118頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7ca81cacecdc6cecfc4cfcecec9c4cfcecec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "510522",
+            "立法紀錄": "51卷29期號10冊 118-119頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7ca81cacecdc6cecfc4cfcecec7c4cfcecec6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "510525",
+            "立法紀錄": "51卷29期號11冊 57-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7ca81cacecdc6cecec4cfcfcac8c4cfcfcac7",
+            "關係文書": []
         }
     ]
 }
