@@ -1,12 +1,12 @@
 {
     "title": "公務人員考試法",
     "versions": [
-        "中華民國75年1月10日制定",
-        "中華民國75年1月24日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月13日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -22,9 +22,9 @@
             "relates": {}
         },
         {
-            "note": "(考試分種)",
+            "note": "(考試種類)",
             "rule_no": "第三條",
-            "content": "　　公務人員考試，分高等考試、普通考試二種。高等考試必要時，得按學歷分級舉行。\n　　為適應特殊需要，得舉行特種考試，分甲、乙、丙、丁四等。",
+            "content": "　　公務人員考試，分高等考試、普通考試二種。高等考試必要時，得按學歷分級舉行。為適應特殊需要，得舉行特種考試，分乙、丙、丁三等。",
             "relates": {}
         },
         {
@@ -106,9 +106,9 @@
             "relates": {}
         },
         {
-            "note": "(甲等考試應考資格)",
+            "note": "(刪除)",
             "rule_no": "第十七條",
-            "content": "　　具有左列資格之一者，得應公務人員特種考試之甲等考試：\n　　一、公立或立案之私立大學研究院、所，或經教育部承認之國外大學研究院、所，得有博士學位，並任專攻學科有關工作二年以上，成績優良，有證明文件者。\n　　二、公立或立案之私立大學研究院、所，或經教育部承認之國外大學研究院、所，得有碩士學位，並任專攻學科有關工作四年以上，成績優良，有證明文件者。\n　　三、曾任公立或立案之私立專科以上學校教授，或曾任副教授三年以上，經教育部審查合格，成績優良，有證明文件者。\n　　四、高等考試及格，並就其錄取類、科，在機關服務六年以上，成績優良，有證明文件者。\n　　五、公立或立案之私立獨立學院以上學校畢業，或經教育部承認之國外獨立學院以上學校畢業，並曾任民選縣（市）長滿六年，成績優良，有證明文件者。\n　　六、公立或立案之私立獨立學院以上學校畢業，或經教育部承認之國外獨立學院以上學校畢業，或高等考試及格，曾任公營事業機構董事長或總經理三年以上，或副總經理六年以上，成績優良，有證明文件者。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -160,100 +160,69 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　刪除「甲」字。",
+        "第十七條": "　　為配合公務人員考試法第三條之修正（刪除甲等特種考試），因此予以刪除。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "720712",
-            "立法紀錄": "72卷56期1645號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cdc8cecac9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
+            "會議日期": "820408",
+            "立法紀錄": "82卷20期2619號上冊 76-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cc81c7cdcdcfcfcec4cfcfc8c9c4cfcfc8c6",
+            "主提案": "盧修一",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc6cfcfc5cec7cbd2cdcfca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecececfcfc5cacbc9d2cacbc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "721214",
-            "立法紀錄": "73卷37期1731號 132-142頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cccfccc8cfcfc4cfcecccdc4cfcecbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "721221",
-            "立法紀錄": "73卷38期1732號 167-174頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cccfccc7cfcfc4cfcec9c8c4cfcec8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "721228",
-            "立法紀錄": "73卷42期1736號 133-134頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cccfcbcdcfcfc4cfceccccc4cfcecccb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740425",
-            "立法紀錄": "74卷61期1859號 143-145頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cbcfc9cecfcfc4cfcecbccc4cfcecbca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741127",
-            "立法紀錄": "75卷21期1923號 150-154頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cacfcdcecfcfc4cfcecacfc4cfcecacb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "741211",
-            "立法紀錄": "75卷23期1925號 125-141頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cacfcdcccfcfc4cfcecdcac4cfcecbce",
+            "會議日期": "820421",
+            "立法紀錄": "82卷26期2625號下冊 415-434頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cc81c7cdcdc9cfccc4cfcbcecac4cfcbcccb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "741227",
-            "立法紀錄": "74卷104期1902號 13-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cbcecfcbcfcfc4cfcfceccc4cfcfcbc9",
+            "會議日期": "821223",
+            "立法紀錄": "82卷75期2674號上冊 37-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cc81c7cdc8cacfcec4cfcfccc8c4cfcfcbcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc6cfcfc5cbccc6d2cbc9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcec9cfcfc5ccc9ccd2ccc9c9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "741227",
-            "立法紀錄": "74卷104期1902號 46-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cbcecfcbcfcfc4cfcfcbc9c4cfcfc9cd",
+            "會議日期": "821223",
+            "立法紀錄": "82卷75期2674號上冊 44-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cc81c7cdc8cacfcec4cfcfcbcbc4cfcfcbca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "741231",
-            "立法紀錄": "75卷1期1903號 12-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cacfcfcecfcfc4cfcfcecdc4cfcfcec7",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 49-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cc81c7cbcfcdcfcfc4cfcfcbc6c4cfcfcacc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "750107",
-            "立法紀錄": "75卷3期1905號 11-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cacfcfcccfcfc4cfcfcecec4cfcfcecb",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cc81c7cbcfcdcfcfc4cfcfc6cec4cfcfc6ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "750110",
-            "立法紀錄": "75卷4期1906號上冊 5-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cd81c8cacfcfcbcfcec4cfcfcfcac4cfcfcfc7",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c8cc81c7cbcfcdcfcfc4cfcfc6cec4cfcfc6ce",
             "關係文書": []
         }
     ]
