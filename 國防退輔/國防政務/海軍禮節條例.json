@@ -1,11 +1,12 @@
 {
     "title": "海軍禮節條例",
     "versions": [
-        "中華民國21年6月11日全文修正",
-        "中華民國21年8月20日公布"
+        "中華民國61年10月31日廢止",
+        "中華民國61年11月11日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -1419,6 +1420,23 @@
             "rule_no": "第二百十四條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　海軍禮節條例為行憲前之立法，內容繁雜陳舊，不僅不合現況，且與人民權利義務無涉，另現行軍人禮節已依「中華民國軍人禮節」為準，故本法已無保留之必要，爰加以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": " ",
+            "立法紀錄": "61卷79期532號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdce81c9cecacfc8c6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": " ",
+            "立法紀錄": "61卷86期539號 12-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdce81c9cecacfc7c9cfcfcfcec4cfcfcecdc4cfcfcecb",
+            "關係文書": []
         }
     ]
 }
