@@ -1,11 +1,11 @@
 {
     "title": "農倉業法施行條例",
     "versions": [
-        "中華民國89年4月28日修正",
-        "中華民國89年5月17日公布"
+        "中華民國89年10月13日廢止",
+        "中華民國89年11月1日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -130,56 +130,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　一、配合臺灣省政府功能業務與組織調整及因應業務實際需要，將省主管機關改為在中央為行政院農業委員會。\n　　二、配合體例，將在直轄市為社會局，修正為在直轄市為直轄市政府。",
-        "第十六條": "　　配合臺灣省政府功能業務與組織調整及因應業務實際需要，刪除省（市）主管機關。"
-    },
+    "deprecated_reason": "　　「農倉業法施行條例」係規定經營者登記應檢付文件、農倉業務規則應載明事項等，該法所規範之事項，已有糧食管理法、農會法及農業發展條例可資運用，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890321",
-            "立法紀錄": "89卷12期3071號上冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6c781c7c6cecdcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "890516",
+            "立法紀錄": "89卷26期3085號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6c681c7c6cdc9cfcfc4cfcfcfccc4cfcfcfcc",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5cac6c9d2c9c9ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccec9cfcfc5cec8cdd2cec7ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890406",
-            "立法紀錄": "89卷17期3076號 181-210頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6c781c7c6cec8cfcfc4cfcec7cec4cfcdcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "890428",
-            "立法紀錄": "89卷21期3080號 68-146頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6c781c7c6cdcecfcfc4cfcfc9c7c4cfcecbc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfc7cfcfc5cac6c9d2c9c8ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "890428",
-            "立法紀錄": "89卷21期3080號 147-147頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6c781c7c6cdcecfcfc4cfcecbc8c4cfcecbc8",
+            "會議日期": "890621",
+            "立法紀錄": "89卷41期3100號下冊 153-166頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6c681c7c6cbcecfccc4cfcecaccc4cfcec9c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "890428",
-            "立法紀錄": "89卷21期3080號 147-147頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6c781c7c6cdcecfcfc4cfcecbc8c4cfcecbc8",
-            "關係文書": []
+            "會議日期": "891013",
+            "立法紀錄": "89卷54期3113號上冊 72-76頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c8c6c681c7c6cacbcfcec4cfcfc8cdc4cfcfc8c9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cacac9d2cac9c9"
+                ]
+            ]
         }
     ]
 }
