@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國81年1月16日修正",
-        "中華民國81年1月29日公布"
+        "中華民國82年2月19日修正",
+        "中華民國82年2月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -114,13 +114,13 @@
         {
             "note": "",
             "rule_no": "第十八條",
-            "content": "　　立法院依憲法第六十七條之規定，設左列委員會：\n　　一、內政委員會。\n　　二、外交委員會。\n　　三、國防委員會。\n　　四、經濟委員會。\n　　五、財政委員會。\n　　六、預算委員會。\n　　七、教育委員會。\n　　八、交通委員會。\n　　九、邊政委員會。\n　　十、僑政委員會。\n　　十一、司法委員會。\n　　十二、法制委員會。\n　　立法院於必要時，得增設其他委員會或特種委員會。",
+            "content": "　　立法院依憲法第六十七條之規定、設左列委員會：\n　　一、內政及邊政委員會。\n　　二、外交及僑政委員會。\n　　三、國防委員會。\n　　四、經濟委員會。\n　　五、財政委員會。\n　　六、預算委員會。\n　　七、教育委員會。\n　　八、交通委員會。\n　　九、司法委員會。\n　　十、法制委員會。\n　　立法院於必要時，得增設其他委員會或特種委員會。\n　　為確保立法權之行使得設專案小組，向行政院及其各部會調閱其所發布之命令及各種有關文件。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　立法院各委員會委員人數，以立法院委員總數除以前條所規定之委員會數，所得之商數加二為最高額。\n　　若參加委員超出前項所定之人數時，則於召集委員選舉前五日，由各該委員會登記之委員抽籤決定之。\n　　每一委員以參加一委員會為限。",
+            "content": "　　立法院各委員會委員人數，以十八人為最高額。\n　　若參加委員超出前項所定之人數時，則於召集委員選舉前五日，由各該委員會登記之委員抽籤決定之。\n　　每一委員以參加一委員會為限。",
             "relates": {}
         },
         {
@@ -203,95 +203,28 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、本條刪除。\n　　二、具備立法委員資格且獲當選委員者，實無必要於立法院中再成立資格審查委員會。",
-        "第十九條": "　　取消各委員會最高額人數限額為九十人之規定。",
-        "第二十條": "　　一、第一段文字內將「其名額以各委員會參加委員人數為比例，十人以下者一人，十一人至二十人者二人，二十一人以上者三人」予以刪除。\n　　二、僅於「各置召集委員」六字之後增加「三人由各委員互選之。」九字，其餘均維持現行條文。",
-        "第二十五條 之一": "　　本條為增訂條文，賦予立法院警衛隊設置依據。",
-        "第二十六條 之二": "　　立委公費助理制度之建立，能提昇立委問政能力，不容有所偏廢，故本法特參考各國立法例與成例，明定每一立委應置五位以上的公費助理，並授權本院對此編列合理的經費預算，以健全國會助理制度。",
-        "第二十七條 之一": "　　本條文明定各政黨立法院黨團辦公室之地位與設置要件，以加速政黨政治之建立。"
+        "第十九條": "　　為因應立法院第二屆立法委員報到，參加各委員會之實際需要，爰修正各委員會參加人數以十八人為最高額。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800705",
-            "立法紀錄": "80卷54期2478號 20-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cfcfcacbcfcfc4cfcfcdcfc4cfcfcbcf",
-            "主提案": "陳水扁",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "800712",
-            "立法紀錄": "80卷56期2480號 27-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cfcfcac9cfcfc4cfcfcdc8c4cfcfcdc6",
-            "主提案": "張志民",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "801206",
-            "立法紀錄": "80卷99期2523號 222-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cfcfc6c6cfcfc4cfcdcdcdc4cfcdcbcc",
-            "主提案": "吳梓等",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "801224",
-            "立法紀錄": "80卷104期2528號 51-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cfcecfcbcfcfc4cfcfcacec4cfcfcace",
-            "主提案": "邱俊男",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "810103",
-            "立法紀錄": "81卷3期2531號 15-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cecfcfcccfcfc4cfcfcecac4cfcfcec6",
-            "主提案": "李友吉",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "810103",
-            "立法紀錄": "81卷3期2531號 24-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cecfcfcccfcfc4cfcfcdcbc4cfcfcdca",
-            "主提案": "陳哲男",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801230",
-            "立法紀錄": "81卷2期2530號 482-501頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cecfcfcdcfcfc4cfcbc7cdc4cfcacfce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810108",
-            "立法紀錄": "81卷5期2533號 341-341頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cecfcfcacfcfc4cfcccbcec4cfcccbce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810115",
-            "立法紀錄": "81卷7期2535號下冊 825-834頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cecfcfc8cfccc4cfc7cdcac4cfc7cccb",
+            "會議日期": "820219",
+            "立法紀錄": "82卷6期2605號 24-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c781c7cdcfc9cfcfc4cfcfcdcbc4cfcfcdc6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "810116",
-            "立法紀錄": "81卷7期2535號上冊 268-273頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cecfcfc8cfcec4cfcdc9c7c4cfcdc8cc",
+            "會議日期": "820219",
+            "立法紀錄": "82卷6期2605號 29-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c781c7cdcfc9cfcfc4cfcfcdc6c4cfcfcccd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "810116",
-            "立法紀錄": "81卷7期2535號上冊 273-274頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c981c7cecfcfc8cfcec4cfcdc8ccc4cfcdc8cb",
+            "會議日期": "820219",
+            "立法紀錄": "82卷6期2605號 32-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8c781c7cdcfc9cfcfc4cfcfcccdc4cfcfccca",
             "關係文書": []
         }
     ]
