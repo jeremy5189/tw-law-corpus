@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國78年7月13日修正",
-        "中華民國78年7月28日公布"
+        "中華民國80年12月31日修正",
+        "中華民國80年12月31日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　立法院會議，須有立法委員總額三分之一出席，始得開會。\n　　前項立法委員總額，以每會期實際報到人數為計算標準。",
+            "content": "　　立法院會議，須有立法委員總額三分之一出席，始得開會。\n　　前項立法委員總額，以每會期實際報到人數為計算標準。但依其他法令規定自願退職、解職或辭職者，應扣除之。",
             "relates": {}
         },
         {
@@ -185,41 +185,29 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　經參考各國議事規則中有關國會議員總額計算標準之規定絕無一定要有過半數之委員出席方可開會之道理，為使議會效率能順利進行，故修正之。"
+        "第五條": "　　依大法官會議釋字第二六一號解釋，未定期改選之立法委員將於八十年十二月三十一日自願退職或解職後，出席會期人數即將減少，且法定開會人數仍將自願退職或解職或辭職者計入，產生不合理之情形，造成人數不足而流會，因此，自八十一年起延會期間，依法退職、解職或辭職者之人數應予扣除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "780713",
-            "立法紀錄": "78卷56期2272號上冊 144-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cc81c8c7cfcac9cfcec4cfcecbcbc4cfcecbcb",
-            "主提案": "林鈺祥",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccccecfcfc5cdcec6d2cdcdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "780713",
-            "立法紀錄": "78卷56期2272號上冊 143-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cc81c8c7cfcac9cfcec4cfcecbccc4cfcecacc",
+            "會議日期": "801231",
+            "立法紀錄": "81卷2期2530號 21-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ca81c7cecfcfcdcfcfc4cfcfcdcec4cfcfcdcc",
+            "主提案": "洪昭男",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "780713",
-            "立法紀錄": "78卷56期2272號上冊 152-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cc81c8c7cfcac9cfcec4cfcecacdc4cfcecacc",
+            "會議日期": "801231",
+            "立法紀錄": "81卷2期2530號 23-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ca81c7cecfcfcdcfcfc4cfcfcdccc4cfcfcdcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "780713",
-            "立法紀錄": "78卷56期2272號上冊 153-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cc81c8c7cfcac9cfcec4cfcecaccc4cfcecacc",
+            "會議日期": "801231",
+            "立法紀錄": "81卷2期2530號 23-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ca81c7cecfcfcdcfcfc4cfcfcdccc4cfcfcdcc",
             "關係文書": []
         }
     ]
