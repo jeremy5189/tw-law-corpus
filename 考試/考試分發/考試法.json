@@ -1,11 +1,11 @@
 {
     "title": "考試法",
     "versions": [
-        "中華民國69年11月7日修正",
-        "中華民國69年11月24日公布"
+        "中華民國75年1月10日廢止",
+        "中華民國75年1月24日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -212,70 +212,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第四條": "　　近年各種考試應考人數日增，而被錄取者，係屬少數，故大規模之考試，如規定所有應考人均應於考前體檢，似造成人力物力之浪費。復因醫療機構人手有限，體檢幾流於形式，為配合實際情形，爰將體檢時間之規定，較具彈性，俾資適應。",
-        "第十二條": "　　近年國內交通發達，大眾傳播工具日益進步而普遍，為縮短辦理高普考試流程，爰將本條規定之高普考試公告期限，酌予縮短一個月。",
-        "第十八條": "　　增列第五款。俾卸任績優之民選縣市長，得應公務人員特種考試之甲等考試，藉予為國服務之機會，爰予以增訂之。"
-    },
+    "deprecated_reason": "　　考試院為建立新人事制度，已實行制定新的公務人員考試法，然依中央法規標準法之規定，同一事項已定有新法規，並公布或發布施行者，舊法規應予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690229",
-            "立法紀錄": "69卷18期1294號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcace81c9c6c9cacec7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
+            "會議日期": "730309",
+            "立法紀錄": "73卷20期1714號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcacd81c8cccfcdcfcfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcdcfcfc5cecec8d2cecdcf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cccfcdcfcfc5ceced2cecd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "690315",
-            "立法紀錄": "69卷47期1323號 62-71頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcace81c9c6c9cacbc8cfcfc4cfcfc9cdc4cfcfc8ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "691008",
-            "立法紀錄": "70卷29期1410號 55-59頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcace81c8cfc9c8cdc6cfcfc4cfcfcacac4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "691020",
-            "立法紀錄": "70卷31期1412號 78-86頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcace81c8cfc9c8cccecfcfc4cfcfc8c7c4cfcfc7c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "691104",
-            "立法紀錄": "69卷89期1365號 8-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcace81c9c6c9c9c7c6cfcfc4cfcfcfc7c4cfcfcec8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cec9cfd2cec9ca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "691104",
-            "立法紀錄": "69卷89期1365號 17-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcace81c9c6c9c9c7c6cfcfc4cfcfcec8c4cfcfcec7",
+            "會議日期": "741230",
+            "立法紀錄": "75卷25期1927號 105-106頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcacd81c8cacfcdcacfcfc4cfcecfcac4cfcecfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "691107",
-            "立法紀錄": "69卷90期1366號 13-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcace81c9c6c9c9c6cfcfcfc4cfcfceccc4cfcfcecb",
+            "會議日期": "750110",
+            "立法紀錄": "75卷4期1906號上冊 8-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcacd81c8cacfcfcbcfcec4cfcfcfc7c4cfcfcecf",
             "關係文書": []
         }
     ]
