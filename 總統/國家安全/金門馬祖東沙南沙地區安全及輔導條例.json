@@ -1,11 +1,11 @@
 {
     "title": "金門馬祖東沙南沙地區安全及輔導條例",
     "versions": [
-        "中華民國83年4月28日修正",
-        "中華民國83年5月11日公布"
+        "中華民國87年5月29日廢止",
+        "中華民國87年6月24日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -118,60 +118,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　一、在第一項「人民」之前加上「臺澎金馬地區」，並取消原先之許可制。\n　　二、第二項新增。軍人身份特殊，因此規定軍人需報備。\n　　三、第三項新增。",
-        "第十四條": "　　一、本條例適用地區長期以來屬戰地政務，地方建設經費嚴重不足，爰修改第一項規定，其建設經費由中央依其實際需要編列預算專款優予補助。\n　　二、將第二、三項全部刪除，另加上第二項。",
-        "第十四條 之一": "　　本條新增。金門馬祖地區於實施戰地政務期間，許多人民的土地糊里糊塗的被登記為國有土地。究其原因，或為政府宣導法令不足，或為人民遠渡他鄉謀生，無法依正常法定程序保障其權益。基於「政府應為人民謀利，而非謀人民之利」的理念，該等土地實有重行辦理土地總登記之必要，以使人民的私有財產得到最有利的保障，爰增定本條規定。",
-        "第十四條 之二": "　　本條新增。過多不必要的軍事管制，對地方建設係一致命傷害，故本條明定國防部應會同有關單位解除不必要之軍事管制，以彰顯終止戰地政務的積極意義。",
-        "第十四條 之三": "　　一、本條新增。\n　　二、目前金門馬祖地區平均所得偏低，國民在憲法中權利被剝奪，為享受應得之權益。為平撫民心，讓民眾有休養生息的機會，應暫緩三年課徵所得稅，爰增定第一項。\n　　三、另增定第二、三項。",
-        "第十五條": "　　本條做文字修正。"
-    },
+    "deprecated_reason": "　　本條例於民國八十一年制定，其背景是取代戒嚴與戰地政務，具有歷史背景及階段性功能。民國八十三年修正，增加數款對當地民眾有利之條文。現其階段任務已完成，並讓金馬地區的發展，回歸民主法治常態，爰將本條例予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830104",
-            "立法紀錄": "83卷3期2677號 31-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cfcd81c7cccfcccfcfc4cfcfcccec4cfcfccca",
-            "主提案": "陳清寶",
+            "會議日期": "860513",
+            "立法紀錄": "86卷25期2917號上冊 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cfcc81c7c9cdcacfcec4cfcfcfccc4cfcfcfcb",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcdcecfcec5cdc6c9d2cccfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcecfcfc5c7c8d2c6cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830112",
-            "立法紀錄": "83卷8期2682號 508-543頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cfcd81c7cccfc7cfcfc4cfcacfc7c4cfcacbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "830428",
-            "立法紀錄": "83卷29期2703號上冊 30-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cfcd81c7cccdc6cfcec4cfcfcccfc4cfcfcbcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccfc8cfcec5ccc8cfd2ccc7cb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "830428",
-            "立法紀錄": "83卷29期2703號上冊 44-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cfcd81c7cccdc6cfcec4cfcfcbcbc4cfcfc9c8",
+            "會議日期": "870325",
+            "立法紀錄": "87卷13期2962號下冊 241-246頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cfcc81c7c8cecccfccc4cfcdcbcec4cfcdcbc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "830428",
-            "立法紀錄": "83卷29期2703號上冊 67-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cfcd81c7cccdc6cfcec4cfcfc9c8c4cfcfc9c8",
-            "關係文書": []
+            "會議日期": "870529",
+            "立法紀錄": "87卷31期2980號中冊 58-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cfcc81c7c8cccecfcdc4cfcfcac7c4cfcfc8ca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacec8cfcfc5c9caced2c9cac8"
+                ]
+            ]
         }
     ]
 }
