@@ -1,11 +1,12 @@
 {
     "title": "邊遠地區服務人員獎勵條例",
     "versions": [
-        "中華民國37年11月23日制定",
-        "中華民國37年12月10日公布"
+        "中華民國89年12月1日廢止",
+        "中華民國89年12月20日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -85,6 +86,51 @@
             "rule_no": "第十三條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　「邊遠地區服務人員獎勵條例」係於三十七年十二月由總統公布，因現行實務已無適用情況，爰予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "881015",
+            "立法紀錄": "88卷44期3044號上冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdc781c7c7cbcbcfcec4cfcfcfccc4cfcfcfcc",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdcac7d2cdcac6"
+                ],
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdc9cbd2cdc9ca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "891019",
+            "立法紀錄": "89卷62期3121號下冊 109-123頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdc781c7c6c9cdcfccc4cfcecfc6c4cfcecdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "891201",
+            "立法紀錄": "89卷68期3127號上冊 29-34頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdc781c7c6c9c7cfcec4cfcfcdc6c4cfcfcccb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecfcfcdc5cbc7cfd2cbc7c6"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "891201",
+            "立法紀錄": "89卷68期3127號上冊 34-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdc781c7c6c9c7cfcec4cfcfcccbc4cfcfccca",
+            "關係文書": []
         }
     ]
 }
