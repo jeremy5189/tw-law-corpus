@@ -1,10 +1,11 @@
 {
     "title": "財政收支劃分法",
     "versions": [
-        "中華民國40年5月29日制定",
-        "中華民國40年6月13日公布"
+        "中華民國42年11月10日",
+        "中華民國42年11月27日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -303,6 +304,47 @@
             "rule_no": "第四十條",
             "content": "　　本法自公佈日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "420908",
+            "立法紀錄": "42卷12期號1冊 49-49頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfca81cbcdcecdcfcec4cfcfcbc6c4cfcfcbc6",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cdcbd2cccf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "421110",
+            "立法紀錄": "42卷12期號4冊 6-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfca81cbcdcecdcfcbc4cfcfcfc9c4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "421030",
+            "立法紀錄": "42卷12期號3冊 69-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfca81cbcdcecdcfccc4cfcfc9c6c4cfcfc8cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cbcccfd2cbccc8"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "421110",
+            "立法紀錄": "42卷12期號4冊 30-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfca81cbcdcecdcfcbc4cfcfcccfc4cfcfccce",
+            "關係文書": []
         }
     ]
 }
