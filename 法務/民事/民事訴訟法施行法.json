@@ -1,8 +1,8 @@
 {
     "title": "民事訴訟法施行法",
     "versions": [
-        "中華民國79年7月17日修正",
-        "中華民國79年8月20日公布"
+        "中華民國88年1月15日修正",
+        "中華民國88年2月3日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第四條 之一",
-            "content": "　　民事訴訟法簡易訴訟程序修正施行後，於修正前已繫屬之事件，其法院管轄權及審理程序依左列之規定：\n　　一、地方法院未為終局裁判者，依新法。\n　　二、地方法院已為終局裁判者，依舊法。",
+            "content": "　　民事訴訟法簡易訴訟及小額訴訟程序修正施行後，於修正前已繫屬之事件，其法院管轄權及審理程序依下列之規定：\n　　一、地方法院未為終局裁判者，依新法。\n　　二、地方法院已為終局裁判者，依舊法。",
             "relates": {}
         },
         {
@@ -55,6 +55,12 @@
             "note": "",
             "rule_no": "第七條",
             "content": "　　修正民事訴訟法施行前訴訟程序中斷、中止、休止，即本法所定當然停止、裁定停止、合意停止。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第七條 之一",
+            "content": "　　民事訴訟法規定之推事，除第二編第二章至第四章已修正者外，一律改稱為法官。",
             "relates": {}
         },
         {
@@ -89,53 +95,61 @@
         }
     ],
     "law_reasons": {
-        "第四條 之一": "　　民事訴訟法關於簡易訴訟程序之範圍、管轄權及審理程序均有重大修正，該修正案施行後，各種簡易事件，如尚在法院審理中，將發生新舊法如何適用之難題，為杜絕爭議，爰於民事訴訟法施行法中增列本條規定，即修正案施行後，簡易訴訟事件尚未經地方法院為終局裁判者，其適用範圍、法院管轄權及審理程序悉依新法，第一審由地方法院獨任推事審理，第二審由地方法院合議庭審理，在例外情形，尚可向最高法院提起第三審上訴，其已經地方法院為終局裁判者，關於適用範圍、法院管轄權及審理程序概依舊法，如依舊法不屬簡易事件者，仍可向高等法院提起第二審上訴，再向最高法院提起第三審上訴，依舊法屬簡易事件者，僅能向高等法院提起第二審上訴，不得再向最高法院提起第三審上訴。"
+        "第四條 之一": "　　一、明定小額訴訟程序公布施行後，其原已繫屬之此類案件適用新法或舊法之基準日，與簡易訴訟程序相同。\n　　二、本條所稱「新法」，係指簡易訴訟程序修正後之法律，所稱「舊法」係指前述訴訟程序修正前之法律。",
+        "第七條 之一": "　　一、本條係新增。\n　　二、為期同一法典用語之一致，爰增訂本條，將民事訴訟法其餘各編、章所規定之推事，一律改稱為法官。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "780414",
-            "立法紀錄": "78卷30期2246號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c7cfcccfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "860509",
+            "立法紀錄": "86卷24期2916號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c9cdcbcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccecccfcfc5c9c6d2cececa"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecacfcfc5cec7ccd2cccbc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "780511",
-            "立法紀錄": "78卷59期2275號 2-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c7cfcac6cfcfc4cfcfcfcdc4cfcfcdcd",
+            "會議日期": "861201",
+            "立法紀錄": "86卷51期2943號下冊 119-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c9cacecfccc4cfcecec6c4cfcec9cf",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "790717",
-            "立法紀錄": "79卷57期2377號上冊 170-214頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c6cfcac8cfcec4cfcec8cfc4cfcdcecb",
+            "進度": "委員會審查",
+            "會議日期": "861208",
+            "立法紀錄": "86卷53期2949號下冊 391-421頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c9cacccfccc4cfccc6cec4cfcbcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "861218",
+            "立法紀錄": "86卷57期2949號下冊 175-201頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c9cac8cfccc4cfcec8cac4cfcdcfce",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7caccc8cfccc5ccc9cad2cbcfc7"
+                    "",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cecfcfcdc5cdc9d2cecac9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "790717",
-            "立法紀錄": "79卷57期2377號上冊 214-214頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c6cfcac8cfcec4cfcdcecbc4cfcdcecb",
+            "會議日期": "880115",
+            "立法紀錄": "88卷6期3006號二冊 635-794頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c7cfc9cfcdc4cfc9cccac4cfc8c6cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "790717",
-            "立法紀錄": "79卷57期2377號上冊 214-215頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cdc681c8c6cfcac8cfcec4cfcdcecbc4cfcdceca",
+            "會議日期": "880115",
+            "立法紀錄": "88卷6期3006號二冊 794-794頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccf81c7c7cfc9cfcdc4cfc8c6cbc4cfc8c6cb",
             "關係文書": []
         }
     ]
