@@ -1,11 +1,12 @@
 {
     "title": "省防空司令部組織條例",
     "versions": [
-        "中華民國33年5月30日制定",
-        "中華民國33年6月16日公布"
+        "中華民國67年10月17日廢止",
+        "中華民國67年10月27日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -61,6 +62,35 @@
             "rule_no": "第九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　省防空司令部於四十七年裁撤，其組織條例已無保留必要，故加以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "670929",
+            "立法紀錄": "67卷78期1146號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcecdca81c9c8c9cdc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5caccd2cac9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671004",
+            "立法紀錄": "67卷101期1169號 71-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcecdca81c9c8c9cdcecfcecfcfc4cfcfc8cec4cfcfc8cd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "671017",
+            "立法紀錄": "67卷83期1151號 7-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcecdca81c9c8c9cdc7cccfcfc4cfcfcfc8c4cfcfcfc6",
+            "關係文書": []
         }
     ]
 }
