@@ -1,7 +1,7 @@
 {
     "title": "預算法",
     "versions": [
-        "中華民國89年11月28日修正",
+        "中華民國89年11月24日修正",
         "中華民國89年12月6日公布"
     ],
     "types": [
@@ -340,9 +340,9 @@
             "relates": {}
         },
         {
-            "note": "(總預算案如不能依期限完成之補救辦法)",
+            "note": "(總預算案之審議如部分未經通過之執行規定)",
             "rule_no": "第五十四條",
-            "content": "　　總預算案之審議，如不能依第五十一條期限完成時，各機關預算之執行，依下列規定為之：\n　　一、收入部分暫依上年度標準及實際發生數，覈實收入。\n　　二、支出部分：\n　　　（一）新興資本支出及新增計畫，須俟本年度預算完成審議程序後始得動支。但依第八十八條規定辦理或經立法院同意者，不在此限。\n　　　（二）前目以外計畫得依已獲授權之原訂計畫或上年度執行數，覈實動支。\n　　三、履行其他法定義務收支。\n　　四、因應前三款收支調度需要之債務舉借，覈實辦理。",
+            "content": "　　總預算案之審議，如有部分未經通過，致總預算全案不能依第五十一條期限完成時，各機關預算之執行，依下列規定為之：\n　　一、收入部分暫依上年度標準及實際發生數，覈實收入。\n　　二、支出部分：\n　　　（一）新興資本支出及新增科目，須俟本年度預算完成審議程序後始得動支。但依第八十八條規定辦理者，不在此限。\n　　　（二）前目以外之科目得依已獲授權之原訂計畫或上年度執行數，覈實動支。\n　　三、履行其他法定義務之收支。\n　　四、因應前三款收支調度需要之債務舉借，覈實辦理。",
             "relates": {}
         },
         {
@@ -639,34 +639,46 @@
         }
     ],
     "law_reasons": {
-        "第五十四條": "　　為避免總預算案之審議因故全部或部分未能通過，致未能依限完成，而使政府施政中輟，爰予以修正，以增加法律彈性。"
+        "第四十一條": "　　各國營事業機關所屬各部門投資或經營之其他機關或捐助之財團法人，僅將編製營運及資金運用計畫送立法院備查。因此立法院並無實際預算審查權，如無適當之監督，不當之轉投資，每每成為圖利少數財團之白手套，故為健全國家財政，落實預算審查權，爰修正本條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "891128",
-            "立法紀錄": "89卷67期3126號上冊 29-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6c981c7c6c9c8cfcec4cfcfcdc6c4cfcfcdc6",
-            "主提案": "國民黨黨團",
+            "會議日期": "881224",
+            "立法紀錄": "89卷2期3061號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6ca81c7c6cfcdcfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "新黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecfcfcec5cbc6c6d2cacfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5c7cfccd2c7cfcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "891128",
-            "立法紀錄": "89卷67期3126號上冊 29-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6c981c7c6c9c8cfcec4cfcfcdc6c4cfcfcccb",
+            "進度": "委員會審查",
+            "會議日期": "891009",
+            "立法紀錄": "89卷57期3116號下冊 263-280頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6ca81c7c6cac8cfccc4cfcdc9ccc4cfcdc7cf",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "891124",
+            "立法紀錄": "89卷66期3125號上冊 123-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6ca81c7c6c9c9cfcec4cfcecdccc4cfcecdc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc6cfcfc5cecdcbd2cecdc7"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "891128",
-            "立法紀錄": "89卷67期3126號上冊 34-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6c981c7c6c9c8cfcec4cfcfcccbc4cfcfcccb",
+            "會議日期": "891124",
+            "立法紀錄": "89卷66期3125號上冊 127-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6ca81c7c6c9c9cfcec4cfcecdc8c4cfcecdc8",
             "關係文書": []
         }
     ]
