@@ -1,10 +1,11 @@
 {
     "title": "經濟部組織法",
     "versions": [
-        "中華民國38年4月19日制定",
-        "中華民國38年5月10日公布"
+        "中華民國53年5月26日修正",
+        "中華民國53年6月9日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -149,14 +150,61 @@
         {
             "note": "",
             "rule_no": "第二十四條",
-            "content": "　　經濟部處務規程以部令定之。",
+            "content": "　　經濟部於必要時，得設各委員會，其組織以法律定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十五條",
+            "content": "　　經濟部處務規程，以部令定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第二十六條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "521213",
+            "立法紀錄": "52卷32期號8冊 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cc81cacdcccdcfc7c4cfcfcbc7c4cfcfcbc7",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccdcfcdcfcfc5cdc6d2ccce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "530526",
+            "立法紀錄": "53卷33期號11冊 15-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cc81cacccccccecec4cfcfcecac4cfcfcec8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccccfcdcfcfc5cec9c7d2cec8ce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "530522",
+            "立法紀錄": "53卷33期號10冊 99-100頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cc81cacccccccecfc4cfcfc6c6c4cfcecfcf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "530526",
+            "立法紀錄": "53卷33期號11冊 20-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cc81cacccccccecec4cfcfcdcfc4cfcfcdcf",
+            "關係文書": []
         }
     ]
 }
