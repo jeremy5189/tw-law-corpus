@@ -1,8 +1,8 @@
 {
     "title": "動物保護法",
     "versions": [
-        "中華民國90年1月2日修正",
-        "中華民國90年1月17日公布"
+        "中華民國90年12月6日修正",
+        "中華民國90年12月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -164,7 +164,7 @@
         {
             "note": "(動物保護檢查人員之設置)",
             "rule_no": "第二十三條",
-            "content": "　　直轄市、縣（市）主管機關應置動物保護檢查人員，並得甄選義務動物保護員，協助動物保護檢查工作。\n　　動物保護檢查人員得出入動物比賽、宰殺、繁殖、買賣、寄養、訓練、動物科學應用等場所，稽查、取締違反本法規定之有關事項。\n　　對於前項稽查、取締，不得規避、拒絕或妨礙。\n　　動物保護檢查人員於執行職務時，應出示身分證明文件，必要時得請警察人員協助。",
+            "content": "　　直轄市、縣（市）主管機關應置動物保護檢查員，並得甄選義務動物保護員，協助動物保護檢查工作。\n　　動物保護檢查員得出入動物比賽、宰殺、繁殖、買賣、寄養、訓練、動物科學應用等場所，稽查、取締違反本法規定之有關事項。\n　　對於前項稽查、取締不得規避、拒絕或妨礙。\n　　動物保護檢查員於執行職務時，應出示身分證明文件。必要時，得請警察人員協助。",
             "relates": {}
         },
         {
@@ -279,75 +279,53 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　保護動物是動物保護法的立法理由，是以不應只關愛有主動物，無主動物也應一併保障。以免落入動物保護法只保障飼主所有權，而枉顧動物生命尊嚴之嫌。",
-        "第十二條": "　　本條第二項前段文字為新增。明文禁止為食用、毛用等目的任意宰殺犬、貓等「寵物類動物」。",
-        "第二十二條": "　　為配合行政程序法之用語，將第二項所定「撤銷」修正為「廢止」。",
-        "第二十八條": "　　為配合行政程序法之用語，將第二項所定「撤銷」修正為「廢止」。"
+        "第二十三條": "　　在人事行政的慣例上，「員」是一個人事編制上的職稱，「人員」則否。因此動物保護檢查人員在編制上是可以由主管機關其它公務人員兼任的，而動物保護檢查員在編制上必須是全職人員，不得由其它公務人員兼任。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890725",
-            "立法紀錄": "89卷48期3107號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cd81c7c6cbc7cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "王幸男",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccccdcfcec5cdc8cfd2cdc8ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891024",
-            "立法紀錄": "89卷57期3116號上冊 16-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cd81c7c6cac8cfcec4cfcfcec9c4cfcfcec9",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cdcaccd2cccfcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891027",
-            "立法紀錄": "89卷58期3117號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cd81c7c6cac7cfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "900320",
+            "立法紀錄": "90卷12期3146號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cc81c6cfcecdcfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "施明德",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc9cfcdc5c9ccc7d2c9cbcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcac5cdcac9d2cdcac6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "891113",
-            "立法紀錄": "89卷69期3128號下冊 256-257頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cd81c7c6c9c6cfccc4cfcdcac9c4cfcdcac8",
+            "會議日期": "900502",
+            "立法紀錄": "90卷32期3166號 75-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cc81c6cfcccdcfcfc4cfcfc8cac4cfcfc7c9",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "900525",
+            "立法紀錄": "90卷30期3164號一冊 101-104頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cc81c6cfcccfcfcec4cfcecfcec4cfcecfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "900102",
-            "立法紀錄": "90卷5期3139號一冊 102-163頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cd81c6cfcfcacfcec4cfcecfcdc4cfcec9cc",
+            "會議日期": "901206",
+            "立法紀錄": "90卷58期3192號一冊 175-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cc81c6cfcac7cfcec4cfcec8cac4cfcec8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcececfcdc5cdc6c8d2cccacd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacececfcbc5c9cfcfd2c9cfcb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "900102",
-            "立法紀錄": "90卷5期3139號一冊 163-163頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cd81c6cfcfcacfcec4cfcec9ccc4cfcec9cc",
+            "會議日期": "901206",
+            "立法紀錄": "90卷58期3192號一冊 179-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec6ccc6cc81c6cfcac7cfcec4cfcec8c6c4cfcec8c6",
             "關係文書": []
         }
     ]
