@@ -1,12 +1,11 @@
 {
     "title": "古物保存法",
     "versions": [
-        "中華民國71年5月18日廢止",
-        "中華民國71年5月26日公布"
+        "中華民國19年5月24日制定",
+        "中華民國19年6月2日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -60,7 +59,7 @@
         {
             "note": "(組織條例之訂定)",
             "rule_no": "第九條",
-            "content": "　　中央古物保管委員會之組織條例另定之。",
+            "content": "　　中央古物保管委員會由行院聘請古物專家，六人至十一人教育部、內政部代表各二人，國立各研究院、國立各博物院代表各一人，為委員組織之。\n　　中央古物保管委員會之組織條例另定之。",
             "relates": {}
         },
         {
@@ -92,32 +91,6 @@
             "rule_no": "第十四條",
             "content": "　　本法施行日期，以命令定之。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　「古物保存法」於二十四年修正公布，迄今已難適應當前需要，為有效保存我國古物、古蹟等有關文物之文化，故制定「文化資產保存法」，並將古物保存法廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "700109",
-            "立法紀錄": "70卷3期1384號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c9cecb81c8cfc9c9cfcccfcfc4cfcfcfcdc4cfcfcfcd",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5cccbced2cccbcd"
-                ],
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5ccc9ced2ccc9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "710518",
-            "立法紀錄": "71卷40期1525號 17-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c9cecb81c8cec9c6cbcfcfcfc4cfcfcec8c4cfcfcec8",
-            "關係文書": []
         }
     ]
 }
