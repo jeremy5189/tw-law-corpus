@@ -1,11 +1,11 @@
 {
     "title": "民國二十五年北平市市政公債條例",
     "versions": [
-        "中華民國25年11月27日制定",
-        "中華民國25年12月1日公布"
+        "中華民國62年5月22日停止適用",
+        "中華民國62年6月5日公布"
     ],
     "types": [
-        "異動條文"
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -73,6 +73,50 @@
             "rule_no": "第十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "610104",
+            "立法紀錄": "61卷2期455號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfccc881c9cecbc7cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610119",
+            "立法紀錄": "61卷43期496號 49-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfccc881c9cecbc6cbcccfcfcfcdc4cfcfcbc6c4cfcfcacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 41-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfccc881c9cecbc6cec6cfcfcfcec4cfcfcbcec4cfcfcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610310",
+            "立法紀錄": "61卷20期473號 2-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfccc881c9cecbc6cdcfcfcfcfcec4cfcfcfcdc4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "630317",
+            "立法紀錄": "61卷22期475號 4-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfccc881c9cecbc6cdcdcfcfcfcec4cfcfcfcbc4cfcfcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "620522",
+            "立法紀錄": "62卷38期594號 11-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcfccc881c9cdcaceccc7cfcfcfcec4cfcfcecec4cfcfcdcd",
+            "關係文書": []
         }
     ]
 }
