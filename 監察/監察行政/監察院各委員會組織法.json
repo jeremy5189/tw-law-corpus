@@ -1,8 +1,8 @@
 {
     "title": "監察院各委員會組織法",
     "versions": [
-        "中華民國42年11月17日修正",
-        "中華民國42年11月30日公布"
+        "中華民國58年12月16日修正",
+        "中華民國58年12月23日公布"
     ],
     "types": [
         "立法歷程",
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　各委員會委員，由監察委員分任之；每一委員以任二委員會委員為限，每一委員會委員人數不得超過三十人。",
+            "content": "　　各委員會委員。由監察委員分任之；每一委員以任三委員會委員為限，每一委員會人數，不得超過三十人。",
             "relates": {}
         },
         {
@@ -79,48 +79,61 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "420908",
-            "立法紀錄": "42卷12期號1冊 50-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfcec4cfcfcacfc4cfcfcacf",
+            "會議日期": "581121",
+            "立法紀錄": "58卷85期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc7cacfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "監察院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5c6cdd2c6cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cbcdcdd2cbcdc6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "421117",
-            "立法紀錄": "42卷12期號4冊 22-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfcbc4cfcfcdcdc4cfcfcdcb",
+            "進度": "一讀",
+            "會議日期": "581205",
+            "立法紀錄": "58卷89期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc7c6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "監察院",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cccbcdd2cccbcb"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cac6c6d2c9cfcf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "421027",
-            "立法紀錄": "42卷12期號3冊 50-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfccc4cfcfcacfc4cfcfcacd",
+            "進度": "委員會審查",
+            "會議日期": "581210",
+            "立法紀錄": "59卷7期號 5-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac6cbcbcfc8cfcfcfcdc4cfcfcfcac4cfcfcecf",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "581216",
+            "立法紀錄": "58卷92期號 2-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc6cdcfcfcfcec4cfcfcfcdc4cfcfcfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5c8cdcbd2c8cdc9"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "421030",
-            "立法紀錄": "42卷12期號3冊 64-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfccc4cfcfc9cbc4cfcfc9c6",
+            "會議日期": "581216",
+            "立法紀錄": "58卷92期號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc6cdcfcfcfcec4cfcfcfcac4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "421117",
-            "立法紀錄": "42卷12期號4冊 45-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9cb81cbcdcecdcfcbc4cfcfcbcac4cfcfcbc9",
+            "會議日期": "581216",
+            "立法紀錄": "58卷92期號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9ccc9ca81cac7cbcbc6cdcfcfcfcec4cfcfcfcac4cfcfcfca",
             "關係文書": []
         }
     ]
