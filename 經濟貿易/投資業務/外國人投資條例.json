@@ -1,12 +1,12 @@
 {
     "title": "外國人投資條例",
     "versions": [
-        "中華民國68年7月17日全文修正",
-        "中華民國68年7月27日公布"
+        "中華民國69年3月25日修正",
+        "中華民國69年4月3日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -30,7 +30,7 @@
         {
             "note": "(投資方式)",
             "rule_no": "第四條",
-            "content": "　　本條例所稱投資，方式如左：\n　　一、單獨或聯合出資，或與中華民國政府、國民或法人共同出資舉辦事業，或增加資本擴展原有事業。\n　　二、對於原有事業之股份或公司債之購買，或為現金、機器設備或原料之借貸。\n　　三、以專門技術或專利權作為股本。\n　　四、以專門技術或專利權合作而不作為股本者，另以法律定之。",
+            "content": "　　本條例所稱投資，其方式如左：\n　　一、單獨或聯合出資，或與中華民國政府、國民或法人共同出資舉辦事業，或增加資本擴展原有事業。\n　　二、對於原有事業之股份或公司債之購買，或為現金、機器設備或原料之借貸。\n　　三、以專門技術或專利權作為股本。\n　　專門技術或專利權不作為股本而合作者，另以法律定之。",
             "relates": {}
         },
         {
@@ -154,79 +154,40 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第四條": "　　擬將第四款改列為第二項並作文字修正如上。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680522",
-            "立法紀錄": "68卷41期1213號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cccbcecfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "690325",
+            "立法紀錄": "69卷25期1301號 3-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cf81c9c6c9cacdcacfcfc4cfcfcfccc4cfcfcfc9",
+            "主提案": "魏壽永",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcacfcfc5c8cbd2cecfcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5c8ccc7d2c8cbce"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "680618",
-            "立法紀錄": "68卷88期1260號 17-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cbc7c7cfcfc4cfcfcec8c4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680621",
-            "立法紀錄": "68卷89期1261號 45-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cbc7c6cfcfc4cfcfcbcac4cfcfcacb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "680625",
-            "立法紀錄": "68卷92期1264號 41-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cbc6cdcfcfc4cfcfcbcec4cfcfcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "680703",
-            "立法紀錄": "68卷53期1225號 10-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cccacccfcfc4cfcfcecfc4cfcfcccd",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "690325",
+            "立法紀錄": "69卷25期1301號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cf81c9c6c9cacdcacfcfc4cfcfcfc9c4cfcfcfc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5ccc6c6d2cbcdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5c9c9c7d2c9c8ce"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "680703",
-            "立法紀錄": "68卷53期1225號 32-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cccacccfcfc4cfcfcccdc4cfcfccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "680706",
-            "立法紀錄": "68卷54期1226號 7-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cccacbcfcfc4cfcfcfc8c4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "680713",
-            "立法紀錄": "68卷56期1228號 3-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cccac9cfcfc4cfcfcfccc4cfcfcfc9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "680717",
-            "立法紀錄": "68卷57期1229號 3-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c8c681c9c7c9cccac8cfcfc4cfcfcfccc4cfcfcfc8",
+            "會議日期": "690325",
+            "立法紀錄": "69卷25期1301號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8ccc8c7cf81c9c6c9cacdcacfcfc4cfcfcfc9c4cfcfcfc9",
             "關係文書": []
         }
     ]
