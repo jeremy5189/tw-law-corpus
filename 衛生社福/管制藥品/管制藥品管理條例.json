@@ -1,8 +1,8 @@
 {
     "title": "管制藥品管理條例",
     "versions": [
-        "中華民國69年6月24日修正",
-        "中華民國69年7月2日公布"
+        "中華民國80年11月7日修正",
+        "中華民國80年11月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -94,15 +94,21 @@
             "relates": {}
         },
         {
-            "note": "(免除其刑)",
+            "note": "(免除其刑、免予記錄)",
             "rule_no": "第十三條 之二",
-            "content": "　　犯前條第二項第四款之罪有癮，於未發覺前自動向檢察機關或司法警察機關請求勒戒，於斷癮後經調驗確已戒絕者，免除其刑。",
+            "content": "　　犯前條第二項第四款之罪有癮，於未發覺前自動向檢察機關或司法警察機關請求勒戒，於斷癮後經調驗確已戒絕者，免除其刑；其未滿十八歲者，免予記錄。",
             "relates": {}
         },
         {
             "note": "(減輕其刑)",
             "rule_no": "第十三條 之三",
             "content": "　　犯第十三條之一第二項各款之罪，供出麻醉藥品來源因而破獲者，得減輕其刑。",
+            "relates": {}
+        },
+        {
+            "note": "(免除其刑並免予感訓處分)",
+            "rule_no": "第十三條 之四",
+            "content": "　　犯第十三條之一第二項第四款或第五款之罪，其麻醉藥品為安非他命，自本條例修正施行之日起三個月內，向法院、檢察機關、司法警察機關或衛生主管機關據實申報並報繳其持有之安非他命，或施打、吸用有癮請求治療，於治療斷癮後經調驗確已戒絕者，免除其刑並免予感訓處分。\n　　前項申報或請求，係向司法警察機關或衛生主管機關為之者，免送法院或檢察機關；其報繳之安非他命，由衛生主管機關逕行銷毀之。",
             "relates": {}
         },
         {
@@ -125,69 +131,67 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　現行條文對管理事項採列舉方式，為免掛漏，爰參照藥物藥商管理法第一條，作文字修正，以求周全。",
-        "第十三條": "　　原定罰則過於籠統；且第二條第四款麻醉藥品並未納入戡亂時期肅清煙毒條例第二條所稱煙毒範圍，適用上難以周全，故將其修正。",
-        "第十三條 之一": "　　一、第二條第一款至第三款之麻醉藥品屬於煙毒範疇，如有違反，可適用戡亂時期肅清煙毒條例等之規定處罰，故第一項概括規定應分別依法處罰，以資配合。\n　　二、本條例第二條第四款「化學合成麻醉藥品類及其製劑」之非法輸入、製造、運輸、販賣、意圖販賣而非法持有，意圖營利而非法為人施打，非法施打、吸用及非法持有，須規定其罰則，爰參酌戡亂時期肅清煙毒條例有關抵癮物品之刑度及物價指數，增訂第二項分款予以明定，以利適用。至於非意圖營利而非法為人施打者，則應視情節構成第四款非法施打、吸用罪之共犯。\n　　三、對非法輸入、製造、運輸、販賣者之未遂犯，自應有處罰必要，爰參照戡亂時期肅清煙毒條例第六條，於第三項予以明定。\n　　四、對於非法施打、吸用有癮者，應由審判機關先行指定相當處所勒戒，其經勒戒斷癮再犯者，自有加重本刑之必要，爰參照戡亂時期肅清煙毒條例第九條第三、五項規定，增訂第四項予以明定。",
-        "第十三條 之二": "　　為激勵自動請求勒戒，改過遷善，爰參照戡亂時期肅清煙毒條例第四條，增訂對於非法施打、吸用有癮者於犯罪未發覺前，自動請求勒戒並確已戒絕者「免除其刑」之規定。",
-        "第十三條 之三": "　　為鼓勵供出來源，俾擴大偵破，以宏效果，爰參照戡亂時期肅清煙毒條例第十一條，增訂供出麻醉藥品來源因而破獲者，「得減輕其刑」之規定。"
+        "第十三條 之二": "　　原條文旨在鼓勵施打或吸用麻醉藥品有癮者，自動請求勒戒。唯「免除其刑」仍會留下前科記錄，故為使誤用之青少年有改過自新機會，爰增列「其未滿十八歲者，免予記錄」。",
+        "第十三條 之四": "　　邇來社會上非法施打、吸用或持有安非他命情況嚴重，為維護國民健康及社會安寧，業將安非他命公告列入麻醉藥品管理條例第二條第四款所定「化學合成類麻醉藥品」管理對違法者，課以刑罰，期能遏止濫用。惟以其中部分青少年學生在不知情情況下發生誤用，初無犯罪之故意，且其亦蒙受禍害，殊堪矜恤；故對於自本條例修正施行之日起三個月內自動申報或請求治療者，允宜從寬處置，並明定報繳之安非他命，由衛生主管機關逕行銷毀之，爰增訂本條文，以資適用。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690516",
-            "立法紀錄": "69卷40期1316號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac781c9c6c9cacbcfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "791211",
+            "立法紀錄": "79卷99期2419號 21-24頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c8c6cfc6c6cfcfc4cfcfcdcec4cfcfcdcb",
+            "主提案": "張俊雄",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cdcdcfcfc5cbcbc6d2cbcace"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "800301",
+            "立法紀錄": "80卷18期2442號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cfcfcec7cfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5cccecad2cccdce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfcdcfcfc5c8ccd2c8c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "690607",
-            "立法紀錄": "69卷63期1339號 2-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac781c9c6c9cac9cccfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "690611",
-            "立法紀錄": "69卷66期1342號 2-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac781c9c6c9cac9c9cfcfc4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "800429",
+            "立法紀錄": "81卷11期2539號 62-66頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cecfcececfcfc4cfcfc9cdc4cfcfc9c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "690624",
-            "立法紀錄": "69卷51期1327號 10-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac781c9c6c9cacacecfcfc4cfcfcecfc4cfcfcec8",
+            "會議日期": "801107",
+            "立法紀錄": "80卷91期2515號 162-171頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cfcfc6cecfcfc4cfcec9cdc4cfcec8ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cdceced2cdceca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cececfcfc5cdc9cbd2cdc8ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "690624",
-            "立法紀錄": "69卷51期1327號 17-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac781c9c6c9cacacecfcfc4cfcfcec8c4cfcfcdca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cdceced2cdceca"
-                ]
-            ]
+            "會議日期": "801107",
+            "立法紀錄": "80卷91期2515號 171-178頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cfcfc6cecfcfc4cfcec8cec4cfcec8c7",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "690624",
-            "立法紀錄": "69卷51期1327號 25-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac781c9c6c9cacacecfcfc4cfcfcdcac4cfcfcdca",
+            "會議日期": "801107",
+            "立法紀錄": "80卷91期2515號 178-178頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8cacac681c7cfcfc6cecfcfc4cfcec8c7c4cfcec8c7",
             "關係文書": []
         }
     ]
