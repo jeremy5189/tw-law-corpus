@@ -1,11 +1,12 @@
 {
     "title": "兵工廠組織條例",
     "versions": [
-        "中華民國20年6月27日全文修正",
-        "中華民國20年7月6日公布"
+        "中華民國71年12月21日廢止",
+        "中華民國71年12月31日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -175,6 +176,42 @@
             "rule_no": "第二十八條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例於二十年修正公布，迄今已五十年，各兵工廠之原有編組，在生產及企業化之管理上，已不能適應需要，且現有兵工廠在編制上係隸屬聯合勤務總司令部，爰經另頒「聯勤兵工生產工廠組織規程」，作為國軍各兵工廠組織及管理之依據，本條例已無存在必要，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "710312",
+            "立法紀錄": "71卷21期1506號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc7c781c8cec9c6cdcecfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfcccfcfc5ccccced2ccccc9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "710426",
+            "立法紀錄": "71卷57期1542號 93-95頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc7c781c8cec9c6cac8cfcfc4cfcfc6ccc4cfcfc6ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711208",
+            "立法紀錄": "72卷15期1604號 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc7c781c8cdc8cfcecacfcfc4cfcfcdc9c4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "711221",
+            "立法紀錄": "71卷102期1587號 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc7c781c8cec8cfcecfcdcfcfc4cfcfcfcac4cfcfcfc9",
+            "關係文書": []
         }
     ]
 }
