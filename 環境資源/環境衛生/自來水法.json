@@ -1,8 +1,8 @@
 {
     "title": "自來水法",
     "versions": [
-        "中華民國84年6月13日修正",
-        "中華民國84年6月29日公布"
+        "中華民國86年4月29日修正",
+        "中華民國86年5月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -324,7 +324,7 @@
         {
             "note": "(用水設備)",
             "rule_no": "第五十條",
-            "content": "　　自來水用水設備，應經自來水事業檢驗合格後，方得供水。\n　　前項用水設備之標準，由省（市）主管機關訂定之。",
+            "content": "　　自來水用戶用水設備，應依用水設備標準裝設，並經自來水事業或由自來水事業委託相關專業團體代為施檢合格，始得供水。\n　　前項用水設備標準，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -727,53 +727,46 @@
         }
     ],
     "law_reasons": {
-        "第十二條 之一": "　　台灣地區水源區民眾因遭劃入水質水量保護區後政府無法予以徵收土地而土地使用有諸多限制，有礙建設繁榮並使生計萎縮，飲水思源，理應協助其地方建設並補貼其禁建、禁墾、禁伐所造成權益受損生計困頓之苦。而水源區之造林保林工作更為保護水源、淨化水質治本之道。"
+        "第五十條": "　　一、近年來，臺灣地區二大自來水事業，台北自來水事業處及台灣省自來水公司，業務繁重、人力不足，管理困難，殊難適應自來水事業檢驗工作，另為配合民間團體，參與政府經濟事務政策，爰將第一項予以修正。\n　　二、第二項用水設備標準之訂定，改由中央主管機關為之，以期劃一。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830607",
-            "立法紀錄": "83卷40期2714號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c781c7cccbcfcfcfc4cfcfcecec4cfcfcece",
-            "主提案": "行政院",
+            "會議日期": "850625",
+            "立法紀錄": "85卷36期2858號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c681c7caccc9cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林政則",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcfcfcdc5ccc8cbd2ccc8c7"
+                    "null",
+                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcecdcbcecfcfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "831003",
-            "立法紀錄": "83卷64期2738號 447-471頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c781c7ccc9cbcfcfc4cfcbcbc8c4cfcbc8ce",
+            "會議日期": "851030",
+            "立法紀錄": "85卷57期2879號 429-435頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c681c7cacac8cfcfc4cfcbcdc6c4cfcbccca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "840105",
-            "立法紀錄": "84卷3期2760號上冊 64-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c781c7cbcfcccfcec4cfcfc9cbc4cfcfc8ce",
+            "會議日期": "860429",
+            "立法紀錄": "86卷21期2913號上冊 52-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c681c7c9cdcecfcec4cfcfcacdc4cfcfcaca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcccfcfc5cdcdccd2cdcdc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccec8cfcfc5cbcecfd2cbcecc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840613",
-            "立法紀錄": "84卷37期2794號 39-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c781c7cbccc8cfcfc4cfcfccc6c4cfcecfcf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "840613",
-            "立法紀錄": "84卷37期2794號 100-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c781c7cbccc8cfcfc4cfcecfcfc4cfcecfcf",
+            "會議日期": "840629",
+            "立法紀錄": "86卷21期2913號上冊 55-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c7c681c7c9cdcecfcec4cfcfcacac4cfcfcaca",
             "關係文書": []
         }
     ]
