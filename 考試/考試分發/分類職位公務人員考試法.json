@@ -1,8 +1,8 @@
 {
     "title": "分類職位公務人員考試法",
     "versions": [
-        "中華民國57年4月26日修正",
-        "中華民國57年5月9日公布"
+        "中華民國58年8月5日修正",
+        "中華民國58年8月25日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,7 +12,7 @@
         {
             "note": "(立法依據)",
             "rule_no": "第一條",
-            "content": "　　本法依公務職位分類法第十一條之規定制定之。",
+            "content": "　　分類職位公務人員之考試，依本法行之。",
             "relates": {}
         },
         {
@@ -24,13 +24,13 @@
         {
             "note": "(應考資格之規定)",
             "rule_no": "第三條",
-            "content": "　　分類職位公務人員考試，依職系分十職等舉行，其應考資格如左：\n　　一、初級中等學校畢業者，得應第一職等考試。\n　　二、高級中等學校畢業者，得應第二職等考試。\n　　三、高級中等學校畢業後，曾受專業訓練一年以上者，得應第三職等考試。\n　　四、專科學校有關學科畢業者，得應第四職等考試。\n　　五、大學有關學系畢業者，得應第五職等考試。\n　　六、大學有關學系畢業，曾受專業訓練一年以上者，得應第六職等考試。\n　　七、研究院、所有關學系畢業，得有碩士學位，得應第七職等考試。\n　　八、得有有關學系碩士學位後，曾具有一年以上專業訓練或經驗者，得應第八職等考試。\n　　九、得有有關學系博士學位，得應第九職等考試。\n　　十、得有有關學系博士學位後，曾具有一年以上專業經驗者，得應第十職等考試。\n　　具有高一職等相同學歷，而未具其訓練年資者，服務滿二年，得應高一職等考試。\n　　未具相當學歷，而有低一職等三年以上之經驗者，得應高一職等考試。但第七職等以上之考試，應並經專科以上學校畢業。\n　　",
+            "content": "　　分類職位公務人員初任考試，依職系分七職等舉行，其應考資格如左：\n　　一、具有國民中學同等學力，得應第一職等考試。\n　　二、國民中學或初級中等學校畢業，或曾任第一職等職務滿三年，考績成績優良者，得應第二職等考試。\n　　三、高級中等學校畢業，或同職等檢定考試及格，或曾任第二職等職務滿三年，考績成績優良者，得應第三職等考試。\n　　四、專科學校有關學科畢業或同職等檢定考試及格者，或曾任第四職等職務滿三年，考績成績優良者，得應第五職等考試。\n　　五、大學有關學系畢業者，得應第六職等考試。\n　　六、研究院、所有關學系畢業，得有碩士學位者，得應第七職等考試。\n　　七、研究院、所有關學系畢業，得有博士學位者，得應第九職等考試。\n　　前項應第三、第五職等考試之檢定考試，其規則由考試院定之。\n　　",
             "relates": {}
         },
         {
             "note": "(考試方式之規定)",
             "rule_no": "第四條",
-            "content": "　　分類職位公務人員考試，依職級規範所規定之需要，得就筆試、口試、測驗、實地考試及著作發明審查等方式，選擇舉行；除筆試得採一種方式外，其他應以二種以上方式行之。",
+            "content": "　　分類職位公務人員考試，依職級規範所規定之需要，得就筆試、口試、測驗、實地考試及著作、發明審查等方式，選擇舉行，除筆試得採一種方式外，其他應以二種以上方式行之。",
             "relates": {}
         },
         {
@@ -52,9 +52,9 @@
             "relates": {}
         },
         {
-            "note": "(考試之合併或分別辦理)",
+            "note": "(職等類科及錄取人數由任用機關定之)",
             "rule_no": "第八條",
-            "content": "　　分類職位公務人員考試，視任用需要、得合併或分別辦理，並得分試舉行。",
+            "content": "　　舉行分類職位公務人員考試，其考試職等、類科及錄取人數，應根據任用機關之需要定之。\n　　前項考試得合併或分別辦理，並得分試舉行。",
             "relates": {}
         },
         {
@@ -109,41 +109,62 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "570402",
-            "立法紀錄": "57卷23期號 1224-1224頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdca81cac8cbcecdcccfcfc4cecdcdcbc4cecdcdcb",
+            "會議日期": "580613",
+            "立法紀錄": "58卷44期號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbcccbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cdc8c7d2cdc7cd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcccfcfc5cac7d2cececb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "570406",
-            "立法紀錄": "57卷36期號 3090-3093頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdca81cac8cbceccc9cfcfc4cccfc6cfc4cccfc6cc",
+            "會議日期": "580709",
+            "立法紀錄": "58卷60期號 9-22頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbccc9cfcfcfcfcdc4cfcfcfc6c4cfcfcdcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580716",
+            "立法紀錄": "58卷66期號 4-12頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbccc9c9cfcfc4cfcfcfcbc4cfcfcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580719",
+            "立法紀錄": "58卷66期號 12-25頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbccc9c9cfcfc4cfcfcecdc4cfcfcdca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "570426",
-            "立法紀錄": "57卷30期號 2704-2706頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdca81cac8cbcecccfcfcfc4cdc8cfcbc4cdc8cfc9",
+            "會議日期": "580729",
+            "立法紀錄": "58卷57期號 5-111頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbcccac8cfcfc4cfcfcfcac4cfcecece",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5c8cecbd2c8cec8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcbcfcfc5cdcfcad2cdc7cb"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "580801",
+            "立法紀錄": "58卷58期號 2-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbcccac7cfcfcfcec4cfcfcfcdc4cfcfcfc8",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "570426",
-            "立法紀錄": "57卷30期號 2706-2706頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdca81cac8cbcecccfcfcfc4cdc8cfc9c4cdc8cfc9",
+            "會議日期": "580805",
+            "立法紀錄": "58卷59期號 2-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbcccac6cfcfcfcec4cfcfcfcdc4cfcfcfcc",
             "關係文書": []
         }
     ]
