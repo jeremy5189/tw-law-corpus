@@ -1,8 +1,8 @@
 {
     "title": "公文程式條例",
     "versions": [
-        "中華民國82年1月18日修正",
-        "中華民國82年2月3日公布"
+        "中華民國93年5月4日修正",
+        "中華民國93年5月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -48,7 +48,7 @@
         {
             "note": "(公文敘述方式及其格式)",
             "rule_no": "第七條",
-            "content": "　　公文得分段敘述，冠以數字，除會計報表、各種圖表或附件譯文，得採由左而右之橫行格式外，應用由右而左直行格式。",
+            "content": "　　公文得分段敘述，冠以數字，採由左而右之橫行格式。",
             "relates": {}
         },
         {
@@ -90,59 +90,59 @@
         {
             "note": "(送達之準用)",
             "rule_no": "第十三條",
-            "content": "　　機關致送人民之公文，得準用民事訴訟法有關送達之規定。",
+            "content": "　　機關致送人民之公文，除法規另有規定外，依行政程序法有關送達之規定。",
             "relates": {}
         },
         {
             "note": "(施行日)",
             "rule_no": "第十四條",
-            "content": "　　本條例自公布日施行。",
+            "content": "　　本條例自公布日施行。\n　　本條例修正條文第七條施行日期，由行政院以命令定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、為確認電傳公文之法律地位，爰於第二項增列「電報交換、電傳文件、傳真或其他電子文件」；又因電腦普遍使用，公告亦得以電子布告方式行之，故並將「除第五款外，」刪除。\n　　二、修正條文第二項末段「其他電子文件」，係指其他利用各種通訊設備，透過電信局之網路傳輸，能於瞬間傳達至收受者之文件」。如交通部電信總局試辦以電子文件交換、電子郵遞傳遞之公文，惟因尚未為各機關所普遍採行，故本條例僅以「其他電子文件」概括之。",
-        "第三條": "　　電報交換及電傳文件，係藉由電傳打字機或電腦終端機，直接將公文傳到收文單位，因此，第一項至第三項之蓋用印信、簽署或蓋章等程序，即無從履行；而電報乃利用電波或電流將文件以明碼或密碼拍發，亦有相同問題，爰增列第五項，明定其得不蓋用印信或簽署。",
-        "第十二條 之一": "　　增訂以電子傳達方式之公文，其制作、傳遞、保管、防偽及保密辦法，由行政院統一訂定之，並增列但書規定，強化電傳公文之公信力。"
+        "第七條": "　　為與國際接軌，並配合公文電腦製作之習慣，以提升公文處理效率，爰修正本條，將公文書寫方式改採由左而右之橫行格式。",
+        "第十三條": "　　九十年一月一日施行之行政程序法對於文書之送達，已有明確之規定，因此，除民事訴訟法、刑事訴訟法、訴願法、行政訴訟法等法規，就有關訴訟文書及相關文書之送達有特別規定外，有關公文之送達，當依行政程式法有關規定辦理，爰配合修正之。",
+        "第十四條": "　　鑒於文書編輯格式變革，除文書作業相關規定需配合修正外，另各機關更新公文製作及公文流程管理系統，亦需時日進行，為使公文橫書工作能同步進行，爰增訂授權行政院視相關作業之進度，訂定其施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800507",
-            "立法紀錄": "80卷37期2461號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac9cbcacccecfcdcf81c7cfcfccc8cfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "920926",
+            "立法紀錄": "92卷40期3314號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac9cbcacccecfcdce81c6cdcbcfcfcec4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcfcfcfc5cacad2cac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfcccfcfc5cacccfd2caccc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "810617",
-            "立法紀錄": "81卷51期2579號下冊 99-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac9cbcacccecfcdcf81c7cecfcacecfccc4cfcfc6c6c4cfcecfcd",
+            "會議日期": "930419",
+            "立法紀錄": "93卷24期3358號下冊 63-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac9cbcacccecfcdce81c6cccdcbcfccc4cfcfc9ccc4cfcfc9ca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "820118",
-            "立法紀錄": "82卷4期2603號中冊 520-526頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac9cbcacccecfcdcf81c7cdcfcbcfcdc4cfcacdcfc4cfcacdc9",
+            "會議日期": "930504",
+            "立法紀錄": "93卷25期3359號上冊 34-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac9cbcacccecfcdce81c6cccdcacfcec4cfcfcccbc4cfcfcbce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcec9cfcec5c8cbced2c8cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacececfcec5cecfd2cec7"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "820118",
-            "立法紀錄": "82卷4期2603號中冊 526-526頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac9cbcacccecfcdcf81c7cdcfcbcfcdc4cfcacdc9c4cfcacdc9",
+            "會議日期": "930504",
+            "立法紀錄": "93卷25期3359號上冊 41-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac9cbcacccecfcdce81c6cccdcacfcec4cfcfcbcec4cfcfcbce",
             "關係文書": []
         }
     ]
