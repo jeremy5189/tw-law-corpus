@@ -1,8 +1,8 @@
 {
     "title": "關務人員人事條例",
     "versions": [
-        "中華民國80年1月17日制定",
-        "中華民國80年2月1日公布"
+        "中華民國82年12月14日修正",
+        "中華民國82年12月31日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -80,7 +80,7 @@
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本條例施行前，已進用之關稅總局暨所屬機關編制內現職人員，具有第五條及第八條之法定任用資格者，依現職改任換敘；未具法定任用資格者，由考試院限期辦理考試，以定其資格；其考試辦法，由考試院定之。未經考試及格者，得繼續任原列職務稱階至離職為止。\n　　前項改任換敘辦法，由考試院會同行政院定之。",
+            "content": "　　本條例施行前，已進用之關稅總局暨所屬機關編制內現職人員，具有第五條及第八條之法定任用資格者，依現職改任換敘；未具法定任用資格者，由考試院限期辦理考試，以定其資格；其考試辦法，由考試院定之。未經考試及格者，得繼續任原列職務官稱至離職為止。\n　　前項改任換敘辦法由考試院會同行政院定之。",
             "relates": {}
         },
         {
@@ -173,82 +173,66 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　本條例適用之對象暨適用法律之次序。",
-        "第二條": "　　本條界定關務人員之意義。",
-        "第三條": "　　揭示關務人員採行之人事制度為官稱、職務分立制。",
-        "第四條": "　　明定關務人員官等職等依照公務人員任用法之規定，並區分關務、技術兩類，參照現制，各分監、正、高員、員及佐五官稱；並明定職務稱階表之訂定權責機關。",
-        "第五條": "　　一、明定關務人員關務類各官稱資格之取得規定。\n　　二、有關關務人員升等考試規則及升等甄審辦法之訂定，參照交通事業人員任用條例第五條規定之成例，規定由考試院會同行政院訂定之。",
-        "第六條": "　　明定關務人員官階之晉升依據。",
-        "第七條": "　　本條參照現行公務人員任用法第二十條規定初任關務人員，須經試用，經延長試用，而仍不及格者，則予解職，以維持其素質。",
-        "第八條": "　　本條規定關務人員技術類各官稱資格之取得準用關務類人員之規定辦理。",
-        "第九條": "　　本條規定財政部關政單位人員與關務人員得互相交流，以使政策之制定與執行更加配合。",
-        "第十條": "　　本條規定人事、主計人員之任用。",
-        "第十一條": "　　本條明定關稅總局暨所屬機關現職人員具法定任用資格者，可依其現職改任換敘；未具法定任用資格者，由考試院限期辦理考試，以定其資格。",
-        "第十二條": "　　本條規定關務人員之資遣適用公務人員任用法有關資遣之規定。",
-        "第十三條": "　　本條規定關務人員得實施調動，以應業務需要。",
-        "第十四條": "　　本條規定關務人員之俸給分本俸、年功俸及加給，並訂定關務人員俸給表一併立法。",
-        "第十五條": "　　本條規定關務人員本俸支給起敘之規定。",
-        "第十六條": "　　本條規定晉升高一官稱人員俸給之換敘，及依第七條試用人員試用期滿之晉敘。",
-        "第十七條": "　　本條明定關務人員之考績，除本條例特別規定者外，其他均適用公務人員考績法之規定。",
-        "第十八條": "　　本條規定關務人員獎懲辦法由行政院會同考試院定之。",
-        "第十九條": "　　本條規定關務人員曾記功或記過者，於功過相抵後，其基本考績之等第。",
-        "第二十條": "　　退休適用公務人員退休法之規定辦理，並比照警察人員管理條例增列特別規定。",
-        "第二十一條": "　　撫卹適用公務人員撫卹法之規定辦理，並比照警察人員管理條例增列特別規定。",
-        "第二十二條": "　　本條明定本條例施行細則訂定之機關。",
-        "第二十三條": "　　明定本條例施行日期。"
+        "第十一條": "　　照現行條文規定將第一項末句「稱階」二字修正為「官稱」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "781024",
-            "立法紀錄": "78卷85期2301號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbcb81c8c7cfc7cacfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院、考試院",
+            "會議日期": "820924",
+            "立法紀錄": "82卷50期2649號上冊 383-385頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbc981c7cdcacfcfcec4cfccc7ccc4cfccc7ca",
+            "主提案": "張俊雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcecfcfcfc5cbc6cbd2cacfcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfcececfc5c9c8c8d2c9c8c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "821004",
+            "立法紀錄": "82卷52期2651號 150-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbc981c7cdcacdcfcfc4cfcecacfc4cfcecacd",
+            "主提案": "郭廷才",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfcdcfcdc5cdc8c7d2cdc7cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "790307",
-            "立法紀錄": "79卷62期2382號 2-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbcb81c8c6cfc9cdcfcfc4cfcfcfcdc4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "790314",
-            "立法紀錄": "80卷43期2467號 434-445頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbcb81c7cfcfcbcccfcfc4cfcbcccbc4cfcbcbca",
+            "會議日期": "821115",
+            "立法紀錄": "82卷67期2666號 118-139頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbc981c7cdc9c8cfcfc4cfcecec7c4cfceccc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "800117",
-            "立法紀錄": "80卷6期2430號上冊 196-212頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbcb81c7cfcfcfc9cfcec4cfcec6c9c4cfcdcecd",
+            "會議日期": "821214",
+            "立法紀錄": "82卷72期2671號 37-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbc981c7cdc8cdcfcfc4cfcfccc8c4cfcfcbcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cccccfcfc5cdc9cdd2cdc8c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcecccfcec5cec8ced2cec8c8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "800117",
-            "立法紀錄": "80卷6期2430號上冊 212-223頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbcb81c7cfcfcfc9cfcec4cfcdcecdc4cfcdcdcc",
+            "會議日期": "821214",
+            "立法紀錄": "82卷72期2671號 43-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbc981c7cdc8cdcfcfc4cfcfcbccc4cfcfcbc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "800117",
-            "立法紀錄": "80卷6期2430號上冊 223-223頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbcb81c7cfcfcfc9cfcec4cfcdcdccc4cfcdcdcc",
+            "會議日期": "821214",
+            "立法紀錄": "82卷72期2671號 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcacbc981c7cdc8cdcfcfc4cfcfcbc7c4cfcfcbc7",
             "關係文書": []
         }
     ]
