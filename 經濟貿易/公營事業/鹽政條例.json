@@ -1,12 +1,12 @@
 {
     "title": "鹽政條例",
     "versions": [
-        "中華民國66年6月28日全文修正",
-        "中華民國66年6月29日公布"
+        "中華民國70年11月6日修正",
+        "中華民國70年11月16日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -26,9 +26,9 @@
             "relates": {}
         },
         {
-            "note": "(管理機關)",
+            "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　鹽之產、製、運、銷，由財政部鹽政機關管理之。",
+            "content": "　　鹽之產、製、運、銷，由經濟部鹽政機關管理之。",
             "relates": {}
         },
         {
@@ -46,7 +46,7 @@
         {
             "note": "(輸出輸入之禁止)",
             "rule_no": "第六條",
-            "content": "　　鹽非經財政部之許可，不得由國外輸入或對外輸出。",
+            "content": "　　鹽非經經濟部之許可，不得由國外輸入或對外輸出。",
             "relates": {}
         },
         {
@@ -56,13 +56,13 @@
         {
             "note": "(採鹽、製鹽之許可)",
             "rule_no": "第七條",
-            "content": "　　鹽非經財政部許可，不得採製或加工製造。",
+            "content": "　　鹽非經經濟部許可，不得採製或加工製造。",
             "relates": {}
         },
         {
             "note": "(產鹽區及產鹽量之核定)",
             "rule_no": "第八條",
-            "content": "　　產鹽區域及每年產鹽之數量，由財政部依全國產銷狀況核定之。",
+            "content": "　　產鹽區域及每年產鹽之數量，由經濟部依全國產銷狀況核定之。",
             "relates": {}
         },
         {
@@ -168,9 +168,9 @@
             "section_name": "第五章  附則"
         },
         {
-            "note": "(施行細則)",
+            "note": "(罰則)",
             "rule_no": "第二十四條",
-            "content": "　　本條例施行細則，由財政部定之。",
+            "content": "　　本條例施行細則，由經濟部定之。",
             "relates": {}
         },
         {
@@ -180,79 +180,65 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　配合鹽政劃歸經濟部主管，修正有關文字。",
+        "第六條": "　　本條係將現行第六條所定「財政部」修正為「經濟部」。",
+        "第七條": "　　本條係將現行第七條所定「財政部」修正為「經濟部」。",
+        "第八條": "　　本條係將現行第八條所定「財政部」修正為「經濟部」。",
+        "第二十四條": "　　本條係將現行第二十四條所定「財政部」修正為「經濟部」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "660513",
-            "立法紀錄": "66卷39期1002號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6ccc6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "700626",
+            "立法紀錄": "70卷51期1432號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c8cacecfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac6cfcccfcfc5c9cbd2c7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc8cfcfc5cec9d2cec7"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "660530",
-            "立法紀錄": "66卷67期1030號 9-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6c9c8cfcfc4cfcfcfc6c4cfcfcecc",
+            "進度": "一讀",
+            "會議日期": "700626",
+            "立法紀錄": "70卷51期1432號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c8cacecfcfc4cfcfcfcbc4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "660601",
-            "立法紀錄": "66卷68期1031號 2-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6c9c7cfcfc4cfcfcfcdc4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660604",
-            "立法紀錄": "66卷70期1033號 5-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6c8cfcfcfc4cfcfcfcac4cfcfcfc7",
+            "會議日期": "701022",
+            "立法紀錄": "70卷102期1483號 114-117頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c7cecfcdcfcfc4cfcececbc4cfcecec8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "660614",
-            "立法紀錄": "66卷48期1011號 6-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6cbc7cfcfc4cfcfcfc9c4cfcfccce",
+            "會議日期": "701106",
+            "立法紀錄": "70卷89期1470號 5-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c7c7c6cfcfc4cfcfcfcac4cfcfcfc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac6cfcbcfcfc5cecbcdd2cec9cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcacfcfc5cecec8d2cecec6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "660614",
-            "立法紀錄": "66卷48期1011號 31-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6cbc7cfcfc4cfcfcccec4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660617",
-            "立法紀錄": "66卷49期1012號 3-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6cbc6cfcfc4cfcfcfccc4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660624",
-            "立法紀錄": "66卷51期1014號 3-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6cacecfcfc4cfcfcfccc4cfcfceca",
+            "會議日期": "701106",
+            "立法紀錄": "70卷89期1470號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c7c7c6cfcfc4cfcfcfc7c4cfcfcfc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "660628",
-            "立法紀錄": "66卷52期1015號 3-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcf81c9c9cac6cacdcfcfc4cfcfcfccc4cfcfcfc9",
+            "會議日期": "701106",
+            "立法紀錄": "70卷89期1470號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cbcdcfcd81c8cfc9c7c7c6cfcfc4cfcfcfc7c4cfcfcfc7",
             "關係文書": []
         }
     ]
