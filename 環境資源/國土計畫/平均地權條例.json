@@ -1,8 +1,8 @@
 {
     "title": "平均地權條例",
     "versions": [
-        "中華民國91年5月14日修正",
-        "中華民國91年5月29日公布"
+        "中華民國93年1月6日修正",
+        "中華民國93年1月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -308,7 +308,7 @@
         {
             "note": "",
             "rule_no": "第四十條",
-            "content": "　　土地增值稅之稅率，依左列規定：\n　　一、土地漲價總數額超過原規定地價或前次移轉時核計土地增值稅之現值數額未達百分之一百者，就其漲價總數額徵收增值稅百分之四十。\n　　二、土地漲價總數額超過原規定地價或前次移轉時核計土地增值稅之現值數額在百分之一百以上未達百分之二百者，除按前款規定辦理外，其超過部分徵收增值稅百分之五十。\n　　三、土地漲價總數額超過原規定地價或前次移轉時核計土地增值稅之現值數額在百分之二百以上者，除按前二款規定分別辦理外，其超過部分徵收增值稅百分之六十。\n　　為促進經濟發展，對於依前項及第四十一條規定稅率計徵之土地增值稅，自本條例中華民國九十一年一月十七日修正施行之日起二年內，減徵百分之五十。\n　　依前項規定減徵造成直轄市及縣（市）政府稅收之實質損失，由中央政府補足之。但不受預算法第二十三條有關公債收入不得充經常支出之用之限制。",
+            "content": "　　土地增值稅之稅率，依左列規定：\n　　一、土地漲價總數額超過原規定地價或前次移轉時核計土地增值稅之現值數額未達百分之一百者，就其漲價總數額徵收增值稅百分之四十。\n　　二、土地漲價總數額超過原規定地價或前次移轉時核計土地增值稅之現值數額在百分之一百以上未達百分之二百者，除按前款規定辦理外，其超過部分徵收增值稅百分之五十。\n　　三、土地漲價總數額超過原規定地價或前次移轉時核計土地增值稅之現值數額在百分之二百以上者，除按前二款規定分別辦理外，其超過部分徵收增值稅百分之六十。\n　　為促進經濟發展，對於依前項及第四十一條規定稅率計徵之土地增值稅，自本條例中華民國九十一年一月十七日修正施行之日起三年內，減徵百分之五十。\n　　依前項規定減徵造成直轄市及縣（市）政府稅收之實質損失，由中央政府補足之。但不受預算法第二十三條有關公債收入不得充經常支出之用之限制。",
             "relates": {}
         },
         {
@@ -679,47 +679,93 @@
         }
     ],
     "law_reasons": {
-        "第十二條": "配合行政程序法有關法律保留原則之精神，明列地籍總歸戶辦法之訂定內容，使授權訂定該辦法之目的、內容及範圍具體明確，以保障人民權益。",
-        "第四十二條 之一": "　　一、第一項酌作標點修正。\n　　二、配合九十年六月二十日修正之第四十二條條文項次之修正，將第二項之「準用前條第三項之規定」修正為「準用前條第四項之規定」，並酌作文字修正。",
-        "第四十六條": "配合土地徵收條例之公布施行及會計年度改為曆年制，為利土地徵收作業之執行，修正土地現值公告之日期為每年一月一日。",
-        "第四十七條 之二": "　　八十九年一月二十六日修正之第四十五條規定有關作農業使用之農業用地移轉與自然人時，得申請不課徵土地增值稅之土地再移轉，於依法應課徵土地增值稅時之原地價，係以修正施行日當期之公告土地現值為準，爰配合刪除第五款。",
-        "第五十六條": "一、第一項酌作文字修正。\n    二、配合行政程序法有關法律保留原則之精神，於第四項明列授權市地重劃實施辦法之訂定內容，使授權訂定該辦法之目的、內容及範圍具體明確，以保障人民權益。",
-        "第五十八條": "一、配合行政程序法有關法律保留原則之精神，明列授權獎勵土地所有權人辦理市地重劃辦法之訂定內容，使授權訂定該辦法之目的、內容及範圍具體明確，以保障人民權益。爰修正第一項，並增訂第二項。\n    二、原第二項遞移為第三項。",
-        "第五十九條": "一、配合土地徵收條例第三十七條，修正第二項文字。\n    二、第一項公告禁止或限制事項係為切合重劃作業各階段實際作業需要，藉以確保重劃成果之分配，爰配合行政程序法第一百零二條規定，增列第三項。",
-        "第八十七條": "增訂第三項。為使土地現值之公告日期由現制之每年七月一日改為每年之一月一日之過程能順利運作，以利直轄市、縣（市）政府辦理相關作業，爰規定第四十六條施行日期，由行政院定之。"
+        "第四十條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc881c6cecdcecfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "910927",
+            "立法紀錄": "91卷57期3253號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc781c6cecac8cfcfc4cfcfcfcbc4cfcfcfca",
+            "主提案": false,
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcdcfcec5cecbc8d2cecacc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "911213",
+            "立法紀錄": "91卷77期3273號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc781c6cec8c8cfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "廖本煙",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecdcfcec5cdcac6d2cdc9cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "920411",
+            "立法紀錄": "92卷19期3293號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc781c6cdcec6cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "魏明谷",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfc8cfcec5cdceced2cdceca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "921024",
+            "立法紀錄": "92卷45期3319號上冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc781c6cdcbcacfcec4cfcfcfc8c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5cbcdccd2cbcccf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5ccc7cad2ccc6cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910502",
-            "立法紀錄": "91卷44期3240號下冊 133-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc881c6cecbcbcfccc4cfceccccc4cfcecacf",
+            "會議日期": "921030",
+            "立法紀錄": "92卷50期3324號下冊 369-409頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc781c6cdcacfcfccc4cfccc9c6c4cfcbcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "921230",
+            "立法紀錄": "93卷2期3336號上冊 233-266頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc781c6cccfcdcfcec4cfcdccccc4cfcdc9c9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfcfc5cac6c9d2c9ccce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "930106",
+            "立法紀錄": "93卷4期3338號上冊 185-187頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc781c6cccfcbcfcec4cfcec7cac4cfcec7c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 112-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc881c6cecccbcfcec4cfcececdc4cfcecdcc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececdcfcec5ccc7ccd2ccc6cb"
-                ]
-            ]
+            "會議日期": "930106",
+            "立法紀錄": "93卷4期3338號上冊 188-188頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcbccc781c6cccfcbcfcec4cfcec7c7c4cfcec7c7",
+            "關係文書": []
         }
     ]
 }
