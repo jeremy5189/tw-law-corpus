@@ -1,11 +1,12 @@
 {
     "title": "民法第三編物權",
     "versions": [
-        "中華民國18年11月19日制定",
-        "中華民國18年11月30日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月16日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -1189,7 +1190,7 @@
         {
             "note": "(占有輔助人)",
             "rule_no": "第九百四十二條",
-            "content": "　　僱用人、學徒或基於其他類似之關係，受他人之指示而對於物有管領之力者，僅該他人為占有人。",
+            "content": "　　受僱人、學徒或基於其他類似之關係，受他人之指示，而對於物有管領之力者，僅該他人為占有人。",
             "relates": {}
         },
         {
@@ -1335,6 +1336,50 @@
             "rule_no": "第九百六十六條",
             "content": "　　財產權，不因物之占有而成立者，行使其財產權之人，為準占有人。\n　　本章關於占有之規定，於前項準占有準用之。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第九百四十二條": "　　將「僱用人」修正為「受僱人」。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "820429",
+            "立法紀錄": "82卷26期2625號上冊 65-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcdcec781c7cdcdc9cfcec4cfcfc9cac4cfcfc9c9",
+            "主提案": "姚嘉文",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecec8cfcfc5c7cccdd2c7cccc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830711",
+            "立法紀錄": "83卷53期2727號 202-203頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcdcec781c7cccacccfcfc4cfcdcfcdc4cfcdcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 46-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcdcec781c7cbcfcdcfcfc4cfcfcbc9c4cfcfcbc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcecfcec5c9cecad2c9cec7"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcdcec781c7cbcfcdcfcfc4cfcfcbc7c4cfcfcbc7",
+            "關係文書": []
         }
     ]
 }
