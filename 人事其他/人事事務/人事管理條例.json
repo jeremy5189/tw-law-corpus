@@ -1,12 +1,11 @@
 {
     "title": "人事管理條例",
     "versions": [
-        "中華民國72年7月12日修正",
-        "中華民國72年7月22日公布"
+        "中華民國31年8月20日制定",
+        "中華民國31年9月2日公布"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -18,13 +17,13 @@
         {
             "note": "(人事處、人事室之設置)",
             "rule_no": "第二條",
-            "content": "　　總統府、五院、各部、會、處、局、署，各省（市）政府，設人事處或人事室。",
+            "content": "　　五院及其直屬之各部會署各省政府及院轄市政府，設置人事處或人事室。",
             "relates": {}
         },
         {
             "note": "(人事室或人事管理員之設置)",
             "rule_no": "第三條",
-            "content": "　　總統府所屬各機關；各部、會、處、局、署所屬各機關；各省（市）政府廳、處、局；各縣（市）政府；各鄉（鎮、市、區）公所等，設人事室或置人事管理員。",
+            "content": "　　國民政府各處局、各部會署附屬機關，各省政府廳處局、各縣市政府等，設置人事室或人事管理員。",
             "relates": {}
         },
         {
@@ -36,7 +35,7 @@
         {
             "note": "(處長職等及設置)",
             "rule_no": "第五條",
-            "content": "　　人事處置處長，職位列第十至第十二職等；人事室置主任，其職位之列等分為第六至第九或第十或第十一職等；人事管理員，職位列第五至第七職等。\n　　前項人事室主任列等標準，由考試院會同行政院定之。\n　　未實施職位分類之機關，比照第一項規定辦理。本條例修正施行前，各機關組織法規所定人事人員之職稱、職等，與本條例規定不符者，悉依本條之規定辦理。",
+            "content": "　　人事處設處長，簡任。人事室設主任，薦任或委任，人事管理員委任。\n　　人事處得分科，人事室得分股辦事。科長薦任，科員、助理員均委任。\n　　人事處處長，人事室主任及人事管理員為主管人員，餘為佐理人員。",
             "relates": {}
         },
         {
@@ -74,79 +73,6 @@
             "rule_no": "第十一條",
             "content": "　　本條例施行日期及實施機關，以命令定之。",
             "relates": {}
-        }
-    ],
-    "law_reasons": {
-        "第二條": "　　行憲後國民政府改組，機關增設，事權變遷，為因應現況需要爰予修正。",
-        "第三條": "　　文字修正。「國民政府」改為「總統府」；「省政府」改為「省（市）政府」。",
-        "第五條": "　　依主計機構人員設置管理條例規定，部分主計人員職等提高，同級機關人事人員職等亦應求其平衡，爰予修正。"
-    },
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "720607",
-            "立法紀錄": "72卷46期1635號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7cbccca81c8cdc8cecbc9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc8cfcfc5cdc7c6d2cdc6ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "720614",
-            "立法紀錄": "72卷48期1637號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7cbccca81c8cdc8cecbc7cfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc8cfcfc5c6cccfd2c6ccce"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720613",
-            "立法紀錄": "72卷92期1681號 118-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7cbccca81c8cdc8cdc6cdcfcfc4cfcecec7c4cfcecdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720620",
-            "立法紀錄": "72卷98期1687號 163-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7cbccca81c8cdc8cdc6c7cfcfc4cfcec9ccc4cfcec9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "720708",
-            "立法紀錄": "72卷55期1644號 28-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7cbccca81c8cdc8cecacacfcfc4cfcfcdc7c4cfcfcccb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc7cfcfc5c7cacfd2c7caca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "720708",
-            "立法紀錄": "72卷55期1644號 34-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7cbccca81c8cdc8cecacacfcfc4cfcfcccbc4cfcfccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "720712",
-            "立法紀錄": "72卷56期1645號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7cbccca81c8cdc8cecac9cfcfc4cfcfcfc9c4cfcfcfc8",
-            "關係文書": []
         }
     ]
 }
