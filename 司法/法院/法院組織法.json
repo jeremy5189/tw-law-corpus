@@ -1,10 +1,11 @@
 {
     "title": "法院組織法",
     "versions": [
-        "中華民國34年12月29日修正",
-        "中華民國35年1月17日公布"
+        "中華民國57年12月10日修正",
+        "中華民國57年12月19日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -423,7 +424,7 @@
         {
             "note": "",
             "rule_no": "第六十三條",
-            "content": "　　法庭於法院內開之。但法律別有規定者，不在此限。",
+            "content": "　　法庭開庭，於法院內為之。但法律別有規定者，不在此限。\n　　法院內開庭時，在法庭實施訴訟程序之公務員及依法執行職務之人，訴訟當事人與訴訟關係人，均應設置席位。\n　　除參與審判之推事，或經審判長許可者外，在庭之人陳述時，起立，陳述後復坐。\n　　審判長蒞庭及宣示判決時，在庭之人，均應起立。\n　　法庭席位佈置及旁聽規則，由司法行政部定之。",
             "relates": {}
         },
         {
@@ -613,6 +614,61 @@
             "rule_no": "第九十一條",
             "content": "　　關於推事、檢察官、書記官、通譯之任用程序，除本法有規定者外，適用公務人員任用法之規定。\n　　關於法醫師、檢驗員之任用，適用技術人員任用條例之規定。\n　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "510810",
+            "立法紀錄": "51卷29期號18冊 65-83頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cacecdc6cec7c4cfcfc9cac4cfcfc7cc",
+            "主提案": "吳延環",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc6cfcccfcfc5cacbcfd2cacbcd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "571220",
+            "立法紀錄": "57卷95期號 9-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcdc6cacfcfcfcec4cfcfcfc6c4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "570726",
+            "立法紀錄": "57卷56期號 13-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcecac9cfcfcfcec4cfcfceccc4cfcfcecc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc7cfcecfcfc5c9c6cbd2c9c6c8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "571206",
+            "立法紀錄": "57卷91期號 7-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcdc6cecfcfcfcec4cfcfcfc8c4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "571206",
+            "立法紀錄": "57卷91期號 15-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcdc6cecfcfcfcec4cfcfcecac4cfcfcec9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "571210",
+            "立法紀錄": "57卷92期號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccec6c781cac8cbcdc6cdcfcfcfcec4cfcfcfccc4cfcfcfcb",
+            "關係文書": []
         }
     ]
 }
