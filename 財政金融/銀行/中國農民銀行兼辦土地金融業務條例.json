@@ -1,11 +1,12 @@
 {
     "title": "中國農民銀行兼辦土地金融業務條例",
     "versions": [
-        "中華民國30年8月9日制定",
-        "中華民國30年9月5日公布"
+        "中華民國61年10月31日廢止",
+        "中華民國61年11月11日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -61,6 +62,30 @@
             "rule_no": "第九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例係於三十年公布施行，茲以中國農民銀行係農業專業銀行，為促進銀行專業化，該行不兼辦土地金融業務，本條例已不適用，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "611003",
+            "立法紀錄": "61卷79期532號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c8c981c9cecacfc8c6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "611014",
+            "立法紀錄": "61卷94期547號 14-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c8c981c9cecacfc6cbcfcfcfcdc4cfcfcecbc4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "611031",
+            "立法紀錄": "61卷86期539號 15-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c8c981c9cecacfc7c9cfcfcfcec4cfcfcecac4cfcfcec6",
+            "關係文書": []
         }
     ]
 }
