@@ -1,8 +1,8 @@
 {
     "title": "職能治療師法",
     "versions": [
-        "中華民國88年11月30日修正",
-        "中華民國88年12月22日公布"
+        "中華民國92年1月3日修正",
+        "中華民國92年1月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -132,7 +132,7 @@
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　職能治療所之設立，應以職能治療師為申請人，向所在地直轄市或縣（市）衛生主管機關申請核准登記，發給開業執照，始得為之。\n　　前項申請設立職能治療所之職能治療師，須在中央衛生主管機關指定之醫療機構執行業務二年以上，始得為之。\n　　職能治療所設置標準，由中央衛生主管機關定之。",
+            "content": "　　職能治療所之設立，應以職能治療師為申請人，向所在地直轄市或縣（市）衛生主管機關申請核准登記，發給開業執照，始得為之。\n　　前項申請設立職能治療所之職能治療師，須在中央衛生主管機關指定之醫療機構執行業務二年以上，始得為之。\n　　職能治療所設置標準，由中央衛生主管機關定之。\n　　第二項執行業務年資之採計，以領有職能治療師證書並依法向直轄市、縣（市）衛生主管機關辦理執業登記者為限。但於本法公布施行前已執行業務者，其實際服務年資得併予採計。",
             "relates": {}
         },
         {
@@ -145,6 +145,12 @@
             "note": "",
             "rule_no": "第二十一條",
             "content": "　　職能治療所名稱之使用或變更，應經衛生主管機關核准。\n　　非職能治療所，不得使用職能治療所或類似之名稱。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第二十一條 之一",
+            "content": "　　職能治療所不得使用下列名稱：\n　　一、在同一直轄市或縣（市）區域內，他人已登記使用之職能治療所名稱。\n　　二、在同一直轄市或縣（市）區域內，與被廢止開業執照或受停業處分之職能治療所相同或類似之名稱。\n　　三、易使人誤認其與政府機關、公益團體有關或有妨害公共秩序或善良風俗之名稱。",
             "relates": {}
         },
         {
@@ -308,7 +314,7 @@
         {
             "note": "",
             "rule_no": "第四十七條",
-            "content": "　　職能治療師公會分省（市）公會，並得設職能治療師公會全國聯合會於中央政府所在地。",
+            "content": "　　職能治療師公會分省（市）公會，並得設職能治療師公會全國聯合會於中央政府所在地。\n　　職能治療師公會會址，應設於各該公會主管機關所在地區。但經各該主管機關核准者，不在此限。",
             "relates": {}
         },
         {
@@ -339,6 +345,12 @@
             "note": "",
             "rule_no": "第五十二條",
             "content": "　　理事、監事任期均為三年，其連選連任者不得超過二分之一；理事長之連任，以一次為限。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第五十二條 之一",
+            "content": "　　上級職能治療師公會理事、監事之當選，不以下級職能治療師公會選派參加之會員代表為限。\n　　下級職能治療師公會選派參加上級職能治療師公會之會員代表，不以該下級職能治療師公會之理事、監事為限。",
             "relates": {}
         },
         {
@@ -401,55 +413,78 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　為配合臺灣省政府功能業務與組織之調整，將條文中之「省政府衛生處」刪除。另將直轄市衛生主管機關之層級提升為「直轄市政府」，以與地方制度法將地方自治團體之組織列為其自治事項之立法意旨相配合。",
-        "第二十六條": "　　將原由省衛生主管機關核定職能治療所之收費標準，改由縣（市）衛生主管機關核定。",
-        "第五十四條": "　　「地方衛生主管機關」僅直轄市及縣（市）有之，並配合本法其他條文之用語修正。"
+        "第十九條": "　　增列第四項，配合行政程序法之施行，將職能治療所設置標準第六條有關申請設立職能治療所之職能治療師年資採計規定移列修正。",
+        "第二十一條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將本法施行細則第十二條規定移列修正。",
+        "第四十七條": "　　一、原條文未修正，列為第一項。\n　　二、配合行政程序法之施行，將本法施行細則第十八條規定移列修正。",
+        "第五十二條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將本法施行細則第十九條、第二十條規定移列。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881029",
-            "立法紀錄": "88卷46期3046號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c981c7c7cbc9cfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "920103",
+            "立法紀錄": "91卷33期3229號上冊 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c881c6cecccccfcec4cfcfcecec4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc9cfcec5cec6cbd2cec6c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2c8"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5cec9cdd2cec9cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881125",
-            "立法紀錄": "88卷55期3055號下冊 223-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c981c7c7cacacfccc4cfcdcdccc4cfcdcccf",
+            "會議日期": "911223",
+            "立法紀錄": "92卷6期3280號上冊 84-104頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c881c6cdcfc9cfcec4cfcfc7cbc4cfcecfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 165-167頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c981c7c7cacdcfcec4cfcec9cac4cfcec9c8",
+            "會議日期": "920103",
+            "立法紀錄": "92卷5期3279號一冊 138-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c881c6cdcfcacfcec4cfceccc7c4cfcecbce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5c8cfd2c8cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec9cfcdc5cbc7c7d2cbc6cc"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec9cfcdc5cbc6c7d2cacfcf"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "920103",
+            "立法紀錄": "92卷5期3279號一冊 145-147頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c881c6cdcfcacfcec4cfcecbcac4cfcecbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "920103",
+            "立法紀錄": "92卷5期3279號一冊 158-159頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c881c6cdcfcacfcec4cfcecac7c4cfcecac6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 167-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c981c7c7cacdcfcec4cfcec9c8c4cfcec9c7",
+            "會議日期": "920103",
+            "立法紀錄": "92卷5期3279號一冊 160-161頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c881c6cdcfcacfcec4cfcec9cfc4cfcec9ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 168-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c981c7c7cacdcfcec4cfcec9c7c4cfcec9c7",
+            "會議日期": "920103",
+            "立法紀錄": "92卷5期3279號一冊 161-161頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6c8c881c6cdcfcacfcec4cfcec9cec4cfcec9ce",
             "關係文書": []
         }
     ]
