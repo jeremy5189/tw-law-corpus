@@ -1,12 +1,12 @@
 {
     "title": "印花稅法",
     "versions": [
-        "中華民國67年6月23日全文修正",
-        "中華民國67年7月5日公布"
+        "中華民國68年11月23日修正",
+        "中華民國68年12月5日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -74,9 +74,9 @@
             "relates": {}
         },
         {
-            "note": "(印花稅票)",
+            "note": "(尾數計算)",
             "rule_no": "第九條",
-            "content": "　　依本法規定稅率實貼印花稅票，其稅額不足通用貨幣一元者，一律按通用貨幣一元計貼；彙總繳納之稅額尾數不足通用貨幣一元者亦同。",
+            "content": "　　印花稅以計至通用貨幣元為止。凡按件實貼印花稅票者，如每件依稅率計算之印花稅額不足通用貨幣一元及每件稅額尾數不足通用貨幣一元之部分，均免予貼用。經核准彙總繳納印花稅者，如彙總繳納稅額不足通用貨幣一元及應納稅額尾數不足通用貨幣一元之部分，均免予繳納。",
             "relates": {}
         },
         {
@@ -168,7 +168,7 @@
         {
             "note": "(漏貼貼用不足額或不依限繳納之處罰)",
             "rule_no": "第二十三條",
-            "content": "　　違反第八條第一項、第九條或第十二條至第二十條之規定，不貼印花稅票或貼用不足稅額者，除補貼印花稅票外，按漏貼稅額處五倍至十五倍罰鍰。\n　　以總繳方式完納印花稅，逾期繳納者，應依稅捐稽徵法第二十條之規定處理；逾三十日仍未繳納者，除由稽徵機關移送法院強制執行外，並依情節輕重，按滯納之稅額處一倍至五倍罰鍰。\n　　違反第四條之規定者，除漏稅部分依第一項處罰外，應按情節輕重，處一千元以下罰鍰。",
+            "content": "　　違反第八條第一項或第十二條至第二十條之規定，不貼印花稅票或貼用不足稅額者，除補貼印花稅票外，按漏貼稅額處五倍至十五倍罰鍰。\n　　以總繳方式完納印花稅，逾期繳納者，應依稅捐稽徵法第二十條之規定處理；逾三十日仍未繳納者，除由稽徵機關移送法院強制執行外，並依情節輕重，按滯納之稅額處一倍至五倍罰鍰。\n　　違反第四條之規定者，除漏稅部分依第一項處罰外，應按情節輕重，處一千元以下罰鍰。",
             "relates": {}
         },
         {
@@ -224,79 +224,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第九條": "　　依現行條文規定，實貼印花稅票及彙總繳納之稅額尾數，不足通用貨幣一元者，應予計貼或繳納，旨在簡化便民。惟實施以後，對原應繳納不足一元之納稅義務人，均應一律按一元計納，稅負較前加重，外界多有反應。為簡化稽徵，以達便民利課之目的，爰將不足一元之畸零應納稅額，免除其納稅義務，並作文字修正，以資適應。",
+        "第二十三條": "　　本案印花稅法第九條修正後，違反印花稅法第九條已無罰則可言，爰將本條第一項條文中「第九條」三字刪除，以資配合。本項未修正。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "670418",
-            "立法紀錄": "67卷31期1099號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cecccecfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "680522",
+            "立法紀錄": "68卷41期1213號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdca81c9c7c9cccec9cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcccfcfc5c9c8d2cececf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcacfcfc5c8cfd2c8cc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "670508",
-            "立法紀錄": "67卷58期1126號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cecac7cfcfc4cfcfcfcdc4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670529",
-            "立法紀錄": "67卷70期1138號 11-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cec8cfcfcfc4cfcfcecec4cfcfcccf",
+            "會議日期": "681008",
+            "立法紀錄": "69卷10期1286號 25-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdca81c9c6c9cbcecfcfcfc4cfcfcdcac4cfcfcdc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "670602",
-            "立法紀錄": "67卷44期1112號 2-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cecbcbcfcfc4cfcfcfcdc4cfcfcbcd",
+            "會議日期": "681123",
+            "立法紀錄": "68卷94期1266號 3-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdca81c9c7c9cbc6cbcfcfc4cfcfcfccc4cfcfcfc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcbcfcfc5cacbc6d2cac7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcdcfcfc5c8cbcdd2c8cbca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "670602",
-            "立法紀錄": "67卷44期1112號 42-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cecbcbcfcfc4cfcfcbcdc4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670606",
-            "立法紀錄": "67卷45期1113號 2-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cecbcacfcfc4cfcfcfcdc4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670609",
-            "立法紀錄": "67卷46期1114號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cecbc9cfcfc4cfcfcfcdc4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "670620",
-            "立法紀錄": "67卷49期1117號 3-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cecbc6cfcfc4cfcfcfccc4cfcfcecd",
+            "會議日期": "681123",
+            "立法紀錄": "68卷94期1266號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdca81c9c7c9cbc6cbcfcfc4cfcfcecec4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "670623",
-            "立法紀錄": "67卷50期1118號 3-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdcb81c9c8c9cecacfcfcfc4cfcfcfccc4cfcfcecd",
+            "會議日期": "681123",
+            "立法紀錄": "68卷94期1266號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cdca81c9c7c9cbc6cbcfcfc4cfcfcecdc4cfcfcecd",
             "關係文書": []
         }
     ]
