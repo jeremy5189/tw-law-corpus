@@ -1,11 +1,11 @@
 {
     "title": "中央衛生實驗院組織條例",
     "versions": [
-        "中華民國68年3月23日修正",
-        "中華民國68年4月4日公布"
+        "中華民國89年12月1日廢止",
+        "中華民國89年12月20日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -166,36 +166,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十八條": "　　將「藥劑師」修正為「藥師」以求法律用語一致。"
-    },
+    "deprecated_reason": "　　「中央衛生實驗院組織條例」係民國三十年九月經國民政府公布施行，三十七年修正全文，六十八年四月經總統令修正公布第十八條，該院迄今並未成立。爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680320",
-            "立法紀錄": "68卷23期1195號 10-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c7ca81c9c7c9cccdcccfcfc4cfcfcecfc4cfcfcece",
-            "主提案": "吳延環",
+            "會議日期": "890321",
+            "立法紀錄": "89卷12期3071號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c7c981c7c6cecdcfcec4cfcfcfcac4cfcfcfca",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5ccc9cfd2ccc9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcecfcdc5cbcbcbd2cbcace"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "680320",
-            "立法紀錄": "68卷23期1195號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c7ca81c9c7c9cccdcccfcfc4cfcfcecec4cfcfcece",
+            "進度": "委員會審查",
+            "會議日期": "891019",
+            "立法紀錄": "89卷62期3121號下冊 125-133頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c7c981c7c6c9cdcfccc4cfcecdcac4cfcecccc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680323",
-            "立法紀錄": "68卷24期1196號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c7ca81c9c7c9cccdcbcfcfc4cfcfcfcac4cfcfcfca",
-            "關係文書": []
+            "會議日期": "891201",
+            "立法紀錄": "89卷68期3127號上冊 21-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c7c981c7c6c9c7cfcec4cfcfcdcec4cfcfcdc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecfcfcdc5cbc9cdd2cbc8c7"
+                ]
+            ]
         }
     ]
 }
