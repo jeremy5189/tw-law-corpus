@@ -1,8 +1,8 @@
 {
     "title": "廣播電視法",
     "versions": [
-        "中華民國71年5月25日修正",
-        "中華民國71年6月7日公布"
+        "中華民國82年7月14日修正",
+        "中華民國82年8月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -142,9 +142,9 @@
             "relates": {}
         },
         {
-            "note": "(播音語言以國語為主)",
+            "note": "(刪除)",
             "rule_no": "第二十條",
-            "content": "　　電臺對國內廣播播音語言應以國語為主，方言應逐年減少；其所應占比率，由新聞局視實際需要定之。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -369,118 +369,73 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、本條第一款至第八款均未修正。\n　　二、推廣觀念為廣告之重要內容，爰於第九款廣告釋義中增列觀念一項以應實際需要；由於目前廣播電視事業之關係企業過多，其所播廣告，實際上均收取報酬，???諉稱並未收取，因而滋生對廣告認定之疑義，如此嚴重影響計算廣告時間標準，亦引起觀、聽眾感覺廣告太多之詬病，爰刪除同款關於廣告須收取報酬之規定，修改後對於正常商業廣告毫無影響，對於一些暗盤違規商業廣告，則有遏止效果。\n　　三、自錄放影機興起之後，錄影節目帶日益普遍，為期其有效健全發展，特將之納入本法管理範圍，爰於本條增列第十款釋明錄影節目帶之定義。\n　　四、增列第十一款釋明廣播電視節目供應事業係指經營、策劃、製作、發行或託播廣播電視節目、廣告、錄影節目帶之事業，以資明確。",
-        "第三條": "　　修正第一項增訂廣播電視節目供應事業之主管機關為行政院新聞局，以利適用。",
-        "第四條": "　　電波頻率之借貸行為，應予禁止，故將本條第二項之「出租」修正為「租賃、借貸」，以資防制。",
-        "第十四條 之一": "　　一、本條新增。\n　　二、廣播、電視事業所使用之電波頻率屬於國家所有，為達成本法第一條所揭示管理及輔導廣播及電視事業之目的，特明定廣播、電視事業經營有盈餘時，應將部分盈餘充作提高廣播、電視事業水準及發展公共電視之基金，以符取之於社會、用之於社會之旨，其管理、運用辦法則由新聞局擬訂，報請行政院核定之。",
-        "第二十九條 之一": "　　一、本條新增。\n　　二、為期有效輔導廣播電視節目供應事業之健全發展，明定其設立須先經新聞局許可。另由於目前公開發行錄影節目帶之情形日益普遍，為防杜其供應不良節目，並提高製作水準，明定其節目內容及有關管理事項，準用本法第二十一條、第二十五條、第二十八條及第三十四條之規定，以利適用。",
-        "第三十三條": "　　經審查許可廣告，每日均在電視之節目中播映，常因客觀環境因素，引起各界不良反應，增加困擾，爰於第一項後段增列因客觀環境變遷得調回複審之規定，以利適用。",
-        "第四十二條": "　　一、第二款中增加違反本法「第三十三條第一項」之規定。\n　　二、新增電臺播送廣告未與節目明顯分開，或廣告未經送審，或經許可之廣告內容有所變更，而其情節輕微者，予以警告，其情節重大或經警告不予改正或在一年內再犯者，則依第四十三條規定處分之。",
-        "第四十三條": "　　一、本法所定罰鍰之單位為元，原為便於計算，一律改定為新臺幣。嗣以本法為國家之基本法律，非屬於地區性者，故在再修正草案中，將新臺幣一律折算改為國幣。\n　　二、劃分廣播事業與電視事業之罰鍰標準，並於同條增列第二項，明定廣播電視事業因播送違反規定之節目或廣告致受罰鍰處分者，並得停止該一節目或廣告之播送；另配合修正提高第四十四條之罰鍰額度，以應需要。",
-        "第四十四條": "　　由於第四十三條罰則加重，本條所列情形重於前項比例，酌予修正提高，以資配合；罰鍰亦改以新臺幣為單位。",
-        "第四十五條 之一": "　　一、本條新增。\n　　二、規定未依法定程序架設電臺、轉播站、電視增力機或變頻機、社區共同天線設備或其他播放系統者之罰則，以資防杜。",
-        "第四十五條 之二": "　　一、本條新增。\n　　二、規定廣播電視節目供應事業未經許可逕行設立，或其製作之節目違反規定者之罰則，以利管理。"
+        "第二十條": "　　原條文對方言使用比率之限制，非但侵犯各電臺使用播音語言之自由；另一方面，更賦予新聞局過大之行政裁量權，而得能「視實際需要」隨時調整方言播音所佔之比率。此外，近年來電臺之節目或廣告內容發展趨勢，同一節目中國語及方言同時交互使用之比率漸增，新聞局無法確切規範方言使用比率。就技術層面而言，廣電法中限制方言比率之規定因實際上窒礙難行，業已形同具文。就電視科技發展之趨勢看來，提供電視節目多種播音系統之雙語電視（ＭＴＳ）亦將逐步取代現有單一播音電視，因而收視、收音語言之決定權，均將得由大眾自由選擇，不須另由新聞局加以規範。有鑑於此，無論現行實際狀況抑或因應未來之趨勢，本條文均無繼續存在之必要，爰予刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "700717",
-            "立法紀錄": "70卷57期1438號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cfc9c8cac8cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "800621",
+            "立法紀錄": "80卷50期2474號 32-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfc7cd81c7cfcfcacfcfcfc4cfcfcccdc4cfcfcccc",
+            "主提案": "周荃",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc7cfcfc5c7d2cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cccccfcfc5cbc9ccd2cbc9ca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "701208",
-            "立法紀錄": "70卷98期1479號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cfc9c7c6c7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "820107",
+            "立法紀錄": "82卷2期2601號 40-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfc7cd81c7cdcfcdcfcfc4cfcfcbcfc4cfcfcbcd",
+            "主提案": "葉菊蘭",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfc9cfcfc5caccc7d2cacbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecbcfcfc5c8cccbd2c8ccc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "701212",
-            "立法紀錄": "71卷26期1511號 65-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6cdc9cfcfc4cfcfc9cac4cfcfc8cd",
+            "會議日期": "800710",
+            "立法紀錄": "81卷15期2543號 72-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfc7cd81c7cecfcecacfcfc4cfcfc8cdc4cfcfc7ca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "701217",
-            "立法紀錄": "71卷27期1512號 95-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6cdc8cfcfc4cfcfc6cac4cfcecfcd",
+            "會議日期": "820303",
+            "立法紀錄": "82卷12期2611號 272-282頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfc7cd81c7cdcecdcfcfc4cfcdc8cdc4cfcdc7cd",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "710113",
-            "立法紀錄": "71卷33期1518號 125-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6cccccfcfc4cfcecdcac4cfceccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710304",
-            "立法紀錄": "71卷46期1531號 108-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6cbc9cfcfc4cfcecfc7c4cfcecec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "710412",
-            "立法紀錄": "71卷51期1536號 111-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6cacecfcfcfcdc4cfcececec4cfcecec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "710511",
-            "立法紀錄": "71卷38期1523號 14-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6ccc7cfcfc4cfcfcecbc4cfcfcbc7",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 82-83頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfc7cd81c7cdcbc9cfccc4cfcfc7cdc4cfcfc7cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfc8cfcfc5c9cdcbd2c9cdc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecdc6cfcec5cdccc9d2cdcbcd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "710504",
-            "立法紀錄": "71卷39期1524號 23-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6ccc6cfcfc4cfcfcdccc4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "710518",
-            "立法紀錄": "71卷40期1525號 17-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6cbcfcfcfc4cfcfcec8c4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "710521",
-            "立法紀錄": "71卷41期1526號 6-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6cbcecfcfc4cfcfcfc9c4cfcfcfc7",
+            "會議日期": "820708",
+            "立法紀錄": "82卷46期2645號上冊 43-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfc7cd81c7cdcbc9cfcec4cfcfcbccc4cfcfc8cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "710525",
-            "立法紀錄": "71卷42期1527號 5-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfc7ce81c8cec9c6cbcdcfcfc4cfcfcfcac4cfcfcfc8",
+            "會議日期": "820714",
+            "立法紀錄": "82卷48期2647號上冊 90-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfc7cd81c7cdcbc7cfcec4cfcfc6cfc4cfcfc6cd",
             "關係文書": []
         }
     ]
