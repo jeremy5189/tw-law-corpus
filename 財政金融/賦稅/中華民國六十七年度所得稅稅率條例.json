@@ -1,10 +1,12 @@
 {
     "title": "中華民國六十七年度所得稅稅率條例",
     "versions": [
-        "中華民國68年7月23日期滿廢止"
+        "中華民國66年12月27日制定",
+        "中華民國66年12月30日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -44,5 +46,59 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "661129",
+            "立法紀錄": "66卷96期1059號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cc81c9c9c9cfc6c9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcdcfcfc5c7cec7d2c7cdc9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "661207",
+            "立法紀錄": "66卷103期1066號 23-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cc81c9c9c9cfcecfcccfcfc4cfcfcdccc4cfcfcdc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "661215",
+            "立法紀錄": "67卷9期1077號 2-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cc81c9c8c9cfcfc6cfcfc4cfcfcfcdc4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "661220",
+            "立法紀錄": "66卷102期1065號 4-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cc81c9c9c9cfcecfcdcfcfc4cfcfcfcbc4cfcfcec8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5cccdc9d2ccccc7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "661220",
+            "立法紀錄": "66卷102期1065號 17-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cc81c9c9c9cfcecfcdcfcfc4cfcfcec8c4cfcfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "661227",
+            "立法紀錄": "66卷104期1067號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc9cc81c9c9c9cfcecfcbcfcfc4cfcfcfcbc4cfcfcfca",
+            "關係文書": []
+        }
+    ]
 }
