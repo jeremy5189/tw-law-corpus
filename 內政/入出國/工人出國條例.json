@@ -1,11 +1,12 @@
 {
     "title": "工人出國條例",
     "versions": [
-        "中華民國24年10月19日制定",
-        "中華民國24年10月21日公布"
+        "中華民國70年10月20日廢止",
+        "中華民國70年10月30日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -61,6 +62,30 @@
             "rule_no": "第九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例自民國二十四年公布迄今已三十八年，情勢已有變更，目前國人出國有「護照條例」可資適用，不必另為工人出國而訂定法規，故本條例應予廢止。。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "620810",
+            "立法紀錄": "62卷61期617號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcec7ccc8cc81c9cdcacec9cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "701020",
+            "立法紀錄": "70卷84期1465號 25-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcec7ccc8cc81c8cfc9c7c7cbcfcfc4cfcfcdcac4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "701020",
+            "立法紀錄": "70卷84期1465號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcec7ccc8cc81c8cfc9c7c7cbcfcfc4cfcfcdc8c4cfcfcdc8",
+            "關係文書": []
         }
     ]
 }
