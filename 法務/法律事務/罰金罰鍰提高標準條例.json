@@ -1,8 +1,8 @@
 {
     "title": "罰金罰鍰提高標準條例",
     "versions": [
-        "中華民國51年5月15日制定",
-        "中華民國51年5月25日公布"
+        "中華民國58年12月26日修正",
+        "中華民國59年1月9日公布"
     ],
     "types": [
         "立法歷程",
@@ -36,7 +36,7 @@
         {
             "note": "(後法優於前法)",
             "rule_no": "第五條",
-            "content": "　　本條例所定得提高倍數之規定，於施行後，法律另行修正其數額者，依其規定。",
+            "content": "　　本條例所定得提高之倍數之規定，於施行後，法律另行修正其數額者，依其規定；法律經全部修正而其數額未予變更者亦同。",
             "relates": {}
         },
         {
@@ -49,104 +49,55 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "501128",
-            "立法紀錄": "50卷28期號9冊 107-107頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacfcdc7cfc6c4cfcecfc8c4cfcecfc8",
-            "主提案": "行政院",
+            "會議日期": "570726",
+            "立法紀錄": "57卷56期號 8-12頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac8cbcecac9cfcfcfcec4cfcfcfc7c4cfcfcecd",
+            "主提案": "梁肅戎",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc7cfcdcfcfc5ccccc6d2cccbcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcccfcfc5cecfc7d2cecfc6"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "570815",
+            "立法紀錄": "57卷68期號 12-17頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac8cbcec9c7cfcfc4cfcfcecdc4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "580501",
+            "立法紀錄": "58卷44期號 16-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac7cbcccbcbcfcfcfcdc4cfcfcec9c4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581211",
+            "立法紀錄": "58卷95期號 1-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac7cbcbc6cacfcfcfcdc4cfcfcfcec4cfcfcfcd",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "510515",
-            "立法紀錄": "51卷29期號10冊 5-21頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cecfc4cfcfcfcac4cfcfcdce",
+            "會議日期": "581226",
+            "立法紀錄": "58卷95期號 7-11頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac7cbcbc6cacfcfcfcec4cfcfcfc8c4cfcfcece",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc7cfcccfcfc5c9c6c7d2c8cecc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcccfcfc5cac7d2c9cf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510424",
-            "立法紀錄": "51卷29期號7冊 65-84頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc8c4cfcfc9cac4cfcfc7cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510420",
-            "立法紀錄": "51卷29期號7冊 7-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc8c4cfcfcfc8c4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510417",
-            "立法紀錄": "51卷29期號6冊 41-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc9c4cfcfcbcec4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "510403",
-            "立法紀錄": "51卷29期號6冊 23-38頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc9c4cfcfcdccc4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510501",
-            "立法紀錄": "51卷29期號8冊 7-39頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc7c4cfcfcfc8c4cfcfccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510504",
-            "立法紀錄": "51卷29期號8冊 52-77頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc7c4cfcfcacdc4cfcfc8c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510508",
-            "立法紀錄": "51卷29期號9冊 4-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc6c4cfcfcfcbc4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510508",
-            "立法紀錄": "51卷29期號9冊 18-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc6c4cfcfcec7c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510511",
-            "立法紀錄": "51卷29期號9冊 44-44頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc6c4cfcfcbcbc4cfcfcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510511",
-            "立法紀錄": "51卷29期號9冊 51-52頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cfc6c4cfcfcacec4cfcfcacd",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "510515",
-            "立法紀錄": "51卷29期號10冊 37-43頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c881cacecdc6cecfc4cfcfccc8c4cfcfcbcc",
+            "會議日期": "581226",
+            "立法紀錄": "58卷95期號 11-11頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec9c781cac7cbcbc6cacfcfcfcec4cfcfcecec4cfcfcece",
             "關係文書": []
         }
     ]
