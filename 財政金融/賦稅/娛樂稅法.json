@@ -1,8 +1,8 @@
 {
     "title": "娛樂稅法",
     "versions": [
-        "中華民國81年3月19日修正",
-        "中華民國81年4月6日公布"
+        "中華民國82年7月9日修正",
+        "中華民國82年7月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -110,15 +110,15 @@
             "relates": {}
         },
         {
-            "note": "(罰鍰案件之移送通知)",
+            "note": "(刪除)",
             "rule_no": "第十五條",
-            "content": "　　本法罰鍰案件，由主管稽徵機關移送法院裁定。\n　　主管稽徵機關依前項規定移送時，應以書面通知受處分人。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
-            "note": "(罰鍰限期繳納及提出抗告)",
+            "note": "(刪除)",
             "rule_no": "第十六條",
-            "content": "　　前條罰鍰案件，法院應於收受主管稽徵機關移送文書之日起七日內裁定罰鍰，限期繳納；逾期不繳者，由法院強制執行。\n　　主管稽徵機關或受處分人不服法院裁定時，得於接到裁定通知書十日內提出抗告。但不得再抗告。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -139,49 +139,41 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　為避免各縣市娛樂稅徵收率有過大之差距，但書規定於動員戡亂時期宣告終止後，仍宜適用，爰刪除「於動員戡亂時期」等字，修正為省政府於必要時，仍得統一規定娛樂稅徵收率。",
-        "第十二條": "　　配合社會經濟之提昇及收警惕之效，酌予提高罰鍰金額，並將貨幣計算單位由銀元改為新臺幣。",
-        "第十三條": "　　配合社會經濟之提昇及收警惕之效，酌予提高罰鍰金額，並將貨幣計算單位由銀元改為新臺幣。"
+        "第十五條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。",
+        "第十六條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800423",
-            "立法紀錄": "80卷33期2457號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7ceca81c7cfcfcccccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "820323",
+            "立法紀錄": "82卷15期2614號 69-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cec981c7cdcecacfcfc4cfcfc9c6c4cfcfc8ce",
+            "主提案": "彭百顯",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cec9cfcfc5cbc6d2cace"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c9cbc7d2c9c8ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "801118",
-            "立法紀錄": "80卷94期2518號 241-263頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7ceca81c7cfcfc6cbcfcfc4cfcdcbcec4cfcdc9cc",
+            "會議日期": "820407",
+            "立法紀錄": "82卷22期2621號下冊 180-202頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cec981c7cdcdcdcfccc4cfcec7cfc4cfcdcfcd",
             "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "810319",
-            "立法紀錄": "81卷24期2552號 66-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7ceca81c7cecfcdcbcfcfc4cfcfc9c9c4cfcfc8cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfc6cfcfc5ccc7c8d2ccc6cf"
-                ]
-            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "810319",
-            "立法紀錄": "81卷24期2552號 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7ceca81c7cecfcdcbcfcfc4cfcfc8cfc4cfcfc8cf",
-            "關係文書": []
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 56-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cec981c7cdcbc9cfccc4cfcfcac9c4cfcfc7ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cec7cdd2cdcfc8"
+                ]
+            ]
         }
     ]
 }
