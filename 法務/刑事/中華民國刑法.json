@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國43年10月12日修正",
-        "中華民國43年10月23日公布"
+        "中華民國58年12月16日修正",
+        "中華民國58年12月26日公布"
     ],
     "types": [
         "立法歷程",
@@ -1536,7 +1536,7 @@
         {
             "note": "",
             "rule_no": "第二百三十五條",
-            "content": "　　散布或販賣猥褻之文字、圖畫及其他物品，或公然陳列，或以他法供人觀覽者，處一千元以下罰金。\n　　意圖販賣而製造、持有前項之文字、圖畫及其他物品者亦同。",
+            "content": "　　散布或販賣猥褻之文字、圖畫或其他物品，或公然陳列，或以他法供人觀覽者，處一年以下有期徒刑、拘役或科或併科三千元以下罰金。\n　　意圖散布、販賣而製造、持有前項之文字、圖畫或其他物品者亦同。\n　　前二項之文字、圖畫及物品，不問屬於犯人與否沒收之。",
             "relates": {}
         },
         {
@@ -2351,28 +2351,70 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "431005",
-            "立法紀錄": "43卷14期號1冊 62-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9ceca81cbcccecbcfcec4cfcfc9cdc4cfcfc9cc",
-            "主提案": "營爾斌",
+            "會議日期": "580827",
+            "立法紀錄": "58卷65期號 17-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbccc9cacfcfc4cfcfcec8c4cfcfcec8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cececbd2cececa"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcbcfcfc5c9c9ced2c9c9cd"
                 ]
             ]
         },
         {
-            "進度": "三讀",
-            "會議日期": "431012",
-            "立法紀錄": "43卷14期號1冊 100-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9ceca81cbcccecbcfcec4cfcecfcfc4cfcecfcf",
+            "進度": "委員會審查",
+            "會議日期": "581016",
+            "立法紀錄": "58卷85期號 11-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7cacfcfcfcdc4cfcfcecec4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581030",
+            "立法紀錄": "58卷85期號 15-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7cacfcfcfcdc4cfcfcecac4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581106",
+            "立法紀錄": "58卷89期號 1-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7c6cfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "581113",
+            "立法紀錄": "58卷89期號 6-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7c6cfcfcfcec4cfcfcfc9c4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "581205",
+            "立法紀錄": "58卷89期號 8-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7c6cfcfcfcec4cfcfcfc7c4cfcfcdca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcecfcfc5cccac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cbc8c8d2cbc7cf"
                 ]
             ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "581216",
+            "立法紀錄": "58卷92期號 11-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc6cdcfcfcfcec4cfcfcecec4cfcfcecb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "581216",
+            "立法紀錄": "58卷92期號 14-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc6cdcfcfcfcec4cfcfcecbc4cfcfcec9",
+            "關係文書": []
         }
     ]
 }
