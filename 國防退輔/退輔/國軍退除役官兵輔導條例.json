@@ -1,8 +1,8 @@
 {
     "title": "國軍退除役官兵輔導條例",
     "versions": [
-        "中華民國87年10月22日修正",
-        "中華民國87年11月11日公布"
+        "中華民國89年1月6日修正",
+        "中華民國89年1月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,13 +22,13 @@
         {
             "note": "(退除役官兵之定義)",
             "rule_no": "第二條",
-            "content": "　　本條例所稱退除役官兵如左：\n　　一、依法退除役之軍官。\n　　二、依兵役法第四十九條志願在營服役之士官、士兵，依法退伍除役者。\n　　三、服士官、士兵役，因作戰受傷致成殘廢，於除役後生計艱難需長期醫療或就養者。\n　　四、服軍官、士官、士兵役，曾參加民國四十七年八二三臺海保衛戰役及其他經國防部核定之關係國家安全之重要戰役者。",
+            "content": "　　本條例所稱退除役官兵如左：\n　　一、依法退除役之軍官。\n　　二、依兵役法第四十九條志願在營服役之士官、士兵，依法退伍除役者。\n　　三、服士官、士兵役，因作戰受傷致成殘廢，於除役後生計艱難需長期醫療或就養者。\n　　四、服軍官、士官、士兵役，曾參加民國四十七年八二三臺海保衛戰役及其他經國防部核定之關係國家安全之重要戰役者。\n　　金門馬祖民防自衛隊，曾參加民國四十七年八二三臺海保衛戰役者，自民國九十年元月一日起視同退除役官兵。",
             "relates": {}
         },
         {
             "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　本條例之實施，以行政院國軍退除役官兵就業輔導委員會（以下簡稱輔導會）為主管機關，各有關部會及省（市）政府為協管機關。",
+            "content": "　　本條例之實施，以行政院國軍退除役官兵輔導委員會（以下簡稱輔導會）為主管機關，各有關部會、直轄市政府及縣（市）政府為協管機關。",
             "relates": {}
         },
         {
@@ -247,59 +247,73 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、本條第一款至第三款未修正。\n　　二、增列第四款，將服軍官、士官、士兵役，曾參加民國四十七年八二三臺海保衛戰役及經國防部核定之關係國家安全之重要戰役者，納入「退除役官兵」範圍，俾依法給予實質尊崇及輔導照顧。"
+        "第二條": "　　金門自衛隊歷經古寧頭等大小戰役，其長期對自由世界以及今日臺灣之安定、繁榮與發展所作之犧牲與貢獻不容抹煞，爰增訂第二項，亦列為輔導對象。",
+        "第三條": "　　一、配合臺灣省政府功能業務與組織之調整，修正「省（市）政府」為「直轄市政府及縣（市）政府」。\n　　二、「行政院國軍退除役官兵輔導委員會組織條例」修正後，業將「輔導會」全銜修正為「行政院國軍退除役官兵輔導委員會」，爰刪除「就業」二字。"
     },
     "law_history": [
         {
             "進度": "一讀",
             "會議日期": " ",
-            "立法紀錄": "86卷54期2946號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc781c7c9cacbcfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "林建榮",
+            "立法紀錄": "88卷10期3010號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbcf81c7c7cecfcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳清寶",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcec7cfcfc5ccc8cbd2ccc8c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcdcfcec5cecfcad2cecfc7"
                 ]
             ]
         },
         {
             "進度": "一讀",
             "會議日期": " ",
-            "立法紀錄": "87卷29期2978號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc781c7c8cdc6cfcec4cfcfcfccc4cfcfcfcc",
+            "立法紀錄": "88卷23期3023號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbcf81c7c7cdcccfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "李炷烽",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcececfcfcdc5cececbd2cecec8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": " ",
+            "立法紀錄": "88卷44期3044號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbcf81c7c7cbcbcfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcacec9cfcec5cecbccd2cecbc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcbcfcdc5ccc7c7d2ccc6ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
             "會議日期": " ",
-            "立法紀錄": "87卷41期2990號 311-324頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc781c7c8cbcecfcfc4cfcccecec4cfcccdcb",
+            "立法紀錄": "89卷3期3062號上冊 73-86頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbcf81c7c6cfcccfcec4cfcfc8ccc4cfcfc7c9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
             "會議日期": " ",
-            "立法紀錄": "87卷42期2991號上冊 147-153頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc781c7c8cbcdcfcec4cfcecbc8c4cfcecacc",
+            "立法紀錄": "89卷4期3063號二冊 196-206頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbcf81c7c6cfcbcfcdc4cfcec6c9c4cfcdcfc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfc9cfcec5c9c9ccd2c9c8cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecccfcdc5c9cdd2c8cf"
                 ]
             ]
         },
         {
             "進度": "三讀",
             "會議日期": " ",
-            "立法紀錄": "87卷42期2991號上冊 153-154頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc781c7c8cbcdcfcec4cfcecaccc4cfcecacb",
+            "立法紀錄": "89卷4期3063號二冊 206-206頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbcf81c7c6cfcbcfcdc4cfcdcfc9c4cfcdcfc9",
             "關係文書": []
         }
     ]
