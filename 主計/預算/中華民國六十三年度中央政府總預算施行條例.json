@@ -1,13 +1,9 @@
 {
     "title": "中華民國六十三年度中央政府總預算施行條例",
     "versions": [
-        "中華民國62年5月29日制定",
-        "中華民國62年6月7日公布"
+        "中華民國68年10月9日"
     ],
-    "types": [
-        "立法歷程",
-        "異動條文"
-    ],
+    "types": [],
     "law_data": [
         {
             "note": "(適用範圍)",
@@ -62,28 +58,6 @@
             "rule_no": "第九條",
             "content": "　　本條例自公布日施行。以六十三會計年度之起訖為有效期間。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "620410",
-            "立法紀錄": "62卷26期582號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc6c681c9cdcacecdc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacececfcfcfc5c7c7d2ceccc6"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "620529",
-            "立法紀錄": "62卷40期596號 8-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cbc6c681c9cdcacecbcfcfcfcfcec4cfcfcfc7c4cfcfcfc6",
-            "關係文書": []
         }
     ]
 }
