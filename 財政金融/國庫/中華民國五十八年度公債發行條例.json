@@ -1,11 +1,11 @@
 {
     "title": "中華民國五十八年度公債發行條例",
     "versions": [
-        "中華民國63年1月19日修正",
-        "中華民國63年1月25日公布"
+        "中華民國82年12月16日廢止",
+        "中華民國82年12月31日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -88,28 +88,27 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第五條": "　　為因應目前需要，對政府已發行未到期之公債，如因銀行利率變動須作必要調整時，授權行政院對公債利率及其發行條件作必要之調整，爰予修正之。"
-    },
+    "deprecated_reason": "　　民國五十五年度至六十年度各年度之公債發行條例，係就各會計年度中央政府總預算案收支情形，估計尚有差額，須發行公債以資彌平，故擬訂年度公債發行條例，以肆應年度總預算之編列與執行。上開公債還本付息均已截止兌付期限，各該期次付訖之本息票，亦經該部會同審計部派員會同銷燬。因此，上述公債發行條例已不適用，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "630118",
-            "立法紀錄": "63卷6期662號 89-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc7cd81c9cccacdcfc9cfcfc4cfcfc7c6c4cfcfc6cf",
-            "主提案": "吳延環",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcacfcfc5cecccfd2cecccc"
-                ]
-            ]
+            "會議日期": "821014",
+            "立法紀錄": "82卷55期2654號 13-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbc7cc81c7cdcacacfcfc4cfcfceccc4cfcfcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "821108",
+            "立法紀錄": "82卷65期2664號下冊 48-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbc7cc81c7cdc9cacfccc4cfcfcbc7c4cfcfc8cf",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "630119",
-            "立法紀錄": "63卷6期662號 111-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc7cd81c9cccacdcfc9cfcfc4cfcececec4cfcececd",
+            "會議日期": "821216",
+            "立法紀錄": "82卷73期2672號上冊 41-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbc7cc81c7cdc8cccfcec4cfcfcbcec4cfcfcbc9",
             "關係文書": []
         }
     ]
