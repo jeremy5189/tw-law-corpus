@@ -1,12 +1,12 @@
 {
     "title": "印信條例",
     "versions": [
-        "中華民國46年4月26日全文修正",
-        "中華民國46年5月9日公布"
+        "中華民國89年5月16日修正",
+        "中華民國89年5月17日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -36,7 +36,7 @@
         {
             "note": "(國璽及總統之印暨職章之授與)",
             "rule_no": "第五條",
-            "content": "　　國璽及總統之印暨職章，由國民大會推派之代表於總統就職時授與之；副總統職章之授與亦同。",
+            "content": "　　國璽及總統之印暨職章，由國民大會推派之代表於總統就職時授與之；副總統職章之授與，亦同。\n　　總統、副總統就職時，非於國民大會開會期間，由立法院院長為之。",
             "relates": {}
         },
         {
@@ -112,65 +112,47 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第五條": "　　增列第二項總統、副總統就職時，非於國民大會開會期間，由立法院院長為之。以因應國大虛級化後為非常設機關，並維持憲法上國民主權之原理。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "431221",
-            "立法紀錄": "44卷14期號7冊 154-157頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdc681cbcbcecbcfc8c4cfcecacbc4cfcecac8",
-            "主提案": "劉錫五",
+            "會議日期": "890428",
+            "立法紀錄": "89卷21期3080號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccf81c7c6cdcecfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5cecdccd2cecdca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccececfcfc5cecdc9d2cecdc7"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "450515",
-            "立法紀錄": "44卷17期號5冊 134-139頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdc681cbcacec8cfcac4cfcecccbc4cfceccc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5cac6cbd2c9cdc9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "450601",
-            "立法紀錄": "45卷17期號6冊 103-103頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdc681cbcacec8cfc9c4cfcecfccc4cfcecfcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460419",
-            "立法紀錄": "46卷19期號5冊 74-77頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdc681cbc9cec6cfcac4cfcfc8cbc4cfcfc8c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460423",
-            "立法紀錄": "46卷19期號5冊 112-117頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdc681cbc9cec6cfcac4cfcececdc4cfcecec8",
+            "進度": "委員會審查",
+            "會議日期": "890508",
+            "立法紀錄": "89卷27期3086號 347-360頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccf81c7c6cdc8cfcfc4cfcccbc8c4cfccc9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "460423",
-            "立法紀錄": "46卷19期號5冊 117-127頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdc681cbc9cec6cfcac4cfcecec8c4cfcecdc8",
-            "關係文書": []
+            "會議日期": "890516",
+            "立法紀錄": "89卷26期3085號 45-47頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccf81c7c6cdc9cfcfc4cfcfcbcac4cfcfcbc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecacfcfc5cbc7cad2cbc7c8"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "460426",
-            "立法紀錄": "46卷19期號5冊 135-164頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cdc681cbc9cec6cfcac4cfcecccac4cfcec9cb",
+            "會議日期": "890516",
+            "立法紀錄": "89卷26期3085號 47-47頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccf81c7c6cdc9cfcfc4cfcfcbc8c4cfcfcbc8",
             "關係文書": []
         }
     ]
