@@ -1,8 +1,8 @@
 {
     "title": "姓名條例",
     "versions": [
-        "中華民國72年11月8日修正",
-        "中華民國72年11月18日公布"
+        "中華民國84年1月5日修正",
+        "中華民國84年1月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,7 +12,7 @@
         {
             "note": "(本名)",
             "rule_no": "第一條",
-            "content": "　　中華民國國民之本名，以一個為限。並以戶籍登記之姓名為本名。",
+            "content": "　　中華民國國民之本名，以一個為限，並以戶籍登記之姓名為本名。\n　　臺灣原住民族之姓名登記，依其文化慣俗為之；其已依漢人姓氏登記者，得申請回復其傳統姓名，主管機關應予核准。",
             "relates": {}
         },
         {
@@ -71,60 +71,59 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　一、為維護家庭倫理，與直系尊親屬三親等以內名字完全相同，應准予改名，爰增列第二款規定。\n　　二、鑒於同時在一縣市內居住六個月以上姓名完全相同者，因年齡較長，以不改名為宜爰將現行條文第一項第二款改為第三款外，並增列限制規定。\n　　三、現行條文第一項三、四、五款，除配合第二款之增列，將款次遞改為第四、五、六款外，第六款增列特殊原因字樣，並經主管機關認定。"
+        "第一條": "　　一、原住民應可依其意願，登記本族姓名，惟針對錯誤之現狀，應明文規定依其本族文化慣俗登記姓名。以明白揭示其權利，避免行政機關之不當措施，爰增訂第二項。\n　　二、增訂第三項。揭示國家對既成錯誤政策應負賠償之責，以救濟受害人民。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "720111",
-            "立法紀錄": "72卷4期1593號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81c8cdc8cfcfcbcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "810526",
+            "立法紀錄": "81卷43期2571號 37-39頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc981c7cecfcbcccfcfc4cfcfccc8c4cfcfccc6",
+            "主提案": "葉菊蘭",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfc9cfcfc5c9cacfd2c9cacc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdcccfcdc5cbcec7d2cbcec6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "810717",
+            "立法紀錄": "81卷58期2586號中冊 63-64頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc981c7cecfcac7cfcdc4cfcfc9ccc4cfcfc9cb",
+            "主提案": "華加志",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6ccc9cfccc5cac9ccd2cac9ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "721013",
-            "立法紀錄": "72卷97期1686號 66-71頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81c8cdc8cdc6c8cfcfc4cfcfc9c9c4cfcfc8ce",
+            "會議日期": "820317",
+            "立法紀錄": "82卷16期2615號下冊 300-311頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc981c7cdcec9cfccc4cfcccfcfc4cfcccece",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "721028",
-            "立法紀錄": "72卷87期1676號 10-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81c8cdc8cdc7c8cfcfc4cfcfcecfc4cfcfcecb",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840105",
+            "立法紀錄": "84卷3期2760號上冊 46-51頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc981c7cbcfcccfcec4cfcfcbc9c4cfcfcace",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cdcfcbcfcfc5cecacbd2cecac8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecdc8cfcec5cbcfccd2cbcfc7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "721028",
-            "立法紀錄": "72卷87期1676號 14-23頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81c8cdc8cdc7c8cfcfc4cfcfcecbc4cfcfcdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "721108",
-            "立法紀錄": "72卷90期1679號 32-33頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81c8cdc8cdc6cfcfcfc4cfcfcccdc4cfcfcccc",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "721108",
-            "立法紀錄": "72卷90期1679號 33-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfca81c8cdc8cdc6cfcfcfc4cfcfccccc4cfcfcccb",
+            "會議日期": "840105",
+            "立法紀錄": "84卷3期2760號上冊 51-51頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc981c7cbcfcccfcec4cfcfcacec4cfcfcace",
             "關係文書": []
         }
     ]
