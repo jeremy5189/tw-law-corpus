@@ -1,10 +1,12 @@
 {
     "title": "中華民國八十三年度中央政府總預算執行條例",
     "versions": [
-        "中華民國88年11月3日期滿廢止"
+        "中華民國82年6月22日制定",
+        "中華民國82年7月7日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -58,7 +60,7 @@
         {
             "note": "(動支第二預備金之限制)",
             "rule_no": "第九條",
-            "content": "　　各機關不得動支第二預備金，作為購置公務車輛、用人經費及其他事務費用。但在年度總預算案通過前即已合法增置之人員，不在此限。",
+            "content": "　　各機關不得動支第二預備金，作為購置公務車輛、用人經費及其他事務費用。",
             "relates": {}
         },
         {
@@ -146,5 +148,48 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "820427",
+            "立法紀錄": "82卷25期2624號 82-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcacb81c7cdcdcacfcfc4cfcfc7cdc4cfcfc7cb",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "820326",
+            "立法紀錄": "82卷16期2615號上冊 3-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcacb81c7cdcec9cfcec4cfcfcfccc4cfcfcfca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "820510",
+            "立法紀錄": "82卷32期2631號下冊 85-115頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcacb81c7cdcccdcfccc4cfcfc7cac4cfcececa",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "820618",
+            "立法紀錄": "82卷40期2639號上冊 30-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcacb81c7cdcbcfcfcec4cfcfcccfc4cfcfc9ca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "820618",
+            "立法紀錄": "82卷40期2639號上冊 65-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcacb81c7cdcbcfcfcec4cfcfc9cac4cfcfc7cf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "820622",
+            "立法紀錄": "82卷41期2640號 47-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcacb81c7cdcbcecfcfc4cfcfcbc8c4cfcfcacf",
+            "關係文書": []
+        }
+    ]
 }
