@@ -1,8 +1,8 @@
 {
     "title": "道路交通管理處罰條例",
     "versions": [
-        "中華民國91年12月13日修正",
-        "中華民國92年1月2日公布"
+        "中華民國93年4月9日修正",
+        "中華民國93年4月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -440,7 +440,7 @@
         {
             "note": "",
             "rule_no": "第六十一條",
-            "content": "　　汽車駕駛人，駕駛汽車有左列情形之一者，吊銷其駕駛執照：\n　　一、利用汽車犯罪，經判決有期徒刑以上之刑確定者。\n　　二、抗拒執行交通勤務之警察或依法令執行交通稽查人員之稽查，因而引起傷害或死亡者。\n　　三、撞傷正執行交通勤務中之警察者。\n　　四、違反道路交通安全規則，因而肇事致人死亡者。\n　　汽車駕駛人，駕駛汽車有前項第二款、第三款情形之一者，並處新臺幣三萬元以上六萬元以下罰鍰。\n　　汽車駕駛人，駕駛汽車違反道路交通安全規則，因而肇事致人受傷者，吊扣其駕駛執照三個月至六個月。\n　　前項之輕重傷標準，由交通部定之。\n　　第一項第一款情形，在判決確定前，得視情形暫扣其駕駛執照，禁止其駕駛。",
+            "content": "　　汽車駕駛人，駕駛汽車有左列情形之一者，吊銷其駕駛執照：\n　　一、利用汽車犯罪，經判決有期徒刑以上之刑確定。\n　　二、抗拒執行交通勤務之警察或依法令執行交通稽查人員之稽查，因而引起傷害或死亡。\n　　三、撞傷正執行交通勤務中之警察。\n　　四、違反道路交通安全規則，因而肇事致人死亡。\n　　汽車駕駛人，駕駛汽車有前項第二款、第三款情形之一者，並處新臺幣三萬元以上六萬元以下罰鍰。\n　　汽車駕駛人，駕駛汽車違反道路交通安全規則，因而肇事致人受傷者，記違規點數三點；致人重傷者，吊扣其駕駛執照三個月至六個月。\n　　第一項第一款情形，在判決確定前，得視情形暫扣其駕駛執照，禁止其駕駛。",
             "relates": {}
         },
         {
@@ -713,79 +713,47 @@
         }
     ],
     "law_reasons": {
-        "第九十二條 之一": "　　一、本條新增。\n　　二、針對車輛所有人與駕駛人並非同一人之情形，駕駛人在外行為車輛所有人實無法立即掌控，故須對處罰機關裁決職業汽車駕駛人吊扣、吊（註）銷駕駛執照時，特別予以規定：得應雇主之請求以書面或其他方式通知違規當時所駕駛汽車之所有人。避免在外駕駛營運的駕駛人違規累累，損及車輛所有人權益，並嚴重影響交通安全。"
+        "第六十一條": "　　一、依照原道路交通管理處罰條例第六十一條第三項之規定，汽車駕駛人一旦違反道路交通安全規則，發生交通事故致人受傷者，不分輕重，均處以吊扣駕駛執照三個月至六個月之處分，該處罰未依照受傷輕重程度而異其處罰，恐與比例原則有違。且前述規定亦未考量吊扣駕駛執照之處罰對於職業駕駛人工作權之影響，嚴重影響職業汽車駕駛人之生計。\n　　二、原條文第四項授權交通部訂定前項輕、重傷之標準，因交通部數度召開會議均無法訂出適當之標準，造成道路交通管理處罰實務上不分受傷輕重處罰均同之不公現象，與依法行政原則有違。而前述傷害與重傷害罪之區分標準，刑法第十條第四項已經訂有明文，爰刪除本項規定，回歸刑法之規定為當。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfc681c6cecccccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "梁牧養",
+            "會議日期": "930305",
+            "立法紀錄": "93卷12期3346號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecf81c6cccecdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "王幸男",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfcec5cdcccfd2cdcccd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷42期3238號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfc681c6cecbcdcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "邱毅",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec9cfcec5cdcdced2cdcdcb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910611",
-            "立法紀錄": "91卷42期3238號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfc681c6cecbcdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "陳根德",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec9cfcec5cdccc6d2cdcbcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "911011",
-            "立法紀錄": "91卷59期3255號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfc681c6cecac6cfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "林政義",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcbcfcec5cdcbcdd2cdcbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacfcacfcec5c7cdd2c7c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "911121",
-            "立法紀錄": "91卷78期3274號上冊 27-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfc681c6cec8c7cfcec4cfcfcdc8c4cfcfcbcf",
+            "會議日期": "930331",
+            "立法紀錄": "93卷19期3353號下冊 369-376頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecf81c6cccec6cfccc4cfccc9c6c4cfccc8c9",
             "關係文書": []
         },
         {
-            "進度": "三讀",
-            "會議日期": "911213",
-            "立法紀錄": "91卷77期3273號一冊 120-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cfc681c6cec8c8cfcec4cfcecdcfc4cfceccc9",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "930409",
+            "立法紀錄": "93卷20期3354號上冊 80-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecf81c6cccdcfcfcec4cfcfc7cfc4cfcfc7ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecccfcdc5cac8d2c8cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacfc6cfcfc5c8cfcdd2c8cfc7"
                 ]
             ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "930409",
+            "立法紀錄": "93卷20期3354號上冊 85-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecf81c6cccdcfcfcec4cfcfc7cac4cfcfc7ca",
+            "關係文書": []
         }
     ]
 }
