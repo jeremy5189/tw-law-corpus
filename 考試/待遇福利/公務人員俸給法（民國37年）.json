@@ -1,12 +1,12 @@
 {
     "title": "公務人員俸給法（民國37年）",
     "versions": [
-        "中華民國42年9月15日全文修正",
-        "中華民國43年1月9日公布"
+        "中華民國76年1月9日廢止",
+        "中華民國76年1月14日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -130,73 +130,27 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　新制公務人員任用、考績、俸給三法，業經總統分別於中華民國75年4月21日、7月11日、7月16日明令公布其施行日期均授權考試院以命令定之。玆考試院決定於中華民國76年1月16日起施行，特依據中央法規標準法第21條第4款之規定，爰予廢止「公務人員俸給法」。",
     "law_history": [
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420908",
-            "立法紀錄": "42卷12期號1冊 18-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcecdcfcec4cfcfcec7c4cfcfccc9",
+            "進度": "一讀",
+            "會議日期": "751230",
+            "立法紀錄": "75卷105期2007號 84-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cac881c8cacecfcacfcfc4cfcfc7cbc4cfcfc7cb",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420529",
-            "立法紀錄": "42卷11期號9冊 130-133頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcececfc6c4cfcecccfc4cfcecccc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cdcacfd2cdc9cc"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420529",
-            "立法紀錄": "42卷11期號9冊 142-146頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcececfc6c4cfcecbcdc4cfcecbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420602",
-            "立法紀錄": "42卷11期號9冊 162-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcececfc6c4cfcec9cdc4cfcec9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420605",
-            "立法紀錄": "42卷11期號9冊 182-186頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcececfc6c4cfcec7cdc4cfcec7c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420612",
-            "立法紀錄": "42卷11期號10冊 82-82頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcecececfc4cfcfc7cdc4cfcfc7cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420908",
-            "立法紀錄": "42卷12期號1冊 56-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcecdcfcec4cfcfcac9c4cfcfc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420911",
-            "立法紀錄": "42卷12期號1冊 74-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcecdcfcec4cfcfc8cbc4cfcfc8c7",
+            "進度": "委員會審查",
+            "會議日期": "760107",
+            "立法紀錄": "76卷31期2038號 115-116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cac881c8c9cfcccecfcfc4cfcececac4cfcecec9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "420915",
-            "立法紀錄": "42卷12期號1冊 92-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc7cac981cbcdcecdcfcec4cfcfc6cdc4cfcfc6cb",
+            "會議日期": "760109",
+            "立法紀錄": "76卷3期2010號 9-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7cac881c8c9cfcfcccfcfc4cfcfcfc6c4cfcfcecd",
             "關係文書": []
         }
     ]
