@@ -1,12 +1,12 @@
 {
     "title": "中國農民銀行條例",
     "versions": [
-        "中華民國69年12月2日全文修正",
-        "中華民國69年12月17日公布"
+        "中華民國89年1月15日修正",
+        "中華民國89年2月2日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,13 +18,13 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本行資本總額定為新臺幣伍拾億元。\n　　前項資本總額如有增減之必要時，得由董事會議決，報經財政部核轉行政院核定之。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本行股東，以中華民國國民或法人為限。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -54,7 +54,7 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　本行對農業放款，不得少於放款總額百分之六十。",
+            "content": "　　本行對農業放款，不得少於放款總額之一定比率。\n　　前項比率，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -66,13 +66,13 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　本行置董事十五人，組織董事會。公股及民股董事名額照股權比例分配之。公股董事由財政部指定，民股董事由股東會就民股股東中選任之；任期均三年，連選得連任。",
+            "content": "　　本行置董事十五人，組織董事會，董事由股東會就股東中選任之。董事任期三年，得連選連任。\n　　本行置常務董事七人，由董事互選之，並由常務董事互選一人為董事長，任期與董事同。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本行置常務董事七人，由董事互選之，並由常務董事互選一人為董事長，任期與董事同。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -84,7 +84,7 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　本行置監察人五人，組織監察人會。公股及民股監察人名額，照股權比例分配之。公股監察人由財政部指定，民股監察人由股東會就民股股東中選任之；任期均三年，連選得連任。\n　　本行置常駐監察人一人，由監察人互選之，任期與監察人同。",
+            "content": "　　本行置監察人五人，組織監察人會，監察人由股東會就股東中選任之。監察人任期三年，得連選連任。\n　　本行置常駐監察人一人，由監察人互選之，任期與監察人同。",
             "relates": {}
         },
         {
@@ -102,13 +102,13 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　本行每年營業所得純利，應先提取百分之四十為法定盈餘公積。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十七條",
-            "content": "　　本行經營業務所發生呆帳之核銷，由財政部依所得稅法，核定額度，授權董事會辦理。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -124,65 +124,61 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　一、本條刪除。\n　　二、為避免資本額變更即需修法，且該行已依公司法規定，於章程中載明資本額，本條文已無存在必要，爰刪除之。",
+        "第三條": "　　一、本條刪除。\n　　二、現行華僑及外國人投資證券管理辦法及銀行法，對外國人投資任一發行公司股票及同一人、同一關係人持有銀行股票均有其限額之規定，爰刪除本條文。",
+        "第八條": "　　我國農業部門占國民生產毛額比重已逐年降低，為使主管機關可配合國內產業結構變化及經濟發展趨勢，彈性調整該項比率，爰修正現行條文，並增列第二項。",
+        "第十條": "　　一、公司法第一百九十八條規定，股東會選任董事時，每一股份有與應選出董事人數相同之選舉權，得集中選舉一人，或分配選舉數人，由所得選票代表選舉權較多者，當選為董事。因此，公司法對董事之選任方式已有明確規定，爰將現行條文有關公股股董事名額照股權比例分配之規定刪除，並列為第一項。\n　　二、另為期體制一制，爰參照修正條文第十三條規定，將現行條文第十一條有關常務董事及董事長之選任及任期移列為本條第二項規定。",
+        "第十一條": "　　一、本條刪除。\n　　二、現行條文規範內容已移列為修正條文第十條第二項，爰予刪除。",
+        "第十三條": "　　依公司法第二百二十七條規定，該法第一百九十八條有關董事之選任方式規定於監察人準用之。因此，公司法對監察人之選任方式亦已有明確規定，爰將現行條文有關公股及民股監察人名額照股權比例分配之規定刪除，並列為第一項。",
+        "第十六條": "　　一、本條刪除。\n　　二、銀行法第五十條對法定盈餘公積之提存已有明確規定，爰刪除本條文。",
+        "第十七條": "　　一、本條刪除。\n　　二、各銀行有關呆帳之核銷，應依所得稅法及中央主管機關相關規定辦理，爰刪除現行條文之規定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "691024",
-            "立法紀錄": "69卷86期1362號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7ce81c9c6c9c9c7c9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "880430",
+            "立法紀錄": "88卷21期3021號 18-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7cd81c7c7cdcecfcfc4cfcfcec7c4cfcfcec7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cecfd2cdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc6cfcdc5ccccd2ccc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691103",
-            "立法紀錄": "70卷2期1383號 48-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7ce81c8cfc9c9cfcdcfcfc4cfcfcbc7c4cfcfcacb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "691105",
-            "立法紀錄": "70卷3期1384號 93-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7ce81c8cfc9c9cfcccfcfc4cfcfc6ccc4cfcecfce",
+            "會議日期": "890103",
+            "立法紀錄": "89卷8期3067號 69-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7cd81c7c6cfc7cfcfc4cfcfc9c6c4cfcfc7cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "691121",
-            "立法紀錄": "69卷94期1370號 9-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7ce81c9c6c9c9c6cbcfcfc4cfcfcfc6c4cfcfcdcb",
+            "會議日期": "890115",
+            "立法紀錄": "89卷9期3068號四冊 215-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7cd81c7c6cfc6cfcbc4cfcdcecac4cfcdcdcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5c9ccced2c9cbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecacfcec5c8cfcdd2c8cfc6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "691121",
-            "立法紀錄": "69卷94期1370號 24-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7ce81c9c6c9c9c6cbcfcfc4cfcfcdcbc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "691125",
-            "立法紀錄": "69卷95期1371號 4-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7ce81c9c6c9c9c6cacfcfc4cfcfcfcbc4cfcfcfc8",
+            "會議日期": "890115",
+            "立法紀錄": "89卷9期3068號四冊 223-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7cd81c7c6cfc6cfcbc4cfcdcdccc4cfcdcdcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "691202",
-            "立法紀錄": "69卷97期1373號 3-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c7ce81c9c6c9c9c6c8cfcfc4cfcfcfccc4cfcfcfca",
+            "會議日期": "890115",
+            "立法紀錄": "89卷9期3068號四冊 223-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c7cd81c7c6cfc6cfcbc4cfcdcdccc4cfcdcdcc",
             "關係文書": []
         }
     ]
