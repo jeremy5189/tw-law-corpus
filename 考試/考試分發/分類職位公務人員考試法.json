@@ -1,12 +1,12 @@
 {
     "title": "分類職位公務人員考試法",
     "versions": [
-        "中華民國58年8月5日修正",
-        "中華民國58年8月25日公布"
+        "中華民國61年1月25日修正",
+        "中華民國61年2月5日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -24,13 +24,13 @@
         {
             "note": "(應考資格之規定)",
             "rule_no": "第三條",
-            "content": "　　分類職位公務人員初任考試，依職系分七職等舉行，其應考資格如左：\n　　一、具有國民中學同等學力，得應第一職等考試。\n　　二、國民中學或初級中等學校畢業，或曾任第一職等職務滿三年，考績成績優良者，得應第二職等考試。\n　　三、高級中等學校畢業，或同職等檢定考試及格，或曾任第二職等職務滿三年，考績成績優良者，得應第三職等考試。\n　　四、專科學校有關學科畢業或同職等檢定考試及格者，或曾任第四職等職務滿三年，考績成績優良者，得應第五職等考試。\n　　五、大學有關學系畢業者，得應第六職等考試。\n　　六、研究院、所有關學系畢業，得有碩士學位者，得應第七職等考試。\n　　七、研究院、所有關學系畢業，得有博士學位者，得應第九職等考試。\n　　前項應第三、第五職等考試之檢定考試，其規則由考試院定之。\n　　",
+            "content": "　　分類職位公務人員初任考試，依職系分十職等舉行，其應考資格如左：\n　　一、具有國民中學同等學力者，得應第一職等考試。\n　　二、國民中學、初級中等學校畢業，或曾任第一職等職務滿三年，考績成績優良者，得應第二職等考試。\n　　三、高級中等學校畢業，或同職等檢定考試及格，或曾任第二職等職務滿三年，考績成績優良者，得應第三職等考試。\n　　四、專科學校有關學科畢業或同職等檢定考試及格者，或曾任第四職等職務滿三年，考績成績優良者，得應第五職等考試。\n　　五、大學有關學系畢業者，得應第六職等考試，其兼有二年以上服務年資者，得應第七職等考試。\n　　六、研究院、所有關學系畢業，得有碩士學位者，得應第八職等考試。\n　　七、研究院、所有關學系畢業，得有博士學位，或得有碩士學位並有二年以上服務年資者，得應第九職等考試。\n　　八、研究院、所有關學系畢業，得有博士學位，並任專攻學科有關工作二年以上，成績優良者，或得有碩士學位，並任專攻學科有關工作四年以上，成績優良者，或大學有關學系畢業，並任專攻學科有關工作六年以上，成績優良者，或曾任公立或立案之私立專科以上學校教授或有曾任副教授二年以上，經教育部審查合格者，得應第十職等考試。\n　　九、研究院、所有關學系畢業，得有博士學位，並任專攻學科有關工作四年以上，成績優良者，或得有碩士學位，並任專攻學科有關工作六年以上成績優良者，或曾任公立或立案之私立專科以上學校教授或曾任副教授四年以上，經教育部審查合格者，得應第十一職等考試。\n　　前項應第三、第五職等考試之檢定考試，其規則由考試院定之。\n　　",
             "relates": {}
         },
         {
             "note": "(考試方式之規定)",
             "rule_no": "第四條",
-            "content": "　　分類職位公務人員考試，依職級規範所規定之需要，得就筆試、口試、測驗、實地考試及著作、發明審查等方式，選擇舉行，除筆試得採一種方式外，其他應以二種以上方式行之。",
+            "content": "　　分類職位公務人員考試，得就筆試、口試、測試、實地考試及著作、發明審查等方式，選擇舉行。除筆試得採用一種方式外，其他應以二種以上方式行之。\n　　分類職位公務人員考試第九職等以上之考試，得以著作、發明審查及口試方式舉行，或以檢覈行之，其檢覈辦法，由考試院定之。",
             "relates": {}
         },
         {
@@ -106,65 +106,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　一、擴大考試等級，將原列七等，擴大為十等，除第四職等外，一至十一職等，均得以考試方式，擢拔人員。\n　　二、提高具有碩士學位者之應考等級，並對大學畢業具有年資者，得應高一職等考試。爰修正第一項第五、六、七款。\n　　三、增列第八第九兩款應考資格，俾延攬第十職等及第十一職等之高級人才。\n　　四、增訂第二項。",
+        "第四條": "　　將原條文酌予修正，明定第九職等以上之考試，採用審查、口試及檢覈方式。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580613",
-            "立法紀錄": "58卷44期號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbcccbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "610114",
+            "立法紀錄": "61卷5期458號 2-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc781c9cecbc7cfcacfcfcfcec4cfcfcfcdc4cfcfcfcc",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcccfcfc5cac7d2cececb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c9c6cfd2c9c6c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580709",
-            "立法紀錄": "58卷60期號 9-22頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbccc9cfcfcfcfcdc4cfcfcfc6c4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580716",
-            "立法紀錄": "58卷66期號 4-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbccc9c9cfcfc4cfcfcfcbc4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580719",
-            "立法紀錄": "58卷66期號 12-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbccc9c9cfcfc4cfcfcecdc4cfcfcdca",
+            "會議日期": "610117",
+            "立法紀錄": "61卷28期481號 18-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc781c9cecbc6cdc7cfcfcfcdc4cfcfcec7c4cfcfcdc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "580729",
-            "立法紀錄": "58卷57期號 5-111頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbcccac8cfcfc4cfcfcfcac4cfcecece",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 8-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc781c9cecbc7cfc7cfcfcfcec4cfcfcfc7c4cfcfcec9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcbcfcfc5cdcfcad2cdc7cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c8c6c6d2c7cecd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "580801",
-            "立法紀錄": "58卷58期號 2-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbcccac7cfcfcfcec4cfcfcfcdc4cfcfcfc8",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 16-23頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc781c9cecbc7cfc7cfcfcfcec4cfcfcec9c4cfcfcdcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "580805",
-            "立法紀錄": "58卷59期號 2-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc981cac7cbcccac6cfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 23-24頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcdcdc781c9cecbc7cfc7cfcfcfcec4cfcfcdccc4cfcfcdcb",
             "關係文書": []
         }
     ]
