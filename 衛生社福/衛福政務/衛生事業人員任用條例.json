@@ -1,12 +1,11 @@
 {
     "title": "衛生事業人員任用條例",
     "versions": [
-        "中華民國74年10月8日廢止",
-        "中華民國74年10月18日公布"
+        "中華民國36年2月20日制定",
+        "中華民國36年3月1日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -86,40 +85,6 @@
             "rule_no": "第十三條",
             "content": "　　本條例施行範圍及施行日期以命令定之。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　政府自播遷來台後，衛生事業機構中僅行政院衛生署麻醉藥品經理處一機構適用，且現職人員之人事管理已由衛生事業人員資歷位置評分制，改為簡荐委制。然按中央法規標準法之規定，法規因有關法規之廢止或修正致失其依據，而無單獨施行之必要者，應予廢止。故將本法廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "730719",
-            "立法紀錄": "73卷58期1752號 29-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecfce81c8cccfcac7cfcfc4cfcfcdc6c4cfcfcdc6",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cccfc7cfcfc5c7cbcbd2c7cbc7"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "740529",
-            "立法紀錄": "74卷79期1877號 129-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecfce81c8cbcfc8c6cfcfc4cfcecdc6c4cfceccce",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "741008",
-            "立法紀錄": "74卷81期1879號 6-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecfce81c8cbcfc7cecfcfc4cfcfcfc9c4cfcfcfc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfcccfcfc5cdcfcdd2cdcfc7"
-                ]
-            ]
         }
     ]
 }
