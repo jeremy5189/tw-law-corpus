@@ -1,12 +1,12 @@
 {
     "title": "國軍退除役官兵輔導條例",
     "versions": [
-        "中華民國53年5月5日制定",
-        "中華民國53年5月15日公布"
+        "中華民國69年11月21日修正",
+        "中華民國69年12月5日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -124,7 +124,7 @@
         {
             "note": "(榮譽國民之家)",
             "rule_no": "第十七條",
-            "content": "　　就養機構由各省（市）政府設立，定名為榮譽國民之家，採全部供給制，並對傷殘人員酌予傷殘重建。",
+            "content": "　　就養機構由輔導會設立，定名為榮譽國民之家，採全部供給制，並對傷殘人員酌予傷殘重建。",
             "relates": {}
         },
         {
@@ -246,93 +246,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十七條": "　　就養機構原由各省（市）政府設立，經費由省（市）政府負擔，現為改善地方財政，將省市榮家經費一律移由中央負擔，爰予修正本條例，將就養機構改為由輔導會設立，以統一事權，簡化作業程序，爭取時效，提高行政效率。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": " ",
-            "立法紀錄": "52卷31期號15冊 50-54頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacdcccececac4cfcfcacfc4cfcfcacb",
+            "會議日期": "691024",
+            "立法紀錄": "69卷86期1362號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c9c6c9c9c7c9cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccecfcccfcfc5cecec6d2cecdcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5c9d2c6"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "691110",
+            "立法紀錄": "70卷4期1385號 43-45頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c8cfc9c9cfcbcfcfc4cfcfcbccc4cfcfcbca",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號8冊 7-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfc7c4cfcfcfc8c4cfcfcdcf",
+            "會議日期": "691114",
+            "立法紀錄": "69卷92期1368號 24-27頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c9c6c9c9c6cdcfcfc4cfcfcdcbc4cfcfcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccdcfcdcfcfc5cbcac6d2cbc8cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cbcec7d2cbcdcf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號5冊 22-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfcac4cfcfcdcdc4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號5冊 54-71頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfcac4cfcfcacbc4cfcfc8ce",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號6冊 52-74頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfc9c4cfcfcacdc4cfcfc8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號6冊 75-102頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfc9c4cfcfc8cac4cfcecfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號7冊 13-43頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfc8c4cfcfceccc4cfcfcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號7冊 47-54頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfc8c4cfcfcbc8c4cfcfcacb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號7冊 78-105頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfc8c4cfcfc8c7c4cfcecfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號8冊 27-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfc7c4cfcfcdc8c4cfcfccc8",
+            "會議日期": "691114",
+            "立法紀錄": "69卷92期1368號 27-28頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c9c6c9c9c6cdcfcfc4cfcfcdc8c4cfcfcdc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": " ",
-            "立法紀錄": "53卷33期號8冊 69-74頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecccb81cacccccccfc7c4cfcfc9c6c4cfcfc8cb",
+            "會議日期": "691121",
+            "立法紀錄": "69卷94期1370號 9-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c9c6c9c9c6cbcfcfc4cfcfcfc6c4cfcfcfc6",
             "關係文書": []
         }
     ]
