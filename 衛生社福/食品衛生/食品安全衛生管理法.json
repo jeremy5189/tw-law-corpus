@@ -1,12 +1,12 @@
 {
     "title": "食品安全衛生管理法",
     "versions": [
-        "中華民國72年11月1日全文修正",
-        "中華民國72年11月11日公布"
+        "中華民國86年4月15日修正",
+        "中華民國86年5月7日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -118,9 +118,9 @@
             "section_name": "第三章  食品標示及廣告管理"
         },
         {
-            "note": "(食品、食品添加物和食品用洗潔劑之標示)",
+            "note": "(食品標示於容器或包裝上之項目)",
             "rule_no": "第十七條",
-            "content": "　　有容器或包裝之食品、食品添加物和食品用洗潔劑，應以中文及通用符號顯著標示左列事項於容器或包裝之上：\n　　一、品名。\n　　二、內容物名稱及重量、容量或數量；其為兩種以上混合物時，應分別標明。\n　　三、食品添加物名稱。\n　　四、製造廠商名稱、地址。輸入者並應加註輸入廠商名稱、地址。\n　　五、製造日期。經中央主管機關公告指定須標示保存期限或保存條件者，應一併標示之。\n　　六、其他經中央主管機關公告指定之標示事項。",
+            "content": "　　有容器或包裝之食品、食品添加物及食品用洗潔劑，應以中文及通用符號顯著標示左列事項於容器或包裝之上：\n　　一、品名。\n　　二、內容物名稱及重量、容量或數量；其為兩種以上混合物時，應分別標明。\n　　三、食品添加物名稱。\n　　四、製造廠商名稱、地址。輸入者並應加註輸入廠商名稱、地址。\n　　五、製造日期或有效日期。經中央主管機關公告指定須標示保存期限或保存條件者，應一併標示之。\n　　六、其他經中央主管機關公告指定之標示事項。",
             "relates": {}
         },
         {
@@ -262,83 +262,52 @@
         {
             "note": "(施行日)",
             "rule_no": "第三十八條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文第十七條施行日期，由行政院定之。",
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十七條": "　　包裝食品標示日期，目的在於賦與其身分代號以便於管理，並使消費者之權益免於受損。製造日期之標示，未能完全確保消費者權益，而有效日期之標示，則為國際間規範之趨勢，其對消費者而言，具保障效力，對製造業者而言，更明確規範其責任，爰參酌國際規範有關食品標示之規定修正第五款，以使本法施行細則第十四條規定「製造日期得以有效日期之方式表示」，切合母法規範。",
+        "第三十八條": "　　為配合我國加入世界貿易組織之時程，故修正條文之施行日期應以加入世界貿易組織生效日期為前提，爰增列第二項，其施行日期由行政院定之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "711217",
-            "立法紀錄": "71卷101期1586號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cec8cfcecfcecfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "851217",
+            "立法紀錄": "85卷68期2890號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac9ca81c7cac9c7cfcfc4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcacfcfc5cbc8cfd2cbc7c9"
+                    "null",
+                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcdc9cecfcdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "720319",
-            "立法紀錄": "72卷39期1628號 102-110頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cdc8ceccc6cfcfc4cfcecfcdc4cfcececf",
+            "會議日期": "860312",
+            "立法紀錄": "86卷9期2901號下冊 395-427頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac9ca81c7c9cfc6cfccc4cfccc6cac4cfcbcdc8",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720326",
-            "立法紀錄": "72卷42期1631號 176-182頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cdc8cecbcdcfcfc4cfcec8c9c4cfcec7cd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720330",
-            "立法紀錄": "72卷44期1633號 114-125頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cdc8cecbcbcfcfc4cfcececbc4cfcecdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720430",
-            "立法紀錄": "72卷54期1643號 91-99頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cdc8cecacbcfcfc4cfcfc6cec4cfcfc6c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720505",
-            "立法紀錄": "72卷55期1644號 83-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cdc8cecacacfcfc4cfcfc7ccc4cfcfc7c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "721028",
-            "立法紀錄": "72卷87期1676號 23-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cdc8cdc7c8cfcfc4cfcfcdccc4cfcfcbcc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfcacfcfc5cecdcdc6d2cecdcbc6"
-                ]
-            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "721028",
-            "立法紀錄": "72卷87期1676號 43-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cdc8cdc7c8cfcfc4cfcfcbccc4cfcfcacf",
-            "關係文書": []
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 118-122頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac9ca81c7c9cec8cfcec4cfcecec7c4cfcecdcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecfcfcdc5cccacad2cccac6"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "721101",
-            "立法紀錄": "72卷88期1677號 15-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cac9cc81c8cdc8cdc7c7cfcfc4cfcfcecac4cfcfcec6",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 122-123頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac9ca81c7c9cec8cfcec4cfcecdcdc4cfcecdcc",
             "關係文書": []
         }
     ]
