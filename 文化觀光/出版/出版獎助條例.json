@@ -1,11 +1,11 @@
 {
     "title": "出版獎助條例",
     "versions": [
-        "中華民國72年12月23日制定",
-        "中華民國73年1月4日公布"
+        "中華民國91年12月13日廢止",
+        "中華民國92年1月2日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,73 +82,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　明定本條例制定之依據。",
-        "第二條": "　　出版事業之輔導及獎助，為行政院新聞局之職掌，爰予明定，以明權責。",
-        "第三條": "　　闡釋出版事業及出版品之涵義，以確定本條例獎助之對象。",
-        "第四條": "　　一、因出版事業眾多及出版品種類浩繁，故應編列預算每年分項、分期辦理，以應實際需要。\n　　二、關於獎助之項目、名額、申請期間、報名或推薦方式等詳細內容，授權由行政院新聞局於辦法中規定，公告週知。",
-        "第五條": "　　本條前段為獎助積極條件之規定，須合於出版法第二十三條第一項所列各款情形之一（即一、合於憲法第一百六十七條第三款之規定者。二、對教育文化有重大貢獻者。三、宣揚國策有重大貢獻者。四、在邊疆海外或貧瘠地區發行出版品對當地社會有重大貢獻者。五、印行重要學術專門著作或邊疆海外及職業學校教科書者。）；後段為獎助消極條件之規定，以在最近一年未受同法第三十六條第二款至第五款規定之處分（即罰鍰、禁止出售散佈進口或扣押沒入、定期停止發行、撤銷登記），以為評審之依據。",
-        "第六條": "　　第一款及第二款所定之獎狀及獎座，屬於精神上之獎勵。第三款所定之獎金，屬於物質上之獎勵。",
-        "第七條": "　　一、第一款之補助，在使重要學術專門著作得以順利出版，以提高學術研究風氣。\n　　二、第二款之補助，在使國內優良出版品得以順利輸出國外以宣揚我國文化。\n　　三、第三款之補助，在輔導出版事業參與國際文化交流活動，以激勵我國出版界之發展。",
-        "第八條": "　　由行政院新聞局邀請專家、學者組織評審委員會擔任評審工作，以示客觀、公正。",
-        "第九條": "　　為鼓勵私人、團體出資獎助優良出版事業或出版品，有助於提高我國出版水準，爰明定對出資獎助者得給與獎狀或獎座，以示激勵。",
-        "第十條": "　　一、為鼓勵國外華僑在海外出版或發行有助於宣揚國策、教育文化等出版品，特定本條予以獎勵。 \n　　二、華僑在海外經營之出版品，因受客觀環境限制，不採評審方式，其由駐外機構推薦者，亦得準用本條例關於獎助之規定，予以獎勵。",
-        "第十一條": "　　地方政府辦理該管出版事業及出版品之獎助得準用本條例之規定。",
-        "第十二條": "　　規定本條例之施行日期。"
-    },
+    "deprecated_reason": "　　出版法業於民國88年1月25日奉總統公布廢止，依中央法規標準法第21條第3款規定，法規因有關法規之廢止或修正致失其依據，而無單獨施行之必要者，廢止之。出版獎助條例係依出版法第23條第2項之規定制定，出版法既經廢止，本條例已無單獨施行之必要，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "711001",
-            "立法紀錄": "71卷79期1564號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cb81c8cec8cfc8c6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "910326",
+            "立法紀錄": "91卷20期3216號 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ca81c6cecdcfcfcfc4cfcfcfc8c4cfcfcfc8",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcecfcfc5c9cfc8d2c9cecc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5c9cdc6d2c9cccd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "721126",
-            "立法紀錄": "73卷14期1708號 5-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cb81c8cccfcecbcfcfc4cfcfcfcac4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "721201",
-            "立法紀錄": "73卷19期1713號 123-132頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cb81c8cccfcec6cfcfc4cfcecdccc4cfcecccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "721213",
-            "立法紀錄": "72卷100期1689號 26-48頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cb81c8cdc8cdcecfcfcfcfc4cfcfcdc9c4cfcfcbc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cdcfc9cfcfc5cccbced2cccacf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "721206",
-            "立法紀錄": "72卷101期1690號 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cb81c8cdc8cdcecfcecfcfc4cfcfcfcac4cfcfcfc9",
+            "會議日期": "911125",
+            "立法紀錄": "91卷78期3274號下冊 426-428頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ca81c6cec8c7cfccc4cfcbcdc9c4cfcbcdc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "721223",
-            "立法紀錄": "72卷103期1692號 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6cb81c8cdc8cdcecfcccfcfc4cfcfcfcac4cfcfcfc9",
-            "關係文書": []
+            "會議日期": "911213",
+            "立法紀錄": "91卷77期3273號一冊 100-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7c8c6ca81c6cec8c8cfcec4cfcecfcfc4cfcecfcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecccfcdc5ccced2ccc9"
+                ]
+            ]
         }
     ]
 }
