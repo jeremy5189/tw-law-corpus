@@ -1,11 +1,11 @@
 {
     "title": "民國二十一年湖北省善後公債條例",
     "versions": [
-        "中華民國62年5月22日停止適用",
-        "中華民國62年6月5日公布"
+        "中華民國21年9月24日制定",
+        "中華民國21年10月1日公布"
     ],
     "types": [
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -41,7 +41,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本公債於民國二十二年十二月三十一日為第一次還本之期，嗣後每六個月抽籤還本一次，計第一、第三、第四、第六、第七、第九、第十、第十二次，每次各還本二十四萬元，第二、第五、第八、第十一次，每次各還本二十七萬元，至中華民國二十八年六月底全數還清。\n　　前項抽籤，於每年六月十五日及十二月十五日由財政廳於省政府所在地行之。抽籤時，由省政府審計機關派員，漢口武昌兩商會派代表，會同監視。",
+            "content": "　　本公債於中華民國二十二年十二月三十一日為第一次還本之期，嗣後每六個月還本一次，平均還本十二分之一，每年還本五十萬圓，至中華民國二十八年六月底全數還清，債票之還本，以抽籤定之。\n　　前項抽籤，於每年六月十五日及十二月十五日由財政廳於省政府所在地行之，抽籤時由省政府及審計機關派員，漢口武昌兩商會派代表會同監視。",
             "relates": {}
         },
         {
@@ -85,50 +85,6 @@
             "rule_no": "第十三條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "610104",
-            "立法紀錄": "61卷2期455號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecacaca81c9cecbc7cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610119",
-            "立法紀錄": "61卷43期496號 49-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecacaca81c9cecbc6cbcccfcfcfcdc4cfcfcbc6c4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610307",
-            "立法紀錄": "61卷19期472號 41-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecacaca81c9cecbc6cec6cfcfcfcec4cfcfcbcec4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610310",
-            "立法紀錄": "61卷20期473號 2-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecacaca81c9cecbc6cdcfcfcfcfcec4cfcfcfcdc4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610317",
-            "立法紀錄": "61卷22期475號 4-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecacaca81c9cecbc6cdcdcfcfcfcec4cfcfcfcbc4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "620522",
-            "立法紀錄": "62卷38期594號 11-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcecacaca81c9cdcaceccc7cfcfcfcec4cfcfcecec4cfcfcdcd",
-            "關係文書": []
         }
     ]
 }
