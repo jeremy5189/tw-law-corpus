@@ -1,11 +1,12 @@
 {
     "title": "民營公用事業監督條例",
     "versions": [
-        "中華民國22年10月27日全文修正",
-        "中華民國22年11月2日公布"
+        "中華民國61年11月17日修正",
+        "中華民國61年11月30日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -101,7 +102,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　民營公用事業，不得加入外股或抵借外債。但經中央主管機關呈請國民政府特許者，不在此限。",
+            "content": "　　民營公用事業，不得加入外股或抵借外債。但經中央主管機關呈准行政院特許者，不在此限。",
             "relates": {}
         },
         {
@@ -151,6 +152,57 @@
             "rule_no": "第二十四條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第十六條": "　　原條文中之舊制機關名稱「國民政府」與現行體制不符，應改為「行政院」。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "600604",
+            "立法紀錄": "60卷41期395號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6ceced2c6cdcc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "601222",
+            "立法紀錄": "61卷5期458號 1-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cecbc7cfcacfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "611114",
+            "立法紀錄": "61卷90期543號 21-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cecacfc6cfcfcfcfcec4cfcfcdcec4cfcfcccd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c8c8d2c6ce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "611114",
+            "立法紀錄": "61卷90期543號 32-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cecacfc6cfcfcfcfcec4cfcfcccdc4cfcfcccd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "611117",
+            "立法紀錄": "61卷91期544號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec6cbcc81c9cecacfc6cecfcfcfcec4cfcfcfcac4cfcfcfca",
+            "關係文書": []
         }
     ]
 }
