@@ -1,8 +1,8 @@
 {
     "title": "土地稅法",
     "versions": [
-        "中華民國82年12月23日修正",
-        "中華民國83年1月7日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -246,7 +246,7 @@
         {
             "note": "(漲價總數額之計算)",
             "rule_no": "第三十一條",
-            "content": "　　土地漲價總數額之計算，應自該土地所有權移轉或設定典權時，經核定之申報移轉現值中減除左列各項後之餘額，為漲價總數額：\n　　一、規定地價後，未經過移轉之土地，其原規定地價。規定地價後，曾經移轉之土地，其前次移轉現值。\n　　二、土地所有權人為改良土地已支付之全部費用，包括已繳納之工程受益費、土地重劃費用。\n　　前項第一款所稱之原規定地價，依平均地權條例之規定；所稱前次移轉現值，係指前次移轉時核計土地增值稅之現值，如因繼承取得之土地再行移轉者，係指繼承開始時該土地之公告現值。\n　　土地所有權人辦理土地移轉繳納土地增值稅時，在其持有土地期間內，因重新規定地價增繳之地價稅，就其移轉土地部分，准予抵繳其應納之土地增值稅。但准予抵繳之總額，以不超過土地移轉時應繳增值稅總額百分之五為限。\n　　前項增繳之地價稅抵繳辦法，由行政院定之。",
+            "content": "　　土地漲價總數額之計算，應自該土地所有權移轉或設定典權時，經核定之申報移轉現值中減除左列各項後之餘額，為漲價總數額：\n　　一、規定地價後，未經過移轉之土地，其原規定地價。規定地價後，曾經移轉之土地，其前次移轉現值。\n　　二、土地所有權人為改良土地已支付之全部費用，包括已繳納之工程受益費、土地重劃費用及因土地使用變更而無償捐贈一定比率土地作為公共設施用地者，其捐贈時捐贈土地之公告現值總額。\n　　前項第一款所稱之原規定地價，依平均地權條例之規定；所稱前次移轉時核計土地增值稅之現值，於因繼承取得之土地再行移轉者，係指繼承開始時該土地之公告現值。\n　　土地所有權人辦理土地移轉繳納土地增值稅時，在其持有土地期間內，因重新規定地價增繳之地價稅，就其移轉土地部分，准予抵繳其應納之土地增值稅。但准予抵繳之總額，以不超過土地移轉時應繳增值稅總額百分之五為限。\n　　前項增繳之地價稅抵繳辦法，由行政院定之。",
             "relates": {}
         },
         {
@@ -428,7 +428,7 @@
         {
             "note": "(農業用地不繼續耕作之罰鍰)",
             "rule_no": "第五十五條 之二",
-            "content": "　　依第三十九條之二第一項取得之農業用地，取得者於完成移轉登記後，有左列不繼續耕作情形之一者，處以原免徵土地增值稅額二倍之罰鍰，其金額不得少於取得時申報移轉現值百分之二：\n　　一、再移轉與非自行耕作農民。\n　　二、非依第二十二條之一規定之各項原因，閒置不用者。\n　　三、非依法令變更為非農業用地使用。",
+            "content": "　　依第三十九條之二第一項取得之農業用地，取得者於完成移轉登記後，有左列不繼續耕作情形之一者，處以原免徵土地增值稅額二倍之罰鍰，其金額不得少於取得申報移轉現值百分之二：\n　　一、再移轉與非自行耕作農民。\n　　二、非依第二十二條之一規定之各項原因，閒置不用者。\n　　三、非依法令變更為非農業用地使用。\n　　前項應處罰鍰之土地，不繼續耕作面積未達每宗土地原免徵土地增值稅土地面積之五分之一，其罰鍰得按實際不繼續耕作面積比率計算。但以一次為限。",
             "relates": {}
         },
         {
@@ -461,54 +461,87 @@
         }
     ],
     "law_reasons": {
-        "第三十九條": "　　經重劃之土地，於重劃後第一次移轉時，政府進行重劃時間均相當長，故其土地增值稅因減徵百分之四十，以保障土地所有權人之權益。",
-        "第三十九條 之一": "　　因第三十九條已將土地增值稅減徵為百分之四十，故本條第二項宜增加「準用前條第三項之規定」之文字，以便前後之修正一致。"
+        "第三十一條": "　　增列第一項第二款後段之規定，以符公允原則，並獎勵民間參與國家建設。",
+        "第五十五條 之二": "　　本條法律效果應符合「比例原則」與「相當性原則」，使法律規定所採取之手段與其欲達成之目的成比例，及犯罪行為之處罰應與其行為之程度相當。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800702",
-            "立法紀錄": "80卷53期2477號 74-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cfcfcacccfcfc4cfcfc8cbc4cfcfc8c8",
+            "會議日期": "820601",
+            "立法紀錄": "82卷35期2634號下冊 50-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cdcccacfccc4cfcfcacfc4cfcfcacd",
             "主提案": "洪昭男",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8ccc8cfcfc5cac8ced2cac8c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecdc8cfcec5cecfcfcdd2cecfcfca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "830304",
+            "立法紀錄": "83卷13期2687號 91-94頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cccecccfcfc4cfcfc6cec4cfcfc6cb",
+            "主提案": "陳宏昌",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccfcbcfcfc5ccc6cdd2ccc6cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "830503",
+            "立法紀錄": "83卷30期2704號上冊 114-116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cccccfcfcec4cfcececbc4cfcecec9",
+            "主提案": "郭金生",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccecccfcdc5cbc7c8d2cbc7c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "820109",
-            "立法紀錄": "82卷4期2603號下冊 201-221頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cdcfcbcfccc4cfcdcfcec4cfcdcdce",
+            "會議日期": "830526",
+            "立法紀錄": "83卷39期2713號下冊 151-175頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7ccccc6cfccc4cfcecacec4cfcec8ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "830620",
+            "立法紀錄": "83卷46期2720號下冊 183-188頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cccbc9cfccc4cfcec7ccc4cfcec7c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "821223",
-            "立法紀錄": "82卷75期2674號上冊 46-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cdc8cacfcec4cfcfcbc9c4cfcfcac8",
+            "會議日期": "830714",
+            "立法紀錄": "83卷52期2726號上冊 364-440頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cccacdcfcec4cfccc9cbc4cfcbcbcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcececccfcfc5cccbccd2cccbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdcacfcfc5cbc7ced2cbc6c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "821223",
-            "立法紀錄": "82卷75期2674號上冊 57-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cdc8cacfcec4cfcfcac8c4cfcfc9cf",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 106-118頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cbcfcdcfcfc4cfcecfc9c4cfcecec7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "821223",
-            "立法紀錄": "82卷75期2674號上冊 60-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cdc8cacfcec4cfcfc9cfc4cfcfc9cf",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 118-118頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccd81c7cbcfcdcfcfc4cfcecec7c4cfcecec7",
             "關係文書": []
         }
     ]
