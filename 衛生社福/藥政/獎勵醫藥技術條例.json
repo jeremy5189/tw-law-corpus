@@ -1,12 +1,11 @@
 {
     "title": "獎勵醫藥技術條例",
     "versions": [
-        "中華民國94年1月14日廢止",
-        "中華民國94年1月26日公布"
+        "中華民國30年10月18日制定",
+        "中華民國30年11月3日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -24,7 +23,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　獎勵分左列三種：\n　　一、褒章：褒章應填附執照一併給予。\n　　二、獎狀：獎狀內應填明受獎條款。\n　　三、獎金：獎金數額得至五千圓，並得與褒章或獎狀同時給予。但有特殊獎勵之必要者，得酌量增加獎金之數額。",
+            "content": "　　獎勵分左列三種：\n　　一、褒章：褒章應填附執照一併給予。\n　　二、獎狀：獎狀內應填明受獎條款。\n　　三、獎金：獎金數額得至五萬元，並得與褒章或獎狀同時給予。但有特殊獎勵之必要者，得酌量增加獎金之數額。",
             "relates": {}
         },
         {
@@ -110,47 +109,6 @@
             "rule_no": "第十七條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　「獎勵醫藥技術條例」係民國30年11月3日由國民政府公布，因情勢變更未曾施行，且該署已依「藥事法」第41條規定，於民國89年會銜經濟部訂定發布「藥物科技研究發展獎勵辦法」，可資取代該條例之立法精神，該條例已無加以施行之必要，爰予以廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "920307",
-            "立法紀錄": "92卷12期3286號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7cec881c6cdcecdcfcfc4cfcfcfcac4cfcfcfca",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcdcfcec5cdcdc9d2cdcccf"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "940106",
-            "立法紀錄": "94卷7期3389號下冊 241-252頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7cec881c6cbcfc8cfccc4cfcdcbcec4cfcdcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "940114",
-            "立法紀錄": "94卷6期3388號一冊 94-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7cec881c6cbcfc9cfcec4cfcfc6cbc4cfcfc6c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecdcfcdc5caceced2cacec9"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "940114",
-            "立法紀錄": "94卷6期3388號一冊 97-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7cec881c6cbcfc9cfcec4cfcfc6c8c4cfcfc6c8",
-            "關係文書": []
         }
     ]
 }
