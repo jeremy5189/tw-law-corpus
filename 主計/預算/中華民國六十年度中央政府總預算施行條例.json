@@ -1,12 +1,12 @@
 {
     "title": "中華民國六十年度中央政府總預算施行條例",
     "versions": [
-        "中華民國59年5月29日制定",
-        "中華民國59年6月9日公布"
+        "中華民國66年3月25日廢止",
+        "中華民國66年4月4日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -82,26 +82,28 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「中華民國六十年度中央政府總預算施行條例」，因施行年度已過，其規定事項亦已執行完畢，依照中央法規標準法第21條第2款規定，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "590410",
-            "立法紀錄": "59卷26期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacecf81cac6cbcacdc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "651221",
+            "立法紀錄": "65卷102期961號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacece81c9cacac7cecfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "660312",
+            "立法紀錄": "66卷32期995號 43-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacece81c9c9cac6cccdcfcfc4cfcfcbccc4cfcfcbcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "590529",
-            "立法紀錄": "59卷40期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacecf81cac6cbcacbcfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfc9cfcfc5cecec7d2ceccc8"
-                ]
-            ]
+            "會議日期": "660325",
+            "立法紀錄": "66卷25期988號 22-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c9cacece81c9c9cac6cdcacfcfc4cfcfcdcdc4cfcfcdcb",
+            "關係文書": []
         }
     ]
 }
