@@ -1,8 +1,8 @@
 {
     "title": "外役監條例",
     "versions": [
-        "中華民國83年1月14日修正",
-        "中華民國83年1月31日公布"
+        "中華民國86年4月8日修正",
+        "中華民國86年4月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -138,13 +138,13 @@
         {
             "note": "",
             "rule_no": "第二十二條",
-            "content": "　　受刑人作業時應給予勞作金，其平均所得數額，不得低於當地廠商同類成品或僱用同類工人之工價百分之四十。",
+            "content": "　　作業者給予勞作金，其金額斟酌作業者之行狀及作業成績給付。\n　　前項給付辦法，由法務部定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　外役監之作業收入，除作業支出外，其賸餘額按月提百分之三十五補助受刑人飲食費用，百分之十充受刑人獎勵費用，百分之十充作業管理人員獎勵費用；其餘累積為年度賸餘，於年度決算時以百分之八十充作業基金，百分之二十充改善監獄內部設施之用。\n　　前項改善監獄內部設施部分應列入當年度預算，獎勵辦法由法務部定之。",
+            "content": "　　外役監之作業收入，扣除作業支出後，提百分之五十充勞作金；勞作金總額，提百分之二十五充犯罪被害人補償費用。\n　　前項作業賸餘提百分之四十補助受刑人飲食費用；百分之十充受刑人獎勵費用；百分之十充作業管理人員獎勵費用；年度賸餘應循預算程序以百分之三十充作改善受刑人生活設施之用，其餘百分之七十撥充作業基金；其獎勵辦法，由法務部定之。\n　　第一項提充犯罪被害人補償之費用，於犯罪被害人補償法公布施行後提撥，專戶存儲；第二項改善受刑人生活設施購置之財產設備免提折舊。",
             "relates": {}
         },
         {
@@ -167,85 +167,47 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　受刑人遴選至外役監之實務作業需一段時間，將「三個月」修正為「二個月」再加上遴選作業時間，業已入監滿三個月，並不違背憲法意旨，且可鼓勵短期自由受刑人悛悔向善。",
-        "第五條": "　　配合第四條第一項第二款已改以刑期為遴選資格之基準，因此刪除「除犯內亂及外患之罪者外」數字。",
-        "第十一條": "　　「警衛」兩字為老舊用語，爰修正為「戒護」兩字。",
-        "第十四條": "　　第四條第一項第一款經修正後，已將刑期未滿一年之受刑人納入遴選範圍，但依規定該類受刑人不予編級，為照顧該類受刑人之權益，爰將第一項第一款修正為「第四級或未編級受刑人，每月縮短刑期二日」，其餘未修正。",
-        "第十九條": "　　受刑人懲罰之種類，監獄行刑法第七十六條並無「記過或記大過」之規定，本法予以配合修正，爰刪除第二款之規定。並將第三款移列為第二款。",
-        "第二十一條": "　　一、受刑人遇有親屬喪亡得准返家探視親屬之規定，監獄行刑法修正草案第二十六之一，已增列「祖父母」，第二項爰配合修正，增列「祖父母」，以彰人倫，並作文字修正。\n　　二、現行第二項準用規定尚欠明確，爰配合第一項之修正，條文文字酌作修正，並給列為第三項。而受刑人未於指定期日回監是否犯有脫逃罪，並非以理由是否正當為構成要件，應以故意為限，爰於第三項增列「其故意者」四字，以資明確。\n　　三、現行第三項遞改為第四項。"
+        "第二十二條": "　　一、配合監獄行刑法修正條文第三十二條及本條例修正條文第二十三條，爰加以修正之。\n　　二、增列第二項。",
+        "第二十三條": "　　一、配合監獄行刑法部分條文第三十三條修正。\n　　二、第一項前段明定勞作金給與之比例，又基於社會正義理念，由受刑人作業勞作金中提撥部分金額補償犯罪被害人，爰於同項後段增訂「勞作金總額，提百分之二十五充犯罪被害人補償費用」之規定。\n　　三、為避免影響整體收容人福利，爰於第二項調整提撥比例。\n　　四、現行第一項及第二項中「監獄內部設施」修正為「受刑人生活設施」。\n　　五、配合犯罪被害人補償法規定，爰增列第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "811229",
-            "立法紀錄": "81卷71期2599號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c881c7cecfc8cecfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "850611",
+            "立法紀錄": "85卷32期2854號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c781c7cacccdcfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecdcfcfc5cac6d2c8ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820604",
-            "立法紀錄": "82卷36期2635號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c881c7cdccc9cfcfc4cfcfcfc7c4cfcfcfc7",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecdc8cfcec5cdc9c8d2cdc8cc"
+                    "null",
+                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcecdcfcecfcfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "820303",
-            "立法紀錄": "82卷12期2611號 350-370頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c881c7cdcecdcfcfc4cfcccacfc4cfccc8cf",
+            "會議日期": "850626",
+            "立法紀錄": "85卷38期2860號下冊 569-589頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c781c7caccc7cfccc4cfcac9c6c4cfcac7c6",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "821020",
-            "立法紀錄": "82卷59期2658號下冊 26-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c881c7cdcac6cfccc4cfcfcdc9c4cfcfcbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "821223",
-            "立法紀錄": "82卷75期2674號上冊 61-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c881c7cdc8cacfcec4cfcfc9cec4cfcfc7ce",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "860408",
+            "立法紀錄": "86卷15期2907號上冊 35-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c781c7c9cecacfcec4cfcfcccac4cfcfccc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcecbcfcfc5cec7cad2cdcfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5ccc9cfd2ccc9cc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "821223",
-            "立法紀錄": "82卷75期2674號上冊 81-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c881c7cdc8cacfcec4cfcfc7cec4cfcfc7c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "830114",
-            "立法紀錄": "83卷6期2680號上冊 49-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c881c7cccfc9cfcec4cfcfcbc6c4cfcfcacb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "830114",
-            "立法紀錄": "83卷6期2680號上冊 55-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c881c7cccfc9cfcec4cfcfcacac4cfcfcac9",
+            "會議日期": "860408",
+            "立法紀錄": "86卷15期2907號上冊 39-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9c7c781c7c9cecacfcec4cfcfccc6c4cfcfccc6",
             "關係文書": []
         }
     ]
