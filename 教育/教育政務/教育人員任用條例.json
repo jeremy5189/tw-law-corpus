@@ -1,8 +1,8 @@
 {
     "title": "教育人員任用條例",
     "versions": [
-        "中華民國90年1月4日修正",
-        "中華民國90年1月17日公布"
+        "中華民國90年5月11日修正",
+        "中華民國90年5月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -140,7 +140,7 @@
         {
             "note": "(特殊地區教育人員之資格)",
             "rule_no": "第二十條",
-            "content": "　　偏遠或特殊地區之學校校長、教師之資格及專業科目、技術科目、特殊科目教師及稀少性科技人員之資格，由教育部定之。",
+            "content": "　　偏遠或特殊地區之學校校長、教師之資格及專業科目、技術科目、特殊科目教師及稀少性科技人員之資格，由教育部定之。\n　　在民國八十三年二月七日前已考進師範學院幼教系及八十四年十一月十六日前已考進師範學院進修部幼教系肄業之師範生，參加偏遠地區國民小學教師甄試，其教育學科及學分之採計，由原就讀之師資培育機構依實質認定原則處理之。\n　　參加八十九學年度各縣市偏遠地區國小教師甄試錄取未獲介聘，符合前項規定者，應比照辦理。",
             "relates": {}
         },
         {
@@ -311,118 +311,72 @@
         }
     ],
     "law_reasons": {
-        "第四十一條 之一": "　　一、本條新增。\n　　二、現行專科學校法、高級中學法及職業學校法中對軍護人員之設置均有所規範，為使高級中等以上學校進用軍訓護理教師之事實有法源依據，爰予增訂。"
+        "第二十條": "　　一、現行幼教系畢業生參加偏、特地區國小教師甄試，其教育學分之採計，係由主管機關依行政裁量方式認定之。\n　　二、為保障舊制幼教系畢業生應考及服公職權利，爰增訂第二項。\n　　三、為維護報考八十九年度各縣市偏遠地區國小教師甄試經錄取，至今仍未完成介聘程序者之法律權益，特增訂第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890425",
-            "立法紀錄": "89卷20期3079號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6cdcfcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "鄭龍水",
+            "會議日期": "891222",
+            "立法紀錄": "89卷74期3133號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc681c7c6c8cbcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林炳坤",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecfcfcfc5cececbd2cecec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecacfcfc5c9cbd2c9c9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "890602",
-            "立法紀錄": "89卷32期3091號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6cccdcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "靳曾珍麗",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcecfcfc5cecdcfd2cecdca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890616",
-            "立法紀錄": "89卷35期3094號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6cccacfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "900102",
+            "立法紀錄": "90卷5期3139號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc681c6cfcfcacfcec4cfcfcfcac4cfcfcfca",
             "主提案": "林政則",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcbcfcfc5cecdc6d2cecccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcbcfcdc5cec7c9d2cec7c7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "890616",
-            "立法紀錄": "89卷35期3094號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6cccacfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "陳學聖",
+            "會議日期": "900417",
+            "立法紀錄": "90卷19期3135號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc681c6cfcec6cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "蔡同榮",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcbcfcfc5c8c6d2c7cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890620",
-            "立法紀錄": "89卷36期3095號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6ccc9cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院、考試院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcacfcec5cdcfc6d2cdceca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891107",
-            "立法紀錄": "89卷61期3120號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6c9cecfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "許素葉",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc7cfcec5c6cfd2c6cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcacfcdc5c8c9d2c8c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "891030",
-            "立法紀錄": "89卷65期3124號下冊 17-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6c9cacfccc4cfcfcec8c4cfcfcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "891214",
-            "立法紀錄": "90卷4期3138號 411-433頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c6cfcfcbcfcfc4cfcbcecec4cfcbcccc",
+            "會議日期": "900423",
+            "立法紀錄": "90卷28期3162號下冊 1-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc681c6cfcdc7cfccc4cfcfcfcec4cfcfcdcd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "900104",
-            "立法紀錄": "90卷5期3139號二冊 576-605頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c6cfcfcacfcdc4cfcac8c9c4cfc9cfca",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 169-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc681c6cfcdc9cfcec4cfcec9c6c4cfcec8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec7cfcec5cec8cdd2cec6c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc7cfcdc5cbc9ced2cbc9c6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "900104",
-            "立法紀錄": "90卷5期3139號二冊 605-606頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c6cfcfcacfcdc4cfc9cfcac4cfc9cfc9",
+            "會議日期": "900511",
+            "立法紀錄": "90卷26期3160號一冊 179-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc681c6cfcdc9cfcec4cfcec8c6c4cfcec7cf",
             "關係文書": []
         }
     ]
