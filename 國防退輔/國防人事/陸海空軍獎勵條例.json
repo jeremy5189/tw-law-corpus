@@ -1,12 +1,12 @@
 {
     "title": "陸海空軍獎勵條例",
     "versions": [
-        "中華民國60年6月29日全文修正",
-        "中華民國60年7月12日公布"
+        "中華民國83年12月29日修正",
+        "中華民國84年1月18日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -46,9 +46,9 @@
             "relates": {}
         },
         {
-            "note": "(獎金數額)",
+            "note": "(獎金種類)",
             "rule_no": "第七條",
-            "content": "　　獎金依左列區分頒給之：\n　　一、個人獎金：一萬元以下。\n　　二、團體獎金：五萬元以下。\n　　前項獎金數額，遇有特殊情事時得增給之。",
+            "content": "　　獎金種類區分如左：\n　　一、個人獎金。\n　　二、團體獎金。\n　　前項獎金數額標準，由國防部擬訂，報請行政院核定發布之。",
             "relates": {}
         },
         {
@@ -78,7 +78,7 @@
         {
             "note": "(非現役軍人或機關之獎勵事蹟)",
             "rule_no": "第十二條",
-            "content": "　　非陸、海、空軍現役軍人或非軍事機關、團體，有左列事蹟之一者，得予獎勵：\n　　一、捐輸軍費或軍用物資、軍用土地，其數額或價值，個人在三萬元以上，團體在十萬元以上者。\n　　二、戰時探知敵人重要情報，能迅速報告，不失時機者。\n　　三、在戰地協助國軍作戰或協辦戰地政務工作，功績卓著者。\n　　四、捕獲或協助捕獲敵方間諜、叛亂犯，或破獲其機關者。\n　　五、發明或改良新兵器或軍用器材物品，對軍事上確有貢獻者。\n　　六、協助軍品生產，成績優異者。\n　　七、協助軍事工程，出錢出力，促使工程順利完成者。\n　　八、協助軍事教育工作，或應聘擔任軍事學校課程講授，成績優異，能促進軍事教育之進步者。\n　　九、自動參加軍事災難之營救，有具體事蹟者。\n　　十、其他盡力於有關軍事工作，成績優異者。\n　　前項獎勵，以頒給陸海空軍通用獎章、褒狀、軍種獎章、獎狀及獎金為限。\n　　外國人具有第一項各款事蹟者，得比照獎勵之。",
+            "content": "　　非陸海空軍現役軍人或非軍事機關、團體，有左列事蹟之一者，得予獎勵：\n　　一、捐輸經費、物資或土地供軍用者，其數額或價值個人在新台幣九萬元以上，團體在新台幣三十萬元以上者。\n　　二、戰時探知敵人重要情報，能迅速報告，不失時機者。\n　　三、在戰地協助國軍作戰或協辦戰地政務工作，功績卓著者。\n　　四、捕獲或協助捕獲敵方間諜、叛亂犯、或破獲其機關者。\n　　五、發明或改良新兵器或軍用器材物品，對軍事上確有貢獻者。\n　　六、協助軍品生產，成績優異者。\n　　七、協助軍事工程，出錢出力，促使工程順利完成者。\n　　八、協助軍事教育工作，或應聘擔任軍事學校課程講授，成績優異，能促進軍事教育之進步者。\n　　九、自動參加軍事災難之營救，有具體事蹟者。\n　　十、其他盡力於有關軍事工作，成績優異者。\n　　前項獎勵，以頒給陸海空軍通用獎章、褒狀、軍種獎章、獎狀及獎金為限。\n　　外國人具有第一項各款事蹟者，得比照獎勵之。",
             "relates": {}
         },
         {
@@ -136,58 +136,48 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第七條": "　　一、首句「獎金區分」修正為「獎金種類區分如左」，以期明確。\n　　二、本條例訂頒於民國六十年，其獎金數額已不符現況需要，故將現行條文所訂獎金數字刪除，俾利執行。",
+        "第十二條": "　　一、第一項第一款修正個人及團體數額。\n　　二、第二款以下、第二項及第三項同現行條文。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600119",
-            "立法紀錄": "60卷5期0號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c9cfcbc9cfcacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "791130",
+            "立法紀錄": "79卷96期2416號 248-248頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c8c6cfc6c9cfcfc4cfcdcbc7c4cfcdcbc7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcbcfcfc5cacac6d2cac8ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cec6cfcfc5cacac8d2cac9cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "600622",
-            "立法紀錄": "60卷46期400號 8-30頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c9cfcbc8cbc9cfcfcfcec4cfcfcfc7c4cfcfcccf",
+            "進度": "委員會審查",
+            "會議日期": "830105",
+            "立法紀錄": "83卷6期2680號下冊 113-132頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c7cccfc9cfccc4cfcececcc4cfcecccd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 72-78頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c7cbcfcdcfcfc4cfcfc8cdc4cfcfc8c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcdcfcfc5caccc8d2cacac7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcecfcec5c9cdc6d2c9cccc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "600622",
-            "立法紀錄": "60卷46期400號 31-48頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c9cfcbc8cbc9cfcfcfcec4cfcfcccec4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "600625",
-            "立法紀錄": "60卷47期401號 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c9cfcbc8cbc8cfcfcfcec4cfcfcfcac4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "600625",
-            "立法紀錄": "60卷47期401號 13-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c9cfcbc8cbc8cfcfcfcec4cfcfceccc4cfcfcecb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "600629",
-            "立法紀錄": "60卷48期402號 14-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c9cfcbc8cbc7cfcfcfcec4cfcfcecbc4cfcfcec8",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 78-78頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c7cbcfcdcfcfc4cfcfc8c7c4cfcfc8c7",
             "關係文書": []
         }
     ]
