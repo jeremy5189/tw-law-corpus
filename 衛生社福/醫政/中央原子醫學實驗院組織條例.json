@@ -1,12 +1,12 @@
 {
     "title": "中央原子醫學實驗院組織條例",
     "versions": [
-        "中華民國46年4月19日制定",
-        "中華民國46年5月2日公布"
+        "中華民國68年3月27日廢止",
+        "中華民國68年4月6日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -106,51 +106,32 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「中央原子醫學實驗院組織條例」因目前各大學醫學院對原子醫學均有專門研究，且將來必要時，可併入中央衛生實驗院組織，本組織條例已無保留必要，故予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "460319",
-            "立法紀錄": "46卷19期號3冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8c981cbc9cec6cfccc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "671226",
+            "立法紀錄": "67卷103期1171號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8c881c9c8c9cdcecfcccfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5ccc9c7d2ccc8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5c6cbd2c6c8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460419",
-            "立法紀錄": "46卷19期號5冊 7-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8c981cbc9cec6cfcac4cfcfcfc8c4cfcfcecd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c9ccc6d2c9cbcb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "460416",
-            "立法紀錄": "46卷19期號4冊 113-125頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8c981cbc9cec6cfcbc4cfcececcc4cfcecdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "460419",
-            "立法紀錄": "46卷19期號5冊 80-84頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8c981cbc9cec6cfcac4cfcfc7cfc4cfcfc7cb",
+            "進度": "委員會審查",
+            "會議日期": "680110",
+            "立法紀錄": "68卷39期1211號 53-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8c881c9c7c9ccccc6cfcfc4cfcfcaccc4cfcfcacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "460419",
-            "立法紀錄": "46卷19期號5冊 84-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8c981cbc9cec6cfcac4cfcfc7cbc4cfcfc7c9",
+            "會議日期": "680327",
+            "立法紀錄": "68卷25期1197號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8c881c9c7c9cccdcacfcfc4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         }
     ]
