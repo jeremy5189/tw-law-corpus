@@ -1,8 +1,8 @@
 {
     "title": "立法院各委員會組織法",
     "versions": [
-        "中華民國62年11月20日修正",
-        "中華民國62年11月27日公布"
+        "中華民國81年2月21日修正",
+        "中華民國81年2月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　委員依立法院組織法第十九條之規定參加一委員會，應於每會期依次登記之；登記後不得退出。",
+            "content": "　　委員依立法院組織法第十九條之規定參加一委員會，應於每會期依次登記之；登記後不得退出。\n　　登記參加各委員會委員人數超出最高額時，如為避免抽籤，已登記委員得自願退出。但退出人數不得低於委員會最高額人數。",
             "relates": {}
         },
         {
@@ -137,55 +137,34 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　現行條文中「聯合召集」必須徵求其他委員會之同意，易使議案之審查難以進行，故改為由主辦之委員會召集。"
+        "第四條": "　　為配合立法院組織法第十九條之修正，增訂第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "621102",
-            "立法紀錄": "62卷84期640號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cbcd81c9cdcacdc7cbcfcfcfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "郭登敖",
+            "會議日期": "810221",
+            "立法紀錄": "81卷16期2544號 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7cbcc81c7cecfcec9cfcfc4cfcfcfc6c4cfcfcecf",
+            "主提案": "王金平",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcccfcfc5cec9d2cec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfcdcfcdc5cacbc9d2cacbc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "621102",
-            "立法紀錄": "62卷84期640號 8-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cbcd81c9cdcacdc7cbcfcfcfcec4cfcfcfc7c4cfcfcdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "621106",
-            "立法紀錄": "62卷85期641號 3-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cbcd81c9cdcacdc7cacfcfcfcec4cfcfcfccc4cfcfcfc8",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "621106",
-            "立法紀錄": "62卷85期641號 7-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cbcd81c9cdcacdc7cacfcfcfcec4cfcfcfc8c4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "621120",
-            "立法紀錄": "62卷89期645號 32-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cbcd81c9cdcacdc7c6cfcfcfcec4cfcfcccdc4cfcfcccd",
+            "會議日期": "810221",
+            "立法紀錄": "81卷16期2544號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7cbcc81c7cecfcec9cfcfc4cfcfcecfc4cfcfcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "621120",
-            "立法紀錄": "62卷89期645號 32-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cbcd81c9cdcacdc7c6cfcfcfcec4cfcfcccdc4cfcfcccc",
+            "會議日期": "810221",
+            "立法紀錄": "81卷16期2544號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7cbcc81c7cecfcec9cfcfc4cfcfcecfc4cfcfcecf",
             "關係文書": []
         }
     ]
