@@ -1,12 +1,10 @@
 {
     "title": "中華民國六十八年度所得稅稅率條例",
     "versions": [
-        "中華民國67年12月26日制定",
-        "中華民國67年12月30日公布"
+        "中華民國69年6月7日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -46,45 +44,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "671128",
-            "立法紀錄": "67卷95期1163號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ce81c9c8c9cdc6cacfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cccac9d2ccc9cc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671211",
-            "立法紀錄": "68卷14期1186號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ce81c9c7c9cdcecbcfcfc4cfcfcfcdc4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "671226",
-            "立法紀錄": "67卷103期1171號 4-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ce81c9c8c9cdcecfcccfcfc4cfcfcfcbc4cfcfcdce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5cecac9d2cec9c6"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "671226",
-            "立法紀錄": "67卷103期1171號 21-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc8ce81c9c8c9cdcecfcccfcfc4cfcfcdcec4cfcfcdce",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
