@@ -1,8 +1,8 @@
 {
     "title": "律師法",
     "versions": [
-        "中華民國60年10月19日修正",
-        "中華民國60年11月4日公布"
+        "中華民國61年12月29日修正",
+        "中華民國62年1月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　有左列情事之一者，不得充律師，其已充律師者，撤銷其律師資格：\n　　一、背叛中華民國證據確實者。\n　　二、曾受一年有期徒刑以上刑之宣告者。\n　　三、曾受第四十五條除名處分者。\n　　四、曾任公務員而受免職之懲戒處分者。\n　　五、虧空公款者。\n　　六、受破產之宣告尚未復權者。",
+            "content": "　　有左列情形之一者，不得充律師，其已充律師者，撤銷其律師資格：\n　　一、背叛中華民國經判決確定者。\n　　二、曾受一年有期徒刑以上刑之宣告者。\n　　三、曾受本法所定除名處分者。\n　　四、曾任公務員而受撤職處分其停止任用期間尚未屆滿者。\n　　五、經公立醫院證明有精神病者。\n　　六、受破產之宣告尚未復權者。",
             "relates": {}
         },
         {
@@ -317,55 +317,60 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　將本條內所稱「社會部」修正為「內政部」，以符現行體制。",
-        "第十八條": "　　將第二項條文內之「社會部」修正為「內政部」以符現行體制。",
-        "第五十條": "　　將第一項條文內「社會部」修正為「內政部」，以符現行體制。"
+        "第二條": "　　一、原條文第一款所定「背叛中華民國證據確實者，」既云證據確實應經判決確定，方可確認證據確實，故修正為：「背叛中華民國經判決確定者」。\n　　二、第三款所定「曾受本法第四十五條除名處分者」，為避免將來修正條次變更時再修改之煩，實無列明之必要修正為：「曾受本法所定除名處分者」。\n　　三、第四款所定「曾任公務員而受免職之懲戒處分者」，現行公務員懲戒法第三條第一項第一款懲戒處分為「撤職」，並非「免職」，故「免職」，已非懲戒處分之一種。再依據公務員懲戒法第三條第一項之規定：「撤職，除撤除其現職外，並於一定期間停止任用，其期間至少為一年」，基於憲法保障人民工作權利之精神，故經修正為：「曾任公務員而受撤職處分，其停止任用期間尚未屆滿者」，以期妥適。\n　　四、第五款所定「虧空公款者」，無論行政責任或刑事責任，在本條第二款及第四款中，均可包括在內，毋庸單獨存在，應予以刪除。\n　　五、因律師受當事人之委託，對人民權益，社會秩序及公共利益等，關係甚鉅，倘使患有精神病者，擔任律師工作，其危害貽誤人民權益、社會秩序及公共利益，必不堪設想增列為第五款。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600604",
-            "立法紀錄": "60卷41期395號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c981c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "611031",
+            "立法紀錄": "61卷86期539號 21-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c881c9cecacfc7c9cfcfcfcec4cfcfcdcec4cfcfcdcc",
+            "主提案": "請願案",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6cfccd2c6cfc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcecfcfc5cacbc8d2cacacb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "600624",
-            "立法紀錄": "60卷53期407號 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c981c9cfcbc8cacccfcfcfcdc4cfcfcfcec4cfcfcfcd",
+            "會議日期": "611211",
+            "立法紀錄": "62卷21期577號 11-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c881c9cdcacecdcecfcfcfcdc4cfcfcecec4cfcfcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "611204",
+            "立法紀錄": "62卷25期581號 39-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c881c9cdcacecdcacfcfcfcdc4cfcfccc6c4cfcfcbc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "601019",
-            "立法紀錄": "60卷80期433號 8-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c981c9cfcbc7c7cfcfcfcfcec4cfcfcfc7c4cfcfcecf",
+            "會議日期": "611229",
+            "立法紀錄": "61卷103期556號 109-111頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c881c9cecacfcecfcccfcfc4cfcecfc6c4cfcecece",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcecfcfc5c8c8cfd2c8c8cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcccfcfc5c6cad2c6c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "601019",
-            "立法紀錄": "60卷80期433號 10-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c981c9cfcbc7c7cfcfcfcfcec4cfcfcecfc4cfcfcece",
+            "會議日期": "611229",
+            "立法紀錄": "61卷103期556號 111-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c881c9cecacfcecfcccfcfc4cfcececec4cfcececd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "601019",
-            "立法紀錄": "60卷80期433號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c981c9cfcbc7c7cfcfcfcfcec4cfcfcecec4cfcfcece",
+            "會議日期": "611229",
+            "立法紀錄": "61卷103期556號 112-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacdc7c881c9cecacfcecfcccfcfc4cfcececdc4cfcececd",
             "關係文書": []
         }
     ]
