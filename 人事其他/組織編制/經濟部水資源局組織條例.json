@@ -1,11 +1,11 @@
 {
     "title": "經濟部水資源局組織條例",
     "versions": [
-        "中華民國95年1月13日廢止",
-        "中華民國95年1月27日公布"
+        "中華民國85年9月19日制定",
+        "中華民國85年10月16日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -88,44 +88,73 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　「經濟部水利署組織條例」業經核定自91年3月28日施行，經濟部水利署並於同日由原水資源局及水利處合併改制成立，爰予以廢止「經濟部水資源局組織條例」。",
+    "law_reasons": {
+        "第一條": "　　明定本條例制定之法源依據。",
+        "第二條": "　　因應社會經濟發展快速，對水資源之需求日高，水利工作環境大幅改變，亟需重新檢討水資源工作權責劃分與功能，爰將組織法中水利司與水資源統一規劃委員會之職掌，合併為本局業務職掌，據以統籌全國水資源事務。",
+        "第三條": "　　本局設五組，分別辦理第二條所規定之掌理事項。",
+        "第四條": "　　明定秘書室之掌理事項。",
+        "第五條": "　　明定正、副主管之官職等及職掌。",
+        "第六條": "　　一、依業務特性及實際需要，配置各職位之職稱、職務列等及員額。\n　　二、為保障現職雇員之權益，爰訂定第二項。",
+        "第七條": "　　明定人事室之編制及職掌。",
+        "第八條": "　　明定會計室之編制及職掌。",
+        "第九條": "　　依「政風機構人員設置條例」之規定設置政風室，明定其編制及職掌。",
+        "第十條": "　　明定設置職位及人員進用之依據。",
+        "第十一條": "　　一、參照八十三年全國水利會議結論與決議：為統籌經營管理全國重要流域之水資源工作，應成立流域管理單位。\n　　二、另衡酌中央與地方水利業務之權責，擇其重要流域涉及二省（市）以上者，得由中央主管機關設置流域管理機關，統籌辦理水資源相關工作，俾便達成流域整體規劃整治之目的。",
+        "第十二條": "　　明定本局辦事細則擬訂及核定之權責機關。",
+        "第十三條": "　　明定本條例之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940318",
-            "立法紀錄": "94卷12期3394號 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcbcf81c6cbcecdcfcfc4cfcfcfcac4cfcfcfc9",
+            "會議日期": "840929",
+            "立法紀錄": "84卷49期2806號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7cd81c7cbcbc6cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5cccdc7d2cccccf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfcdcfcfc5cec7cfd2cec7c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950109",
-            "立法紀錄": "95卷6期3467號二冊 395-396頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcbcf81c6cacfc9cfcdc4cfccc6cac4cfccc6c9",
+            "會議日期": "841218",
+            "立法紀錄": "84卷64期2821號 237-275頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7cd81c7cbc9cbcfcfc4cfcdccc8c4cfcdc8ca",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 357-360頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcbcf81c6cacfcacfcec4cfcccac8c4cfccc9cf",
+            "進度": "委員會審查",
+            "會議日期": "850106",
+            "立法紀錄": "85卷5期2827號 203-217頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7cd81c7cacfcacfcfc4cfcdcfccc4cfcdcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "850919",
+            "立法紀錄": "85卷43期2865號上冊 229-242頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7cd81c7cacbcccfcec4cfcdcdc6c4cfcdcbcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cecfcfd2cecfcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecececfcdc5cdc9c6d2cdc8c7"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "850919",
+            "立法紀錄": "85卷43期2865號上冊 242-248頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7cd81c7cacbcccfcec4cfcdcbcdc4cfcdcbc7",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 360-360頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcfcbcf81c6cacfcacfcec4cfccc9cfc4cfccc9cf",
+            "會議日期": "850919",
+            "立法紀錄": "85卷43期2865號上冊 248-248頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc7cd81c7cacbcccfcec4cfcdcbc7c4cfcdcbc7",
             "關係文書": []
         }
     ]
