@@ -1,10 +1,11 @@
 {
     "title": "違反糧食管理治罪條例",
     "versions": [
-        "中華民國41年11月14日全文修正",
-        "中華民國41年11月29日公布"
+        "中華民國47年12月2日修正",
+        "中華民國47年12月10日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -59,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　經營糧食業之商人，購進、售出、存儲、加工、經紀糧食，不遵照規定詳確登記帳簿或向糧食主管機關填送報表者，科糧價半數以下之罰金。\n　　業戶、農戶不遵照糧食主管機關規定報告或登記存糧者，其處罰亦同。",
+            "content": "　　經營糧食業之商人，購進、售出、存儲、加工、經紀糧食，不遵照規定詳確登記帳簿或不向糧食主管機關填送報表者，科糧價百分之二十以下之罰金。\n　　業戶、農戶不遵照糧食主管機關規定報告或登記存糧者，其處罰亦同。",
             "relates": {}
         },
         {
@@ -109,6 +110,82 @@
             "rule_no": "第十七條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "470718",
+            "立法紀錄": "47卷21期號20冊 50-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcecdcfc4cfcfcacfc4cfcfcacf",
+            "主提案": "請願案",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcdcfcfc5ccc7cfd2ccc7c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "471003",
+            "立法紀錄": "47卷22期號5冊 21-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcdcfcac4cfcfcdcec4cfcfcdcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "471202",
+            "立法紀錄": "47卷22期號12冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcdcecdc4cfcfcfcbc4cfcfcfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cdcbd2cdc9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "471114",
+            "立法紀錄": "47卷22期號10冊 17-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcdcecfc4cfcfcec8c4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "471118",
+            "立法紀錄": "47卷22期號11冊 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcdcecec4cfcfcfcdc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "471202",
+            "立法紀錄": "47卷22期號12冊 43-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcdcecdc4cfcfcbccc4cfcfcbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "471202",
+            "立法紀錄": "47卷22期號12冊 48-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcdcecdc4cfcfcbc7c4cfcfcacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "471202",
+            "立法紀錄": "47卷22期號12冊 53-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcdcecdc4cfcfcaccc4cfcfcacb",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "471202",
+            "立法紀錄": "47卷22期號12冊 54-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc881cbc8cdcdcecdc4cfcfcacbc4cfcfcacb",
+            "關係文書": []
         }
     ]
 }
