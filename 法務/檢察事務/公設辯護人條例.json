@@ -1,12 +1,12 @@
 {
     "title": "公設辯護人條例",
     "versions": [
-        "中華民國56年7月18日修正",
-        "中華民國56年8月1日公布"
+        "中華民國69年6月20日修正",
+        "中華民國69年7月4日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -126,7 +126,7 @@
         {
             "note": "",
             "rule_no": "第二十條",
-            "content": "　　公設辯護人對於承辦案件，應造具月報表，報由該管法院院長轉呈司法行政部。\n　　前項月報表格式，由司法行政部定之。",
+            "content": "　　公設辯護人對於承辦案件應造具月報表，報由該管法院院長轉報司法院。\n　　前項月報表格式，由司法院定之。",
             "relates": {}
         },
         {
@@ -168,29 +168,59 @@
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　本條例施行日期及區域，由司法行政部定之。",
+            "content": "　　本條例施行日期及區域，由司法院定之。",
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二十條": "　　公設辯護人設置於高等以下各級法院所在地，依本條例第二十三條之規定，受該管高等法院院長之監督。高等法院以下各級法院改隸司法院後，表報事宜自應層轉司法院審核。爰將第一項之「轉呈司法行政部」修正為「轉報司法院」，第二項之「司法行政部」修正為「司法院」。",
+        "第二十七條": "　　高等以下各級法院改隸司法院後，本條例之施行日期及區域，自應改由司法院定之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "560714",
-            "立法紀錄": "56卷5期號7冊 750-756頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc981cac9ccc6cfc8cfcac4cfc8cacfc4cfc8cac9",
-            "主提案": "ⓙ士源",
+            "會議日期": "690422",
+            "立法紀錄": "69卷33期1309號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc781c9c6c9cacccccfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcccfcfc5c9c7cbd2c9c7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcccfcfc5cbc7ced2cbc7cb"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "690602",
+            "立法紀錄": "69卷70期1346號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc781c9c6c9cac8cfcfcfc4cfcfcfccc4cfcfcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 62-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc781c9c6c9cacacfcfcfc4cfcfc9cdc4cfcfc9ca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5c6c8d2c6c6"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 65-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc781c9c6c9cacacfcfcfc4cfcfc9cac4cfcfc9ca",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "560718",
-            "立法紀錄": "56卷6期號7冊 785-787頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc981cac9ccc6cfc8cfc9c4cfc8c7cac4cfc8c7c8",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 65-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc781c9c6c9cacacfcfcfc4cfcfc9cac4cfcfc9ca",
             "關係文書": []
         }
     ]
