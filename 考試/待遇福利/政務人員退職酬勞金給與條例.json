@@ -1,12 +1,10 @@
 {
     "title": "政務人員退職酬勞金給與條例",
     "versions": [
-        "中華民國89年12月5日修正",
-        "中華民國89年12月15日公布"
+        "中華民國92年12月31日期滿廢止"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -124,55 +122,5 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十九條": "　　增列第四項，明定本條例施行期限延長一年，至中華民國九十年十二月三十一日止，以避免產生法律適用窒礙情形。"
-    },
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "891027",
-            "立法紀錄": "89卷58期3117號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7c8cd81c7c6cac7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "劉光華",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc9cfcdc5c9cdcbd2c9cdc9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "891106",
-            "立法紀錄": "89卷66期3125號下冊 51-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7c8cd81c7c6c9c9cfccc4cfcfcacec4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "891205",
-            "立法紀錄": "89卷69期3128號上冊 83-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7c8cd81c7c6c9c6cfcec4cfcfc7ccc4cfcfc6cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcececfcec5cdcdced2cdcdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "891205",
-            "立法紀錄": "89卷69期3128號上冊 91-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7c8cd81c7c6c9c6cfcec4cfcfc6cec4cfcfc6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "891205",
-            "立法紀錄": "89卷69期3128號上冊 91-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c6cbcdcdc7c8cd81c7c6c9c6cfcec4cfcfc6cec4cfcfc6ce",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
