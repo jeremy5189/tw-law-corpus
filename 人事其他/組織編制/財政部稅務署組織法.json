@@ -1,11 +1,12 @@
 {
     "title": "財政部稅務署組織法",
     "versions": [
-        "中華民國30年12月27日修正",
-        "中華民國31年1月10日公布"
+        "中華民國62年10月16日廢止",
+        "中華民國62年10月26日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -139,6 +140,37 @@
             "rule_no": "第二十二條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　財政部稅務署組織法係二十五年公布施行，迨三十七年間，財政部奉命將稅務署與直接稅署合併成立國稅署而歸裁撤，該稅務署既早已不存在，其組織法自無保留必要，故予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "570531",
+            "立法紀錄": "57卷40期0號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcfcd81cac8cbcecbcfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "571009",
+            "立法紀錄": "57卷79期0號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcfcd81cac8cbcdc8c6cfcfc4cfcfcfcdc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "620809",
+            "立法紀錄": "62卷83期639號 14-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcfcd81c9cdcacdc7cccfcfcfcdc4cfcfcecbc4cfcfcec9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "621016",
+            "立法紀錄": "62卷79期635號 20-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdcfcd81c9cdcacdc8c6cfcfcfcec4cfcfcdcfc4cfcfcdcd",
+            "關係文書": []
         }
     ]
 }
