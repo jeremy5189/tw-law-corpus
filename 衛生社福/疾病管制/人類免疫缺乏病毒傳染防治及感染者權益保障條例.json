@@ -1,8 +1,8 @@
 {
     "title": "人類免疫缺乏病毒傳染防治及感染者權益保障條例",
     "versions": [
-        "中華民國88年3月30日修正",
-        "中華民國88年4月21日公布"
+        "中華民國88年12月30日修正",
+        "中華民國89年1月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本條例所稱衛生主管機關：在中央為行政院衛生署；在省（市）為省（市）政府衛生處（局）；在縣（市）為縣（市）政府。",
+            "content": "　　本條例所稱衛生主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -155,47 +155,46 @@
         }
     ],
     "law_reasons": {
-        "第九條": "　　配合刑法第二百二十一條等之修正，原條文第一項「姦淫」修改為「性交」。"
+        "第三條": "　　為配合臺灣省政府功能業務與組織之調整，將原條文中之「省政府衛生處」刪除。另將直轄市主管機關之層級提升為直轄市政府，以與地方制度法將地方自治團體之組織列為其自治事項之立法意旨配合。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 219-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdc9cc81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
-            "主提案": "謝啟大",
+            "會議日期": "881001",
+            "立法紀錄": "88卷42期3042號上冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdc9cb81c7c7cbcdcfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cdc8c7d2cdc7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5c9caced2c9cacc"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 219-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdc9cc81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
-            "主提案": "謝啟大",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfccc5c9cbc9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 249-250頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdc9cc81c7c7cecccfcec4cfcdcbc6c4cfcdcacf",
+            "進度": "委員會審查",
+            "會議日期": "881209",
+            "立法紀錄": "88卷59期3059號下冊 1-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdc9cb81c7c7cac6cfccc4cfcfcfcec4cfcfcfc9",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "881230",
+            "立法紀錄": "89卷2期3061號上冊 319-321頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdc9cb81c7c6cfcdcfcec4cfcccec6c4cfcccdce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5cbcfcdd2cbcfcb"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 250-250頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdc9cc81c7c7cecccfcec4cfcdcacfc4cfcdcacf",
+            "會議日期": "881230",
+            "立法紀錄": "89卷2期3061號上冊 321-321頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdc9cb81c7c6cfcdcfcec4cfcccdcec4cfcccdce",
             "關係文書": []
         }
     ]
