@@ -1,8 +1,8 @@
 {
     "title": "鐵路法",
     "versions": [
-        "中華民國90年5月8日修正",
-        "中華民國90年5月23日公布"
+        "中華民國92年6月6日修正",
+        "中華民國92年6月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -366,7 +366,7 @@
         {
             "note": "",
             "rule_no": "第五十六條",
-            "content": "　　經營旅客、物品運送之鐵路機構，應遵行左列規定：\n　　一、對行車路線之坡度、彎度、變電站、電車線、電力調配、列車調配、行車速度、機車車輛檢查、養護、平交道、標誌、號誌、看守人及車站之設施應妥善規劃設計，並設有旅客在站之安全措施。\n　　二、對從業人員應予以有效之訓練與管理，使其確切瞭解並嚴格執行鐵路法令之規定。有關行車人員之技能、體格，應施行定期檢查及臨時檢查；經檢查不合標準者，應限制、暫停或調整其職務。\n　　三、對行車事故，應蒐集資料調查研究，鑑定責任，並採取預防措施。",
+            "content": "　　經營旅客、物品運送之鐵路機構，應遵行左列規定：\n　　一、對行車路線之坡度、彎度、變電站、電車線、電力調配、列車調配、行車速度、機車車輛檢查、養護、平交道、標誌、號誌、看守人及車站之設施應妥善規劃設計，並設有旅客在站之安全措施。\n　　二、對從業人員應予以有效之訓練與管理，使其確切瞭解並嚴格執行鐵路法令之規定。有關行車人員之技能、體格及精神狀況，應施行定期檢查及臨時檢查；經檢查不合標準者，應暫停或調整其職務。\n　　三、對行車事故，應蒐集資料調查研究，鑑定責任，並採取預防措施。",
             "relates": {}
         },
         {
@@ -499,77 +499,53 @@
         }
     ],
     "law_reasons": {
-        "第二十九條": "　　為落實法律保留原則，爰將現行地方營、民營及專用鐵路監督實施辦法第十八條，對於地方營、民營鐵路逾期未申請立案，應廢止其籌辦之涉及人民權利義務之規定增訂於本條，並明定須報請行政院備案，以配合鐵路法第二十八條核准籌辦之程序。",
-        "第四十二條": "　　因高速鐵路計畫係民間投資案，具有特許營運年限之特性，因此限制其全年純益超過實收資本額百分之二十五時，其超過額之全數，應用以擴充或改良設備之規定，將使民間投資業者在特許營運時間內，難以維持合理報酬。爰增列但書，規定對於依政府獎勵民間投資法令公告徵求民間參與鐵路建設之興建、營運而受獎勵之民營鐵路機構，其攤提全路建築及設備折舊後之盈餘分配，不受百分之二十五之限制。",
-        "第四十三條": "　　現行民營鐵路機構準用國營鐵路機構之會計制度，確有窒礙難行之處，鑑於現行商業與證券交易相關法規對於民營鐵路機構已足以規範，另考量鐵路事業仍有其特殊性，爰予以修正之。",
-        "第六十六條": "　　依行政程序法之規定，使違法行政處分失其效力者為撤銷，使合法行政處分失其效力者為廢止，爰加以修正之。",
-        "第六十七條": "　　一、為落實法律保留原則，爰將現行地方營、民營及專用鐵路監督實施辦法第十八條，對於地方營、民營鐵路未依限期開工、竣工之涉及人民權利義務之處罰規定，酌予修正後增訂於第一項第一款。\n　　二、依行政程序法規定，使違法行政處分失其效力者為撤銷，使合法行政處分失其效力者為廢止，爰予以修正之。"
+        "第五十六條": "　　鐵路行車人員行車前之檢查並未做明確規範，為保障社會大眾之乘車安全，爰於鐵路法第五十六條第二項中增列有關行車前檢測之規定，並在有關行車人員應施行定期檢查及臨時檢查項目中增列身心狀況乙項，以資周全。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881001",
-            "立法紀錄": "88卷42期3042號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c7c7cbcdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "911108",
+            "立法紀錄": "91卷67期3263號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc781c6cec9c8cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "羅世雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5caccc6d2cacbcb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891024",
-            "立法紀錄": "89卷57期3116號上冊 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c7c6cac8cfcec4cfcfcecfc4cfcfcecf",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc9cfcec5cccaced2cccac8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc7cfcec5cdcbced2cdcbcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881122",
-            "立法紀錄": "88卷54期3054號下冊 221-233頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c7c7cacbcfccc4cfcdcdcec4cfcdcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "900308",
-            "立法紀錄": "90卷13期3147號 3-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c6cfcecccfcfc4cfcfcfccc4cfcfcdcd",
+            "會議日期": "920519",
+            "立法紀錄": "92卷32期3306號下冊 345-360頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc781c6cdcccdcfccc4cfcccbcac4cfccc9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "900508",
-            "立法紀錄": "90卷24期3158號上冊 123-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c6cfcdcbcfcec4cfcecdccc4cfceccc9",
+            "會議日期": "920606",
+            "立法紀錄": "92卷34期3308號三冊 95-98頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc781c6cdcccbcfccc4cfcfc6cac4cfcfc6c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc8cfcfc5ccccc7d2cccbc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5ccc6ccd2ccc6c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "900508",
-            "立法紀錄": "90卷24期3158號上冊 136-137頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c6cfcdcbcfcec4cfceccc9c4cfceccc8",
+            "會議日期": "920606",
+            "立法紀錄": "92卷34期3308號三冊 98-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc781c6cdcccbcfccc4cfcfc6c7c4cfcfc6c6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "900508",
-            "立法紀錄": "90卷24期3158號上冊 137-138頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc881c6cfcdcbcfcec4cfceccc8c4cfceccc7",
+            "會議日期": "920606",
+            "立法紀錄": "92卷34期3308號三冊 99-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfccc781c6cdcccbcfccc4cfcfc6c6c4cfcfc6c6",
             "關係文書": []
         }
     ]
