@@ -1,11 +1,11 @@
 {
     "title": "行政院青年輔導委員會組織條例",
     "versions": [
-        "中華民國102年12月31日廢止",
-        "中華民國103年1月15日公布"
+        "中華民國71年4月27日制定",
+        "中華民國71年5月7日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -124,59 +124,100 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　配合行政院組織改造作業，教育部青年署組織法業於102年6月19日公布，102年9月1日施行，爰將行政院青年輔導委員會組織條例予以廢止。",
+    "law_reasons": {
+        "第一條": "　　青年為國家之棟樑，青年人力資源甚為寶貴，必須從多方面予以有效輔導俾期人盡其才，才盡其用，為期青年輔導委員會能達成此項任務，必須加強其權責，爰於本條明定由行政院設青年輔導委員會，以統籌處理全國青年輔導事宜。",
+        "第二條": "　　本條明定青輔會分設四處、一室。",
+        "第三條": "　　本條明定青輔會第一處之職掌。",
+        "第四條": "　　本條明定青輔會第二處之職掌。",
+        "第五條": "　　本條明定青輔會第三處之職掌。",
+        "第六條": "　　本條明定青輔會第四處之職掌。",
+        "第七條": "　　本條明定青輔會秘書室之職掌，並得分科辦事。",
+        "第八條": "　　青輔會業務範圍既廣，且參與青年輔導政策之制定，爰明定置主任委員一人，並依同等級委員會之例定為特任或比照第十四職等。另置副主任委員一人，職位列第十三或第十四職等，襄助主任委員處理會務。",
+        "第九條": "　　青年輔導問題範圍至廣，勢非單獨一個行政機構所能獨立完成，爰明定置委員十五人至十九人，由行政院就有關機關副首長或幕僚長遴聘外，並遴聘部分工商界領袖或學者專家為委員，以期集思廣益分工合作，協力完成任務。至工商界領袖或學者專家之聘期則固定為二年，得連聘以保持適度彈性。",
+        "第十條": "　　本條明定委員會議召開之時間，與主席及代理主席之產生方式，以為青輔會擬訂會議規則之依據。",
+        "第十一條": "　　青輔會經衡酌其業務發展趨勢，估列其組織員額，惟仍將視其實際需要及本諸精簡原則，依其業務開展情形，逐年編列預算員額，進用人員。",
+        "第十二條": "　　青輔會之組織型態與一般院屬部會機關相同，爰明定設置人事室，俾依法律規定辦理人事管理事項。",
+        "第十三條": "　　青輔會之經費係單獨編列預算，爰明定設置會計室，俾依法律規定辦理歲計、會計及統計等事項。",
+        "第十四條": "　　本會因業務需要，所聘之顧問、研究委員人數，均已列在總員額之內，依實際情況決定是否聘用。",
+        "第十五條": "　　青輔會係適用公務職位分類法之機關，爰明定其職系之遴用範圍。",
+        "第十六條": "　　青輔會所輔導青年問題至為廣泛，且多牽涉專門技術，為便於網羅專家學者參與各項輔導業務之策訂與規劃，宜視實際需要設置各種委員會。爰明定各種委員會之設置應報經行政院核准，所需辦事人員則就本條例所定總員額內調用。",
+        "第十七條": "　　青輔會因辦理青年就業、創業及其他業務之需要，亟需有青年職業訓練中心及其他服務機構之設立，爰明定於報經行政院核准後設立之。",
+        "第十八條": "　　明定青輔會之會議規則及辦事細則，由青輔會自行擬定後，報請行政院核定之。",
+        "第十九條": "　　明定本條例之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020226",
-            "立法紀錄": "102卷7期4032號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9cdc981cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "691121",
+            "立法紀錄": "69卷94期1370號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c9c6c9c9c6cbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecdced2cecdcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cbc6cad2cacfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1021205",
-            "立法紀錄": "102卷83期4108號 173-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9cdc981cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
+            "會議日期": "700325",
+            "立法紀錄": "70卷50期1431號 52-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c8cfc9c8cacfcfcfc4cfcfcacdc4cfcfc9ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "701118",
+            "立法紀錄": "71卷30期1515號 139-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c8cec9c6cccfcfcfc4cfceccc6c4cfcecbc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "701202",
+            "立法紀錄": "71卷31期1516號 173-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c8cec9c6cccecfcfc4cfcec8ccc4cfcec8c6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "701209",
+            "立法紀錄": "71卷32期1517號 119-128頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c8cec9c6cccdcfcfc4cfcecec6c4cfcecdc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 353-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9cdc981cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
+            "會議日期": "710416",
+            "立法紀錄": "71卷31期1516號 60-73頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c8cec9c6cccecfcfc4cfcfc9cfc4cfcfc8cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c6c9d2c6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfc8cfcfc5c9cec8d2c9cdc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9cdc981cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "710420",
+            "立法紀錄": "71卷32期1517號 27-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c8cec9c6cccdcfcfc4cfcfcdc8c4cfcfccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "710423",
+            "立法紀錄": "71卷33期1518號 17-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c8cec9c6cccccfcfc4cfcfcec8c4cfcfcdce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 378-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc9cdc981cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
+            "會議日期": "710427",
+            "立法紀錄": "71卷34期1519號 11-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc6c8cc81c8cec9c6cccbcfcfc4cfcfcecec4cfcfceca",
             "關係文書": []
         }
     ]
