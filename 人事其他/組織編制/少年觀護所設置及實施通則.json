@@ -1,8 +1,8 @@
 {
     "title": "少年觀護所設置及實施通則",
     "versions": [
-        "中華民國63年12月10日修正",
-        "中華民國63年12月21日公布"
+        "中華民國68年3月23日修正",
+        "中華民國68年4月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -92,7 +92,7 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　少年觀護所教導組置導師一人至五人，鑑別組置導師一人至三人，均薦任或委任。\n　　醫務組置醫師一人至三人，薦任；藥劑師或藥劑生一人，藥劑師委任或薦任，藥劑生委任，護士一人或二人，委任。",
+            "content": "　　少年觀護所教導組置導師一人至五人，鑑別組置導師一人至三人，均薦任或委任。\n　　醫務組置醫師一人至三人，薦任；藥師或藥劑生一人，藥師委任或薦任，藥劑生委任；護士一人或二人，委任。",
             "relates": {}
         },
         {
@@ -241,60 +241,34 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　將原列分類職等換列簡薦委職等。",
-        "第六條": "　　將原列分類職等換列簡薦委職等。",
-        "第七條": "　　一、將原列分類職等換列簡薦委職等。\n　　二、為符合當前精簡機構政策規模較小之少年觀護所置醫師一人即可適應，無設組必要，擬將原規定應設四組修正為應設三組，另醫務組改為得設。",
-        "第十三條": "　　一、導師非盡屬技術人員，且聘用人員，受聘期限制，缺乏保障，羅致困難，擬改列為有職等人員。\n　　二、將原列分類職等換列簡薦委職等。",
-        "第十四條": "　　將原列分類職等換列簡薦委職等。",
-        "第十五條": "　　將原列分類職等換列簡薦委職等。",
-        "第十六條": "　　將原列分類職等換列簡薦委職等。",
-        "第十七條": "　　將原列分類職等換列簡薦委職等。"
+        "第十三條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "630920",
-            "立法紀錄": "63卷70期726號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c981c9cccaccc8cfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 24-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c781c9c7c9cccdcccfcfc4cfcfcdcbc4cfcfcdca",
+            "主提案": "吳延環",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacbcfcecfcfc5cbcbc6d2cbcaca"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "631019",
-            "立法紀錄": "64卷5期759號 28-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c981c9cbcacbcfcacfcfcfcdc4cfcfcdc7c4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "631210",
-            "立法紀錄": "63卷93期749號 21-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c981c9cbcacbc6cccfcfcfcec4cfcfcdcec4cfcfcdc8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacbcfcccfcfc5cdcfc8d2cdceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cbc6ccd2cbc6cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "631210",
-            "立法紀錄": "63卷93期749號 27-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c981c9cbcacbc6cccfcfcfcec4cfcfcdc8c4cfcfcdc8",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 25-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c781c9c7c9cccdcccfcfc4cfcfcdcac4cfcfcdca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "631210",
-            "立法紀錄": "63卷93期749號 27-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c981c9cbcacbc6cccfcfcfcec4cfcfcdc8c4cfcfcdc8",
+            "會議日期": "680323",
+            "立法紀錄": "68卷24期1196號 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c8c781c9c7c9cccdcbcfcfc4cfcfcfc6c4cfcfcecf",
             "關係文書": []
         }
     ]
