@@ -1,8 +1,8 @@
 {
     "title": "財政部證券暨期貨管理委員會組織條例",
     "versions": [
-        "中華民國61年12月1日制定",
-        "中華民國61年12月11日公布"
+        "中華民國71年1月12日修正",
+        "中華民國71年1月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,7 +12,7 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　經濟部為管理、監督證券發行及證券交易，設證券管理委員會。",
+            "content": "　　財政部為管理、監督證券發行及證券交易，設證券管理委員會。",
             "relates": {}
         },
         {
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本會置主任委員一人，綜理會務；副主任委員一人，襄理會務；職位均列第十至第十四職等。並置委員三人至五人，由經濟部商業司司長、財政部錢幣司司長、中央銀行金融業務檢查處處長及其他有關機關派員兼任之。\n　　本會委員開會時，以主任委員為主席；主任委員因故不能出席時，以副主任委員為主席。",
+            "content": "　　本會置主任委員一人，綜理會務；副主任委員一人，襄理會務；職位均列第十至第十四職等。並置委員三人至五人，由財政部金融司司長、經濟部商業司司長、中央銀行金融業務檢查處處長及其他有關機關派員兼任之。\n　　本會委員開會時，以主任委員為主席；主任委員因故不能出席時，以副主任委員為主席。",
             "relates": {}
         },
         {
@@ -60,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　本會議事規則、辦事細則，由本會擬訂，呈請經濟部核定之。",
+            "content": "　　本會議事規則、辦事細則，由本會擬訂，報請財政部核定之。",
             "relates": {}
         },
         {
@@ -71,90 +71,55 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　明定證券管理委員會之設立目的。",
-        "第二條": "　　本條規定證券管理委員會之總職掌。",
-        "第三條": "　　本條規定本會設四組，分科辦事。",
-        "第四條": "　　明定本會秘書室之職掌。",
-        "第五條": "　　明定主任委員、副主任委員之職掌及官等職等。",
-        "第六條": "　　明定本會編制員額職等。",
-        "第七條": "　　明定人事、會計人員之官等職等及職掌。",
-        "第八條": "　　明定本條例列有官等職等人員之職系，應依公務職位分類法及職系說明書選用。",
-        "第九條": "　　明定本會議事規則、辦事細則，由本會擬訂，呈請經濟部核定。",
-        "第十條": "　　明定本條例施行日期。"
+        "第一條": "　　為配合證券管理委員會之改隸，將現行條文中「經濟部」修正為「財政部」。",
+        "第五條": "　　為配合財政部組織法之修正，將「財政部錢幣司司長」修正為「財政部金融司司長」。",
+        "第九條": "　　將現行條文中「呈請經濟部」一語修正為「報請財政部」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600511",
-            "立法紀錄": "60卷34期388號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cfcbc8cccbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "700630",
+            "立法紀錄": "70卷52期1433號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9ca81c8cfc9c8cacdcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5cccad2ccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc8cfcfc5cdcfc7d2cdcece"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601013",
-            "立法紀錄": "60卷96期449號 30-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cfcbc7c6c9cfcfcfcdc4cfcfcccfc4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601021",
-            "立法紀錄": "60卷97期450號 36-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cfcbc7c6c8cfcfcfcdc4cfcfccc9c4cfcfcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601027",
-            "立法紀錄": "60卷98期451號 56-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cfcbc7c6c7cfcfcfcdc4cfcfcac9c4cfcfc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601206",
-            "立法紀錄": "61卷7期460號 12-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cecbc7cfc8cfcfcfcdc4cfcfcecdc4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601216",
-            "立法紀錄": "61卷37期490號 23-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cecbc6ccc8cfcfcfcdc4cfcfcdccc4cfcfcdc8",
+            "會議日期": "701221",
+            "立法紀錄": "71卷36期1521號 110-111頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9ca81c8cec9c6ccc9cfcfc4cfcececfc4cfcecece",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "611201",
-            "立法紀錄": "61卷95期548號 19-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cecacfc6cacfcfcfcec4cfcfcec6c4cfcfcccf",
+            "會議日期": "710112",
+            "立法紀錄": "71卷4期1489號 6-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9ca81c8cec9c7cfcbcfcfc4cfcfcfc9c4cfcfcfc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5c6ccd2cececf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfc7cfcfc5cecacdd2cecaca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "611201",
-            "立法紀錄": "61卷95期548號 30-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cecacfc6cacfcfcfcec4cfcfcccfc4cfcfcccc",
+            "會議日期": "710112",
+            "立法紀錄": "71卷4期1489號 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9ca81c8cec9c7cfcbcfcfc4cfcfcfc6c4cfcfcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "611201",
-            "立法紀錄": "61卷95期548號 33-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9cb81c9cecacfc6cacfcfcfcec4cfcfccccc4cfcfccca",
+            "會議日期": "710112",
+            "立法紀錄": "71卷4期1489號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccccc9ca81c8cec9c7cfcbcfcfc4cfcfcecfc4cfcfcecf",
             "關係文書": []
         }
     ]
