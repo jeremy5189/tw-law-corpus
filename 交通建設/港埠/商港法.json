@@ -1,8 +1,8 @@
 {
     "title": "商港法",
     "versions": [
-        "中華民國84年12月21日修正",
-        "中華民國85年1月10日公布"
+        "中華民國86年4月15日修正",
+        "中華民國86年5月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -56,7 +56,7 @@
         {
             "note": "(商港建設費及費率)",
             "rule_no": "第七條",
-            "content": "　　為促進商港及相關商港建設，得於各國際商港就國際進口、出口貨物收取商港建設費；其費率不得超過進口、出口貨物價格百分之一。但經行政院基於政策減收或免收者，從其規定。\n　　商港建設費，應全部用於商港及相關商港建設。但國際商港建設費不得少於百分之五十；其收取、分配、基金保管及運用辦法，由交通部會同財政部、經濟部擬訂，報請行政院核定之。",
+            "content": "　　為促進商港建設，得於各國際商港就所裝卸之貨物收取商港建設費；其費率不得超過貨物價格百分之一。但經行政院基於政策減收或免收者，從其規定。\n　　商港建設費，應全部用於商港建設；其收取、分配、基金保管及運用辦法，由交通部會同財政部、經濟部擬訂，報請行政院核定之。",
             "relates": {}
         },
         {
@@ -354,51 +354,52 @@
         {
             "note": "(施行日)",
             "rule_no": "第五十一條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文第七條施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十二條": "　　目前公私事業機構經營商港設施，均已開放中外航商或其他事業機構自由競標。本國船舶運送業或貨櫃集散站經營業並未有優先權，現行條文第一項末段規定已不符現況，爰予刪除。"
+        "第七條": "　　一、第一項規定，對於使用國際商港設施之國內航線貨物，未有比照國際進出口貨物收取商港建設費之規定，有違關稅暨貿易總協定第三條第四項國民待遇原則及第八條第一項不得含有對本國產品間接保護之規定，爰將收取對象修正為「得於各國際商港就所裝卸之貨物」，俾包括國內航線貨物在內。\n　　二、關稅暨貿易總協定第八條第一項及第二條第二項第三款有專款專用之要求，而第一項、第二項相關商港建設及第二項前段但書規定，在文義上顯有可專款不專用之含義，故予以刪除。",
+        "第五十一條": "　　為配合我國加入世界貿易組織之時程，爰增訂第二項之修正條文，其施行日期由行政院訂定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "840704",
-            "立法紀錄": "84卷43期2800號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cb81c7cbcbcccfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "洪昭男",
+            "會議日期": "851217",
+            "立法紀錄": "85卷68期2890號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8ca81c7cac9c7cfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdcbcfcdc5cacacfd2cacace"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcdcdcfcfc5cdcec6d2cdcdcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "841018",
-            "立法紀錄": "84卷56期2813號 3-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cb81c7cbcac9cfcfc4cfcfcfccc4cfcfcecd",
+            "會議日期": "860310",
+            "立法紀錄": "86卷9期2901號下冊 175-200頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8ca81c7c9cfc6cfccc4cfcec8cac4cfcdcfcf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "841221",
-            "立法紀錄": "84卷64期2821號 25-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cb81c7cbc9cbcfcfc4cfcfcdcac4cfcfcdc8",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 90-95頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8ca81c7c9cec8cfcec4cfcfc6cfc4cfcfc6ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cecfcfccc5cccbc7d2cccacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5cccecbd2cccec7"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "841221",
-            "立法紀錄": "84卷64期2821號 27-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8cb81c7cbc9cbcfcfc4cfcfcdc8c4cfcfcdc8",
+            "會議日期": "860415",
+            "立法紀錄": "86卷17期2909號上冊 95-95頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbc7c8ca81c7c9cec8cfcec4cfcfc6cac4cfcfc6ca",
             "關係文書": []
         }
     ]
