@@ -1,8 +1,8 @@
 {
     "title": "經濟部國際貿易局組織條例",
     "versions": [
-        "中華民國59年12月11日制定",
-        "中華民國59年12月24日公布"
+        "中華民國66年12月16日修正",
+        "中華民國66年12月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -19,13 +19,33 @@
             "note": "",
             "rule_no": "第二條",
             "content": "　　本局掌理左列事項：\n　　一、農、林、漁、畜、礦及工業產製品等出口申請案之審核與發證事項。\n　　二、物資進口申請案之審核與發證事項。\n　　三、華僑及外國人投資案件輸入商品之監督與審核事項。\n　　四、年度出進口貿易策劃事項。\n　　五、外銷商品品質、包裝等有關問題之研究、改進事項。\n　　六、外銷商品標準及檢驗之研究與建議事項。\n　　七、出進口貿易商、代理商及其他出進口廠商有關貿易之管理事項。\n　　八、國際市場之調查，分析事項。\n　　九、國際貿易之研究發展事項。\n　　十、其他有關國際貿易事項。\n　　前項第一款至第三款之審核準則，由行政院定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01909",
+                        "law_name": "經濟部國際貿易局組織條例",
+                        "numbers": [
+                            "第三條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第三條",
             "content": "　　本局設五組，分掌前條各事項，並得分科辦事。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01909",
+                        "law_name": "經濟部國際貿易局組織條例",
+                        "numbers": [
+                            "第二條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -41,27 +61,85 @@
         },
         {
             "note": "",
+            "rule_no": "第五條 之一",
+            "content": "　　本局得視業務需要，報經行政院核准，於各重要產銷區域設置辦事處，其組織通則另定之。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01910",
+                        "law_name": "經濟部國際貿易局所屬各辦事處組織通則",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "",
             "rule_no": "第六條",
             "content": "　　本局置局長一人，綜理局務；副局長一人或二人，襄理局務；其職位均列第十至第十四職等。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01909",
+                        "law_name": "經濟部國際貿易局組織條例",
+                        "numbers": [
+                            "第九條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第七條",
             "content": "　　本局置組長五人，職位列第八至第十二職等；副組長五人，職位列第七至第十一職等；主任一人，職位列第七至第十一職等；專門委員五人至七人，職位列第八至第十二職等；秘書五人至十一人，稽核十人至十八人，技正五人至十一人，職位均列第六至第九職等，各職稱中之五人均得列第十或第十一職等；科長十五人至二十一人，編譯三人至七人，專員二十二人至三十六人，職位均列第六至第九職等；技士六人至十人，職位列第一至第五職等，其中四人得列第六或第七職等；科員四十七人至六十七人，職位列第一至第五職等，其中二十一人得列第六或第七職等；辦事員二十八人至三十五人，職位列第一至第五職等；書記十五人至二十五人，職位列第一至第三職等。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01909",
+                        "law_name": "經濟部國際貿易局組織條例",
+                        "numbers": [
+                            "第九條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第八條",
             "content": "　　本局設人事室、會計室及統計室，各置主任一人，其職位均列第六至第九職等；依法律規定，分別辦理人事、歲計、會計及統計事項。\n　　前項各室所需工作人員，應就本條例所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01909",
+                        "law_name": "經濟部國際貿易局組織條例",
+                        "numbers": [
+                            "第九條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第九條",
             "content": "　　第六條至第八條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就商業行政、一般行政管理、稽核、人事行政、文書、會計、統計及其他有關職系選用之。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01909",
+                        "law_name": "經濟部國際貿易局組織條例",
+                        "numbers": [
+                            "第六條",
+                            "第七條",
+                            "第八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -83,196 +161,53 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　明定國際貿易局之設立目的及隸屬關係。",
-        "第二條": "　　明定本局掌理事項。",
-        "第三條": "　　明定本局依掌理業務性質，分設五組。",
-        "第四條": "　　明定秘書室之設置及掌理事項。",
-        "第五條": "　　明定貨品分類委員會之設置及掌理事項。",
-        "第六條": "　　明定局長、副局長之設置及職掌。",
-        "第七條": "　　明定本局所置人員之職稱、職等及員額。",
-        "第八條": "　　人事室、會計室及統計室之設置及其業務範圍。",
-        "第九條": "　　明定本局所定各職稱人員，其職位所適用職系之法律依據。",
-        "第十條": "　　基於分層負責，本局對外公文，以「經濟部」名義行之。但部分事項，得由本局行文。",
-        "第十一條": "　　明定本局辦事細則之擬訂機關及核定程序。",
-        "第十二條": "　　明定本條例施行日期。"
+        "第五條 之一": "　　經濟部國際貿易局所屬各辦事處組織通則草案之立法法源，係依據經濟部國際貿易局組織條例新增第五條之一條文，在立法程序上，須俟該新增條文經院會通過，咨請總統公布，正式生效後，方能為各辦事處組織通則草案審議之依據。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580401",
-            "立法紀錄": "58卷23期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcccdcccfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "661125",
+            "立法紀錄": "66卷95期1058號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cf81c9c9c9cfc6cacfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcecfcfc5c7cccfd2c7cccc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "580401",
-            "立法紀錄": "58卷23期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcccdcccfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfc9cfcfc5cbd2c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcdcfcfc5c9c9c6d2c9c8c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580503",
-            "立法紀錄": "58卷45期0號 6-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcccbcacfcfcfcdc4cfcfcfc9c4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580521",
-            "立法紀錄": "58卷46期0號 11-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcccbc9cfcfcfcdc4cfcfcecec4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580528",
-            "立法紀錄": "58卷49期0號 13-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcccbc6cfcfcfcdc4cfcfceccc4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580602",
-            "立法紀錄": "58卷49期0號 22-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcccbc6cfcfcfcdc4cfcfcdcdc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580702",
-            "立法紀錄": "58卷67期0號 31-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbccc9c8cfcfc4cfcfcccec4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580807",
-            "立法紀錄": "58卷75期0號 1-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcbc8cacfcfcfcdc4cfcfcfcec4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580814",
-            "立法紀錄": "58卷75期0號 8-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcbc8cacfcfcfcdc4cfcfcfc7c4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581018",
-            "立法紀錄": "58卷88期0號 1-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcbc7c7cfcfcfcdc4cfcfcfcec4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581022",
-            "立法紀錄": "58卷88期0號 7-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcbc7c7cfcfcfcdc4cfcfcfc8c4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581108",
-            "立法紀錄": "58卷88期0號 10-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac7cbcbc7c7cfcfcfcdc4cfcfcecfc4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "581213",
-            "立法紀錄": "59卷9期0號 35-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbcbcfc6cfcfc4cfcfcccac4cfcfcbcc",
+            "會議日期": "661205",
+            "立法紀錄": "67卷27期1095號 54-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cf81c9c8c9cecdc8cfcfc4cfcfcacbc4cfcfc9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "591027",
-            "立法紀錄": "59卷79期0號 10-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c8c6cfcfcfcec4cfcfcecfc4cfcfcccb",
+            "會議日期": "661213",
+            "立法紀錄": "66卷100期1063號 10-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cf81c9c9c9cfcecfcfcfcfc4cfcfcecfc4cfcfcecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcccfcfc5cdcfced2cdcecb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5cdccc9d2cdccc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "591027",
-            "立法紀錄": "59卷79期0號 34-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c8c6cfcfcfcec4cfcfcccbc4cfcfccca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591030",
-            "立法紀錄": "59卷80期0號 22-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c7cfcfcfcfcec4cfcfcdcdc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591106",
-            "立法紀錄": "59卷82期0號 11-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c7cdcfcfcfcec4cfcfcecec4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591110",
-            "立法紀錄": "59卷83期0號 6-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c7cccfcfcfcec4cfcfcfc9c4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591120",
-            "立法紀錄": "59卷86期0號 16-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c7c9cfcfcfcec4cfcfcec9c4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591124",
-            "立法紀錄": "59卷87期0號 3-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c7c8cfcfcfcec4cfcfcfccc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591127",
-            "立法紀錄": "59卷88期0號 2-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c7c7cfcfcfcec4cfcfcfcdc4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "591208",
-            "立法紀錄": "59卷91期0號 10-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c6cecfcfc4cfcfcecfc4cfcfcece",
+            "會議日期": "661213",
+            "立法紀錄": "66卷100期1063號 13-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cf81c9c9c9cfcecfcfcfcfc4cfcfceccc4cfcfcecc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "591211",
-            "立法紀錄": "59卷92期0號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8c681cac6cbc9c6cdcfcfcfcec4cfcfcfc9c4cfcfcfc8",
+            "會議日期": "661216",
+            "立法紀錄": "66卷101期1064號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac7cf81c9c9c9cfcecfcecfcfc4cfcfcfcbc4cfcfcfcb",
             "關係文書": []
         }
     ]
