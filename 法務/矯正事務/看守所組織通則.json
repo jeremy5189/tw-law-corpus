@@ -1,8 +1,8 @@
 {
     "title": "看守所組織通則",
     "versions": [
-        "中華民國62年10月26日修正",
-        "中華民國62年11月7日公布"
+        "中華民國68年3月23日修正",
+        "中華民國68年4月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -54,13 +54,13 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　各課置課長一人，委任或薦任；承所長之命，掌理本課事務。課員二人至六人，委任；分掌事務。\n　　衛生課課長以醫師兼任。課員以醫師、藥劑師或藥劑生兼任。",
+            "content": "　　各課置課長一人，委任或薦任；承所長之命，掌理本課事務。課員二人至六人，委任；分掌事務。衛生課課長以醫師兼任。課員以醫師、藥師或藥劑生兼任。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　看守所置醫師一人至三人，薦任；藥劑師或藥劑生一人或二人，藥劑師薦任，藥劑生委任或僱用；護士一人至三人，委任或僱用，掌理保健、醫療及護理事務。",
+            "content": "　　看守所置醫師一人至三人，薦任；藥師或藥劑生一人或二人，藥師薦任，藥劑生委任或僱用；護士一人至三人，委任或僱用，掌理保健、醫療及護理事務。",
             "relates": {}
         },
         {
@@ -78,7 +78,7 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　看守所容額不滿三百人者得不設課，酌置股員二人或三人，委任；承所長之命，分股辦事。\n　　前項看守所不設藥劑師或藥劑生，其事務以醫師兼任。",
+            "content": "　　看守所容額不滿三百人者得不設課，酌置股員二人或三人，委任；承所長之命，分股辦事。\n　　前項看守所不設藥師或藥劑生，其事務以醫師兼任。",
             "relates": {}
         },
         {
@@ -107,68 +107,36 @@
         }
     ],
     "law_reasons": {
-        "第九條": "　　「聘用派用人員管理條例」已經廢止，另公布「聘用人員聘用條例」和「派用人員派用條例」，所以原法中「薦聘」「委派」等字樣都不合適，爰予修正為「薦任」、「委任」，以符合規定。",
-        "第十條": "　　「聘用派用人員管理條例」已經廢止，另公布「聘用人員聘用條例」和「派用人員派用條例」，所以原法中「薦聘」「委派」等字樣都不合適，爰予修正為「薦任」、「委任」，以符合規定。"
+        "第八條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。",
+        "第九條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。",
+        "第十二條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "611020",
-            "立法紀錄": "61卷83期536號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cecacfc7cccfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 22-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c781c9c7c9cccdcccfcfc4cfcfcdcdc4cfcfcdcc",
+            "主提案": "吳延環",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcecfcfc5c9cec7d2c9cdcd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "611101",
-            "立法紀錄": "62卷1期557號 24-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacfcfcecfcfcfcdc4cfcfcdcbc4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "611122",
-            "立法紀錄": "62卷5期561號 32-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacfcfcacfcfcfcdc4cfcfcccdc4cfcfccca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620718",
-            "立法紀錄": "62卷71期627號 9-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacec8cecfcfc4cfcfcfc6c4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "621026",
-            "立法紀錄": "62卷82期638號 17-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacdc7cdcfcfcfcec4cfcfcec8c4cfcfcec6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcdcfcfc5cdc6cad2cccfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cbc6ced2cbc6cd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "621026",
-            "立法紀錄": "62卷82期638號 20-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacdc7cdcfcfcfcec4cfcfcdcfc4cfcfcdcf",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 23-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c781c9c7c9cccdcccfcfc4cfcfcdccc4cfcfcdcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "621026",
-            "立法紀錄": "62卷82期638號 20-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c981c9cdcacdc7cdcfcfcfcec4cfcfcdcfc4cfcfcdcf",
+            "會議日期": "680323",
+            "立法紀錄": "68卷24期1196號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9c781c9c7c9cccdcbcfcfc4cfcfcfc6c4cfcfcfc6",
             "關係文書": []
         }
     ]
