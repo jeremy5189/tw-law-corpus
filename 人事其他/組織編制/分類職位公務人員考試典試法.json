@@ -1,12 +1,12 @@
 {
     "title": "分類職位公務人員考試典試法",
     "versions": [
-        "中華民國77年10月20日廢止",
-        "中華民國77年11月11日公布"
+        "中華民國57年11月19日制定",
+        "中華民國57年11月30日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -112,20 +112,44 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　考試院為配合公務人員考試法與專門職業及技術人員考試法之施行，並強化典試功能，特提出新制「典試法」，而廢止二十四年制定之「典試法」及五十七年制定之「分類職位公務人員考試典試法」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "761002",
-            "立法紀錄": "76卷79期2086號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcbca81c8c9cfc8c6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "570719",
+            "立法紀錄": "57卷54期號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcbcb81cac8cbcecacbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "考試院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcbcfcfc5cdc8cdd2cdc8c8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "571115",
+            "立法紀錄": "57卷85期號 4-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcbcb81cac8cbcdc7cacfcfcfcec4cfcfcfcbc4cfcfcecc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5cecfcbd2cecec9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "571115",
+            "立法紀錄": "57卷85期號 13-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcbcb81cac8cbcdc7cacfcfcfcec4cfcfceccc4cfcfceca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "771020",
-            "立法紀錄": "77卷85期2196號 6-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcbca81c8c8cfc7cacfcfc4cfcfcfc9c4cfcfcdc7",
+            "會議日期": "571119",
+            "立法紀錄": "57卷86期號 2-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfcbcb81cac8cbcdc7c9cfcfcfcec4cfcfcfcdc4cfcfcfcb",
             "關係文書": []
         }
     ]
