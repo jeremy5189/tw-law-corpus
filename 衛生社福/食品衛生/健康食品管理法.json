@@ -1,8 +1,8 @@
 {
     "title": "健康食品管理法",
     "versions": [
-        "中華民國88年11月30日修正",
-        "中華民國88年12月22日公布"
+        "中華民國89年10月24日修正",
+        "中華民國89年11月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -40,7 +40,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本法所稱主管機關：在中央為行政院衛生署；在省（市）為省（市）政府衛生處（局）；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -225,41 +225,53 @@
         }
     ],
     "law_reasons": {
-        "第十九條": "　　本條第一項第四款原規定：「無前三款情形，而經第十八條第二項規定．．．」。唯第十八條第二項之規定，與第十九條第四款規定內容顯有不同，應係「第十六條第二項」之誤，爰予修正。"
+        "第五條": "　　為配合臺灣省政府功能業務與組織調整，將「省政府衛生處」刪除。另將直轄市衛生主管機關之層級提升為「直轄市政府」，以與地方制度法將地方自治團體之組織列為其自治事項之立法意旨相配合。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881001",
-            "立法紀錄": "88卷42期3042號上冊 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c881c7c7cbcdcfcec4cfcfcecec4cfcfcece",
-            "主提案": "新黨黨團",
+            "會議日期": "881210",
+            "立法紀錄": "88卷56期3056號一冊 13-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c781c7c7cac9cfcec4cfcfceccc4cfcfcecb",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcfc5cecfcdd2cecfcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc8cfcec5cbc9d2cbc6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "890614",
+            "立法紀錄": "89卷39期3098號下冊 345-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c781c7c6ccc6cfccc4cfcccbcac4cfcccacb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "891024",
+            "立法紀錄": "89卷57期3116號上冊 105-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c781c7c6cac8cfcec4cfcecfcac4cfcecfc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdc8cfcfc5ccc7ccd2ccc7c9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "881116",
-            "立法紀錄": "88卷48期3048號上冊 127-128頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c881c7c7cbc7cfcec4cfcecdc8c4cfcecdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 123-125頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c881c7c7cacdcfcec4cfcecdccc4cfcecdca",
+            "會議日期": "891024",
+            "立法紀錄": "89卷57期3116號上冊 107-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c781c7c6cac8cfcec4cfcecfc8c4cfcecfc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 125-125頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c881c7c7cacdcfcec4cfcecdcac4cfcecdca",
+            "會議日期": "891024",
+            "立法紀錄": "89卷57期3116號上冊 107-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc9c781c7c6cac8cfcec4cfcecfc8c4cfcecfc8",
             "關係文書": []
         }
     ]
