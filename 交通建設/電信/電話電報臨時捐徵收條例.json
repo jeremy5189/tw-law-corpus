@@ -1,12 +1,10 @@
 {
     "title": "電話電報臨時捐徵收條例",
     "versions": [
-        "中華民國62年5月15日修正",
-        "中華民國62年5月25日公布"
+        "中華民國63年8月22日期滿廢止"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -58,48 +56,5 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第八條": "　　基於此項臨時捐，為政府加強財政收入所必需，爰將徵收期間延長一年。"
-    },
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "620417",
-            "立法紀錄": "62卷28期584號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8ca81c9cdcacecdc7cfcfcfcec4cfcfcfccc4cfcfcfcb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcbcfcfc5cecbc6d2cecacd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620423",
-            "立法紀錄": "62卷40期596號 19-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8ca81c9cdcacecbcfcfcfcfcdc4cfcfcec6c4cfcfcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "620511",
-            "立法紀錄": "62卷35期591號 23-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8ca81c9cdcacecccacfcfcfcec4cfcfcdccc4cfcfcdc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcacfcfc5cbcad2cbc8"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "620515",
-            "立法紀錄": "62卷36期592號 13-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8ca81c9cdcaceccc9cfcfcfcec4cfcfceccc4cfcfcdca",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
