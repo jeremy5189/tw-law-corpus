@@ -1,11 +1,12 @@
 {
     "title": "特級上將授任條例",
     "versions": [
-        "中華民國24年3月30日制定",
-        "中華民國24年3月30日公布"
+        "中華民國89年10月13日廢止",
+        "中華民國89年11月1日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -31,6 +32,40 @@
             "rule_no": "第四條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本條例係國民政府於民國二十四年制定公布，其條文內容確與現制不合，實無存在之必要，爰予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "890328",
+            "立法紀錄": "89卷13期3072號 20-21頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdc981c7c6cecccfcfc4cfcfcdcfc4cfcfcdce",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecccfcfc5cbc9cfd2cbc9cc"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "890719",
+            "立法紀錄": "89卷47期3106號 271-291頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdc981c7c6cbc8cfcfc4cfcdc8cec4cfcdc6ce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "891013",
+            "立法紀錄": "89卷54期3113號上冊 79-81頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdc981c7c6cacbcfcec4cfcfc8c6c4cfcfc7ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cac8cdd2cac8cb"
+                ]
+            ]
         }
     ]
 }
