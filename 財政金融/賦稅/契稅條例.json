@@ -1,12 +1,12 @@
 {
     "title": "契稅條例",
     "versions": [
-        "中華民國56年12月29日全文修正",
-        "中華民國56年12月30日公布"
+        "中華民國62年8月21日修正",
+        "中華民國62年8月30日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -90,7 +90,7 @@
         {
             "note": "(免稅情形)",
             "rule_no": "第十四條",
-            "content": "　　有左列情形之一者，免徵契稅：\n　　一、各級政府機關、地方自治機關、公立學校因公使用而取得之不動產。但供營業用者，不在此限。\n　　二、政府經營之郵政、電信事業，因業務使用而取得之不動產。\n　　三、政府因公務需要，以公有不動產交換，或因土地重劃而交換不動產取得所有權者。\n　　四、因繼承而取得不動產所有權者。",
+            "content": "　　有左列情形之一者，免徵契稅：\n　　一、各級政府機關、地方自治機關、公立學校因公使用而取得之不動產。但供營業用者，不在此限。\n　　二、政府經營之郵政、電信事業，因業務使用而取得之不動產。\n　　三、政府因公務需要，以公有不動產交換，或因土地重劃而交換不動產取得所有權者。\n　　四、因繼承而取得不動產所有權者。\n　　五、家庭農場因擴大經營規模或共同經營，在同一農產專業區內交換農業用地，經直轄市或縣（市）農業主管機關證明者。\n　　家庭農場為擴大經營面積，購置農業用地於取得後持有農業用地之總面積在三公頃以下者，其契稅減半課徵。但取得後繼續經營不滿五年者，補徵其已減徵之契稅。",
             "relates": {}
         },
         {
@@ -208,65 +208,68 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十四條": "　　為配合農業發展，鼓勵家庭農場擴大經營，增訂第一項第五款及第二項條文。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "561208",
-            "立法紀錄": "56卷3期號12冊 2448-2448頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfcb81cac9cbcfcfcccecdc4cdcbcbc7c4cdcbcbc7",
+            "會議日期": "611212",
+            "立法紀錄": "61卷98期551號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfca81c9cecacfc6c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5cbc9c9d2cbc7c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcdcfcfc5cacfc7d2cacece"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "561216",
-            "立法紀錄": "57卷24期號 2322-2328頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfcb81cac8cbcecdcbcfcfc4cdcccdcdc4cdcccdc7",
+            "會議日期": "620118",
+            "立法紀錄": "62卷25期581號 24-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfca81c9cdcacecdcacfcfcfcdc4cfcfcdcbc4cfcfcccf",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "561220",
-            "立法紀錄": "57卷30期號 2735-2743頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfcb81cac8cbcecccfcfcfc4cdc8cccac4cdc8cbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "561221",
-            "立法紀錄": "57卷31期號 2798-2804頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfcb81cac8cbcecccecfcfc4cdc8c6c7c4cdc7cfcb",
+            "會議日期": "620314",
+            "立法紀錄": "62卷26期582號 9-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfca81c9cdcacecdc9cfcfcfcdc4cfcfcfc6c4cfcfcdcf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "561229",
-            "立法紀錄": "56卷9期號12冊 2817-2850頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfcb81cac9cbcfcfc6cecdc4cdc7cec8c4cdc7cacf",
+            "會議日期": "620720",
+            "立法紀錄": "62卷63期619號 23-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfca81c9cdcacec9cccfcfcfcec4cfcfcdccc4cfcfcdc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcccfcfc5cec9d2cbc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfc7cfcfc5cdcfc9d2cdcfc6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "561229",
-            "立法紀錄": "56卷9期號12冊 2850-2853頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfcb81cac9cbcfcfc6cecdc4cdc7cacfc4cdc7cacc",
+            "會議日期": "620817",
+            "立法紀錄": "62卷63期619號 28-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfca81c9cdcacec9cccfcfcfcec4cfcfcdc7c4cfcfcccf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "620821",
+            "立法紀錄": "62卷64期620號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfca81c9cdcacec9cbcfcfcfcec4cfcfcfcbc4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "561229",
-            "立法紀錄": "56卷9期號12冊 2853-2854頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfcb81cac9cbcfcfc6cecdc4cdc7caccc4cdc7cacb",
+            "會議日期": "620821",
+            "立法紀錄": "62卷64期620號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc7cfca81c9cdcacec9cbcfcfcfcec4cfcfcfcac4cfcfcfca",
             "關係文書": []
         }
     ]
