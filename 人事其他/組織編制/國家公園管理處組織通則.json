@@ -1,11 +1,11 @@
 {
     "title": "國家公園管理處組織通則",
     "versions": [
-        "中華民國99年5月4日廢止",
-        "中華民國99年5月19日公布"
+        "中華民國72年4月19日制定",
+        "中華民國72年4月27日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -106,33 +106,76 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　為配合內政部營建署新設海洋國家公園管理處之政策需要，業依中央行政機關組織基準法訂定國家公園管理處組織準則，原國家公園管理處組織通則應配合辦理廢止，以符法制。",
+    "law_reasons": {
+        "第一條": "　　明示本通則係依據國家公園法第五條「國家公園設管理處，其組織通則另定之。」所制定，以示本通則與國家公園法之關係。",
+        "第二條": "　　規定國家公園管理處之設置條件。",
+        "第三條": "　　「關於國家公園之規劃、建設及管理事項」為內政部營建署之掌理事項（見該署組織條例第二條第七款），爰規定管理處隸屬內政部營建署。",
+        "第四條": "　　依國家公園法有關規定，明定管理處之掌理事項。",
+        "第五條": "　　管理處視國家公園面積、特性及業務需要，分課辦事。",
+        "第六條": "　　管理處設秘書室以應行政需要。",
+        "第七條": "　　管理處採職位分類制，置處長一人，綜理處務，列第八至第十二職等。必要時得置副處長一人襄助之，列第七至第十一職等。",
+        "第八條": "　　一、管理處偏重於技術性事務，故列較多之技術職位，以便羅致專才。\n　　二、管理處每課所分配之員額，約為十至十八人，視各國家公園之實際需要，予以編列。",
+        "第九條": "　　人事管理員掌理人事管理及人事查核等事項。",
+        "第十條": "　　會計員辦理歲計、會計及統計等事項。",
+        "第十一條": "　　一、國家公園地區遼闊，爰規定管理處得設管理站，以適應各個國家公園之特性。\n　　二、規定管理站設置標準之核定程序。",
+        "第十二條": "　　管理站主任，由管理處指派技正兼任，以精簡員額。",
+        "第十三條": "　　管理處應核實配置警察，隸屬警政機關並受管理處指揮監督，負責國家公園區域內治安秩序之維護及環境之保護。",
+        "第十四條": "　　管理處各職稱人員，其職位之職系，適用公務職位分類法之規定。",
+        "第十五條": "　　管理處辦事細則由各該管理處擬定層報內政部核定。",
+        "第十六條": "　　明定本通則之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970229",
-            "立法紀錄": "97卷2期3613號 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc6cacc81c6c8cfcdcfcfc4cfcfcecdc4cfcfcecd",
+            "會議日期": "720308",
+            "立法紀錄": "72卷20期1609號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdc6ca81c8cdc8cecdcfcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcdcfcbc5cecbc8d2cecbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfcdcfcfc5c8c8d2c7cc"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "720323",
+            "立法紀錄": "72卷45期1634號 138-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdc6ca81c8cdc8cecbcacfcfc4cfceccc7c4cfcecacd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "720330",
+            "立法紀錄": "72卷46期1635號 122-125頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdc6ca81c8cdc8cecbc9cfcfc4cfcecdcdc4cfcecdca",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "990430",
-            "立法紀錄": "99卷31期3796號一冊 44-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cacc81cfc6c6cfcccecfcec4cfcfcbcbc4cfcfcbcb",
+            "會議日期": "720412",
+            "立法紀錄": "72卷30期1619號 35-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdc6ca81c8cdc8cecccfcfcfc4cfcfcccac4cfcfcbcb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfcccfcfc5cecdc6c6d2cecccfc8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "720415",
+            "立法紀錄": "72卷31期1620號 6-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdc6ca81c8cdc8cecccecfcfc4cfcfcfc9c4cfcfcccf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "990504",
-            "立法紀錄": "99卷31期3796號一冊 331-333頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfccc6cacc81cfc6c6cfcccecfcec4cfcccccec4cfcccccc",
+            "會議日期": "720419",
+            "立法紀錄": "72卷32期1621號 6-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcdc6ca81c8cdc8cecccdcfcfc4cfcfcfc9c4cfcfcfc6",
             "關係文書": []
         }
     ]
