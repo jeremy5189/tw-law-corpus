@@ -1,12 +1,12 @@
 {
     "title": "學校教職員退休條例",
     "versions": [
-        "中華民國51年6月1日全文修正",
-        "中華民國51年6月12日公布"
+        "中華民國61年8月8日修正",
+        "中華民國61年8月16日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -24,13 +24,13 @@
         {
             "note": "(申請退休資格)",
             "rule_no": "第三條",
-            "content": "　　教職員有左列情形之一者，得申請退休：\n　　一、任職十年以上年滿六十歲者。\n　　二、任職滿三十年者。",
+            "content": "　　教職員有左列情形之一者得申請退休：\n　　一、任職五年以上年滿六十歲者。\n　　二、任職滿廿五年者。",
             "relates": {}
         },
         {
             "note": "(強制退休)",
             "rule_no": "第四條",
-            "content": "　　教職員任職五年以上有左列情形之一者應即退休：\n　　一、年滿六十五歲者。\n　　二、心神喪失或身體殘廢不堪勝任職務者。\n　　教職員已達前項第一款所規定之年齡，服務學校仍需其任職而自願繼續服務者，得報請主管教育行政機關延長之，至多五年。但專科以上學校教授不在此限。",
+            "content": "　　教職員任職五年以上，有左列情形之一者，應即退休：\n　　一、年滿六十五歲者。\n　　二、心神喪失或身體殘廢，不堪勝任職務者。\n　　教職員已達前項第一款所規定之年齡，服務學校仍需其任職，而自願繼續服務者，得報請主管教育行政機關延長之，至多五年。",
             "relates": {}
         },
         {
@@ -148,86 +148,97 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　將第一項第二款修正為「任職滿二十五年」，以促進學校教職員之新陳代謝。",
+        "第四條": "　　第二項但書之規定「專科以上學校教授不在此限」造成專科以上學校教授多不退休，新進學者因而無法入校服務，有礙新陳代謝，爰以修正。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "491021",
-            "立法紀錄": "49卷26期號4冊 34-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cbc6cdc9cfcbc4cfcfcccbc4cfcfccc9",
+            "會議日期": "610218",
+            "立法紀錄": "61卷14期467號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6cecbcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcdcfcfc5c9cfccd2c9cdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcdcfcfc5c9d2cece"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "610316",
+            "立法紀錄": "61卷29期482號 16-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6cdc6cfcfcfcdc4cfcfcec9c4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610323",
+            "立法紀錄": "61卷31期484號 11-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6cccecfcfcfcdc4cfcfcecec4cfcfceca",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "510420",
-            "立法紀錄": "51卷29期號11冊 21-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cecec4cfcfcdcec4cfcfcbc7",
+            "會議日期": "610707",
+            "立法紀錄": "61卷54期507號 18-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6cacbcfcfcfcec4cfcfcec7c4cfcfcdce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdc7cfcccfcfc5c8cbc9d2c8c9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5cac7c8d2cac6cb"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "510420",
-            "立法紀錄": "51卷29期號7冊 15-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cfc8c4cfcfcecac4cfcfcbc9",
+            "會議日期": "610714",
+            "立法紀錄": "61卷56期509號 30-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6cac9cfcfcfcec4cfcfcccfc4cfcfccce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "510508",
-            "立法紀錄": "51卷29期號9冊 25-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cfc6c4cfcfcdcac4cfcfcbcf",
+            "會議日期": "610728",
+            "立法紀錄": "61卷60期513號 23-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6c9cfcfcfcfcec4cfcfcdccc4cfcfcdca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "510511",
-            "立法紀錄": "51卷29期號9冊 44-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cfc6c4cfcfcbcbc4cfcfc8cb",
+            "會議日期": "610801",
+            "立法紀錄": "61卷61期514號 4-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6c9cecfcfcfcec4cfcfcfcbc4cfcfcdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610804",
+            "立法紀錄": "61卷62期515號 13-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6c9cdcfcfcfcec4cfcfceccc4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "610808",
+            "立法紀錄": "61卷63期516號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6c9cccfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "510511",
-            "立法紀錄": "51卷29期號9冊 74-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cfc6c4cfcfc8cbc4cfcfc8c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510515",
-            "立法紀錄": "51卷29期號10冊 43-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cecfc4cfcfcbccc4cfcfc8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510522",
-            "立法紀錄": "51卷29期號10冊 84-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cecfc4cfcfc7cbc4cfcecec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "510525",
-            "立法紀錄": "51卷29期號11冊 61-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cecec4cfcfc9cec4cfcfc8ce",
+            "會議日期": "610808",
+            "立法紀錄": "61卷63期516號 30-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6c9cccfcfcfcec4cfcfcccfc4cfcfcccb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "510601",
-            "立法紀錄": "51卷29期號11冊 107-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfcf81cacecdc6cecec4cfcecfc8c4cfcecec9",
+            "會議日期": "610808",
+            "立法紀錄": "61卷63期516號 34-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cccacdc9cccfce81c9cecbc6c9cccfcfcfcec4cfcfcccbc4cfcfcccb",
             "關係文書": []
         }
     ]
