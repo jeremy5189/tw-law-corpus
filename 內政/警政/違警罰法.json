@@ -1,12 +1,12 @@
 {
     "title": "違警罰法",
     "versions": [
-        "中華民國43年10月12日修正",
-        "中華民國43年10月23日公布"
+        "中華民國80年6月29日廢止",
+        "中華民國80年6月29日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -550,37 +550,20 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　社會秩序維護法已三讀通過，違警罰法理應廢止．",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "431005",
-            "立法紀錄": "43卷14期號1冊 62-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cccbcb81cbcccecbcfcec4cfcfc9cdc4cfcfc9cd",
-            "主提案": "營爾斌",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececccfcccfcfc5cececbd2cececa"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "431005",
-            "立法紀錄": "43卷14期號1冊 63-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cccbcb81cbcccecbcfcec4cfcfc9ccc4cfcfc9cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcecfcfc5cccac7"
-                ]
-            ]
+            "會議日期": "800629",
+            "立法紀錄": "80卷53期2477號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cccbca81c7cfcfcacccfcfc4cfcfcdc8c4cfcfcdc8",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "431005",
-            "立法紀錄": "43卷14期號1冊 100-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cccbcb81cbcccecbcfcec4cfcecfcfc4cfcecfcf",
+            "會議日期": "800629",
+            "立法紀錄": "80卷53期2477號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cccbca81c7cfcfcacccfcfc4cfcfcdc8c4cfcfcdc8",
             "關係文書": []
         }
     ]
