@@ -1,8 +1,8 @@
 {
     "title": "中央政府興建臺灣區高速公路第一期工程建設公債發行條例",
     "versions": [
-        "中華民國60年12月14日修正",
-        "中華民國60年12月27日公布"
+        "中華民國63年1月19日修正",
+        "中華民國63年1月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "(各期債票利息之核定)",
             "rule_no": "第四條",
-            "content": "　　本公債各期債票利息，由行政院定之。但利率不得超過年息百分之十一。自發行之日起，每六個月付息一次。",
+            "content": "　　本公債各期債票利息，由行政院定之。但調整時，不得低於發行利率。自發行之日起，每六個月付息一次。",
             "relates": {}
         },
         {
@@ -83,46 +83,27 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　查臺灣區高公路第一期工程特別預算基隆內湖段工程修正預算案中，歲入部份計列發行建設公債二億元。擬於六十二、六十三年度各增發一億元，連前十七億元，共為十九億元，以應建設計劃資金需要。爰將本條條文內「拾柒憶元」修正為「拾玖億元」。"
+        "第四條": "　　為因應目前需要，對政府已發行未到期之公債，如因銀行利率變動須作必要調整時，授權行政院對公債利率及其發行條件作必要之調整，爰予修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "601022",
-            "立法紀錄": "60卷81期434號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cd81c9cfcbc7c7cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "630119",
+            "立法紀錄": "63卷6期662號 111-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cc81c9cccacdcfc9cfcfc4cfcececec4cfcececd",
+            "主提案": "吳延環",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcdcfcfc5cccbd2ccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601110",
-            "立法紀錄": "61卷40期493號 24-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cd81c9cecbc6cbcfcfcfcfcdc4cfcfcdcbc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "601214",
-            "立法紀錄": "60卷96期449號 42-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cd81c9cfcbc7c6c9cfcfcfcec4cfcfcbcdc4cfcfcbc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcdcfcfc5c9c8cad2c9c7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacdcfcacfcfc5cecccfd2cecccc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "601214",
-            "立法紀錄": "60卷96期449號 46-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cd81c9cfcbc7c6c9cfcfcfcec4cfcfcbc9c4cfcfcbc8",
+            "會議日期": "630119",
+            "立法紀錄": "63卷6期662號 111-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cc81c9cccacdcfc9cfcfc4cfcececec4cfcececd",
             "關係文書": []
         }
     ]
