@@ -1,12 +1,12 @@
 {
     "title": "解決國家與他國國民間投資爭端公約施行條例",
     "versions": [
-        "中華民國82年7月9日廢止",
-        "中華民國82年7月30日公布"
+        "中華民國57年12月6日制定",
+        "中華民國57年12月21日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -70,32 +70,64 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　一、我國係於一九六六年，以國際復興開發銀行（ＩＢＲＤ）會員國身分，簽署「解決國家與他國國民間投資爭端公約」，並參與該公約設置之「解決投資爭端國際中心」（ＩＣＳＩＤ）。\n　　二、一九七一年，我政府退出聯合國後，經ＩＣＳＩＤ行政理事會通過，認知「我國」為非締約國，因此，依據該公約制定之施行條例，已失其立法依據。\n　　三、此外，我國現行對於僑外人投資，已有「外國人投資條例」及「華僑回國投資條例」，以保障其權利；倘若僑外資事業與我政府發生投資爭議時，亦可依據我國相關法令辦理。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "801128",
-            "立法紀錄": "80卷97期2521號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cbcecf81c7cfcfc6c8cfcfc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "570315",
+            "立法紀錄": "57卷18期號 948-948頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac7c781cac8cbcecec7cfcfc4cfc6cbc7c4cfc6cbc7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cec9cfcfc5cbcdd2cbc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cec7cad2cec7c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "571011",
+            "立法紀錄": "57卷75期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac7c781cac8cbcdc8cacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcecfcfc5c9ceced2c9cecc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "810610",
-            "立法紀錄": "81卷49期2577號下冊 3-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cbcecf81c7cecfcbc6cfccc4cfcfcfccc4cfcfcecf",
+            "會議日期": "570629",
+            "立法紀錄": "57卷57期號 13-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac7c781cac8cbcecac8cfcfcfcdc4cfcfceccc4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "571203",
+            "立法紀錄": "57卷90期號 22-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac7c781cac8cbcdc6cfcfcfcfcec4cfcfcdcdc4cfcfcdc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcdcfcdcfcfc5cacccbd2cacbce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "571203",
+            "立法紀錄": "57卷90期號 29-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac7c781cac8cbcdc6cfcfcfcfcec4cfcfcdc6c4cfcfccce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "820709",
-            "立法紀錄": "82卷46期2645號下冊 53-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cbcecf81c7cdcbc9cfccc4cfcfcaccc4cfcfcac9",
+            "會議日期": "571206",
+            "立法紀錄": "57卷91期號 4-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cac7c781cac8cbcdc6cecfcfcfcec4cfcfcfcbc4cfcfcfc8",
             "關係文書": []
         }
     ]
