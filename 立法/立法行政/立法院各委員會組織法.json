@@ -1,10 +1,11 @@
 {
     "title": "立法院各委員會組織法",
     "versions": [
-        "中華民國41年12月12日全文修正",
-        "中華民國41年12月27日公布"
+        "中華民國42年2月27日修正",
+        "中華民國42年3月6日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -29,13 +30,13 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　委員參加二委員會時，應註明其第一志願參加之委員會。",
+            "content": "　　委員依立法院組織法第十九條之規定參加一委員會，應於每會期依次登記之至滿額為止。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　各委員會會議，須有第一志願委員人數五分之一出席，方得開會。",
+            "content": "　　各委員會會議，須有各該委員會委員五分之一出席，方得開會。",
             "relates": {}
         },
         {
@@ -133,6 +134,41 @@
             "rule_no": "第二十一條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420227",
+            "立法紀錄": "42卷11期號2冊 4-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc781cbcdcececfcdc4cfcfcfcbc4cfcfcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cbced2cbcb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420227",
+            "立法紀錄": "42卷11期號2冊 4-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc781cbcdcececfcdc4cfcfcfcbc4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "420227",
+            "立法紀錄": "42卷11期號2冊 18-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc781cbcdcececfcdc4cfcfcec7c4cfcfcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "420227",
+            "立法紀錄": "42卷11期號2冊 19-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc781cbcdcececfcdc4cfcfcec6c4cfcfcec6",
+            "關係文書": []
         }
     ]
 }
