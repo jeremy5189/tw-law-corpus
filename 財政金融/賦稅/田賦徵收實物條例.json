@@ -1,12 +1,12 @@
 {
     "title": "田賦徵收實物條例",
     "versions": [
-        "中華民國55年4月26日全文修正",
-        "中華民國55年5月6日公布"
+        "中華民國66年7月1日廢止",
+        "中華民國66年7月14日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -214,65 +214,20 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　土地稅之課徵，散見於數種法令中，本條例即為其中之一法令，而使納稅義務人有無所適從之感，為便於徵納，故制定「土地稅法」，並將本條例廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "531214",
-            "立法紀錄": "53卷34期號10冊 143-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6ce81cacccccbcecfc4cfcecbccc4cfcecbcb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccbcfcccfcfc5c6cad2cecdc9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550419",
-            "立法紀錄": "55卷37期號5冊 42-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6ce81cacaccc8cfcacfcfc4cfcfcbcdc4cfcfcbcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccacfcacfcfc5cdcfc9d2cdcbcb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550422",
-            "立法紀錄": "55卷37期號5冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6ce81cacaccc8cfcacfcfc4cfcfcfc7c4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550429",
-            "立法紀錄": "55卷37期號6冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6ce81cacaccc8cfc9cfcfc4cfcfcfc7c4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "550419",
-            "立法紀錄": "55卷37期號5冊 44-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6ce81cacaccc8cfcacfcfc4cfcfcbcbc4cfcfc8c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "550422",
-            "立法紀錄": "55卷37期號5冊 79-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6ce81cacaccc8cfcacfcfc4cfcfc8c6c4cfcfc7c8",
+            "會議日期": "650601",
+            "立法紀錄": "65卷44期903號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6cc81c9cacac8cbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "550426",
-            "立法紀錄": "55卷37期號6冊 57-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6ce81cacaccc8cfc9cfcfc4cfcfcac8c4cfcfc9cb",
+            "會議日期": "660701",
+            "立法紀錄": "66卷53期1016號 3-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc6cc81c9c9cac6cacccfcfc4cfcfcfccc4cfcfceca",
             "關係文書": []
         }
     ]
