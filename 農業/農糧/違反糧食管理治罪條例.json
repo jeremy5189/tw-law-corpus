@@ -1,11 +1,11 @@
 {
     "title": "違反糧食管理治罪條例",
     "versions": [
-        "中華民國60年10月19日修正",
-        "中華民國60年11月4日公布"
+        "中華民國86年5月16日廢止",
+        "中華民國86年5月30日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -112,54 +112,88 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十二條": "　　本條文內「懲治貪污條例」業已廢止，經修正為「戡亂時期貪污治罪條例」，以符實際。"
-    },
+    "deprecated_reason": "　　經朝野黨團協商通過廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600604",
-            "立法紀錄": "60卷41期395號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc681c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "770628",
+            "立法紀錄": "77卷52期2163號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c8c8cfcacdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "771220",
+            "立法紀錄": "77卷102期2213號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c8c8cecfcdcfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6cfc8d2c6cecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcec6cfcfc5cccdd2ccc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "600619",
-            "立法紀錄": "60卷52期406號 1-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc681c9cfcbc8cacdcfcfcfcdc4cfcfcfcec4cfcfcfcb",
+            "會議日期": "771109",
+            "立法紀錄": "78卷45期2261號 211-224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c8c7cfcbcacfcfc4cfcdcecec4cfcdcdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "771128",
+            "立法紀錄": "78卷48期2264號 205-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c8c7cfcbc7cfcfc4cfcdcfcac4cfcdceca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "771205",
+            "立法紀錄": "78卷49期2265號 208-217頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c8c7cfcbc6cfcfc4cfcdcfc7c4cfcdcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "780107",
+            "立法紀錄": "78卷65期2281號 30-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c8c7cfc9cacfcfc4cfcfcccfc4cfcfccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "780118",
+            "立法紀錄": "78卷66期2282號 40-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c8c7cfc9c9cfcfc4cfcfcbcfc4cfcfcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800501",
+            "立法紀錄": "81卷9期2537號 150-172頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c7cecfcfc6cfcfc4cfcecacfc4cfcec8cd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "600619",
-            "立法紀錄": "60卷80期433號 7-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc681c9cfcbc7c7cfcfcfcfcec4cfcfcfc8c4cfcfcfc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcecfcfc5c8c9c9d2c8c9c6"
-                ]
-            ]
+            "會議日期": "801008",
+            "立法紀錄": "80卷82期2506號 56-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c7cfcfc7cdcfcfc4cfcfcac9c4cfcfc9cb",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "600619",
-            "立法紀錄": "60卷80期433號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc681c9cfcbc7c7cfcfcfcfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "860516",
+            "立法紀錄": "86卷26期2918號上冊 69-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c7c9cdc9cfcec4cfcfc9c6c4cfcfc8cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "600619",
-            "立法紀錄": "60卷80期433號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcdc681c9cfcbc7c7cfcfcfcfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "860516",
+            "立法紀錄": "86卷26期2918號上冊 72-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcccf81c7c9cdc9cfcec4cfcfc8cdc4cfcfc8cd",
             "關係文書": []
         }
     ]
