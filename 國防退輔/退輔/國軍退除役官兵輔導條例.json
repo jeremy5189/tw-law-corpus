@@ -1,8 +1,8 @@
 {
     "title": "國軍退除役官兵輔導條例",
     "versions": [
-        "中華民國69年11月21日修正",
-        "中華民國69年12月5日公布"
+        "中華民國86年4月18日修正",
+        "中華民國86年5月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -60,9 +60,9 @@
             "relates": {}
         },
         {
-            "note": "(退除役官兵工程機構優先議價承辦。)",
+            "note": "(採購辦法)",
             "rule_no": "第八條",
-            "content": "　　政府舉辦之各項建設工程，如水利、公路、鐵路、橋涵、隧道、港灣、碼頭、營建及軍事工程等，得儘先由輔導會所設之退除役官兵工程機構議價承辦。",
+            "content": "　　政府機關、公營事業機構及公立學校辦理採購，輔導會所設之附屬事業機構得依政府採購法令規定參加投標；對於參加機密或急迫性之採購，均依政府採購法令相關規定辦理。",
             "relates": {}
         },
         {
@@ -72,9 +72,9 @@
             "relates": {}
         },
         {
-            "note": "(附屬事業機構優先議價承辦)",
+            "note": "(刪除)",
             "rule_no": "第十條",
-            "content": "　　政府機關、公營事業機構及公立學校，常年招商承製或委託加工之各種物品，為輔導會所設之附屬事業機構力能承辦或承製者，得儘先由其議價承辦或承製之。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -247,53 +247,35 @@
         }
     ],
     "law_reasons": {
-        "第十七條": "　　就養機構原由各省（市）政府設立，經費由省（市）政府負擔，現為改善地方財政，將省市榮家經費一律移由中央負擔，爰予修正本條例，將就養機構改為由輔導會設立，以統一事權，簡化作業程序，爭取時效，提高行政效率。"
+        "第八條": "　　一、規定輔導會所設附屬事業機構得參加投標，保障該等機構之權益。\n　　二、增列「對於參加機密或急迫性之採購，均依政府採購法令相關規定辦理。」乙節，不違背攻府採購法之意旨，使輔導會附屬事業機構得有參與議價之機會。",
+        "第十條": "　　配合國軍退除役官兵輔導條例第八條之修正，爰刪除本條。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "691024",
-            "立法紀錄": "69卷86期1362號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c9c6c9c9c7c9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": " ",
+            "立法紀錄": "86卷11期2903號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc881c7c9cececfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5c9d2c6"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "691110",
-            "立法紀錄": "70卷4期1385號 43-45頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c8cfc9c9cfcbcfcfc4cfcfcbccc4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "691114",
-            "立法紀錄": "69卷92期1368號 24-27頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c9c6c9c9c6cdcfcfc4cfcfcdcbc4cfcfcdc8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcccfcfc5cbcec7d2cbcdcf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccfc7cfcfc5c6c9d2c6c6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "691114",
-            "立法紀錄": "69卷92期1368號 27-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c9c6c9c9c6cdcfcfc4cfcfcdc8c4cfcfcdc7",
+            "會議日期": " ",
+            "立法紀錄": "86卷18期2910號上冊 64-66頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc881c7c9cec7cfcec4cfcfc9cbc4cfcfc9c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "691121",
-            "立法紀錄": "69卷94期1370號 9-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc981c9c6c9c9c6cbcfcfc4cfcfcfc6c4cfcfcfc6",
+            "會議日期": " ",
+            "立法紀錄": "86卷18期2910號上冊 66-66頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7ceccc881c7c9cec7cfcec4cfcfc9c9c4cfcfc9c9",
             "關係文書": []
         }
     ]
