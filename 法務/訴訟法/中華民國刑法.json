@@ -1,12 +1,12 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國58年12月16日修正",
-        "中華民國58年12月26日公布"
+        "中華民國81年5月15日修正",
+        "中華民國81年5月16日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -666,7 +666,7 @@
         {
             "note": "",
             "rule_no": "第一百條",
-            "content": "　　意圖破壞國體、竊據國土，或以非法之方法變更國憲、顛覆政府，而著手實行者，處七年以上有期徒刑；首謀者處無期徒刑。\n　　預備或陰謀犯前項之罪者，處六月以上、五年以下有期徒刑。",
+            "content": "　　意圖破壞國體，竊據國土，或以非法之方法變更國憲，顛覆政府，而以強暴或脅迫著手實行者，處七年以上有期徒刑；首謀者，處無期徒刑。\n　　預備犯前項之罪者，處六月以上五年以下有期徒刑。",
             "relates": {}
         },
         {
@@ -2348,72 +2348,121 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第一百條": "　　一、第一項著手實行之行為態樣，宜明確規定，爰明定可罰性較高之「強暴」、「脅迫」二種行為，並與現行刑法第一百零一條之暴動內亂罪有所區別。\n　　二、第二項之陰謀犯，對於國家法益尚無明顯而立即之危害，可罰性較低，爰刪除陰謀內亂之處罰規定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580827",
-            "立法紀錄": "58卷65期號 17-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbccc9cacfcfc4cfcfcec8c4cfcfcec8",
-            "主提案": "行政院",
+            "會議日期": "790315",
+            "立法紀錄": "79卷22期2342號 12-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c8c6cfcdcdcfcfc4cfcfcecdc4cfcfcec7",
+            "主提案": "陳水扁",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcbcfcfc5c9c9ced2c9c9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cacfcbcfcfc5cacecfd2cacec8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "800524",
+            "立法紀錄": "80卷42期2466號 17-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcbcdcfcfc4cfcfcec8c4cfcfcdc9",
+            "主提案": "黃主文",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcccfcfc5c8cbccd2c8cbca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "800524",
+            "立法紀錄": "80卷42期2466號 18-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcbcdcfcfc4cfcfcec7c4cfcfcdc9",
+            "主提案": "趙少康",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcccfcfc5c8cccfd2c8cccc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "800524",
+            "立法紀錄": "80卷42期2466號 52-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcbcdcfcfc4cfcfcacdc4cfcfcacd",
+            "主提案": "王天競",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cdcacfcfc5cbccc8d2cbccc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "581016",
-            "立法紀錄": "58卷85期號 11-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7cacfcfcfcdc4cfcfcecec4cfcfceca",
+            "會議日期": "791015",
+            "立法紀錄": "80卷25期2449號 225-242頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcdcacfcfc4cfcdcdcac4cfcdcbcd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "581030",
-            "立法紀錄": "58卷85期號 15-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7cacfcfcfcdc4cfcfcecac4cfcfcec7",
+            "會議日期": "791022",
+            "立法紀錄": "80卷33期2457號 261-272頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcccccfcfc4cfcdc9cec4cfcdc8cd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "581106",
-            "立法紀錄": "58卷89期號 1-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7c6cfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "會議日期": "791121",
+            "立法紀錄": "80卷43期2467號 307-325頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfcbcccfcfc4cfcccfc8c4cfcccdca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "581113",
-            "立法紀錄": "58卷89期號 6-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7c6cfcfcfcec4cfcfcfc9c4cfcfcfc6",
+            "會議日期": "801003",
+            "立法紀錄": "80卷81期2505號 193-226頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfc7cecfcfc4cfcec6ccc4cfcdcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "801007",
+            "立法紀錄": "80卷82期2506號 290-338頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cfcfc7cdcfcfc4cfcdc6cfc4cfccccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "581205",
-            "立法紀錄": "58卷89期號 8-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc7c6cfcfcfcec4cfcfcfc7c4cfcfcdca",
+            "會議日期": "810515",
+            "立法紀錄": "81卷40期2568號 42-68頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cecfcbcfcfcfc4cfcfcbcdc4cfcfc9c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cbc8c8d2cbc7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdcfcfcfc5cec6c7d2cdceca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "581216",
-            "立法紀錄": "58卷92期號 11-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc6cdcfcfcfcec4cfcfcecec4cfcfcecb",
+            "會議日期": "810515",
+            "立法紀錄": "81卷40期2568號 68-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cecfcbcfcfcfc4cfcfc9c7c4cfcfc8cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "581216",
-            "立法紀錄": "58卷92期號 14-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9c9cec881cac7cbcbc6cdcfcfcfcec4cfcfcecbc4cfcfcec9",
+            "會議日期": "810515",
+            "立法紀錄": "81卷40期2568號 74-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cec681c7cecfcbcfcfcfc4cfcfc8cbc4cfcfc8c9",
             "關係文書": []
         }
     ]
