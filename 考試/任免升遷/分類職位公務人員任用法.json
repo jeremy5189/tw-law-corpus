@@ -1,12 +1,12 @@
 {
     "title": "分類職位公務人員任用法",
     "versions": [
-        "中華民國58年8月8日全文修正",
-        "中華民國58年8月25日公布"
+        "中華民國61年1月25日修正",
+        "中華民國61年2月3日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -42,7 +42,7 @@
         {
             "note": "(公務人員任用之規定)",
             "rule_no": "第六條",
-            "content": "　　分類職位公務人員之任用，依左列規定：\n　　一、初任第一、第二、第三、第五、第六、第七及第九各職等人員，須經考試及格。\n　　二、現職人員之升任，第一職等升任第二職等，須經第二職等初任人員考試及格，第二職等升任第三職等，須經第三職等初任人員考試及格，第四職等升任第五職等，須經第五職等初任人員考試及格；其餘任原職等職務二年以上，依分類職位公務人員考績法第十一條規定取得升等任用資格者，於升等任用時，須經各機關或其上級機關甄審合格。\n　　前項考試及格人員，取得性質及所學相近職系同職等職位任用資格。",
+            "content": "　　分類職位公務人員之任用，依左列規定：\n　　一、初任第一、第二、第三、第五、第六、第七、第八、第九、第十及第十一各職等人員，須經考試及格。\n　　二、現職人員之升任，第一職等升任第二職等，須經第二職等初任人員考試及格，第二職等升任第三職等，須經第三職等初任人員考試及格，第四職等升任第五職等，須經第五職等初任人員考試及格；其餘任原職等職務二年以上，依分類職位公務人員考績法第十一條規定取得升等任用資格者，於升等任用時，須經各機關或其上級機關甄審合格。\n　　前項考試及格人員，取得性質及所學相近職系同職等職位任用資格。",
             "relates": {}
         },
         {
@@ -166,72 +166,47 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第六條": "　　分類職位公務人員考試法第三條條文中，已增列第八職等、第十職等及第十一職等考試，是連原有七個職等考試，而改為十個職等考試，此項重大改革，在分類職位公務人員任用法第六條有關任用之規定，自應同時修正，俾資配合。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580613",
-            "立法紀錄": "58卷44期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8caca81cac7cbcccbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
+            "會議日期": "610121",
+            "立法紀錄": "61卷7期460號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cac981c9cecbc7cfc8cfcfcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcccfcfc5cac7d2cececb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c7ceccd2c7cec9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "580709",
-            "立法紀錄": "58卷60期號 9-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8caca81cac7cbccc9cfcfcfcfcdc4cfcfcfc6c4cfcfcdcd",
+            "會議日期": "610124",
+            "立法紀錄": "61卷29期482號 27-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cac981c9cecbc6cdc6cfcfcfcdc4cfcfcdc8c4cfcfccce",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "580716",
-            "立法紀錄": "58卷66期號 4-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8caca81cac7cbccc9c9cfcfc4cfcfcfcbc4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "580719",
-            "立法紀錄": "58卷66期號 12-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8caca81cac7cbccc9c9cfcfc4cfcfcecdc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "580729",
-            "立法紀錄": "58卷57期號 5-111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8caca81cac7cbcccac8cfcfc4cfcfcfcac4cfcecece",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 24-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cac981c9cecbc7cfc7cfcfcfcec4cfcfcdcbc4cfcfcdc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcbcfcfc5cdcfcad2cdc7cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5c7c8c6d2c7c7cc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "580801",
-            "立法紀錄": "58卷58期號 7-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8caca81cac7cbcccac7cfcfcfcec4cfcfcfc8c4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "580805",
-            "立法紀錄": "58卷59期號 3-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8caca81cac7cbcccac6cfcfcfcec4cfcfcfccc4cfcfcdcb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "580808",
-            "立法紀錄": "58卷60期號 2-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8caca81cac7cbccc9cfcfcfcfcec4cfcfcfcdc4cfcfcfca",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 26-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c7c8cac981c9cecbc7cfc7cfcfcfcec4cfcfcdc9c4cfcfcdc8",
             "關係文書": []
         }
     ]
