@@ -1,0 +1,96 @@
+{
+    "title": "名譽博士學位授予條例",
+    "versions": [
+        "中華民國49年4月22日制定",
+        "中華民國49年4月29日公布"
+    ],
+    "types": [
+        "立法歷程",
+        "異動條文"
+    ],
+    "law_data": [
+        {
+            "note": "(立法依據)",
+            "rule_no": "第一條",
+            "content": "　　本條例依學位授予法第十一條之規定制定之。",
+            "relates": {}
+        },
+        {
+            "note": "(名譽博士學位之分類)",
+            "rule_no": "第二條",
+            "content": "　　名譽博士學位分左列三種：\n　　一、文學博士。\n　　二、理學博士。\n　　三、法學博士。",
+            "relates": {}
+        },
+        {
+            "note": "(名譽博士學位之授予)",
+            "rule_no": "第三條",
+            "content": "　　名譽博士學位，由教育部指定歷史悠久成績優異並設有研究院所之大學授予之。",
+            "relates": {}
+        },
+        {
+            "note": "(名譽博士學位之授予)",
+            "rule_no": "第四條",
+            "content": "　　名譽博士學位之授予，由大學校長提經校務會議通過，呈經教育部審定後行之。",
+            "relates": {}
+        },
+        {
+            "note": "(名譽博士學位候選人之資格)",
+            "rule_no": "第五條",
+            "content": "　　國內外人士具有左列條件之一者，得為名譽博士學位候選人：\n　　一、在學術上有特殊著作或發明者。\n　　二、對人類幸福世界和平有特殊貢獻者。",
+            "relates": {}
+        },
+        {
+            "note": "(施行細則之訂定)",
+            "rule_no": "第六條",
+            "content": "　　本條例施行細則由教育部定之。",
+            "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第七條",
+            "content": "　　本條例自公布日施行。",
+            "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "490216",
+            "立法紀錄": "49卷25期號1冊 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcccac981cbc6cdcacfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcecfcfc5c8cbd2c8ca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "490422",
+            "立法紀錄": "49卷25期號8冊 4-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcccac981cbc6cdcacfc7c4cfcfcfcbc4cfcfcfc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcacfcecfcfc5c7cdc7d2c7ccce"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "490422",
+            "立法紀錄": "49卷25期號7冊 48-50頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcccac981cbc6cdcacfc8c4cfcfcbc7c4cfcfcacf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "490422",
+            "立法紀錄": "49卷25期號8冊 37-38頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcccac981cbc6cdcacfc7c4cfcfccc8c4cfcfccc7",
+            "關係文書": []
+        }
+    ]
+}
