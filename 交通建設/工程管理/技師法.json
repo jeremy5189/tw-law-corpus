@@ -1,12 +1,12 @@
 {
     "title": "技師法",
     "versions": [
-        "中華民國61年12月5日全文修正",
-        "中華民國61年12月15日公布"
+        "中華民國66年4月1日修正",
+        "中華民國66年4月12日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -22,7 +22,7 @@
         {
             "note": "(技師分科之決定)",
             "rule_no": "第二條",
-            "content": "　　技師分為農業技師、工業技師、礦業技師及其他技師四種，並依其職業性質分科，由行政院會同考試院定之。",
+            "content": "　　技師之分科，由行政院會同考試院定之。",
             "relates": {}
         },
         {
@@ -34,13 +34,13 @@
         {
             "note": "(主管機關)",
             "rule_no": "第四條",
-            "content": "　　技師之主管機關：在中央為各該目的事業主管機關；在省（市）為目的事業主管廳（局）；在縣（市）為縣（市）政府。",
+            "content": "　　技師之主管機關：在中央為經濟部；在省（市）為建設廳（局）；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
             "note": "(請領技師證書)",
             "rule_no": "第五條",
-            "content": "　　領有技師考試及格證書者，得向經濟部登記，請領技師證書。\n　　技師領證規則，由經濟部會商中央各該目的事業主管機關定之。",
+            "content": "　　領有技師考試及格證書者，得向中央主管機關登記，請領技師證書。\n　　技師領證規則，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -56,7 +56,7 @@
         {
             "note": "(開業執照之請領)",
             "rule_no": "第七條",
-            "content": "　　領有技師證書者，經向主管機關申請發給開業執照後，得設立事務所執行業務。\n　　前項開業執照，應向事務所所在地省（市）主管機關申請，經審查登記後發給之：主管機關發給開業執照時，並報經濟部及中央主管機關備查。",
+            "content": "　　領有技師證書，具有各該科服務年資二年以上者，經向省（市）主管機關申請發給開業執照後，得設立事務所執行業務。\n　　前項開業執照，應向事務所所在地省（市）主管機關申請，經審查登記後發給之；主管機關發給開業執照時，並報中央主管機關備查。\n　　經檢覆取得技師資格者，不適用第一項服務年資之規定。\n　　技師服務年資審核標準暨開業執照發給規則，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -206,9 +206,9 @@
             "relates": {}
         },
         {
-            "note": "(主管機關)",
+            "note": "(技師公會之主管機關)",
             "rule_no": "第三十一條",
-            "content": "　　技師公會之主管機關，為主管社會行政機關，但其目的事業，應受各該目的事業主管機關之指揮、監督。",
+            "content": "　　技師公會之主管機關，為主管社會行政機關。但其業務，應受第四條技師主管機關之指揮、監督。",
             "relates": {}
         },
         {
@@ -226,7 +226,7 @@
         {
             "note": "(應申報主管機關事項)",
             "rule_no": "第三十四條",
-            "content": "　　技師公會將左列各款事項，申報所在地之主管機關：\n　　一、技師公會章程。\n　　二、會員名冊及會員之入會、退會。\n　　三、理、監事選舉情形及當選人姓名。\n　　四、會員大會、理事、監事會議開會之時日、處所及會議情形。\n　　五、決議事項。\n　　前項申報事項，由所在地主管機關，分別轉報內政部及中央目的事業主管機關備案。",
+            "content": "　　技師公會左列事項，應申報所在地之主管機關：\n　　一、技師公會章程。\n　　二、會員名冊及會員之入會、退會。\n　　三、理、監事選舉情形及當選人姓名。\n　　四、會員大會、理事、監事會議開會之時日、處所及會議情形。\n　　五、決議事項。\n　　前項申報事項，由所在地主管機關，分別轉報內政部及中央技師主管機關備案。",
             "relates": {}
         },
         {
@@ -244,7 +244,7 @@
         {
             "note": "(違反法令或章程之處分)",
             "rule_no": "第三十七條",
-            "content": "　　技師公會違反法令或該會章程時，主管社會行政機關得為左列之處分：\n　　一、警告。\n　　二、撤銷其決議。\n　　三、整理。\n　　前項第一款及第二款之處分，目的事業主管機關並得為之。",
+            "content": "　　技師公會違反法令或該會章程時，主管社會行政機關，得為左列之處分：\n　　一、警告。\n　　二、撤銷其決議。\n　　三、整理。\n　　前項第一款及第二款之處分，技師主管機關並得為之。",
             "relates": {}
         },
         {
@@ -288,9 +288,9 @@
             "relates": {}
         },
         {
-            "note": "(懲戒委員會組織規程之訂定)",
+            "note": "(懲戒委員會及懲戒覆審委員會之組織規程訂定)",
             "rule_no": "第四十四條",
-            "content": "　　技師懲戒委員會及技師懲戒覆審委員會之組織規程，由經濟部會商中央目的事業主管機關擬訂，呈請行政院核定發布之。",
+            "content": "　　技師懲戒委員會及技師懲戒覆審委員會之組織規程，由經濟部擬報行政院核定後發布之。",
             "relates": {}
         },
         {
@@ -316,86 +316,110 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　技師種類甚多，宜依其職業性質分科，按各業實際需要隨時增減，原法規定技師分四種，難以適應，爰予修正。",
+        "第四條": "　　技師登記管理宜統一辦理，爰依照目前實際辦理情形，明定技師之主管機關。",
+        "第五條": "　　將領證事宜改為歸「中央主管機關」掌理。",
+        "第七條": "　　一、增列年資之規定。\n　　二、配合修正第四條主管機關之規定，作文字修正。",
+        "第三十一條": "　　配合修正第四條之規定作文字修正，並將現行條文但書所定「其目的事業」修正為「其業務」。",
+        "第三十四條": "　　配合修正第四條，修正第二項文字。",
+        "第三十七條": "　　配合修正第四條，修正第二項文字。",
+        "第四十四條": "　　配合修正第四條，規定技師懲戒委員會及技師懲戒覆審委員會之組織規程，由經濟部擬報行政院核定後發布之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600122",
-            "立法紀錄": "60卷6期0號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cfcbc9cfc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "650921",
+            "立法紀錄": "65卷76期935號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9cacac7c8c9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcbcfcfc5c9cfc7d2c9ccca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcecfcfc5caceccd2cacdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "600331",
-            "立法紀錄": "60卷33期387號 11-43頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cfcbc8cccccfcfcfcdc4cfcfcecec4cfcfcbcc",
+            "會議日期": "651023",
+            "立法紀錄": "65卷100期959號 6-11頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9cacac7cecfcfcfcfcfcdc4cfcfcfc9c4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "600512",
-            "立法紀錄": "60卷41期395號 1-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cfcbc8cbcecfcfcfcdc4cfcfcfcec4cfcfcfc6",
+            "會議日期": "651027",
+            "立法紀錄": "65卷101期960號 1-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9cacac7cecfcecfcfcfcdc4cfcfcfcec4cfcfcfc8",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601208",
-            "立法紀錄": "60卷100期453號 1-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cfcbc7cecfcfcfcfcfcdc4cfcfcfcec4cfcfcfc6",
+            "會議日期": "651028",
+            "立法紀錄": "65卷104期963號 12-18頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9cacac7cecfcbcfcfcfcdc4cfcfcecdc4cfcfcec7",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601215",
-            "立法紀錄": "61卷3期456號 1-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cecbc7cfcccfcfcfcdc4cfcfcfcec4cfcfcfca",
+            "會議日期": "651117",
+            "立法紀錄": "66卷3期966號 1-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9c9cac7cfcccfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "651127",
+            "立法紀錄": "66卷8期971號 11-17頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9c9cac7cfc7cfcfc4cfcfcecec4cfcfcec8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "611121",
-            "立法紀錄": "61卷92期545號 39-70頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cecacfc6cdcfcfcfcec4cfcfccc6c4cfcfc8cf",
+            "會議日期": "651207",
+            "立法紀錄": "66卷22期985號 25-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9c9cac6cdcdcfcfcfcec4cfcfcdcac4cfcfccca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5cdc7c8d2cccec9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcccfcfc5c8cecfd2c8cec7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "611124",
-            "立法紀錄": "61卷93期546號 3-24頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cecacfc6cccfcfcfcec4cfcfcfccc4cfcfcdcb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "660318",
+            "立法紀錄": "66卷23期986號 2-19頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9c9cac6cdcccfcfc4cfcfcfcdc4cfcfcec6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "611128",
-            "立法紀錄": "61卷94期547號 4-19頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cecacfc6cbcfcfcfcec4cfcfcfcbc4cfcfcec6",
+            "會議日期": "660318",
+            "立法紀錄": "66卷23期986號 20-27頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9c9cac6cdcccfcfc4cfcfcdcfc4cfcfcdc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "611201",
-            "立法紀錄": "61卷95期548號 2-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cecacfc6cacfcfcfcec4cfcfcfcdc4cfcfcfca",
+            "會議日期": "660322",
+            "立法紀錄": "66卷24期987號 2-27頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9c9cac6cdcbcfcfc4cfcfcfcdc4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "660325",
+            "立法紀錄": "66卷25期988號 2-22頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9c9cac6cdcacfcfc4cfcfcfcdc4cfcfcdcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "611205",
-            "立法紀錄": "61卷96期549號 3-10頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccace81c9cecacfc6c9cfcfcfcec4cfcfcfccc4cfcfcecf",
+            "會議日期": "660401",
+            "立法紀錄": "66卷27期990號 3-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9cccacd81c9c9cac6cdc8cfcfc4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         }
     ]
