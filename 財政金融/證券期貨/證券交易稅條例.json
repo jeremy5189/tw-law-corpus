@@ -1,8 +1,8 @@
 {
     "title": "證券交易稅條例",
     "versions": [
-        "中華民國82年1月16日修正",
-        "中華民國82年1月30日公布"
+        "中華民國82年7月9日修正",
+        "中華民國82年7月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -88,9 +88,9 @@
             "relates": {}
         },
         {
-            "note": "(移送裁定)",
+            "note": "(刪除)",
             "rule_no": "第十四條",
-            "content": "　　本條例之罰鍰案件，由該管稽徵機關移送法院裁定，限期令受處分人繳納，逾期不繳者，由法院依法強制執行。\n　　前項裁定，法院應於收受稽徵機關移送文書後七日內為之。\n　　該管稽徵機關或受處分人不服法院之裁定時，得於接到法院裁定通知書十日內提出抗告，但不得再抗告。\n　　受處分人提出抗告時，應先向該管稽徵機關提繳應納罰鍰之半數保證金。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -107,53 +107,54 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　將第一款之稅率由千分之六降為千分之三以刺激股市蓬勃發展。"
+        "第十四條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "811015",
-            "立法紀錄": "81卷65期2593號 17-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cecfc9cacfcfc4cfcfcec8c4cfcfcec6",
-            "主提案": "吳勇雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdc9cfcfc5ccc8cfd2ccc8ce"
-                ]
-            ]
+            "會議日期": "810616",
+            "立法紀錄": "81卷49期2577號上冊 31-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cecfcbc6cfcec4cfcfcccec4cfcfccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "820323",
+            "立法紀錄": "82卷15期2614號 69-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcecacfcfc4cfcfc9c6c4cfcfc8ce",
+            "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "811028",
-            "立法紀錄": "81卷69期2597號下冊 418-452頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cecfc9c6cfccc4cfcbcec7c4cfcbcacd",
+            "會議日期": "820303",
+            "立法紀錄": "82卷12期2611號 282-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcecdcfcfc4cfcdc7cdc4cfcdc6c7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "820407",
+            "立法紀錄": "82卷22期2621號下冊 180-202頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcdcdcfccc4cfcec7cfc4cfcdcfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "820116",
-            "立法紀錄": "82卷4期2603號中冊 280-285頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cdcfcbcfcdc4cfcdc7cfc4cfcdc7ca",
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 56-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcbc9cfccc4cfcfcac9c4cfcfc7ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcec9cfcdc5cec9c6d2cec8ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cec7cdd2cdcfc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "820116",
-            "立法紀錄": "82卷4期2603號中冊 285-293頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cdcfcbcfcdc4cfcdc7cac4cfcdc6cc",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "820116",
-            "立法紀錄": "82卷4期2603號中冊 293-298頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cf81c7cdcfcbcfcdc4cfcdc6ccc4cfcdc6c7",
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 81-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcbc9cfccc4cfcfc7cec4cfcfc7ce",
             "關係文書": []
         }
     ]
