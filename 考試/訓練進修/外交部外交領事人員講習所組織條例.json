@@ -1,8 +1,8 @@
 {
     "title": "外交部外交領事人員講習所組織條例",
     "versions": [
-        "中華民國60年4月30日制定",
-        "中華民國60年5月10日公布"
+        "中華民國63年12月6日修正",
+        "中華民國63年12月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,19 +18,19 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本所置所長一人，綜理所務；副所長一人，襄理所務，職位均列第十至第十四職等。",
+            "content": "　　本所置所長一人，綜理所務；副所長一人，襄理所務，均簡任。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本所置秘書一人，職位列第七至第十一職等，掌理文書、機要，與各單位協調、聯繫及長官交辦事項。",
+            "content": "　　本所置秘書一人，薦任或簡任，掌理文書、機要與各單位協調、聯繫及長官交辦事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　本所設教務、訓導、總務三組，置組長三人，職位均列第六至第九職等；組員三人或四人，職位列第三至第七職等；辦事員二人至四人，職位列第一至第五職等；書記五人至九人，職位列第一至第三職等，各承長官之命，分掌各項事務。",
+            "content": "本所設教務、訓導、總務三組，置組長三人，薦任；組員三人或四人，辦事員二人至四人，均委任；雇員五人至九人；各承長官之命，分掌各項事務。",
             "relates": {}
         },
         {
@@ -42,7 +42,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本所置會計員一人，職位列第一至第五職等，依法律規定，辦理歲計、會計及統計事項。",
+            "content": "　　本所置會計員一人，委任；依法律規定，辦理歲計、會計及統計事項。",
             "relates": {}
         },
         {
@@ -54,7 +54,7 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　第二條至第四條及第六條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就員工訓練、一般行政管理、文書、打字、事務、會計、統計其他有關職系選用之。",
+            "content": "　　﹙刪除﹚　",
             "relates": {}
         },
         {
@@ -77,112 +77,39 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　闡明外交領事人員講習所設立之旨趣。",
-        "第二條": "　　規定所長、副所長之職掌、員額及其職位之職等。",
-        "第三條": "　　規定秘書之職掌、員額及其職位之職等。",
-        "第四條": "　　查組員多係由外交部薦任科員或二、三等秘書回部辦事等人員充任，其職責程度以列第三至第七職等為宜。辦事員由書記官或委任級科員充任，故其職位列第一至第五職等。至書記職等照現行職級規範規定列一至三職等。",
-        "第五條": "　　訓練課程範圍甚廣，須敦聘各種人才任教，故規定本所兼任講座及專任講座以聘約定之。",
-        "第六條": "　　查本所為外交部直屬之訓練機關，有專用之經費，故應置會計員一人辦理歲計、會計及統計事務。",
-        "第七條": "　　本所員額不多，可不設置人事機構，惟人事業務依法有其獨立性，爰參照一般組織法之立法，體例規定其人事業務由外交部人事處兼理。",
-        "第八條": "　　本所各職位之職系，得就相關職系適用之。",
-        "第九條": "　　本所除辦理外交領事人員特考及格人員之訓練外，尚可兼辦外交部人員眷屬之短期訓練，暨交際、駕駛等其他訓練，故作此補充規定。",
-        "第十條": "　　外交部為本所直屬上級機關，本所擬訂之各種有關章則，應報外交部核定。",
-        "第十一條": "　　明定本條例施行日期。"
+        "第二條": "　　原條文句末「職位均列第十至第十四職等」等字，改為「均簡任」。　　",
+        "第三條": "　　原條文中「職位列第七至第十一職等」等字，改為「薦任或簡任」。",
+        "第四條": "　　一、原條文中「職位均列第六至第九職等」等字，改為「薦任」。\n　　二、刪除組員及辦事員之職位職等，改為「均委任」。\n　　三、原「書記」改為「雇員」，並刪除其職位職等。",
+        "第六條": "　　原條文中「職位列第一至第五職等」等字，改為「委任」。\n　　",
+        "第八條": "　　一、本條刪除。\n　　二、配合本法修正第二條至第四條及第六條，爰予以刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "591027",
-            "立法紀錄": "59卷80期0號 35-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81cac6cbc9c7cfcfcfcfcec4cfcfcccac4cfcfccca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcccfcfc5cecfd2ceca"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "591111",
-            "立法紀錄": "59卷97期0號 9-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81cac6cbc9c6c8cfcfcfcdc4cfcfcfc6c4cfcfceca",
+            "會議日期": "630920",
+            "立法紀錄": "63卷70期726號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecc81c9cccaccc8cfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "591221",
-            "立法紀錄": "60卷21期375號 1-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cdcecfcfcfcdc4cfcfcfcec4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600113",
-            "立法紀錄": "60卷22期376號 3-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cdcdcfcfcfcdc4cfcfcfccc4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600118",
-            "立法紀錄": "60卷23期377號 1-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cdcccfcfcfcdc4cfcfcfcec4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "600330",
-            "立法紀錄": "60卷22期376號 43-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cdcdcfcfcfcec4cfcfcbccc4cfcfcac6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcecfcfc5c6cfc6d2c6cdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "600402",
-            "立法紀錄": "60卷23期377號 6-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cdcccfcfcfcec4cfcfcfc9c4cfcfcdc6",
+            "會議日期": "631002",
+            "立法紀錄": "63卷90期746號 35-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecc81c9cccacbc6cfcfcfcfcdc4cfcfcccac4cfcfccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "600416",
-            "立法紀錄": "60卷27期381號 25-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cdc8cfcfcfcec4cfcfcdcac4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "600420",
-            "立法紀錄": "60卷28期382號 3-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cdc7cfcfcfcec4cfcfcfccc4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "600423",
-            "立法紀錄": "60卷29期383號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cdc6cfcfcfcec4cfcfcfccc4cfcfcfcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "600427",
-            "立法紀錄": "60卷30期384號 10-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cccfcfcfcfcec4cfcfcecfc4cfcfcecc",
+            "會議日期": "631206",
+            "立法紀錄": "63卷92期748號 15-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecc81c9cbcacbc6cdcfcfcfcec4cfcfcecac4cfcfcec6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "600430",
-            "立法紀錄": "60卷31期385號 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecd81c9cfcbc8cccecfcfcfcec4cfcfcdcbc4cfcfcdcb",
+            "會議日期": "631206",
+            "立法紀錄": "63卷92期748號 19-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecc81c9cbcacbc6cdcfcfcfcec4cfcfcec6c4cfcfcec6",
             "關係文書": []
         }
     ]
