@@ -1,11 +1,11 @@
 {
     "title": "內政部警政署保安警察總隊組織通則",
     "versions": [
-        "中華民國104年12月1日廢止",
-        "中華民國104年12月16日公布"
+        "中華民國78年6月23日制定",
+        "中華民國78年7月12日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,45 +82,72 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　配合內政部警政署及所屬機關（構）組織法規已於103年1月1日施行，爰依中央法規標準法第21條第4款「同一事項已定有新法規，並公布或發布施行者」規定，爰廢止「內政部警政署保安警察總隊組織通則」。",
+    "law_reasons": {
+        "第一條": "　　明定本通則制定之依據。",
+        "第二條": "　　一、本條第一項係參照警察法及臺灣省保安警察第一、第二、第三總隊、臺灣省警務處直屬警察大隊掌理事項明定保安警察總隊掌理事項。\n　　二、本條第二項規定各保安警察總隊由內政部警政署層報行政院核定設立。\n　　三、本條第三項規定各保安警察總隊應於總隊前冠以隊次。",
+        "第三條": "　　為因應各保安警察總隊特性，明定各保安警察總隊得視業務需要設警務組、督訓組、安檢組、後勤組、秘書室、保防室及勤務指揮中心，分別掌理前條第一項所列事項。",
+        "第四條": "　　規定保安警察總隊置總隊長、副總隊長、主任秘書、組長、主任、秘書、督察、督察員、組員、技士、技佐、辦事員、雇員等職務名稱，並明定其員額及官等職等。",
+        "第五條": "　　保安警察總隊為辦理有關保健、醫護事項，得設醫務室，置主任、醫師、藥師、護士，並明定其員額及官等職等。",
+        "第六條": "　　保安警察總隊設人事室，置主任，依法辦理人事管理事項。",
+        "第七條": "　　保安警察總隊設會計室，置會計主任，依法辦理歲計、會計並兼辦統計事項。",
+        "第八條": "　　一、規定保安警察總隊為便於執行任務，得視勤務需要，設三至十二大隊，每大隊設三至五中隊，由內政部警政署層報行政院核定設立。\n　　二、規定各大隊及中隊均冠以隊次。\n　　三、規定大隊置大隊長、副大隊長、督察員、警務員、總務員、保防管理員、技士、辦事員、雇員及中隊置中隊長、副中隊長、警務員、分隊長、技佐、警務佐、小隊長、隊員、雇員等職務名稱，並明定其員額及官等職等。\n　　四、明定各大隊及中隊有關人事、會計事項，均由各該總隊人事室、會計室兼辦。",
+        "第九條": "　　一、規定保安警察總隊為負責中央憲政機關首長安全警衛事項，得設警官隊，由內政部警政署層報行政院核定設立。\n　　二、規定各警官隊均冠以隊次。\n　　三、規定警官隊置隊長、副隊長、組長、組員、技士、辦事員、雇員等職務名稱，並明定其員額及官等職等。",
+        "第十條": "　　規定本通則所定列有官等職等人員，除警察官外，應依公務人員任用法取得任用資格。其職務所適用之職系，依公務人員任用法第八條規定，就有關職系選用之。",
+        "第十一條": "　　規定保安警察總隊辦事細則由各該總隊擬訂層報內政部核定。",
+        "第十二條": "　　規定本通則之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1030221",
-            "立法紀錄": "103卷13期4122號一冊 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcccbc8c781cecfcccfcecccfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "780314",
+            "立法紀錄": "78卷21期2237號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cdc981c8c7cfcdcecfcfc4cfcfcfc8c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfcecfcec5cecfc7d2ceccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccfcbcfcec5cecbc9d2cecacc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1041112",
-            "立法紀錄": "104卷87期4286號 1-1,4-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcccbc8c781cecfcbcfc7c8cfcec4cfcfcfcec4cfcfcfced9cecfcbcfc7c8cfcec4cfcfcfcbc4cfcfccce",
+            "會議日期": "780504",
+            "立法紀錄": "79卷52期2372號 312-324頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cdc981c8c6cfcacdcfcfc4cfcccecdc4cfcccdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "780510",
+            "立法紀錄": "79卷57期2377號下冊 642-653頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cdc981c8c6cfcac8cfccc4cfc9cbcdc4cfc9cacc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1041201",
-            "立法紀錄": "104卷89期4288號一冊 501-522頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcccbc8c781cecfcbcfc7c6cfcec4cfcacfcec4cfcacdcd",
+            "會議日期": "780602",
+            "立法紀錄": "78卷44期2260號 124-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cdc981c8c7cfcbcbcfcfc4cfcecdcbc4cfceccc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cec6ccd2cdcdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccdcbcfcfc5cbcdcdd2cbccc6"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "780609",
+            "立法紀錄": "78卷46期2262號 36-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cdc981c8c7cfcbc9cfcfc4cfcfccc9c4cfcfcbcb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1041201",
-            "立法紀錄": "104卷89期4288號一冊 522-522頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcccbc8c781cecfcbcfc7c6cfcec4cfcacdcdc4cfcacdcd",
+            "會議日期": "780623",
+            "立法紀錄": "78卷50期2266號 24-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cdc981c8c7cfcacfcfcfc4cfcfcdcbc4cfcfcdc7",
             "關係文書": []
         }
     ]
