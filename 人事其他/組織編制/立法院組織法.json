@@ -1,10 +1,11 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國45年11月9日修正",
-        "中華民國45年11月19日公布"
+        "中華民國47年7月18日修正",
+        "中華民國47年7月26日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -113,7 +114,7 @@
         {
             "note": "",
             "rule_no": "第十八條",
-            "content": "　　立法院依憲法第六十七條之規定，設左列委員會：\n　　一、內政委員會。\n　　二、外交委員會。\n　　三、國防委員會。\n　　四、經濟委員會。\n　　五、財政委員會。\n　　六、預算委員會。\n　　七、教育委員會。\n　　八、交通委員會。\n　　九、邊政委員會。\n　　十、僑政委員會。\n　　十一、民刑商法委員會。\n　　十二、法制委員會。\n　　立法院於必要時，得增設其他委員會或特種委員會。",
+            "content": "　　立法院依憲法第六十七條之規定，設左列委員會：\n　　一、內政委員會。\n　　二、外交委員會。\n　　三、國防委員會。\n　　四、經濟委員會。\n　　五、財政委員會。\n　　六、預算委員會。\n　　七、教育委員會。\n　　八、交通委員會。\n　　九、邊政委員會。\n　　十、僑政委員會。\n　　十一、司法委員會。\n　　十二、法制委員會。\n　　立法院於必要時，得增設其他委員會或特種委員會。",
             "relates": {}
         },
         {
@@ -175,6 +176,54 @@
             "rule_no": "第二十八條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "460503",
+            "立法紀錄": "46卷19期號6冊 68-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc9cec6cfc9c4cfcfc9c7c4cfcfc9c6",
+            "主提案": "何佐治",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c8cbcbd2c8cbca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "470718",
+            "立法紀錄": "47卷21期號20冊 3-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc8cdcecdcfc4cfcfcfccc4cfcfcfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5c8cfd2c8cd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "470708",
+            "立法紀錄": "47卷21期號18冊 39-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc8cdcecec7c4cfcfccc6c4cfcfcbcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "470711",
+            "立法紀錄": "47卷21期號19冊 120-120頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc8cdcecec6c4cfcecdcfc4cfcecdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "470718",
+            "立法紀錄": "47卷21期號20冊 27-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc8cdcecdcfc4cfcfcdc8c4cfcfcdc7",
+            "關係文書": []
         }
     ]
 }
