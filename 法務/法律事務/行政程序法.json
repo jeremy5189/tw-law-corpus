@@ -1,8 +1,8 @@
 {
     "title": "行政程序法",
     "versions": [
-        "中華民國90年6月5日修正",
-        "中華民國90年6月20日公布"
+        "中華民國90年12月28日修正",
+        "中華民國90年12月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -1144,7 +1144,7 @@
         {
             "note": "(職權命令)",
             "rule_no": "第一百七十四條 之一",
-            "content": "　　本法施行前，行政機關依中央法規標準法第七條訂定之命令，須以法律規定或以法律明列其授權依據者，應於本法施行後一年內，以法律明列其授權依據後修正或訂定；逾期失效。",
+            "content": "　　本法施行前，行政機關依中央法規標準法第七條訂定之命令，須以法律規定或以法律明列其授權依據者，應於本法施行後二年內，以法律規定或以法律明列其授權依據後修正或訂定；逾期失效。",
             "relates": {}
         },
         {
@@ -1155,34 +1155,41 @@
         }
     ],
     "law_reasons": {
-        "第一百七十四條 之一": "　　鑑於民國八十八年二月三日立法院通過「行政程序法」時，業已給予行政院二年時間，以作為相關法制調整肆應之緩衝期，惟行政院不但未於期限屆滿前完成準備工作，復於該法於民國九十年一月一日正式施行前一個月，未經正常審議程序，協商通過增訂「行政程序法第一百七十四條之一」之條文，已嚴重違反行政程序法之立法精神及背離人民對該法之信賴，故刪除第二項規定。"
+        "第一百七十四條 之一": "　　本法自九十年一月一日開始施行，本條規定之「施行後一年」即將於九十年十二月底屆滿，各機關為配合本法施行，而修正以符合法律保留原則或增列法律明確授權之法律案，恐難於期限內完成立法程序，為使行政事務賡續順利進行，爰將「一年」之緩衝期間修正為「二年」，以應實際需要。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "900320",
-            "立法紀錄": "90卷12期3146號上冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c7ce81c6cfcecdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "新黨黨團",
+            "會議日期": "901204",
+            "立法紀錄": "90卷58期3192號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c7cc81c6cfcac7cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcac5cbcfcdd2cbcfcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cfc7cfcec5c9c7cad2c9c7c7"
                 ]
             ]
         },
         {
+            "進度": "一讀",
+            "會議日期": "901225",
+            "立法紀錄": "91卷2期3198號 19-19頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c7cc81c6cecfcdcfcfc4cfcfcec6c4cfcfcec6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "900605",
-            "立法紀錄": "90卷34期3168號上冊 96-97頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c7ce81c6cfcccbcfcec4cfcfc6c9c4cfcfc6c8",
+            "會議日期": "901228",
+            "立法紀錄": "91卷2期3198號 210-210頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c7cc81c6cecfcdcfcfc4cfcdcecfc4cfcdcecf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "900605",
-            "立法紀錄": "90卷34期3168號上冊 98-98頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c7ce81c6cfcccbcfcec4cfcfc6c7c4cfcfc6c7",
+            "會議日期": "901228",
+            "立法紀錄": "91卷2期3198號 211-211頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c7cc81c6cecfcdcfcfc4cfcdcecec4cfcdcece",
             "關係文書": []
         }
     ]
