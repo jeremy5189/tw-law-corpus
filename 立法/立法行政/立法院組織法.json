@@ -1,10 +1,11 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國41年12月12日全文修正",
-        "中華民國41年12月27日公布"
+        "中華民國42年2月27日修正",
+        "中華民國42年3月6日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -119,13 +120,13 @@
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　立法院各委員會各置委員若干人，由立法委員分任之，每一委員以參加一委員會為原則，但得就其志趣參加另一委員會。",
+            "content": "　　立法院各委員會委員，由立法委員分任之，以九十人為最高額，每一委員以參加一委員會為限。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十條",
-            "content": "　　立法院各委員會各置召集委員若干人，其名額及產生方法由立法院定之。",
+            "content": "　　立法院各委員會各置召集委員，其名額以各委員會參加委員人數為比例，二十人以下者一人，二十一人至四十人者二人，四十一人以上者三人；其產生方法由立法院定之。",
             "relates": {}
         },
         {
@@ -175,6 +176,41 @@
             "rule_no": "第二十八條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420227",
+            "立法紀錄": "42卷11期號2冊 4-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ce81cbcdcececfcdc4cfcfcfcbc4cfcfcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cbced2cbcb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420227",
+            "立法紀錄": "42卷11期號2冊 10-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ce81cbcdcececfcdc4cfcfcecfc4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "420227",
+            "立法紀錄": "42卷11期號2冊 17-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ce81cbcdcececfcdc4cfcfcec8c4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "420227",
+            "立法紀錄": "42卷11期號2冊 18-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ce81cbcdcececfcdc4cfcfcec7c4cfcfcec7",
+            "關係文書": []
         }
     ]
 }
