@@ -1,12 +1,12 @@
 {
     "title": "監察法",
     "versions": [
-        "中華民國56年8月15日修正",
-        "中華民國56年8月28日公布"
+        "中華民國81年10月30日修正",
+        "中華民國81年11月13日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -16,13 +16,13 @@
         {
             "note": "(本法之適用)",
             "rule_no": "第一條",
-            "content": "　　監察院依憲法之規定，行使同意、彈劾、糾舉及審計權，並提出糾正案，除同意權及審計權之行使另有規定外，悉依本法之規定。",
+            "content": "　　監察院依憲法及憲法增修條文之規定，行使彈劾、糾舉及審計權，並提出糾正案，除審計權之行使另有規定外，悉依本法之規定。",
             "relates": {}
         },
         {
             "note": "(職權之行使)",
             "rule_no": "第二條",
-            "content": "　　監察院以監察委員行使同意權、彈劾權、糾舉權，及以各委員會提出糾正案。",
+            "content": "　　監察院以監察委員行使彈劾權、糾舉權及以各委員會提出糾正案。",
             "relates": {}
         },
         {
@@ -44,13 +44,13 @@
         {
             "note": "(對正副總統之彈劾)",
             "rule_no": "第五條",
-            "content": "　　監察院對總統、副總統提出彈劾案時，依憲法第三十條及第一百條之規定辦理。",
+            "content": "　　監察院對總統、副總統提出彈劾案時，依憲法第三十條及憲法增修條文第十五條第五項之規定辦理。",
             "relates": {}
         },
         {
             "note": "(彈劾案之提議原因)",
             "rule_no": "第六條",
-            "content": "　　監察委員對於公務人員認為有違法或失職之行為，應向監察院提彈劾案。",
+            "content": "　　監察委員對於公務人員認為有違法或失職之行為者，應經二人以上之提議向監察院提彈劾案。",
             "relates": {}
         },
         {
@@ -148,9 +148,9 @@
             "relates": {}
         },
         {
-            "note": "(糾舉案不當改提彈劾案)",
+            "note": "(彈劾案之改提)",
             "rule_no": "第二十二條",
-            "content": "　　被糾舉人員之主管長官或其上級長官，對於糾舉案，不依前條規定處理，或處理後監察委員認為不當時，得改提彈劾案。\n　　被糾舉人員之主管長官或其上級長官接到糾舉書後，不依前條規定處理或決定不應處分，如被糾舉人員因改被彈劾而受懲戒時，其主管長官或其上級長官應負失職責任。",
+            "content": "　　被糾舉人員之主管長官或其上級長官對於糾舉案，不依前條規定處理或處理後監察委員二人以上認為不當時，得改提彈劾案。\n　　被糾舉人員之主管長官或其上級長官接到糾舉書後，不依前條規定處分或決定不應處分，如被糾舉人員因改被彈劾而受懲戒時，其主管長官或其上級長官應負失職責任。",
             "relates": {}
         },
         {
@@ -222,41 +222,63 @@
         {
             "note": "(施行日)",
             "rule_no": "第三十二條",
-            "content": "　　本法自公布日起施行。",
+            "content": "　　本法自公布日施行。\n　　本法第一條、第二條、第五條、第六條及第二十二條第一項，自中華民國八十二年二月一日起施行。",
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第一條": "　　依憲法增修條文第十五條第一項，刪除有關同意權之規定。",
+        "第二條": "　　依憲法增修條文第十五條第一項，刪除有關同意權之規定。",
+        "第五條": "　　刪除憲法第一百條，增列憲法增修條文第十五條第五項，以為依據。",
+        "第六條": "　　對於公務人員認有違失時，監察委員提議彈劾案之人數，增列二人以上，以符憲法增修條文第十五條第三、四項之規定。",
+        "第二十二條": "　　為配合本法第六條修正條文，將第一項關於監察委員之人數，修正為二人以上。",
+        "第三十二條": "　　依照憲法增修條文第十六條第二項規定，第二屆監察委員，於中華民國八十二年二月一日就職，爰增列第二項。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "551223",
-            "立法紀錄": "55卷38期號10冊 58-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7c981cacaccc7cecfcfcfc4cfcfcac7c4cfcfcac7",
+            "會議日期": "810929",
+            "立法紀錄": "81卷60期2588號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cbc7c881c7cecfc9cfcfcfc4cfcfcfcac4cfcfcfca",
             "主提案": "監察院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc7cfcccfcfc5cecdc6d2ceccce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfcdcfcec5cccfc9d2cccdca"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "811028",
+            "立法紀錄": "81卷69期2597號下冊 360-417頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cbc7c881c7cecfc9c6cfccc4cfccc9cfc4cfcbcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "811030",
+            "立法紀錄": "81卷69期2597號上冊 193-205頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cbc7c881c7cecfc9c6cfcec4cfcec6ccc4cfcdcfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecfcfcfc5cccac9d2ccc9cf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "560811",
-            "立法紀錄": "56卷4期號8冊 1110-1111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7c981cac9ccc6cfc7cfcbc4cecececfc4cececece",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcdcfcfc5ceccd2cec9"
-                ]
-            ]
+            "會議日期": "811030",
+            "立法紀錄": "81卷69期2597號上冊 205-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cbc7c881c7cecfc9c6cfcec4cfcdcfcac4cfcdcfc8",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "560815",
-            "立法紀錄": "56卷5期號8冊 1145-1145頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7ccccc8cbc7c981cac9ccc6cfc7cfcac4cececbcac4cececbca",
+            "會議日期": "811030",
+            "立法紀錄": "81卷69期2597號上冊 207-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cbc7c881c7cecfc9c6cfcec4cfcdcfc8c4cfcdcfc8",
             "關係文書": []
         }
     ]
