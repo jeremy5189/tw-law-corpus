@@ -1,12 +1,11 @@
 {
     "title": "市參議員選舉條例",
     "versions": [
-        "中華民國92年5月27日廢止",
-        "中華民國92年6月11日公布"
+        "中華民國33年12月29日制定",
+        "中華民國34年1月30日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -20,15 +19,15 @@
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(被選為市參議員之資格)",
             "rule_no": "第二條",
-            "content": "　　都市公民年滿二十三歲，具有左列條件之一者，得被選為市參議員：\n　　一、區域選舉，由有選舉權之市民三百人以上簽署提名為候選人者。\n　　二、職業團體選舉，由有選舉權之會員或會同複選之初選人十分之一以上之簽署提名為候選人者。但此項簽署人數不得少於三人。",
+            "content": "　　市公民年滿二十五歲，經市參議員候選人試驗或檢覈及格者，得被選為市參議員。",
             "relates": {}
         },
         {
-            "note": "",
+            "note": "(停止被選舉權之人員)",
             "rule_no": "第三條",
-            "content": "　　左列各款人員，停止其被選舉權：\n　　一、現任公務員。\n　　二、現役軍人或警察。\n　　三、現在學校肄業之學生。\n　　前項第一款之限制，於各級學校校長不適用之。",
+            "content": "　　左列各款人員，停止其被選舉權：\n　　一、現任公務員。\n　　二、現役軍人或警察。\n　　三、現在學校肄業之學生。",
             "relates": {}
         },
         {
@@ -330,54 +329,6 @@
             "rule_no": "第四十九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　本條例於民國34年1月30日由國民政府公布，民國37年12月21日修正，並於民國61年3月18日總統令暫停適用，因客觀情勢業已變更，無繼續適用之必要，爰予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "920328",
-            "立法紀錄": "92卷15期3289號一冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfcac881c6cdcecacfcec4cfcfcfc9c4cfcfcfc9",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfc7cfcdc5cccccad2ccccc9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "920512",
-            "立法紀錄": "92卷30期3304號下冊 3-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfcac881c6cdcccfcfccc4cfcfcfccc4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "920527",
-            "立法紀錄": "92卷31期3305號二冊 197-199頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfcac881c6cdcccecfcdc4cfcec6c8c4cfcec6c6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecccfcdc5cbcfc6d2cac7cb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "920527",
-            "立法紀錄": "92卷31期3305號二冊 348-354頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfcac881c6cdcccecfcdc4cfcccbc7c4cfcccacb",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "920527",
-            "立法紀錄": "92卷31期3305號二冊 371-374頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfcac881c6cdcccecfcdc4cfccc8cec4cfccc8cb",
-            "關係文書": []
         }
     ]
 }
