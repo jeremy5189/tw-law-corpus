@@ -1,12 +1,12 @@
 {
     "title": "行政法院組織法",
     "versions": [
-        "中華民國64年11月28日全文修正",
-        "中華民國64年12月12日公布"
+        "中華民國83年10月27日修正",
+        "中華民國83年11月11日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　行政法院院長，綜理全院行政事務，兼任評事，並得充庭長。",
+            "content": "　　行政法院院長綜理全院行政事務，並任評事且得充庭長。",
             "relates": {}
         },
         {
@@ -94,85 +94,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　一、為貫徹各級法院審判機關化，最高法院院長及公務員懲戒委員會之委員長，均並任法官。僅行政法院院長尚非並任法官。爰將本條「兼」字改為「並」，以使行政法院院長並任為評事。\n　　二、院長並任為評事後，依本法第十一條規定，院長即可適用有關評事之保障，再準用關於推事（法官）之保障即司法人員人事條例有關法官之保障，則院長於年滿七十歲時停止辦案，即有依據，並藉以促進司法人事之新陳代謝。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "620327",
-            "立法紀錄": "62卷22期578號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cdcacecdcdcfcfcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "孫體鈐",
+            "會議日期": "831027",
+            "立法紀錄": "83卷69期2743號上冊 42-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cbca81c7ccc9c6cfcec4cfcfcbcdc4cfcfcbcd",
+            "主提案": "劉光華",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcccfcfc5cec9c7d2cec6ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "641028",
-            "立法紀錄": "64卷87期841號 14-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cbcac9c7c8cfcfcfcec4cfcfcecbc4cfcfcec7",
-            "主提案": "溫士源",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcdcfcfc5cbcecfd2cbcec9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640512",
-            "立法紀錄": "64卷74期828號 39-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cbcacac8cbcfcfc4cfcfccc6c4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640519",
-            "立法紀錄": "64卷75期829號 41-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cbcacac8cacfcfc4cfcfcbcec4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640526",
-            "立法紀錄": "64卷81期835號 1-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cbcac9c7cecfcfcfcdc4cfcfcfcec4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "641028",
-            "立法紀錄": "64卷87期841號 18-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cbcac9c7c8cfcfcfcec4cfcfcec7c4cfcfc8cd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcdcfcfc5cbcec7d2cbc9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcfcacfcfc5c7c7d2c6cf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "641104",
-            "立法紀錄": "64卷89期843號 3-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cbcac9c7c6cfcfcfcec4cfcfcfccc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "641107",
-            "立法紀錄": "64卷90期844號 14-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cbcac9c6cfcfcfcfcec4cfcfcecbc4cfcfcec9",
+            "會議日期": "831027",
+            "立法紀錄": "83卷69期2743號上冊 42-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cbca81c7ccc9c6cfcec4cfcfcbcdc4cfcfcbcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "641128",
-            "立法紀錄": "64卷96期850號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cbcc81c9cbcac9c6c9cfcfcfcec4cfcfcfc9c4cfcfcfc8",
+            "會議日期": "831027",
+            "立法紀錄": "83卷69期2743號上冊 42-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cbca81c7ccc9c6cfcec4cfcfcbcdc4cfcfcbcd",
             "關係文書": []
         }
     ]
