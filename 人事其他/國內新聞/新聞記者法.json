@@ -1,12 +1,11 @@
 {
     "title": "新聞記者法",
     "versions": [
-        "中華民國93年1月9日廢止",
-        "中華民國93年1月20日公布"
+        "中華民國32年1月30日制定",
+        "中華民國32年2月15日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -90,7 +89,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　新聞記者公會設理事監事其名額如左。\n　　一、縣市公會或其聯合公會理事三人至九人，監事一人至三人。\n　　二、省公會或其聯合公會或院轄市公會理事九人至十七人，監事三人至五人。\n　　三、全國公會聯合公會理事十五人至二十七人，監事五人至九人。\n　　前項各款理事監事之任期，不得逾三年，連選得連任一次。　　",
+            "content": "　　新聞記者公會設理事監事其名額如左：\n　　一、縣市公會或其聯合公會理事三人至九人，監事一人至三人。\n　　二、省公會或其聯合公會或院轄市公會理事九人至十七人，監事三人至五人。\n　　三、全國公會聯合公會理事十一人至二十一人，監事五人至九人。\n　　前項各款理事監事之任期，不得逾三年，連選得連任一次。\n　　",
             "relates": {}
         },
         {
@@ -194,40 +193,6 @@
             "rule_no": "第三十一條",
             "content": "　　本法施行日期，以命令定之。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　新聞記者法於民國34年修正公布施行迄今已久，法律全文充滿政府箝制新聞自由的條文，新聞記者須促進「三民主義之闡發」等任務，實屬不合時宜，不符獨立自主的精神；爰予以廢止「新聞記者法」，以保障新聞自由。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "921204",
-            "立法紀錄": "92卷57期3331號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecac881c6cdcac8cfcec4cfcfcfccc4cfcfcfcc",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecbcfcec5cecdc9d2cecccc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "921231",
-            "立法紀錄": "93卷6期3340號四冊 387-389頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecac881c6cccfc9cfcbc4cfccc7c8c4cfccc7c6",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "930109",
-            "立法紀錄": "93卷6期3340號一冊 215-220頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcbcecac881c6cccfc9cfcec4cfcdcecac4cfcdcdcf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec8cfcec5cbc7cad2cbc6cb"
-                ]
-            ]
         }
     ]
 }
