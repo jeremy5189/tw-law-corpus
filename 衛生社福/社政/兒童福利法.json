@@ -1,12 +1,12 @@
 {
     "title": "兒童福利法",
     "versions": [
-        "中華民國82年1月18日全文修正",
-        "中華民國82年2月5日公布"
+        "中華民國88年3月30日修正",
+        "中華民國88年4月21日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -178,7 +178,7 @@
         {
             "note": "",
             "rule_no": "第二十六條",
-            "content": "　　任何人對於兒童不得有左列行為：\n　　一、遺棄。\n　　二、身心虐待。\n　　三、利用兒童從事危害健康、危險性活動或欺騙之行為。\n　　四、利用殘障或畸形兒童供人參觀。\n　　五、利用兒童行乞。\n　　六、供應兒童觀看、閱讀、聽聞或使用有礙身心之電影片、錄影節目帶、照片、出版品、器物或設施。\n　　七、剝奪或妨礙兒童接受國民教育之機會或非法移送兒童至國外就學。\n　　八、強迫兒童婚嫁。\n　　九、拐騙、綁架、買賣、質押兒童，或以兒童為擔保之行為。\n　　十、強迫、引誘、容留、容認或媒介兒童為猥褻行為或姦淫。\n　　十一、供應兒童毒藥、毒品、麻醉藥品、刀械、槍砲、彈藥或其他危險物品。\n　　十二、利用兒童攝製猥褻或暴力之影片、圖片。\n　　十三、帶領或誘使兒童進入有礙其身心健康之場所。\n　　十四、其他對兒童或利用兒童犯罪或為不正當之行為。",
+            "content": "　　任何人對於兒童不得有左列行為：\n　　一、遺棄。\n　　二、身心虐待。\n　　三、利用兒童從事危害健康、危害性活動或欺騙之行為。\n　　四、利用殘障或畸形兒童供人參觀。\n　　五、利用兒童行乞。\n　　六、供應兒童觀看閱讀聽聞或使用有礙身心之電影片、錄影節目帶、照片、出版品、器物或設施。\n　　七、剝奪或妨礙兒童接受國民教育之機會或非法移送兒童至國外就學。\n　　八、強迫兒童婚嫁。\n　　九、拐騙、綁架、買賣、質押兒童，或以兒童為擔保之行為。\n　　十、強迫、引誘、容留、容認或媒介兒童為猥褻行為或性交。\n　　十一、供應兒童毒藥、毒品、麻醉藥品、刀械、槍砲、彈藥或其他危險物品。\n　　十二、利用兒童攝製猥褻或暴力之影片、圖片。\n　　十三、帶領或誘使兒童進入有礙其身心健康之場所。\n　　十四、其他對兒童或利用兒童犯罪或為不正當之行為。",
             "relates": {}
         },
         {
@@ -358,112 +358,48 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二十六條": "　　配合刑法第二百二十一條等之修正，原條文第一項第十款「姦淫」修改為「性交」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800305",
-            "立法紀錄": "80卷19期2443號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cfcfcec6cfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-243頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcececc81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
+            "主提案": "謝啟大",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfcccfcfc5cecdcbd2cecbc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cdc8c7d2cdc7cc"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "800419",
-            "立法紀錄": "80卷32期2456號 32-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cfcfcccdcfcfc4cfcfcccdc4cfcfc8cc",
-            "主提案": "林志嘉",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 219-243頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcececc81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
+            "主提案": "謝啟大",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfc8cfcfc5c9c9cad2c8cfc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "801205",
-            "立法紀錄": "80卷99期2523號 23-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cfcfc6c6cfcfc4cfcfcdccc4cfcfc6ce",
-            "主提案": "謝長廷",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cec7cfcfc5ccccc9d2cbcfcc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801021",
-            "立法紀錄": "80卷86期2510號 174-207頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cfcfc7c9cfcfc4cfcec8cbc4cfcdcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801106",
-            "立法紀錄": "80卷91期2515號 378-411頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cfcfc6cecfcfc4cfccc8c7c4cfcbcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801118",
-            "立法紀錄": "80卷94期2518號 193-224頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cfcfc6cbcfcfc4cfcec6ccc4cfcdcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801204",
-            "立法紀錄": "80卷99期2523號 389-406頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cfcfc6c6cfcfc4cfccc7c6c4cfcbcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "810104",
-            "立法紀錄": "81卷4期2532號 193-218頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cecfcfcbcfcfc4cfcec6ccc4cfcdcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "820115",
-            "立法紀錄": "82卷4期2603號中冊 78-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cdcfcbcfcdc4cfcfc8c7c4cfcdcbcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cec6cfcec5cdc6c8d2cbcacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfccc5c9cccdd2c9cacf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "820115",
-            "立法紀錄": "82卷4期2603號中冊 244-266頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cdcfcbcfcdc4cfcdcbcbc4cfcdc9c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "820115",
-            "立法紀錄": "82卷4期2603號中冊 279-280頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cdcfcbcfcdc4cfcdc8c6c4cfcdc7cf",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 248-248頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcececc81c7c7cecccfcec4cfcdcbc7c4cfcdcbc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "820118",
-            "立法紀錄": "82卷4期2603號中冊 530-531頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecece81c7cdcfcbcfcdc4cfcacccfc4cfcaccce",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 248-249頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcececc81c7c7cecccfcec4cfcdcbc7c4cfcdcbc6",
             "關係文書": []
         }
     ]
