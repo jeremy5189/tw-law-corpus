@@ -1,11 +1,11 @@
 {
     "title": "商港條例",
     "versions": [
-        "中華民國60年10月22日修正",
-        "中華民國60年11月4日公布"
+        "中華民國69年4月15日廢止",
+        "中華民國69年5月2日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -184,54 +184,25 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　本條第二項中之「國民政府」四字，與政府現行體制不符，爰修正為「行政院」，俾本條第一項規定之商港，由行政院以命令指定。"
-    },
+    "deprecated_reason": "　　近年來國家經濟繁榮，航運事業發展迅速，國際商港正積極開發建設，而船舶運輸涉及國際事件與人民權利義務甚多。現行「商港條例」僅規定有關船舶出入港及停泊之管理事項，而於商港之規劃、建設、經營、管理，則付闕如，為適應今後商港管理之需要，故制定「商港法」，並將現行商港條例予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600604",
-            "立法紀錄": "60卷41期395號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec9c6cf81c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "680316",
+            "立法紀錄": "68卷22期1194號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec9c6ce81c9c7c9cccdcdcfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6cdcad2c6cdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cccecdd2cccccc"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600729",
-            "立法紀錄": "60卷61期415號 1-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec9c6cf81c9cfcbc8c9cecfcfcfcdc4cfcfcfcec4cfcfcfcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "601019",
-            "立法紀錄": "60卷80期433號 15-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec9c6cf81c9cfcbc7c7cfcfcfcfcec4cfcfcecac4cfcfcec8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcecfcfc5c8c8c7d2c8c7ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "601019",
-            "立法紀錄": "60卷80期433號 17-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec9c6cf81c9cfcbc7c7cfcfcfcfcec4cfcfcec8c4cfcfcec8",
-            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "601022",
-            "立法紀錄": "60卷81期434號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec9c6cf81c9cfcbc7c7cecfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "690415",
+            "立法紀錄": "69卷31期1307號 3-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec9c6ce81c9c6c9cacccecfcfc4cfcfcfccc4cfcfcece",
             "關係文書": []
         }
     ]
