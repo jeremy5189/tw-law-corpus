@@ -1,12 +1,12 @@
 {
     "title": "九年國民教育實施條例",
     "versions": [
-        "中華民國68年5月8日廢止",
-        "中華民國68年5月23日公布"
+        "中華民國57年1月19日制定",
+        "中華民國57年1月27日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -106,25 +106,92 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　因「國民教育法」之制定，本條例已無保留必要，故予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "671017",
-            "立法紀錄": "67卷83期1151號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacc81c9c8c9cdc7cccfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "561031",
+            "立法紀錄": "56卷1期號11冊 1878-1878頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac9cbcfcfcececec4cec7c8c7c4cec7c8c7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cacfcfd2cacec6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5c9c8d2c8cf"
                 ]
             ]
         },
         {
+            "進度": "一讀",
+            "會議日期": "561128",
+            "立法紀錄": "56卷9期號11冊 2276-2276頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac9cbcfcfc6cecec4cdcdc8c9c4cdcdc8c9",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5ccccc8d2cccbcd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561211",
+            "立法紀錄": "56卷8期號12冊 2795-2801頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac9cbcfcfc7cecdc4cdc8c6cac4cdc7cfce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561211",
+            "立法紀錄": "56卷9期號12冊 2882-2898頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac9cbcfcfc6cecdc4cdc7c7cdc4cdc7c6c7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561218",
+            "立法紀錄": "57卷1期號 62-84頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac8cbcfcfcecfcfc4cfcfc9cdc4cfcfc7cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "561229",
+            "立法紀錄": "56卷9期號12冊 2860-2873頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac9cbcfcfc6cecdc4cdc7c9cfc4cdc7c8cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcccfcfc5caccd2c9cd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "570109",
+            "立法紀錄": "57卷2期號 103-117頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac8cbcfcfcdcfcfc4cfcecfccc4cfcecec8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "570112",
+            "立法紀錄": "57卷3期號 138-159頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac8cbcfcfcccfcfc4cfceccc7c4cfcecac6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "570116",
+            "立法紀錄": "57卷4期號 190-205頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac8cbcfcfcbcfcfc4cfcec6cfc4cfcdcfca",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "680508",
-            "立法紀錄": "68卷37期1209號 2-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacc81c9c7c9ccccc8cfcfc4cfcfcfcdc4cfcfcfc8",
+            "會議日期": "570119",
+            "立法紀錄": "57卷5期號 235-236頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcacd81cac8cbcfcfcacfcfc4cfcdcccac4cfcdccc9",
             "關係文書": []
         }
     ]
