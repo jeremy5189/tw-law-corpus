@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國60年8月24日修正",
-        "中華民國60年8月31日公布"
+        "中華民國70年4月28日修正",
+        "中華民國70年5月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -138,7 +138,7 @@
         {
             "note": "",
             "rule_no": "第二十二條",
-            "content": "　　立法院院長綜理院務。\n　　立法院院長因事故不能視事時，由副院長代理其職務。",
+            "content": "　　立法院院長、副院長之任期為三年。\n　　立法院院長綜理院務。\n　　立法院院長因事故不能視事時，由副院長代理其職務。",
             "relates": {}
         },
         {
@@ -179,53 +179,34 @@
         }
     ],
     "law_reasons": {
-        "第二十條": "　　本案現行法乃是十八年前，根據當時本院委員總人數所制定的，現在事隔十八年，現有委員人數已遠非昔比，因此，乃就各委員會所產生召集人之必需人數稍加調整。"
+        "第二十二條": "　　增額立法委員在其任期內自應有依憲法第六十六條規定選舉院長、副院長及被選為院長、副院長之權利，而此項院長、副院長之選舉並無不能定期舉行之原因存在，允宜修改立法院組織法，明定院長、副院長之任期為三年，建立制度，用符憲法第六十六條之旨意。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600806",
-            "立法紀錄": "60卷59期413號 2-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc8cac6cfcfcfcec4cfcfcfcdc4cfcfcfcb",
-            "主提案": "閻孟華",
+            "會議日期": "700428",
+            "立法紀錄": "70卷34期1415號 3-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c981c8cfc9c8cccbcfcfc4cfcfcfccc4cfcfcfc6",
+            "主提案": "張子揚",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcbcfcfc5c9cfccd2c9cfc9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600816",
-            "立法紀錄": "60卷82期435號 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc7c7cdcfcfcfcdc4cfcfcfcec4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "600824",
-            "立法紀錄": "60卷64期418號 3-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc8c9cbcfcfcfcec4cfcfcfccc4cfcfcfca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcbcfcfc5c6ccccd2c6cbcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfcbcfcfc5cbcac9d2cbcac7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "600824",
-            "立法紀錄": "60卷64期418號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc8c9cbcfcfcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "700428",
+            "立法紀錄": "70卷34期1415號 9-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c981c8cfc9c8cccbcfcfc4cfcfcfc6c4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "600824",
-            "立法紀錄": "60卷64期418號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc8c9cbcfcfcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "700428",
+            "立法紀錄": "70卷34期1415號 12-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9c981c8cfc9c8cccbcfcfc4cfcfcecdc4cfcfcecc",
             "關係文書": []
         }
     ]
