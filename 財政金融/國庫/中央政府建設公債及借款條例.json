@@ -1,8 +1,8 @@
 {
     "title": "中央政府建設公債及借款條例",
     "versions": [
-        "中華民國84年3月23日修正",
-        "中華民國84年3月24日公布"
+        "中華民國84年12月19日修正",
+        "中華民國85年1月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -16,15 +16,15 @@
             "relates": {}
         },
         {
-            "note": "(未償總餘額限制)",
+            "note": "(刪除)",
             "rule_no": "第二條",
-            "content": "　　本公債及本借款之未償總餘額，合計不得超過當年度中央政府總預算及特別預算歲出總額的百分之一百二十四，其中第五條所定甲類公債及甲類借款之未償總餘額，不得超過百分之一百；乙類公債及乙類借款之未償總餘額，不得超過百分之二十四。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
             "note": "(發行期滿一年後之償還及另發)",
             "rule_no": "第三條",
-            "content": "　　本公債發行期滿一年後，得依前條法定預算所列數額，提前償還一部或全部，及另發新公債。其償還或另發辦法，由財政部擬訂，報行政院核定。\n　　前項另發之新公債，原公債持有人得以原債票，調換新債票。",
+            "content": "　　本公債發行期滿一年後，得提前償還一部或全部，及另發新公債。其償還或另發辦法，由財政部擬訂，報行政院核定。\n　　前項另發之新公債，原公債持有人得以原債票，調換新債票。",
             "relates": {}
         },
         {
@@ -66,7 +66,7 @@
         {
             "note": "(公債發行之限制)",
             "rule_no": "第九條 之一",
-            "content": "　　中央銀行不得承受本公債之發行。但經行政院送經立法院決議准予承受者，不在此限。",
+            "content": "　　中央銀行不得承受本公債之發行及不得承貸本借款。但經行政院送經立法院決議准予承受及承貸者，不在此限。",
             "relates": {}
         },
         {
@@ -95,34 +95,83 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　為配合政府施政需要，在「公共債務法」未完成立法前，先修正「中央政府建設公債及借款條例」，以穩定財政。"
+        "第二條": "　　為維護整體財政之健全，支應國家發展需要，故有關公共債務之上限，應依公共債務法之規定，本條規定已無必要，爰予刪除。",
+        "第三條": "　　配合第二條之刪除，修正刪除第一項「依前條法定預算所列數額」等字。\n　　第二項不修正。",
+        "第九條 之一": "　　為保持中央銀行貨幣政策之中立性與獨立性，除不得承受本公債之發行外，增訂不得承貸本借款之規定，以期周延。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "840323",
-            "立法紀錄": "84卷17期2774號上冊 60-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac981c7cbcec8cfcec4cfcfc9cfc4cfcfc9ce",
-            "主提案": "趙振鵬",
+            "會議日期": "831229",
+            "立法紀錄": "84卷2期2759號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcfcdcfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacfc7cfcfc5cac9c8d2cac9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcdcfcdc5cec6c8d2cdcdcf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "840111",
+            "立法紀錄": "84卷7期2764號 351-385頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcfc8cfcfc4cfcccacec4cfccc7ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "840313",
+            "立法紀錄": "84卷16期2773號下冊 383-430頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcec9cfccc4cfccc7ccc4cfcbcccf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "841005",
+            "立法紀錄": "84卷50期2807號 27-67頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcacfcfcfc4cfcfcdc8c4cfcfc9c8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacfc8cfcdc5cdcbcad2cdc8cc"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "840323",
-            "立法紀錄": "84卷17期2774號上冊 61-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac981c7cbcec8cfcec4cfcfc9cec4cfcfc8cc",
+            "會議日期": "841005",
+            "立法紀錄": "84卷50期2807號 67-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcacfcfcfc4cfcfc9c8c4cfcfc8ce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "841012",
+            "立法紀錄": "84卷52期2809號 17-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbcacdcfcfc4cfcfcec8c4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "841208",
+            "立法紀錄": "84卷60期2817號 141-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbc9cfcfcfc4cfcecbcec4cfcecbc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "841219",
+            "立法紀錄": "84卷63期2820號上冊 104-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbc9cccfcec4cfcecfcbc4cfcecfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "840323",
-            "立法紀錄": "84卷17期2774號上冊 73-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac981c7cbcec8cfcec4cfcfc8ccc4cfcfc8cc",
+            "會議日期": "841219",
+            "立法紀錄": "84卷63期2820號上冊 105-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacccac881c7cbc9cccfcec4cfcecfcac4cfcecfca",
             "關係文書": []
         }
     ]
