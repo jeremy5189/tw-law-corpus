@@ -1,11 +1,12 @@
 {
     "title": "工業會法",
     "versions": [
-        "中華民國36年10月7日制定",
-        "中華民國36年10月27日公布"
+        "中華民國63年12月17日廢止",
+        "中華民國63年12月28日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -407,6 +408,30 @@
             "rule_no": "第六十條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　因本法歷時已久，其內容不足以適應當前工業發展及社會經濟建設之需要，故參照商業團體法，制定工業團體法，以取代工業會法，故將本法廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "630621",
+            "立法紀錄": "63卷44期700號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccbc6c781c9cccacccbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "631213",
+            "立法紀錄": "63卷94期750號 5-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccbc6c781c9cbcacbc6cbcfcfcfcec4cfcfcfcac4cfcfcace",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "631217",
+            "立法紀錄": "63卷95期751號 3-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccbc6c781c9cbcacbc6cacfcfcfcec4cfcfcfccc4cfcfcecd",
+            "關係文書": []
         }
     ]
 }
