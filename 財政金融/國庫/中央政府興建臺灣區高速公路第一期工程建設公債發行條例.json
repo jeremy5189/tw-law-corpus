@@ -1,8 +1,8 @@
 {
     "title": "中央政府興建臺灣區高速公路第一期工程建設公債發行條例",
     "versions": [
-        "中華民國60年1月15日制定",
-        "中華民國60年1月25日公布"
+        "中華民國60年12月14日修正",
+        "中華民國60年12月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,7 +18,7 @@
         {
             "note": "(發行期數、數額、日期之核定)",
             "rule_no": "第二條",
-            "content": "　　本公債之發行金額，應依興建臺灣區高速公路第一期工程特別預算，定為新臺幣拾柒億元。其發行期數、數額、日期，由財政部視工程進度需要情形，報請行政院核定之。",
+            "content": "　　本公債之發行金額，應依興建臺灣區高速公路第一期工程特別預算，定為新臺幣十九億元。其發行期數、數額、日期，由財政部視工程進度需要情形，報請行政院核定之。",
             "relates": {}
         },
         {
@@ -83,50 +83,46 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　闡明本條例制定之目的。",
-        "第二條": "　　一、本公債發行金額，依興建臺灣區高速公路特別預算之規定辦理。\n　　二、中央政府興建臺灣區南北高速公路第一期工程經費特別預算業經立法院院會通過，建設公債金額減列為十七億元。\n　　三、為顧慮本工程計劃，在執行期間，進度容或超前落後，故其分年分期發行數額日期，由財政部視工程進度需要情形，呈報行政院核定，較具彈性，以適應實際情況。",
-        "第三條": "　　參照以往各年度公債發行條例之成規辦理。",
-        "第四條": "　　一、參照六十年度公債發行條例之成規辦理。\n　　二、本公債利率高，則國庫負擔重，利率低，則無人購買，其利率，由財政部視發行時金融市場實際需要呈請行政院核定之。\n　　三、本公債將在四個年度內分別發行，為適應市場變化，其利率似以較具彈性之規定為宜。",
-        "第五條": "　　本公債規定自發行之日起，屆滿三年開始還本，每年平均還本一次，分五年全部還清。",
-        "第六條": "　　參照以往各年度公債發行條例之成規辦理。",
-        "第七條": "　　記名債票，得申請掛失及補發，可以維護記名者之權益。無記名債票，不得掛失止付，可以加強債票流通性，免滋紛擾。爰參照以往各年度公債發行條例之成規辦理。",
-        "第八條": "　　參照以往各年度公債發行條例之成規辦理。",
-        "第九條": "　　參照以往各年度公債發行條例之成規辦理。",
-        "第十條": "　　參照以往各年度公債發行條例之成規辦理。",
-        "第十一條": "　　參照一般公債條例訂定。",
-        "第十二條": "　　照一般立法通例，明定本條例施行日期。"
+        "第二條": "　　查臺灣區高公路第一期工程特別預算基隆內湖段工程修正預算案中，歲入部份計列發行建設公債二億元。擬於六十二、六十三年度各增發一億元，連前十七億元，共為十九億元，以應建設計劃資金需要。爰將本條條文內「拾柒憶元」修正為「拾玖億元」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "590724",
-            "立法紀錄": "59卷56期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9ce81cac6cbcacac9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "601022",
+            "立法紀錄": "60卷81期434號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cd81c9cfcbc7c7cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcbcfcfc5cec6cdd2cec6c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcdcfcfc5cccbd2ccc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "600108",
-            "立法紀錄": "60卷2期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9ce81c9cfcbc9cfcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "進度": "委員會審查",
+            "會議日期": "601110",
+            "立法紀錄": "61卷40期493號 24-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cd81c9cecbc6cbcfcfcfcfcdc4cfcfcdcbc4cfcfcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "601214",
+            "立法紀錄": "60卷96期449號 42-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cd81c9cfcbc7c6c9cfcfcfcec4cfcfcbcdc4cfcfcbc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcacfcfc5c7cbd2c6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcdcfcfc5c9c8cad2c9c7cf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "600115",
-            "立法紀錄": "60卷4期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9ce81c9cfcbc9cfcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "601214",
+            "立法紀錄": "60卷96期449號 46-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcaccc9cd81c9cfcbc7c6c9cfcfcfcec4cfcfcbc9c4cfcfcbc8",
             "關係文書": []
         }
     ]
