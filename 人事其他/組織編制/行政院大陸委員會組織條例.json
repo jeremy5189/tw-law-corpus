@@ -1,8 +1,8 @@
 {
     "title": "行政院大陸委員會組織條例",
     "versions": [
-        "中華民國80年1月18日制定",
-        "中華民國80年1月28日公布"
+        "中華民國85年12月31日修正",
+        "中華民國86年1月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -91,25 +91,91 @@
             "note": "",
             "rule_no": "第十四條",
             "content": "　　本會置主任秘書一人，處長七人，參事三人至五人，職務均列簡任第十二職等；研究委員六人至十四人，職務列簡任第十職等至第十二職等；副處長七人，職務列簡任第十一職等；專門委員七人至十一人，職務列簡任第十職等至第十一職等；科長三十六人至四十人，職務列薦任第九職等；秘書七人至八人，職務列薦任第八職等至第九職等，其中三人或四人，職務得列簡任第十職等至第十一職等；專員五十八人至六十六人，分析師一人至三人，職務均列薦任第七職等至第九職等；設計師二人至四人，職務列薦任第六職等至第八職等；科員八十一人至九十六人，職務列委任第五職等，其中四十一人至四十八人，職務得列薦任第六職等至第七職等；助理設計師一人至二人，職務列委任第三職等至第五職等；辦事員六人至八人，職務列委任第三職等至第四職等；書記六人至八人，職務列委任第一職等至第三職等。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01039",
+                        "law_name": "行政院大陸委員會組織條例",
+                        "numbers": [
+                            "第十七條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十五條",
             "content": "　　本會設人事室，置主任一人，職務列簡任第十職等至第十一職等；依法辦理人事管理事項。\n　　前項所需工作人員，應就本條例所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01039",
+                        "law_name": "行政院大陸委員會組織條例",
+                        "numbers": [
+                            "第十七條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十六條",
             "content": "　　本會設會計室，置會計主任一人，職務列簡任第十職等至第十一職等；依法辦理會計、歲計及統計事項。\n　　前項所需工作人員，應就本條例所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01039",
+                        "law_name": "行政院大陸委員會組織條例",
+                        "numbers": [
+                            "第十七條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "",
+            "rule_no": "第十六條 之一",
+            "content": "　　本會設政風室，置主任一人，職務列簡任第十職等至第十一職等；依法辦理政風事項。\n　　前項所需工作人員，應就本條例所定員額內派充之。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01039",
+                        "law_name": "行政院大陸委員會組織條例",
+                        "numbers": [
+                            "第十七條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十七條",
-            "content": "　　第十四條至第十六條列有官等職等人員，其職務所適用之職系，依公務人員任用法第八條之規定，就有關職系選用之。",
-            "relates": {}
+            "content": "　　第十四條至第十六條之一列有官等職等人員，其職務所適用之職系，依公務人員任用法第八條之規定，就有關職系選用之。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01039",
+                        "law_name": "行政院大陸委員會組織條例",
+                        "numbers": [
+                            "第十四條",
+                            "第十五條",
+                            "第十六條",
+                            "第十六條之一"
+                        ]
+                    },
+                    {
+                        "law_no": "04617",
+                        "law_name": "公務人員任用法",
+                        "numbers": [
+                            "第八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -131,6 +197,12 @@
         },
         {
             "note": "",
+            "rule_no": "第二十條 之一",
+            "content": "　　本會得視業務需要，於香港地區或澳門地區設辦事機構；其組織規程由本會擬訂，報請行政院核定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第二十一條",
             "content": "　　本會會議規則、辦事細則，由本會擬訂，報請行政院核定之。",
             "relates": {}
@@ -143,123 +215,55 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　為統籌處理有關大陸事務，爰依行政院組織法第六條規定，設大陸委員會。",
-        "第二條": "　　為因應未來省(市)政府或有設立大陸工作單位之需要，為維持政策一慣性，行政院大陸委員會對下級機關之業務具有督導權。",
-        "第三條": "　　明定行政院大陸委員會對中介團體有督導、協調之責。",
-        "第四條": "　　定行政院大陸委員會設企劃處、文教處、經濟處、法政處、港澳處、聯絡處、秘書處等單位。",
-        "第五條": "　　明定企劃處掌理事項。",
-        "第六條": "　　明定文教處掌理事項。",
-        "第七條": "　　明定經濟處掌理事項。",
-        "第八條": "　　明定大陸事務中，文教、經濟以外事項，如內政、國防、退輔及法制等事務由法政處掌理。",
-        "第九條": "　　明定港澳處掌理事項。",
-        "第十條": "　　明定聯絡處掌理事項。",
-        "第十一條": "　　明定秘書處掌理事項。",
-        "第十二條": "　　一、明定行政院大陸委員會置主任委員一人，特任；副主任委員二人或三人，職務均比照簡任第十四職等。\n　　二、明定行政院大陸委員會置委員十七人至二十七人，由行政院院長派兼或聘兼之。",
-        "第十三條": "　　明定委員會會議舉行方式。",
-        "第十四條": "　　行政院大陸委員會置主任秘書、處長、參事、研究委員、副處長、專門委員、科長、秘書、專員、分析師、設計師、科員、助理設計師、辦事員、書記等職務。",
-        "第十五條": "　　明定人事室編制及其掌理事項。",
-        "第十六條": "　　明定會計室編制及其掌理事項。",
-        "第十七條": "　　明定人員進用，依有關法規規定辦理。",
-        "第十八條": "　　行政院大陸委員會因業務需要，如需特殊專長人員，經報院核准，得依「聘用人員聘用條例」聘用研究員、副研究員、助理研究員。",
-        "第十九條": "　　明定因專業性業務需要，得遴聘學者、專家。",
-        "第二十條": "　　行政院大陸委員會因業務需要，得設各種協調會報，所需工作人員，就本條例所定員額調用之。",
-        "第二十一條": "　　明定行政院大陸委員會會議規則、辦事細則由該會擬訂，報請行政院核定之。",
-        "第二十二條": "　　明定本條例施行日期。"
+        "第十六條 之一": "　　一、本條新增。\n　　二、依「政風機構人員設置條例」第六條及第七條規定增訂。",
+        "第十七條": "　　配合新增第十六條之一條文，將「第十六條」等字修正為「第十六條之一」。",
+        "第二十條 之一": "　　一、本條新增。\n　　二、為肆應港澳政策需要，明定本會得視業務需要於香港地區或澳門地區設辦事機構。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "791113",
-            "立法紀錄": "79卷91期2411號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c8c6cfc6cecfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "831222",
+            "立法紀錄": "83卷82期2756號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcac981c7ccc7cdcfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cecccfcfc5cdc8c7d2cdc7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcecfcdc5cdcacfd2cdcacd"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "791221",
-            "立法紀錄": "79卷102期2422號 229-238頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c8c6cecfcdcfcfc4cfcdcdc6c4cfcdccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "791221",
-            "立法紀錄": "79卷102期2422號 238-238頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c8c6cecfcdcfcfc4cfcdccc7c4cfcdccc7",
-            "關係文書": []
-        },
-        {
             "進度": "委員會審查",
-            "會議日期": "791215",
-            "立法紀錄": "81卷9期2537號 226-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cecfcfc6cfcfc4cfcdcdc9c4cfcdcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "791210",
-            "立法紀錄": "81卷9期2537號 241-275頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cecfcfc6cfcfc4cfcdcbcec4cfcdc8ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "791222",
-            "立法紀錄": "81卷10期2538號 197-216頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cecfcecfcfcfc4cfcec6c8c4cfcdcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "800105",
-            "立法紀錄": "81卷11期2539號 158-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cecfcececfcfc4cfcecac7c4cfcec9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "850107",
-            "立法紀錄": "81卷12期2540號 194-241頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cecfcecdcfcfc4cfcec6cbc4cfcdcbce",
+            "會議日期": "850701",
+            "立法紀錄": "85卷39期2861號 309-330頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcac981c7caccc6cfcfc4cfcccfc6c4cfcccccf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "800118",
-            "立法紀錄": "80卷6期2430號下冊 368-407頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cfcfcfc9cfccc4cfccc9c7c4cfcbcfc8",
+            "會議日期": "851231",
+            "立法紀錄": "86卷2期2894號上冊 150-154頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcac981c7c9cfcdcfcec4cfcecacfc4cfcecacb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cccdcfcfc5c6cdced2c6cbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcfc9cfcec5cccac9d2ccc9cf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "800118",
-            "立法紀錄": "80卷6期2430號下冊 407-410頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cfcfcfc9cfccc4cfcbcfc8c4cfcbcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "800118",
-            "立法紀錄": "80卷6期2430號下冊 423-436頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cfcfcfc9cfccc4cfcbcdccc4cfcbccc9",
+            "會議日期": "851231",
+            "立法紀錄": "86卷2期2894號上冊 154-155頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcac981c7c9cfcdcfcec4cfcecacbc4cfcecaca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "800118",
-            "立法紀錄": "80卷6期2430號下冊 436-437頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcacb81c7cfcfcfc9cfccc4cfcbccc9c4cfcbccc8",
+            "會議日期": "851231",
+            "立法紀錄": "86卷2期2894號上冊 155-155頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfcac981c7c9cfcdcfcec4cfcecacac4cfcecaca",
             "關係文書": []
         }
     ]
