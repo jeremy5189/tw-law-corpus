@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國83年11月10日修正",
-        "中華民國83年11月23日公布"
+        "中華民國84年1月5日修正",
+        "中華民國84年1月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -48,7 +48,7 @@
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　政府機關依憲法提出之議案或立法委員提出之法律案，經程序委員會提院會後，交付有關委員會審查，審查後提院會討論。但必要時，得逕提院會討論。\n　　立法委員提出之其他議案應先經院會討論。\n　　前二項議案在未經決議前，原提案者得提出修正案或撤回原案。",
+            "content": "　　政府機關依憲法提出之議案或立法委員提出之法律案，經程序委員會提院會後，交付有關委員會審查，審查後提院會討論。但必要時，得逕提院會討論。\n　　立法委員提出之其他議案應先經院會討論。\n　　前二項議案於完成二讀會前，原提案者得提出修正案或經院會同意後得撤回原案。",
             "relates": {}
         },
         {
@@ -203,36 +203,41 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　政府機關依憲法提出之議案，或立法委員提出之法律案，應先經立法院程序委員會審查。報告下次院會後交付有關委員會審查。審查後提報本次院會討論。但必要時，得逕提院會討論。"
+        "第七條": "　　將「撤回原案」修正為「經院會同意後得撤回原案」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "831027",
-            "立法紀錄": "83卷69期2743號上冊 42-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7ce81c7ccc9c6cfcec4cfcfcbcdc4cfcfcbcb",
-            "主提案": "彭百顯",
+            "會議日期": "810116",
+            "立法紀錄": "81卷7期2535號上冊 56-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cd81c7cecfcfc8cfcec4cfcfcac9c4cfcfcac8",
+            "主提案": "王志雄",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "831110",
-            "立法紀錄": "83卷71期2745號 44-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7ce81c7ccc8cecfcfc4cfcfcbcbc4cfcfcbca",
+            "進度": "委員會審查",
+            "會議日期": "810617",
+            "立法紀錄": "81卷51期2579號下冊 102-104頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cd81c7cecfcacecfccc4cfcecfcdc4cfcecfcb",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "831110",
-            "立法紀錄": "83卷73期2747號 46-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7ce81c7ccc8cccfcfc4cfcfcbc9c4cfcfcbc8",
-            "關係文書": []
+            "進度": "二讀(逐條討論)",
+            "會議日期": "840105",
+            "立法紀錄": "84卷3期2760號上冊 56-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cd81c7cbcfcccfcec4cfcfcac9c4cfcfcac7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcccfcfc5cbc7c7d2cbc6cf"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "831110",
-            "立法紀錄": "83卷73期2747號 47-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7ce81c7ccc8cccfcfc4cfcfcbc8c4cfcfcbc8",
+            "會議日期": "840105",
+            "立法紀錄": "84卷3期2760號上冊 58-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7cd81c7cbcfcccfcec4cfcfcac7c4cfcfcac7",
             "關係文書": []
         }
     ]
