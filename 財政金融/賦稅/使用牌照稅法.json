@@ -1,8 +1,8 @@
 {
     "title": "使用牌照稅法",
     "versions": [
-        "中華民國92年12月16日修正",
-        "中華民國93年1月7日公布"
+        "中華民國94年1月7日修正",
+        "中華民國94年2月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -267,46 +267,53 @@
         }
     ],
     "law_reasons": {
-        "第二十八條": "　　使用牌照稅法第二十五條規定之「加徵滯納金」及第二十八條規定之「處以應納稅額一倍之罰鍰」，係就牌照稅繳納義務人之單一逾期未納稅行為，應以行政秩序罰，均屬行為罰。其處罰之目的、性質與種類均相同，併予加徵滯納金、裁處罰鍰，顯有重複處罰，違反一事不二罰之原則，爰予以修正之。\n　　"
+        "第六條": "　　一、本條條文及附表一、附表二均未修正。\n　　二、修正附表三。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920103",
-            "立法紀錄": "92卷5期3279號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacf81c6cdcfcacfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "蔡同榮",
+            "會議日期": "930312",
+            "立法紀錄": "93卷15期3349號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacd81c6cccecacfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "陳建銘",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec9cfcec5cdcdcdd2cdcdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacfc9cfcec5ceccced2cecccc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920515",
-            "立法紀錄": "92卷32期3306號上冊 65-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacf81c6cdcccdcfcec4cfcfc9cac4cfcfc7cf",
+            "會議日期": "931227",
+            "立法紀錄": "94卷4期3386號 273-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacd81c6cbcfcbcfcfc4cfcdc8ccc4cfcdc6c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "921216",
-            "立法紀錄": "92卷59期3333號上冊 320-327頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacf81c6cdcac6cfcec4cfcccdcfc4cfcccdc8",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940107",
+            "立法紀錄": "94卷5期3387號上冊 35-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacd81c6cbcfcacfcec4cfcfcccac4cfcfcbcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecbcfcec5c9c7ccd2c9c6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cececfcdc5cdc8d2ccce"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "940107",
+            "立法紀錄": "94卷5期3387號上冊 40-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacd81c6cbcfcacfcec4cfcfcbcfc4cfcfcbcc",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "921216",
-            "立法紀錄": "92卷59期3333號上冊 327-327頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacf81c6cdcac6cfcec4cfcccdc8c4cfcccdc8",
+            "會議日期": "940107",
+            "立法紀錄": "94卷5期3387號上冊 43-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacd81c6cbcfcacfcec4cfcfcbccc4cfcfcbcc",
             "關係文書": []
         }
     ]
