@@ -1,8 +1,8 @@
 {
     "title": "勞資爭議處理法",
     "versions": [
-        "中華民國89年6月30日修正",
-        "中華民國89年7月19日公布"
+        "中華民國91年5月14日修正",
+        "中華民國91年5月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -198,7 +198,7 @@
         {
             "note": "(仲裁委員之積極資格)",
             "rule_no": "第三十條",
-            "content": "　　前條第一項第二款仲裁委員，應由直轄市、縣（市）主管機關每二年通知勞工團體及雇主團體各推薦公正並富學識經驗者十二人至四十八人任之，並報請中央主管機關備查。",
+            "content": "　　前條第一項第二款仲裁委員，由直轄市、縣（市）主管機關每二年遴聘具一定資格之公正並富學識經驗者十二人至四十八人任之，並報請上級主管機關備查；其資格條件、遴聘方式與程序及其他應遵行事項之辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -305,49 +305,34 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　配合臺灣省政府功能業務與組織之調整，將省主管機關規定刪除。",
-        "第十一條": "　　第二項配合臺灣省政府功能業務與組織之調整，將同一勞資爭議事件之調解跨越二省管轄之情形刪除，並將「共同上級主管機關」修正為「中央主管機關」。",
-        "第二十八條": "　　第二項配合臺灣省政府功能業務與組織之調整，將同一勞資爭議事件之調整事項之仲裁跨越二省管轄之情形刪除，並將直轄市、縣（市）主管機關之「共同上級主管機關」修正為「中央主管機關」。",
-        "第三十條": "　　配合臺灣省政府功能業務與組織之調整，將直轄市、縣（市）主管機關之「上級主管機關」修正為「中央主管機關」，並酌作文字修正。"
+        "第三十條": "　　有關勞資爭議仲裁委員之遴聘，勞工委員會業定有「勞資爭議仲裁委員遴聘辦法」，惟尚無法律之明確授權，為配合行政程序法之施行，爰增列上開辦法訂定之授權依據。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890321",
-            "立法紀錄": "89卷12期3071號上冊 7-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c8cdc981c7c6cecdcfcec4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 152-154頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c8cdc881c6cecccbcfcec4cfcecacdc4cfcecacb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5c8cccbd2c8cacc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "890504",
-            "立法紀錄": "89卷26期3085號 358-369頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c8cdc981c7c6cdc9cfcfc4cfcccac7c4cfccc9c6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 327-328頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c8cdc881c6cecccbcfcec4cfcccdc8c4cfcccdc7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號上冊 49-68頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c8cdc981c7c6ccc6cfcec4cfcfcbc6c4cfcfc9c7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cbcccad2cbcacb"
-                ]
-            ]
-        },
-        {
             "進度": "三讀",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號上冊 68-68頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c8cdc981c7c6ccc6cfcec4cfcfc9c7c4cfcfc9c7",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 351-351頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c8cdc881c6cecccbcfcec4cfcccacec4cfcccace",
             "關係文書": []
         }
     ]
