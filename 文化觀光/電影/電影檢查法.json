@@ -1,12 +1,12 @@
 {
     "title": "電影檢查法",
     "versions": [
-        "中華民國47年7月11日修正",
-        "中華民國47年7月21日公布"
+        "中華民國72年11月8日廢止",
+        "中華民國72年11月18日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -166,44 +166,116 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　我國電影發展，迄今已七十餘年，由於現時科技進步，各種電影事業因運而生，殊有加以管理必要，而當前對電影之管理，已非現行電影檢查法所能涵蓋，故制定「電影法」，並將電影檢查法予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "470117",
-            "立法紀錄": "47卷20期號9冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccd81cbc8cdcfcfc6c4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "711008",
+            "立法紀錄": "71卷81期1566號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cec8cfc7cecfcfc4cfcfcfcdc4cfcfcfcd",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5cbcbcdd2cbcbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cfcfcecfcfc5c7ccc8d2c7cac7"
                 ]
             ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711103",
+            "立法紀錄": "72卷9期1598號 53-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cfcfc6cfcfc4cfcfcaccc4cfcfc9cc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711110",
+            "立法紀錄": "72卷11期1600號 62-73頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cfcececfcfc4cfcfc9cdc4cfcfc8cc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711117",
+            "立法紀錄": "72卷16期1605號 42-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cfcec9cfcfc4cfcfcbcdc4cfcfcace",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711124",
+            "立法紀錄": "72卷22期1611號 192-201頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cecdcdcfcfc4cfcec6cdc4cfcdcfce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711201",
+            "立法紀錄": "72卷33期1622號 118-125頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cecccccfcfc4cfcecec7c4cfcecdca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711208",
+            "立法紀錄": "72卷39期1628號 110-119頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8ceccc6cfcfc4cfcececfc4cfcecec6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "711215",
+            "立法紀錄": "72卷49期1638號 87-97頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cecbc6cfcfc4cfcfc7c8c4cfcfc6c8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "720323",
+            "立法紀錄": "72卷50期1639號 159-165頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cecacfcfcfc4cfcecac6c4cfcec9ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "720330",
+            "立法紀錄": "72卷57期1646號 144-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cecac8cfcfc4cfcecbcbc4cfcecbc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "720427",
+            "立法紀錄": "72卷60期1649號 43-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cec9cfcfcfc4cfcfcbccc4cfcfc9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "721028",
+            "立法紀錄": "72卷87期1676號 53-96頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cdc7c8cfcfc4cfcfcaccc4cfcfc6c9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "721101",
+            "立法紀錄": "72卷88期1677號 21-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cdc7c7cfcfc4cfcfcdcec4cfcfcdca",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "470711",
-            "立法紀錄": "47卷21期號19冊 85-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccd81cbc8cdcecec6c4cfcfc7cac4cfcfc7c9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcdcfcfc5cecaced2cecacd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "470711",
-            "立法紀錄": "47卷21期號19冊 126-128頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccd81cbc8cdcecec6c4cfcecdc9c4cfcecdc7",
+            "會議日期": "721104",
+            "立法紀錄": "72卷89期1078號 3-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cdc7c6cfcfc4cfcfcfccc4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "470711",
-            "立法紀錄": "47卷21期號19冊 128-128頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccd81cbc8cdcecec6c4cfcecdc7c4cfcecdc7",
+            "會議日期": "721108",
+            "立法紀錄": "72卷90期1679號 5-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c7cccccccfcccc81c8cdc8cdc6cfcfcfc4cfcfcfcac4cfcfceca",
             "關係文書": []
         }
     ]
