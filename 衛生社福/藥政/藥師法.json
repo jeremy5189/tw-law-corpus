@@ -1,12 +1,12 @@
 {
     "title": "藥師法",
     "versions": [
-        "中華民國68年3月16日全文修正",
-        "中華民國68年3月26日公布"
+        "中華民國88年11月30日修正",
+        "中華民國88年12月22日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -28,7 +28,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本法所稱衛生主管機關：在中央為行政院衛生署，在省（市）為衛生處（局），在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱衛生主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -108,7 +108,7 @@
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　藥師業務如左：\n　　一、藥品販賣或管理。\n　　二、藥品調劑。\n　　三、藥品鑑定。\n　　四、藥品製造之監製。\n　　五、藥品儲藏、供應及分裝之監督。\n　　六、含藥化粧品製造之監製。\n　　七、依法律應由藥師執行之業務。\n　　中藥製劑之製造、供應及調劑，除依藥物藥商管理法有關規定辦理外，亦得經由修習中藥課程達適當標準之藥師為之；其標準由行政院衛生署會同教育部定之。",
+            "content": "　　藥師業務如左：\n　　一、藥品販賣或管理。\n　　二、藥品調劑。\n　　三、藥品鑑定。\n　　四、藥品製造之監製。\n　　五、藥品儲藏、供應及分裝之監督。\n　　六、含藥化粧品製造之監製。\n　　七、依法律應由藥師執行之業務。\n　　中藥製劑之製造、供應及調劑，除依藥事法有關規定辦理外，亦得經由修習中藥課程達適當標準之藥師為之；其標準由行政院衛生署會同教育部定之。",
             "relates": {}
         },
         {
@@ -270,13 +270,13 @@
         {
             "note": "",
             "rule_no": "第四十條",
-            "content": "　　依藥物藥商管理法所定之藥劑生，其資格及管理辦法，由行政院衛生署定之。",
+            "content": "　　依藥事法所定之藥劑生，其資格及管理辦法，由行政院衛生署定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四十一條",
-            "content": "　　中藥之販賣、監製及調劑，由行政院衛生署依藥物藥商管理法有關規定，訂定辦法管理之。",
+            "content": "　　中藥之販賣、監製及調劑，由行政院衛生署依藥事法有關規定，訂定辦法管理之。",
             "relates": {}
         },
         {
@@ -292,135 +292,57 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　為配合臺灣省政府功能業務與組織之調整，將條文中之「省衛生處」刪除。另將直轄市衛生主管機關之層級提升為「直轄市政府」，以與地方制度法將地方自治團體之組織列為其自治事項之立法意旨相配合。",
+        "第十五條": "　　「藥物藥商管理法」於八十二年間修正公布全文時，業將名稱修正為「藥事法」，第二項配合修正相關文字。",
+        "第四十條": "　　「藥物藥商管理法」於八十二年間修正公布全文時，業將名稱修正為「藥事法」，配合修正相關文字。",
+        "第四十一條": "　　「藥物藥商管理法」於八十二年間修正公布全文時，業將名稱修正為「藥事法」，配合修正相關文字。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "670519",
-            "立法紀錄": "67卷40期1108號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c8c9cecbcfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "881015",
+            "立法紀錄": "88卷44期3044號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cbcbcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cecfcbcfcfc5c9c6d2c7c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdcbcbd2cdcbc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "670531",
-            "立法紀錄": "67卷87期1155號 27-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c8c9cdc7c8cfcfc4cfcfcdc8c4cfcfccca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670607",
-            "立法紀錄": "67卷89期1157號 47-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c8c9cdc7c6cfcfc4cfcfcbc8c4cfcfcacb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "670708",
-            "立法紀錄": "67卷90期1158號 31-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c8c9cdc6cfcfcfc4cfcfcccec4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671012",
-            "立法紀錄": "68卷37期1209號 48-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9ccccc8cfcfc4cfcfcbc7c4cfcfcac8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671018",
-            "立法紀錄": "68卷38期1210號 64-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9ccccc7cfcfc4cfcfc9cbc4cfcfc8cd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671026",
-            "立法紀錄": "68卷39期1211號 55-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9ccccc6cfcfc4cfcfcacac4cfcfc9ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671030",
-            "立法紀錄": "68卷40期1212號 15-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccbcfcfcfc4cfcfcecac4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671102",
-            "立法紀錄": "68卷41期1213號 45-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccbcecfcfc4cfcfcbcac4cfcfcaca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671106",
-            "立法紀錄": "68卷42期1214號 37-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccbcdcfcfc4cfcfccc8c4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671116",
-            "立法紀錄": "68卷44期1216號 49-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccbcbcfcfc4cfcfcbc6c4cfcfcac9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671123",
-            "立法紀錄": "68卷45期1217號 41-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccbcacfcfc4cfcfcbcec4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671130",
-            "立法紀錄": "68卷46期1218號 29-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccbc9cfcfc4cfcfcdc6c4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671207",
-            "立法紀錄": "68卷47期1219號 77-83頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccbc8cfcfc4cfcfc8c8c4cfcfc7cc",
+            "會議日期": "881125",
+            "立法紀錄": "88卷55期3055號下冊 223-230頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cacacfccc4cfcdcdccc4cfcdcccf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "680309",
-            "立法紀錄": "68卷20期1192號 3-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccdcfcfcfc4cfcfcfccc4cfcfcccd",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 154-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cacdcfcec4cfcecacbc4cfcecac9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5ceccc9d2cecacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5cac9d2cac6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "680309",
-            "立法紀錄": "68卷20期1192號 32-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccdcfcfcfc4cfcfcccdc4cfcfcbc8",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 156-157頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cacdcfcec4cfcecac9c4cfcecac8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680316",
-            "立法紀錄": "68卷22期1194號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cfcccb81c9c7c9cccdcdcfcfc4cfcfcfcdc4cfcfcfc9",
+            "會議日期": "881130",
+            "立法紀錄": "88卷52期3052號上冊 157-157頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cacdcfcec4cfcecac8c4cfcecac8",
             "關係文書": []
         }
     ]
