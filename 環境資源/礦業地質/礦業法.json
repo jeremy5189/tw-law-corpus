@@ -1,8 +1,8 @@
 {
     "title": "礦業法",
     "versions": [
-        "中華民國48年7月17日全文修正",
-        "中華民國48年7月30日公布"
+        "中華民國55年11月18日修正",
+        "中華民國55年11月29日公布"
     ],
     "types": [
         "立法歷程",
@@ -510,7 +510,7 @@
         {
             "note": "(礦區稅之稅率及減免)",
             "rule_no": "第七十八條",
-            "content": "　　礦區稅為地面租稅以外之稅，其稅率如左：\n　　一、探礦區每公畝按年納國幣一分，砂礦在河底者，每河道長十公尺，按年納國幣一分。\n　　二、採礦區每公畝或河道每長十公尺，按年納國幣三分。\n　　採礦權者因礦工罷工或其他不可抗力致不能工作繼續在二個月以上時，得請求免納不能工作期間之礦區稅。",
+            "content": "　　礦區稅為地面租稅以外之稅，其稅率如左：\n　　一、探礦區每公畝按年納國幣五分，砂礦在河底者，每河道長十公尺，按年納國幣五分。\n　　二、採礦區每公畝或河道每長十公尺，按年納國幣一角五分。\n　　前項探礦或採礦之礦業權者，得憑開採該礦種之礦區所繳營業稅或礦產稅憑證，申請照額核減同一礦種之礦區稅；但礦區稅之核減，以百分之八十為限。\n　　採礦權者因礦工罷工或其他不可抗力致不能工作繼續在二個月以上時，得請求免納不能工作期間之礦區稅。",
             "relates": {}
         },
         {
@@ -697,92 +697,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "460416",
-            "立法紀錄": "46卷19期號4冊 97-97頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc9cec6cfcbc4cfcfc6c8c4cfcfc6c8",
+            "會議日期": "541210",
+            "立法紀錄": "54卷36期號7冊 16-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcc81cacaccc9cfc8cfcfc4cfcfcec9c4cfcfcec9",
             "主提案": "行政院",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "480612",
-            "立法紀錄": "48卷23期號22冊 4-82頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccdcdc4cfcfcfcbc4cfcfc7cd",
             "關係文書": [
                 [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5cbcbc6d2cacdc8"
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc9cfcccfcfc5cdc6d2cccd"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480612",
-            "立法紀錄": "48卷23期號17冊 59-60頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccec8c4cfcfcac6c4cfcfc9cf",
-            "關係文書": []
+            "會議日期": "551111",
+            "立法紀錄": "55卷38期號6冊 44-50頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcc81cacaccc7cfc9cfcfc4cfcfcbcbc4cfcfcacf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc8cfcccfcfc5c9cfcfd2c9cfcc"
+                ]
+            ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480616",
-            "立法紀錄": "48卷23期號18冊 66-74頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccec7c4cfcfc9c9c4cfcfc8cb",
+            "會議日期": "551111",
+            "立法紀錄": "55卷38期號6冊 88-91頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcc81cacaccc7cfc9cfcfc4cfcfc7c7c4cfcfc6ce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480616",
-            "立法紀錄": "48卷23期號18冊 74-82頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccec7c4cfcfc8cbc4cfcfc7cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480619",
-            "立法紀錄": "48卷23期號19冊 5-16頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccec6c4cfcfcfcac4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480623",
-            "立法紀錄": "48卷23期號19冊 17-41頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccec6c4cfcfcec8c4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480626",
-            "立法紀錄": "48卷23期號20冊 6-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccdcfc4cfcfcfc9c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480630",
-            "立法紀錄": "48卷23期號20冊 34-50頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccdcfc4cfcfcccbc4cfcfcacf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480703",
-            "立法紀錄": "48卷23期號21冊 10-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccdcec4cfcfcecfc4cfcfcec8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480714",
-            "立法紀錄": "48卷23期號22冊 93-97頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccdcdc4cfcfc6ccc4cfcfc6c8",
+            "會議日期": "551111",
+            "立法紀錄": "55卷38期號6冊 91-91頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcc81cacaccc7cfc9cfcfc4cfcfc6cec4cfcfc6ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480717",
-            "立法紀錄": "48卷23期號22冊 129-153頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcd81cbc7cdcccdcdc4cfcecdc6c4cfcecacc",
+            "會議日期": "551118",
+            "立法紀錄": "55卷38期號6冊 135-135頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cecbcc81cacaccc7cfc9cfcfc4cfcecccac4cfceccca",
             "關係文書": []
         }
     ]
