@@ -1,7 +1,7 @@
 {
     "title": "宣誓條例",
     "versions": [
-        "中華民國68年4月20日修正",
+        "中華民國68年4月24日修正",
         "中華民國68年5月9日公布"
     ],
     "types": [
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　公職人員之誓詞，除國民大會代表誓詞，依國民大會組織法第四條規定外，依左列之規定：\n　　一、第二條第一款人員之誓詞：\n　　　余誓以至誠，恪遵憲法，效忠國家，代表人民依法行使職權，不徇私情，不受賄賂，如違誓言，願受最嚴厲之制裁，謹誓。\n　　二、第二條第二至第八款人員之誓詞：\n　　　余誓以至誠，恪遵國家法令，盡忠職守，報效國家，不妄費公帑，不濫用人員，不營私舞弊，不受授賄賂，如違誓言，願受最嚴厲之處罰，謹誓。\n　　第二條第一款機關首長之誓詞，準用前項第二款之誓詞。",
+            "content": "　　公職人員之誓詞，除國民大會代表誓詞，依國民大會組織法第四條規定外，依左列之規定：\n　　一、第二條第一項第一款人員之誓詞：　\n　　　余誓以至誠，恪遵憲法，效忠國家，代表人民依法行使職權，不徇私情，不受賄賂，如違誓言，願受最嚴厲之制裁，謹誓。\n　　二、第二條第一項第二款至第八款人員之誓詞：　\n　　　余誓以至誠，恪遵國家法令，盡忠職守，報效國家，不妄費公帑，不濫用人員，不營私舞弊，不受授賄賂，如違誓言，願受最嚴厲之處罰，謹誓。\n　　第二條第一項第一款機關首長之誓詞，準用前項第二款之誓詞。",
             "relates": {}
         },
         {
@@ -71,62 +71,14 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、第一項前文「左列公職人員」之下，增加「除國民大會代表依國民大會組織法規定，於國民大會開會式時宣誓外」一段文字。\n　　二、第二項再作文字修正。",
-        "第三條": "　　將現行法第一款所定「由大法官為監誓人」，修正為「由大法官一人為監誓人」，「由同級法院法官為監誓人」，亦併予修正為「由同級法院法官一人為監誓人」。",
-        "第六條 之一": "　　增訂條文。以為防止不依規定宣誓或拒絕宣誓時之處理依據。"
+        "第五條": "　　宣誓條例第二條條文業經修正並增列第二項條文，同條例第五條第一項第一、二兩款及第二項所有引用原第二條各款條文番號與修正後條文不相配合，故修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "671013",
-            "立法紀錄": "67卷82期1150號 2-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c8c9cdc7cdcfcfc4cfcfcfcdc4cfcfcfcb",
-            "主提案": "吳忠欽",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cbc8cdd2cbc8cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "671128",
-            "立法紀錄": "67卷95期1163號 8-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c8c9cdc6cacfcfc4cfcfcfc7c4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "671206",
-            "立法紀錄": "67卷95期1163號 6-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c8c9cdc6cacfcfc4cfcfcfc9c4cfcfcfc7",
-            "主提案": "吳延環",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cbcbcfd2cbcbcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "671128",
-            "立法紀錄": "67卷95期1163號 16-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c8c9cdc6cacfcfc4cfcfcec9c4cfcfcec8",
-            "主提案": "溫士源",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cbc6c9d2cbc6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "680417",
-            "立法紀錄": "68卷31期1203號 4-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccecfcfc4cfcfcfcbc4cfcfcfc7",
+            "會議日期": "680424",
+            "立法紀錄": "68卷33期1205號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdcc81c9c7c9cccccccfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "吳延環",
             "關係文書": [
                 [
@@ -136,50 +88,36 @@
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "680417",
-            "立法紀錄": "68卷31期1203號 8-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccecfcfc4cfcfcfc7c4cfcfcfc6",
-            "關係文書": []
-        },
-        {
             "進度": "委員會審查",
-            "會議日期": "671108",
-            "立法紀錄": "68卷14期1186號 21-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cdcecbcfcfc4cfcfcdcec4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "671206",
-            "立法紀錄": "68卷25期1197號 47-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccdcacfcfc4cfcfcbc8c4cfcfcace",
+            "會議日期": "680423",
+            "立法紀錄": "68卷61期1233號 31-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdcc81c9c7c9ccc9cecfcfc4cfcfcccec4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "680417",
-            "立法紀錄": "68卷31期1203號 8-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccecfcfc4cfcfcfc7c4cfcfcec7",
+            "會議日期": "680424",
+            "立法紀錄": "68卷33期1205號 4-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdcc81c9c7c9cccccccfcfc4cfcfcfcbc4cfcfcfc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcccfcfc5cbcbcbd2cbcacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5cdcec6d2cdcdcc"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "680417",
-            "立法紀錄": "68卷31期1203號 18-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccecfcfc4cfcfcec7c4cfcfcdce",
+            "會議日期": "680424",
+            "立法紀錄": "68卷33期1205號 8-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdcc81c9c7c9cccccccfcfc4cfcfcfc7c4cfcfcfc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680420",
-            "立法紀錄": "68卷32期1204號 7-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdce81c9c7c9cccccdcfcfc4cfcfcfc8c4cfcfcfc7",
+            "會議日期": "680424",
+            "立法紀錄": "68卷33期1205號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbc7cdcc81c9c7c9cccccccfcfc4cfcfcfc6c4cfcfcfc6",
             "關係文書": []
         }
     ]
