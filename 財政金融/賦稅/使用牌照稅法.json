@@ -1,8 +1,8 @@
 {
     "title": "使用牌照稅法",
     "versions": [
-        "中華民國44年12月27日全文修正",
-        "中華民國44年12月31日公布"
+        "中華民國45年10月23日修正",
+        "中華民國45年11月3日公布"
     ],
     "types": [
         "立法歷程",
@@ -42,7 +42,7 @@
         {
             "note": "(牌照稅額之課徵標準)",
             "rule_no": "第六條",
-            "content": "　　使用牌照稅依左列規定課徵：\n　　甲、車：\n　　一、機器行駛者：\n　　（一）乘人小汽車每輛全年二百四十元至六百元。\n　　（二）乘人大汽車每輛全年一百六十元至三百二十元。\n　　（三）乘人大小吉普車每輛全年一百二十元至三百元。\n　　（四）載貨汽車每輛全年一百二十元至二百四十元。\n　　（五）機器腳踏車每輛全年二十四元至四十八元。\n　　　在動員戡亂期間為厲行節約起見，對於各機關及公私營業機構公司行號暨私人所有自用之乘人大小汽車、大小吉普車及載貨汽車，除另行嚴密限制行駛外，應按以上稅額增加五倍至十倍徵收之，至公路局核准有案汽車行業之乘人大小汽車，得按規定增加倍數減半徵收。\n　　二、人力行駛者：\n　　（一）三輪車人力車載貨人力車，每輛全年不得超過十八元。\n　　（二）二輪人力車人力推行車，每輛全年不得超過十二元。\n　　（三）腳踏車每輛全年不得超過六元。\n　　三、獸力駕駛者：\n　　　獸力車每輛全年不得超過二十四元。\n　　乙、船：\n　　一、機器駕駛者每噸全年一元至二元。\n　　二、人力駕駛者每隻全年不得超過三十六元。\n　　丙、肩輿每乘全年不得超過四元。\n　　丁、馱獸每隻全年不得超過八元。",
+            "content": "　　使用牌照稅依左列規定課徵：\n　　甲、車：\n　　一、機器行駛者：\n　　（一）乘人小汽車每輛全年二百四十元至六百元。\n　　（二）乘人大汽車每輛全年一百六十元至三百二十元。\n　　（三）乘人大小吉普車每輛全年一百二十元至三百元。\n　　（四）載貨汽車每輛全年一百二十元至二百四十元。\n　　（五）機器腳踏每輛全年二十四元至四十八元。\n　　　在動員戡亂期間，為厲行節約起見，對於各機關及公私營業機構公司行號暨私人所有自用之乘人大小汽車、大小吉普車及載貨汽車，除另行嚴密限制行駛外，應按以上稅額增加五倍至十倍徵收之。\n　　　公路局核准有案汽車行業之乘人大小汽車及載貨汽車，得按規定增加倍數減半徵收。\n　　二、人力行駛者：\n　　（一）三輪車、人力車、載貨人力車，每輛全年不得超過十八元。\n　　（二）二輪人力車、人力推行車，每輛全年不得超過十二元。\n　　（三）腳踏車每輛全年不得超過六元。\n　　三、獸力駕駛者：\n　　　獸力車每輛全年不得超過二十四元。\n　　乙、船：\n　　一、機器駕駛者每噸全年一元至二元。\n　　二、人力駕駛者每隻全年不得超過三十六元。\n　　丙、肩輿每乘全年不得超過四元。\n　　丁、馱獸每隻全年不得超過八元。",
             "relates": {}
         },
         {
@@ -139,52 +139,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "431015",
-            "立法紀錄": "43卷14期號2冊 25-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcf81cbcccecbcfcdc4cfcfcdcac4cfcfcdca",
-            "主提案": "行政院",
-            "關係文書": []
+            "會議日期": "450707",
+            "立法紀錄": "45卷17期號10冊 98-98頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbce81cbcacec8cecfc4cfcfc6c7c4cfcfc6c7",
+            "主提案": "請願案",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcdcfcfc5cac8ced2cac7c8"
+                ]
+            ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "441227",
-            "立法紀錄": "45卷16期號10冊 5-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcf81cbcacec9cecfc4cfcfcfcac4cfcfcbcb",
-            "關係文書": []
+            "會議日期": "451023",
+            "立法紀錄": "46卷18期號4冊 13-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbce81cbc9cec7cfcbc4cfcfceccc4cfcfcecb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5ceced2cecc"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "441213",
-            "立法紀錄": "45卷16期號8冊 246-253頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcf81cbcacec9cfc7c4cfcdcbc9c4cfcdcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "441214",
-            "立法紀錄": "45卷16期號9冊 132-135頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcf81cbcacec9cfc6c4cfcecccdc4cfceccca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "441226",
-            "立法紀錄": "45卷16期號9冊 146-155頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcf81cbcacec9cfc6c4cfcecbc9c4cfcecaca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "441226",
-            "立法紀錄": "45卷16期號9冊 193-195頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcf81cbcacec9cfc6c4cfcec6ccc4cfcec6ca",
+            "會議日期": "451023",
+            "立法紀錄": "46卷18期號4冊 28-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbce81cbc9cec7cfcbc4cfcfcdc7c4cfcfcdc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "441227",
-            "立法紀錄": "45卷16期號10冊 116-118頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbcf81cbcacec9cecfc4cfcecec9c4cfcecec7",
+            "會議日期": "451023",
+            "立法紀錄": "46卷18期號4冊 29-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfc9cbce81cbc9cec7cfcbc4cfcfcdc6c4cfcfcccf",
             "關係文書": []
         }
     ]
