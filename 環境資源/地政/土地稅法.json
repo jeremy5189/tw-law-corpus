@@ -1,8 +1,8 @@
 {
     "title": "土地稅法",
     "versions": [
-        "中華民國82年7月9日修正",
-        "中華民國82年7月30日公布"
+        "中華民國82年12月23日修正",
+        "中華民國83年1月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -300,13 +300,13 @@
         {
             "note": "(被徵收土地增值稅之減免)",
             "rule_no": "第三十九條",
-            "content": "　　被徵收之土地，其土地增值稅一律減徵百分之四十。但在中華民國六十二年九月六日都市計畫法修正公布前，經編定為公共設施保留地，並已規定地價，且在該次都市計畫法修正公布後未曾移轉者，其土地增值稅減徵百分之七十。\n　　依法得徵收之私有土地，土地所有權人自願按公告土地現值之價格售與需地機關者，準用前項規定。\n　　經重劃之土地，於重劃後第一次移轉時，其土地增值稅減徵百分之二十。",
+            "content": "　　被徵收之土地，免徵其土地增值稅。\n　　依法得徵收之私有土地，土地所有權人自願按公告土地現值之價格售與需地機關者，準用前項規定。\n　　經重劃之土地，於重劃後第一次移轉時，其土地增值稅減徵百分之四十。",
             "relates": {}
         },
         {
             "note": "(區段徵收土地增值稅之減免與課徵)",
             "rule_no": "第三十九條 之一",
-            "content": "　　區段徵收之土地，以現金補償其地價者，依前條第一項規定，減徵其土地增值稅。但依平均地權條例第五十四條第三項規定因領回抵價地不足最小建築單位面積而領取現金補償者，免徵土地增值稅。\n　　區段徵收之土地，依平均地權條例第五十四條第一項、第二項規定以抵價地補償其地價者，免徵土地增值稅。但領回抵價地後第一次移轉時，應以原土地所有權人實際領回抵價地之地價為原地價，計算漲價總數額，課徵土地增值稅。",
+            "content": "　　區段徵收之土地，以現金補償其地價者，依前條第一項規定，免徵其土地增值稅。但依平均地權條例第五十四條第三項規定因領回抵價地不足最小建築單位面積而領取現金補償者亦免徵土地增值稅。\n　　區段徵收之土地依平均地權條例第五十四條第一項、第二項規定以抵價地補償其地價者，免徵土地徵值稅。但領回抵價地後第一次移轉時，應以原土地所有權人實際領回抵價地之地價為原地價，計算漲價總數額，課徵土地增值稅，準用前條第三項之規定。",
             "relates": {}
         },
         {
@@ -461,40 +461,55 @@
         }
     ],
     "law_reasons": {
-        "第五十六條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。"
+        "第三十九條": "　　經重劃之土地，於重劃後第一次移轉時，政府進行重劃時間均相當長，故其土地增值稅因減徵百分之四十，以保障土地所有權人之權益。",
+        "第三十九條 之一": "　　因第三十九條已將土地增值稅減徵為百分之四十，故本條第二項宜增加「準用前條第三項之規定」之文字，以便前後之修正一致。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820323",
-            "立法紀錄": "82卷15期2614號 69-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccf81c7cdcecacfcfc4cfcfc9c6c4cfcfc8ce",
-            "主提案": "彭百顯",
+            "會議日期": "800702",
+            "立法紀錄": "80卷53期2477號 74-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cfcfcacccfcfc4cfcfc8cbc4cfcfc8c8",
+            "主提案": "洪昭男",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c9cbc7d2c9c8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8ccc8cfcfc5cac8ced2cac8c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "820407",
-            "立法紀錄": "82卷22期2621號下冊 180-202頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccf81c7cdcdcdcfccc4cfcec7cfc4cfcdcfcd",
+            "會議日期": "820109",
+            "立法紀錄": "82卷4期2603號下冊 201-221頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cdcfcbcfccc4cfcdcfcec4cfcdcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "821223",
+            "立法紀錄": "82卷75期2674號上冊 46-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cdc8cacfcec4cfcfcbc9c4cfcfcac8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcececccfcfc5cccbccd2cccbc8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "821223",
+            "立法紀錄": "82卷75期2674號上冊 57-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cdc8cacfcec4cfcfcac8c4cfcfc9cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "820709",
-            "立法紀錄": "82卷46期2645號下冊 56-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacccf81c7cdcbc9cfccc4cfcfcac9c4cfcfc7ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cec7cdd2cdcfc8"
-                ]
-            ]
+            "會議日期": "821223",
+            "立法紀錄": "82卷75期2674號上冊 60-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcaccce81c7cdc8cacfcec4cfcfc9cfc4cfcfc9cf",
+            "關係文書": []
         }
     ]
 }
