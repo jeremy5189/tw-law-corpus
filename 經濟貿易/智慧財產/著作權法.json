@@ -1,12 +1,12 @@
 {
     "title": "著作權法",
     "versions": [
-        "中華民國81年5月22日全文修正",
-        "中華民國81年6月10日公布"
+        "中華民國81年6月19日修正",
+        "中華民國81年7月6日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -372,7 +372,7 @@
         {
             "note": "(盲人點字重製之規定)",
             "rule_no": "第五十三條",
-            "content": "　　已公開發表之著作，得為盲人以點字重製之。\n　　經政府許可以增進盲人福利為目的之機構，得錄音已公開發表之著作專供盲人使用。",
+            "content": "　　已公開發表之著作，得為盲人以點字重製之。\n　　以增進盲人福利為目的，經主管機關許可之機構或團體，得以錄音、電腦或其他方式利用已公開發表之著作，專供盲人使用。",
             "relates": {}
         },
         {
@@ -788,93 +788,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第五十三條": "　　目前已有盲人電腦開發完成，未來嘉惠盲胞之新科技亦將增多，而「政府」二字亦定義太廣；為期能更週延及落實嘉惠盲胞美意，爰修正本條文第二項文字。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "791228",
-            "立法紀錄": "79卷104期2424號 266-266頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c8c6cecfcbcfcfc4cfcdc9c9c4cfcdc9c9",
-            "主提案": "行政院",
+            "會議日期": "810522",
+            "立法紀錄": "81卷42期2570號 28-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cd81c7cecfcbcdcfcfc4cfcfcdc7c4cfcfcdc6",
+            "主提案": "蔡璧煌",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cdc8cfcfc5cbc9d2cecace"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "800321",
-            "立法紀錄": "81卷9期2537號 186-195頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cecfcfc6cfcfc4cfcec7c9c4cfcec6ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "800502",
-            "立法紀錄": "81卷12期2540號 77-108頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cecfcecdcfcfc4cfcfc8c8c4cfcecfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801007",
-            "立法紀錄": "80卷82期2506號 259-289頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cfcfc7cdcfcfc4cfcdcac6c4cfcdc7c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "801009",
-            "立法紀錄": "80卷83期2507號 269-305頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cfcfc7cccfcfc4cfcdc9c6c4cfcccfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "810501",
-            "立法紀錄": "81卷36期2564號 43-158頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cecfccc9cfcfc4cfcfcbccc4cfcecac7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdcacfcfc5c7cdd2cec7c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cdc7cfcfc5cec7c7d2cec7c6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "810501",
-            "立法紀錄": "81卷36期2564號 158-174頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cecfccc9cfcfc4cfcecac7c4cfcec8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "810505",
-            "立法紀錄": "81卷37期2565號 49-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cecfccc8cfcfc4cfcfcbc6c4cfcfc8ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "810508",
-            "立法紀錄": "81卷38期2566號 45-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cecfccc7cfcfc4cfcfcbcac4cfcfc9cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "810519",
-            "立法紀錄": "81卷41期2569號 40-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cecfcbcecfcfc4cfcfcbcfc4cfcfcac6",
+            "會議日期": "810619",
+            "立法紀錄": "81卷50期2578號 56-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cd81c7cecfcacfcfcfc4cfcfcac9c4cfcfcac6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "810522",
-            "立法紀錄": "81卷42期2570號 39-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cf81c7cecfcbcdcfcfc4cfcfccc6c4cfcfcacd",
+            "會議日期": "810619",
+            "立法紀錄": "81卷50期2578號 59-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc6c6cd81c7cecfcacfcfcfc4cfcfcac6c4cfcfcac6",
             "關係文書": []
         }
     ]
