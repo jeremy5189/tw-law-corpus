@@ -1,8 +1,8 @@
 {
     "title": "更生保護法",
     "versions": [
-        "中華民國65年3月30日制定",
-        "中華民國65年4月8日公布"
+        "中華民國69年6月20日修正",
+        "中華民國69年7月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　更生保護會為財團法人，辦理更生保護事業，受司法行政部之指揮、監督；登記前應經司法行政部之許可。其組織及管理辦法，除本法規定者外，由章程定之。\n　　其他個別捐助辦理之更生保護事業，管理辦法，由司法行政部定之。",
+            "content": "　　更生保護會為財團法人，辦理更生保護事業，受法務部之指揮、監督；登記前應經法務部之許可。其組織及管理辦法，除本法規定者外，由章程定之。\n　　其他個別捐助辦理之更生保護事業，管理辦法，由法務部定之。",
             "relates": {}
         },
         {
@@ -66,7 +66,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　司法行政部為輔助更生保護事業，得設置更生保護基金；其設置及管理辦法，由司法行政部擬訂，報請行政院核定之。",
+            "content": "　　法務部為輔助更生保護事業，得設置更生保護基金，其設置及管理辦法，由法務部擬訂，報請行政院核定之。",
             "relates": {}
         },
         {
@@ -78,7 +78,7 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　更生保護會實施更生保護時，應與當地法院、警察機關、職業介紹、慈善、救濟及衛生醫療等機構，密切聯繫，並請予以協助。",
+            "content": "　　更生保護會實施更生保護時，應與當地法院、法院檢察處、監獄、警察機關、就業輔導、慈善、救濟及衛生醫療等機構密切聯繫，並請予以協助。",
             "relates": {}
         },
         {
@@ -114,7 +114,7 @@
         {
             "note": "",
             "rule_no": "第十八條",
-            "content": "　　本法施行細則，由司法行政部定之。",
+            "content": "　　本法施行細則，由法務部定之。",
             "relates": {}
         },
         {
@@ -125,127 +125,56 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　本法之制定，旨在保護出獄人或有再犯之虞者，故於本條揭示本法制定之目的。又本法係屬特別法，應優先適用於其他法律，並在本條予以規定。",
-        "第二條": "　　本條列舉適用本法保護之對象及範圍。",
-        "第三條": "　　一、第一項規定對第二條所列之人，聲請保護。因此種保護對受保護人是一種福利，對國家而言，并能使社會上減少犯罪其目的是積極的，故亦可自行聲請保護。\n　　二、第二項規定保護之開始程序。",
-        "第四條": "　　一、更生保護工作，在刑事政策上屬於司法業務之重要一環，故應由司法行政部主管。\n　　二、更生保護會為財團法人，於登記前應經司法行政部之許可。其組織及管理方法，並應在章程內明確規定。",
-        "第五條": "　　參照現行更生保護會制度，就辦理更生保護事業之機構加以規定。",
-        "第六條": "　　更生保護會轄區廣大，其保護業務以分區實施為宜，並配置更生輔導員，以掌理保護工作之執行。",
-        "第七條": "　　本條規定更生輔導員之遴聘事宜，因其工作係服務社會公益之性質，故規定為無給職。至其任期、表揚方法等細節問題，於章程內加以規定。",
-        "第八條": "　　本條規定更生保護會得設置之機構及創辦之事業。",
-        "第九條": "　　本條規定更生保護事業所需經費之來源，以及政府補助更生保護事業之依據。",
-        "第十條": "　　明定司法行政部為輔助更生保護事業，得設置更生保護基金，其設置及管理辦法由司法行政部擬訂，報請行政院核定之。",
-        "第十一條": "　　本條明定更生保護之方式。參照現行司法保護會所定保護方式規定之。",
-        "第十二條": "　　更生保護工作應運用社會有關團體、機關之力量實施，始能收到事半功倍之效。故特別規定，應與此等機關、團體保持密切聯繫，並請求予以協助，以利保護工作之執行。",
-        "第十三條": "　　一、對受保護人之保護方式，授權由保護會或其分會決定。\n　　二、關於受保護人需要何種保護方式，執行保護者知之最稔，故本條規定更生輔導員在執行保護中，得以建議改變保護方式。",
-        "第十四條": "　　本條規定直接保護之收容方式，收容之受保護人各有不同，故應按性別、年齡、性行分別收容，以免不良影響。",
-        "第十五條": "　　受保護人受保護之原因消滅已無保護之必要或不適宜於保護者，應予以停止保護。本條規定係參照「臺灣省司法保護會（分會）輔導所受保護人管理辦法」第九條之規定加以規定。",
-        "第十六條": "　　本條規定直接保護中，遇有受保護人死亡時之處理方法。",
-        "第十七條": "　　目前臺灣更生保護會及部分分會均分別辦理財團法人登記，依照第四條之規定，僅由更生保護會辦理財團法人登記，各分會財產統歸本會管理，其原已辦理登記者，應依法辦理變更登記。",
-        "第十八條": "　　本法限於原則規定，關於其施行細則有另行訂定之必要，故設本條規定。",
-        "第十九條": "　　明定本法之施行日期。"
+        "第四條": "　　審檢分隸後，司法行政部更名為法務部，爰將本條第一項及第二項之「司法行政部」修正為「法務部」。",
+        "第十條": "　　審檢分隸後，司法行政部更名為法務部，爰將本條「司法行政部」修正為「法務部」。",
+        "第十二條": "　　審檢分隸後，更生保護會為推進更生保護各項措施，與當地檢察處及監獄亦應密切聯繫配合，故增加「檢察處、監獄」；又「職業介紹」機構修正為「就業輔導」機構。",
+        "第十八條": "　　審檢分隸，爰將「司法行政部」修正為「法務部」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "640610",
-            "立法紀錄": "64卷47期801號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cbcacacbc8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "690506",
+            "立法紀錄": "69卷37期1313號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9caccc8cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcacfcfc5cececed2cecdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcbcfcfc5c7d2cece"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "641020",
-            "立法紀錄": "64卷97期851號 5-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cbcac9c6c8cfcfcfcdc4cfcfcfcac4cfcfcece",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "641027",
-            "立法紀錄": "64卷99期853號 17-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cbcac9c6c6cfcfcfcdc4cfcfcec8c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "611105",
-            "立法紀錄": "64卷104期858號 7-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cbcac9cecfcbcfcfcfcdc4cfcfcfc8c4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "611119",
-            "立法紀錄": "65卷8期867號 14-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac9cfc7cfcfc4cfcfcecbc4cfcfcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "611126",
-            "立法紀錄": "65卷13期872號 12-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac9cecccfcfc4cfcfcecdc4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "641210",
-            "立法紀錄": "65卷23期882號 17-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac8cdcccfcfcfcdc4cfcfcec8c4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "641217",
-            "立法紀錄": "65卷25期884號 16-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac8cdcacfcfcfcdc4cfcfcec9c4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "641224",
-            "立法紀錄": "65卷29期888號 29-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac8cdc6cfcfcfcec4cfcfcdc6c4cfcfcccc",
+            "會議日期": "690605",
+            "立法紀錄": "69卷70期1346號 12-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9cac8cfcfcfc4cfcfcecdc4cfcfcecc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "650309",
-            "立法紀錄": "65卷20期879號 21-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac8cdcfcfcfcfcec4cfcfcdcec4cfcfcace",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 77-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9cacacfcfcfc4cfcfc8c8c4cfcfc7cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac8cfcdcfcfc5cececdd2cecdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cecec8d2cecdcf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "650312",
-            "立法紀錄": "65卷21期880號 4-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac8cdcecfcfcfcec4cfcfcfcbc4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "650323",
-            "立法紀錄": "65卷24期883號 19-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac8cdcbcfcfcfcec4cfcfcec6c4cfcfcdcb",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 80-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9cacacfcfcfc4cfcfc7cfc4cfcfc7ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "650330",
-            "立法紀錄": "65卷26期885號 4-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdcf81c9cacac8cdc9cfcfcfcec4cfcfcfcbc4cfcfcfc6",
+            "會議日期": "690620",
+            "立法紀錄": "69卷50期1326號 81-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcccdce81c9c6c9cacacfcfcfc4cfcfc7cec4cfcfc7ce",
             "關係文書": []
         }
     ]
