@@ -1,11 +1,11 @@
 {
     "title": "國立北平故宮博物院組織條例",
     "versions": [
-        "中華民國36年9月25日全文修正",
-        "中華民國36年10月15日公布"
+        "中華民國61年3月7日停止適用",
+        "中華民國61年3月18日公布"
     ],
     "types": [
-        "異動條文"
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -121,6 +121,29 @@
             "rule_no": "第十九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "601214",
+            "立法紀錄": "60卷96期449號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7cf81c9cfcbc7c6c9cfcfcfcec4cfcfcfcac4cfcfcfca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610127",
+            "立法紀錄": "61卷32期485號 21-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7cf81c9cecbc6cccdcfcfcfcdc4cfcfcdcec4cfcfcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "610307",
+            "立法紀錄": "61卷19期472號 39-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc7cf81c9cecbc6cec6cfcfcfcec4cfcfccc6c4cfcfcbcf",
+            "關係文書": []
         }
     ]
 }
