@@ -1,11 +1,12 @@
 {
     "title": "國民學校法",
     "versions": [
-        "中華民國33年2月29日制定",
-        "中華民國33年3月15日公布"
+        "中華民國68年5月8日廢止",
+        "中華民國68年5月23日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -157,6 +158,28 @@
             "rule_no": "第二十五條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　國民學校法係民國三十三年公布施行，迄今未予修正，若干規定已不適用，更難因應九年國民教育之需要，爰依教育趨勢，制定「國民教育法」，而將國民學校法及九年國民教育實施條例同時廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "671017",
+            "立法紀錄": "67卷83期1151號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcaca81c9c8c9cdc7cccfcfc4cfcfcfccc4cfcfcfcc",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cacfcfd2cacec9"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "680508",
+            "立法紀錄": "68卷37期1209號 2-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcaca81c9c7c9ccccc8cfcfc4cfcfcfcdc4cfcfcfc8",
+            "關係文書": []
         }
     ]
 }
