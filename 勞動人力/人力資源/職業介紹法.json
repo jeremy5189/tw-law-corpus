@@ -1,11 +1,12 @@
 {
     "title": "職業介紹法",
     "versions": [
-        "中華民國24年7月5日制定",
-        "中華民國24年8月7日公布"
+        "中華民國81年4月17日廢止",
+        "中華民國81年5月8日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -285,6 +286,180 @@
             "rule_no": "第四十三條",
             "content": "　　本法施行日期以命令定之。\n　　（附註）本法尚未命令施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　為推動就業服務之法律，以促進國民就業為目的，並增進社會及經濟發展，政府自民二十四年制定公布「職業介紹法」，惟迄今未以命令訂定施行日期。就業服務之推動，全以命令或方案行之，對於就業服務工作之效能及就業服務制度之建立，頗有影響。為加強保障國民就業權益，增進就業服務工作之績效，乃參酌國內經濟發展實況，廣徵各方意見，並參考國外立法例，制定「就業服務法」並廢止「職業介紹法」。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "790117",
+            "立法紀錄": "79卷6期2326號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c8c6cfcfc9cfcfc4cfcfcfccc4cfcfcfcc",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cbcdcfcfcfc5cecbd2cbcf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "791011",
+            "立法紀錄": "79卷82期2402號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c8c6cfc7cdcfcfc4cfcfcfccc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "810114",
+            "立法紀錄": "81卷6期2534號 6-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcfc9cfcfc4cfcfcfc9c4cfcfcdca",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "810303",
+            "立法紀錄": "81卷19期2547號 9-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcec6cfcfc4cfcfcfc6c4cfcfcdcf",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cfcbcfcfc5cac8d2cecec9"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "790416",
+            "立法紀錄": "80卷11期2435號 68-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cfcfcececfcfc4cfcfc9c7c4cfcfc7ce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "791107",
+            "立法紀錄": "80卷55期2479號 331-348頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cfcfcacacfcfc4cfcccccec4cfcccbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "791119",
+            "立法紀錄": "80卷58期2482號 55-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cfcfcac7cfcfc4cfcfcacac4cfcfcac7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800318",
+            "立法紀錄": "81卷9期2537號 196-206頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcfc6cfcfc4cfcec6c9c4cfcdcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800427",
+            "立法紀錄": "81卷11期2539號 67-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcececfcfc4cfcfc9c8c4cfcfc8c7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800612",
+            "立法紀錄": "81卷13期2541號 113-130頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcecccfcfc4cfcececcc4cfcecccf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "800701",
+            "立法紀錄": "81卷15期2543號 86-94頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcecacfcfc4cfcfc7c9c4cfcfc6cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "801126",
+            "立法紀錄": "80卷96期2520號 39-90頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cfcfc6c9cfcfc4cfcfccc6c4cfcfc6cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "801128",
+            "立法紀錄": "80卷97期2521號 32-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cfcfc6c8cfcfc4cfcfcccdc4cfcfcac8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "801129",
+            "立法紀錄": "80卷97期2521號 179-200頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cfcfc6c8cfcfc4cfcec8c6c4cfcdcfcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "801203",
+            "立法紀錄": "80卷98期2522號 21-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cfcfc6c7cfcfc4cfcfcdcec4cfcfcbcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "801227",
+            "立法紀錄": "81卷1期2529號下冊 413-420頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcfcecfccc4cfcbceccc4cfcbcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810107",
+            "立法紀錄": "81卷4期2532號 85-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcfcbcfcfc4cfcfc7cac4cfcfc6ce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810109",
+            "立法紀錄": "81卷5期2533號 26-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcfcacfcfc4cfcfcdc9c4cfcfc9cc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810110",
+            "立法紀錄": "81卷5期2533號 233-255頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcfcacfcfc4cfcdccccc4cfcdcaca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810410",
+            "立法紀錄": "81卷30期2558號 62-151頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcccfcfcfc4cfcfc9cdc4cfcecace",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810414",
+            "立法紀錄": "81卷31期2559號 42-68頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcccecfcfc4cfcfcbcdc4cfcfc9c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "810417",
+            "立法紀錄": "81卷32期2560號 26-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcccdcfcfc4cfcfcdc9c4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "810417",
+            "立法紀錄": "81卷32期2560號 39-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc7cd81c7cecfcccdcfcfc4cfcfccc6c4cfcfcbcf",
+            "關係文書": []
         }
     ]
 }
