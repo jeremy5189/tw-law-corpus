@@ -1,10 +1,11 @@
 {
     "title": "公設辯護人條例",
     "versions": [
-        "中華民國28年3月3日制定",
-        "中華民國28年3月10日公布"
+        "中華民國56年7月18日修正",
+        "中華民國56年8月1日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -23,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　最高法院命行辯論之案件，被告因無資力，不能依刑事訴訟法第三百八十一條第二項之規定選任辯護人者，得聲請最高法院指定公設辯護人為其辯護。",
+            "content": "　　最高法院命行辯論之案件，被告因無資力，不能依刑事訴訟法第三百八十九條第二項之規定選任辯護人者，得聲請最高法院指定公設辯護人為其辯護。",
             "relates": {}
         },
         {
@@ -169,6 +170,28 @@
             "rule_no": "第二十七條",
             "content": "　　本條例施行日期及區域，由司法行政部定之。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "560714",
+            "立法紀錄": "56卷5期號7冊 750-756頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc981cac9ccc6cfc8cfcac4cfc8cacfc4cfc8cac9",
+            "主提案": "ⓙ士源",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcccfcfc5c9c7cbd2c9c7c6"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "560718",
+            "立法紀錄": "56卷6期號7冊 785-787頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cbc981cac9ccc6cfc8cfc9c4cfc8c7cac4cfc8c7c8",
+            "關係文書": []
         }
     ]
 }
