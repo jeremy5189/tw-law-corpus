@@ -1,8 +1,8 @@
 {
     "title": "票據法",
     "versions": [
-        "中華民國66年7月13日修正",
-        "中華民國66年7月23日公布"
+        "中華民國75年6月20日修正",
+        "中華民國75年6月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -34,7 +34,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　稱支票者，謂發票人簽發一定之金額，委託銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會，於見票時，無條件支付與受款人或執票人之票據。",
+            "content": "　　稱支票者，謂發票人簽發一定之金額，委託金融業者於見票時，無條件支付與受款人或執票人之票據。\n　　前項所稱金融業者，係指經財政部核准辦理支票存款業務之銀行、信用合作社、農會及漁會。",
             "relates": {}
         },
         {
@@ -832,7 +832,7 @@
         {
             "note": "",
             "rule_no": "第一百二十七條",
-            "content": "　　支票之付款人，以銀錢業者、信用合作社及經財政部核准辦理支票存款業務之農會為限。",
+            "content": "　　支票之付款人，以第四條所定之金融業者為限。",
             "relates": {}
         },
         {
@@ -904,7 +904,7 @@
         {
             "note": "",
             "rule_no": "第一百三十九條",
-            "content": "　　支票經在正面畫平行線二道者，付款人僅得對銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會，支付票據金額。\n　　支票上平行線內記載特定銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會之名稱者，付款人僅得對該特定銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會，支付票據金額。但該特定銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會為執票人時，得以其他銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會為被背書人，背書後委託其取款。\n　　畫平行線支票之執票人，如非銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會，應將該項支票存入其在銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會之帳戶，委託其代為取款。\n　　支票上平行線內，記載特定銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會之名稱，應存入其在該特定銀錢業者、信用合作社或經財政部核准辦理支票存款業務之農會之帳戶，委託其代為取款。\n　　畫平行線之支票，得由發票人於平行線內記載照付現款或同義字樣，由發票人簽名或蓋章於其旁，支票上有此記載者，視為平行線之撤銷。但支票經背書轉讓者，不在此限。",
+            "content": "　　支票經在正面劃平行線二道者，付款人僅得對金融業者支付票據金額。\n　　支票上平行線內記載特定金融業者，付款人僅得對特定金融業者支付票據金額。但該特定金融業者為執票人時，得以其他金融業者為被背書人，背書後委託其取款。\n　　劃平行線支票之執票人，如非金融業者，應將該項支票存入其在金融業者之帳戶，委託其代為取款。\n　　支票上平行線內，記載特定金融業者，應存入其在該特定金融業者之帳戶，委託其代為取款。\n　　劃平行線之支票，得由發票人於平行線內記載照付現款或同義字樣，由發票人簽名或蓋章於其旁，支票上有此記載者，視為平行線之撤銷。但支票經背書轉讓者，不在此限。",
             "relates": {}
         },
         {
@@ -943,6 +943,12 @@
         },
         {
             "note": "",
+            "rule_no": "第一百四十四條 之一",
+            "content": "　　第一百四十一條、第一百四十二條之施行期限至中華民國七十五年十二月三十一日屆滿。在施行期限內之犯罪，仍依行為時法律追訴處罰，不適用刑法第二條之規定。但發票人於辯論終結前清償支票金額之一部或全部者，減輕或免除其刑。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第一百四十五條",
             "content": "　　本法施行細則，由行政院定之。",
             "relates": {}
@@ -955,140 +961,119 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、六十三年六月農會法修正公布後，農會信用部辦理支票存款，已有法令依據。\n　　二、增列：「經核准辦理支票存款業務之農會」，將農會信用部支票列入票據法加以確認，依法加強管理以保障執票人之權益。",
-        "第一百二十七條": "　　一、六十三年六月農會法修正公布後，農會信用部辦理支票存款，已有法令依據。\n　　二、增列：「經核准辦理支票存款業務之農會」，將農會信用部支票列入票據法加以確認，依法加強管理以保證執票人之權益。",
-        "第一百三十九條": "　　一、六十三年六月農會法修正公布後，農會信用部辦理支票存款，已有法令依據。\n　　二、增列：「經核准辦理支票存款業務之農會」，將農會信用部支票列入票據法加以確認，依法加強管理以保障執票人之權益。",
-        "第一百四十一條": "　　近年以來違反票據法案件不斷增加，乃決定從行政方面補救放寬在票據交換所之償兌期間，對善良發票人已有救濟，對惡性重大之徒應嚴加處罰，故將第四項予以刪除。"
+        "第四條": "　　為配合漁會信用部業務發展及漁民使用支票之必要，宜比照農會辦理支票存款業務之辦法，將漁會支票納入票據法管理，以資因應，爰修正本條，並將支票之受託付款人概稱為金融業，俾資簡明。",
+        "第一百二十七條": "　　配合第四條文字修正。",
+        "第一百三十九條": "　　配合第四條文字修正。",
+        "第一百四十四條 之一": "　　一、本條新增。\n　　二、現行規定對無詐欺犯意之空頭支票發票人科以刑罰制裁，致債權人樂於收受支票之不正常現象。甚至以遠期支票替代匯票、本票之使用，造成票據犯罪案件之激增。為確實達致支票發票人憑具資金及信用簽發支票之目的，宜將有關規定廢除。\n　　三、由於現行刑罰規定行之有年，驟然取銷，可能造成社會經濟重大衝擊，為使國人有相當期間得以瞭解新法內容，從容因應，爰於本條規定第一百四十一條、第一百四十二條之失效日期。惟原日期訂為民國七十四年十二月三十一日，已屬過去，而本院審議期間，曾經大眾傳播工具廣為宣傳，國人對票據法修正內容已有相當瞭解，故其緩衝期間當酌予縮短，較為允當，爰將失效日期修正為七十五年十二月三十一日。\n　　四、由於第一百四十一條及第一百四十二條之刪除有刑法第二條之適用，為避免過渡期間產生取巧現象，爰作除外規定，以杜僥倖。\n　　五、為緩和支票刑罰廢止前後之重大差異，對於支票發票人於退票後設法清償票款者，亦當兼顧其情，以符廢止支票刑罰之良法美意，爰增列但書規定，以擴大廢止支票刑罰之適用範圍，並兼顧支票執票人之受償機會，發揮廢止支票刑罰之積極意義。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "660412",
-            "立法紀錄": "66卷30期993號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cccfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "731207",
+            "立法紀錄": "73卷98期1792號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cccfc6c7cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac6cfcdcfcfc5ccc8cfd2ccc8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfcacfcfc5c6ccced2c6ccc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "660427",
-            "立法紀錄": "66卷46期1009號 51-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cbc9cfcfc4cfcfcacec4cfcfcac8",
+            "會議日期": "731219",
+            "立法紀錄": "74卷21期1819號 141-155頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cbcfcdcecfcfc4cfcecbcec4cfcecaca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "660504",
-            "立法紀錄": "66卷47期1010號 65-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cbc8cfcfc4cfcfc9cac4cfcfc8cf",
+            "會議日期": "731227",
+            "立法紀錄": "74卷31期1829號 123-145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cbcfcccecfcfc4cfcecdccc4cfcecbca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "660511",
-            "立法紀錄": "66卷50期1013號 2-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cacfcfcfc4cfcfcfcdc4cfcfcecf",
+            "會議日期": "740425",
+            "立法紀錄": "74卷51期1849號 82-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cbcfcacecfcfc4cfcfc7cdc4cfcfc6cc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "660518",
-            "立法紀錄": "66卷53期1016號 51-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cacccfcfc4cfcfcacec4cfcfcac8",
+            "會議日期": "750428",
+            "立法紀錄": "75卷51期1953號 105-143頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcacecfcfc4cfcecfcac4cfcecbcc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "660525",
-            "立法紀錄": "66卷55期1018號 30-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cacacfcfc4cfcfcccfc4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660601",
-            "立法紀錄": "66卷59期1020號 72-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cac8cfcfc4cfcfc8cdc4cfcfc8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660608",
-            "立法紀錄": "66卷65期1028號 2-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6c9cacfcfc4cfcfcfcdc4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660615",
-            "立法紀錄": "66卷73期1036號 6-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6c8cccfcfc4cfcfcfc9c4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660620",
-            "立法紀錄": "66卷74期1037號 2-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6c8cbcfcfc4cfcfcfcdc4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "660625",
-            "立法紀錄": "66卷75期1038號 2-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6c8cacfcfc4cfcfcfcdc4cfcfcfcb",
+            "會議日期": "750507",
+            "立法紀錄": "75卷65期1967號 7-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfc9cacfcfc4cfcfcfc8c4cfcfcccd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "660701",
-            "立法紀錄": "66卷53期1016號 20-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cacccfcfc4cfcfcdcfc4cfcfcbc7",
+            "會議日期": "750520",
+            "立法紀錄": "75卷41期1943號 18-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcbcecfcfc4cfcfcec7c4cfcfcacf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac6cfcbcfcfc5ccc9cad2ccc7c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cecfcfcfc5ccc9cad2ccc8c8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "660705",
-            "立法紀錄": "66卷54期1017號 2-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cacbcfcfc4cfcfcfcdc4cfcfcdc8",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "750530",
+            "立法紀錄": "75卷44期1946號 10-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcbcbcfcfc4cfcfcecfc4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "660708",
-            "立法紀錄": "66卷55期1018號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cacacfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "750530",
+            "立法紀錄": "75卷44期1946號 11-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcbcbcfcfc4cfcfcecec4cfcfcccd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "660712",
-            "立法紀錄": "66卷56期1019號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cac9cfcfc4cfcfcfcdc4cfcfcfc9",
+            "會議日期": "750603",
+            "立法紀錄": "75卷45期1947號 7-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcbcacfcfc4cfcfcfc8c4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "660713",
-            "立法紀錄": "66卷56期1019號 72-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cac9cfcfc4cfcfc8cdc4cfcfc8cd",
+            "會議日期": "750610",
+            "立法紀錄": "75卷47期1949號 20-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcbc8cfcfc4cfcfcdcfc4cfcfcdc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "750613",
+            "立法紀錄": "75卷48期1950號 24-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcbc7cfcfc4cfcfcdcbc4cfcfcccb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "750617",
+            "立法紀錄": "75卷49期1951號 22-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcbc6cfcfc4cfcfcdcdc4cfcfcdcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "660713",
-            "立法紀錄": "66卷56期1019號 80-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecfc6cf81c9c9cac6cac9cfcfc4cfcfc7cfc4cfcfc7ce",
+            "會議日期": "750620",
+            "立法紀錄": "75卷50期1952號 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecfc6cd81c8cacfcacfcfcfc4cfcfcfc9c4cfcfcfc8",
             "關係文書": []
         }
     ]
