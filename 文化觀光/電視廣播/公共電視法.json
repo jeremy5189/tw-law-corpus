@@ -1,8 +1,8 @@
 {
     "title": "公共電視法",
     "versions": [
-        "中華民國90年10月4日修正",
-        "中華民國90年10月17日公布"
+        "中華民國93年6月4日修正",
+        "中華民國93年6月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -34,7 +34,7 @@
         {
             "note": "(創立基金及其來源)",
             "rule_no": "第四條",
-            "content": "　　公視基金會之創立基金，由主管機關編列預算捐助新臺幣一億元，並以歷年編列籌設公共電視臺預算所購之財產逕行捐贈設置，不受預算法第二十三條之限制。",
+            "content": "　　公視基金會之創立基金，由主管機關編列預算捐助新臺幣一億元，並以歷年編列籌設公共電視臺預算所購之財產逕行捐贈設置，不受預算法第二十五條第一項規定之限制。\n　　公共電視籌備委員會設立時，因業務必要使用之國有財產，除依前項規定逕行捐贈者外，由主管機關無償提供公視基金會使用。但因情勢變更，公視基金會之營運、製播之節目已不能達成設立之目的者，不適用之。",
             "relates": {}
         },
         {
@@ -329,67 +329,53 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　僅將第三項加以修正，第三項末句「至第六年以後應為第一年政府編列預算金額百分之五十以下」修正為「至第三個會計年度為止。",
-        "第二十四條": "　　面對無線廣播電視數位化之未來趨勢，充滿無數之前景與變數，需要國內所有相關業者共同策劃與執行，故應以集中資源之方式，開發對最多數人具有價值之服務。為免阻礙公視數位化之發展技術，並貫徹第一項第三款之立法本旨，爰將第二項後段之規定刪除。"
+        "第四條": "　　一、由於預算法第二十三條已修正為第二十五條第一項，爰予配合修正第一項文字。\n　　二、第二項新增。由於原條文未明確規定原由公共電視籌備委員會使用之國有財產之處理方式，茲為使公視基金會對於財產之管理與使用，在法規之適用上能更臻完善，並使公視基金會永續經營，爰增列第二項規定，一方面確立公視基金會使用國有財產之適法性，並同時兼顧國有財產權益。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "891024",
-            "立法紀錄": "89卷57期3116號上冊 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfccc681c7c6cac8cfcec4cfcfcfc6c4cfcfcfc6",
-            "主提案": "王拓",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecfcfccc5ccd2c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900403",
-            "立法紀錄": "90卷15期3149號上冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfccc681c6cfcecacfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "930430",
+            "立法紀錄": "93卷25期3359號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccdcacfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcdc5c9c8c7d2c9c7cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacececfcfc5cdc8ced2cdc8cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900528",
-            "立法紀錄": "90卷40期3174號 254-256頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfccc681c6cfcbcfcfcfc4cfcdcacbc4cfcdcac9",
+            "會議日期": "930519",
+            "立法紀錄": "93卷30期3364號 133-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccccfcfcfc4cfceccccc4cfcecbce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "901004",
-            "立法紀錄": "90卷46期3180號下冊 585-597頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfccc681c6cfcbc9cfccc4cfcac7cac4cfcac6c8",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 82-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccccccfcec4cfcfc7cdc4cfcfc7ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacececfcac5cecdccd2ceccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5cac6d2c9cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "901004",
-            "立法紀錄": "90卷46期3180號下冊 597-598頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfccc681c6cfcbc9cfccc4cfcac6c8c4cfcac6c7",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 85-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccccccfcec4cfcfc7cac4cfcfc7ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "901004",
-            "立法紀錄": "90卷46期3180號下冊 598-598頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfccc681c6cfcbc9cfccc4cfcac6c7c4cfcac6c7",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 85-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccccccfcec4cfcfc7cac4cfcfc7ca",
             "關係文書": []
         }
     ]
