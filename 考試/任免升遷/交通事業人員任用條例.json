@@ -1,12 +1,12 @@
 {
     "title": "交通事業人員任用條例",
     "versions": [
-        "中華民國46年7月12日全文修正",
-        "中華民國46年7月24日公布"
+        "中華民國89年1月13日修正",
+        "中華民國89年1月26日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　交通事業人員資位之取得，規定如左：\n　　一、高級業務員、高級技術員以下，須經考試及格。\n　　二、業務長、副業務長、技術長、副技術長，須經升資甄審合格。\n　　前項考試規則及升資甄審辦法，由考試院會同行政院定之。",
+            "content": "　　交通事業人員資位之取得規定如左：\n　　一、高員級以下，須經考試及格。\n　　二、副長級以上，須經升資甄審合格。\n　　前項第一款員級人員經審定員級最高薪級，最近三年年終考成二年列甲等（八十分）、一年列乙等（七十分）以上，並經晉升高員級訓練合格，且具左列資格之一者，取得晉升高員級資位任用資格，不受該款規定之限制：\n　　一、經交通事業人員員級考試或相當員級考試及格，並任員級最高薪級滿三年者。\n　　二、高級中等學校畢業並任員級最高薪級滿十年者，或專科學校畢業並任員級最高薪級滿八年者，或大學以上學校畢業並任員級最高薪級滿六年者。\n　　依前項規定以考成升任高員級人員，除具有交通事業人員高員級考試或相當高員級考試及格之資格者外，不得擔任跨列副長級或單列高員級以上之職務，最高並僅得核敘至高員級第十四級五三五薪點。\n　　第一項考試規則、升資甄審辦法及第二項晉升高員級訓練辦法，由考試院會同行政院定之。\n　　佐級及士級人員晉升員級及佐級資位職務，其辦法由行政院會同考試院定之。",
             "relates": {}
         },
         {
@@ -88,51 +88,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第五條": "　　參照公務人員任用法第十七條規定精神予以修正；另規定佐級、士級資位人員晉升辦法之訂定。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "460503",
-            "立法紀錄": "46卷19期號6冊 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c7cf81cbc9cec6cfc9c4cfcfc8cfc4cfcfc8cf",
-            "主提案": "考試院、行政院",
+            "會議日期": "851224",
+            "立法紀錄": "85卷70期2892號上冊 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec7c7ce81c7cac8cfcfcec4cfcfcfc8c4cfcfcfc7",
+            "主提案": "蔡明憲",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c8c6c6d2c7cfcc"
+                    "null",
+                    "https://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcdc7cecfcbcc"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460712",
-            "立法紀錄": "46卷19期號10冊 15-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c7cf81cbc9cec6cecfc4cfcfcecac4cfcfcdce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcdcfcfc5c9caced2c9cac9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460712",
-            "立法紀錄": "46卷19期號10冊 99-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c7cf81cbc9cec6cecfc4cfcfc6c6c4cfcecfcd",
+            "進度": "委員會審查",
+            "會議日期": "860501",
+            "立法紀錄": "86卷24期2916號下冊 97-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec7c7ce81c7c9cdcbcfccc4cfcfc6c8c4cfcecfc6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "460712",
-            "立法紀錄": "46卷19期號10冊 102-104頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c7cf81cbc9cec6cecfc4cfcecfcdc4cfcecfcb",
+            "會議日期": "860523",
+            "立法紀錄": "87卷26期2975號上冊 79-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec7c7ce81c7c8cdc9cfcec4cfcfc8c6c4cfcfc7cb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcccfcfc5cccccdd2ccccc8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "890113",
+            "立法紀錄": "89卷6期3065號二冊 48-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec7c7ce81c7c6cfc9cfcdc4cfcfcbc7c4cfcfcacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "460712",
-            "立法紀錄": "46卷19期號10冊 104-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c7cf81cbc9cec6cecfc4cfcecfcbc4cfcecfca",
+            "會議日期": "890113",
+            "立法紀錄": "89卷6期3065號二冊 54-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec7c7ce81c7c6cfc9cfcdc4cfcfcacbc4cfcfcacb",
             "關係文書": []
         }
     ]
