@@ -1,12 +1,12 @@
 {
     "title": "醫師法",
     "versions": [
-        "中華民國56年5月19日全文修正",
-        "中華民國56年6月2日公布"
+        "中華民國68年5月25日修正",
+        "中華民國68年6月6日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -260,19 +260,25 @@
         {
             "note": "",
             "rule_no": "第三十九條",
-            "content": "　　各級醫師公會之章程應載明左列各項：\n　　一、名稱、區域及會所所在地。\n　　二、宗旨、組織任務或事業。\n　　三、會員之入會及出會。\n　　四、理監事名額、權限、任期及其選任、解任。\n　　五、會員大會及理、監事會會議之規定。\n　　六、會員應遵守之公約。\n　　七、貧民醫藥扶助之實施辦法。\n　　八、經費及會計。\n　　九、章程之修改。\n　　十、其他處理會務之必要事項。",
+            "content": "　　各級醫師公會之章程，應載明左列各項：\n　　一、名稱、區域及會所所在地。\n　　二、宗旨、組織任務或事業。\n　　三、會員之入會及出會。\n　　四、理監事名額、權限、任期及選任、解任。\n　　五、會員大會或會員代表大會及理、監事會會議之規定。\n　　六、會員應遵守之公約。\n　　七、貧民醫藥扶助之實施辦法。\n　　八、經費及會計。\n　　九、章程之修改。\n　　十、其他處理會務之必要事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四十條",
-            "content": "　　各級醫師公會會員大會或理、監事會之決議有違反法令者，得由主管機關撤銷之。",
+            "content": "　　各級醫師公會會員大會或會員代表大會或理、監事會之決議有違反法令者，得由主管機關撤銷之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四十一條",
-            "content": "　　醫師公會之會員有違反章程行為者，公會得依理、監事會或會員大會之決議處分。其違反法令應受除名處分者，須經會員大會之通過，將其事實證據，報請中央衛生主管機關依照醫師懲戒辦法處理之。",
+            "content": "　　醫師公會之會員有違反章程行為者，公會得依理、監事會或會員大會或會員代表大會之決議處分。其違反法令應受除名處分者，須經會員大會或會員代表大會之通過，將其事實證據，報請中央衛生主管機關依照醫師懲戒辦法處理之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第四十一條 之一",
+            "content": "　　全國性醫師團體，因國家重大變故，無法召開全國代表大會時，除原選出之理事、監事，仍應繼續行使職權外，其理事、監事之缺額，得經主管機關核准，由可能集會之下級團體補選充任之；其所補選理事、監事之任期，依第三十七條之規定。",
             "relates": {}
         },
         {
@@ -292,163 +298,57 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三十九條": "　　為適應因會員人數過多或會員不能出席以致無法召開會員大會之情形，爰將本條第五款條文中「會員大會」一詞修正為「會員（代表）大會」，以應實際需要。",
+        "第四十條": "　　為商應因會員人數過多或會員不能出席以致無法召開會員大會之情形，爰將本條第五款條文中「會員大會」一詞修正為「會員（代表）大會」，以應實際需要。",
+        "第四十一條": "　　為商應因會員人數過多或會員不能出席以致無法召開會員大會之情形，爰將本條第五款條文中「會員大會」一詞修正為「會員（代表）大會」，以應實際需要。",
+        "第四十一條 之一": "　　一、本條新增。\n　　二、為因應事實需要，並參照工業團體法第六十六條及商業團體法第六十六條之先例增列。\n　　三、依中央法規標準法第十條第二項之規定，特將條次修正為第四十一條之一，以符法律規定。至其內容則未予修正。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "520104",
-            "立法紀錄": "51卷30期號12冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacecccfcecdc4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "680420",
+            "立法紀錄": "68卷32期1204號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cccccdcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccfcfcdcfcfc5c9cacad2c9c8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c6cdd2c6ca"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "680505",
+            "立法紀錄": "68卷93期1265號 55-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cbc6cccfcfc4cfcfcacac4cfcfc9ce",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "550802",
-            "立法紀錄": "55卷37期號15冊 121-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc8cecacfcfc4cfcecdcec4cfcecacf",
+            "會議日期": "680525",
+            "立法紀錄": "68卷42期1214號 4-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cccbcdcfcfc4cfcfcfcbc4cfcfcecf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc8cfcccfcfc5cdc7ced2cccecb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcccfcfc5c9cdc6d2c9cccc"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550823",
-            "立法紀錄": "55卷37期號18冊 66-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc8cec7cfcfc4cfcfc9c9c4cfcfc8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "550826",
-            "立法紀錄": "55卷37期號18冊 83-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc8cec7cfcfc4cfcfc7ccc4cfcfc7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "551028",
-            "立法紀錄": "55卷38期號4冊 164-164頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc7cfcbcfcfc4cfcec9cbc4cfcec9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "551101",
-            "立法紀錄": "55卷38期號5冊 62-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc7cfcacfcfc4cfcfc9cdc4cfcfc9cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "551104",
-            "立法紀錄": "55卷38期號5冊 123-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc7cfcacfcfc4cfcecdccc4cfcecdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "551111",
-            "立法紀錄": "55卷38期號6冊 86-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc7cfc9cfcfc4cfcfc7c9c4cfcfc7c9",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "551118",
-            "立法紀錄": "55卷38期號6冊 135-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc7cfc9cfcfc4cfcecccac4cfceccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "551206",
-            "立法紀錄": "55卷38期號9冊 26-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cacaccc7cfc6cfcfc4cfcfcdc9c4cfcfcacb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560321",
-            "立法紀錄": "56卷39期號4冊 83-83頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcbc4cfcfc7ccc4cfcfc7cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560328",
-            "立法紀錄": "56卷39期號4冊 110-132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcbc4cfcececfc4cfcecccd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560331",
-            "立法紀錄": "56卷39期號5冊 13-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcac4cfcfceccc4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560414",
-            "立法紀錄": "56卷39期號5冊 75-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcac4cfcfc8cac4cfcecfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560425",
-            "立法紀錄": "56卷7期號4冊 11-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcbcfc8c4cfcfcecec4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560428",
-            "立法紀錄": "56卷8期號4冊 35-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcbcfc7c4cfcfcccac4cfcfcbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560502",
-            "立法紀錄": "56卷1期號5冊 52-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcacfcec4cfcfcacdc4cfcfc9ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560509",
-            "立法紀錄": "56卷2期號5冊 68-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcacfcdc4cfcfc9c7c4cfcfc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560512",
-            "立法紀錄": "56卷3期號5冊 96-107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcacfccc4cfcfc6c9c4cfcecfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560516",
-            "立法紀錄": "56卷4期號5冊 122-132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcacfcbc4cfcecdcdc4cfcecccd",
+            "會議日期": "680525",
+            "立法紀錄": "68卷42期1214號 10-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cccbcdcfcfc4cfcfcecfc4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "560519",
-            "立法紀錄": "56卷5期號5冊 164-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cbc781cac9ccc6cfcacfcac4cfcec9cbc4cfcec8cf",
+            "會議日期": "680525",
+            "立法紀錄": "68卷42期1214號 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcac7cacf81c9c7c9cccbcdcfcfc4cfcfcecec4cfcfcecd",
             "關係文書": []
         }
     ]
