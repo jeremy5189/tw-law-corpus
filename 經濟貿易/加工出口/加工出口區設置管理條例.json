@@ -1,8 +1,8 @@
 {
     "title": "加工出口區設置管理條例",
     "versions": [
-        "中華民國54年1月25日制定",
-        "中華民國54年1月30日公布"
+        "中華民國56年12月22日修正",
+        "中華民國56年12月30日公布"
     ],
     "types": [
         "立法歷程",
@@ -36,7 +36,7 @@
         {
             "note": "(外銷事業產品不得內銷及例外)",
             "rule_no": "第五條",
-            "content": "　　外銷事業之產品，不得內銷。但國內課稅區不能生產而有進口需要，經外匯貿易主管機關核准者不在此限。\n　　依前項但書核准內銷之產品，於進口時，應依法課稅。",
+            "content": "　　外銷事業之產品，不得內銷。但課稅區不能生產而有進口需要，或其規格品質，在課稅區不能生產，而為國內生產事業所必需，經外匯貿易主管機關核准者不在此限。\n　　依前項但書核准內銷之產品，於進口時，應依法課稅。",
             "relates": {}
         },
         {
@@ -175,69 +175,69 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "530724",
-            "立法紀錄": "53卷33期號18冊 7-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcfc681cacccccccec7c4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "560804",
+            "立法紀錄": "56卷2期號8冊 994-994頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecf81cac9ccc6cfc7cfcdc4cfc6c6cbc4cfc6c6cb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccccfcbcfcfc5cececdd2cecdcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcbcfcfc5cac7cad2cac7c9"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "561018",
+            "立法紀錄": "56卷7期號10冊 1867-1872頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecf81cac9cbcfcfc8cecfc4cec7c9c8c4cec7c8cd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561026",
+            "立法紀錄": "56卷2期號11冊 1943-1947頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecf81cac9cbcfcfcdcecec4cec6cbccc4cec6cbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561104",
+            "立法紀錄": "56卷6期號11冊 2154-2159頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecf81cac9cbcfcfc9cecec4cdcecacbc4cdcecac6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561204",
+            "立法紀錄": "56卷7期號12冊 2717-2720頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecf81cac9cbcfcfc8cecdc4cdc8cec8c4cdc8cdcf",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "540119",
-            "立法紀錄": "54卷34期號14冊 8-29頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcfc681cacbcccbcecbc4cfcfcfc7c4cfcfcdc6",
+            "會議日期": "561219",
+            "立法紀錄": "56卷6期號12冊 2619-2624頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecf81cac9cbcfcfc9cecdc4cdc9cec6c4cdc9cdcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccbcfcccfcfc5cacfcad2cacdcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5cac8cbd2cac8c8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "540119",
-            "立法紀錄": "54卷34期號13冊 61-76頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcfc681cacbcccbceccc4cfcfc9cec4cfcfc8c9",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "540119",
-            "立法紀錄": "54卷34期號13冊 76-85頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcfc681cacbcccbceccc4cfcfc8c9c4cfcfc7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540122",
-            "立法紀錄": "54卷34期號13冊 98-123頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcfc681cacbcccbceccc4cfcfc6c7c4cfcecdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540123",
-            "立法紀錄": "54卷34期號14冊 47-51頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcfc681cacbcccbcecbc4cfcfcbc8c4cfcfcace",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "540125",
-            "立法紀錄": "54卷34期號14冊 86-88頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcfc681cacbcccbcecbc4cfcfc7c9c4cfcfc7c7",
+            "會議日期": "561219",
+            "立法紀錄": "56卷7期號12冊 2624-2631頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecf81cac9cbcfcfc9cecdc4cdc9cdcbc4cdc9ccce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "540125",
-            "立法紀錄": "54卷34期號14冊 88-92頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcfc681cacbcccbcecbc4cfcfc7c7c4cfcfc6cd",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2682-2685頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecf81cac9cbcfcfc8cecdc4cdc9c7cdc4cdc9c7ca",
             "關係文書": []
         }
     ]
