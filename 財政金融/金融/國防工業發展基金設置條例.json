@@ -1,8 +1,8 @@
 {
     "title": "國防工業發展基金設置條例",
     "versions": [
-        "中華民國95年12月12日修正",
-        "中華民國95年12月27日公布"
+        "中華民國68年1月19日制定",
+        "中華民國68年1月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,7 +66,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　本基金之會計年度，應與政府會計年度一致。關於基金預算、決算之編審，依下列程序辦理：\n　　一、年度開始前，應訂定工作方針，編擬收支預算，提經董事會通過後，陳報行政院。\n　　二、年度終了，應編具工作執行成果及收支決算，提經監事會審核後，陳報行政院。\n　　前項所列工作方針、預算、決算及報告除涉及國防機密者外，應予公開，由行政院依該年度中央政府總預算、總決算所規定之時程，轉送立法院。\n　　本基金會計、審計事務處理規定，由董事會報請行政院核定辦理，並轉送立法院。",
+            "content": "　　本基金之會計年度，應與政府會計年度一致。關於基金預算、決算之編審，依左列程序辦理：\n　　一、年度開始前，應訂定工作方針，編擬收支預算，提經董事會通過後，陳報行政院。\n　　二、年度終了，應編具工作執行成果及收支決算，提經監事會審核後，陳報行政院。\n　　前項所列工作方針、預算、決算及報告，每年應由行政院轉送立法院。\n　　本基金為遂行國防工業上之機密，有關會計、審計事務處理規定，由董事會報請行政院核定辦理。",
             "relates": {}
         },
         {
@@ -83,53 +83,64 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　一、該基金近年工作內容係對生產與保修軍品廠商提供優惠貸款和委託研究，無列為機密的必要性和合理性。爰修正本條第二項及第三項。\n　　二、為使該基金之運作能受立院有效監督，爰修正本條第二項，明訂該基金預算、決算之編審時程應比照中央政府總預算、總決算辦理。"
+        "第一條": "　　明定本條例之主旨。",
+        "第二條": "　　規定本基金之來源。",
+        "第三條": "　　斟酌本基金之設置目的，規定本基金之用途。",
+        "第四條": "　　規定本基金之性質以及董事會之職權。",
+        "第五條": "　　規定董事之人選及其產生程序。",
+        "第六條": "　　規定監事人選及其產生程序。",
+        "第七條": "　　明定本基金之主管機關。",
+        "第八條": "　　規定董事會之工作人員。",
+        "第九條": "　　規定捐助章程之訂定程序。",
+        "第十條": "　　規定本基金預算、決算之編審程序及會計審計事務之處理規定。",
+        "第十一條": "　　規定本基金之解散及其財產、權益之歸屬。",
+        "第十二條": "　　規定本條例之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950317",
-            "立法紀錄": "95卷10期3471號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cbc6c681c6cacecfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "林郁方",
+            "會議日期": "680112",
+            "立法紀錄": "68卷4期1176號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c9c6cc81c9c7c9cdcfcbcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfcacfcec5c6c9d2c6c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5c9ceccd2c9cec7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "951120",
-            "立法紀錄": "95卷53期3514號二冊 207-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cbc6c681c6cacacccfcdc4cfcdcfc8c4cfcdcbcc",
+            "會議日期": "680115",
+            "立法紀錄": "68卷21期1193號 27-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c9c6cc81c9c7c9cccdcecfcfc4cfcfcdc8c4cfcfcbcf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 107-110頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cbc6c681c6cacac6cfcfc4cfcecfc8c4cfcececf",
+            "會議日期": "680117",
+            "立法紀錄": "68卷5期1177號 131-137頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c9c6cc81c9c7c9cdcfcacfcfc4cfcecccec4cfceccc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecfcfcdc5c9cccfd2c9cccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5c8c9c8d2c8c8cd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 110-110頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cbc6c681c6cacac6cfcfc4cfcececfc4cfcececf",
+            "會議日期": "680117",
+            "立法紀錄": "68卷5期1177號 137-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c9c6cc81c9c7c9cdcfcacfcfc4cfceccc8c4cfceccc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 110-111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cbc6c681c6cacac6cfcfc4cfcececfc4cfcecece",
+            "會議日期": "680119",
+            "立法紀錄": "68卷6期1178號 3-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c9c6cc81c9c7c9cdcfc9cfcfc4cfcfcfccc4cfcfcfc8",
             "關係文書": []
         }
     ]
