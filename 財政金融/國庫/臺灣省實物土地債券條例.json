@@ -1,10 +1,11 @@
 {
     "title": "臺灣省實物土地債券條例",
     "versions": [
-        "中華民國42年1月20日制定",
-        "中華民國42年1月26日公布"
+        "中華民國42年6月19日修正",
+        "中華民國42年7月4日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -71,7 +72,7 @@
         {
             "note": "(到期本息償付之規定)",
             "rule_no": "第十一條",
-            "content": "　　本債券到期本息，依左列規定償付之：\n　　一、稻穀債券，償付稻穀。但用以補償輪作田（包括特殊田）地價所搭發之稻穀債券，按該年期當地稻穀時價折付現金。\n　　二、甘藷債券，按該年期之甘藷時價折付現金。\n　　前項現金本息，由臺灣土地銀行當地行處經付，其稻穀本息，得轉託糧食局指定之當地倉庫經付，其經付稻穀標準，依臺灣省田賦徵實驗收規則之規定。",
+            "content": "　　本債券到期本息，依左列規定償付之：\n　　一、稻穀債券，償付稻穀。但用以補償輪作田（包括特殊田）地價所搭發之稻穀債券，按該年期當地稻穀時價折付現金，用以補償單季田及看天田地價所搭發之稻穀債券，其半數按該年期當地稻穀時價折付現金。\n　　二、甘藷債券，按該年期之甘藷時價折付現金。\n　　前項現金本息，由臺灣土地銀行當地行處經付，其稻穀本息，得轉託糧食局指定之當地倉庫經付，其經付稻穀標準，依臺灣省田賦徵實驗收規則之規定。",
             "relates": {}
         },
         {
@@ -115,6 +116,47 @@
             "rule_no": "第十八條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "420602",
+            "立法紀錄": "42卷11期號9冊 147-147頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcc81cbcdcececfc6c4cfcecbc8c4cfcecbc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cccacdd2cccacc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420619",
+            "立法紀錄": "42卷11期號10冊 65-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcc81cbcdcecececfc4cfcfc9cac4cfcfc8cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cbc8cad2cbc7cd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "420619",
+            "立法紀錄": "42卷11期號10冊 89-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcc81cbcdcecececfc4cfcfc7c6c4cfcfc6cd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "420619",
+            "立法紀錄": "42卷11期號10冊 92-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacdcc81cbcdcecececfc4cfcfc6cdc4cfcfc6cc",
+            "關係文書": []
         }
     ]
 }
