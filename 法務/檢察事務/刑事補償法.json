@@ -1,12 +1,12 @@
 {
     "title": "刑事補償法",
     "versions": [
-        "中華民國56年7月18日修正",
-        "中華民國56年8月1日公布"
+        "中華民國72年6月10日修正",
+        "中華民國72年6月24日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　羈押及徒刑或拘役執行之賠償，依其羈押或執行之日數，以十五元以上二十五元以下折算一日支付之。\n　　罰金執行之賠償，應依已繳罰金相等金額返還之。\n　　易服勞役執行之賠償，準用第一項規定支付之。\n　　沒收物執行之賠償，除應銷燬者外，應返還之，其已拍賣者，應支付與賣得價金相等之金額。\n　　死刑之賠償，除其羈押依第一項規定賠償外，並支付八萬元以上十二萬元以下之撫慰金。\n　　羈押之日數應自拘捕時起算。",
+            "content": "　　羈押及徒刑或拘役執行之賠償，依其羈押或執行之日數，以二百五十元以上三百五十元以下折算一日支付之。\n　　罰金執行之賠償，應依已繳罰金相等金額附加利息返還之。\n　　易服勞役執行之賠償，準用第一項規定支付之。\n　　沒收物執行之賠償，除應銷燬者外，應返還之；其已拍賣者，應支付與賣得價金相等之金額，並附加利息。\n　　死刑執行之賠償，除其羈押依第一項規定賠償外，並支付一百萬元以上二百萬元以下之撫慰金。\n　　羈押之日數應自拘捕時起算。",
             "relates": {}
         },
         {
@@ -166,25 +166,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　為因應近年國民所得之增加，物價幣值之變動原定賠償金額及撫慰金已嫌過低，故調整之以符社會實況以示人權之保障。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "560718",
-            "立法紀錄": "56卷5期號7冊 750-756頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdceca81cac9ccc6cfc8cfcac4cfc8cacfc4cfc8cac9",
-            "主提案": "ⓙ士源",
+            "會議日期": "720607",
+            "立法紀錄": "72卷46期1635號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcec881c8cdc8cecbc9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "司法院、行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcccfcfc5c9c7cbd2c9c7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc8cfcfc5cdc7cbd2cdc7c7"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "720609",
+            "立法紀錄": "72卷65期1654號 2-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcec881c8cdc8cec9cacfcfc4cfcfcfcdc4cfcfcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "720610",
+            "立法紀錄": "72卷47期1636號 6-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcec881c8cdc8cecbc8cfcfc4cfcfcfc9c4cfcfcecd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc8cfcfc5c9cbcfd2c9cbcb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "720610",
+            "立法紀錄": "72卷47期1636號 12-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcec881c8cdc8cecbc8cfcfc4cfcfcecdc4cfcfcecb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "560718",
-            "立法紀錄": "56卷6期號7冊 786-786頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdceca81cac9ccc6cfc8cfc9c4cfc8c7c9c4cfc8c7c9",
+            "會議日期": "720610",
+            "立法紀錄": "72卷47期1636號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcdcec881c8cdc8cecbc8cfcfc4cfcfcecbc4cfcfcecb",
             "關係文書": []
         }
     ]
