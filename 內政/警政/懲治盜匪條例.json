@@ -1,10 +1,11 @@
 {
     "title": "懲治盜匪條例",
     "versions": [
-        "中華民國32年12月30日制定",
-        "中華民國33年4月8日公布"
+        "中華民國46年5月24日修正",
+        "中華民國46年6月5日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -53,26 +54,55 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　犯本條例之罪者，依特種刑事案件訴訟條例之規定辦理。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第九條",
             "content": "　　刑法總則及刑法分則第一百六十七條、第三百四十七條第五項之規定，於盜匪案件仍適用之。",
             "relates": {}
         },
         {
             "note": "",
-            "rule_no": "第十條",
-            "content": "　　本條例施行期間定為一年。必要時得以命令延長之。",
-            "relates": {}
-        },
-        {
-            "note": "",
-            "rule_no": "第十一條",
+            "rule_no": "第九條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "460510",
+            "立法紀錄": "46卷19期號6冊 91-94頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcacf81cbc9cec6cfc9c4cfcfc6cec4cfcfc6cb",
+            "主提案": "ⓙ士源",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c7cccdd2c7cccc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "460524",
+            "立法紀錄": "46卷19期號7冊 17-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcacf81cbc9cec6cfc8c4cfcfcec8c4cfcfcec6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcdcfcfc5ccccd2cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "460524",
+            "立法紀錄": "46卷19期號7冊 80-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcacf81cbc9cec6cfc8c4cfcfc7cfc4cfcfc7cf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "460524",
+            "立法紀錄": "46卷19期號7冊 80-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcacf81cbc9cec6cfc8c4cfcfc7cfc4cfcfc7cf",
+            "關係文書": []
         }
     ]
 }
