@@ -1,12 +1,12 @@
 {
     "title": "反共抗俄立功人員獎敘條例",
     "versions": [
-        "中華民國42年11月24日制定",
-        "中華民國43年1月9日公布"
+        "中華民國82年4月8日廢止",
+        "中華民國82年4月21日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -118,64 +118,39 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本條例原為獎敘反共抗俄立功人員，茲以當前情勢變遷，該條例內容已不合時宜；復查該條例第十七條規定：「本條例施行細則，由考試院行政院會同定之。」及第十八條規定：「本條例施行日期及期間，以命令定之。」惟其施行細則既未由本院會同行政院訂定，有關施行日期及期間，迄今亦未以命令訂定，顯無繼續施行之必要，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "420106",
-            "立法紀錄": " ",
-            "主提案": "考試院",
+            "會議日期": "810116",
+            "立法紀錄": "81卷7期2535號上冊 15-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec681c7cecfcfc8cfcec4cfcfcecac4cfcfcec9",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececfcfcccfcfc5cbc8c7d2cacfca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdc6cfcec5c7c6d2c6cc"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "421110",
-            "立法紀錄": "42卷12期號5冊 7-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec781cbcdcecdcfcac4cfcfcfc8c4cfcfcfc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececdcfcecfcfc5cbc9c6d2cbc8cc"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "421110",
-            "立法紀錄": "42卷12期號4冊 32-33頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec781cbcdcecdcfcbc4cfcfcccdc4cfcfcccc",
+            "進度": "委員會審查",
+            "會議日期": "810617",
+            "立法紀錄": "81卷51期2579號下冊 99-99頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec681c7cecfcacecfccc4cfcfc6c6c4cfcfc6c6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421110",
-            "立法紀錄": "42卷12期號4冊 33-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec781cbcdcecdcfcbc4cfcfccccc4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "421118",
-            "立法紀錄": "42卷12期號4冊 46-50頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec781cbcdcecdcfcbc4cfcfcbc9c4cfcfcacf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "820408",
+            "立法紀錄": "82卷20期2619號上冊 30-40頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec681c7cdcdcfcfcec4cfcfcccfc4cfcfcbcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "421120",
-            "立法紀錄": "42卷12期號5冊 21-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec781cbcdcecdcfcac4cfcfcdcec4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "421124",
-            "立法紀錄": "42卷12期號5冊 43-43頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec781cbcdcecdcfcac4cfcfcbccc4cfcfcbcc",
+            "會議日期": "820408",
+            "立法紀錄": "82卷20期2619號上冊 40-40頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccec681c7cdcdcfcfcec4cfcfcbcfc4cfcfcbcf",
             "關係文書": []
         }
     ]
