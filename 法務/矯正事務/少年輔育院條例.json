@@ -1,12 +1,12 @@
 {
     "title": "少年輔育院條例",
     "versions": [
-        "中華民國56年8月15日制定",
-        "中華民國56年8月28日公布"
+        "中華民國68年3月23日修正",
+        "中華民國68年4月4日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -98,7 +98,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　少年輔育院置技師四人至八人，薦派或聘任；技術員二人至八人，委任或委派；調查員四人至八人，心理測驗員及智力測驗員各一人或二人，均薦派或聘任；醫師二人至五人，聘任，其中一人兼任保健組組長，藥劑師一人，聘任；護士二人至五人，委任或委派；組員六人至十二人，委任或委派，分配各組辦事。",
+            "content": "　　少年輔育院置技師四人至八人，薦派或聘任；技術員二人至八人，委任或委派；調查員四人至八人，心理測驗員及智力測驗員各一人或二人，均薦派或聘任；醫師二人至五人，聘任，其中一人兼任保健組組長；藥師一人，聘任；護士二人至五人，委任或委派；組員六人至十二人，委任或委派，分配各組辦事。",
             "relates": {}
         },
         {
@@ -350,44 +350,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十四條": "　　將「藥劑師」修正為「藥師」，以求法律用語一致。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "520612",
-            "立法紀錄": "53卷33期號12冊 36-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cac681cacccccccecdc4cfcfccc9c4cfcfccc8",
-            "主提案": "行政院",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 19-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c9ce81c9c7c9cccdcccfcfc4cfcfcec6c4cfcfcdcf",
+            "主提案": "吳延環",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecccccfcccfcfc5cec7c8d2cec6c7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "560811",
-            "立法紀錄": "56卷4期號8冊 1094-1097頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cac681cac9ccc6cfc7cfcbc4cecfc6cbc4cecfc6c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc7cfcdcfcfc5cdceced2cdcacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cbc7c8d2cbc7c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "560811",
-            "立法紀錄": "56卷4期號8冊 1097-1103頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cac681cac9ccc6cfc7cfcbc4cecfc6c8c4cececfcc",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 20-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c9ce81c9c7c9cccdcccfcfc4cfcfcdcfc4cfcfcdcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "560815",
-            "立法紀錄": "56卷5期號8冊 1134-1145頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8cac681cac9ccc6cfc7cfcac4cececccbc4cececbca",
+            "會議日期": "680323",
+            "立法紀錄": "68卷24期1196號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c9ce81c9c7c9cccdcbcfcfc4cfcfcfc7c4cfcfcfc7",
             "關係文書": []
         }
     ]
