@@ -1,12 +1,12 @@
 {
     "title": "公職人員財產申報法",
     "versions": [
-        "中華民國82年6月15日制定",
-        "中華民國82年7月2日公布"
+        "中華民國83年7月5日修正",
+        "中華民國83年7月20日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -48,7 +48,7 @@
         {
             "note": "(財產信託)",
             "rule_no": "第七條",
-            "content": "　　總統、副總統、行政、立法、司法、考試、監察各院院長、副院長、政務官、立法委員、省（市）議員、縣（市）長應將其個人及其配偶、未成年子女一定金額以上之不動產及上市（上櫃）股票，信託與政府承認之信託業代為管理、處分。其他公職人員因其職務關係對特定財產具有特殊之利害關係者，亦同。\n　　受託人對委託人之財產，應依本法之規定，替代公職人員向受理申報單位申報。\n　　信託法及信託業法應於本法公布後一年內完成立法，如屆時未完成立法時，得由律師、會計師擔任受託人。",
+            "content": "　　總統、副總統、行政、立法、司法、考試、監察各院院長、副院長、政務官、立法委員、省（市）議員、縣（市）長應將其個人及其配偶、未成年子女一定金額以上之不動產及上市（上櫃）股票，信託與政府承認之信託業代為管理、處分。其他公職人員因其職務關係對特定財產具有特殊之利害關係者，亦同。\n　　受託人對委託人之財產，應依本法之規定，替代公職人員向受理申報單位申報。\n　　信託法及信託業法應於本法公布後二年內完成立法，如屆時未完成立法時，得由律師、會計師擔任受託人。",
             "relates": {}
         },
         {
@@ -112,129 +112,35 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第七條": "　　因信託法及信託業法至今尚未完成立法，為使強制信託施行更能周延，故將立法時間修正為二年內完成。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "810414",
-            "立法紀錄": "81卷31期2559號 68-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cecfcccecfcfc4cfcfc9c7c4cfcfc8c8",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "811229",
-            "立法紀錄": "81卷71期2599號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cecfc8cecfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "830705",
+            "立法紀錄": "83卷48期2722號上冊 50-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcb81c7cccbc7cfcec4cfcfcacfc4cfcfcace",
+            "主提案": "李友吉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecdcfcfc5c8ccd2c7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdc9cfcdc5ccccc7d2ccccc6"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "820309",
-            "立法紀錄": "82卷10期2609號 74-82頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcecfcfcfc4cfcfc8cbc4cfcfc7cd",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820309",
-            "立法紀錄": "82卷10期2609號 83-89頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcecfcfcfc4cfcfc7ccc4cfcfc7c6",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820309",
-            "立法紀錄": "82卷10期2609號 90-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcecfcfcfc4cfcfc6cfc4cfcfc6cc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820311",
-            "立法紀錄": "82卷15期2614號 404-449頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcecacfcfc4cfcbcfcbc4cfcbcbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820318",
-            "立法紀錄": "82卷17期2616號下冊 18-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcec8cfccc4cfcfcec7c4cfcfcacb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820324",
-            "立法紀錄": "82卷18期2617號下冊 223-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcec7cfccc4cfcdcdccc4cfcdcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820331",
-            "立法紀錄": "82卷20期2619號下冊 136-167頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcdcfcfccc4cfceccc9c4cfcec9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "820415",
-            "立法紀錄": "82卷22期2621號上冊 32-105頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcdcdcfcec4cfcfcccdc4cfcecfca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "820419",
-            "立法紀錄": "82卷26期2625號上冊 36-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcdc9cfcec4cfcfccc9c4cfcfcac7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "820601",
-            "立法紀錄": "82卷35期2634號下冊 4-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcccacfccc4cfcfcfcbc4cfcfcec6",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "820601",
-            "立法紀錄": "82卷35期2634號下冊 19-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdcccacfccc4cfcfcec6c4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "820604",
-            "立法紀錄": "82卷36期2635號 38-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdccc9cfcfc4cfcfccc7c4cfcfc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "820608",
-            "立法紀錄": "82卷37期2636號 30-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdccc8cfcfc4cfcfcccfc4cfcfc9c7",
+            "會議日期": "830705",
+            "立法紀錄": "83卷48期2722號上冊 51-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcb81c7cccbc7cfcec4cfcfcacec4cfcfcac8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "820611",
-            "立法紀錄": "82卷38期2637號 41-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdccc7cfcfc4cfcfcbcec4cfcfc9cf",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "820615",
-            "立法紀錄": "82卷39期2638號 39-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcd81c7cdccc6cfcfc4cfcfccc6c4cfcfc9cc",
+            "會議日期": "830705",
+            "立法紀錄": "83卷48期2722號上冊 57-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcfcb81c7cccbc7cfcec4cfcfcac8c4cfcfcac8",
             "關係文書": []
         }
     ]
