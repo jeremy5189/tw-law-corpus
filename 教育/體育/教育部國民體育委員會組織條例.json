@@ -1,11 +1,11 @@
 {
     "title": "教育部國民體育委員會組織條例",
     "versions": [
-        "中華民國88年12月7日廢止",
-        "中華民國88年12月29日公布"
+        "中華民國74年10月11日制定",
+        "中華民國74年10月23日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -58,44 +58,61 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　教育部國民體育委員會之任務已由行政院體育委員會所承接，同時通過行政院體育委員會組織條例時曾作出附帶決議，要求行政院配合檢討修正或廢止教育部國民體育委員會組織條例。其次，民國八十七年公布的國民體育法業已修正刪除教育部設國民教育委員會之規定，因此配合廢止本法。",
+    "law_reasons": {
+        "第一條": "　　國民體育法第四條第二項規定：「教育部設國民體育委員會，研擬全國體育政策，指導全國體育活動；其組織另以法律定之。」本條明定本條例之立法依據。",
+        "第二條": "　　規定教育部國民體育委員會之任務。",
+        "第三條": "　　規定教育部國民體育委員會委員之人數及成員。",
+        "第四條": "　　規定委員為無給職及其聘期。",
+        "第五條": "　　規定教育部國民體育委員會置主任委員及執行秘書，其餘所需工作人員由教育部組織法所定員額內調用。",
+        "第六條": "　　規定教育部國民體育委員會會議之會期、召集人及列席人員。",
+        "第七條": "　　明定會議議決事項，由教育部採行。",
+        "第八條": "　　規定本條例之施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "880413",
-            "立法紀錄": "88卷17期3017號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc6c8c781c7c7cec8cfcfc4cfcfcfcec4cfcfcfce",
+            "會議日期": "740412",
+            "立法紀錄": "74卷30期1828號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccdcf81c8cbcfcccfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfc8cfcfc5cdc9ccd2cdc9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cacfcbcfcfc5cdcdd2cdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881115",
-            "立法紀錄": "88卷52期3052號下冊 61-82頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc6c8c781c7c7cacdcfccc4cfcfc9cec4cfcfc7cd",
+            "會議日期": "740522",
+            "立法紀錄": "74卷80期1878號 139-147頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccdcf81c8cbcfc7cfcfcfc4cfceccc6c4cfcecbc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "881207",
-            "立法紀錄": "88卷54期3054號上冊 182-184頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc6c8c781c7c7cacbcfcec4cfcec7cdc4cfcec7cb",
+            "會議日期": "741008",
+            "立法紀錄": "74卷81期1879號 8-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccdcf81c8cbcfc7cecfcfc4cfcfcfc7c4cfcfcecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5cecbcfd2cecbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfcccfcfc5cdcfc6d2cdceca"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "741011",
+            "立法紀錄": "74卷81期1879號 13-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccdcf81c8cbcfc7cecfcfc4cfcfceccc4cfcfcecb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "881207",
-            "立法紀錄": "88卷54期3054號上冊 184-184頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc6c8c781c7c7cacbcfcec4cfcec7cbc4cfcec7cb",
+            "會議日期": "741011",
+            "立法紀錄": "74卷82期1880號 10-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccdcf81c8cbcfc7cdcfcfc4cfcfcecfc4cfcfcece",
             "關係文書": []
         }
     ]
