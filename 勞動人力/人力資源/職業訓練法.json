@@ -1,8 +1,8 @@
 {
     "title": "職業訓練法",
     "versions": [
-        "中華民國89年6月30日修正",
-        "中華民國89年7月19日公布"
+        "中華民國91年5月14日修正",
+        "中華民國91年5月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -248,7 +248,7 @@
         {
             "note": "(技術士及技術證書之發給)",
             "rule_no": "第三十三條",
-            "content": "　　技能檢定合格者稱技術士，由中央主管機關統一發給技術士證。\n　　技能檢定及發證辦法，由中央主管機關定之。",
+            "content": "　　技能檢定合格者稱技術士，由中央主管機關統一發給技術士證。\n　　技能檢定題庫之設置與管理、監評人員之甄審訓練與考核、申請檢定資格、學、術科測試委託辦理、術科測試場地機具、設備評鑑與補助、技術士證發證、管理及對推動技術士證照制度獎勵等事項，由中央主管機關另以辦法定之。\n　　技能檢定之職類開發、規範製訂、試題命製與閱卷、測試作業程序、學科監場、術科監評及試場須知等事項，由中央主管機關另以規則定之。",
             "relates": {}
         },
         {
@@ -331,53 +331,52 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　配合中央勞工行政業務之移轉及台灣省政府功能業務與組織之調整，將主管機關修正為「在中央為行政院勞工委員會；在直轄市為直轄市政府；在縣（市）為縣（市）政府」，另酌作文字修正。"
+        "第三十三條": "　　勞工委員會為辦理技能檢定相關事宜，業訂有「技能檢定試題題庫設置管理辦法」、「技能檢定術科測試監評人員審定訓練遴聘及考核辦法」、「技能檢定術科測試場地機具及設備評鑑標準實施及管理辦法」、「技能檢定規範製訂及學術科試題命製規則」、「技術士技能檢定學科測試閱卷規則」、「技術士技能檢定學科測試監場及術科測試監評規則」及「技術士技能檢定學術科測試試場規則」等職權命令，其規定內容涉及人民權利義務，依行政程序法之規定，其訂定應有法律之授權依據，爰配合行政程序法之施行，於第二項及第三項增列訂定上開辦法及規則之授權依據。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890321",
-            "立法紀錄": "89卷12期3071號上冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9cf81c7c6cecdcfcec4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9ce81c6cecccbcfcec4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5c8cccbd2c8ccc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2c9"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5cacccfd2caccce"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "890504",
-            "立法紀錄": "89卷26期3085號 358-369頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9cf81c7c6cdc9cfcfc4cfcccac7c4cfccc9c6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 152-154頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9ce81c6cecccbcfcec4cfcecacdc4cfcecacb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號上冊 49-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9cf81c7c6ccc6cfcec4cfcfcbc6c4cfcfc9c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cbcccad2cbcbce"
-                ]
-            ]
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 325-326頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9ce81c6cecccbcfcec4cfcccdcac4cfcccdc9",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號上冊 67-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9cf81c7c6ccc6cfcec4cfcfc9c8c4cfcfc9c8",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 350-350頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9ce81c6cecccbcfcec4cfcccacfc4cfcccacf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "890630",
-            "立法紀錄": "89卷39期3098號上冊 67-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9cf81c7c6ccc6cfcec4cfcfc9c8c4cfcfc9c8",
+            "會議日期": "910514",
+            "立法紀錄": "91卷34期3230號上冊 350-351頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfc9ce81c6cecccbcfcec4cfcccacfc4cfcccace",
             "關係文書": []
         }
     ]
