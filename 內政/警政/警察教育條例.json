@@ -1,8 +1,8 @@
 {
     "title": "警察教育條例",
     "versions": [
-        "中華民國61年3月21日修正",
-        "中華民國61年4月1日公布"
+        "中華民國71年5月25日修正",
+        "中華民國71年6月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -50,13 +50,13 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　初級警察教育設警員班，分甲、乙兩種，其修業年限如左：\n　　一、甲種警員班一年。\n　　二、乙種警員班三年。",
+            "content": "　　初級警察教育，設警員班，分甲乙兩種，其修業年限如左：\n　　一、專科警員班：二年。\n　　二、甲種警員班：一年。\n　　三、乙種警員班：三年。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　警員班應考資格如左：\n　　一、甲種警員班：須公立或已立案之私立高級中學或同等學校畢業或具有同等學力者。\n　　二、乙種警員班：須公立或已立案之私立初級中學或同等學校畢業或具有同等學力者。",
+            "content": "　　警員班應考資格如左：\n　　一、專科警員班，須公立或已立案之私立高級中等學校畢業或具有同等學力者。\n　　一、甲種警員班，須公立或已立案之私立高級中等學校畢業或具有同等學力者。\n　　二、乙種警員班，須公立或已立案之私立國民中等學校畢業或具有同等學力者。",
             "relates": {}
         },
         {
@@ -163,62 +163,54 @@
         }
     ],
     "law_reasons": {
-        "第九條": "　　一、為適應時代進步及警政革新之需要，增列第二項條文，於中央警官學校設置警政研究所，以培養警政方面之高級專門人才。\n　　二、原第二項改列為第三項。",
-        "第十條": "　　一、第一項未修正。\n　　二、增列第二項條文，明定研究生受業期限及其依法授予碩士學位之規定。",
-        "第十一條": "　　一、第一項未修正。\n　　二、增列第二項研究生應考資格。"
+        "第六條": "　　初級警察教育中，增設專科警員班一種，其修業年限為二年，故予以修正。",
+        "第七條": "　　配合前條，增列專科警員班應考資格規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "601022",
-            "立法紀錄": "60卷81期434號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccca81c9cfcbc7c7cecfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "710427",
+            "立法紀錄": "71卷34期1519號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccc981c8cec9c6cccbcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcdcfcfc5ccc7d2cbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfcacfcfc5c7cac9d2c7c9cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601108",
-            "立法紀錄": "60卷94期447號 7-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccca81c9cfcbc7c6cbcfcfcfcdc4cfcfcfc8c4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601127",
-            "立法紀錄": "60卷97期450號 1-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccca81c9cfcbc7c6c8cfcfcfcdc4cfcfcfcec4cfcfcfcb",
+            "會議日期": "710503",
+            "立法紀錄": "71卷62期1547號 4-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccc981c8cec9c6c9cdcfcfc4cfcfcfcbc4cfcfcdc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "610317",
-            "立法紀錄": "61卷22期475號 41-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccca81c9cecbc6cdcdcfcfcfcec4cfcfcbcec4cfcfcbc9",
+            "會議日期": "710521",
+            "立法紀錄": "71卷41期1526號 26-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccc981c8cec9c6cbcecfcfc4cfcfcdc9c4cfcfccca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5cdcdcdd2cdcdc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c6cfc9cfcfc5c6cbccd2c6cbc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "610317",
-            "立法紀錄": "61卷22期475號 46-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccca81c9cecbc6cdcdcfcfcfcec4cfcfcbc9c4cfcfcbc9",
+            "會議日期": "710521",
+            "立法紀錄": "71卷41期1526號 35-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccc981c8cec9c6cbcecfcfc4cfcfcccac4cfcfccc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "610321",
-            "立法紀錄": "61卷23期476號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccca81c9cecbc6cdcccfcfcfcec4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "710525",
+            "立法紀錄": "71卷42期1527號 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdccc981c8cec9c6cbcdcfcfc4cfcfcfc6c4cfcfcecf",
             "關係文書": []
         }
     ]
