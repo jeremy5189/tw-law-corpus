@@ -1,11 +1,12 @@
 {
     "title": "省防空司令部組織條例",
     "versions": [
-        "中華民國37年12月7日全文修正",
-        "中華民國38年1月6日公布"
+        "中華民國67年10月17日廢止",
+        "中華民國67年10月27日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -55,6 +56,35 @@
             "rule_no": "第八條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　本法係在適應動員戡亂期間之需要，掌理民眾自衛隊編組、訓練、防空計畫及設施，防空人員之訓練暨情報傳遞等事項。因成立臺灣警備總司令部，有關業務劃歸其掌理；然國防部組織法修正公布，已將警備總司令部之法律地位予以確定，依中央法規標準法之規定，機關裁併有關法規無保留之必要，故應予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "670929",
+            "立法紀錄": "67卷78期1146號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcecdc681c9c8c9cdc8c7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcdcfcfc5cbccd2cacd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "671004",
+            "立法紀錄": "67卷98期1166號 29-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcecdc681c9c8c9cdc6c7cfcfc4cfcfcdc6c4cfcfccc7",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "671017",
+            "立法紀錄": "67卷83期1151號 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcecdc681c9c8c9cdc7cccfcfc4cfcfcfc9c4cfcfcfc8",
+            "關係文書": []
         }
     ]
 }
