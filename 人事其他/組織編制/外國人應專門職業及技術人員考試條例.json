@@ -1,12 +1,12 @@
 {
     "title": "外國人應專門職業及技術人員考試條例",
     "versions": [
-        "中華民國64年4月29日全文修正",
-        "中華民國64年5月8日公布"
+        "中華民國68年3月23日修正",
+        "中華民國68年4月4日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,7 +18,7 @@
         {
             "note": "(專門職業及技術人員之定義)",
             "rule_no": "第二條",
-            "content": "　　本條例所稱專門職業及技術人員如左：\n　　一、律師、會計師。\n　　二、建築師、農業技師、工業技師、礦業技師。\n　　三、醫師、藥劑師、牙醫師、護理師、醫事檢驗師。\n　　四、護士、助產士、藥劑生、醫事檢驗生。\n　　五、中醫師。\n　　六、獸醫師、獸醫佐。",
+            "content": "　　本條例所稱專門職業及技術人員如左：\n　　一、律師、會計師。\n　　二、建築師、農業技師、工業技師、礦業技師。\n　　三、醫師、藥師、牙醫師、護理師、醫事檢驗師。\n　　四、護士、助產士、藥劑生、醫事檢驗生。\n　　五、中醫師。\n　　六、獸醫師、獸醫佐。",
             "relates": {}
         },
         {
@@ -78,7 +78,7 @@
         {
             "note": "(外國人得應藥劑師考試檢覈之規定)",
             "rule_no": "第十二條",
-            "content": "　　外國人具有左列資格之一者，得應藥劑師考試之檢覈：\n　　一、公立或立案之私立專科以上學校，或經教育部承認之國外專科以上學校修習藥學，得有畢業證書者。\n　　二、領有外國政府藥劑師執業證書，經中華民國政府主管機關認可者。",
+            "content": "　　外國人具有左列資格之一者，得應藥師考試之檢覈：\n　　一、公立或立案之私立專科以上學校，或經教育部承認之國外專科以上學校修習藥學，得有畢業證書者。\n　　二、領有外國政府藥師執業證書，經中華民國政府主管機關認可者。",
             "relates": {}
         },
         {
@@ -160,65 +160,36 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　將「藥劑師」修正為「藥師」以求法律用語一致。",
+        "第十二條": "　　將「藥劑師」修正為「藥師」以求法律用語一致。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "631119",
-            "立法紀錄": "63卷87期743號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cf81c9cccacbc7c8cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "考試院",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 5-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9ce81c9c7c9cccdcccfcfc4cfcfcfcac4cfcfcfc8",
+            "主提案": "吳延環",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacbcfcccfcfc5cccfcfd2ccceca"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640308",
-            "立法紀錄": "64卷35期789號 19-29頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cf81c9cbcacacccacfcfcfcdc4cfcfcec6c4cfcfcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640315",
-            "立法紀錄": "64卷39期793號 46-51頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cf81c9cbcacaccc6cfcfcfcdc4cfcfcbc9c4cfcfcace",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640421",
-            "立法紀錄": "64卷68期822號 26-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cf81c9cbcacac9c7cfcfc4cfcfcdc9c4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460425",
-            "立法紀錄": "64卷34期788號 6-33頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cf81c9cbcacacccbcfcfcfcec4cfcfcfc9c4cfcfcccc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcccfcfc5c7cccbd2c7cac8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5cccacbd2cccaca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "640425",
-            "立法紀錄": "64卷34期788號 33-40頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cf81c9cbcacacccbcfcfcfcec4cfcfccccc4cfcfcbcf",
+            "會議日期": "680320",
+            "立法紀錄": "68卷23期1195號 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9ce81c9c7c9cccdcccfcfc4cfcfcfc8c4cfcfcfc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "640429",
-            "立法紀錄": "64卷35期789號 3-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9cf81c9cbcacacccacfcfcfcec4cfcfcfccc4cfcfcfc7",
+            "會議日期": "680323",
+            "立法紀錄": "68卷24期1196號 3-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c7cfc9ce81c9c7c9cccdcbcfcfc4cfcfcfccc4cfcfcfcb",
             "關係文書": []
         }
     ]
