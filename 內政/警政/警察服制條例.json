@@ -1,8 +1,8 @@
 {
     "title": "警察服制條例",
     "versions": [
-        "中華民國76年11月10日修正",
-        "中華民國76年12月4日公布"
+        "中華民國87年10月22日修正",
+        "中華民國87年10月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -42,7 +42,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　警察機關行政人員、中央警官學校、警察專科學校及警察學校學員、學生、警察儀隊、警察樂隊、特殊作業之工作人員、警察機關管理之駐衛警察或編訓之義勇警察、義勇消防警察等人員，其服式與標識暨警察人員雨衣、雨鞋及執行特種勤務之服式，由內政部定之。",
+            "content": "　　警察機關行政人員、中央警察大學、警察專科學校及警察學校學員、學生、警察儀隊、警察樂隊、特殊作業之工作人員、警察機關管理之駐衛警察或編訓之義勇警察等人員；其服式、標識與警察人員之雨衣、雨鞋及執行特種勤務之服式，由內政部定之。",
             "relates": {}
         },
         {
@@ -59,53 +59,53 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　一、配合警察專科學校之設立，規定該校學員生之服式及標識，由內政部定之，俾警察服制完整一致。\n　　二、警察人員雨衣、雨鞋及執行特種勤務所需之服裝，其服用時機，常須考量其對象、勤務性質及實際狀況需要而定，爰授權內政部定之。"
+        "第六條": "　　一、中央警察大學組織條例業經公布施行，爰配合修正該校校名。\n　　二、消防業務已自警察體系移出，爰將「義勇消防警察」等字刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "760428",
-            "立法紀錄": "76卷34期2041號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcec681c8c9cfcccbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "871001",
+            "立法紀錄": "87卷36期2985號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8ccc9cfcec4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c6cfc7cfcfc5cccac9d2ccc6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfcdcfcfc5c8cbc6d2c7cfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "761017",
-            "立法紀錄": "77卷19期2130號 163-166頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcec681c8c8cfcec6cfcfc4cfcec9ccc4cfcec9c9",
+            "會議日期": "871014",
+            "立法紀錄": "87卷41期2990號 255-310頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8cbcecfcfc4cfcdcacac4cfcccecf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "761110",
-            "立法紀錄": "76卷90期2097號 38-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcec681c8c9cfc6cfcfcfc4cfcfccc7c4cfcfc8cd",
+            "會議日期": "871022",
+            "立法紀錄": "87卷42期2991號上冊 45-115頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8cbcdcfcec4cfcfcbcac4cfcececa",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cfcfc7cfcfc5cccbcbd2ccc8c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfc9cfc9cfcec5c9c8ced2c8cbce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "761110",
-            "立法紀錄": "76卷90期2097號 72-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcec681c8c9cfc6cfcfcfc4cfcfc8cdc4cfcfc8cb",
+            "會議日期": "871022",
+            "立法紀錄": "87卷42期2991號上冊 115-116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8cbcdcfcec4cfcececac4cfcecec9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "761110",
-            "立法紀錄": "76卷90期2097號 74-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcec681c8c9cfc6cfcfcfc4cfcfc8cbc4cfcfc8cb",
+            "會議日期": "871022",
+            "立法紀錄": "87卷42期2991號上冊 116-117頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcf81c7c8cbcdcfcec4cfcecec9c4cfcecec8",
             "關係文書": []
         }
     ]
