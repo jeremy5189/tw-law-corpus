@@ -1,8 +1,8 @@
 {
     "title": "看守所組織通則",
     "versions": [
-        "中華民國46年5月17日修正",
-        "中華民國46年5月29日公布"
+        "中華民國57年5月31日全文修正",
+        "中華民國57年6月12日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,90 +12,96 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　看守所隸屬於所在地之地方法院，並受檢察官之督導。",
+            "content": "　　看守所隸屬於所在地之地方法院，關於羈押事項，並受檢察官之督導。\n　　地方法院轄區遼闊或案件繁多者，得設二以上之看守所。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　看守所設衛生、警衛、總務三課。",
+            "content": "　　看守所設戒護、衛生、總務三課。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　衛生課掌理事項如左：\n　　一、關於看守所衛生計劃及其設施與指導事項。\n　　二、關於傳染病預防事項。\n　　三、關於被告健康診查事項。\n　　四、關於病室管理事項。\n　　五、關於被告疾病醫治事項。\n　　六、關於藥品調劑儲備及醫療器械管理事項。",
+            "content": "　　戒護課掌理左列事項：\n　　一、關於看守所戒備及被告之戒護事項。\n　　二、關於門戶鎖鑰管理事項。\n　　三、關於管理員之訓練及勤務分配事項。\n　　四、關於武器、戒具、消防器之使用、練習及保管事項。\n　　五、關於被告之輔導及作業事項。\n　　六、關於被告飲食、衣著、臥具、用品之分給及保管事項。\n　　七、關於衛生清潔事務之執行事項。\n　　八、關於接見、發受書信及送入物品之處理事項。\n　　九、關於被告性行考核及賞罰之執行事項。\n　　十、關於被告押送及脫逃者追捕事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　警衛課掌理事項如左：\n　　一、關於看守所之警備及被告之戒護事項。\n　　二、關於門戶鎖鑰及所內管理員宿含之管理事項。\n　　三、關於管理員勤務分配及勤務人員之管理事項。\n　　四、關於武器、戒具、消防器之使用練習及保管事項。\n　　五、關於飲食、衣類、臥具，用品之分給保管事項。\n　　六，關於衛生清潔事務之執行事項。\n　　七、關於接見、發受書信及送入物品之處理事項。\n　　八、關於被告賞罰之執行事項。\n　　九、關於被告押送及脫逃者追捕事項。",
+            "content": "　　衛生課掌理左列事項：\n　　一、關於看守所之衛生計畫及其設施與指導事項。\n　　二、關於傳染病預防事項。\n　　三、關於被告健康診查事項。\n　　四、關於被告疾病醫治事項。\n　　五、關於病室管理事項。\n　　六、關於藥品調劑、儲備及醫療器械管理事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　總務課掌理事項如左。\n　　一、關於文件之收發、撰擬及保存事項。\n　　二、關於印信典守事項。\n　　三、關於經費出納事項。\n　　四、關於建築、修繕事項。\n　　五、關於被告入所出所事項。\n　　六、關於身分單人相表及指紋之填製事項。\n　　七、關於被告之性行考核事項。\n　　八、關於攜帶物品之受付及保管事項。\n　　九、關於被告疾病、死亡之呈報及通知事項。\n　　十、關於食糧之收支、保管、核算及造報事項。\n　　十一、關於被告之教化及作業事項。\n　　十二、其他不屬於各課事項。",
+            "content": "　　總務課掌理左列事項：\n　　一、關於文件之收發、撰擬及保存事項。\n　　二、關於印信典守事項。\n　　三、關於經費出納事項。\n　　四、關於建築修繕事項。\n　　五、關於被告入所、出所事項。\n　　六、關於被告身分單、人相表及指紋之填製事項。\n　　七、關於攜帶物品之受付及保管事項。\n　　八、關於被告疾病或死亡呈報及通知事項。\n　　九、關於被告糧食之收支、保管、核算及造報事項。\n　　十、不屬於其他各課事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　看守所置所長一人，委任，承監督長官之命，綜理全所事務。\n　　看守所得置佐理一人，委任，輔助所長處理事務。\n　　首都、直轄市、省會所在地，或容額在三百人以上之看守所，其所長得為薦任。",
+            "content": "　　看守所置所長一人，薦任或委任；承監督長官之命，綜理全所事務。\n　　首都、直轄市、省會所在地或容額在一千人以上之看守所，得設副所長一人，委任或薦任；襄助所長處理全所事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　各課置課長一人，委任，承所長之命，掌理該課事務。\n　　衛生課課長以醫師兼充。",
+            "content": "　　看守所置秘書一人，委任或薦任；承長官之命，綜核文稿、聯繫各課及處理交辦事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　各課置課員二人至六人，委任，承長官之命，助理事務。\n　　衛生課課員以醫師、藥劑師或藥劑生兼充。",
+            "content": "　　各課置課長一人，委任或薦任；承所長之命，掌理本課事務。課員二人至六人，委任；分掌事務。\n　　衛生課課長以醫師兼任。課員以醫師、藥劑師或藥劑生兼任。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　看守所置醫師一人至三人，聘任藥劑師或藥劑生一人或二人，掌理保健及醫藥事務。\n　　看守所得酌用作業導師一人或二人。",
+            "content": "　　看守所置醫師一人至三人，薦聘；藥劑師或藥劑生一人或二人，藥劑師薦聘，藥劑生委派或僱用；護士一人至三人，委派或僱用，掌理保健、醫療及護理事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　女所置主任一人，以婦女充之，委任，承所長之命，管理女所事務，但容額不滿二十人者，不設主任。",
+            "content": "　　看守所得置作業導師一人至五人，委派或僱用。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　看守所容額不滿五百人者，得不設課，酌置股員二人或三人，委任，承所長之命，分股辦事。\n　　前項看守所不設藥劑師、藥劑生，其事務以醫師兼任。",
+            "content": "　　看守所設女所者，置主任一人，以婦女充之，委任，管理女所事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　看守所酌置主任管理員，並得酌用管理員，均委任，專任警備戒護事務，其名額由監督機關核定之。\n　　女所之主任管理員及管理員，以婦女充之。\n　　管理員獎懲辦法，由司法行政部定之。",
+            "content": "　　看守所容額不滿三百人者得不設課，酌置股員二人或三人，委任；承所長之命，分股辦事。\n　　前項看守所不設藥劑師或藥劑生，其事務以醫師兼任。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　看守所置會計員一人，統計員一人，人事管理員一人，均委任，依法律之規定，分別掌理會計、歲計、統計及人事事項。\n　　會計、統計人事管理事務簡單者，得由地方法院會計室、統計室兼辦，人事管理員並得兼任股員。\n　　會計、統計人事管理所需助理人員，由所長與各該主管機關，就本條例所定課員或股員雇員名額中，會商決定之。",
+            "content": "　　看守所置主任管理員，委任；管理員，委任或僱用；辦理戒護事務。其名額由司法行政部按各看守所實際情形定之。\n　　女所主任管理員及管理員以婦女充之。\n　　管理員獎懲辦法，由司法行政部定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　看守所得酌用雇員三人至六人。",
+            "content": "　　看守所置人事管理員、會計員、統計員各一人，均委任；依法律之規定，分別辦理人事、歲計、會計、統計事項；必要時得各置佐理人員，由所長與各該主管機關就本條例所定員額內會商決定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
+            "content": "　　看守所得酌用雇員三人至九人，辦理繕寫及其他事務。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十六條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
@@ -103,61 +109,90 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "451204",
-            "立法紀錄": "46卷18期號5冊 91-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9cb81cbc9cec7cfcac4cfcfc6cec4cfcfc6ce",
+            "會議日期": "560314",
+            "立法紀錄": "56卷39期號3冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac9ccc6cfccc4cfcfcfcac4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cdcdcbd2cdccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5cbc6ccd2cacdcd"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "451228",
-            "立法紀錄": "46卷18期號6冊 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9cb81cbc9cec7cfc9c4cfcfcfcdc4cfcfcfcc",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c8ccc6d2c8cbca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460524",
-            "立法紀錄": "46卷19期號7冊 4-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9cb81cbc9cec6cfc8c4cfcfcfcbc4cfcfcecc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c7c7cad2c7c6ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "460517",
-            "立法紀錄": "46卷19期號7冊 43-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9cb81cbc9cec6cfc8c4cfcfcbccc4cfcfcbca",
+            "進度": "委員會審查",
+            "會議日期": "561202",
+            "立法紀錄": "57卷4期號 214-217頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcfcfcbcfcfc4cfcdcecbc4cfcdcec8",
             "關係文書": []
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "561206",
+            "立法紀錄": "57卷14期號 786-791頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcfcecbcfcfc4cfc8c7c9c4cfc8c6ce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570313",
+            "立法紀錄": "57卷29期號 2643-2649頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecdc6cfcfc4cdc9cbccc4cdc9cbc6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570316",
+            "立法紀錄": "57卷30期號 2745-2751頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecccfcfcfc4cdc8cbcac4cdc8cace",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570320",
+            "立法紀錄": "57卷31期號 2804-2808頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecccecfcfc4cdc7cfcbc4cdc7cfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570327",
+            "立法紀錄": "57卷32期號 2864-2868頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecccdcfcfc4cdc7c9cbc4cdc7c9c7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570330",
+            "立法紀錄": "57卷33期號 2919-2927頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecccccfcfc4cdc6cec6c4cdc6cdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "570521",
+            "立法紀錄": "57卷37期號 14-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbceccc8cfcfcfcec4cfcfcecbc4cfcfcbca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5c8cdcfd2c8c9cb"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "460517",
-            "立法紀錄": "46卷19期號7冊 49-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9cb81cbc9cec6cfc8c4cfcfcbc6c4cfcfcacf",
+            "會議日期": "570521",
+            "立法紀錄": "57卷37期號 45-49頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbceccc8cfcfcfcec4cfcfcbcac4cfcfcbc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "460517",
-            "立法紀錄": "46卷19期號7冊 50-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9cb81cbc9cec6cfc8c4cfcfcacfc4cfcfcace",
+            "會議日期": "570531",
+            "立法紀錄": "57卷40期號 3-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec9ca81cac8cbcecbcfcfcfcfcec4cfcfcfccc4cfcfcfc9",
             "關係文書": []
         }
     ]
