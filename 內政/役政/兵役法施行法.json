@@ -1,8 +1,8 @@
 {
     "title": "兵役法施行法",
     "versions": [
-        "中華民國43年11月23日全文修正",
-        "中華民國43年12月4日公布"
+        "中華民國44年12月2日修正",
+        "中華民國44年12月14日公布"
     ],
     "types": [
         "立法歷程",
@@ -256,13 +256,13 @@
         {
             "note": "",
             "rule_no": "第三十七條",
-            "content": "　　縣（市）政府應於每年七月，會同有關機關組織徵兵檢查委員會，負有關體位及役種、軍種、兵科判定之責，下設體格檢查組、役種區劃組、軍種兵科鑑定組，依左列規定辦理之：\n　　一、體格檢查組，依師（團）管區司令部所派醫官之指導，調聘公私醫師分區施行。\n　　二、役種區劃組、軍種兵科鑑定組，由師（團）管區司令部派員會同縣（市）政府辦理之。\n　　徵兵檢查，應於九月底以前辦理完竣，將檢查經過及有關統計呈報省政府，並彙送團管區司令部。\n　　體格檢查之體位區分標準由國防部定之。",
+            "content": "　　縣（市）政府應於每年七月，會同有關機關組織徵兵檢查委員會，負有關體位及役種、軍種、兵科判定之責，下設體格檢查組、役種區劃組、軍種兵科鑑定組，依左列規定辦理之：\n　　一、體格檢查組，依師（團）管區司令部所派醫官之指導，調聘公私醫師分區施行。\n　　二、役種區劃組，由師（團）管區司令部派員會同縣（市）政府依役男體位及家庭經濟狀況區劃之。\n　　三、軍種兵科鑑定組，由師（團）管區司令部派員會同縣（市）政府依役男體位、教育程度、職業技能、專長鑑定之。\n　　體格檢查之體位區分標準，役種區劃標準，軍種兵科鑑定標準，均於徵兵規則內規定之。\n　　徵兵檢查，應於九月底以前辦理完竣，將檢查經過及有關統計呈報省政府，並彙送團管區司令部。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三十八條",
-            "content": "　　體格檢查合格適於服役者，依左列順序徵集之：\n　　一、常備兵現役，以甲等體位徵服之，不足時以乙等體位徵服之。\n　　二、補充兵現役，以甲乙等體位應徵服常備兵現役後之餘額徵服之，並依甲乙等體位之順序徵集。\n　　三、甲種國民兵，以甲乙等體位應徵服常備兵與補充兵現役後之餘額徵訓之。\n　　四、乙種國民兵，以應服甲種國民兵役之餘額與丙等體位徵訓之。\n　　前項第三款、第四款按軍事勤務所需之專長與體位等次順序徵訓之。",
+            "content": "　　體格檢查合格適於服役者，依左列順序徵集之：\n　　一、常備兵現役，以甲等體位徵服之，不足時以乙等體位徵服之，再不足時以已區劃為補充兵役及國民兵役者之甲乙等體位遞徵之。\n　　二、補充兵現役，以甲乙等體位應徵服常備兵現役後之餘額徵服之，並依甲乙等體位之順序徵集。\n　　三、甲種國民兵，以甲乙等體位應徵服常備兵與補充兵現役後之餘額徵訓之。\n　　四、乙種國民兵，以應服甲種國民兵役之餘額與丙等體位徵訓之。\n　　前項第三款、第四款按軍事勤務所需之專長與體位等次順序徵訓之。",
             "relates": {}
         },
         {
@@ -561,79 +561,41 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "421027",
-            "立法紀錄": "42卷12期號3冊 32-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcdcecdcfccc4cfcfcccdc4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "430507",
-            "立法紀錄": "43卷13期號4冊 95-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecccfcbc4cfcfc6cac4cfcfc6c9",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "430914",
-            "立法紀錄": "43卷14期號3冊 7-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecbcfccc4cfcfcfc8c4cfcfcfc7",
-            "關係文書": []
+            "會議日期": "440916",
+            "立法紀錄": "44卷16期號4冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c781cbcbcec9cfcbc4cfcfcfc8c4cfcfcfc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5c7d2cecf"
+                ]
+            ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 5-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecccfc8c4cfcfcfcac4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "431109",
-            "立法紀錄": "43卷14期號4冊 23-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecbcfcbc4cfcfcdccc4cfcfcdca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 50-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecccfc8c4cfcfcacfc4cfcfc9c7",
-            "關係文書": []
+            "會議日期": "441129",
+            "立法紀錄": "45卷16期號7冊 6-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c781cbcacec9cfc8c4cfcfcfc9c4cfcfcecd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcecfcfc5c7cbcdd2c7cbc7"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 71-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecccfc8c4cfcfc8cec4cfcfc6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 92-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecccfc8c4cfcfc6cdc4cfcececd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 113-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecccfc8c4cfcececcc4cfcececb",
+            "會議日期": "441202",
+            "立法紀錄": "45卷16期號7冊 99-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c781cbcacec9cfc8c4cfcfc6c6c4cfcecfce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "430803",
-            "立法紀錄": "43卷13期號7冊 124-145頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecccfc8c4cfcecdcbc4cfcecbca",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "431123",
-            "立法紀錄": "43卷14期號4冊 94-111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c981cbcccecbcfcbc4cfcfc6cbc4cfcecece",
+            "會議日期": "441202",
+            "立法紀錄": "45卷16期號7冊 101-102頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc7c781cbcacec9cfc8c4cfcecfcec4cfcecfcd",
             "關係文書": []
         }
     ]
