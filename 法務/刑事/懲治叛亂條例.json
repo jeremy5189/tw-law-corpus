@@ -1,12 +1,12 @@
 {
     "title": "懲治叛亂條例",
     "versions": [
-        "中華民國47年7月18日修正",
-        "中華民國47年7月26日公布"
+        "中華民國80年5月17日廢止",
+        "中華民國80年5月22日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -88,51 +88,27 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　民國三十八年懲治叛亂條例之制定，係針對中共叛亂，嚴明敵我分際，作為整體反攻之一環，然近年來，兩岸已展開和平競爭，國家統一綱領的頒佈，及動員戡亂時期之終止，皆表示兩岸關係已進入明朗和緩之新境，該法已無存在必要，故予以廢止．",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "451204",
-            "立法紀錄": "46卷18期號5冊 91-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc9cec7cfcac4cfcfc6cec4cfcfc6ce",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cdcbcad2cdcbc9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "470711",
-            "立法紀錄": "47卷21期號20冊 5-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc8cdcecdcfc4cfcfcfcac4cfcfcfc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5cecac6d2cec9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "470711",
-            "立法紀錄": "47卷21期號19冊 128-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc8cdcecec6c4cfcecdc7c4cfcecccf",
+            "會議日期": "800517",
+            "立法紀錄": "80卷40期2464號 18-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbc881c7cfcfcbcfcfcfc4cfcfcec7c4cfcfcdcb",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "470718",
-            "立法紀錄": "47卷21期號20冊 45-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc8cdcecdcfc4cfcfcbcac4cfcfcbc9",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "800517",
+            "立法紀錄": "80卷40期2464號 24-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbc881c7cfcfcbcfcfcfc4cfcfcdcbc4cfcfcbcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "470718",
-            "立法紀錄": "47卷21期號20冊 46-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcecdcbc981cbc8cdcecdcfc4cfcfcbc9c4cfcfcbc7",
+            "會議日期": "800517",
+            "立法紀錄": "80卷40期2464號 40-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbc881c7cfcfcbcfcfcfc4cfcfcbcfc4cfcfcbc9",
             "關係文書": []
         }
     ]
