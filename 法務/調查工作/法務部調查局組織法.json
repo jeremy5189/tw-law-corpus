@@ -1,8 +1,8 @@
 {
     "title": "法務部調查局組織法",
     "versions": [
-        "中華民國45年4月10日制定",
-        "中華民國45年4月20日公布"
+        "中華民國56年12月26日修正",
+        "中華民國57年1月11日公布"
     ],
     "types": [
         "立法歷程",
@@ -144,7 +144,7 @@
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　司法行政部調查局局長，副局長及主管業務單位薦任職以上人員，於執行犯罪調查職務時，分別視同刑事訴訟法第二百零八條之司法警察官。\n　　司法行政部調查局所屬省（市）縣（市）調查、保防機構主管，及主辦業務之薦任職以上人員，於執行犯罪調查職務時，分別視同刑事訴訟法第二百零八條、第二百零九條之司法警察官。\n　　司法行政部調查局薦任職以下負有特定調查、保防任務之人員，於執行犯罪調查職務時，視同刑事訴訟法第二百一十條之司法警察。",
+            "content": "　　司法行政部調查局局長，副局長及主管業務單位薦任職以上人員，於執行犯罪調查職務時，分別視同刑事訴訟法第二百二十九條之司法警察官。\n　　司法行政部調查局所屬省（市）縣（市）調查、保防機構主管，及主辦業務之薦任職以上人員，於執行犯罪調查職務時，分別視同刑事訴訟法第二百二十九條、第二百三十條之司法警察官。\n　　司法行政部調查局委任職人員，負有特定調查、保防任務者，於執行犯罪調查職務時，視同刑事訴訟法第二百三十一條之司法警察。",
             "relates": {}
         },
         {
@@ -175,33 +175,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "441007",
-            "立法紀錄": " ",
+            "會議日期": "561006",
+            "立法紀錄": "56卷2期號10冊 1564-1564頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccdc9ca81cac9cbcfcfcdcecfc4cecac9cbc4cecac9cb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec9cfcccfcfc5cdc9d2cccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcecfcfc5cacac8d2cac9cf"
                 ]
             ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "561019",
+            "立法紀錄": "56卷3期號11冊 1967-1969頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccdc9ca81cac9cbcfcfcccecec4cec6c9c8c4cec6c9c6",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "450410",
-            "立法紀錄": "45卷17期號4冊 21-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccdc9cb81cbcacec8cfcbc4cfcfcdcec4cfcfcdce",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2699-2703頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccdc9ca81cac9cbcfcfc8cecdc4cdc9c6c6c4cdc8cfcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcbcfcfc5c8d2cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5cdccc7d2cdcbcc"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "561222",
+            "立法紀錄": "56卷7期號12冊 2703-2704頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccdc9ca81cac9cbcfcfc8cecdc4cdc8cfccc4cdc8cfcb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "450410",
-            "立法紀錄": "45卷17期號4冊 46-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccdc9cb81cbcacec8cfcbc4cfcfcbc9c4cfcfcace",
+            "會議日期": "561226",
+            "立法紀錄": "56卷8期號12冊 2746-2747頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccdc9ca81cac9cbcfcfc7cecdc4cdc8cbc9c4cdc8cbc8",
             "關係文書": []
         }
     ]
