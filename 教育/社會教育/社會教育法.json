@@ -1,8 +1,8 @@
 {
     "title": "社會教育法",
     "versions": [
-        "中華民國42年9月8日制定",
-        "中華民國42年9月24日公布"
+        "中華民國48年3月17日修正",
+        "中華民國48年3月28日公布"
     ],
     "types": [
         "立法歷程",
@@ -102,7 +102,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　社會教育機構之組織規程及設備標準，由教育部定之。",
+            "content": "　　國立社會教育機構之組織以法律定之。\n　　各級社會教育機構之設備標準，由教育部定之。",
             "relates": {}
         },
         {
@@ -114,50 +114,49 @@
     ],
     "law_history": [
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420908",
-            "立法紀錄": "42卷12期號1冊 11-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfceccce81cbcdcecdcfcec4cfcfcecec4cfcfcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420619",
-            "立法紀錄": "42卷11期1號10冊 95-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfceccce81cbcdcecececfc4cfcfc6cac4cfcecfcf",
+            "進度": "一讀",
+            "會議日期": "480113",
+            "立法紀錄": "48卷22期號18冊 24-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcecccd81cbc7cdcdcec7c4cfcfcdcbc4cfcfcdc8",
+            "主提案": "仲肇湘",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5cbc9ccd2cbc9c9"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cdc9ccd2cdc9cb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420619",
-            "立法紀錄": "42卷11期號10冊 100-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfceccce81cbcdcecececfc4cfcecfcfc4cfcecfce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "480317",
+            "立法紀錄": "48卷23期號5冊 33-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcecccd81cbc7cdcccfcac4cfcfccccc4cfcfcbcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcecfcfc5cbceced2cbcdcf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "480317",
+            "立法紀錄": "48卷23期號5冊 49-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcecccd81cbc7cdcccfcac4cfcfcbc6c4cfcfcac8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "420619",
-            "立法紀錄": "42卷11期號10冊 104-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfceccce81cbcdcecececfc4cfcecfcbc4cfcececd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(復議)",
-            "會議日期": "420908",
-            "立法紀錄": "42卷12期號1冊 51-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfceccce81cbcdcecdcfcec4cfcfcacec4cfcfcacb",
+            "會議日期": "480317",
+            "立法紀錄": "48卷23期號5冊 57-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcecccd81cbc7cdcccfcac4cfcfcac8c4cfcfcac8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "420908",
-            "立法紀錄": "42卷12期號1冊 54-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfceccce81cbcdcecdcfcec4cfcfcacbc4cfcfcac9",
+            "會議日期": "480317",
+            "立法紀錄": "48卷23期號5冊 57-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcfcecccd81cbc7cdcccfcac4cfcfcac8c4cfcfcac8",
             "關係文書": []
         }
     ]
