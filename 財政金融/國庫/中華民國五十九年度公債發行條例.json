@@ -1,12 +1,12 @@
 {
     "title": "中華民國五十九年度公債發行條例",
     "versions": [
-        "中華民國82年12月16日廢止",
-        "中華民國82年12月31日公布"
+        "中華民國58年5月6日制定",
+        "中華民國58年5月19日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -36,7 +36,7 @@
         {
             "note": "(債票利息之規定)",
             "rule_no": "第五條",
-            "content": "　　本公債各期債票利息，由行政院定之。但調整時，不得低於發行時利率、各期公債自發行之日起，每三個月付息一次。",
+            "content": "　　本公債各期債票利息，由行政院定之。但利率不得超過年息百分之十一；各期公債自發行之日起，每三個月付息一次。",
             "relates": {}
         },
         {
@@ -88,27 +88,51 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　民國五十五年度至六十年度各年度之公債發行條例，係就各會計年度中央政府總預算案收支情形，估計尚有差額，須發行公債以資彌平，故擬訂年度公債發行條例，以肆應年度總預算之編列與執行。上開公債還本付息均已截止兌付期限，各該期次付訖之本息票，亦經該部會同審計部派員會同銷燬。因此，上述公債發行條例已不適用，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "821014",
-            "立法紀錄": "82卷55期2654號 13-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbc7cf81c7cdcacacfcfc4cfcfceccc4cfcfcecc",
-            "關係文書": []
+            "會議日期": "580411",
+            "立法紀錄": "58卷26期號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8c781cac7cbcccdc9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcdcfcfc5cbced2cbcc"
+                ]
+            ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "821108",
-            "立法紀錄": "82卷65期2664號下冊 48-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbc7cf81c7cdc9cacfccc4cfcfcbc7c4cfcfc8cf",
+            "會議日期": "580428",
+            "立法紀錄": "58卷41期號 7-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8c781cac7cbcccbcecfcfcfcdc4cfcfcfc8c4cfcfcec9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "580502",
+            "立法紀錄": "58卷32期號 5-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8c781cac7cbcccccdcfcfcfcec4cfcfcfcac4cfcfcec9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcdcfcfc5cac6cad2c9cfcf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "580502",
+            "立法紀錄": "58卷32期號 16-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8c781cac7cbcccccdcfcfcfcec4cfcfcec9c4cfcfcdcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "821216",
-            "立法紀錄": "82卷73期2672號上冊 41-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac9cccfcacbc7cf81c7cdc8cccfcec4cfcfcbcec4cfcfcbc9",
+            "會議日期": "580506",
+            "立法紀錄": "58卷33期號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc8c781cac7cbcccccccfcfcfcec4cfcfcfccc4cfcfcfcc",
             "關係文書": []
         }
     ]
