@@ -1,12 +1,12 @@
 {
     "title": "財政收支劃分法",
     "versions": [
-        "中華民國57年6月18日修正",
-        "中華民國57年6月28日公布"
+        "中華民國62年4月27日修正",
+        "中華民國62年5月10日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -34,7 +34,7 @@
         {
             "note": "(各級政府財政收支之分類)",
             "rule_no": "第四條",
-            "content": "　　各級政府財政收支之分類，依附表一、附表二之所定。[附表一：收入分類表] [附表二：支出分類表]",
+            "content": "　　各級政府財政收支之分類，依附表一、附表二之所定。[附表二：支出分類表]",
             "relates": {}
         },
         {
@@ -66,7 +66,7 @@
         {
             "note": "(國稅)",
             "rule_no": "第八條",
-            "content": "　　左列各稅為國稅：\n　　一、所得稅：謂對綜合所得及營利事業所得依法課徵之稅。\n　　二、遺產稅：謂對繼承財產及有財產價值之權利依法課徵之稅。\n　　三、印花稅：謂商事憑證、產權憑證、人事憑證、許可憑證及其他憑證依法貼用之印花稅。\n　　四、關稅：謂由海、陸、空進出國境之貨物進口稅、出口稅及海港之船舶噸稅。\n　　五、貨物稅：謂對國內貨物及國外同類進口貨物依法課徵之稅。\n　　六、鹽稅：謂對鹽及鹽鹵、鹽礦及其他鹽化合物依法課徵之稅。\n　　七、證券交易稅：謂對除各級政府發行之債券外，買賣有價證券法依法課徵之稅。\n　　八、礦區稅：謂對取得礦區權依法課徵之稅。",
+            "content": "　　左列各稅為國稅：\n　　一、所得稅　謂對綜合所得及營利事業所得依法課徵之稅。\n　　二、遺產及贈與稅　謂對死亡人遺產及對為財產贈與者，依法課徵之稅。\n　　三、印花稅　謂對商事憑證、產權憑證、人事憑證、許可憑證及其他憑證依法貼用之印花稅。\n　　四、關稅　謂由海、陸、空進出國境之貨物進口稅、出口稅及海港之船舶噸稅。\n　　五、貨物稅　謂對國內貨物及國外同類進口貨物依法課徵之稅。\n　　六、鹽稅　謂對鹽及鹽鹵、鹽礦及其他鹽化合物依法課徵之稅。\n　　七、證券交易稅　謂對除各級政府發行之債券外，買賣有價證券依法課徵之稅。\n　　八、礦區稅　謂對取得礦區權依法課徵之稅。",
             "relates": {}
         },
         {
@@ -76,9 +76,9 @@
             "relates": {}
         },
         {
-            "note": "(遺產稅省縣市局之分配成數)",
+            "note": "(刪除)",
             "rule_no": "第十條",
-            "content": "　　遺產稅，在省應以其總收入百分之二十分給省，百分之六十分給縣（市）（局）。在直轄市應以其總收入百分之三十分給直轄市。",
+            "content": "　　遺產及贈與稅，在省應以其總收入百分之二十分給省，百分之六十分給縣（市）（局）；在直轄市應以其總收入百分之三十分給直轄市。",
             "relates": {}
         },
         {
@@ -300,85 +300,48 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第八條": "　　遺產及贈與稅法對死亡人遺產課稅，以該遺產為主體，即無人承認繼承之遺產亦予課稅。又新增對為財產贈與者予以課稅，爰將第二款修正之。",
+        "第十條": "　　原遺產稅法，修改為遺產及贈與稅法，故本條修正之。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "570122",
-            "立法紀錄": "57卷6期號 355-355頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcfcfc9cfcfc4cfcccacac4cfcccaca",
+            "會議日期": "620316",
+            "立法紀錄": "62卷19期575號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcecd81c9cdcacecec6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcccfcfc5cac6cbd2cac6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "570405",
-            "立法紀錄": "57卷24期號 2284-2284頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecdcbcfcfc4cdcdc7cbc4cdcdc7cb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cccbcad2cccbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcccfcfc5cdcec7d2cdcdcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "570307",
-            "立法紀錄": "57卷22期號 1186-1189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecdcdcfcfc4cecec7c9c4cecec7c6",
+            "會議日期": "620414",
+            "立法紀錄": "62卷32期588號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcecd81c9cdcacecccdcfcfcfcdc4cfcfcfcec4cfcfcfcd",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570411",
-            "立法紀錄": "57卷34期號 3004-3007頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecccbcfcfc4cccfcfcbc4cccfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570415",
-            "立法紀錄": "57卷35期號 3048-3051頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecccacfcfc4cccfcbc7c4cccfcace",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "570425",
-            "立法紀錄": "57卷36期號 3100-3104頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbceccc9cfcfc4cccecfcfc4cccecfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "570618",
-            "立法紀錄": "57卷45期號 14-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecbcacfcfcfcec4cfcfcecbc4cfcfcdce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcccfcfc5c6c8d2cecfca"
-                ]
-            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "570618",
-            "立法紀錄": "57卷45期號 21-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecbcacfcfcfcec4cfcfcdcec4cfcfcdcd",
-            "關係文書": []
+            "會議日期": "620427",
+            "立法紀錄": "62卷31期587號 5-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcecd81c9cdcacecccecfcfcfcec4cfcfcfcac4cfcfcecf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacecfcbcfcfc5cccac7d2ccc9cd"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "570618",
-            "立法紀錄": "57卷45期號 22-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecbcacfcfcfcec4cfcfcdcdc4cfcfcdcc",
+            "會議日期": "620427",
+            "立法紀錄": "62卷31期587號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcecd81c9cdcacecccecfcfcfcec4cfcfcecfc4cfcfcecf",
             "關係文書": []
         }
     ]
