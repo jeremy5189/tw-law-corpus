@@ -1,8 +1,8 @@
 {
     "title": "專科學校法",
     "versions": [
-        "中華民國84年6月13日修正",
-        "中華民國84年6月29日公布"
+        "中華民國84年10月19日修正",
+        "中華民國84年11月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -25,6 +25,12 @@
             "note": "(專科學校設立標準)",
             "rule_no": "第三條",
             "content": "　　專科學校設立標準，由教育部定之；其變更及停辦程序，準用前條第二項之規定。",
+            "relates": {}
+        },
+        {
+            "note": "(改制技術學院遴選程序)",
+            "rule_no": "第三條 之一",
+            "content": "　　為提升實用專業人才素質，增進技術職業教育品質，教育部得遴選符合大學設立標準之專科學校，改制為技術學院；其遴選程序，由教育部定之。\n　　專科學校改制為技術學院者，教育部得核准其設專科部；其條件、資格、申請及審核程序，由教育部定之。\n　　技術學院設專科部之組織、課程及設備標準，由教育部定之。",
             "relates": {}
         },
         {
@@ -215,46 +221,46 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　為配合社會需求，增加辦學彈性，對專科學校並設類別之數目，加以限制已沒有必要，爰修正之。"
+        "第三條 之一": "　　一、本條新增。\n　　二、大學法第二條規定：「本法所稱大學包括獨立學院。」故專科學校必須符合依大學法所定大學設立標準者，始具有被遴選改制為技術學院之資格，爰定為第一項。\n　　三、為建立彈性學制，並達成行政合一、人員精簡及資源共享之目的，於第二項限制經改制為技術學院之專科學校，始得設專科部。\n　　四、技術學院設專科部者，形成一學校有大學及專科二種不同學制，其組織、課程及設備標準應如何適用大學法及專科學校法，宜由教育部規定，爰明定第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "840113",
-            "立法紀錄": "84卷5期2762號下冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6cf81c7cbcfcacfccc4cfcfcfcec4cfcfcfce",
-            "主提案": "羅傳進",
+            "會議日期": "841005",
+            "立法紀錄": "84卷50期2807號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6ce81c7cbcacfcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcacfcfc5cacaccd2cacacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfcccfcfc5c9c9d2c9c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "840308",
-            "立法紀錄": "84卷15期2772號 265-269頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6cf81c7cbcecacfcfc4cfcdc9cac4cfcdc9c6",
+            "會議日期": "841011",
+            "立法紀錄": "84卷54期2811號 465-473頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6ce81c7cbcacbcfcfc4cfcbc9cac4cfcbc8cc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "840613",
-            "立法紀錄": "84卷37期2794號 72-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6cf81c7cbccc8cfcfc4cfcfc8cdc4cfcecfce",
+            "會議日期": "841019",
+            "立法紀錄": "84卷54期2811號 22-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6ce81c7cbcacbcfcfc4cfcfcdcdc4cfcfcdca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacec7cfcdc5c9c8cfd2c9c8cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfc9cfcdc5cec9d2cec6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "840613",
-            "立法紀錄": "84卷37期2794號 101-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6cf81c7cbccc8cfcfc4cfcecfcec4cfcecfce",
+            "會議日期": "841019",
+            "立法紀錄": "84卷54期2811號 25-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecec6ce81c7cbcacbcfcfc4cfcfcdcac4cfcfcdc9",
             "關係文書": []
         }
     ]
