@@ -1,8 +1,8 @@
 {
     "title": "臺灣地區與大陸地區人民關係條例",
     "versions": [
-        "中華民國84年7月4日修正",
-        "中華民國84年7月19日公布"
+        "中華民國85年7月2日修正",
+        "中華民國85年7月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -426,7 +426,7 @@
         {
             "note": "(現役軍人或退除役官兵遺產之管理)",
             "rule_no": "第六十八條",
-            "content": "　　現役軍人或退除役官兵死亡而無繼承人、繼承人之有無不明或繼承人因故不能管理遺產者，由主管機關管理其遺產。\n　　前項遺產事件，在本條例施行前，已由主管機關處理者，依其處理。\n　　第一項遺產管理辦法，由國防部及行政院國軍退除役官兵輔導委員會分別擬訂，報請行政院核定後發布之。",
+            "content": "　　現役軍人或退除役官兵死亡而無繼承人，繼承人之有無不明或繼承人因故不能管理遺產者，由主管機關管理其遺產。\n　　前項遺產事件，在本條例施行前，已由主管機關處理者，依其處理。\n　　第一項遺產管理辦法，由國防部及行政院國軍退除役官兵輔導委員會分別擬訂，報請行政院核定後發布之。\n　　本條例修正施行前，大陸地區人民未於第六十六條所定期限內完成繼承之第一項及第二項遺產，由主管機關逕行捐助設置財團法人榮民榮眷基金會，辦理下列業務，不受前條第一項歸屬國庫規定之限制：\n　　一、亡故現役軍人或退除役官兵在大陸地區繼承人申請遺產之核發事項。\n　　二、榮民重大災害救助事項。\n　　三、清寒榮民子女教育獎助學金及教育補助事項。\n　　四、其他有關榮民、榮眷福利及服務事項。\n　　依前項第一款申請遺產核發者，以其亡故現役軍人或退除役官兵遺產，已納入財團法人榮民榮眷基金會者為限。\n　　財團法人榮民榮眷基金會章程，由行政院國軍退除役官兵輔導委員會擬訂，報請行政院核定之。",
             "relates": {}
         },
         {
@@ -611,62 +611,46 @@
         }
     ],
     "law_reasons": {
-        "第六十六條": "　　一、本條例施行前，兩岸交流尚未法制化，且兩岸阻絕四十餘年，在大陸地區繼承人協尋作業之推展，有事實上困難，且因主管機關保管遺產之筆數及金額，為數甚多，為避免爾後處理之困擾，並維護大陸地區繼承人權益，爰增訂第二項，俾貫徹政府代為保管遺產，以期歸還繼承人之美意。\n　　二、原第二項移列為第三項，並配合將「前項」二字修正為「前二項」。"
+        "第六十八條": "　　大陸地區人民繼承台灣地區人民之遺產，無法於本條例第六十六條規定之期限內（八十五年九月十七日）完成繼承，將視為拋棄繼承而繳交國庫。年來眾多榮民團體及個別榮民迭有反映，建議成立財團法人基金會，一方面讓大陸地區合法繼承人日後得以領取應得之遺產，另一方面則以基金孳息運用於榮民急難救助或清寒榮民子女教育之補助，爰增列第四項至第六項，俾資遵循。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "840502",
-            "立法紀錄": "84卷26期2783號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcdc9cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "朱鳳芝",
+            "會議日期": "850621",
+            "立法紀錄": "85卷35期2857號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdc881c7cacccacfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdcbcfcdc5cececbcad2cececbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecec8cfcdc5cec6c6d2cdcfcc"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "840630",
-            "立法紀錄": "84卷42期2799號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "朱鳳芝",
+            "進度": "委員會審查",
+            "會議日期": "850622",
+            "立法紀錄": "85卷37期2859號 256-269頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdc881c7caccc8cfcfc4cfcdcac9c4cfcdc9c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "850702",
+            "立法紀錄": "85卷38期2860號上冊 147-159頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdc881c7caccc7cfcec4cfcecbc8c4cfcecac6",
             "關係文書": [
                 [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdcbcfcec5c9cac6d2c9c9cf"
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecec6cfcfc5cdcfc9d2cdcece"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "840630",
-            "立法紀錄": "84卷42期2799號上冊 29-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcdcfcec4cfcfcdc6c4cfcfccc9",
-            "主提案": "廖福本",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840630",
-            "立法紀錄": "84卷42期2799號上冊 36-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcdcfcec4cfcfccc9c4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840704",
-            "立法紀錄": "84卷43期2800號 53-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcccfcfc4cfcfcaccc4cfcfcaca",
-            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "840704",
-            "立法紀錄": "84卷43期2800號 53-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdca81c7cbcbcccfcfc4cfcfcaccc4cfcfcaca",
+            "會議日期": "850702",
+            "立法紀錄": "85卷38期2860號上冊 159-163頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecdc881c7caccc7cfcec4cfcecac6c4cfcec9cc",
             "關係文書": []
         }
     ]
