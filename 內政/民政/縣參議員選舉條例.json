@@ -1,10 +1,11 @@
 {
     "title": "縣參議員選舉條例",
     "versions": [
-        "中華民國61年3月7日停止適用",
-        "中華民國61年3月18日公布"
+        "中華民國92年5月27日廢止",
+        "中華民國92年6月11日公布"
     ],
     "types": [
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -277,40 +278,73 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　本條例於民國30年8月9日由國民政府公布，民國37年12月21日修正，並於民國61年3月18日總統令暫停適用，因客觀情勢業已變更，無繼續適用之必要，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "601210",
-            "立法紀錄": "60卷95期448號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c781c9cfcbc7c6cacfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "920328",
+            "立法紀錄": "92卷15期3289號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c681c6cdcecacfcec4cfcfcfc9c4cfcfcfc9",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cccac9d2cccac8"
+                ],
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5ccc9cf"
+                ],
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cacbc9d2cacacd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "920418",
+            "立法紀錄": "92卷21期3295號上冊 13-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c681c6cdcdcecfcec4cfcfceccc4cfcfcecc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601227",
-            "立法紀錄": "61卷21期474號 18-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c781c9cecbc6cdcecfcfcfcdc4cfcfcec7c4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610127",
-            "立法紀錄": "61卷31期484號 17-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c781c9cecbc6cccecfcfcfcdc4cfcfcec8c4cfcfcec7",
+            "會議日期": "920512",
+            "立法紀錄": "92卷30期3304號下冊 3-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c681c6cdcccfcfccc4cfcfcfccc4cfcfcfc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "610307",
-            "立法紀錄": "61卷19期472號 40-41頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c781c9cecbc6cec6cfcfcfcec4cfcfcbcfc4cfcfcbce",
+            "會議日期": "920527",
+            "立法紀錄": "92卷31期3305號二冊 197-199頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c681c6cdcccecfcdc4cfcec6c8c4cfcec6c6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecccfcdc5cbcfc6d2cac7cb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "920527",
+            "立法紀錄": "92卷31期3305號二冊 373-374頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c681c6cdcccecfcdc4cfccc8ccc4cfccc8cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "610307",
-            "立法紀錄": "61卷19期472號 41-41頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c781c9cecbc6cec6cfcfcfcec4cfcfcbcec4cfcfcbce",
+            "會議日期": "920527",
+            "立法紀錄": "92卷31期3305號二冊 355-361頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c681c6cdcccecfcdc4cfcccacac4cfccc9ce",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "920527",
+            "立法紀錄": "92卷31期3305號二冊 374-374頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcfc7c681c6cdcccecfcdc4cfccc8cbc4cfccc8cb",
             "關係文書": []
         }
     ]
