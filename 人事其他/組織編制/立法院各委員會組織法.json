@@ -1,8 +1,8 @@
 {
     "title": "立法院各委員會組織法",
     "versions": [
-        "中華民國42年2月27日修正",
-        "中華民國42年3月6日公布"
+        "中華民國45年11月9日修正",
+        "中華民國45年11月19日公布"
     ],
     "types": [
         "立法歷程",
@@ -120,7 +120,7 @@
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　各委員會置主任秘書十二人，簡任；秘書十二人，薦任或簡任；科長十二人，薦任；科員十二人，委任或薦任；書記官或書記十二人，書記官，委任。\n　　前項人員，由院長視各委員會事務之繁簡配用之。但對於簡任人員之任、免、遷、調，應與各該委員會召集委員商酌行之。",
+            "content": "　　各委員會置主任秘書十二人，簡任；秘書十二人，薦任或簡任；科長十二人，薦任；科員二十四人，委任，其中十二人得為薦任；速記員十二人，薦任或委任；書記官或書記十二人，書記官，委任。\n　　前項人員，由院長視各委員會事務之繁簡配用之。但對於簡任人員之任、免、遷、調，應與各該委員會召集委員商酌行之。",
             "relates": {}
         },
         {
@@ -138,36 +138,91 @@
     ],
     "law_history": [
         {
+            "進度": "一讀",
+            "會議日期": "450424",
+            "立法紀錄": "45卷17期號5冊 83-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbcacec8cfcac4cfcfc7ccc4cfcfc6c6",
+            "主提案": "李鈺",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcecfcfc5c8c6cbd2c8c6c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "450427",
+            "立法紀錄": "45卷17期號5冊 105-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbcacec8cfcac4cfcecfcac4cfcecfca",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "450504",
+            "立法紀錄": "45卷17期號5冊 111-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbcacec8cfcac4cfcececec4cfcececd",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "450504",
+            "立法紀錄": "45卷17期號5冊 115-115頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbcacec8cfcac4cfcececac4cfcececa",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "420227",
-            "立法紀錄": "42卷11期號2冊 4-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc781cbcdcececfcdc4cfcfcfcbc4cfcfcfc7",
+            "會議日期": "451023",
+            "立法紀錄": "46卷18期號4冊 19-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbc9cec7cfcbc4cfcfcec6c4cfcfcdcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cbced2cbcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec8cfcdcfcfc5c9c8c9d2c9c7ce"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "420227",
-            "立法紀錄": "42卷11期號2冊 4-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc781cbcdcececfcdc4cfcfcfcbc4cfcfcec7",
+            "會議日期": "451019",
+            "立法紀錄": "45卷18期號3冊 171-174頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbcacec7cfccc4cfcec8cec4cfcec8cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "451023",
+            "立法紀錄": "46卷18期號4冊 25-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbc9cec7cfcbc4cfcfcdcac4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "451026",
+            "立法紀錄": "46卷18期號4冊 38-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbc9cec7cfcbc4cfcfccc7c4cfcfcacd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "451030",
+            "立法紀錄": "46卷18期號4冊 54-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbc9cec7cfcbc4cfcfcacbc4cfcfcaca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "420227",
-            "立法紀錄": "42卷11期號2冊 18-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc781cbcdcececfcdc4cfcfcec7c4cfcfcec6",
+            "會議日期": "451106",
+            "立法紀錄": "46卷18期號4冊 63-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbc9cec7cfcbc4cfcfc9ccc4cfcfc9cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "420227",
-            "立法紀錄": "42卷11期號2冊 19-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc781cbcdcececfcdc4cfcfcec6c4cfcfcec6",
+            "會議日期": "451109",
+            "立法紀錄": "46卷18期號4冊 66-67頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7ccc681cbc9cec7cfcbc4cfcfc9c9c4cfcfc9c8",
             "關係文書": []
         }
     ]
