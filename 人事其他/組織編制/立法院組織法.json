@@ -1,12 +1,12 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國47年7月18日修正",
-        "中華民國47年7月26日公布"
+        "中華民國60年8月24日修正",
+        "中華民國60年8月31日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -126,7 +126,7 @@
         {
             "note": "",
             "rule_no": "第二十條",
-            "content": "　　立法院各委員會各置召集委員，其名額以各委員會參加委員人數為比例，二十人以下者一人，二十一人至四十人者二人，四十一人以上者三人；其產生方法由立法院定之。",
+            "content": "　　立法院各委員會各置召集委員，其名額以各委員會參加委員人數為比例，十五人以下者一人，十六人至三十人者二人，三十一人以上者三人，其產生方法由立法院定之。",
             "relates": {}
         },
         {
@@ -178,51 +178,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二十條": "　　本案現行法乃是十八年前，根據當時本院委員總人數所制定的，現在事隔十八年，現有委員人數已遠非昔比，因此，乃就各委員會所產生召集人之必需人數稍加調整。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "460503",
-            "立法紀錄": "46卷19期號6冊 68-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc9cec6cfc9c4cfcfc9c7c4cfcfc9c6",
-            "主提案": "何佐治",
+            "會議日期": "600806",
+            "立法紀錄": "60卷59期413號 2-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc8cac6cfcfcfcec4cfcfcfcdc4cfcfcfcb",
+            "主提案": "閻孟華",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5c8cbcbd2c8cbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcbcfcfc5c9cfccd2c9cfc9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "470718",
-            "立法紀錄": "47卷21期號20冊 3-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc8cdcecdcfc4cfcfcfccc4cfcfcfca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcccfcfc5c8cfd2c8cd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "470708",
-            "立法紀錄": "47卷21期號18冊 39-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc8cdcecec7c4cfcfccc6c4cfcfcbcd",
+            "進度": "委員會審查",
+            "會議日期": "600816",
+            "立法紀錄": "60卷82期435號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc7c7cdcfcfcfcdc4cfcfcfcec4cfcfcfcd",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "600824",
+            "立法紀錄": "60卷64期418號 3-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc8c9cbcfcfcfcec4cfcfcfccc4cfcfcfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcbcfcfc5c6ccccd2c6cbcf"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "470711",
-            "立法紀錄": "47卷21期號19冊 120-120頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc8cdcecec6c4cfcecdcfc4cfcecdcf",
+            "會議日期": "600824",
+            "立法紀錄": "60卷64期418號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc8c9cbcfcfcfcec4cfcfcfcac4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "470718",
-            "立法紀錄": "47卷21期號20冊 27-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9cb81cbc8cdcecdcfc4cfcfcdc8c4cfcfcdc7",
+            "會議日期": "600824",
+            "立法紀錄": "60卷64期418號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7c9ca81c9cfcbc8c9cbcfcfcfcec4cfcfcfcac4cfcfcfca",
             "關係文書": []
         }
     ]
