@@ -1,8 +1,8 @@
 {
     "title": "科學工業園區管理局組織條例",
     "versions": [
-        "中華民國83年11月18日修正",
-        "中華民國83年12月5日公布"
+        "中華民國92年6月6日修正",
+        "中華民國92年6月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -12,13 +12,13 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　本條例依科學工業園區設置管理條例第六條規定制定之。",
+            "content": "　　本條例依科學工業園區設置管理條例第五條規定制定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　科學工業園區管理局（以下簡稱本局），隸屬行政院國家科學委員會，掌理科學工業園區設置管理條例第七條所定事項。",
+            "content": "　　科學工業園區管理局（以下簡稱本局），隸屬行政院國家科學委員會，掌理或代辦科學工業園區設置管理條例第六條所定事項。",
             "relates": {}
         },
         {
@@ -84,7 +84,7 @@
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本局得商請警政主管機關在園區設置警察單位，依法執行安全警衛任務，並就本局主管業務受本局指揮、監督。",
+            "content": "　　本局得商請警政、消防主管機關在園區設置警察、消防單位，依法執行安全警衛任務、消防業務，並就本局主管業務受本局指揮、監督。",
             "relates": {}
         },
         {
@@ -101,73 +101,61 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　一、配合園區發展及因應管理局業務需要，增列第六款及第七款。\n　　二、各組名稱作文字修正。",
-        "第五條": "　　園區公司半數為海外歸國學人開設，其餘亦為國內高科技人才所設立。為利於投資對象之訪求、高科技環境之建立，須由具備高科技學識及管理專長者擔任首長。由於人才羅致不易，爰將局長職務列等列為比照簡任第十三職等，副局長職務列等列為簡任第十二職等。",
-        "第六條": "　　一、修正條文第三條增設建管組及資訊室，所需人力為配合精簡用人政策，由本局總員額內調整運用。\n　　二、本局為科技行政機關，因業務特殊，亟需加強中層人力，提昇工作品質，爰在不增加總員額下，增置技正、專員、技士及資訊人員員額，並減少辦事員、書記等低層人力員額，並依據考試院訂頒之「職務列等表」規定，調整其官職等。",
-        "第七條": "　　將人事室之編制與其職掌單列一條，並做文字修正。",
-        "第七條 之一": "　　將會計室之編制與其職掌單列一條，並做文字修正。",
-        "第七條 之二": "　　一、本條新增。\n　　二、依據「政風機構人員設置條例」規定增列。",
-        "第八條": "　　本條係配合新人事制度有關規定修正。"
+        "第一條": "　　配合科學工業園區設置管理條例之修正，修正引用法源之條次。",
+        "第二條": "　　配合科學工業園區設置管理條例之修正，修正引用法源之條次並酌作文字修正。",
+        "第十一條": "　　依九十一年十二月十八日修正公布之科學工業園區設置管理條例第八條第六款規定辦理增列消防單位及消防業務。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830503",
-            "立法紀錄": "83卷30期2704號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c881c7cccccfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "920321",
+            "立法紀錄": "92卷14期3288號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcecbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccecbcfcfc5c7c6d2c6c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cec7cad2cec7c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "920321",
+            "立法紀錄": "92卷14期3288號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcecbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "民進黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cec7ced2cec7cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830706",
-            "立法紀錄": "83卷51期2725號 164-178頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c881c7cccacecfcfc4cfcec9cbc4cfcec8c7",
+            "會議日期": "920528",
+            "立法紀錄": "92卷35期3309號下冊 145-166頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcccacfccc4cfcecbcac4cfcec9c9",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "831013",
-            "立法紀錄": "83卷65期2739號上冊 54-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c881c7ccc9cacfcec4cfcfcacbc4cfcfc8ce",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "920606",
+            "立法紀錄": "92卷34期3308號三冊 142-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcccbcfccc4cfcecbcdc4cfcecbc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccdc8cfccc5cccbccd2cccacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5cbcbc8d2cbcacb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831013",
-            "立法紀錄": "83卷65期2739號上冊 71-79頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c881c7ccc9cacfcec4cfcfc8cec4cfcfc8c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831103",
-            "立法紀錄": "83卷71期2745號 58-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c881c7ccc8cecfcfc4cfcfcac7c4cfcfc8cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831110",
-            "立法紀錄": "83卷73期2747號 48-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c881c7ccc8cccfcfc4cfcfcbc7c4cfcfcacb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "831118",
-            "立法紀錄": "83卷75期2749號上冊 202-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c881c7ccc8cacfcec4cfcdcfcdc4cfcdcfcb",
+            "會議日期": "920606",
+            "立法紀錄": "92卷34期3308號三冊 149-149頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcccbcfccc4cfcecbc6c4cfcecbc6",
             "關係文書": []
         }
     ]
