@@ -1,8 +1,8 @@
 {
     "title": "軍事審判法",
     "versions": [
-        "中華民國45年12月11日修正",
-        "中華民國45年12月24日公布"
+        "中華民國56年12月1日修正",
+        "中華民國56年12月14日公布"
     ],
     "types": [
         "立法歷程",
@@ -118,9 +118,9 @@
             "relates": {}
         },
         {
-            "note": "(軍事檢察官之設置)",
+            "note": "(軍事檢察官之設置及職權)",
             "rule_no": "第十七條",
-            "content": "　　軍事審判機關置軍事檢察官若干人，依本編第三章第四節之規定，行使檢察職權。\n　　有二以上軍事檢察官時，以一人為主任軍事檢察官。\n　　第九條第六款之初級軍事審判機關，其軍事檢察官，由其長官兼任之。",
+            "content": "　　軍事審判機關置軍事檢察官若干人，依本編第四章之規定，行使檢察職權。\n　　有二以上軍事檢察官時，以一人為主任軍事檢察官。\n　　第九條第六款之初級軍事審判機關，其軍事檢察官，由其長官兼任之。",
             "relates": {}
         },
         {
@@ -1641,41 +1641,29 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "451123",
-            "立法紀錄": "46卷18期號5冊 83-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7ca81cbc9cec7cfcac4cfcfc7ccc4cfcfc7ca",
-            "主提案": "仲肇湘",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cecbcfd2cecbce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "451211",
-            "立法紀錄": "46卷18期號5冊 34-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7ca81cbc9cec7cfcac4cfcfcccbc4cfcfcccb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec7cfcdcfcfc5cccccfd2ccccce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "451211",
-            "立法紀錄": "46卷18期號5冊 106-109頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7ca81cbc9cec7cfcac4cfcecfc9c4cfcecfc6",
+            "會議日期": "561201",
+            "立法紀錄": "56卷1期號12冊 2329-2332頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7c881cac9cbcfcfcececdc4cdcccdc6c4cdcccccd",
+            "主提案": "溫士源",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "561201",
+            "立法紀錄": "56卷1期號12冊 2332-2332頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7c881cac9cbcfcfcececdc4cdcccccdc4cdcccccd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcdcfcfc5ccc7cdd2ccc7cb"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "451211",
-            "立法紀錄": "46卷18期號5冊 109-109頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7ca81cbc9cec7cfcac4cfcecfc6c4cfcecfc6",
+            "會議日期": "561201",
+            "立法紀錄": "56卷1期號12冊 2332-2332頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8cdcccec9cac7c881cac9cbcfcfcececdc4cdcccccdc4cdcccccd",
             "關係文書": []
         }
     ]
