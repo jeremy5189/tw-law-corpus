@@ -1,8 +1,8 @@
 {
     "title": "公路法",
     "versions": [
-        "中華民國86年4月15日修正",
-        "中華民國86年5月7日公布"
+        "中華民國86年12月30日修正",
+        "中華民國87年1月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -253,6 +253,12 @@
             "note": "(核准後之籌備期限等)",
             "rule_no": "第三十九條",
             "content": "　　經核准籌備之汽車運輸業，應自核准之日起，六個月內籌備完竣。\n　　汽車運輸業應於籌備期間依法辦理公司或商業登記，並報請該管公路主管機關核准發給汽車運輸業營業執照及公路汽車客運業之營運路線許可證後，方得開始營業或通車營運。\n　　汽車運輸業經核准籌備後，如因特殊情形未能如期籌備完成時，得報請該管公路主管機關准予延期，以六個月為限，逾期撤銷其核准籌備。其為公路汽車客運業或市區汽車客運業者，並應公告重行受理申請。",
+            "relates": {}
+        },
+        {
+            "note": "(計程車牌照發放依據)",
+            "rule_no": "第三十九條 之一",
+            "content": "　　計程車牌照應依照縣、市人口及使用道路面積成長比例發放。\n　　優良駕駛申請個人牌照之發放，不適用於前項規定。",
             "relates": {}
         },
         {
@@ -521,47 +527,41 @@
         }
     ],
     "law_reasons": {
-        "第三十五條": "　　茲為因應我國加入關稅暨貿易總協定、世界貿易組織，及推動亞太海空運轉運中心計畫，現階段汽車運輸業宜適度擴大開放範圍，乃優先開放小客車租賃業、汽車貨櫃貨運業及汽車貨運業等三業。",
-        "第八十一條": "　　為配合我國加入世界貿易組織之時程，爰增訂第二項之修正條文，其施行日期由行政院訂定。"
+        "第三十九條 之一": "　　一、本條新增。\n　　二、將現行計程車牌照發放政策，由原來行政命令規範，修訂由立法予以明文規定。\n　　三、藉由限量發行牌照政策以抑制計程車無限成長，保障現有執業計程車駕駛員的基本工作權及避免國內交通及社會治安繼續惡化。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "851217",
-            "立法紀錄": "85卷68期2890號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cf81c7cac9c7cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "860509",
+            "立法紀錄": "86卷24期2916號上冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9ce81c7c9cdcbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "廖福本",
             "關係文書": [
                 [
                     "null",
-                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcdcdc9cecfceca"
+                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcccfcccdcececfcfc6"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "860310",
-            "立法紀錄": "86卷9期2901號下冊 175-200頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cf81c7c9cfc6cfccc4cfcec8cac4cfcdcfcf",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "861009",
+            "立法紀錄": "86卷39期2931號 69-70頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9ce81c7c9ccc6cfcfc4cfcfc9c6c4cfcfc8cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 95-102頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cf81c7c9cec8cfcec4cfcfc6cac4cfcecfcd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5cccdcfd2cccdc9"
-                ]
-            ]
+            "會議日期": "861230",
+            "立法紀錄": "87卷1期2950號上冊 31-32頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9ce81c7c8cfcecfcec4cfcfcccec4cfcfcccd",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "860415",
-            "立法紀錄": "86卷17期2909號上冊 102-102頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9cf81c7c9cec8cfcec4cfcecfcdc4cfcecfcd",
+            "會議日期": "861230",
+            "立法紀錄": "87卷1期2950號上冊 32-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc9ce81c7c8cfcecfcec4cfcfcccdc4cfcfcccc",
             "關係文書": []
         }
     ]
