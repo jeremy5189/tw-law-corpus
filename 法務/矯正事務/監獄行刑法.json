@@ -1,8 +1,8 @@
 {
     "title": "監獄行刑法",
     "versions": [
-        "中華民國91年5月17日修正",
-        "中華民國91年6月12日公布"
+        "中華民國91年12月27日修正",
+        "中華民國92年1月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -552,7 +552,7 @@
         {
             "note": "",
             "rule_no": "第八十一條",
-            "content": "　　對於受刑人累進處遇進至二級以上，悛悔向上，而與應許假釋情形相符合者，經監務委員會決議，報請法務部核准後，假釋出獄。\n　　犯刑法第二百二十一條至第二百三十條及其特別法之罪，而患有精神疾病之受刑人，於假釋前，應經輔導或治療；其辦法由法務部定之。\n　　報請假釋時，應附具足資證明受刑人確有悛悔情形之紀錄及監務委員會之決議。前項受刑人之假釋並應附具曾受輔導或治療之紀錄。",
+            "content": "　　對於受刑人累進處遇進至二級以上，悛悔向上，而與應許假釋情形相符合者，經假釋審查委員會決議，由監獄報請法務部核准後，假釋出獄。\n　　犯刑法第二百二十一條至第二百三十條及其特別法之罪，而患有精神疾病之受刑人，於假釋前，應經輔導或治療；其辦法，由法務部定之。\n　　報請假釋時，應附具足資證明受刑人確有悛悔情形之紀錄及假釋審查委員會之決議。前項受刑人之假釋並應附具曾受輔導或治療之紀錄。",
             "relates": {}
         },
         {
@@ -663,35 +663,40 @@
         }
     ],
     "law_reasons": {
-        "第五十八條": "　　一、第四項酌作文字修正。\n　　二、增訂第五項，明定沒入保證金之執行方式。\n　　三、為使保外醫治受刑人於保外醫治期間保持善行，並對保外醫治期間違反規定之受刑人有再行收監執行之法源依據，爰增訂第六項規定。\n　　四、為符合法律保留原則，爰增訂第七項明定保外醫治期間應遵守之事項與廢止許可之要件及程序之授權依據。\n　　五、原第五項規定移列第八項，並酌作文字修正。"
+        "第八十一條": "　　監獄組織通則第二十條規定，監獄應設假釋審查委員會審議受刑人之假釋事項，爰將第一項及第三項有關「監務委員會」審議受刑人假釋事項之規定，均修正為由「假釋審查委員會」為之。第一項並修正增列「由監獄」，以明確報請假釋之主體。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 11-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccbcf81c6cecccccfcec4cfcfcecec4cfcfcecd",
+            "會議日期": "910618",
+            "立法紀錄": "91卷45期3241號一冊 16-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccbce81c6cecbcacfcec4cfcfcec9c4cfcfcec9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcfc5cbc6c7d2cacfce"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 114-115頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccbcf81c6cecccacfcec4cfcececbc4cfcececa",
+            "進度": "委員會審查",
+            "會議日期": "911216",
+            "立法紀錄": "92卷4期3278號上冊 65-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccbce81c6cdcfcbcfcec4cfcfc9cac4cfcfc7cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 192-193頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccbcf81c6cecccacfcec4cfcec6cdc4cfcec6cc",
-            "關係文書": []
+            "會議日期": "911227",
+            "立法紀錄": "92卷3期3277號一冊 124-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccbce81c6cdcfcccfcec4cfcecdcbc4cfcecdc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecacfcdc5cbcecad2cbcec6"
+                ]
+            ]
         }
     ]
 }
