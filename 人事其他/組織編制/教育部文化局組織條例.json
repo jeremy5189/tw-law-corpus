@@ -1,12 +1,12 @@
 {
     "title": "教育部文化局組織條例",
     "versions": [
-        "中華民國56年8月26日制定",
-        "中華民國56年9月7日公布"
+        "中華民國62年7月10日廢止",
+        "中華民國62年7月25日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -106,93 +106,55 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「教育部文化局組織條例」係於56年9月7日制定公布，此次政府為統一大眾傳播事業事權，決定裁撤教育部文化局，將該局第三第四兩處併入行政院新聞局，而其所提出之行政院新聞局組織條例修正草案，亦已經立法院通過，咨請總統公布，為配合政府此項重大措施，自應依照中央法規標準法第21條第1款「機關裁併，有關法規無保留之必要者。」廢止之規定，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "560704",
-            "立法紀錄": "56卷2期號7冊 650-650頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc8cfcdc4cfc9cacfc4cfc9cacf",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcbcfcfc5cccfcfd2cccfcc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "560713",
-            "立法紀錄": "56卷8期號7冊 907-914頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc8cfc7c4cfc6cfc8c4cfc6cecb",
+            "會議日期": "620612",
+            "立法紀錄": "62卷44期600號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccecf81c9cdcacecbcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "560719",
-            "立法紀錄": "56卷1期號8冊 984-992頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfcec4cfc6c7cbc4cfc6c6cd",
+            "會議日期": "620616",
+            "立法紀錄": "62卷68期624號 24-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccecf81c9cdcacec9c7cfcfc4cfcfcdcbc4cfcfccc7",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "560726",
-            "立法紀錄": "56卷3期號8冊 1078-1082頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfccc4cecfc8c7c4cecfc7cd",
+            "會議日期": "620618",
+            "立法紀錄": "62卷69期625號 25-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccecf81c9cdcacec9c6cfcfc4cfcfcdcac4cfcfcbcd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "560802",
-            "立法紀錄": "56卷5期號8冊 1177-1182頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfcac4cecec8c8c4cecec7cd",
+            "會議日期": "620625",
+            "立法紀錄": "62卷72期628號 36-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccecf81c9cdcacec8cdcfcfc4cfcfccc9c4cfcfcacc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "560809",
-            "立法紀錄": "56卷7期號8冊 1249-1256頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfc8c4cecdcbc6c4cecdcac9",
+            "會議日期": "620627",
+            "立法紀錄": "62卷73期629號 35-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccecf81c9cdcacec8cccfcfc4cfcfcccac4cfcfcbcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "560815",
-            "立法紀錄": "56卷5期號8冊 1152-1165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfcac4cececacdc4cecec9ca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfceccc6cfcbcfcfc5c9c8cad2c9c7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "560822",
-            "立法紀錄": "56卷7期號8冊 1215-1230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfc8c4cecdcecac4cecdcccf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "560825",
-            "立法紀錄": "56卷8期號8冊 1264-1268頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfc7c4cecdc9cbc4cecdc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "560825",
-            "立法紀錄": "56卷8期號8冊 1268-1279頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfc7c4cecdc9c7c4cecdc8c6",
+            "會議日期": "620703",
+            "立法紀錄": "62卷50期606號 33-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccecf81c9cdcacecacfcfcfcfcec4cfcfccccc4cfcfcccb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "560826",
-            "立法紀錄": "56卷9期號8冊 1322-1333頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccfc681cac9ccc6cfc7cfc6c4cecccdcdc4cecccccc",
+            "會議日期": "620710",
+            "立法紀錄": "62卷52期608號 19-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcccecf81c9cdcacecacdcfcfcfcec4cfcfcec6c4cfcfcec6",
             "關係文書": []
         }
     ]
