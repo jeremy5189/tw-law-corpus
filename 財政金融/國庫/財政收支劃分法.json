@@ -1,10 +1,11 @@
 {
     "title": "財政收支劃分法",
     "versions": [
-        "中華民國54年6月8日修正",
-        "中華民國54年6月19日公布"
+        "中華民國57年6月18日修正",
+        "中華民國57年6月28日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -111,9 +112,9 @@
             "relates": {}
         },
         {
-            "note": "(縣市局稅範圍)",
+            "note": "(縣（市）（局）稅)",
             "rule_no": "第十六條",
-            "content": "　　左列各稅為縣（市）（局）稅：\n　　一、土地改良物稅　謂對土地改良物依法課徵之稅。在未徵收土地改良物稅之區域為房捐。\n　　二、契稅　謂在未徵收土地增值稅之區域，對不動產移轉依法課徵之稅。\n　　三、屠宰稅　謂屠宰牧畜依法課徵之稅。\n　　四、筵席及娛樂稅　謂對筵席及娛樂依法課徵之稅。\n　　五、其他特別稅課　謂適應地方自治事業之需要，經議會立法課徵之稅；但不得以已徵貨物稅或特產稅之貨物為課徵對象。\n　　前項第三款之屠宰稅，得由省就其總收入百分之十統籌分配所屬之縣（市）（局）。",
+            "content": "　　左列各稅為縣（市）（局）稅：\n　　一、土地改良物稅　謂對土地改良物依法課徵之稅。在未徵收土地改良物稅之區域為房屋稅。\n　　二、契稅　謂對不動產移轉依法課徵之稅。但開徵土地增值稅區域之土地不在此限。\n　　三、屠宰稅　謂對屠宰畜牧依法課徵之稅。\n　　四、筵席及娛樂稅　謂對筵席及娛樂依法課徵之稅。\n　　五、其他特別稅課　謂適應地方自治事業之需要，經議會立法課徵之稅。但不得以已徵貨物稅或特產稅之貨物為課徵對象。\n　　前項第三款之屠宰稅，得由省就其總收入百分之十，統籌分配所屬之縣（市）（局）。",
             "relates": {}
         },
         {
@@ -125,7 +126,7 @@
         {
             "note": "(稅課不得重徵或附加與其例外)",
             "rule_no": "第十八條",
-            "content": "　　各級政府對他級或同級政府之稅課，不得重徵或附加；但縣市教育科學文化支出比率，在年度預算中超過憲法規定最低標準百分之三十五部分，經各該縣市議會議決，並報經行政院核准，得在縣市稅課中不超過原稅捐率百分之三十徵收地方教育捐。\n　　各級地方政府不得對入境貨物課入境稅或通過稅。",
+            "content": "　　各級政府對他級或同級政府之稅課，不得重徵或附加。但市、縣教育科學文化支出比率，在年度預算中超過憲法規定最低標準百分之三十五部分，經各該市、縣議會議決，並報經行政院核准，得在本法第十六條所列各縣市稅課中不超過原稅捐率百分之三十徵收地方教育捐。\n　　各級地方政府不得對入境貨物課入境稅或通過稅。",
             "relates": {}
         },
         {
@@ -297,6 +298,88 @@
             "rule_no": "第三十九條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "570122",
+            "立法紀錄": "57卷6期號 355-355頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcfcfc9cfcfc4cfcccacac4cfcccaca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcfcfcccfcfc5cac6cbd2cac6c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "570405",
+            "立法紀錄": "57卷24期號 2284-2284頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecdcbcfcfc4cdcdc7cbc4cdcdc7cb",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcdcfcfc5cccbcad2cccbc8"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570307",
+            "立法紀錄": "57卷22期號 1186-1189頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecdcdcfcfc4cecec7c9c4cecec7c6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570411",
+            "立法紀錄": "57卷34期號 3004-3007頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecccbcfcfc4cccfcfcbc4cccfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570415",
+            "立法紀錄": "57卷35期號 3048-3051頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecccacfcfc4cccfcbc7c4cccfcace",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "570425",
+            "立法紀錄": "57卷36期號 3100-3104頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbceccc9cfcfc4cccecfcfc4cccecfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "570618",
+            "立法紀錄": "57卷45期號 14-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecbcacfcfcfcec4cfcfcecbc4cfcfcdce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcecfcccfcfc5c6c8d2cecfca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "570618",
+            "立法紀錄": "57卷45期號 21-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecbcacfcfcfcec4cfcfcdcec4cfcfcdcd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "570618",
+            "立法紀錄": "57卷45期號 22-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcece81cac8cbcecbcacfcfcfcec4cfcfcdcdc4cfcfcdcc",
+            "關係文書": []
         }
     ]
 }
