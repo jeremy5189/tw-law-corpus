@@ -1,8 +1,8 @@
 {
     "title": "陸海空軍獎勵條例",
     "versions": [
-        "中華民國83年12月29日修正",
-        "中華民國84年1月18日公布"
+        "中華民國91年6月4日修正",
+        "中華民國91年6月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,7 +66,7 @@
         {
             "note": "(頒給優勝獎章之事蹟)",
             "rule_no": "第十條",
-            "content": "　　陸、海、空軍現役軍人有左列事蹟之一者，得頒給優勝獎章：\n　　一、研究發明，有助於軍事作戰或軍事建設發展者。\n　　二、參加各種技能比賽，成績經評定最優，並達到規定標準者。\n　　三、修護保養競賽，符合要求標準，且成績特優者。\n　　四、就讀國內外大學獲得博士學位者。\n　　五、才藝優越，並有有關國防軍事著作，經審查合格者。\n　　軍事機關、團體有前項第一款至第三款事蹟之一者，得頒給獎狀。",
+            "content": "　　陸、海、空軍現役軍人有左列事蹟之一者，得頒給優勝獎章：\n　　一、研究發明，有助於軍事作戰或軍事建設發展者。\n　　二、參加各種戰鬥技能競賽，成績經評定最優，並達到規定標準者。\n　　三、參加各種後勤技能競賽，成績經評定最優，並達到規定標準者。\n　　四、就讀國內外大學獲得博士學位者或士官獲得國內外大學碩士學位者。\n　　五、著有有關國防軍事著作，經審查優異者。\n　　軍事機關、團體有前項第一款至第三款事蹟之一者，得頒給獎狀。",
             "relates": {}
         },
         {
@@ -137,47 +137,46 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　一、首句「獎金區分」修正為「獎金種類區分如左」，以期明確。\n　　二、本條例訂頒於民國六十年，其獎金數額已不符現況需要，故將現行條文所訂獎金數字刪除，俾利執行。",
-        "第十二條": "　　一、第一項第一款修正個人及團體數額。\n　　二、第二款以下、第二項及第三項同現行條文。"
+        "第十條": "　　參加各種戰鬥技能、後勤技能競賽，成績經評定最優，並達到規定標準者，得頒給優勝獎章，爰予修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "791130",
-            "立法紀錄": "79卷96期2416號 248-248頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c8c6cfc6c9cfcfc4cfcdcbc7c4cfcdcbc7",
+            "會議日期": "910507",
+            "立法紀錄": "91卷31期3227號上冊 13-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcd81c6cecccecfcec4cfcfceccc4cfcfcecc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c9cec6cfcfc5cacac8d2cac9cd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececfcfccc5cac9c8d2cac8cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830105",
-            "立法紀錄": "83卷6期2680號下冊 113-132頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c7cccfc9cfccc4cfcececcc4cfcecccd",
+            "會議日期": "910527",
+            "立法紀錄": "91卷50期3246號下冊 5-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcd81c6cecacfcfccc4cfcfcfcac4cfcfcecb",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 72-78頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c7cbcfcdcfcfc4cfcfc8cdc4cfcfc8c7",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "910604",
+            "立法紀錄": "91卷40期3236號一冊 321-323頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcd81c6cecbcfcfcec4cfcccdcec4cfcccdcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcecfcec5c9cdc6d2c9cccc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcdc5c6cad2cececd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "831229",
-            "立法紀錄": "84卷2期2759號 78-78頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfce81c7cbcfcdcfcfc4cfcfc8c7c4cfcfc8c7",
+            "會議日期": "910604",
+            "立法紀錄": "91卷40期3236號一冊 337-339頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcd81c6cecbcfcfcec4cfccccc8c4cfccccc6",
             "關係文書": []
         }
     ]
