@@ -1,10 +1,12 @@
 {
     "title": "中華民國六十六年度所得稅稅率條例",
     "versions": [
-        "中華民國67年3月22日期滿廢止"
+        "中華民國65年12月28日制定",
+        "中華民國65年12月30日公布"
     ],
     "types": [
-        "廢止理由"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
@@ -44,5 +46,66 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "651123",
+            "立法紀錄": "65卷94期953號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cf81c9cacac7c6cbcfcfcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcccfcfc5cbcbcfd2cbcccc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "651221",
+            "立法紀錄": "65卷102期961號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cf81c9cacac7cecfcdcfcfcfcec4cfcfcfccc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "651218",
+            "立法紀錄": "65卷13期976號 19-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cf81c9c9cac7cecccfcfc4cfcfcec6c4cfcfcdcd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "651222",
+            "立法紀錄": "66卷16期979號 2-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cf81c9c9cac7cec9cfcfc4cfcfcfcdc4cfcfcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "651228",
+            "立法紀錄": "65卷104期963號 3-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cf81c9cacac7cecfcbcfcfcfcec4cfcfcfccc4cfcfceca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac7cfcbcfcfc5cdcfcfd2cdcfc6"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "651228",
+            "立法紀錄": "65卷104期963號 15-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cf81c9cacac7cecfcbcfcfcfcec4cfcfcecac4cfcfcec8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "651228",
+            "立法紀錄": "65卷104期963號 17-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cecfc7cf81c9cacac7cecfcbcfcfcfcec4cfcfcec8c4cfcfcec8",
+            "關係文書": []
+        }
+    ]
 }
