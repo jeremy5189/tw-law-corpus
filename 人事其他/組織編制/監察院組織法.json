@@ -1,8 +1,8 @@
 {
     "title": "監察院組織法",
     "versions": [
-        "中華民國60年4月2日修正",
-        "中華民國60年4月14日公布"
+        "中華民國60年10月19日修正",
+        "中華民國60年11月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -78,7 +78,7 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　監察院置主任秘書一人，職位列第十至第十四職等；秘書十人至十三人，其中七人至九人，職位列第十至第十四職等，餘列第六至第九職等；組（室）主任七人至九人，由秘書兼任之；稽核二人，職位列第十至第十四職等；調查專員九人至十八人，其中三人至八人，職位列第十至第十四職等，餘列第六至第九職等；科長十一人，編審四人，職位均列第六至第九職等；速記長一人，職位列第八至第十二職等；速記員二人至四人，職位列第一至第五職等，其中一人或二人職位得列第六或第七職等；科員八人至二十人，職位列第一至第五職等，其中三人至八人職位得列第六或第七職等；辦事員五人至十人，職位列第一至第五職等；書記十五人至二十人，職位列第一至第三職等；藥劑員一人，護士二人，職位均列第一至第五職等。",
+            "content": "　　監察院置主任秘書一人，職位列第十至第十四職等，秘書十人至十三人，其中七人至九人，職位列第十至第十四職等，餘列第六至第九職等；組（室）主任七人至九人，由秘書兼任之；稽核二人，職位列第十至第十四職等；調查專員九人至十八人，其中三人至八人，職位列第十至第十四職等，餘列第六至第九職等；編纂二人職位列第十至第十四職等；科長十一人，編審二人，職位均列第六至第九職等；速記長一人，職位列第八至第十二職等；速記員二人至四人，職位列第一至第五職等，其中一人或二人職位得列第六或第七職等；科員八人至二十人，職位列第一至第五等，其中三人至八人職位得列第六或第七職等；辦事員五人至十人，職位列第一至第三職等；書記十五人至二十人，職位列第一至第三職等；藥劑員一人，護士二人，職位均列第一至第五職等。",
             "relates": {}
         },
         {
@@ -107,52 +107,53 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　於組之下設科，多設一階層，俾原有工作人員之升遷，得有迴翔餘地。",
-        "第十一條": "　　為配合職位分類之施行應予修正。",
-        "第十二條": "　　修正要點，係將原有聘用專門委員改為任用人員，並就原有之編制員額，重作職稱之調整，與各職稱人數多少之安排。",
-        "第十三條": "　　一、第一項酌作文字修正。\n　　二、第二、三、四項各職稱之職等，分別定其職等之高低，並將雇員改稱書記，俾與職位分類新制相符。",
-        "第十四條": "　　本法條文內缺乏有關職位職系之規定，故予以增訂。",
-        "第十五條": "　　條次修改。",
-        "第十六條": "　　條次修改。　　"
+        "第十二條": "　　為加強推進該院實錄整編工作，充實其現有人事配備，並謀解決辦理職位分類歸級之困難，擬在不增加員額之下，將此條文所規定編制員額內「編審四人，職位列第六至第九職等」，改為「編纂四人，職位列第十至第十四職等」，藉以適應業務之需要。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600330",
-            "立法紀錄": "60卷22期376號 17-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc681c9cfcbc8cdcdcfcfcfcec4cfcfcec8c4cfcfcec6",
+            "會議日期": "600618",
+            "立法紀錄": "60卷45期399號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacf81c9cfcbc8cbcacfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "監察院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcbcfcdcfcfc5cbcdcdd2cbcdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5cececfc8d2cecececf"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "600719",
+            "立法紀錄": "60卷62期416號 1-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacf81c9cfcbc8c9cdcfcfcfcdc4cfcfcfcec4cfcfcfcb",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "600330",
-            "立法紀錄": "60卷22期376號 19-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc681c9cfcbc8cdcdcfcfcfcec4cfcfcec6c4cfcfccc6",
+            "會議日期": "601019",
+            "立法紀錄": "60卷80期433號 11-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacf81c9cfcbc7c7cfcfcfcfcec4cfcfcecec4cfcfcecb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcecfcfc5c7c6ced2c6cfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcecfcfc5c8c8cbd2c8c8c8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "600330",
-            "立法紀錄": "60卷22期376號 39-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc681c9cfcbc8cdcdcfcfcfcec4cfcfccc6c4cfcfcbcd",
+            "會議日期": "601019",
+            "立法紀錄": "60卷80期433號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacf81c9cfcbc7c7cfcfcfcfcec4cfcfcecbc4cfcfcecb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "600402",
-            "立法紀錄": "60卷23期377號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccbc681c9cfcbc8cdcccfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "601019",
+            "立法紀錄": "60卷80期433號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfc9cccacf81c9cfcbc7c7cfcfcfcfcec4cfcfcecbc4cfcfcecb",
             "關係文書": []
         }
     ]
