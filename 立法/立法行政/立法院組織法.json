@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國75年5月2日修正",
-        "中華民國75年5月14日公布"
+        "中華民國77年5月20日修正",
+        "中華民國77年6月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -167,6 +167,12 @@
         },
         {
             "note": "",
+            "rule_no": "第二十六條 之一",
+            "content": "　　立法院設立法諮詢中心，置主任一人，由副秘書長兼任；立法助理二十人至三十人，職務列簡任第十職等至第十二職等或薦任第八職等至第九職等；掌理法律案、預算案之研究、分析、評估、諮詢及其他有關立法資料之編譯等事項。\n　　立法諮詢中心得分法案、預算、編譯三組辦事；所需工作人員由秘書處調派之。\n　　前項編譯組之立法助理，必要時得依聘用人員聘用條例之規定聘用之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第二十七條",
             "content": "　　立法院處務規程，由立法院秘書長擬訂，經院長核定，報告院會後施行。",
             "relates": {}
@@ -179,34 +185,74 @@
         }
     ],
     "law_reasons": {
-        "第二十五條": "　　將現雇具有任用資格之藥護檢技人員，納入正式編制，以期名實相副，而增強服務效能。"
+        "第二十六條 之一": "　　法律之制定，預算案之審查為立法機關最重要之職責，而法案與預算案內容日趨繁重、複雜，為提升議事案品質，建立立法助理制度以協助立法委員行使立法權實有必要，故增列立法院組織法第二十六條之一條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "750429",
-            "立法紀錄": "75卷35期1937號 21-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ce81c8cacfcccacfcfc4cfcfcdcec4cfcfcdca",
-            "主提案": "鄧翔宇",
+            "會議日期": "761009",
+            "立法紀錄": "76卷81期2088號 77-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cd81c8c9cfc7cecfcfc4cfcfc8c8c4cfcfc8c7",
+            "主提案": "費希平",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cfc7cfcfc5cbc9c7d2cbc8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c8cfc8cfcfcdc5cdcacb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "760611",
+            "立法紀錄": "76卷99期2106號 145-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cd81c8c9cfc6c6cfcfc4cfcecbcac4cfcec9cf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "761014",
+            "立法紀錄": "77卷17期2128號 194-206頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cd81c8c8cfcec8cfcfc4cfcec6cbc4cfcdcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "761107",
+            "立法紀錄": "77卷26期2137號 228-234頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cd81c8c8cfcdc9cfcfc4cfcdcdc7c4cfcdcccb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "770427",
+            "立法紀錄": "77卷84期2195號 201-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cd81c8c8cfc7cbcfcfc4cfcdcfcec4cfcdcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "770517",
+            "立法紀錄": "77卷40期2151號 12-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cd81c8c8cfcbcfcfcfc4cfcfcecdc4cfcfcbc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cececccfcfc5cdcbc7d2cdcaca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "750429",
-            "立法紀錄": "75卷35期1937號 25-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ce81c8cacfcccacfcfc4cfcfcdcac4cfcfcdc9",
+            "會議日期": "770520",
+            "立法紀錄": "77卷41期2152號 22-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cd81c8c8cfcbcecfcfc4cfcfcdcdc4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "750502",
-            "立法紀錄": "75卷36期1938號 10-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8ce81c8cacfccc9cfcfc4cfcfcecfc4cfcfcece",
+            "會議日期": "770520",
+            "立法紀錄": "77卷41期2152號 33-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c8cd81c8c8cfcbcecfcfc4cfcfccccc4cfcfcccb",
             "關係文書": []
         }
     ]
