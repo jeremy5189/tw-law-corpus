@@ -1,12 +1,12 @@
 {
     "title": "機關營繕工程及購置定製變賣財物稽察條例",
     "versions": [
-        "中華民國61年5月12日全文修正",
-        "中華民國61年5月26日公布"
+        "中華民國88年5月11日廢止",
+        "中華民國88年6月2日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -232,58 +232,44 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「機關營繕工程及購置定製變賣財物稽察條例」（以下簡稱稽察條例）為各機關辦理採購之主要依據，對各機關工程施作及財物採購弊端之防杜具有相當績效。惟施行近五十年，已逐漸無法滿足時代需求，且稽察條例涵括事前審計及事後審計，肇致行政權與監察權混淆不清，故行政部門及監察部門因而研議另訂政府採購法，以取代目前包含於審計法規體系之採購法規。茲政府採購法已於八十七年五月一日三讀通過，故廢止本法。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "580527",
-            "立法紀錄": "58卷39期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c6cfcfce81cac7cbccccc6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "監察院",
+            "會議日期": "880330",
+            "立法紀錄": "88卷13期3013號上冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c6cfcfcd81c7c7cecccfcec4cfcfcfcec4cfcfcfce",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcccfcdcfcfc5c7cfcdd2c7cdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcfc5cdcfcdd2cdcdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601229",
-            "立法紀錄": "61卷10期463號 2-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c6cfcfce81c9cecbc7cecfcfcfc4cfcfcfcdc4cfcfcfc6",
+            "會議日期": "880408",
+            "立法紀錄": "88卷18期3018號中冊 97-102頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c6cfcfcd81c7c7cec7cfcdc4cfcfc6c8c4cfcecfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "610414",
-            "立法紀錄": "61卷30期483號 15-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c6cfcfce81c9cecbc6cccfcfcfcfcec4cfcfcecac4cfcfcbc8",
+            "會議日期": "880511",
+            "立法紀錄": "88卷25期3025號一冊 66-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c6cfcfcd81c7c7cdcacfcec4cfcfc9c9c4cfcfc7cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5cececed2ceccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecececfcec5c9c8ccd2c9c6cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610414",
-            "立法紀錄": "61卷30期483號 47-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c6cfcfce81c9cecbc6cccfcfcfcfcec4cfcfcbc8c4cfcfcacb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610421",
-            "立法紀錄": "61卷32期485號 6-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c6cfcfce81c9cecbc6cccdcfcfcfcec4cfcfcfc9c4cfcfcdc9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "610512",
-            "立法紀錄": "61卷38期491號 3-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8c6cfcfce81c9cecbc6ccc7cfcfcfcec4cfcfcfccc4cfcfcfc6",
+            "會議日期": "880511",
+            "立法紀錄": "88卷25期3025號一冊 84-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c6cfcfcd81c7c7cdcacfcec4cfcfc7cbc4cfcfc7cb",
             "關係文書": []
         }
     ]
