@@ -1,8 +1,8 @@
 {
     "title": "僑務委員會組織法",
     "versions": [
-        "中華民國61年8月4日全文修正",
-        "中華民國61年8月15日公布"
+        "中華民國70年12月11日全文修正",
+        "中華民國70年12月21日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,13 +12,13 @@
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　僑務委員會掌理僑務行政及輔導僑民事業事項。",
+            "content": "　　僑務委員會掌理僑務行政及輔導華僑事業事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　僑務委員會置委員長一人，特任；副委員長二人，職位比照第十四職等；委員若干人，為無給職。但在中央政府所在地供職者，得酌支公費。",
+            "content": "　　僑務委員會置委員長一人，特任；副委員長二人或三人，職位比照第十四職等；委員九十人至一百八十人，任期三年，為無給職。但在中央政府所在地供職者，得酌支公費。",
             "relates": {}
         },
         {
@@ -30,90 +30,120 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　僑務委員會委員長綜理會務，監督所屬職員及機關，副委員長輔助委員長處理會務。",
+            "content": "　　僑務委員會委員長綜理會務，指揮、監督所屬職員及機關；副委員長輔助委員長處理會務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　僑務委員會設左列各處：\n　　一、第一處。\n　　二、第二處。\n　　三、第三處。\n　　四、第四處。",
+            "content": "　　僑務委員會設左列各處、室：\n　　一、第一處。\n　　二、第二處。\n　　三、第三處。\n　　四、第四處。\n　　五、僑生輔導室。\n　　六、華僑證照服務室。\n　　七、秘書室。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　第一處之職掌如左：\n　　一、關於僑民狀況之調查事項。\n　　二、關於僑民移殖之輔導事項。\n　　三、關於僑民糾紛之處理事項。\n　　四、關於僑民團體之輔導事項。\n　　五、關於僑民之獎勵及補助事項。\n　　六、關於僑民福利之輔導事項。\n　　七、關於其他僑務事項。",
+            "content": "　　第一處掌理左列事項：\n　　一、關於華僑狀況之調查事項。\n　　二、關於華僑糾紛之處理事項。\n　　三、關於華僑團體之輔導事項。\n　　四、關於華僑之獎勵及補助事項。\n　　五、關於華僑福利之輔導事項。\n　　六、關於其他僑務事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　第二處之職掌如左：\n　　一、關於僑民學校教育之指導、監督事項。\n　　二、關於僑民社會教育推廣事項。\n　　三、關於僑民職業教育推行事項。\n　　四、關於僑民文化傳播事業輔導事項。\n　　五、關於其他僑民文教事項。",
+            "content": "　　第二處掌理左列事項：\n　　一、關於華僑學校教育之指導、監督事項。\n　　二、關於華僑社會教育推廣事項。\n　　三、關於華僑職業教育推行事項。\n　　四、關於華僑文化傳播事業輔導事項。\n　　五、關於其他華僑文教事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　第三處之職掌如左：\n　　一、關於僑民回國投資之鼓勵、協助事項。\n　　二、關於僑民貿易、金融之協助、聯繫事項。\n　　三、關於海外僑營企業發展之協助事項。\n　　四、關於僑民經濟資料之調查、分析、編報事項。\n　　五、關於其他僑民經濟事項。",
+            "content": "　　第三處掌理左列事項：\n　　一、關於華僑回國投資之鼓勵、協助事項。\n　　二、關於華僑貿易、金融之協助、聯繫事項。\n　　三、關於海外僑營企業發展之協助事項。\n　　四、關於華僑經濟資料之調查、分析、編報事項。\n　　五、關於其他華僑經濟事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　第四處之職掌如左：\n　　一、關於文書之撰擬、收發、繕校及保管事項。\n　　二、關於印信典守事項。\n　　三、關於出納及庶務事項。\n　　四、關於公產、公物之保管事項。\n　　五、關於出版物之刊行事項。\n　　六、其他不屬於各處之事項。",
+            "content": "　　第四處掌理左列事項：\n　　一、關於文件之收發、分配、繕校、保管及印信典守事項。\n　　二、關於款項之出納事項。\n　　三、關於公產、公物之保管事項。\n　　四、關於事務管理事項。\n　　五、關於出版物之印發事項。\n　　六、關於僑情資料之電子處理事項。\n　　七、其他不屬於各處、室之事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　僑務委員會設僑生輔導室，置主任一人，職位列第八至第十二職等，辦理有關回國僑生輔導事項；其所需工作人員，應就本法所定員額內派充之。",
+            "content": "　　僑生輔導室掌理左列事項：\n　　一、關於僑生回國升學輔導事項。\n　　二、關於在學僑生生活輔導事項。\n　　三、關於畢業僑生聯繫服務事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　僑務委員會為適應海外需要，得辦理華僑函授學校及華僑通訊社；其所需工作人員，除就本法所定員額內派充外，得依聘用人員聘用條例之規定聘用之。",
+            "content": "　　華僑證照服務室掌理左列事項：\n　　一、關於國內人民與華僑移殖、探親、應聘等輔導事項。\n　　二、關於華僑入出境服務事項。\n　　三、關於華僑身分及印鑑證明事項。\n　　四、關於僑團、僑胞回國接待事項。\n　　五、關於歸國華僑服務事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　僑務委員會置參事二人或三人，主任秘書一人，處長四人，專門委員五人至九人，職位均列第十至第十四職等；副處長四人，職位列第八至第十二職等；秘書四人至六人，視察六人至十人，科長十六人至十八人，專員十人至二十人，稽核一人，職位均列第六至第九職等，其中秘書二人，視察二人，職位得列第十至第十二職等；科員五十六人至七十六人，辦事員二十一人至三十五人，職位均列第一至第五職等，其中科員十二人至十八人，職位得列第六或第七職等，書記二十人至三十八人，職位列第一至第三職等。",
+            "content": "　　秘書室掌理左列事項：\n　　一、關於機要公文、密電之處理及保管事項。\n　　二、關於文稿之撰擬、覆核、彙報事項。\n　　三、關於會務會報之議事事項。\n　　四、關於年度施政方針、施政計畫及工作報告之彙編事項。\n　　五、關於施政之研究、發展、管制及考核事項。\n　　六、關於文書稽催及查詢事項。\n　　七、關於公共關係及新聞發布事項。\n　　八、委員長、副委員長交辦事項。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　僑務委員會設人事室、主計室，各置主任一人，職位均列第六至第九職等，依法律規定，分別辦理人事、歲計、會計及統計事項。\n　　前項各室所需工作人員，應就本法所定員額內派充之。",
+            "content": "　　僑務委員會為適應海外需要，得辦理華僑函授學校及華僑通訊社；所需工作人員，除就本法所定員額內派充外，得依聘用人員聘用條例之規定聘用之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　僑務委員會得聘用顧問，為無給職。",
+            "content": "　　僑務委員會置主任秘書一人，參事三人或四人，處長四人，專門委員九人至十一人，職位均列第十至第十二職等；室主任二人，副處長四人，職位均列第九至第十一職等；秘書六人至十人，視察十人至十四人，科長十八人至二十六人，專員二十二人至三十八人，稽核一人，職位均列第六至第九職等，其中秘書四人，視察五人，職位得列第十或第十一職等；科員七十五人至九十三人，職位列第三至第五職等，其中二十四人至三十二人，職位得列第六或第七職等；辦事員三十二人至五十八人，職位列第三或第四職等；書記三十四人至四十六人，職位列第一至第三職等。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　第十二條及第十三條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就僑務行政、一般行政管理、新聞行政、一般教育行政、學校教育行政、社會教育行政、經建行政、商業行政、社會行政、人事行政、稽核、會計、統計及其他有關職系選用之。",
+            "content": "　　僑務委員會設會計室、統計室，各置主任一人，職位均列第六至第九職等；人事室置主任一人，副主任一人，職位均列第六至第九職等；依法律規定，分別辦理歲計、會計、統計及人事事項。\n　　前項各室所需工作人員，應就本法所定員額內派充之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　僑務委員會會議規則，由僑務委員會擬訂，呈請行政院核定之。",
+            "content": "　　僑務委員會得在國內重要機場、港口設服務站，置主任一人，由專員兼任；所需工作人員，應就本法所定員額內派充之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十七條",
-            "content": "　　僑務委員會處務規程，由僑務委員會定之。",
+            "content": "　　僑務委員會得報請行政院核准，在重要地區政府駐外機構內派駐僑務工作人員，協辦僑務工作；其員額由行政院視實際需要核定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十八條",
+            "content": "　　僑務委員會因業務需要，得報請行政院核准，設各種委員會；所需工作人員，應就本法所定員額內派充之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十九條",
+            "content": "　　僑務委員會得聘用顧問，為無給職。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第二十條",
+            "content": "　　第十四條至第十六條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就僑務行政、一般行政管理、法制、新聞行政、一般教育行政、學校教育行政、社會教育行政、經建行政、商業行政、社會行政、人事行政、稽核、會計、統計及其他有關職系選用之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第二十一條",
+            "content": "　　僑務委員會會議規則，由僑務委員會擬訂，報請行政院核定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第二十二條",
+            "content": "　　僑務委員會處務規程，由僑務委員會定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第二十三條",
             "content": "　　本法自公布日施行。",
             "relates": {}
         }
@@ -121,111 +151,90 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600604",
-            "立法紀錄": "60卷41期395號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cfcbc8cbcecfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "701016",
+            "立法紀錄": "70卷83期1464號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c7cccfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c6ccc6d2c6cac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcbcfcfc5cecfd2cdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601023",
-            "立法紀錄": "60卷100期453號 38-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cfcbc7cecfcfcfcfcfcdc4cfcfccc7c4cfcfcbcb",
+            "會議日期": "701028",
+            "立法紀錄": "71卷17期1502號 147-157頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cec9c7cec8cfcfc4cfcecbc8c4cfcecac8",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "601030",
-            "立法紀錄": "61卷2期455號 6-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc7cfcdcfcfcfcdc4cfcfcfc9c4cfcfcece",
+            "會議日期": "701104",
+            "立法紀錄": "71卷18期1503號 136-148頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cec9c7cec7cfcfc4cfceccc9c4cfcecbc7",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "610301",
-            "立法紀錄": "61卷45期498號 30-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6cbcacfcfcfcdc4cfcfcccfc4cfcfccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610311",
-            "立法紀錄": "61卷46期499號 35-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6cbc9cfcfcfcdc4cfcfcccac4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "610318",
-            "立法紀錄": "61卷48期501號 7-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6cbc7cfcfcfcdc4cfcfcfc8c4cfcfceca",
+            "會議日期": "701111",
+            "立法紀錄": "71卷19期1504號 133-140頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cec9c6cec6cfcfc4cfceccccc4cfcecbcf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "610523",
-            "立法紀錄": "61卷41期494號 16-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6cbcecfcfcfcec4cfcfcec9c4cfcfccc6",
+            "會議日期": "701124",
+            "立法紀錄": "70卷94期1475號 5-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6cbcfcfc4cfcfcfcac4cfcfcdc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcccfcfc5cacfd2c8cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c7cfcacfcfc5c8c8ced2c8c7ca"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610602",
-            "立法紀錄": "61卷44期497號 6-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6cbcbcfcfcfcec4cfcfcfc9c4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610711",
-            "立法紀錄": "61卷55期508號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6cacacfcfcfcec4cfcfcfccc4cfcfcfcb",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "701124",
+            "立法紀錄": "70卷94期1475號 26-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6cbcfcfc4cfcfcdc9c4cfcfcbcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "610711",
-            "立法紀錄": "61卷55期508號 6-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6cacacfcfcfcec4cfcfcfc9c4cfcfcdcb",
+            "會議日期": "701127",
+            "立法紀錄": "70卷95期1476號 5-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6cacfcfc4cfcfcfcac4cfcfcdc9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "610714",
-            "立法紀錄": "61卷56期509號 19-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6cac9cfcfcfcec4cfcfcec6c4cfcfcccf",
+            "會議日期": "701201",
+            "立法紀錄": "70卷96期1477號 4-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6c9cfcfc4cfcfcfcbc4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "610728",
-            "立法紀錄": "61卷60期513號 3-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6c9cfcfcfcfcec4cfcfcfccc4cfcfcdcc",
+            "會議日期": "701204",
+            "立法紀錄": "70卷97期1478號 14-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6c8cfcfc4cfcfcecbc4cfcfcdce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "610801",
-            "立法紀錄": "61卷61期514號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6c9cecfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "701208",
+            "立法紀錄": "70卷98期1479號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6c7cfcfc4cfcfcfcac4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "610804",
-            "立法紀錄": "61卷62期515號 2-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc881c9cecbc6c9cdcfcfcfcec4cfcfcfcdc4cfcfcecc",
+            "會議日期": "701211",
+            "立法紀錄": "70卷99期1480號 5-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc9ccc681c8cfc9c7c6c6cfcfc4cfcfcfcac4cfcfcfc7",
             "關係文書": []
         }
     ]
