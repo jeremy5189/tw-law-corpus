@@ -1,8 +1,8 @@
 {
     "title": "藥師法",
     "versions": [
-        "中華民國88年11月30日修正",
-        "中華民國88年12月22日公布"
+        "中華民國92年1月13日修正",
+        "中華民國92年2月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -188,7 +188,7 @@
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　藥師公會分縣（市）公會及省（市）公會，並得設全國藥師公會聯合會於中央政府所在地。",
+            "content": "　　藥師公會分縣（市）公會及省（市）公會，並得設全國藥師公會聯合會於中央政府所在地。\n　　藥師公會會址，應設於各該公會主管機關所在地區。但經各該主管機關核准者，不在此限。",
             "relates": {}
         },
         {
@@ -235,6 +235,12 @@
         },
         {
             "note": "",
+            "rule_no": "第三十四條 之一",
+            "content": "　　上級藥師公會理事、監事之當選不限於下級藥師公會選派參加之會員代表。\n　　下級藥師公會選派參加上級藥師公會之會員代表，不限於下級藥師公會之理事、監事。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第三十五條",
             "content": "　　藥師公會每年開會員（代表）大會一次，必要時得召開臨時大會。\n　　藥師公會會員人數超過三百人以上時，得就會員分布狀況劃定區域，由各區域會員選舉代表，召開會員代表大會，行使會員大會之職權。\n　　前項會員代表之名額，依各區域會員人數比例定之。",
             "relates": {}
@@ -270,13 +276,19 @@
         {
             "note": "",
             "rule_no": "第四十條",
-            "content": "　　依藥事法所定之藥劑生，其資格及管理辦法，由行政院衛生署定之。",
+            "content": "　　依藥事法所定之藥劑生，其資格、執業、組織及管理辦法，由中央衛生主管機關定之。\n　　藥劑生違反依前項規定所定辦法者，依各該處罰藥師規定之方式及額度處罰之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四十一條",
             "content": "　　中藥之販賣、監製及調劑，由行政院衛生署依藥事法有關規定，訂定辦法管理之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第四十一條 之一",
+            "content": "　　中央或直轄市、縣（市）衛生主管機關依本法核發證書或執照時，得收取證書費或執照費；其費額，由中央衛生主管機關定之。",
             "relates": {}
         },
         {
@@ -293,56 +305,64 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　為配合臺灣省政府功能業務與組織之調整，將條文中之「省衛生處」刪除。另將直轄市衛生主管機關之層級提升為「直轄市政府」，以與地方制度法將地方自治團體之組織列為其自治事項之立法意旨相配合。",
-        "第十五條": "　　「藥物藥商管理法」於八十二年間修正公布全文時，業將名稱修正為「藥事法」，第二項配合修正相關文字。",
-        "第四十條": "　　「藥物藥商管理法」於八十二年間修正公布全文時，業將名稱修正為「藥事法」，配合修正相關文字。",
-        "第四十一條": "　　「藥物藥商管理法」於八十二年間修正公布全文時，業將名稱修正為「藥事法」，配合修正相關文字。"
+        "第二十七條": "　　一、原條文未修正，列為第一項。\n　　二、配合行政程序法之施行，將本法施行細則第八條規定移列修正為第二項。",
+        "第三十四條 之一": "　　一、本條新增。\n　　二、配合行政程序法之即將施行，將本法施行細則第二十四條規定移列。",
+        "第四十條": "　　原藥劑生之執業、組織、管理及處罰，係依藥劑生資格及管理辦法之規定，惟其乃與藥劑生執業權利義務有重大關涉，應以法律定之，爰配合行政程序法之施行，考量實務需求並參照現行法律適用情形，酌予修正。",
+        "第四十一條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將本條例施行細則第二十九條規定修正移列。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881015",
-            "立法紀錄": "88卷44期3044號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cbcbcfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "910510",
+            "立法紀錄": "91卷33期3229號上冊 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccc881c6cecccccfcec4cfcfcecec4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdcbcbd2cdcbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2c8"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5cecbcfd2cecbcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881125",
-            "立法紀錄": "88卷55期3055號下冊 223-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cacacfccc4cfcdcdccc4cfcdcccf",
+            "會議日期": "920102",
+            "立法紀錄": "92卷9期3283號上冊 269-300頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccc881c6cdcfc6cfcec4cfcdc9c6c4cfcccfcf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 154-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cacdcfcec4cfcecacbc4cfcecac9",
+            "會議日期": "920113",
+            "立法紀錄": "92卷8期3282號二冊 470-479頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccc881c6cdcfc7cfcdc4cfcbc8cfc4cfcbc8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5cac9d2cac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfcec5c9c8c6d2c9c7cc"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfcec5c9c7c9d2c9c7c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 156-157頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cacdcfcec4cfcecac9c4cfcecac8",
+            "會議日期": "920113",
+            "立法紀錄": "92卷8期3282號二冊 479-480頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccc881c6cdcfc7cfcdc4cfcbc8c6c4cfcbc7cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "881130",
-            "立法紀錄": "88卷52期3052號上冊 157-157頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccca81c7c7cacdcfcec4cfcecac8c4cfcecac8",
+            "會議日期": "920113",
+            "立法紀錄": "92卷8期3282號二冊 480-480頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccc881c6cdcfc7cfcdc4cfcbc7cfc4cfcbc7cf",
             "關係文書": []
         }
     ]
