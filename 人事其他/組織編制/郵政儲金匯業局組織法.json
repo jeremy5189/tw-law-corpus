@@ -1,12 +1,12 @@
 {
     "title": "郵政儲金匯業局組織法",
     "versions": [
-        "中華民國69年6月27日全文修正",
-        "中華民國69年7月7日公布"
+        "中華民國93年6月11日廢止",
+        "中華民國93年6月23日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -70,59 +70,38 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「郵政儲金匯業局組織法」、「郵政儲金法」、「郵政國內匯兌法」、「交通部郵政總局組織法」、「交通部郵政總局郵區管理局組織通則」，配合郵政機關於民國92年1月1日改制為中華郵政股份有限公司，其有關規定已分由「郵政儲金匯兌法」及「中華郵政股份有限公司設置條例」加以規範，無繼續存在之必要，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0690304",
-            "立法紀錄": "69卷19期1295號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9c681c9c6c9cacec6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "920307",
+            "立法紀錄": "92卷12期3286號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc8ce81c6cdcecdcfcfc4cfcfcfcbc4cfcfcfca",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcdcfcfc5cccfcbd2cccccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcdcfcec5cdcecfd2cdcdcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "690322",
-            "立法紀錄": "69卷49期1325號 26-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9c681c9c6c9cacbc6cfcfc4cfcfcdc9c4cfcfccc9",
+            "會議日期": "930531",
+            "立法紀錄": "93卷34期3368號四冊 371-386頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc8ce81c6cccccbcfcbc4cfccc8cec4cfccc7c9",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "690602",
-            "立法紀錄": "69卷81期1357號 47-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9c681c9c6c9c9c7cecfcfc4cfcfcbc8c4cfcfcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "690609",
-            "立法紀錄": "69卷81期1357號 52-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9c681c9c6c9c9c7cecfcfc4cfcfcacdc4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "690609",
-            "立法紀錄": "69卷51期1327號 51-66頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9c681c9c6c9cacacecfcfc4cfcfcacec4cfcfc9c9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cdccc7d2cdcacd"
-                ]
-            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "690627",
-            "立法紀錄": "69卷52期1328號 7-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbccc9c681c9c6c9cacacdcfcfc4cfcfcfc8c4cfcfcfc6",
-            "關係文書": []
+            "會議日期": "930611",
+            "立法紀錄": "93卷34期3368號一冊 200-208頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbccc8ce81c6cccccbcfcec4cfcdcfcfc4cfcdcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecbcfcec5cbc7c9d2cbc6c7"
+                ]
+            ]
         }
     ]
 }
