@@ -1,12 +1,12 @@
 {
     "title": "會計法",
     "versions": [
-        "中華民國61年3月31日全文修正",
-        "中華民國61年4月15日公布"
+        "中華民國91年4月25日修正",
+        "中華民國91年5月15日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -70,7 +70,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　中央、省（市）、縣（市）政府之會計，各為一總會計。",
+            "content": "　　中央、直轄市、縣（市）、鄉（鎮、市）之會計，各為一總會計。",
             "relates": {}
         },
         {
@@ -766,65 +766,28 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十條": "　　一、配合地方制度法第十四條及財政收支劃分法第三條，爰增列鄉（鎮、市）之會計為一總會計。\n　　二、配合臺灣省政府功能業務與組織調整，將省之會計為一總會計之規定刪除。\n　　三、查目前各級政府總會計，係分別以「中央總會計制度」、「臺北市總會計制度」、「高雄市總會計制度」、「臺灣省各縣（市）總會計制度」之名稱定之，為符實際，爰將「政府」二字刪除。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "600112",
-            "立法紀錄": "60卷3期0號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac8c681c9cfcbc9cfcccfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "910423",
+            "立法紀錄": "91卷28期3224號上冊 444-447頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcac7ce81c6cecdc7cfcec4cfcbcbcbc4cfcbcbc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcbcfcfc5cbcacfd2cacdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5c9c8cad2c8cdcc"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600408",
-            "立法紀錄": "60卷88期441號 36-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac8c681c9cfcbc7c7c7cfcfcfcdc4cfcfccc9c4cfcfcbca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "601020",
-            "立法紀錄": "60卷89期442號 7-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac8c681c9cfcbc7c7c6cfcfcfcdc4cfcfcfc8c4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "610324",
-            "立法紀錄": "61卷24期477號 5-98頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac8c681c9cecbc6cdcbcfcfcfcec4cfcfcfcac4cfcfc6c7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcdcfcfc5cbcec7d2cbc6ca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610324",
-            "立法紀錄": "61卷24期477號 98-119頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac8c681c9cecbc6cdcbcfcfcfcec4cfcfc6c7c4cfcecec6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "610328",
-            "立法紀錄": "61卷25期478號 3-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac8c681c9cecbc6cdcacfcfcfcec4cfcfcfccc4cfcfcdce",
-            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "610331",
-            "立法紀錄": "61卷26期479號 2-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac8c681c9cecbc6cdc9cfcfcfcec4cfcfcfcdc4cfcfcdc7",
+            "會議日期": "910425",
+            "立法紀錄": "91卷28期3224號上冊 450-450頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcac7ce81c6cecdc7cfcec4cfcbcacfc4cfcbcacf",
             "關係文書": []
         }
     ]
