@@ -1,11 +1,12 @@
 {
     "title": "戰時軍律",
     "versions": [
-        "中華民國39年10月20日制定",
-        "中華民國39年11月2日公布"
+        "中華民國91年12月10日廢止",
+        "中華民國91年12月25日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -97,6 +98,47 @@
             "rule_no": "第十五條",
             "content": "　　本軍律自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　一、「戰時軍律」係為維護「戰時」紀律，於民國三十九年十一月二日所制定公布之特別軍事刑法。施行迄今，因其部分罪名之構成要件有欠嚴謹，且刑罰特重，多數條文均已不符現況，自九十年九月二十八日修正公布施行之「陸海空軍刑法」，已就本軍律有關犯罪，檢討納入規範，足堪應付戰時之需。\n　　二、依中央法規標準法第二十一條第四款規定，同一事項已定有新法規，並公布或發布施行者，舊法規應予廢止。本軍律規範事項，既已納入「陸海空軍刑法」中予以規範，自應予廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "911025",
+            "立法紀錄": "91卷63期3259號上冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbcd81c6cec9cccfcec4cfcfcfc9c4cfcfcfc9",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc9cfcec5ccceccd2cccec8"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "911121",
+            "立法紀錄": "91卷77期3273號四冊 85-92頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbcd81c6cec8c8cfcbc4cfcfc7cac4cfcfc6cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "911210",
+            "立法紀錄": "91卷75期3271號二冊 160-163頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbcd81c6cec8cacfcdc4cfcec9cfc4cfcec9cc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "911210",
+            "立法紀錄": "91卷75期3271號二冊 160-163頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbcd81c6cec8cacfcdc4cfcec9cfc4cfcec9cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecdcfcdc5cbcec9d2cbcdcf"
+                ]
+            ]
         }
     ]
 }
