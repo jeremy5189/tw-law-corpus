@@ -1,8 +1,8 @@
 {
     "title": "鐵路法",
     "versions": [
-        "中華民國46年12月20日制定",
-        "中華民國47年1月3日公布"
+        "中華民國48年1月9日修正",
+        "中華民國48年1月21日公布"
     ],
     "types": [
         "立法歷程",
@@ -350,7 +350,7 @@
         {
             "note": "",
             "rule_no": "第五十四條",
-            "content": "　　運送物遇有喪失毀損之賠償，依民法之規定，但其請求權依本法第五十八條之規定。\n　　行李貴重品動物及已繳保償費之運送物，其損害賠償依其契約。",
+            "content": "　　運送物遇有喪失毀損之賠償，依民法之規定，但其請求權依本法第五十八條之規定。\n　　行李貴重物品動物及已繳保償費之運送物，其損害賠償依其契約。",
             "relates": {}
         },
         {
@@ -374,7 +374,7 @@
         {
             "note": "",
             "rule_no": "第五十八條",
-            "content": "　　左列請求權，因一年間不行使而消滅：\n　　一、運送物喪失、毀損或遲交之損害賠償請求權，自應交付之日起。\n　　二、運費、雜費之補收及退還請求權，自票據填發之日起。\n　　三、運送物交付請求權，自交付期間屆滿之日起。\n　　四、代收貨價支付請求權，自鐵路發行已代收訖通知之日起。",
+            "content": "　　左列請求權，因一年間不行使而消滅：\n　　一、運送物喪失、毀損或遲交之損害賠償請求權，自應交付之日起。\n　　二、運費、雜費之補收及退還請求權，自票據填發之日起。\n　　三、運送物交付請求權，自交付期間屆滿之日起。\n　　四、代收貨價支付請求權，自鐵路發出已代收訖通知之日起。",
             "relates": {}
         },
         {
@@ -425,57 +425,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "450323",
-            "立法紀錄": "45卷17期號3冊 115-115頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccc81cbcacec8cfccc4cfcececac4cfcececa",
+            "會議日期": "471114",
+            "立法紀錄": "47卷22期號10冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccb81cbc8cdcdcecfc4cfcfcfc6c4cfcfcfc6",
             "主提案": "行政院",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "461206",
-            "立法紀錄": "47卷20期號7冊 7-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccc81cbc8cdcfcfc8c4cfcfcfc8c4cfcfc9cc",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcfcfcdcfcfc5ccc7c7d2cbcccb"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cdc7d2cdc7"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "461206",
-            "立法紀錄": "47卷20期號6冊 70-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccc81cbc8cdcfcfc9c4cfcfc8cfc4cfcfc8c9",
+            "會議日期": "480109",
+            "立法紀錄": "48卷22期號17冊 32-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccb81cbc7cdcdcec8c4cfcfcccdc4cfcfcccc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cccfc9d2cccfc8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "480109",
+            "立法紀錄": "48卷22期號17冊 107-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccb81cbc7cdcdcec8c4cfcecfc8c4cfcecfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "461210",
-            "立法紀錄": "47卷20期號6冊 79-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccc81cbc8cdcfcfc9c4cfcfc8c6c4cfcfc6c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "461213",
-            "立法紀錄": "47卷20期號6冊 97-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccc81cbc8cdcfcfc9c4cfcfc6c8c4cfcecdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "461217",
-            "立法紀錄": "47卷20期號7冊 77-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccc81cbc8cdcfcfc8c4cfcfc8c8c4cfcfc6cb",
+            "會議日期": "480109",
+            "立法紀錄": "48卷22期號17冊 108-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccb81cbc7cdcdcec8c4cfcecfc7c4cfcecfc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "461220",
-            "立法紀錄": "47卷20期號7冊 104-119頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccc81cbc8cdcfcfc8c4cfcecfcbc4cfcecec6",
+            "會議日期": "480109",
+            "立法紀錄": "48卷22期號17冊 108-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfcccb81cbc7cdcdcec8c4cfcecfc7c4cfcecfc7",
             "關係文書": []
         }
     ]
