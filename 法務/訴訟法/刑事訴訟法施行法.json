@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法施行法",
     "versions": [
-        "中華民國86年12月12日修正",
-        "中華民國86年12月19日公布"
+        "中華民國90年1月3日修正",
+        "中華民國90年1月12日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -50,77 +50,43 @@
             "rule_no": "第七條",
             "content": "　　本法自修正刑事訴訟法施行之日施行。",
             "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第七條 之一",
+            "content": "　　中華民國九十年一月三日修正之刑事訴訟法，自九十年七月一日施行。",
+            "relates": {}
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、原第四條係民國五十六年間為配合刑事訴訟法第一百零八條之修正而制定。此次修正刑事訴訟法第一百零八條，涉及偵查中及審判中被告延長羈押次數及羈押期間之變更，自均有明定其適用原則之必要，爰將「審判中」字樣刪除，並於延長羈押次數之下增列「及羈押期間」以示周延，此部分列為第一項。\n　　二、第一項羈押之被告，於偵查中經檢察官依原規定簽發押票，或為羈押之管束處分等，為維持其安定性，不因此次修正而使原來有效之處分失去效力，爰增訂第二項，規定其效力不受影響。"
+        "第七條 之一": "　　因應刑事訴訟法於九十年一月三日修正通過，爰增訂九十年七月一日起施行。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "860527",
-            "立法紀錄": "86卷30期2922號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cccfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "司法院、行政院",
+            "會議日期": "900103",
+            "立法紀錄": "90卷5期3139號一冊 306-306頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec681c6cfcfcacfcec4cfcccfc9c4cfcccfc9",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcbcfcfc5c6c8d2cec8cf"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "861013",
-            "立法紀錄": "86卷41期2933號 347-382頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cbcecfcfc4cfcccbc8c4cfccc7cd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "861022",
-            "立法紀錄": "86卷44期2936號下冊 125-152頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cbcbcfccc4cfcecdcac4cfcecacd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "861027",
-            "立法紀錄": "86卷45期2937號下冊 173-222頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cbcacfccc4cfcec8ccc4cfcdcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "861029",
-            "立法紀錄": "86卷46期2938號下冊 249-315頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cbc9cfccc4cfcdcbc6c4cfccceca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "861209",
-            "立法紀錄": "86卷52期2944號上冊 43-214頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cacdcfcec4cfcfcbccc4cfcdcecb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcecacfcec5cbc7c8d2c9cccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecacfcfc5c9cfc6d2c9cecf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "861212",
-            "立法紀錄": "86卷53期2945號上冊 29-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cacccfcec4cfcfcdc6c4cfcfc9cf",
+            "會議日期": "900103",
+            "立法紀錄": "90卷5期3139號一冊 307-307頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec681c6cfcfcacfcec4cfcccfc8c4cfcccfc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "861212",
-            "立法紀錄": "86卷53期2945號上冊 60-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec781c7c9cacccfcec4cfcfc9cfc4cfcfc9ce",
+            "會議日期": "900103",
+            "立法紀錄": "90卷5期3139號一冊 307-307頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cec681c6cfcfcacfcec4cfcccfc8c4cfcccfc8",
             "關係文書": []
         }
     ]
