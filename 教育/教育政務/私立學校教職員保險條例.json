@@ -1,11 +1,11 @@
 {
     "title": "私立學校教職員保險條例",
     "versions": [
-        "中華民國84年1月16日修正",
-        "中華民國84年1月28日公布"
+        "中華民國88年5月11日廢止",
+        "中華民國88年5月29日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -94,35 +94,27 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第九條": "　　一、本條係配合全民健保實施，刪除醫療給付部分，故降低保險費率，並配合公務人員保險法將保險費率擬訂為百分之四點五至百分之九。\n　　二、現行私校保險薪給之釐定，係比照公立學校教職員之保險薪給為準，為期明確，爰予以明定。"
-    },
+    "deprecated_reason": "　　為健全保險制度、改善財務結構，維護保險人權益，爰將私立學校教職員保險之規定納入「公教人員保險法」，並廢止本法。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "840116",
-            "立法紀錄": "84卷6期2763號上冊 76-76頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9c7cd81c7cbcfc9cfcec4cfcfc8c9c4cfcfc8c9",
-            "主提案": "江偉平",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcdcacfcfc5cecfcdd2cecfcc"
-                ]
-            ]
+            "會議日期": "840106",
+            "立法紀錄": "84卷3期2760號上冊 368-368頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9c7cc81c7cbcfcccfcec4cfccc9c7c4cfccc9c7",
+            "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "840116",
-            "立法紀錄": "84卷6期2763號上冊 77-77頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9c7cd81c7cbcfc9cfcec4cfcfc8c8c4cfcfc8c8",
+            "進度": "委員會審查",
+            "會議日期": "880106",
+            "立法紀錄": "88卷6期3006號四冊 441-466頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9c7cc81c7c7cfc9cfcbc4cfcbcbcec4cfcbc9c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "840116",
-            "立法紀錄": "84卷6期2763號上冊 77-77頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9c7cd81c7cbcfc9cfcec4cfcfc8c8c4cfcfc8c8",
+            "會議日期": "880511",
+            "立法紀錄": "88卷25期3025號一冊 206-242頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9c7cc81c7c7cdcacfcec4cfcdcfc9c4cfcdcbcd",
             "關係文書": []
         }
     ]
