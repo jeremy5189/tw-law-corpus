@@ -1,8 +1,8 @@
 {
     "title": "政府發展經濟社會向國外借款及保證條例",
     "versions": [
-        "中華民國64年4月11日修正",
-        "中華民國64年4月22日公布"
+        "中華民國66年5月17日修正",
+        "中華民國66年5月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -42,7 +42,7 @@
         {
             "note": "(借款限額)",
             "rule_no": "第六條",
-            "content": "　　依本條例所借或保證之借款，其未清償之本金總額不得超過三十億美元，或依借款時匯率折計等值之其他外幣。",
+            "content": "　　依本條例所借或保證之借款，其未清償之本金總額，不得超過四十五億美元，或依借款時匯率折計等值之其他外幣。",
             "relates": {}
         },
         {
@@ -71,69 +71,53 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　民營開發金融機構，不易向國外籌借款項，轉貸與國內民營事業，而近年來國內民營事業有與國家基本建設有關者，於向外籌借鉅額款項時，又因國內銀行資本（淨值）金額偏低無法擔任保證人，有由國庫直接保證之必要，爰修改原條文，民營重大基本建設事業向外借款，經行政院會議通過者，亦得準用本條例之規定。",
-        "第五條": "　　配合第一條第二項文字予以修正。",
-        "第六條": "　　依本條例訂借及保證之借款，目前未清償之本金總額及正進行簽約之借款，總數可能即將超過二十億美元，因此，原條文限額已不能適應，爰予修正，以應實際需要。"
+        "第六條": "　　依本條例訂借及保證之借款，目前未清償之本金總額及正進行簽約之借款總額即將超過三十億美元，原條文限額已不能適應，爰予修正，以應實際需要。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "640221",
-            "立法紀錄": "64卷17期771號 76-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcf81c9cbcacacec8cfcfcfcec4cfcfc8c9c4cfcfc8c9",
+            "會議日期": "660419",
+            "立法紀錄": "66卷32期995號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfce81c9c9cac6cccdcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcecfcfc5ccccd2ccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac6cfcdcfcfc5cacfc6d2cacecd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "640308",
-            "立法紀錄": "64卷26期780號 1-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcf81c9cbcacacdc9cfcfcfcdc4cfcfcfcec4cfcfcfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "640312",
-            "立法紀錄": "64卷28期782號 12-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcf81c9cbcacacdc7cfcfcfcdc4cfcfcecdc4cfcfcecc",
+            "會議日期": "660507",
+            "立法紀錄": "66卷52期1015號 30-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfce81c9c9cac6cacdcfcfc4cfcfcccfc4cfcfcccb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "640408",
-            "立法紀錄": "64卷29期783號 30-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcf81c9cbcacacdc6cfcfcfcec4cfcfcccfc4cfcfccc8",
+            "會議日期": "660517",
+            "立法紀錄": "66卷40期1003號 2-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfce81c9c9cac6cbcfcfcfc4cfcfcfcdc4cfcfcfca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacacfcccfcfc5cdc6c7d2cccfcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac6cfcccfcfc5cecacdd2cecacb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "640411",
-            "立法紀錄": "64卷29期783號 37-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcf81c9cbcacacdc6cfcfcfcec4cfcfccc8c4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "640411",
-            "立法紀錄": "64卷30期784號 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcf81c9cbcacacccfcfcfcfcec4cfcfcecbc4cfcfcecb",
+            "會議日期": "660517",
+            "立法紀錄": "66卷40期1003號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfce81c9c9cac6cbcfcfcfc4cfcfcfcac4cfcfcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "640411",
-            "立法紀錄": "64卷30期784號 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfcf81c9cbcacacccfcfcfcfcec4cfcfcecbc4cfcfcecb",
+            "會議日期": "660517",
+            "立法紀錄": "66卷40期1003號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbcfce81c9c9cac6cbcfcfcfc4cfcfcfcac4cfcfcfca",
             "關係文書": []
         }
     ]
