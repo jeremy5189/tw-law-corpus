@@ -1,8 +1,8 @@
 {
     "title": "經濟部加工出口區管理處所屬各分處組織通則",
     "versions": [
-        "中華民國68年4月17日修正",
-        "中華民國68年4月30日公布"
+        "中華民國61年12月19日制定",
+        "中華民國61年12月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -13,49 +13,19 @@
             "note": "",
             "rule_no": "第一條",
             "content": "　　本通則依加工出口區設置管理條例第七條之規定制定之。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "01923",
-                        "law_name": "加工出口區設置管理條例",
-                        "numbers": [
-                            "第七條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二條",
             "content": "　　各分處置分處長一人，職位列第八至第十二職等，綜理處務，並指揮、監督所屬職員；副分處長一人，職位列第七至第十一職等，襄理處務。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01906",
-                        "law_name": "經濟部加工出口區管理處所屬各分處組織通則",
-                        "numbers": [
-                            "第七條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第三條",
             "content": "　　各分處設四課，分掌加工出口區設置管理條例第八條第九款至第十八款所定事項。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "01923",
-                        "law_name": "加工出口區設置管理條例",
-                        "numbers": [
-                            "第八條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
@@ -66,52 +36,20 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　各分處視區域之大小，業務之繁簡，分為一、二等分處，面積在五十公頃以上者為一等分處，未滿五十公頃者為二等分處，一、二等分處員額之配置如左：\n　　一等分處置秘書一人，課長四人，技正一人，專員六人至十人，職位均列第六至第九職等；課員二十六人至三十人，技士一人至三人，辦事員八人至十四人，職位均列第一至第五職等，其中課員八人至十人，職位得列第六或第七職等；書記九人至十七人，職位列第一至第三職等。\n　　二等分處置秘書一人，課長四人，技正一人，專員四人至八人，職位均列第六至第九職等；課員十二人至二十人，技士二人至四人，辦事員七人至十一人，職位均列第一至第五職等，其中課員四人至六人，職位得列第六或第七職等；書記六人至十人，職位列第一至第三職等。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01906",
-                        "law_name": "經濟部加工出口區管理處所屬各分處組織通則",
-                        "numbers": [
-                            "第七條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　各分處視區域之大小，業務之繁簡，分為一、二等分處，面積在五十公頃以上者為一等分處，未滿五十公頃者為二等分處，一、二等分處員額之配置如左：\n　　一等分處置秘書一人，課長四人，技正一人，專員六人至十人，職位均列第六至第九職等；課員二十六人至三十人，技士一人，辦事員八人至十四人，職位均列第一至第五職等，其中課員八人至十人，職位得列第六或第七職等；書記九人至十七人，職位列第一至第三職等。\n　　二等分處置秘書一人，課長四人，技正一人，專員四人至八人，職位均列第六至第九職等；課員十二人至二十人，技士一人，辦事員七人至十一人，職位均列第一至第五職等，其中課員四人至六人，職位得列第六或第七職等；書記六人至十人，職位列第一至第三職等。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
             "content": "　　各分處設人事室、會計室，各置主任一人，職位均列第六至第九職等，依法律規定，分別辦理人事、歲計、會計及統計事項。\n　　前項各室所需工作人員，應就本通則所定員額內派充之。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01906",
-                        "law_name": "經濟部加工出口區管理處所屬各分處組織通則",
-                        "numbers": [
-                            "第七條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
             "content": "　　第二條、第五條及第六條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就一般行政管理、勞工行政、經建行政、一般工程、人事行政、文書、事務管理、會計、統計及其他有關職系選用之。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "01906",
-                        "law_name": "經濟部加工出口區管理處所屬各分處組織通則",
-                        "numbers": [
-                            "第二條",
-                            "第五條",
-                            "第六條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
@@ -127,60 +65,89 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　增加一等分處之技士一人至三人，二等分處之技士二人至四人，專供安置工廠檢查員，以確保加工出口區內工業安全。"
+        "第一條": "　　明定本通則之法源依據。",
+        "第二條": "　　明定分處長、副分處長之職掌及官等職等。",
+        "第三條": "　　本條規定各分處設四課，分科辦事。",
+        "第四條": "　　明定秘書室之職掌。",
+        "第五條": "　　各分處業務，不無繁簡之分，應有等級之別，始可酌予分別規定編制員額，而不至漫無標準，無所遵循。",
+        "第六條": "　　明定人事、會計人員之官等職等及職掌。",
+        "第七條": "　　明定本通則列有官等職等人員之職系，應依公務職位分類法及職系說明書選用。",
+        "第八條": "　　明定各分處辦事細則，由各該分處擬訂，呈請經濟部加工出口區管理處核定。",
+        "第九條": "　　明定本通則施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "680112",
-            "立法紀錄": "68卷4期1176號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcccdcdc881c9c7c9cdcfcbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "610526",
+            "立法紀錄": "61卷42期495號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecbc6cbcdcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cdcfcbcfcfc5cac8c7d2cac7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcccfcfc5cbcdccd2cbcdc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "680314",
-            "立法紀錄": "68卷55期1227號 58-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcccdcdc881c9c7c9cccacacfcfc4cfcfcac7c4cfcfc9c6",
+            "會議日期": "610605",
+            "立法紀錄": "61卷59期512號 19-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecbc6cac6cfcfcfcdc4cfcfcec6c4cfcfcdc6",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "680328",
-            "立法紀錄": "68卷51期1223號 94-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcccdcdc881c9c7c9cccacecfcfc4cfcfc6cbc4cfcecfcd",
+            "會議日期": "610614",
+            "立法紀錄": "61卷60期513號 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecbc6c9cfcfcfcfcdc4cfcfcecec4cfcfcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610622",
+            "立法紀錄": "61卷83期536號 10-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecacfc7cccfcfcfcdc4cfcfcecfc4cfcfcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610706",
+            "立法紀錄": "61卷84期537號 7-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecacfc7cbcfcfcfcdc4cfcfcfc8c4cfcfceca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "610713",
+            "立法紀錄": "61卷85期538號 5-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecacfc7cacfcfcfcdc4cfcfcfcac4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "680413",
-            "立法紀錄": "68卷30期1202號 9-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcccdcdc881c9c7c9cccccfcfcfc4cfcfcfc6c4cfcfcec8",
+            "會議日期": "611215",
+            "立法紀錄": "61卷99期552號 6-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecacfc6c6cfcfcfcec4cfcfcfc9c4cfcfcdcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcdcfcfc5c7cacbd2c7c9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecacfcfcecfcfc5cacfced2cacdcd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "680413",
-            "立法紀錄": "68卷30期1202號 17-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcccdcdc881c9c7c9cccccfcfcfc4cfcfcec8c4cfcfcec8",
+            "會議日期": "611215",
+            "立法紀錄": "61卷99期552號 24-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecacfc6c6cfcfcfcec4cfcfcdcbc4cfcfcccd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "680417",
-            "立法紀錄": "68卷31期1203號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfcccdcdc881c9c7c9cccccecfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "611219",
+            "立法紀錄": "61卷100期553號 10-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcccac8ce81c9cecacfcecfcfcfcfcfcec4cfcfcecfc4cfcfcecd",
             "關係文書": []
         }
     ]
