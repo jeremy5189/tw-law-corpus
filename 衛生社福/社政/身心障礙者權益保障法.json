@@ -1,8 +1,8 @@
 {
     "title": "身心障礙者權益保障法",
     "versions": [
-        "中華民國92年6月6日修正",
-        "中華民國92年6月25日公布"
+        "中華民國93年6月4日修正",
+        "中華民國93年6月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -337,6 +337,12 @@
         },
         {
             "note": "",
+            "rule_no": "第五十一條 之一",
+            "content": "　　視覺障礙者由合格導盲犬陪同或導盲犬專業訓練人員於執行訓練時帶同導盲幼犬，得自由出入公共場所、公共建築物、營業場所、公共交通工具及其他公共設施。\n　　前項公共場所、公共建築物、營業場所、公共交通工具及其他公共設施之所有人、管理人或使用人，不得對導盲幼犬及合格導盲犬收取額外費用，且不得拒絕其自由出入或附加其他出入條件。\n　　有關合格導盲犬及導盲幼犬之資格認定、使用管理及其他應遵行事項之辦法，由中央主管機關會同各目的事業主管機關定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第五十二條",
             "content": "　　任何擁有、出租（或租用）或經營公共設施場所者，不得單獨以身心障礙為理由，使其無法完全公平地享用物品、服務、設備、權利、利益或設施。",
             "relates": {}
@@ -435,6 +441,12 @@
         },
         {
             "note": "",
+            "rule_no": "第六十五條 之一",
+            "content": "　　違反第五十一條之一第二項規定者，得予以勸導並限期改善，逾期未改善者，處新臺幣一萬元以上三萬元以下罰鍰，並得按次連續處罰。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第六十六條",
             "content": "　　未依第五十九條第一項規定申請許可設立而辦理身心障礙福利機構者，處其負責人新臺幣六萬元以上三十萬元以下罰鍰。\n　　經主管機關限期申請設立許可或依第五十九條第三項規定期限令其辦理財團法人登記或停止對外募捐行為，仍不遵辦者，處其負責人新臺幣十萬元以上五十萬元以下罰鍰，得按次連續處罰，並公告其名稱，且得令其停辦。",
             "relates": {}
@@ -499,74 +511,54 @@
         }
     ],
     "law_reasons": {
-        "第二十六條": "　　就業服務情形送各級民意機構備查，使民意機構能適時監督與提出建議，爰修正之。",
-        "第六十二條": "　　一、第一項句中「私立學校、團體」修正為「私立學校」。\n　　二、要求主管機關主動訂定辦法，扶助身心障礙福利機構承包或分包物品及服務至一定比例。爰修正第二項。\n　　三、增列第三項。",
-        "第六十四條 之一": "　　一、本條新增。\n　　二、增訂公務員無正當理由違反第三十一條第一項或第六十二條規定，應受懲戒；私立學校、機構及團體無正當理由違反第三十一條第二項或第六十二條規定，則處以罰鍰。"
+        "第五十一條 之一": "　　一、本條新增。\n　　二、第一項，視覺障礙者在合格導盲犬陪同或導盲犬專業訓練人員於執行訓練帶同導盲幼犬時，得自由出入公共場所、公共建築物、營業場所、公共交通工具及其他公共設施。\n　　三、第二項，明訂前開場所之所有人、管理人或使用人，不得對導盲幼犬及合格導盲犬收取額外費用，且不得拒絕其自由出入或附加其他出入條件。\n　　四、第三項，有關合格導盲犬及導盲幼犬之資格認定、使用管理及其他應遵行事項之辦法，由中央主管機關會同各目的事業主管機關定之。",
+        "第六十五條 之一": "　　一、本條新增。\n　　二、明訂違反第五十一條之一第二項規定者，得予以勸導並限期改善，逾期未改善者，予以處罰，並得按次連續處罰。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910531",
-            "立法紀錄": "91卷39期3235號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdce81c6ceccc6cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "鄭三元",
+            "會議日期": "930507",
+            "立法紀錄": "93卷26期3360號上冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdcc81c6cccdc9cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "簡肇棟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecdcfccc5cbcac6d2cbc9cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "920328",
-            "立法紀錄": "92卷15期3289號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdce81c6cdcecacfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林岱樺",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cecdcdd2cecdca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "920328",
-            "立法紀錄": "92卷15期3289號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdce81c6cdcecacfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "徐中雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cecdc9d2cecdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacececfcdc5cdc9d2ccce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920526",
-            "立法紀錄": "92卷35期3309號中冊 251-288頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdce81c6cdcccacfcdc4cfcdcacec4cfcdc7c7",
+            "會議日期": "930511",
+            "立法紀錄": "93卷31期3365號 337-361頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdcc81c6cccccecfcfc4cfccccc8c4cfccc9ce",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 108-121頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdce81c6cdcccbcfccc4cfcecfc7c4cfcecdce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 85-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdcc81c6cccccccfcec4cfcfc7cac4cfcfc6cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5cbcecad2cbcdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5c9cad2c8cb"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "930604",
+            "立法紀錄": "93卷33期3367號一冊 92-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdcc81c6cccccccfcec4cfcfc6cdc4cfcfc6cc",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 121-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdce81c6cdcccbcfccc4cfcecdcec4cfcecdcd",
+            "會議日期": "930605",
+            "立法紀錄": "93卷33期3367號一冊 93-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cdcc81c6cccccccfcec4cfcfc6ccc4cfcfc6cc",
             "關係文書": []
         }
     ]
