@@ -1,10 +1,11 @@
 {
     "title": "會計師法",
     "versions": [
-        "中華民國40年4月27日全文修正",
-        "中華民國40年5月12日公布"
+        "中華民國47年10月7日修正",
+        "中華民國47年10月20日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -17,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　對於具有左列資格之一者，前條考試得以檢覈行之。\n　　一、高等考試會計審計人員考試及格者。\n　　二、曾在公立或經教育部立案或承認之國內外專科以上學校會計、銀行、商業、工商管理、經濟等科系畢業，並在政府機關或公營事業機構，任會計主要職員三年以上成績優良者。\n　　三、曾在公立或經立案之大學獨立學院、專門學校任教授、副教授、講師，講授會計主要科目二年以上者。\n　　四、曾任薦任審計職務三年以上者。\n　　前項檢覈辦法，由考試院會同行政院定之。",
+            "content": "　　對於具有左列資格之一者，前條考試得以檢覈行之。\n　　一、高等考試會計、審計人員考試及格者。\n　　二、曾在公立或經教育部立案或承認之國內外專科以上學校會計、銀行、商業、工商管理、經濟等科系畢業，並在政府機關或公營事業機構，任會計或審計主要職員三年以上，成績優良者。\n　　三、曾在公立或經立案之大學獨立學院、專門學校任教授、副教授、講師，講授會計主要科目二年以上者。\n　　四、曾任薦任審計職務三年以上者。\n　　前項檢覈辦法，由考試院會同行政院定之。",
             "relates": {}
         },
         {
@@ -259,6 +260,47 @@
             "rule_no": "第四十二條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "470506",
+            "立法紀錄": "47卷21期號11冊 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac6ca81cbc8cdcececec4cfcfcecac4cfcfceca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcdcfcfc5cbc9c8d2cbc9c6"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "471007",
+            "立法紀錄": "47卷22期號6冊 6-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac6ca81cbc8cdcdcfc9c4cfcfcfc9c4cfcfcfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcecfcccfcfc5cbcccfd2cbcccd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "471007",
+            "立法紀錄": "47卷22期號6冊 35-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac6ca81cbc8cdcdcfc9c4cfcfcccac4cfcfccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "471007",
+            "立法紀錄": "47卷22期號6冊 36-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdcac6ca81cbc8cdcdcfc9c4cfcfccc9c4cfcfccc8",
+            "關係文書": []
         }
     ]
 }
