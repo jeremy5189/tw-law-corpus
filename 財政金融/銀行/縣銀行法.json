@@ -1,11 +1,12 @@
 {
     "title": "縣銀行法",
     "versions": [
-        "中華民國28年12月16日制定",
-        "中華民國29年1月20日公布"
+        "中華民國82年7月9日廢止",
+        "中華民國82年7月30日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -163,6 +164,48 @@
             "rule_no": "第二十六條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　一、「縣銀行條例」係由國民政府訂頒於行憲之前，憲法訂頒施行後，對於「縣銀行」等地方自治事項，已另有規定。\n　　二、目前臺灣地區與四、五十年前大陸地區之時代背景，已截然不同，故今日臺灣地區金融機構遍佈，金融服務便捷，已非當年大陸設立省銀行、縣銀行之時代背景所可比擬。\n　　三、一般先進國家對於銀行之設立、管理，均係單純化由銀行法統一規範，我國亦應朝趨勢辦理，不宜再有「縣銀行條例」等其他規定。\n　　四、目前國內所有金融機構並無根據「縣銀行條例」之規定而成立者，故該法律如予廢止，對現在金融機構之存續毫無影響。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "800927",
+            "立法紀錄": "80卷79期2503號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcfcec881c7cfcfc8c6cfcfc4cfcfcdc8c4cfcfcdc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cfcdcfcfc5caccd2cac7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "801125",
+            "立法紀錄": "80卷96期2520號 261-275頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcfcec881c7cfcfc6c9cfcfc4cfcdc9cec4cfcdc8ca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 49-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcfcec881c7cdcbc9cfccc4cfcfcbc6c4cfcfcacc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cec9c7d2cec8c8"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "820709",
+            "立法紀錄": "82卷46期2645號下冊 53-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcfcec881c7cdcbc9cfccc4cfcfcaccc4cfcfcacc",
+            "關係文書": []
         }
     ]
 }
