@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國86年4月29日修正",
-        "中華民國86年5月21日公布"
+        "中華民國86年10月9日修正",
+        "中華民國86年10月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -52,7 +52,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　稅捐之徵收，優先於普通債權。\n　　土地增值稅之徵收，就土地之自然漲價部分，優先於一切債權及抵押權。\n　　經法院執行拍賣或交債權人承受之土地，其拍定或承受價額為該土地之移轉現值，執行法院應於拍定或承受後五日內，將拍定或承受價額通知當地主管機關核課土地增值稅，並由執行法院代為扣繳。",
+            "content": "　　稅捐之徵收，優先於普通債權。\n　　土地增值稅之徵收，就土地之自然漲價部分，優先於一切債權及抵押權。\n　　經法院執行拍賣或交債權人承受之土地，執行法院應於拍定或承受五日內，將拍定或承受價額通知當地主管機關，依法核課土地增值稅，並由執行法院代為扣繳。",
             "relates": {}
         },
         {
@@ -435,59 +435,59 @@
         }
     ],
     "law_reasons": {
-        "第三十三條": "　　一、由於法令規定不周延，債務人可因債權人無法獲知其詳細財產資料，而以不當方式規避債務，故債權人常須私下聘人調查、行賄或透過特殊管道以取得債務人之確切財產等資料，不僅有誘使人民觸法之嫌，亦有可能造成公務人員假公務之便而收賄或洩漏資料之事發生，嚴重影響國家形象。爰予以修正之。\n　　二、增列第一項第八款。載明「債權人」，以資明確，以免一般人要求提供資料。"
+        "第六條": "　　一、第一項及第二項未修正。\n　　二、第三項有關經法院拍賣或交債權人承受之土地，以拍定或承受價額為該土地移轉現值之規定，為配合土地稅法第三十條第一項第五款之修正，爰修正本條第三項，對經法院執行拍賣或交債權人承受之土地，刪除「其拍定或承受價額為該土地之移轉現值」之規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820521",
-            "立法紀錄": "82卷32期2631號上冊 93-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccca81c7cdcccdcfcec4cfcfc6ccc4cfcfc6ca",
-            "主提案": "劉炳華",
+            "會議日期": "851213",
+            "立法紀錄": "85卷67期2889號上冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7cac9c8cfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "謝錦川",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecdcbcfcfc5c7cfc6d2c7cecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcec6cfcfc5c6c6d2cecfcf"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "850419",
-            "立法紀錄": "85卷17期2839號上冊 90-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccca81c7cacec8cfcec4cfcfc6cfc4cfcfc6ce",
-            "主提案": "許添財",
+            "會議日期": "860418",
+            "立法紀錄": "86卷18期2910號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7c9cec7cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "王令麟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecfc9cfcfc5cecbc7d2cecacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecbcfcfc5cdcdcbd2cdcdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "850626",
-            "立法紀錄": "85卷38期2860號下冊 419-426頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccca81c7caccc7cfccc4cfcbcec6c4cfcbcdc9",
+            "會議日期": "860519",
+            "立法紀錄": "86卷29期2921號上冊 43-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7c9cdc6cfcec4cfcfcbccc4cfcfcacf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860429",
-            "立法紀錄": "86卷21期2913號上冊 63-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccca81c7c9cdcecfcec4cfcfc9ccc4cfcfc8cf",
+            "會議日期": "861009",
+            "立法紀錄": "86卷39期2931號 49-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7c9ccc6cfcfc4cfcfcbc6c4cfcfcacd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccec8cfcfc5cbcdcbd2cbccce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccdcccfcfc5cacec7d2cacdce"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860429",
-            "立法紀錄": "86卷21期2913號上冊 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccca81c7c9cdcecfcec4cfcfc8cfc4cfcfc8cf",
+            "會議日期": "861009",
+            "立法紀錄": "86卷39期2931號 52-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc981c7c9ccc6cfcfc4cfcfcacdc4cfcfcacd",
             "關係文書": []
         }
     ]
