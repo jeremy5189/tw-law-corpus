@@ -1,8 +1,8 @@
 {
     "title": "電話電報臨時捐徵收條例",
     "versions": [
-        "中華民國59年5月26日修正",
-        "中華民國59年6月4日公布"
+        "中華民國60年6月4日修正",
+        "中華民國60年6月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -42,38 +42,52 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　本條例自中華民國五十九年七月一日施行。施行期間一年。",
+            "content": "　　本條例自中華民國六十年七月一日施行。施行期間一年。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第六條": "　　目前中央政府因加強國防建設，發展科學教育以及合理調整公教人員待遇，財政收入仍待充裕，為免影響財政穩定起見，爰將徵收期間延長一年。"
+        "第六條": "　　我國電話電報係屬公營公用事業，與他國之有私人經營者情況不同。且因此項臨時捐已列入下年度中央政府總預算內，爰將徵收期間延長一年。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "590421",
-            "立法紀錄": "59卷29期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cd81cac6cbcacdc6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "600406",
+            "立法紀錄": "60卷24期378號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cc81c9cfcbc8cdcbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfcdcfcfc5cbc6c7d2cacfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcdcfcfc5cccec7d2cccdce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "600510",
+            "立法紀錄": "60卷87期440號 32-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cc81c9cfcbc7c7c8cfcfc4cfcfcccdc4cfcfccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "600601",
+            "立法紀錄": "60卷40期394號 31-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cc81c9cfcbc8cbcfcfcfcfcec4cfcfcccec4cfcfccc9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcccfcfc5c8c6cfd2c8c6cc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "590526",
-            "立法紀錄": "59卷39期號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cd81cac6cbcaccc6cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbcacfc9cfcfc5c9cfd2c9cd"
-                ]
-            ]
+            "會議日期": "600604",
+            "立法紀錄": "60卷41期395號 12-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec7c8cc81c9cfcbc8cbcecfcfcfcec4cfcfcecdc4cfcfcecb",
+            "關係文書": []
         }
     ]
 }
