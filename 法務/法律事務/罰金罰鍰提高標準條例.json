@@ -1,12 +1,12 @@
 {
     "title": "罰金罰鍰提高標準條例",
     "versions": [
-        "中華民國80年4月19日",
-        "中華民國80年5月6日公布"
+        "中華民國82年1月8日修正",
+        "中華民國82年2月5日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -18,7 +18,7 @@
         {
             "note": "(易科罰金易服勞役折算金額之提高)",
             "rule_no": "第二條",
-            "content": "　　依刑法第四十一條易科罰金或第四十二條第二項易服勞役者，均就其原定數額提高為十倍折算一日；法律所定罰金數額未依本條例提高倍數，或其處罰法條無罰金刑之規定者，亦同。\n　　違警罰法所定罰鍰數額經依本條例提高倍數時，該法第二十第一項易處拘留之折算標準，依同一倍數提高之。",
+            "content": "　　依刑法第四十一條易科罰金或第四十二條第二項易服勞役者，均就其原定數額提高為一百倍折算一日；法律所定罰金數額未依本條例提高倍數，或其處罰法條無罰金刑之規定者，亦同。",
             "relates": {}
         },
         {
@@ -30,7 +30,7 @@
         {
             "note": "(不溯既往)",
             "rule_no": "第四條",
-            "content": "　　本條例修正前所為處罰之裁判或裁決，於本條例修正後，其易科罰金、易服勞役依原確定裁判所諭知之標準折算；其違警罰鍰之易處拘留，依原裁決時之標準折算。",
+            "content": "　　本條例修正前所為處罰之裁判，於本條例修正後，其易科罰金、易服勞役依原確定裁判所諭知之標準折算。",
             "relates": {}
         },
         {
@@ -46,44 +46,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　一、衡諸當前社會經濟情況，原條文第一項顯然太低，實不足以生嚇阻犯罪之效果。且依現行冤獄賠償法第三條規定，羈押及徒刑或拘役執行之賠償，其金額亦較刑法第四十一及四十二條易科罰金或易服勞役之折算標準高出甚多。為因應當前之實際情況。爰將該折算標準修正提高為一百倍折算一日，以符實際。\n　　二、本條第二項有關違警罰法所定罰鍰易處拘留折算標準提高倍數之規定，因違警罰法業經廢止，而取代之社會秩序維護法已就罰鍰易以拘留之折算標準另有規定，故予刪除。",
+        "第四條": "　　按違警罰法業經廢止，而取代之社會秩序維護法就罰鍰易以拘留之折算標準已另有規定。故本條後段「．．．其違警罰鍰之易處拘留，依原裁決時之標準折算。」之規定，應予刪除；其前段之「或裁決」三字亦應配合一併予以刪除。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "800301",
-            "立法紀錄": "80卷18期2442號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cf81c7cfcfcec7cfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "810929",
+            "立法紀錄": "81卷60期2588號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8ce81c7cecfc9cfcfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cfcdcfcfc5c9cad2c9c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcfcdcfcec5c6cfd2c6c8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "800314",
-            "立法紀錄": "80卷70期2494號 29-42頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cf81c7cfcfc8cfcfcfc4cfcfcdc6c4cfcfcbcd",
+            "會議日期": "811012",
+            "立法紀錄": "81卷65期2593號 275-285頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8ce81c7cecfc9cacfcfc4cfcdc8cac4cfcdc7ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "800419",
-            "立法紀錄": "80卷32期2456號 83-85頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cf81c7cfcfcccdcfcfc4cfcfc7ccc4cfcfc7ca",
+            "會議日期": "820108",
+            "立法紀錄": "82卷2期2601號 230-236頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8ce81c7cdcfcdcfcfc4cfcdcccfc4cfcdccc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c8cecacfcfc5cacbc7d2cacacf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec6cfcecccfcfc5ccc9cbd2ccc9c6"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "820108",
+            "立法紀錄": "82卷2期2601號 236-236頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8ce81c7cdcfcdcfcfc4cfcdccc9c4cfcdccc9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "800419",
-            "立法紀錄": "80卷32期2456號 85-85頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cf81c7cfcfcccdcfcfc4cfcfc7cac4cfcfc7ca",
+            "會議日期": "820108",
+            "立法紀錄": "82卷2期2601號 236-236頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8ce81c7cdcfcdcfcfc4cfcdccc9c4cfcdccc9",
             "關係文書": []
         }
     ]
