@@ -1,12 +1,11 @@
 {
     "title": "縣長考績條例",
     "versions": [
-        "中華民國68年11月9日廢止",
-        "中華民國68年11月19日公布"
+        "中華民國33年12月9日制定",
+        "中華民國33年12月26日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -126,7 +125,7 @@
         {
             "note": "(適用規定)",
             "rule_no": "第二十條",
-            "content": "　　本條例未規定事項，適用公務員考績條例之規定。",
+            "content": "　　本條例未規定事項，適用非常時期公務員考績條例之規定。",
             "relates": {}
         },
         {
@@ -134,47 +133,6 @@
             "rule_no": "第二十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　縣長考績條例因情勢變遷，無繼續施行必要，故廢止之。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "680706",
-            "立法紀錄": "68卷54期1226號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdc981c9c7c9cccacbcfcfc4cfcfcfcdc4cfcfcfcd",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5cbccc7d2cbcbcc"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "681027",
-            "立法紀錄": "69卷4期1280號 53-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdc981c9c6c9cbcfcbcfcfc4cfcfcaccc4cfcfcac7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "681109",
-            "立法紀錄": "68卷90期1262號 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdc981c9c7c9cbc6cfcfcfc4cfcfcfcac4cfcfcfc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cec6ccd2cec6cb"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "681109",
-            "立法紀錄": "68卷90期1262號 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cdcccdc981c9c7c9cbc6cfcfcfc4cfcfcfc9c4cfcfcfc9",
-            "關係文書": []
         }
     ]
 }
