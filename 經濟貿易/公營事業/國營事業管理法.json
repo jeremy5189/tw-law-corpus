@@ -1,11 +1,12 @@
 {
     "title": "國營事業管理法",
     "versions": [
-        "中華民國37年12月31日制定",
-        "中華民國38年1月20日公布"
+        "中華民國86年12月19日修正",
+        "中華民國87年1月7日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -153,9 +154,9 @@
             "relates": {}
         },
         {
-            "note": "(所需原料及器材應儘先採用國產)",
+            "note": "(刪除)",
             "rule_no": "第二十三條",
-            "content": "　　國營事營所需原料及器材，應儘先採用國產。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -253,8 +254,53 @@
         {
             "note": "(施行日)",
             "rule_no": "第三十八條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文施行日期，由行政院定之。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第二十三條": "　　一、本條刪除。\n　　二、配合自由化、民營化潮流，宣示政府促進國營事業企業化經營之政策。政府採購法草案已為扶植國內產業提供適當之法源，政府採購法完成立法後，將較本條文優先適用，本條文無保留必要，爰予刪除。",
+        "第三十八條": "　　「國營事業管理法」此次修正刪除第二十三條，將配合政府採購法之制定予以施行，爰增列第二項，授權行政院訂定修正條文之施行日期。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "860328",
+            "立法紀錄": "86卷12期2904號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c881c7c9cecdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccfc6cfcfc5cecfcbd2cecfc8"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "860514",
+            "立法紀錄": "86卷27期2919號 415-420頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c881c7c9cdc8cfcfc4cfcbcecac4cfcbcdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "861219",
+            "立法紀錄": "86卷55期2947號上冊 38-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c881c7c9cacacfcec4cfcfccc7c4cfcfcbcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcecccfcec5cac7c7d2cac6ce"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "861219",
+            "立法紀錄": "86卷55期2947號上冊 42-42頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c881c7c9cacacfcec4cfcfcbcdc4cfcfcbcd",
+            "關係文書": []
         }
     ]
 }
