@@ -1,12 +1,11 @@
 {
     "title": "財政部鹽務總局鹽警管理處組織條例",
     "versions": [
-        "中華民國62年3月27日廢止",
-        "中華民國62年4月11日公布"
+        "中華民國36年12月27日制定",
+        "中華民國37年1月10日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -56,30 +55,6 @@
             "rule_no": "第八條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　財政部鹽務總局之鹽警管理處業已裁撤，本條例已無保留必要，故予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "620124",
-            "立法紀錄": "62卷7期563號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfccc7c9c881c9cdcacfcfc8cfcfc4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "620308",
-            "立法紀錄": "62卷34期590號 30-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfccc7c9c881c9cdcacecccbcfcfcfcdc4cfcfcccfc4cfcfccce",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "620327",
-            "立法紀錄": "62卷22期578號 3-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6cfccc7c9c881c9cdcacecdcdcfcfcfcec4cfcfcfccc4cfcfcfca",
-            "關係文書": []
         }
     ]
 }
