@@ -1,18 +1,18 @@
 {
     "title": "臺灣地區平均地權土地債券發行條例",
     "versions": [
-        "中華民國67年1月13日全文修正",
-        "中華民國67年1月23日公布"
+        "中華民國70年7月3日修正",
+        "中華民國70年7月13日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
-            "note": "(立法目的)",
+            "note": "(立法依據)",
             "rule_no": "第一條",
-            "content": "　　中央政府為在臺灣地區實施平均地權，授權臺灣省政府及臺北市政府依本條例之規定，發行各該省、市平均地權土地債券（以下簡稱本債券）。",
+            "content": "　　中央政府為在臺灣地區實施平均地權，授權該區省（市）政府依平均地權條例第五條之規定，發行各該省（市）平均地權土地債券（以下簡稱本債券），特制定本條例。",
             "relates": {}
         },
         {
@@ -22,9 +22,9 @@
             "relates": {}
         },
         {
-            "note": "(委託發行)",
+            "note": "(還本付息之委託代辦)",
             "rule_no": "第三條",
-            "content": "　　本債券之發行及還本付息事務，由發行之省（市）政府委託臺灣土地銀行或臺北市銀行辦理。",
+            "content": "　　本債券之發行及還本付息事務，由發行之省（市）政府分別委託臺灣土地銀行或直轄市市銀行辦理。",
             "relates": {}
         },
         {
@@ -88,58 +88,55 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第一條": "　　為適應高雄市之改制、配合其推行平均地權政策之需要，暨為標明本條例之立法依據，爰為修訂。",
+        "第三條": "　　為因應高雄市之實際需要，爰比照臺灣地區公共建設土地債券發行條例第六條規定之成例，將「或臺北市銀行」修訂為「或直轄市市銀行」為受託辦理本債券之發行及還本付息機構。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "661125",
-            "立法紀錄": "66卷95期1058號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c9c9cfc6cacfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "700612",
+            "立法紀錄": "70卷47期1428號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec881c8cfc9c8cbc8cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcdcfcfc5c9c9ced2c9c9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc9cfcfc5cbcec8d2cbcdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "661222",
-            "立法紀錄": "67卷10期1078號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcecfcfcfc4cfcfcfcdc4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "661229",
-            "立法紀錄": "67卷14期1082號 2-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcecbcfcfc4cfcfcfcdc4cfcfcfc9",
+            "會議日期": "700622",
+            "立法紀錄": "70卷63期1444號 2-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec881c8cfc9c8c9cccfcfc4cfcfcfcdc4cfcfcfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "670110",
-            "立法紀錄": "67卷3期1071號 19-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcfcccfcfc4cfcfcec6c4cfcfcdc7",
+            "會議日期": "700703",
+            "立法紀錄": "70卷53期1434號 24-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec881c8cfc9c8cacccfcfc4cfcfcdcbc4cfcfcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cfcfcccfcfc5cac6cbd2c9cfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c8cfc8cfcfc5cccec7d2cccdcf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "670110",
-            "立法紀錄": "67卷3期1071號 29-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcfcccfcfc4cfcfcdc6c4cfcfcccd",
+            "會議日期": "700703",
+            "立法紀錄": "70卷53期1434號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec881c8cfc9c8cacccfcfc4cfcfcdc8c4cfcfcdc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "670113",
-            "立法紀錄": "67卷4期1072號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec981c9c8c9cfcfcbcfcfc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "700703",
+            "立法紀錄": "70卷53期1434號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacacec881c8cfc9c8cacccfcfc4cfcfcdc8c4cfcfcdc8",
             "關係文書": []
         }
     ]
