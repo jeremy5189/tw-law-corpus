@@ -1,8 +1,8 @@
 {
     "title": "教育人員任用條例",
     "versions": [
-        "中華民國86年2月25日修正",
-        "中華民國86年3月19日公布"
+        "中華民國90年1月4日修正",
+        "中華民國90年1月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -292,6 +292,12 @@
             "relates": {}
         },
         {
+            "note": "(護理教師資格、遴選辦法)",
+            "rule_no": "第四十一條 之一",
+            "content": "　　高級中等以上學校擔任軍訓護理課程之護理教師，其資格、遴選、介派（聘）、遷調辦法，由中央主管機關定之。",
+            "relates": {}
+        },
+        {
             "note": "(施行細則之訂定)",
             "rule_no": "第四十二條",
             "content": "　　本條例施行細則，由教育部定之。",
@@ -305,106 +311,118 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　一、配合大學法之修正，大學、獨立學院及專科學校教師增列「助理教授」並刪除「助教」。\n　　二、原條文第二項所稱「學術著作」尚難含蓋技術性著作，爰將「學術著作」修正為「專門著作」，另因著作雖未在國內外知名學術或專業刊物發表，惟如已為接受並出具證明將定期發表者，應亦得受理審查，爰增列「或已為接受且出具證明將定期發表」之文字。\n　　三、依專科學校法第九條規定專科學校係設置「專業及技術教師」，並無「專業教師」職稱，爰於第三項「大學、獨立學院」後增列「及專科學校」，並刪除「及專科學校專業教師」等字。另參照八十三年四月二十七日修正公布之「學位授予法」第六條第二項規定，藝術類或應用科技類研究所碩士班研究生其論文得以技術報告代替之規定，爰於「體育、藝術」後增列「應用科技」，並於「作品、成就證明」之後增列「技術報告」。又為期初聘者亦得以作品、成就證明或技術報告送審，爰增列「聘任」二字。\n　　四、目前大學、獨立學院及專科學校教師送審均適用同一規定｜「大學獨立學院及專科學校教師審查辦法」，原條文第五項爰予刪除。",
-        "第十五條": "　　一、大學法修正後「助教」不再列為教師，僅得協助教學或研究工作，爰作文字修正。\n　　二、助教係以所習學科專長協助教學工作，其性質不同於學校職員，不宜以考試任用，爰規定助教之進用仍維持聘任方式，俾利人員之進用，並保障該等人員之權益。",
-        "第十六條 之一": "　　一、本條新增。\n　　二、配合大學法第十八條，將大專以上學校教師增列助理教授一級，並參酌原副教授之資格規定改列為助理教授之資格。",
-        "第十七條": "　　一、參酌原教授資格規定酌作修正。\n　　二、大學或獨立學院醫師養成學系畢業，其具有臨床工作經驗者得依教育人員任用條例第十六條第三款聘為講師、第十六條之一第三款聘為助理教授，業已敷實際需要，本條爰不予增列相對條款。",
-        "第十八條": "　　配合「助理教授」之增置，修正原第二款博士後服務年資之規定，並移列為第一款，原第一款移列第二款，「重要之著作」修正為「重要專門著作」。",
-        "第二十六條": "　　一、依大學法及參照教師法草案條文，各級學校教師均採聘任制，並經教師評審委員會評審通過，本條例有關教師任用程序及任用方式均配合修正。\n　　二、第一項第二款修正規定專科學校教師聘任程序。\n　　三、專科以上學校自主性較高，爰參照大學法之規定於增列之第二項中規定，教師評審委員會設置辦法，專科以上學校由學校組織規程規定，其他學校由教育部定之。",
-        "第三十條 之一": "　　一、本條新增。\n　　二、專科學校教師之分級及任用資格規定與大學相同，為使專科學校之現職講師、助教亦受過渡條款之保障，爰參照大學法第二十九條之精神增訂本條前段。\n　　三、又因社會教育機構專業人員及學術研究機構研究人員之聘任資格，依其職務等級，準用各級學校教師之規定，故其原依本條例聘任者之升等亦得比照辦理，爰增訂本條末段。",
-        "第三十九條": "　　有關國民小學教師「派任」之規定與修正條文第二十六條之「聘任」規定不合，本條爰配合刪除。"
+        "第四十一條 之一": "　　一、本條新增。\n　　二、現行專科學校法、高級中學法及職業學校法中對軍護人員之設置均有所規範，為使高級中等以上學校進用軍訓護理教師之事實有法源依據，爰予增訂。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820319",
-            "立法紀錄": "82卷14期2613號上冊 55-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7cdcecbcfcec4cfcfcacac4cfcfc8ce",
-            "主提案": "尤宏",
+            "會議日期": "890425",
+            "立法紀錄": "89卷20期3079號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6cdcfcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "鄭龍水",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5c8c6c9d2c7cecc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecfcfcfc5cececbd2cecec9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "821105",
-            "立法紀錄": "82卷61期2660號 125-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7cdc9cecfcfc4cfcecdcac4cfcecdc8",
-            "主提案": "魏鏞",
+            "會議日期": "890602",
+            "立法紀錄": "89卷32期3091號上冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6cccdcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "靳曾珍麗",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcdcfc7cfcec5cccecad2cccec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcecfcfc5cecdcfd2cecdca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "831208",
-            "立法紀錄": "83卷78期2752號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7ccc8c7cfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "謝長廷",
+            "會議日期": "890616",
+            "立法紀錄": "89卷35期3094號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6cccacfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林政則",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcec6cfcec5cccbc7d2cccac8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcbcfcfc5cecdc6d2cecccd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "840421",
-            "立法紀錄": "84卷24期2781號上冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7cbcdcbcfcec4cfcfcfcec4cfcfcfce",
+            "會議日期": "890616",
+            "立法紀錄": "89卷35期3094號上冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6cccacfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳學聖",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcbcfcfc5c8c6d2c7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "890620",
+            "立法紀錄": "89卷36期3095號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6ccc9cfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院、考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacecccfcec5cec9cfd2cec7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcacfcec5cdcfc6d2cdceca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "891107",
+            "立法紀錄": "89卷61期3120號上冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6c9cecfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "許素葉",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc7cfcec5c6cfd2c6cc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "840612",
-            "立法紀錄": "84卷39期2796號 491-544頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7cbccc6cfcfc4cfcbc6cec4cfcacbcb",
+            "會議日期": "891030",
+            "立法紀錄": "89卷65期3124號下冊 17-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c7c6c9cacfccc4cfcfcec8c4cfcfcbcb",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "851231",
-            "立法紀錄": "86卷2期2894號上冊 155-206頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7c9cfcdcfcec4cfcecacac4cfcdcfc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cecbcfcfc5cacac6d2c9cfcc"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "860218",
-            "立法紀錄": "86卷3期2895號 4-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7c9cfcccfcfc4cfcfcfcbc4cfcfcfc8",
+            "進度": "委員會審查",
+            "會議日期": "891214",
+            "立法紀錄": "90卷4期3138號 411-433頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c6cfcfcbcfcfc4cfcbcecec4cfcbcccc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860225",
-            "立法紀錄": "86卷4期2896號一冊 168-169頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7c9cfcbcfcec4cfcec9c7c4cfcec9c6",
-            "關係文書": []
+            "會議日期": "900104",
+            "立法紀錄": "90卷5期3139號二冊 576-605頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c6cfcfcacfcdc4cfcac8c9c4cfc9cfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec7cfcec5cec8cdd2cec6c6"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860225",
-            "立法紀錄": "86卷4期2896號一冊 169-169頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc981c7c9cfcbcfcec4cfcec9c6c4cfcec9c6",
+            "會議日期": "900104",
+            "立法紀錄": "90卷5期3139號二冊 605-606頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cfc881c6cfcfcacfcdc4cfc9cfcac4cfc9cfc9",
             "關係文書": []
         }
     ]
