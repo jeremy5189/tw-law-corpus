@@ -1,29 +1,19 @@
 {
     "title": "警察法",
     "versions": [
-        "中華民國91年5月17日修正",
-        "中華民國91年6月12日公布"
+        "中華民國42年6月2日制定",
+        "中華民國42年6月15日公布"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
             "content": "　　本法依憲法第一百零八條第一項第十七款制定之。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "04101",
-                        "law_name": "中華民國憲法",
-                        "numbers": [
-                            "第一百零八條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
@@ -34,75 +24,31 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　警察官制、官規、教育、服制、勤務制度及其他全國性警察法制，由中央立法並執行之，或交由直轄市、縣（市）執行之。\n　　有關直轄市警政、警衛及縣（市）警衛之實施事項，其立法及執行，應分屬於直轄市、縣（市）。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01167",
-                        "law_name": "警察人員人事條例",
-                        "numbers": [
-                            "第一條"
-                        ]
-                    },
-                    {
-                        "law_no": "01168",
-                        "law_name": "警察教育條例",
-                        "numbers": [
-                            "第一條"
-                        ]
-                    },
-                    {
-                        "law_no": "01170",
-                        "law_name": "警察勤務條例",
-                        "numbers": [
-                            "第一條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　警察官制、官規、教育、服制、勤務制度及其他全國性警察法制，由中央立法並執行之，或交由省、縣執行之。\n　　有關省（直轄市）警政，與縣（市）警衛之實施事項，其立法與執行，應分屬於省（直轄市）、縣（市）。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　內政部掌理全國警察行政，並指導監督各直轄市警政、警衛及縣（市）警衛之實施。",
+            "content": "　　內政部掌理全國警察行政，並指導監督各省（直轄市）警政之實施。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第五條",
             "content": "　　內政部設警政署（司），執行全國警察行政事務，並掌理左列全國性警察業務：\n　　一、關於拱衛中樞，準備應變，及協助地方治安之保安警察業務。\n　　二、關於保護外僑及處理涉外案件之外事警察業務。\n　　三、關於管理出入國境及警備邊疆之國境警察業務。\n　　四、關於預防犯罪及協助偵查內亂外患重大犯罪之刑事警察業務。\n　　五、關於防護連跨數省河湖及警衛領海之水上警察業務。\n　　六、關於防護國營鐵路、航空、工礦、森林、漁、鹽等事業設施之各種專業警察業務。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01166",
-                        "law_name": "警察法",
-                        "numbers": [
-                            "第六條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第六條",
             "content": "　　前條第一款保安警察，遇有必要，派往地方執行職務時，應受當地行政首長之指揮、監督。\n　　第四款刑事警察，兼受當地法院檢察官之指揮、監督。第六款各種專業警察，得由各該事業主管機關視業務需要，商准內政部依法設置，並由各該事業主管機關就其主管業務指揮、監督之。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "01166",
-                        "law_name": "警察法",
-                        "numbers": [
-                            "第五條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　（刪除）",
+            "content": "　　省政府設警政廳（處科），掌理全省警察行政及業務，並指揮、監督各縣（市）警衛之實施。",
             "relates": {}
         },
         {
@@ -150,23 +96,13 @@
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　中央設警察大學、警察專科學校，辦理警察教育。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01168",
-                        "law_name": "警察教育條例",
-                        "numbers": [
-                            "第一條"
-                        ]
-                    }
-                ]
-            }
+            "content": "　　中央設警官學校，為高級警察教育機關，各省（直轄市）設警察學校，為初級警察教育機關。",
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　地方警察機關預算標準，由中央按各該地區情形分別規劃之。\n　　前項警察機關經費，如確屬不足時，得陳請中央補助。",
+            "content": "　　地方警察機關預算標準，由中央按各該地區情形分別規劃之。\n　　前項警察機關經費，如確實不足時，得呈請補助。省（直轄市）由中央補助，縣（市）由省補助。",
             "relates": {}
         },
         {
@@ -178,7 +114,7 @@
         {
             "note": "",
             "rule_no": "第十八條",
-            "content": "　　各級警察機關、警察大學、警察專科學校之武器彈藥，其統籌調配辦法，由內政部定之。",
+            "content": "　　各級警察機關之武器彈藥，由中央統籌調配之。",
             "relates": {}
         },
         {
@@ -194,46 +130,51 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十八條": "　　為使「警察機關武器彈藥調配保管辦法」有法源依據，爰修正本條文。"
-    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 11-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cfc7cb81c6cecccccfcec4cfcfcecec4cfcfcecd",
-            "主提案": "行政院",
+            "會議日期": "420407",
+            "立法紀錄": "42卷11期號3冊 32-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfccc4cfcfcccdc4cfcfccc9",
+            "主提案": "陳祖貽",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2c8"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5cbc9d2cbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cecdc9d2ceccc7"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 99-99頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cfc7cb81c6cecccacfcec4cfcfc6c6c4cfcfc6c6",
+            "進度": "一讀",
+            "會議日期": "420410",
+            "立法紀錄": "42卷11期號4冊 20-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfcbc4cfcfcdcfc4cfcfcdcc",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "420529",
+            "立法紀錄": "42卷11期號9冊 62-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfc6c4cfcfc9cdc4cfcfc8c8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcdcfcfc5c6d2cecd"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 189-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cfc7cb81c6cecccacfcec4cfcec7c6c4cfcec7c6",
+            "會議日期": "420529",
+            "立法紀錄": "42卷11期號9冊 126-130頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfc6c4cfcecdc9c4cfcecccf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 189-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc7c6c6cfc7cb81c6cecccacfcec4cfcec7c6c4cfcec7c6",
+            "會議日期": "420602",
+            "立法紀錄": "42卷11期號9冊 147-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6cdcdcc81cbcdcececfc6c4cfcecbc8c4cfcecacd",
             "關係文書": []
         }
     ]
