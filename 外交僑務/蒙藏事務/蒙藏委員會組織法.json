@@ -1,17 +1,18 @@
 {
     "title": "蒙藏委員會組織法",
     "versions": [
-        "中華民國36年9月25日修正",
-        "中華民國36年10月4日公布"
+        "中華民國69年12月26日修正",
+        "中華民國70年1月12日公布"
     ],
     "types": [
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
-            "content": "　　蒙藏委員會依國民政府組織法第二十條之規定組織之。",
+            "content": "　　蒙藏委員會依行政院組織法第三條之規定組織之。",
             "relates": {}
         },
         {
@@ -175,6 +176,57 @@
             "rule_no": "第二十八條",
             "content": "　　本法自公布日施行。",
             "relates": {}
+        }
+    ],
+    "law_reasons": {
+        "第一條": "　　本條依據行政院組織法第三條之規定修正。"
+    },
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "691017",
+            "立法紀錄": "69卷84期1360號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c9c6c9c9c7cbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcdcfcfc5c9c6cdd2c9c6cb"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "691211",
+            "立法紀錄": "70卷37期1418號 63-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c8cfc9c8ccc8cfcfc4cfcfc9ccc4cfcfc9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "691226",
+            "立法紀錄": "69卷104期1380號 58-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c9c6c9c9cecfcbcfcfc4cfcfcac7c4cfcfcac6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5ceccccd2ceccca"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "691226",
+            "立法紀錄": "69卷104期1380號 59-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c9c6c9c9cecfcbcfcfc4cfcfcac6c4cfcfcac6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "691226",
+            "立法紀錄": "69卷104期1380號 60-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c9c6c9c9cecfcbcfcfc4cfcfc9cfc4cfcfc9cf",
+            "關係文書": []
         }
     ]
 }
