@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國93年12月24日修正",
-        "中華民國94年1月12日公布"
+        "中華民國94年1月21日修正",
+        "中華民國94年2月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -234,7 +234,7 @@
         {
             "note": "",
             "rule_no": "第三十三條",
-            "content": "　　立法委員依其所屬政黨參加黨團，每一黨團至少須有八人以上。但於立法委員選舉得票比率已達百分之五以上之政黨不在此限。\n　　未能依前項規定組成黨團之政黨或無黨籍之委員，得加入其他黨團，或合組八人以上之政團。\n　　前項政團準用有關黨團之規定。\n　　各黨團應於開議日前一日，將各黨團所屬委員名單經黨團負責人簽名後，送交人事處，以供認定委員所參加之黨團。\n　　黨團辦公室由立法院提供之。",
+            "content": "　　立法委員依其所屬政黨參加黨團，每一黨團至少須有六人以上。但於立法委員選舉得票比率已達百分之五以上之政黨，不在此限。\n　　未能依前項規定組成黨團之政黨或無黨籍之委員，得加入其他黨團，或合組六人以上之政團。\n　　前項政團準用有關黨團之規定。\n　　各黨團應於開議日前一日，將各黨團所屬委員名單經黨團負責人簽名後，送交人事處，以供認定委員所參加之黨團。\n　　黨團辦公室由立法院提供之。",
             "relates": {}
         },
         {
@@ -252,71 +252,59 @@
         {
             "note": "",
             "rule_no": "第三十五條",
-            "content": "　　本法自公布日施行。\n　　本法九十年十月三十日修正之第三十三條條文，自立法院第五屆立法委員就職日起施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十四年一月二十一日修正之第三十三條條文，自立法院第六屆立法委員就職日起施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十五條": "　　照黨團協商條文通過。",
-        "第二十二條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第二十二條 之二": "　　一、本條新增。\n　　二、配合第十五條新設「議政博物館」，規定其掌理事項。",
-        "第二十三條": "　　一、立法院依憲法規定有監督制衡行政機關之憲政功能，復以我國多黨政治已趨成形，行政與立法間互動頻繁，而立法院現僅置秘書長及副秘書長各一名，平日列席院會及處理院務已甚為繁忙，允宜參酌行政院現有編製，增置顧問，俾協助首長處理院務。\n　　二、再者立法院在成立中部服務中心及議政博物館後，立法院委員、各單位與各級行政機關間之溝通及協調之次數必定增加，亦宜有資深且經驗豐富之人，提供議事、法規上之諮詢，並肩負院本部與中部服務中心及議政博物館間之指揮及協調工作，故亦有置顧問之必要。\n　　三、爰增置顧問一至二人，並相對減少參事員額，修正為五人至七人。",
-        "第二十七條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第二十七條 之二": "　　一、本條新增。\n　　二、配合新增議政博物館，規定其員額及職務列等。",
-        "第三十三條 之一": "　　一、本條新增。\n　　二、配合新增單位，規定其人員優先自台灣省諮議會移撥，及其中原依僱員管理規則僱用之現職僱員，其未具公務人員任用資格者，得佔用第二十七條之一、第二十七條之二書記職缺，繼續僱用至離職為止。"
+        "第三十三條": "　　有鑑於黨團在國會政黨政治運作之重要性，為維護黨團協商機制，並充分保障少數席次政黨及弱勢族群權益，爰將第一項及第二項中組成黨團及合組政團人數由現行八人修正為六人。",
+        "第三十五條": "　　配合修正條文第三十三條，明定該條文自立法院第六屆立法委員就職日起施行，以資明確。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "931001",
-            "立法紀錄": "93卷41期3375號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7c681c6cccbcecfcfc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "940120",
+            "立法紀錄": "94卷7期3389號上冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcfcfcec4cfcfcfce",
             "主提案": "無黨團結聯盟黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cfcdcfccc5cccbc6d2cccac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecccfcfc5cececcd2cececb"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "931103",
-            "立法紀錄": "93卷47期3381號上冊 355-362頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7c681c6cccbc8cfcec4cfcccacac4cfccc9cd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": " ",
+            "立法紀錄": "94卷7期3389號上冊 416-418頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcbcec9c4cfcbcec7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "931224",
-            "立法紀錄": "94卷1期3383號上冊 27-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7c681c6cbcfcecfcec4cfcfcdc8c4cfcfccca",
+            "進度": "黨團協商",
+            "會議日期": "940120",
+            "立法紀錄": "94卷7期3389號上冊 1-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcfcfcec4cfcdcdcc",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cfc6cfcdc5c9ccd2c8cc"
+                    "",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecccfcdc5cacdcf"
                 ]
             ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "931224",
-            "立法紀錄": "94卷1期3383號上冊 203-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7c681c6cbcfcecfcec4cfcdcfccc4cfcdcfcb",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "931224",
-            "立法紀錄": "94卷1期3383號上冊 204-205頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7c681c6cbcfcecfcec4cfcdcfcbc4cfcdcfca",
+            "會議日期": "940121",
+            "立法紀錄": "94卷7期3389號上冊 418-418頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcbcec7c4cfcbcec7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "931224",
-            "立法紀錄": "94卷1期3383號上冊 205-205頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c7c681c6cbcfcecfcec4cfcdcfcac4cfcdcfca",
+            "會議日期": "940121",
+            "立法紀錄": "94卷7期3389號上冊 418-418頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcbcec7c4cfcbcec7",
             "關係文書": []
         }
     ]
