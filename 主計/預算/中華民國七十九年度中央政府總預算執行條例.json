@@ -1,12 +1,10 @@
 {
     "title": "中華民國七十九年度中央政府總預算執行條例",
     "versions": [
-        "中華民國78年5月26日制定",
-        "中華民國78年6月15日公布"
+        "中華民國84年11月1日期滿廢止"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -82,52 +80,5 @@
             "relates": {}
         }
     ],
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "780317",
-            "立法紀錄": "78卷22期2238號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdc881c8c7cfcdcdcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccfc9cfcfc5ccc8ccd2ccc8cb"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "780330",
-            "立法紀錄": "78卷89期2305號 18-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdc881c8c7cfc7c6cfcfc4cfcfcec7c4cfcfcbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "780515",
-            "立法紀錄": "79卷45期2365號 272-283頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdc881c8c6cfcbcacfcfc4cfcdc8cdc4cfcdc7cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "780526",
-            "立法紀錄": "78卷42期2258號 281-283頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdc881c8c7cfcbcdcfcfc4cfcdc7cec4cfcdc7cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cccdcdcfcfc5cac7c9d2c9c8ce"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "780526",
-            "立法紀錄": "78卷42期2258號 283-310頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcdc881c8c7cfcbcdcfcfc4cfcdc7ccc4cfcccecf",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": ""
 }
