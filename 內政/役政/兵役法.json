@@ -1,12 +1,12 @@
 {
     "title": "兵役法",
     "versions": [
-        "中華民國48年7月21日修正",
-        "中華民國48年7月31日公布"
+        "中華民國63年7月2日修正",
+        "中華民國63年7月12日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -240,7 +240,7 @@
         {
             "note": "",
             "rule_no": "第三十五條",
-            "content": "　　經徵兵檢查，適於服現役者，依國防部所定兵額徵集入營服役。以每年一月一日為正規入營期，必要時得另定補助入營期，適於服國民兵役者，其徵集程序，除不入營外與現役同。\n　　同等體位之合格人數有餘或不足時，依常備兵、補充兵、國民兵之順序，按體位與抽籤號次徵集之。",
+            "content": "　　經徵兵檢查，適於服現役者，依國防部所定兵額，徵集入營服役，以每年一月一日為正規入營期，必要時得另定補助入營期；適於服國民兵役者，其徵集程序，除不入營外，與現役同。\n　　適服現役之人數有餘或不足時，依常備兵、補充兵、國民兵之順序，按抽籤號次徵集之。",
             "relates": {}
         },
         {
@@ -374,57 +374,36 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三十五條": "　　為求甲乙等體位役男之服役機會均等，兵役機構徵兵檢查實施容易，以及杜絕兵役弊端修正第二項條文，使超額役男服補充兵役者，可在甲乙等體位內按平均比率抽籤決定，不按體位順序，以維護公平合理之優良制度。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "480414",
-            "立法紀錄": "48卷23期號9冊 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccfc6c4cfcfcfccc4cfcfcfcb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcdcfcfc5cdc6d2ccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "480703",
-            "立法紀錄": "48卷23期號21冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccdcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cdc6ccd2cdc6ca"
-                ]
-            ]
+            "會議日期": "630618",
+            "立法紀錄": "63卷44期700號 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c881c9cccacccbcbcfcfcfcec4cfcfcdc8c4cfcfcdc8",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480721",
-            "立法紀錄": "48卷23期號23冊 4-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccdccc4cfcfcfcbc4cfcfceca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcccfcccfcfc5cbc7c8d2cbc6c7"
-                ]
-            ]
+            "會議日期": "630702",
+            "立法紀錄": "63卷47期703號 7-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c881c9cccacccbc8cfcfcfcec4cfcfcfc8c4cfcfcece",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480721",
-            "立法紀錄": "48卷23期號23冊 44-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccdccc4cfcfcbcbc4cfcfcbca",
+            "會議日期": "630702",
+            "立法紀錄": "63卷47期703號 11-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c881c9cccacccbc8cfcfcfcec4cfcfcecec4cfcfcecd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480721",
-            "立法紀錄": "48卷23期號23冊 55-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c981cbc7cdcccdccc4cfcfcacac4cfcfcac8",
+            "會議日期": "630702",
+            "立法紀錄": "63卷47期703號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcacfc9c881c9cccacccbc8cfcfcfcec4cfcfcecdc4cfcfcecd",
             "關係文書": []
         }
     ]
