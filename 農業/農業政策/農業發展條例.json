@@ -1,12 +1,12 @@
 {
     "title": "農業發展條例",
     "versions": [
-        "中華民國72年7月15日全文修正",
-        "中華民國72年8月1日公布"
+        "中華民國74年12月24日修正",
+        "中華民國75年1月6日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -22,7 +22,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第二條",
-            "content": "　　農業主管機關：中央為經濟部；省（市）為省（市）政府；縣（市）為縣（市）政府。",
+            "content": "　　農業主管機關：中央為行政院農業委員會；省（市）為省（市）政府；縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -360,128 +360,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第二條": "　　配合主管機關改隸，將「經濟部」修正為「行政院農業委員會」。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "720426",
-            "立法紀錄": "72卷34期1623號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cecccbcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "741206",
+            "立法紀錄": "74卷98期1896號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cb81c8cbcfc6c7cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfcbcfcfc5c9cbcdd2c9c8cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc9cfcfc5cacecbd2cacec8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "720507",
-            "立法紀錄": "72卷64期1653號 36-44頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cec9cbcfcfc4cfcfccc9c4cfcfcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720514",
-            "立法紀錄": "72卷65期1654號 9-16頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cec9cacfcfc4cfcfcfc6c4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720519",
-            "立法紀錄": "72卷66期1655號 15-27頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cec9c9cfcfc4cfcfcecac4cfcfcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720525",
-            "立法紀錄": "72卷67期1656號 2-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cec9c8cfcfc4cfcfcfcdc4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720528",
-            "立法紀錄": "72卷68期1657號 25-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cec9c7cfcfc4cfcfcdcac4cfcfcccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720602",
-            "立法紀錄": "72卷69期1658號 22-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cec9c6cfcfc4cfcfcdcdc4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720608",
-            "立法紀錄": "72卷73期1662號 2-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cec8cccfcfc4cfcfcfcdc4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720609",
-            "立法紀錄": "72卷79期1668號 141-155頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cdc8c6cfcfc4cfcecbcec4cfcecaca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "720616",
-            "立法紀錄": "72卷81期1670號 131-144頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cdc7cecfcfc4cfcecccec4cfcecbcb",
+            "會議日期": "741219",
+            "立法紀錄": "75卷30期1932號 96-98頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cb81c8cacfcccfcfcfc4cfcfc6c9c4cfcfc6c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "720628",
-            "立法紀錄": "72卷52期1641號 15-82頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cecacdcfcfc4cfcfcecac4cfcfc7cd",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 27-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cb81c8cbcecfcccfcfc4cfcfcdc8c4cfcfcdc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cecfc7cfcfc5cac6cfd2c9cccb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8c9cfc6cfcfc5cec6c6d2cdcfce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "720701",
-            "立法紀錄": "72卷53期1642號 7-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cecacccfcfc4cfcfcfc8c4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "720705",
-            "立法紀錄": "72卷54期1643號 6-34頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cecacbcfcfc4cfcfcfc9c4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "720708",
-            "立法紀錄": "72卷55期1644號 5-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cecacacfcfc4cfcfcfcac4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "720712",
-            "立法紀錄": "72卷56期1645號 7-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cecac9cfcfc4cfcfcfc8c4cfcfcdcf",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 29-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cb81c8cbcecfcccfcfc4cfcfcdc6c4cfcfcdc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "720715",
-            "立法紀錄": "72卷57期1646號 6-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cd81c8cdc8cecac8cfcfc4cfcfcfc9c4cfcfcec7",
+            "會議日期": "741224",
+            "立法紀錄": "74卷103期1901號 29-30頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7cb81c8cbcecfcccfcfc4cfcfcdc6c4cfcfcccf",
             "關係文書": []
         }
     ]
