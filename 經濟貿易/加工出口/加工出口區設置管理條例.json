@@ -1,12 +1,12 @@
 {
     "title": "加工出口區設置管理條例",
     "versions": [
-        "中華民國60年11月19日全文修正",
-        "中華民國60年11月25日公布"
+        "中華民國68年12月11日修正",
+        "中華民國68年12月24日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -66,7 +66,7 @@
         {
             "note": "(外銷事業申請創設之程序)",
             "rule_no": "第十條",
-            "content": "　　外銷事業申請創設，應填具申請書檢附有關資料向管理處申請，或向分處申請核轉，由管理處會同有關機關審查核定；其審查辦法由經濟部定之。\n　　經核准創設之外銷事業於創設完成後，由分處發給外銷營利事業登記證。\n　　前項外銷營利事業登記證包括工廠登記、商業登記、營業登記及特許登記。\n　　外銷事業之其他申請事項，均由管理處或分處核辦或核轉有關機關核辦之。",
+            "content": "　　外銷事業申請創設，應填具申請書檢附有關資料向管理處申請，或向分處申請核轉，由管理處會同有關機關審查核定；其審查辦法由經濟部定之。\n　　經核准創設之外銷事業於創設完成後，由管理處或分處發給外銷營利事業登記證。\n　　前項外銷營利事業登記證包括工廠登記、商業登記、營業登記及特許登記。\n　　外銷事業之其他申請事項，均由管理處或分處核辦或核轉有關機關核辦之。",
             "relates": {}
         },
         {
@@ -90,7 +90,7 @@
         {
             "note": "(區內事業免稅貨品不得輸往課稅區及例外)",
             "rule_no": "第十四條",
-            "content": "　　依前條第一項規定免徵進口稅捐之物資，不得輸往課稅區。但屬於准許進口類並具有左列情形之一而確屬無法在區內處分，經管理處或分處查明屬實，轉報貿易主管機關核准者，得於依法課稅後輸往課稅區：\n　　一、外銷事業宣告解散者。\n　　二、外銷事業所有前條第一項所列免徵稅捐之物資，因清償債務經法院強制執行者。\n　　三、外銷事業因管理處或分處依法勒令遷出加工出口區者。\n　　前條第一項第一款所稱由國外輸入之自用機器設備，依本條之規定輸往課稅區者，按自國外進口時之價格課稅。",
+            "content": "　　外銷事業依前條第一項規定免徵進口稅捐之物資，不得輸往課稅區。但屬於准許進口類並具有左列情形之一而確屬無法在區內處分，經管理處查明屬實，轉報貿易主管機關核准者，得於依法課稅後輸往課稅區：\n　　一、宣告解散者。\n　　二、因合併、減資或生產計畫變更經管理處核准而結束部分業務者。\n　　三、因清償債務經法院強制執行者。\n　　四、經管理處依法勒令遷出加工出口區者。\n　　五、經管理處核准更新機器或設備後汰餘之自置舊機器或設備。但以原係新品進口，而不能在加工出口區內利用或外銷者為限。\n　　依前項規定核准輸往課稅區之機器設備，按其輸往課稅區時之價格與稅率課徵關稅。\n　　外銷事業因第一項各款之事由所致賸餘而無法利用之原料或物料輸往課稅區者，按其輸往課稅區時新品之價格與稅率課徵關稅及有關稅捐。\n　　第一項第二款及第五款之審查辦法，由經濟部定之。",
             "relates": {}
         },
         {
@@ -196,191 +196,69 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十條": "　　依照本條例第八條第一項第十一款及第二項之規定，「所在區工商登記之核准發證」屬管理處掌理事項，而設有分處之加工出口區則由分處掌理之。而本條第二項規定外銷營利事業登記證由分處發給，爰增訂管理處亦為發證機關，俾符未設分處之加工出口區之實際作業而資適用。",
+        "第十四條": "　　增訂第二款文字，以適應當前廠商經營情況之需要。\n　　原第二、三款改為三、四款，並作文字修正。\n　　第五款之增訂，乃為使更新後之舊機器設備得以補繳關稅內銷，並規定其以原係新品進口而不能在區內利用或外銷者為限，以杜流弊。\n　　第二項以依本條第一項規定核准輸往課稅區之機器設備，如仍按自國外進口時之價格課稅內銷，極易形成稅賦高於售價，處理困難，而窒礙銀行辦理動產抵押意願，爰配合關稅法第三十一條第一項之規定按轉讓或變更用途時之價格與稅率補繳關稅之精神修正本條第二項。\n　　增訂第三項，規定因第一項之事由而致無法利用之原料及物料得補繳關稅內銷，以符實際需要。\n　　增訂第四項文字，由經濟部訂定之「審查辦法」，係供管理處「核准」之依據，以示慎重。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "591218",
-            "立法紀錄": "59卷94期0號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81cac6cbc9c6cbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "680724",
+            "立法紀錄": "68卷59期1231號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecd81c9c7c9cccac6cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc9cfcbcfcfc5cecdcbd2cecacc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cccfcbcfcfc5c8ccc8d2c8cbcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "600424",
-            "立法紀錄": "60卷38期392號 1-36頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8ccc7cfcfcfcdc4cfcfcfcec4cfcfccc9",
+            "會議日期": "681018",
+            "立法紀錄": "69卷9期1285號 34-41頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecd81c9c6c9cbcfc6cfcfc4cfcfcccbc4cfcfcbce",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "600426",
-            "立法紀錄": "60卷39期393號 7-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8ccc6cfcfcfcdc4cfcfcfc8c4cfcfcecc",
+            "會議日期": "681101",
+            "立法紀錄": "69卷12期1288號 24-30頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecd81c9c6c9cbcecdcfcfc4cfcfcdcbc4cfcfcccf",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "600506",
-            "立法紀錄": "60卷42期396號 6-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8cbcdcfcfcfcdc4cfcfcfc9c4cfcfcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600515",
-            "立法紀錄": "60卷43期397號 6-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8cbcccfcfcfcdc4cfcfcfc9c4cfcfcecd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600517",
-            "立法紀錄": "60卷44期398號 1-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8cbcbcfcfcfcdc4cfcfcfcec4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600527",
-            "立法紀錄": "60卷45期399號 1-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8cbcacfcfcfcdc4cfcfcfcec4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600605",
-            "立法紀錄": "60卷48期402號 1-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8cbc7cfcfcfcdc4cfcfcfcec4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600612",
-            "立法紀錄": "60卷52期406號 13-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8cacdcfcfcfcdc4cfcfceccc4cfcfcdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600619",
-            "立法紀錄": "60卷56期410號 1-10頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8cac9cfcfcfcdc4cfcfcfcec4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600626",
-            "立法紀錄": "60卷57期411號 8-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8cac8cfcfcfcdc4cfcfcfc7c4cfcfceca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600703",
-            "立法紀錄": "60卷60期414號 1-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8c9cfcfcfcfcdc4cfcfcfcec4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600710",
-            "立法紀錄": "60卷61期415號 18-26頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8c9cecfcfcfcdc4cfcfcec7c4cfcfcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600717",
-            "立法紀錄": "60卷62期416號 4-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8c9cdcfcfcfcdc4cfcfcfcbc4cfcfcecc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600721",
-            "立法紀錄": "60卷63期417號 13-21頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8c9cccfcfcfcdc4cfcfceccc4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600728",
-            "立法紀錄": "60卷64期418號 1-10頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8c9cbcfcfcfcdc4cfcfcfcec4cfcfcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "600804",
-            "立法紀錄": "60卷66期420號 1-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8c9c9cfcfc4cfcfcfcec4cfcfcfca",
+            "會議日期": "681110",
+            "立法紀錄": "69卷15期1291號 25-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecd81c9c6c9cbcecacfcfc4cfcfcdcac4cfcfcdc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "600814",
-            "立法紀錄": "60卷62期416號 2-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8c9cdcfcfcfcec4cfcfcfcdc4cfcfccc8",
+            "會議日期": "681211",
+            "立法紀錄": "68卷99期1271號 20-26頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecd81c9c7c9cbc6c6cfcfc4cfcfcdcfc4cfcfcdc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc8cfcbcfcfc5c8ccc8d2c8c9cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcccfcfc5cacacfd2cacac9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "600824",
-            "立法紀錄": "60卷65期419號 21-22頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc8c9cacfcfcfcec4cfcfcdcec4cfcfcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "601019",
-            "立法紀錄": "60卷80期433號 29-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc7c7cfcfcfcfcec4cfcfcdc6c4cfcfccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "601022",
-            "立法紀錄": "60卷81期434號 7-21頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc7c7cecfcfcfcec4cfcfcfc8c4cfcfcdce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "601026",
-            "立法紀錄": "60卷82期435號 2-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc7c7cdcfcfcfcec4cfcfcfcdc4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "601109",
-            "立法紀錄": "60卷86期439號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc7c7c9cfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "601109",
-            "立法紀錄": "60卷86期439號 7-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc7c7c9cfcfcfcec4cfcfcfc8c4cfcfcfc7",
+            "會議日期": "681211",
+            "立法紀錄": "68卷99期1271號 26-26頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecd81c9c7c9cbc6c6cfcfc4cfcfcdc9c4cfcfcdc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "601119",
-            "立法紀錄": "60卷89期442號 2-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcece81c9cfcbc7c7c6cfcfcfcec4cfcfcfcdc4cfcfcfc7",
+            "會議日期": "681211",
+            "立法紀錄": "68卷99期1271號 26-26頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cacbcecd81c9c7c9cbc6c6cfcfc4cfcfcdc9c4cfcfcdc9",
             "關係文書": []
         }
     ]
