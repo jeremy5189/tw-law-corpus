@@ -1,12 +1,11 @@
 {
     "title": "中華民國五十四年度公債發行條例",
     "versions": [
-        "中華民國63年12月6日廢止",
-        "中華民國63年12月17日公布"
+        "中華民國53年8月18日制定",
+        "中華民國53年8月21日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -86,30 +85,6 @@
             "rule_no": "第十三條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　「中華民國五十四年度公債發行條例」，依還本付息期限自開付之日起至當年會計年度終了後五年止之規定，應於民國63年6月30日終止兌付，現本條例已執行完畢，爰予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "630920",
-            "立法紀錄": "63卷70期726號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6ce81c9cccaccc8cfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "631005",
-            "立法紀錄": "63卷80期736號 9-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6ce81c9cccacbc7cfcfcfc4cfcfcfc6c4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "631206",
-            "立法紀錄": "63卷92期748號 9-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecacac9cccfcacbc6ce81c9cbcacbc6cdcfcfcfcec4cfcfcfc6c4cfcfcecf",
-            "關係文書": []
         }
     ]
 }
