@@ -1,12 +1,11 @@
 {
     "title": "財政部各區鹽務管理局組織條例",
     "versions": [
-        "中華民國97年4月22日廢止",
-        "中華民國97年5月7日公布"
+        "中華民國36年12月27日制定",
+        "中華民國37年1月10日公布"
     ],
     "types": [
-        "廢止理由",
-        "立法歷程"
+        "異動條文"
     ],
     "law_data": [
         {
@@ -74,35 +73,6 @@
             "rule_no": "第十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
-        }
-    ],
-    "deprecated_reason": "　　財政部各區鹽務管理局組織條例於民國三十七年一月十日由國民政府公布，並於民國七十年一月十二日總統令暫停適用，因鹽務業務已於民國七十年移撥經濟部掌理，已無繼續適用之必要，爰予廢止。",
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "970307",
-            "立法紀錄": "97卷003期3614號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc7cbc781c6c8cfcccfcfc4cfcfcfcbc4cfcfcfcb",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfccc8cdc5cecaced2cecacd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "970411",
-            "立法紀錄": "97卷015期3626號 79-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc7cbc781c6c8cecacfcfc4cfcfc8c6c4cfcfc7cf",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷016期3627號 54-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfccc7cbc781c6c8cec9cfcfc4cfcfcacbc4cfcfcac6",
-            "關係文書": []
         }
     ]
 }
