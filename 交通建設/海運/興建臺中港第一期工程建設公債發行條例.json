@@ -1,11 +1,11 @@
 {
     "title": "興建臺中港第一期工程建設公債發行條例",
     "versions": [
-        "中華民國91年5月14日廢止",
-        "中華民國91年5月29日公布"
+        "中華民國61年3月17日制定",
+        "中華民國61年3月28日公布"
     ],
     "types": [
-        "廢止理由",
+        "異動條文及理由",
         "立法歷程"
     ],
     "law_data": [
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　本公債各期債票利息，由省政府報請行政院定之。但調整時，不得低於發行時利率。自發行之日起，每六個月付息一次。",
+            "content": "　　本公債各期債票利息，由省政府呈報行政院核定。但利率不得超過年息百分之十一，自發行之日起，每六個月付息一次。",
             "relates": {}
         },
         {
@@ -82,44 +82,65 @@
             "relates": {}
         }
     ],
-    "deprecated_reason": "　　臺灣省政府原依「興建臺中港第一期工程建設公債發行條例」、「興建臺中港第二期工程建設公債發行條例」、「興建臺中港第三期工程建設公債發行條例」、「臺灣鐵路電氣化工程建設公債發行條例」及臺北市政府依據「臺北市自來水工程建設公債發行條例」，所發行之公債，均已分別逾兌付期限或兌付完竣，以上五條例乃屬法規規定之事項已執行完畢者，依中央法規標準法第二十一條第二款規定，爰予一併廢止。",
+    "law_reasons": {
+        "第一條": "　　闡明本條例制定之目的。",
+        "第二條": "　　一、本公債發行金額，依臺中港建港第一期工程需要擬定。\n　　二、為顧慮本工程計劃在執行期間，進度或有超前落後情形，故其分年、分期發行數額、日期，由省政府視工程進度需要情形核定，並報行政院備查，以適應實際需要。",
+        "第三條": "　　參照以往各年度中央政府公債發行條例之成規。",
+        "第四條": "　　一、參照本年度公債發行條例及高速公路公債發行條例之成規訂定。\n　　二、本公債將在五個年度內分別發行，為適應市場變化，其債券利率，以較具彈性之規定為宜。",
+        "第五條": "　　參照高速公路發行公債條例之規定，本公債自發行之日起屆滿三年，開始還本，每年平均還本一次，分五年全部還清。",
+        "第六條": "　　參照以往各年度中央政府公債發行條例之成規。",
+        "第七條": "　　記名債票，得申請掛失及補發，可以維護記名者之權益。無記名債票，不得掛失止付，可以加強債票流通性，免滋紛擾。爰參照以往各年度中央政府公債發行條例之規定訂定",
+        "第八條": "　　照中央公債發行條例成規及高速公路建設公債發行條例之規定訂定。",
+        "第九條": "　　本公債係授權省政府發行，臺灣銀行代理省庫，參照中央政府公債發行條例成規，規定由臺灣銀行經理。",
+        "第十條": "　　參照以往各年度中央政府公債發行條例之成規訂定。",
+        "第十一條": "　　參照一般公債條例訂定。",
+        "第十二條": "　　照一般立法通例，明定本條例施行日期。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910326",
-            "立法紀錄": "91卷20期3216號 7-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcecccecb81c6cecdcfcfcfc4cfcfcfc8c4cfcfcfc7",
+            "會議日期": "610107",
+            "立法紀錄": "61卷3期456號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec8cfcf81c9cecbc7cfcccfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5c9cacad2c9c9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5cac9c8d2cac8cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910502",
-            "立法紀錄": "91卷44期3240號下冊 283-286頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcecccecb81c6cecbcbcfccc4cfcdc7ccc4cfcdc7c9",
+            "會議日期": "610624",
+            "立法紀錄": "61卷46期499號 45-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec8cfcf81c9cecbc6cbc9cfcfcfcdc4cfcfcbcac4cfcfcacf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 141-147頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcecccecb81c6cecccbcfcec4cfcecbcec4cfcecbc8",
+            "會議日期": "610310",
+            "立法紀錄": "61卷20期473號 15-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec8cfcf81c9cecbc6cdcfcfcfcfcec4cfcfcecac4cfcfcdcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececdcfcec5cbcdced2cbccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc6cfcecfcfc5caced2cac7"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "610310",
+            "立法紀錄": "61卷20期473號 23-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec8cfcf81c9cecbc6cdcfcfcfcfcec4cfcfcdccc4cfcfcdcb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 147-147頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcecccecb81c6cecccbcfcec4cfcecbc8c4cfcecbc8",
+            "會議日期": "610317",
+            "立法紀錄": "61卷22期475號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcec8cfcf81c9cecbc6cdcdcfcfcfcec4cfcfcfcdc4cfcfcfcc",
             "關係文書": []
         }
     ]
