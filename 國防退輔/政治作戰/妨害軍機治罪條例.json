@@ -1,8 +1,8 @@
 {
     "title": "妨害軍機治罪條例",
     "versions": [
-        "中華民國46年4月19日修正",
-        "中華民國46年5月2日公布"
+        "中華民國61年1月28日全文修正",
+        "中華民國61年2月8日公布"
     ],
     "types": [
         "立法歷程",
@@ -12,25 +12,25 @@
         {
             "note": "(軍機之意義)",
             "rule_no": "第一條",
-            "content": "　　本條例稱軍機者，指軍事上應保守秘密之消息文書圖畫或物品。\n　　前項消息文書圖畫或物品之種類範圍，由國防部以命令定之。",
+            "content": "　　本條例稱軍機者，指軍事上應保守秘密之消息、文書、圖書或物品。\n　　前項消息、文書、圖畫或物品之種類範圍，由國防部以命令定之。",
             "relates": {}
         },
         {
-            "note": "(職務上洩漏軍機罪)",
+            "note": "(職務業務上洩漏軍機罪)",
             "rule_no": "第二條",
-            "content": "　　因職務上知悉或持有之軍機洩漏交付或公示於他人者處死刑或無期徒刑。\n　　因職務上知悉或持有之軍機洩漏交付或公示於外國或其派遣之人者處死刑。\n　　因過失犯本條之罪者處一年以上七年以下有期徒刑。\n　　預備或陰謀犯第一項或第二項之罪者處十年以上有期徒刑。",
+            "content": "　　因職務上知悉或持有之軍機，洩漏、交付或公示於他人者，處死刑或無期徒刑。\n　　因職務上知悉或持有之軍機，洩漏、交付或公示於外國或其派遣之人者，處死刑。\n　　因業務或受軍事機關委託之人，犯前二項之罪者，處死刑、無期徒刑或十年以上有期徒刑。\n　　因過失犯本條之罪者，處一年以上、七年以下有期徒刑。\n　　預備或陰謀犯第一項或第二項之罪者，處十年以上有期徒刑；犯第三項之罪者，處七年以上有期徒刑。",
             "relates": {}
         },
         {
             "note": "(洩漏刺探收集而得之軍機罪)",
             "rule_no": "第三條",
-            "content": "　　因刺探收集而得之軍機洩漏、交付或公示於他人者處死刑、無期徒刑或十年以上有期徒刑。\n　　因刺探收集而得之軍機、洩漏、交付或公示於外國或其派遣之人者處死刑或無期徒刑。\n　　預備或陰謀犯第一項或第二項之罪者，處三年以上十年以下有期徒刑。",
+            "content": "　　因刺探、收集而得之軍機，洩漏、交付或公示於他人者，處死刑、無期徒刑或十年以上有期徒刑。\n　　因刺探、收集而得之軍機，洩漏、交付或公示於外國或其派遣之人者，處死刑或無期徒刑。\n　　預備或陰謀犯第一項或第二項之罪者，處三年以上、十年以下有期徒刑。",
             "relates": {}
         },
         {
             "note": "(洩漏偶然得知或持有之軍機罪)",
             "rule_no": "第四條",
-            "content": "　　因偶然得知或偶然持有之軍機洩漏、交付或公示於他人者處七年以下有期徒刑。\n　　因偶然得知或偶然持有之軍機洩漏、交付或公示於外國或其派遣之人者處七年以上有期徒刑。",
+            "content": "　　因偶然得知或偶然持有之軍機，洩漏、交付或公示於他人者，處三年以上、十年以下有期徒刑。\n　　因偶然得知或偶然持有之軍機，洩漏、交付或公示於外國或其派遣之人者，處七年以上有期徒刑。\n　　因過失犯前二項之罪者，處三年以下有期徒刑。",
             "relates": {}
         },
         {
@@ -42,31 +42,31 @@
         {
             "note": "(強暴脅迫刺探收集軍機罪)",
             "rule_no": "第六條",
-            "content": "　　以強暴、脅迫或他法使人不能抗拒，而刺探或收集軍機者，處死刑、無期徒刑或七年以上有期徒刑。\n　　預備或陰謀犯前項之罪者，處三年以上十年以下有期徒刑。",
+            "content": "　　以強暴、脅迫或他法使人不能抗拒，而刺探或收集軍機者，處死刑、無期徒刑或七年以上有期徒刑。\n　　預備或陰謀犯前項之罪者，處三年以上、十年以下有期徒刑。",
             "relates": {}
         },
         {
             "note": "(侵入國防處所罪)",
             "rule_no": "第七條",
-            "content": "　　未受允准或以詐術取得允准，而入要塞、堡壘、軍港、軍營、軍用舟車航空器、軍用航空港場、軍械廠庫或其他國防上禁止或限制之空中、地面、水上之指定區域、處所或建築物或滯留其內者處五年以下有期徒刑。\n　　潛攜槍械或爆裂物品器入或私入前項之指定區域處所或建築物者處無期徒刑或十年以上有期徒刑。",
+            "content": "　　未受允准或以詐術取得允准，而入要塞、堡壘、軍港、軍營、軍用舟車航空器、軍用航空港場、軍械廠庫或其他國防上禁止或限制之空中、地面、水上之指定區域、處所或建築物或滯留其內者，處五年以下有期徒刑。\n　　潛攜槍械或爆裂物品，強入或私入前項之指定區域、處所或建築物者，處無期徒刑或十年以上有期徒刑。",
             "relates": {}
         },
         {
             "note": "(侵入國防處所測繪觀測罪)",
             "rule_no": "第八條",
-            "content": "　　未受允准或以詐術取得允准，於前條第一項指定區域處所或建築物，而有左列行為之一者，處一年以上七年以下有期徒刑。\n　　一、為測量、攝影、描繪或記述其內容者。\n　　二、為氣象之觀測者。",
+            "content": "　　未受允准或以詐術取得允准，於前條第一項指定區域、處所或建築物，而有左列行為之一者，處一年以上、七年以下有期徒刑：\n　　一、為測量、攝影、描繪或記述其內容者。\n　　二、為氣象之觀測者。",
             "relates": {}
         },
         {
             "note": "(未遂犯)",
             "rule_no": "第九條",
-            "content": "　　第二條第一項第二項第三條第一項第二項第四條第六條第一項第七條第二項第八條之未遂犯罰之。",
+            "content": "　　第二條第一項至第三項，第三條第一項、第二項，第四條第一項、第二項，第六條第一項、第七條第二項及第八條之未遂犯罰之。",
             "relates": {}
         },
         {
-            "note": "(軍事機關及司法機關之審理)",
+            "note": "(軍事審判機關之審判權)",
             "rule_no": "第十條",
-            "content": "　　犯本條例之罪者，除現役軍人由軍事機關審理外由司法機關審理之。",
+            "content": "　　犯本條例之罪者，現役軍人由軍事審判機關審判，非現役軍人由司法機關審判。但在戰地或戒嚴地域犯之者，不論身分，概由軍事審判機關審判之。",
             "relates": {}
         },
         {
@@ -85,43 +85,90 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "460405",
-            "立法紀錄": "46卷19期號4冊 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcbc4cfcfc8cfc4cfcfc8cf",
+            "會議日期": "601001",
+            "立法紀錄": "60卷74期428號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cfcbc8c8cbcfcfcfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecec6cfcecfcfc5cacfc7d2cacecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcecfcfc5cccacad2ccc9c9"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "601111",
+            "立法紀錄": "60卷94期447號 1-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cfcbc7c6cbcfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "601125",
+            "立法紀錄": "60卷98期451號 1-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cfcbc7c6c7cfcfcfcdc4cfcfcfcec4cfcfcfc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "601118",
+            "立法紀錄": "61卷13期466號 18-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cecbc7cecccfcfc4cfcfcec7c4cfcfcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "601202",
+            "立法紀錄": "61卷15期468號 22-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cecbc6cecacfcfcfcdc4cfcfcdcdc4cfcfcdc6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "460419",
-            "立法紀錄": "46卷19期號5冊 5-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcac4cfcfcfcac4cfcfcfc8",
+            "會議日期": "610114",
+            "立法紀錄": "61卷5期458號 4-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cecbc7cfcacfcfcfcec4cfcfcfcbc4cfcfcec6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcccfcfc5cececdd2cecdcc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "610114",
+            "立法紀錄": "61卷5期458號 19-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cecbc7cfcacfcfcfcec4cfcfcec6c4cfcfcdc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "460405",
-            "立法紀錄": "46卷19期號4冊 108-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcbc4cfcecfc7c4cfcececc",
+            "會議日期": "610118",
+            "立法紀錄": "61卷6期459號 5-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cecbc7cfc9cfcfcfcec4cfcfcfcac4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "460419",
-            "立法紀錄": "46卷19期號5冊 78-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcac4cfcfc8c7c4cfcfc7cf",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cecbc7cfc7cfcfcfcec4cfcfcfcdc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "610125",
+            "立法紀錄": "61卷8期461號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cecbc7cfc7cfcfcfcec4cfcfcfc9c4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "460419",
-            "立法紀錄": "46卷19期號5冊 86-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c881cbc9cec6cfcac4cfcfc7c9c4cfcfc7c8",
+            "會議日期": "610128",
+            "立法紀錄": "61卷9期462號 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c6cbcdcdc8c6c781c9cecbc7cfc6cfcfcfcec4cfcfcfcac4cfcfcfc9",
             "關係文書": []
         }
     ]
