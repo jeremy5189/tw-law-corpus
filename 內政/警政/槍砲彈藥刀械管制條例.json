@@ -1,8 +1,8 @@
 {
     "title": "槍砲彈藥刀械管制條例",
     "versions": [
-        "中華民國74年1月8日修正",
-        "中華民國74年1月18日公布"
+        "中華民國79年7月3日修正",
+        "中華民國79年7月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -95,6 +95,18 @@
         },
         {
             "note": "",
+            "rule_no": "第十三條 之二",
+            "content": "　　犯第七條至第十三條之罪自首，並報繳其持有之槍砲、彈藥、刀械者，減輕或免除其刑；其已移轉持有而據實供述槍砲、彈藥、刀械之來源或去向，因而查獲者，亦同。但於本條例修正公布施行後三個月內自首，並有前段所列情形者，免除其刑。\n　　犯第七條至第十三條之罪，於偵查或審判中自白，並供述槍砲、彈藥、刀械之來源及去向，因而查獲或因而防止重大危害治安事件之發生者，減輕或免除其刑。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十三條 之三",
+            "content": "　　因檢舉而破獲違反本條例之案件，應給與檢舉人獎金。\n　　前項獎金給獎辦法，由行政院定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第十四條",
             "content": "　　獵槍、魚槍專供生活習慣特殊國民之生活工具者，其管理辦法，由中央主管機關定之。",
             "relates": {}
@@ -107,68 +119,49 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　各類炸彈如手榴彈等，為本條例第四條第二款所稱「彈藥」之一種，惟其殺傷力與危險性，不遜於步槍、馬槍、手槍，其未經許可而製造、販賣或運輸，應與未經許可製造、販賣或運輸步槍、馬槍、手槍定以同等之刑度，方屬允當，爰於第二項增列「各類炸彈」以期妥切。\n　　槍讁為具有殺傷力之武器，未經許可製造、販賣或運輸，或意圖供犯罪之用而製造、販賣或運輸，嚴重危害人民自由、生命，破壞社會秩序，危害國家安全，爰將第三項之最重本刑由「無期徒刑」提高為「死刑」，並將有期徒刑由「七年以上」修正為「十年以上」，以期有效遏止槍械之泛濫。",
-        "第十三條 之一": "　　刑法第一百八十七條規定，意圖供自己或他人犯罪之用，而持有槍讁彈藥者，最高可處五年以下有期徒刑，而本條例僅於第七條第四項、第八條第三項、第九條第三項、第十條第三項及第十一條第三項對未經許可無故持有各該條所定槍讁彈藥者，始有處罰規定，且第八條至第十一條各條第三項所定最高本刑為三年以下有期徒刑，反較刑法第一百八十七條之處罰為輕，殊違制定本條例從重處罰之立法目的，爰增列本條例第十三條之一，使本條例規定更臻於嚴密，並免發生法律適用上之疑義。"
+        "第十三條 之二": "　　本條乃為增訂自首、自白者減輕或免除其刑之規定，以鼓勵自新。",
+        "第十三條 之三": "　　為鼓勵檢舉，裨益查緝工作，肅清非法槍械，故增訂本條因檢舉而破獲發給獎金之規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "731211",
-            "立法紀錄": "73卷99期1793號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cd81c8cccfc6c6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "790629",
+            "立法紀錄": "79卷52期2372號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cc81c8c6cfcacdcfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfc9cfcfc5cdccd2cdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cacccecfcfc5c8c7d2c7ce"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "731215",
-            "立法紀錄": "74卷24期1822號 119-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cd81c8cbcfcdcbcfcfc4cfcecec6c4cfcecccf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "731219",
-            "立法紀錄": "74卷26期1824號 2-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cd81c8cbcfcdc9cfcfc4cfcfcfcdc4cfcfcfc8",
+            "進度": "一讀",
+            "會議日期": "790629",
+            "立法紀錄": "79卷52期2372號 23-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cc81c8c6cfcacdcfcfc4cfcfcdccc4cfcfcdc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "731228",
-            "立法紀錄": "73卷104期1798號 106-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cd81c8cccecfcbcfcfc4cfcecfc9c4cfcecdcc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec8cbcfc8cfcfc5cdc8ccd2cdc8c7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "731228",
-            "立法紀錄": "73卷104期1798號 123-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cd81c8cccecfcbcfcfc4cfcecdccc4cfcecdc9",
+            "會議日期": "790629",
+            "立法紀錄": "79卷52期2372號 54-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cc81c8c6cfcacdcfcfc4cfcfcacbc4cfcfc9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "740104",
-            "立法紀錄": "74卷2期1800號 12-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cd81c8cbcfcfcdcfcfc4cfcfcecdc4cfcfcecc",
+            "會議日期": "790703",
+            "立法紀錄": "79卷53期2373號 50-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cc81c8c6cfcacccfcfc4cfcfcacfc4cfcfcace",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "740108",
-            "立法紀錄": "74卷3期1801號 7-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cd81c8cbcfcfcccfcfc4cfcfcfc8c4cfcfcfc7",
+            "會議日期": "790703",
+            "立法紀錄": "79卷53期2373號 51-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcac8cc81c8c6cfcacccfcfc4cfcfcacec4cfcfcace",
             "關係文書": []
         }
     ]
