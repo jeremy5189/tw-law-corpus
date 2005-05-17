@@ -1,8 +1,8 @@
 {
     "title": "全民健康保險法",
     "versions": [
-        "中華民國92年6月6日修正",
-        "中華民國92年6月18日公布"
+        "中華民國94年4月29日修正",
+        "中華民國94年5月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -430,7 +430,7 @@
         {
             "note": "",
             "rule_no": "第六十四條",
-            "content": "　　政府得開徵菸酒社會健康保險附加捐，將收入提列為安全準備。\n　　前項實施辦法，由主管機關會同中央財政主管機關定之，並不受財政收支劃分法有關條文規定之限制。",
+            "content": "　　政府得開徵菸酒健康福利捐，將其收入之一定比例提列為本保險安全準備。\n　　前項菸酒健康福利捐提列一定比例作為本保險安全準備之實施辦法，由主管機關會同中央財政主管機關定之，並不受財政收支劃分法有關條文規定之限制。",
             "relates": {}
         },
         {
@@ -552,7 +552,7 @@
         {
             "note": "",
             "rule_no": "第八十二條",
-            "content": "　　保險對象因汽車交通事故，經本保險提供醫療給付者，本保險之保險人，得向強制汽車責任保險之保險人代位請求該項給付。",
+            "content": "　　保險對象因發生保險事故，而對第三人有損害賠償請求權者，本保險之保險人於提供保險給付後，得依下列規定，代位行使損害賠償請求權：\n　　一、汽車交通事故：向強制汽車責任保險保險人請求。\n　　二、公共安全事故：向第三人依法規應強制投保之責任保險保險人請求。\n　　三、其他重大之交通事故、公害或食品中毒事件：第三人已投保責任保險者，向其保險人請求；未投保者，向第三人請求。\n　　前項第三款所定重大交通事故、公害及食品中毒事件之求償範圍、方式及程序等事項之辦法，由主管機關定之。",
             "relates": {}
         },
         {
@@ -629,77 +629,47 @@
         }
     ],
     "law_reasons": {
-        "第三十條": "　　一、鑑於勞工保險、農民健康保險等社會保險均未有保險費加計利息之規定，爰刪除原條文第一項加計利息之規定。另修正滯納金為應納費額百分之零點一，並以應納費額之百分之十五為上限。\n　　二、為協助經濟困難之投保單位及被保險人繳納保險費及滯納金，爰於修正條文第三項增訂投保單位或被保險人得分期繳納欠費之規定，以減輕其繳納欠費之壓力。\n　　三、原條文第三項移列為修正條文第四項，因暫行拒絕給付多係以不發給保險憑證為手段，爰將本法施行細則第五十四條之一規定納入本法規定。\n　　四、本法對於未按時繳納健保費之投保單位及被保險人定有加徵滯納金之規定，為強化公平性，爰於修正條文第五項增列各級政府逾限繳納保險費應加計利息之規定，以敦促各級政府負起按時繳納補助款之責。\n　　五、部分投保單位積欠保險費乃肇因其負責人或主持人之過失，原條文並未明定向其追償之法源，爰參照勞工保險條例第十七條第二項規定，增列修正條文第六項。",
-        "第八十七條 之一": "　　一、為加強保障因經濟困難無力繳納相關費用者之權益，增列排除其適用本法第三十條有關加徵滯納金及罰鍰之規定，並配合刪除加徵利息之規定酌修文字。\n　　二、原條文第二項移列為修正條文第八十七條之五。",
-        "第八十七條 之二": "　　修正條文第一項配合修正條文第三十條、第八十七條之一及預算法第二十一條規定，酌予修正。",
-        "第八十七條 之三": "　　照黨團協商條文通過。",
-        "第八十七條 之四": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第八十七條 之五": "　　一、本條新增。\n　　二、經濟困難及經濟特殊困難之認定辦法，授權主管機關定之。"
+        "第六十四條": "　　菸酒稅法第二十二條已規定菸品健康福利捐之徵收，並將其收入之一定比例提列為本保險安全準備，爰酌修第一項以符實際；至於第二項則配合酌修，使其授權範圍更為明確。",
+        "第八十二條": "　　全民健保公民共識會議之與會人員，一致認為保險事故如果係可明確歸責於第三人之事由所導致，全民健保之保險人於給付後，應向該第三人代位求償，以符公平正義原則，另九十四年二月二十五日全民健康保險監理委員會第一一七次會議，委員發言亦多傾向支持擴大代位求償範圍。爰增訂公共安全事故及重大之交通事故、公害或食品中毒事件為代位求償範圍。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920103",
-            "立法紀錄": "92卷5期3279號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7cb81c6cdcfcacfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "余政道",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec9cfcec5cdcfcfd2cdcfcb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "920110",
-            "立法紀錄": "92卷8期3282號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7cb81c6cdcfc7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "高明見",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecacfcfc5cdc8ccd2cdc8c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "920314",
-            "立法紀錄": "92卷13期3287號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7cb81c6cdcecccfcfc4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7ca81c6cbcecdcfcfc4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcccfcec5cec7c7d2cec6c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfccc5ccc9c6d2ccc8cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920428",
-            "立法紀錄": "92卷27期3301號下冊 69-128頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7cb81c6cdcdc8cfccc4cfcfc9c6c4cfcecdc7",
+            "會議日期": "940413",
+            "立法紀錄": "94卷27期3409號 99-140頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7ca81c6cbcdc8cfcfc4cfcfc6c6c4cfcecbcf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 1-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7cb81c6cdcccbcfccc4cfcfcfcec4cfcfcdca",
+            "會議日期": "940429",
+            "立法紀錄": "94卷28期3410號一冊 65-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7ca81c6cbcdc7cfcec4cfcfc9cac4cfcfc8ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecbcfccc5ccccced2cccacd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececfcfcdc5ccc9d2cbcd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 25-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7cb81c6cdcccbcfccc4cfcfcdcac4cfcfcdc8",
+            "會議日期": "940429",
+            "立法紀錄": "94卷28期3410號一冊 71-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfc7ca81c6cbcdc7cfcec4cfcfc8cec4cfcfc8ce",
             "關係文書": []
         }
     ]
