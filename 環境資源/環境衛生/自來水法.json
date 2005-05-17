@@ -1,8 +1,8 @@
 {
     "title": "自來水法",
     "versions": [
-        "中華民國93年6月11日修正",
-        "中華民國93年6月30日公布"
+        "中華民國94年4月29日修正",
+        "中華民國94年5月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -100,7 +100,7 @@
         {
             "note": "(水資源相關基金管理委員會之設立)",
             "rule_no": "第十二條 之三",
-            "content": "　　水資源相關基金應依各水質水量保護區分別設置專戶，各專戶並設置運用小組管理運用。專戶運用小組成員由相關中央主管機關、水質水量保護區與其用水地區地方主管機關、民意機關代表、居民代表及社會公正人士組成，其設置要點由水資源相關基金管理委員會定之。\n　　涉及原住民族地區之水質水量保護區，其專戶運用小組居民代表成員，應依比例由原住民居民代表擔任；其水源保育與回饋費，應依比例運用於原住民族地區。\n　　原依本法附徵之水源特定區協助地方建設費用，納入水源特定區專戶管理運用。",
+            "content": "　　水資源相關基金應依各水質水量保護區分別設置專戶，各專戶並設置運用小組管理運用。專戶運用小組成員由相關中央主管機關、水質水量保護區與其用水地區地方主管機關、民意機關代表、居民代表及社會公正人士組成；其設置要點由水資源相關基金管理委員會定之。\n　　涉及原住民族地區之水質水量保護區，其專戶運用小組居民代表成員，應依比例由原住民居民代表擔任；其水源保育與回饋費，應依比例運用於原住民族地區。\n　　本法中華民國九十三年六月三十日修正公布施行前，附徵之水源特定區協助地方建設費用，於水源保育與回饋費徵收前，繼續於水價外附徵；其協助臺北水源特定區地方建設辦法，繼續適用。\n　　水源保育與回饋費徵收後，原依本法附徵之水源特定區協助地方建設費用，納入水源特定區專戶管理運用。",
             "relates": {}
         },
         {
@@ -781,102 +781,46 @@
         }
     ],
     "law_reasons": {
-        "第十二條 之一": "　　照黨團協商條文通過。",
-        "第十二條 之二": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第十二條 之三": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第四十一條": "　　照黨團協商條文通過。",
-        "第五十條": "　　照黨團協商條文通過。",
-        "第五十六條": "　　照黨團協商條文通過。",
-        "第五十九條": "　　照黨團協商條文通過。",
-        "第六十條": "　　照黨團協商條文通過。",
-        "第六十條 之一": "　　照黨團協商條文通過。",
-        "第九十三條": "　　照黨團協商條文通過。"
+        "第十二條 之三": "　　為使原依本法第十二條之一附徵之水源特定區協助地方建設費用，於水源保育與回饋費徵收前能依法繼續於水價外附徵與協助台北水源特定區內之地方建設，爰新增第十二條之三第三項。原第十二條之三第三項移列四項，並酌修相關文字。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920530",
-            "立法紀錄": "92卷33期3307號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cdcccccfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "賴勁麟",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cb81c6cbcecdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecbcfcec5cecacdd2cecaca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "921024",
-            "立法紀錄": "92卷45期3319號上冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cdcbcacfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5ccc8c8d2ccc7cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "921121",
-            "立法紀錄": "92卷53期3327號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cdcacccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "唐碧娥",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcececfcec5cecacad2cecac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5c6cdd2c6cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921217",
-            "立法紀錄": "93卷2期3336號下冊 251-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cccfcdcfccc4cfcdcacec4cfcdc9cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "930109",
-            "立法紀錄": "93卷6期3340號一冊 191-211頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cccfc9cfcec4cfcec6cec4cfcdcece",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec8cfcec5cbcaccd2cbc8c9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "930608",
-            "立法紀錄": "93卷33期3367號二冊 377-377頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cccccccfcdc4cfccc8c8c4cfccc8c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "930611",
-            "立法紀錄": "93卷34期3368號一冊 214-229頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cccccbcfcec4cfcdcecbc4cfcdcdc6",
+            "會議日期": "940414",
+            "立法紀錄": "94卷27期3409號 211-219頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cb81c6cbcdc8cfcfc4cfcdcecec4cfcdcec6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930611",
-            "立法紀錄": "93卷34期3368號一冊 229-231頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cccccbcfcec4cfcdcdc6c4cfcdccce",
-            "關係文書": []
+            "會議日期": "940429",
+            "立法紀錄": "94卷28期3410號一冊 76-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cb81c6cbcdc7cfcec4cfcfc8c9c4cfcfc7cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececfcfcdc5cbc7d2cacd"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "930611",
-            "立法紀錄": "93卷34期3368號一冊 231-232頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cd81c6cccccbcfcec4cfcdcccec4cfcdcccd",
+            "會議日期": "940429",
+            "立法紀錄": "94卷28期3410號一冊 80-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c6c6cb81c6cbcdc7cfcec4cfcfc7cfc4cfcfc7ce",
             "關係文書": []
         }
     ]
