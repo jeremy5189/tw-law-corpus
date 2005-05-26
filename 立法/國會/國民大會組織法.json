@@ -1,8 +1,8 @@
 {
     "title": "國民大會組織法",
     "versions": [
-        "中華民國91年5月10日全文修正",
-        "中華民國91年5月17日公布"
+        "中華民國94年5月20日修正",
+        "中華民國94年5月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -13,7 +13,25 @@
             "note": "",
             "rule_no": "第一條",
             "content": "　　本法依憲法第三十四條及憲法增修條文第一條第四項及第八條制定之。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04101",
+                        "law_name": "中華民國憲法",
+                        "numbers": [
+                            "第三十四條"
+                        ]
+                    },
+                    {
+                        "law_no": "04105",
+                        "law_name": "中華民國憲法增修條文",
+                        "numbers": [
+                            "第一條",
+                            "第八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -84,7 +102,13 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　國民大會集會期間所需費用，由行政院第二預備金支應。\n　　國民大會代表集會期間之費用，比照立法委員支給之歲公費、交通費及住宿費，按實際集會日數，核實支給。",
+            "content": "　　國民大會集會期間所需費用，由行政院第二預備金支應。\n　　國民大會代表集會期間之費用，比照立法委員支給之歲公費、交通費及住宿費，按實際集會日數，核實支給。\n　　前項之歲公費，兼具公職之代表，應擇一支給之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十三條 之一",
+            "content": "　　國民大會代表在任期中，得準用公教人員保險法之規定，參加公教人員保險；其保險俸給比照立法委員之標準。",
             "relates": {}
         },
         {
@@ -101,86 +125,47 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　一、依憲法增修條文第一條第四項規定，國民大會組織法應於九十一年五月十九日前配合修正完成。\n　　二、依憲法增修條文後段規定，制定國民大會代表集會期間支給之費用。",
-        "第二條": "　　本條文未修正。",
-        "第三條": "　　本條文未修正。",
-        "第四條": "　　一、定集會第一日宣誓。\n　　二、文字修正。",
-        "第五條": "　　因現行憲法增修條文已刪除國民大會議長、副議長之設置，爰改為主席團制，並將主席團主席人數定為十一人，並酌作文字修正。",
-        "第六條": "　　虛級化後國民大會『大會主席』之功能相對簡單，不必費事推選，爰予修正之。",
-        "第七條": "　　照黨團協商條文通過。",
-        "第八條": "　　議事功能廢除，本條作文字修正。",
-        "第九條": "　　照黨團協商條文通過。",
-        "第十條": "　　一、本條新增。\n　　二、國民大會職權大部份移轉至立法院，故國民大會未集會期間之業務，由立法院派員辦理之。",
-        "第十一條": "　　照黨團協商條文通過。",
-        "第十二條": "　　一、條次變更，本條為原條文第十五條移列。\n　　二、照黨團協商條文通過。",
-        "第十三條": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第十四條": "　　照黨團協商條文通過。",
-        "第十五條": "　　明定本法施行日期。"
+        "第十三條": "　　兼具公職之代表，其俸給應擇一支給。爰參照原「國民大會代表報酬及費用支給條例」，增列第三項。",
+        "第十三條 之一": "　　一、本條新增。\n　　二、國民大會代表得參加公務人員保險，爰參照原「國民大會代表報酬及費用支給條例」，增列本條。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910423",
-            "立法紀錄": "91卷28期3224號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcf81c6cecdc7cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "呂學樟",
+            "會議日期": "940422",
+            "立法紀錄": "94卷25期3407號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcd81c6cbcdcacfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "黃偉哲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc8cfcec5cacdccd2cacccf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910326",
-            "立法紀錄": "91卷20期3216號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcf81c6cecdcfcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "蔡正元",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5cececdd2cecec6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910430",
-            "立法紀錄": "91卷30期3226號上冊 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcf81c6cecccfcfcec4cfcfcecdc4cfcfcecd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc6cfcec5cccfd2cbcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc6cfcec5cdcfcad2cdcfc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910424",
-            "立法紀錄": "91卷42期3238號下冊 375-404頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcf81c6cecbcdcfccc4cfccc8cac4cfcbcfcb",
+            "會議日期": "940516",
+            "立法紀錄": "94卷39期3421號 15-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcd81c6cbccc6cfcfc4cfcfcecac4cfcfcdcf",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 82-133頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcf81c6cecccccfcec4cfcfc7cdc4cfcecccc",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 51-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcd81c6cbccc8cfcec4cfcfcacec4cfcfcaca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfcdc5cbc6c9d2cac9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecccfcdc5cccfc8d2cccece"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 133-133頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcf81c6cecccccfcec4cfceccccc4cfcecccc",
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 55-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccbcfcd81c6cbccc8cfcec4cfcfcacac4cfcfcac9",
             "關係文書": []
         }
     ]
