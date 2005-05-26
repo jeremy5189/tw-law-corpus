@@ -1,11 +1,11 @@
 {
     "title": "國民大會代表報酬及費用支給條例",
     "versions": [
-        "中華民國86年5月31日修正",
-        "中華民國86年6月18日公布"
+        "中華民國94年5月20日廢止",
+        "中華民國94年5月27日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -58,40 +58,38 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　增訂制定本條例之依據：司法院釋字第四二一號解釋。",
-        "第二條": "　　在國民大會下增列「代表」兩字，使條文意旨更明確。",
-        "第二條 之一": "　　一、本條係新增。\n　　二、依據司法院釋字第四二一號解釋意旨增訂。",
-        "第四條": "　　聘用助理人員「一人」，修正為「二人」，「處理」修正為「服務選民等」。",
-        "第七條": "　　現行規定已無必要，依一般體例修正本條例之施行日期。"
-    },
+    "deprecated_reason": "　　依89年4月25日修正之憲法增修條文第1條，國民大會於立法院提出憲法修正案、領土變更案、總統、副總統彈劾案，始採比例代表制選出國民大會代表，轉變為非常設機關，原「國民大會代表報酬及費用支給條例」中部分費用已不合時宜。復於91年修正之「國民大會組織法」中，已增列國民大會代表集會期間之費用，並將代表參加公務人員保險之規定移列「國民大會組織法」。為立法經濟，爰予以廢止「國民大會代表報酬及費用支給條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "860509",
-            "立法紀錄": "86卷24期2916號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc681c7c9cdcbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "940422",
+            "立法紀錄": "94卷25期3407號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7cbcf81c6cbcdcacfcec4cfcfcfc9c4cfcfcfc9",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccecacfcfc5cecdc6d2ceccce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc6cfcec5cdcfcad2cdcfc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "860531",
-            "立法紀錄": "86卷31期2923號上冊 332-341頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc681c7c9cccecfcec4cfcccccdc4cfcccbce",
+            "進度": "委員會審查",
+            "會議日期": "940516",
+            "立法紀錄": "94卷39期3421號 15-20頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7cbcf81c6cbccc6cfcfc4cfcfcecac4cfcfcdcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "860531",
-            "立法紀錄": "86卷31期2923號上冊 341-342頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7ccc681c7c9cccecfcec4cfcccbcec4cfcccbcd",
-            "關係文書": []
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 51-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec7cbcf81c6cbccc8cfcec4cfcfcacec4cfcfcac9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececccfcdc5cccfc8d2cccece"
+                ]
+            ]
         }
     ]
 }
