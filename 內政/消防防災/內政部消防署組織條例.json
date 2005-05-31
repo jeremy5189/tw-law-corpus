@@ -1,8 +1,8 @@
 {
     "title": "內政部消防署組織條例",
     "versions": [
-        "中華民國92年12月26日修正",
-        "中華民國93年1月7日公布"
+        "中華民國94年5月17日修正",
+        "中華民國94年6月1日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -48,7 +48,7 @@
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　本署置主任秘書一人，組長七人至九人，主任二人，隊長一人，職務均列簡任第十一職等或警監；副隊長三人，室主任一人，專門委員七人至九人，職務均列薦任第九職等至簡任第十職等或警正至警監；科長三十二人至三十八人，職務列薦任第九職等或警正；秘書十六人至十八人，視察二十人至二十二人，職務均列薦任第八職等至第九職等或警正，其中秘書六人，視察七人，職務得列簡任第十職等或警監；技正七人，職務列薦任第八職等至第九職等，其中二人，職務得列簡任第十職等；專員四十三人至四十五人，職務列薦任第七職等至第八職等或警正；科員七十八人至八十二人，分隊長六人，警佐或警正；技士十一人，職務列委任第五職等或薦任第六職等至第七職等；小隊長十二人，警佐或警正；技佐七人，職務列委任第四職等至第五職等，其中三人，職務得列薦任第六職等；隊員五十四人，警佐，其中二十七人，得列警正；辦事員十一人，職務列委任第三職等至第五職等；書記四人，職務列委任第一職等至第三職等。",
+            "content": "　　本署置主任秘書一人，組長七人至九人，主任二人，隊長一人，職務均列簡任第十一職等或警監；副隊長三人，室主任一人，專門委員七人至九人，職務均列薦任第九職等至簡任第十職等或警正至警監；科長三十二人至三十八人，職務列薦任第九職等或警正；秘書十六人至十八人，視察二十人至二十二人，職務均列薦任第八職等至第九職等或警正，其中秘書六人，視察七人，職務得列簡任第十職等或警監；技正七人，職務列薦任第八職等至第九職等，其中二人，職務得列簡任第十職等；專員四十三人至四十五人，職務列薦任第七職等至第八職等或警正；科員六十八人至七十二人，職務列委任第五職等或薦任第六職等至第七職等或警佐或警正；分隊長六人，警佐或警正；技士二十一人，職務列委任第五職等或薦任第六職等至第七職等；小隊長十二人，警佐或警正；技佐七人，職務列委任第四職等至第五職等，其中三人，職務得列薦任第六職等；隊員五十四人，警佐，其中二十七人，得列警正；辦事員十一人，職務列委任第三職等至第五職等；書記四人，職務列委任第一職等至第三職等。",
             "relates": {}
         },
         {
@@ -119,72 +119,46 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　增加「各加工出口區消防隊」之設立法源依據，並將文字酌作修正。"
+        "第七條": "　　一、因應災害防救法公布施行及行政院災害防救委員會成立後，消防署統籌兼辦各項災害防救任務，亟需延攬各類專業技術人才，以因應勤業務實際需要，爰調整原科員、技士等職務之員額，減列科員員額十人改置為技士。\n　　二、另原條文所置科員職務，僅單列警察官制，緣係前次修正消防署機關組織、職務及員額時，為避免延擱法案審查進度，而影響救災機制之建立，故未及時補正。為考量未來消防署人才之多元進用，並兼顧現職辦事員、書記陞遷權益，擬將科員職務，由「警佐或警正」修正為「職務列委任第五職等或薦任第六職等至第七職等或警佐或警正」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "921017",
-            "立法紀錄": "92卷43期3317號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cdcbcccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "黃昭順",
+            "會議日期": "940408",
+            "立法紀錄": "94卷20期3402號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7cd81c6cbcdcfcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳根德",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc9cfcec5cccbced2cccbcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "921024",
-            "立法紀錄": "92卷45期3319號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cdcbcacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "侯彩鳳",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cecac6d2cec9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "921107",
-            "立法紀錄": "92卷49期3323號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cdcbc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "黃昭順",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc6cfcec5cec9c7d2cec8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc8cfcdc5cccbced2cccbcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921215",
-            "立法紀錄": "93卷1期3335號 233-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cccfcecfcfc4cfcdccccc4cfcdcbcb",
+            "會議日期": "940502",
+            "立法紀錄": "94卷33期3415號 79-85頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7cd81c6cbcccccfcfc4cfcfc8c6c4cfcfc7ca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "921226",
-            "立法紀錄": "93卷2期3336號上冊 218-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cccfcdcfcec4cfcdcec7c4cfcdcccf",
+            "會議日期": "940517",
+            "立法紀錄": "94卷34期3416號 44-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7cd81c6cbcccbcfcfc4cfcfcbcbc4cfcfcbc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfcfc5cac7cfd2cac7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececdcfcdc5ccc9c7d2ccc8ce"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "921226",
-            "立法紀錄": "93卷2期3336號上冊 230-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7ce81c6cccfcdcfcec4cfcdcccfc4cfcdcccf",
+            "會議日期": "940517",
+            "立法紀錄": "94卷34期3416號 48-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c7cd81c6cbcccbcfcfc4cfcfcbc7c4cfcfcbc7",
             "關係文書": []
         }
     ]
