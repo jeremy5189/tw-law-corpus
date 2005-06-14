@@ -1,8 +1,8 @@
 {
     "title": "土地法",
     "versions": [
-        "中華民國90年10月12日修正",
-        "中華民國90年10月31日公布"
+        "中華民國94年5月20日修正",
+        "中華民國94年6月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -106,7 +106,7 @@
         {
             "note": "(不得為私有土地)",
             "rule_no": "第十四條",
-            "content": "　　左列土地不得為私有：\n　　一、海岸一定限度內之土地。\n　　二、天然形成之湖澤而為公共需用者，及其沿岸一定限度內之土地。\n　　三、可通運之水道及其沿岸一定限度內之土地。\n　　四、城鎮區域內水道湖澤及其沿岸一定限度內之土地。\n　　五、公共交通道路。\n　　六、礦泉地。\n　　七、瀑布地。\n　　八、公共需用之水源地。\n　　九、名勝古蹟。\n　　十、其他法律禁止私有之土地。\n　　前項土地已成為私有者，得依法徵收之。",
+            "content": "　　左列土地不得為私有：\n　　一、海岸一定限度內之土地。\n　　二、天然形成之湖澤而為公共需用者，及其沿岸一定限度內之土地。\n　　三、可通運之水道及其沿岸一定限度內之土地。\n　　四、城鎮區域內水道湖澤及其沿岸一定限度內之土地。\n　　五、公共交通道路。\n　　六、礦泉地。\n　　七、瀑布地。\n　　八、公共需用之水源地。\n　　九、名勝古蹟。\n　　十、其他法律禁止私有之土地。\n　　前項土地已成為私有者，得依法徵收之。\n　　第一項第九款名勝古蹟，如日據時期原屬私有，臺灣光復後登記為公有，依法得贈與移轉為私有者，不在此限。",
             "relates": {}
         },
         {
@@ -1697,177 +1697,46 @@
         }
     ],
     "law_reasons": {
-        "第十七條": "　　一、過去我國產業以農為本，為防止外資介入炒作，影響農民權益、動搖國本，故禁止外國人取得農業相關用地。然而，今日時空丕變，爰刪除本條第一款及第四款。\n　　二、另增列第二、三項。",
-        "第十九條": "　　一、鑒於國際經濟自由化之潮流，為有效運用國外資金，提升國家整體土地資源之開發及利用，爰增訂第一項第八款，並酌作文字修正。\n　　二、另增列第二項。",
-        "第二十條": "　　鑑於外國人租賃或購買土地法第十九條各款所列用途土地，已日益普遍，為配合國際化及自由化之趨勢，宜簡化程序，爰修正之。",
-        "第二十一條": "　　一、本條刪除。\n　　二、秉持著ＷＴＯ公平合理對待之精神，我國應對外國人採取合理之國民待遇爰刪除外國人購買土地之限制。",
-        "第二十二條": "　　一、本條刪除。\n　　二、秉持著ＷＴＯ公平合理對待之精神，我國應對外國人採取合理之國民待遇爰刪除外國人購買土地之限制。",
-        "第二十三條": "　　一、本條刪除。\n　　二、秉持著ＷＴＯ公平合理對待之精神，我國應對外國人採取合理之國民待遇爰刪除外國人購買土地之限制。",
-        "第三十四條 之一": "　　將第六項前段「直轄市、縣（市）政府」修正為「直轄市、縣（市）地政機關」並酌作文字修正；刪除本項後段文字，移列為修正條文第三十四條之二。",
-        "第三十四條 之二": "　　一、本條新增。\n　　二、鑑於不動產糾紛調處委員會係處理本法不動產之糾紛，非僅針對第三十四條之一而設置，爰由第三十四條第六項末段移列本條，又為配合行政程序法有關法律保留之精神，並明列該辦法之訂定內容，使授權訂定該辦法之目的內容及範圍具體、明確。",
-        "第三十七條": "　　修正第二項，明列土地登記規則之訂定內容，使授權訂立該規則之目的、內容及範圍具體明確。",
-        "第三十七條 之一": "　　一、修正第四項，明列土地登記專業代理人管理辦理之訂定內容，使授權訂定該辦法之目的、內容及範圍具體明確。\n　　二、第一項及第三項酌作文字修正；第二項未修正。",
-        "第四十四條 之一": "　　一、第一項酌作標點正。\n　　二、修正第二項，明列界標管理辦法之訂定內容，使授權訂定該辦法之目的、內容及範圍具體明確。",
-        "第四十七條": "　　修正明列地籍測量實施規則之訂定內容，使授權訂定該規則之目的、內容及範圍具體明確。",
-        "第二百十四條": "　　依行政程序法之規定，使違法行政處分失其效力者為，使合法行政處分失其效力者為廢止，爰將原條文逾保留徵收期間不徵收，視為「撤銷」之規定，修正為逾保留徵收期間不徵收，視為「廢止」，並酌作文字修正。",
-        "第二百十八條": "　　一、本條刪除。\n　　二、查平均地權條例及土地徵收條例均已規定。本條文因時空變遷，已無存在必要。"
+        "第十四條": "　　一、第三項為新增。\n　　二、日本據台期間，許多教堂寺廟之不動產，因當時日本政府無理之要求，均登記為日本人所有，致其土地其建物於台灣光復後，國民政府誤為日產予以接收並登記為國有。後行政院遂根據國有財產法第六十條第二項訂定「台灣地區國有財產捐贈寺廟教堂辦法」，以解決此一歷史造成之不公平現象，還產於民。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881126",
-            "立法紀錄": "88卷52期3052號上冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c7c7cacdcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "陳勝宏",
+            "會議日期": "940429",
+            "立法紀錄": "94卷28期3410號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc681c6cbcdc7cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "王幸男",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc9cfcdc5ccc7ced2ccc7cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891024",
-            "立法紀錄": "89卷57期3116號上冊 14-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c7c6cac8cfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfcdcfcec5cecbcad2cecacd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "881203",
-            "立法紀錄": "88卷54期3054號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c7c7cacbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "劉盛良",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfccc5cac8c6d2cac7ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "881217",
-            "立法紀錄": "88卷58期3058號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c7c7cac7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "許添財",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcececfcfc5cdccced2cdcccc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890523",
-            "立法紀錄": "89卷28期3087號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c7c6cdc7cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "楊秋興",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccec7cfcfc5cecbc9d2cecbc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890609",
-            "立法紀錄": "89卷33期3092號上冊 3-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c7c6cccccfcec4cfcfcfccc4cfcfcfcb",
-            "主提案": "張清芳",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcdcfcfc5cecccfd2cecccd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "891226",
-            "立法紀錄": "90卷1期3135號上冊 4-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c6cfcfcecfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "林忠正",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec9cfcec5cec6cfd2cec6cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900227",
-            "立法紀錄": "90卷8期3142號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c6cfcfc7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃義交",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcfc5cecdc9d2cecdc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900417",
-            "立法紀錄": "90卷19期3153號上冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c6cfcec6cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "劉盛良",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcacfcec5cdcac7d2cdc9cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececfcfcec5cdccccd2cdccc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890615",
-            "立法紀錄": "89卷40期3099號上冊 211-226頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c7c6cbcfcfcec4cfcdcecec4cfcdcdc9",
+            "會議日期": "940511",
+            "立法紀錄": "94卷38期3420號 49-69頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc681c6cbccc7cfcfc4cfcfcbc6c4cfcfc9c6",
             "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "900425",
-            "立法紀錄": "90卷29期3163號 25-49頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c6cfcdc6cfcfc4cfcfcdcac4cfcfcbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "901012",
-            "立法紀錄": "90卷47期3181號下冊 868-902頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c6cfcbc8cfccc4cfc7c9c7c4cfc6cfcd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc6cfccc5cec8ccd2cdcfcb"
-                ]
-            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "901012",
-            "立法紀錄": "90卷47期3181號下冊 903-905頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c6cfcbc8cfccc4cfc6cfccc4cfc6cfca",
-            "關係文書": []
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 47-51頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc681c6cbccc8cfcec4cfcfcbc8c4cfcfcace",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececccfcdc5cccfced2cccfca"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "901012",
-            "立法紀錄": "90卷47期3181號下冊 905-906頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc781c6cfcbc8cfccc4cfc6cfcac4cfc6cfc9",
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 51-51頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc681c6cbccc8cfcec4cfcfcacec4cfcfcace",
             "關係文書": []
         }
     ]
