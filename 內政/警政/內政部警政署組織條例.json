@@ -1,8 +1,8 @@
 {
     "title": "內政部警政署組織條例",
     "versions": [
-        "中華民國92年12月16日修正",
-        "中華民國93年1月7日公布"
+        "中華民國94年5月27日修正",
+        "中華民國94年6月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本署得設入出境管理局、刑事警察局、航空警察局、國道公路警察局、鐵路警察局、港務警察局、保安警察總隊、臺灣保安警察總隊、國家公園警察大隊、空中警察隊、警察電訊所、民防防情指揮管制所、警察廣播電臺、警察機械修理廠及臺灣警察專科學校；其組織，以法律定之。",
+            "content": "　　本署得設入出境管理局、刑事警察局、航空警察局、國道公路警察局、鐵路警察局、港務警察局、保安警察總隊、臺灣保安警察總隊、國家公園警察大隊、警察電訊所、民防防情指揮管制所、警察廣播電臺、警察機械修理廠及臺灣警察專科學校；其組織，以法律定之。",
             "relates": {}
         },
         {
@@ -113,46 +113,46 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　一、為強化警政署警政企劃領導人才，並應主管調節性職務頻繁之所需，爰增列警政委員職務，列警監，以茲因應。並酌作修正。\n　　二、第二項刪除。\n　　三、第三項移列為第二項，項末「第一項」修正為「前項」。"
+        "第五條": "　　配合空中警察隊併入內政部空中勤務總隊，爰刪除「空中警察隊」之設立依據。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "921024",
-            "立法紀錄": "92卷45期3319號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacf81c6cdcbcacfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "黃昭順",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cace81c6cbcecdcfcfc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5ccccced2cccccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5ccc9c9d2ccc8c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921203",
-            "立法紀錄": "92卷59期3333號下冊 83-109頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacf81c6cdcac6cfccc4cfcfc7ccc4cfcecfc6",
+            "會議日期": "940518",
+            "立法紀錄": "94卷41期3423號 59-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cace81c6cbcbcecfcfc4cfcfcac6c4cfcfc9c9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "921216",
-            "立法紀錄": "92卷59期3333號上冊 106-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacf81c6cdcac6cfcec4cfcecfc9c4cfcececd",
+            "會議日期": "940527",
+            "立法紀錄": "94卷40期3422號一冊 194-206頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cace81c6cbcbcfcfcec4cfcec6cbc4cfcdcfc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecacfcec5cbcecfd2cbcec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececbcfcbc5caccd2c9cb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "921216",
-            "立法紀錄": "92卷59期3333號上冊 112-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacf81c6cdcac6cfcec4cfcececdc4cfcececd",
+            "會議日期": "940527",
+            "立法紀錄": "94卷40期3422號一冊 206-206頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cace81c6cbcbcfcfcec4cfcdcfc9c4cfcdcfc9",
             "關係文書": []
         }
     ]
