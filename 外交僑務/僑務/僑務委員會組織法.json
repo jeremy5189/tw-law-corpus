@@ -1,8 +1,8 @@
 {
     "title": "僑務委員會組織法",
     "versions": [
-        "中華民國87年1月7日修正",
-        "中華民國87年1月21日公布"
+        "中華民國94年11月8日修正",
+        "中華民國94年11月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -72,7 +72,7 @@
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　華僑證照服務室掌理左列事項：\n　　一、關於國內人民與華僑移殖、探親、應聘等輔導事項。\n　　二、關於華僑入出境服務事項。\n　　三、關於華僑身分及印鑑證明事項。\n　　四、關於僑團、僑胞回國接待事項。\n　　五、關於歸國華僑服務事項。",
+            "content": "　　華僑證照服務室掌理下列事項：\n　　一、關於華僑身分及印鑑證明事項。\n　　二、關於僑團、僑胞回國接待事項。\n　　三、關於歸國華僑服務事項。",
             "relates": {}
         },
         {
@@ -90,7 +90,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　僑務委員會置主任秘書一人，參事五人或六人，處長四人，職務均列簡任第十二職等；副處長四人，職務列簡任第十一職等；專門委員九人至十一人，室主任二人，職務均列簡任第十職等至第十一職等；科長二十二人至三十人，職務列薦任第九職等；秘書八人至十二人，視察十六人至二十人，稽核一人，職務均列薦任第八職等至第九職等，其中秘書六人，視察十人，職務得列簡任第十職等至第十一職等；專員三十七人至五十三人，分析師一人，職務均列薦任第七職等至第九職等；設計師一人，職務列薦任第六職等至第八職等；科員八十六人至一０四人，職務列委任第五職等或薦任第六職等至第七職等；助理設計師二人，職務列委任第四職等至第五職等，其中一人職務得列薦任第六職等；辦事員十六人至四十二人，職務列委任第三職等至第五職等；書記六人至十八人，職務列委任第一職等至第三職等。",
+            "content": "　　僑務委員會置主任秘書一人，參事五人或六人，處長四人，職務均列簡任第十二職等；副處長四人，職務列簡任第十一職等；專門委員九人至十一人，室主任二人，職務均列簡任第十職等至第十一職等；科長二十二人至三十人，職務列薦任第九職等；秘書八人至十二人，視察十六人至二十人，稽核一人，職務均列薦任第八職等至第九職等，其中秘書六人，視察十人，職務得列簡任第十職等至第十一職等；專員三十六人至五十二人，分析師一人，職務均列薦任第七職等至第九職等；設計師一人，職務列薦任第六職等至第八職等；科員八十四人至一百零二人，職務列委任第五職等或薦任第六職等至第七職等；助理設計師二人，職務列委任第四職等至第五職等，其中一人，職務得列薦任第六職等；辦事員十六人至四十二人，職務列委任第三職等至第五職等；書記六人至十八人，職務列委任第一職等至第三職等。",
             "relates": {}
         },
         {
@@ -162,110 +162,60 @@
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文施行日期，由行政院以命令定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十四條": "　　一、在總員額不變之原則下，為便於僑務人才羅致及因應未來發展需要，調整各官等員額比率，作合理配置。\n　　二、各職稱職務之職等，與職務列等表規定不符者配合修正。",
-        "第十五條": "　　一、現行條文第十五條第一項所定會計室、統計室之規定，改列修正條文第十五條之一及第十五條之二，依新人事制度及各機關職務列等表規定，修正官職等。\n　　二、依據「政風機構人員設置條例」將原人事室副主任改派政風室主任並設立政風室，爰將「副主任一人，職務列薦任第九職等至簡任第十一職等；」之文字刪除。\n　　三、「依法辦理人事事項」等文字依例修正為」依法辦理人事管理事項「。",
-        "第十五條 之一": "　　一、本條新增。\n　　二、依新人事制度及各機關職務列等表規定，修正官職等。",
-        "第十五條 之二": "　　一、本條新增。\n　　二、依新人事制度及各機關職務列等表規定，修正官職等。",
-        "第十五條 之三": "　　一、本條新增。\n　　二、配合「政風機構人員設置條例」施行，設立政風室，將原人事室副主任改派為政風室主任。並明定其官職等及辦理事項。",
-        "第十七條": "　　僑務委員會為應海外工作之實際需要，陸續在海外設置華僑文教服務中心，作為政府在海外服務華僑之據點，為使海外華僑文教服務中心之設置有法律依據，爰修正本條，增訂僑務委員會得報請行政院核准，在海外重要地區設華僑文教服務中心，以利未來僑務工作之推展。",
-        "第二十條": "　　明定各職務職系之選用，依公務人員任用法第八條規定辦理，就有關職系選用之，不再一一列舉於條文中，使其更具彈性。"
+        "第十一條": "　　為應內政部成立入出國及移民署，僑務委員會華僑證照服務室掌理之華僑入出境服務及海外移殖業務，配合移撥至該署，原條文第一款及第二款爰予刪除。",
+        "第十四條": "　　為應內政部成立入出國及移民署，僑務委員會配合移撥專員一人及科員二人，合計三人至該署，爰調整法定編制員額。",
+        "第二十三條": "　　本法修正條文之施行，尚需配合入出國及移民署之成立，爰增訂第二項規定，本法修正條文之施行日期，由行政院另定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "810630",
-            "立法紀錄": "81卷53期2581號上冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7cecfcacccfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcd81c6cbcecdcfcfc4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c6cccecfcfc5cacdd2c9cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820706",
-            "立法紀錄": "82卷45期2644號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7cdcbcacfcfc4cfcfcfccc4cfcfcfcb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccccfcec5c8c6d2c7ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c9cecacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "劉光華",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccececfcfc5cecfc8d2cecfc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "860925",
-            "立法紀錄": "86卷35期2927號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c9cccacfcfc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcfcdcfcdc5c9c9ccd2c9c9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5ccc7cfd2cbcfc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "861218",
-            "立法紀錄": "86卷57期2949號下冊 19-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c9cac8cfccc4cfcfcec6c4cfcfcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "861230",
-            "立法紀錄": "87卷1期2950號上冊 34-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c8cfcecfcec4cfcfcccbc4cfcfcbc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcdcecfcfc5cccccdd2cccbc9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "870106",
-            "立法紀錄": "87卷4期2953號上冊 116-129頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c8cfcbcfcec4cfcecec9c4cfcecdc6",
+            "會議日期": "940526",
+            "立法紀錄": "94卷43期3425號 53-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcd81c6cbcbcccfcfc4cfcfcaccc4cfcfcac9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "870106",
-            "立法紀錄": "87卷4期2953號上冊 129-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c8cfcbcfcec4cfcecdc6c4cfcec8c9",
+            "會議日期": "941108",
+            "立法紀錄": "94卷63期3445號 211-250頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcd81c6cbc9cccfcfc4cfcdcecec4cfcdcacf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5cac7c6d2c9cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "941108",
+            "立法紀錄": "94卷63期3445號 258-258頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcd81c6cbc9cccfcfc4cfcdcac7c4cfcdcac7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "870107",
-            "立法紀錄": "87卷4期2953號上冊 176-177頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcf81c7c8cfcbcfcec4cfcec8c9c4cfcec8c8",
+            "會議日期": "941108",
+            "立法紀錄": "94卷63期3445號 258-259頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc9cbcd81c6cbc9cccfcfc4cfcdcac7c4cfcdcac6",
             "關係文書": []
         }
     ]
