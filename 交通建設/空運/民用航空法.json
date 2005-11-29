@@ -1,8 +1,8 @@
 {
     "title": "民用航空法",
     "versions": [
-        "中華民國93年5月25日修正",
-        "中華民國93年6月9日公布"
+        "中華民國94年11月8日修正",
+        "中華民國94年11月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -262,7 +262,7 @@
         {
             "note": "",
             "rule_no": "第三十七條",
-            "content": "　　使用航空站、飛行場、助航設備及相關設施，應依規定繳納使用費、服務費及噪音防制費；其收費標準由交通部訂定公告之。\n　　前項之噪音防制費應作為噪音防制之用，該項費用應優先用於民用航空器使用之機場附近噪音防制設施，其餘得視需要用於維護相關居民健康設施及活動等。\n　　第一項各項費用中，場站降落費應按各機場徵收之比例，每年提撥百分之八做為該機場回饋金。\n　　第二項、第三項經費分配及使用辦法，由交通部訂定之。",
+            "content": "　　使用航空站、飛行場、助航設備及相關設施，應依規定繳納使用費、服務費及噪音防制費；其收費標準，由交通部訂定公告之。\n　　前項之噪音防制費應做為噪音防制之用，該項費用應優先用於民用航空器使用之機場附近噪音防制設施，其餘得視需要用於相關居民健康維護、電費、房屋稅、地價稅等。\n　　第一項各項費用中，場站降落費應按各機場徵收之比例，每年提撥百分之八做為該機場回饋金，該項費用應用於補助維護居民身心健康、獎助學金、社會福利、文化活動、基層建設經費、公益活動等。\n　　第二項、第三項經費分配及使用辦法，由交通部訂定之。",
             "relates": {}
         },
         {
@@ -984,55 +984,48 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "930227",
-            "立法紀錄": "93卷11期3345號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cccb81c6cccececfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "940325",
+            "立法紀錄": "94卷14期3396號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8ccc981c6cbcecbcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "陳根德",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacfcbcfcec5c7cbd2c7c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfccc5cbccced2cbcccc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "930315",
-            "立法紀錄": "93卷17期3351號下冊 269-280頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cccb81c6cccec8cfccc4cfcdc9c6c4cfcdc7cf",
+            "會議日期": "940418",
+            "立法紀錄": "94卷29期3411號 387-407頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8ccc981c6cbcdc6cfcfc4cfccc7c8c4cfcbcfc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "930330",
-            "立法紀錄": "93卷18期3352號上冊 172-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cccb81c6cccec7cfcec4cfcec8cdc4cfcec8c9",
+            "會議日期": "941108",
+            "立法紀錄": "94卷63期3445號 174-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8ccc981c6cbc9cccfcfc4cfcec8cbc4cfcec7cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacfc8cfcdc5ccc6c8d2cbcfcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcacfcdc5cdc6c6d2cccfcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "930525",
-            "立法紀錄": "93卷29期3363號上冊 136-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cccb81c6cccdc6cfcec4cfceccc9c4cfceccc9",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930525",
-            "立法紀錄": "93卷29期3363號上冊 136-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cccb81c6cccdc6cfcec4cfceccc9c4cfceccc9",
+            "會議日期": "941108",
+            "立法紀錄": "94卷63期3445號 180-181頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8ccc981c6cbc9cccfcfc4cfcec7cfc4cfcec7ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "930525",
-            "立法紀錄": "93卷29期3363號上冊 136-137頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8cccb81c6cccdc6cfcec4cfceccc9c4cfceccc8",
+            "會議日期": "941108",
+            "立法紀錄": "94卷63期3445號 181-181頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcec8ccc981c6cbc9cccfcfc4cfcec7cec4cfcec7ce",
             "關係文書": []
         }
     ]
