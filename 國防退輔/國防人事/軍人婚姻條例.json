@@ -1,11 +1,11 @@
 {
     "title": "軍人婚姻條例",
     "versions": [
-        "中華民國88年3月30日修正",
-        "中華民國88年4月21日公布"
+        "中華民國94年11月22日廢止",
+        "中華民國94年12月7日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -100,48 +100,44 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十三條": "　　配合刑法第二百二十一條等之修正，原條文第二項「強姦罪」修改為「強制性交罪」。"
-    },
+    "deprecated_reason": "　　「軍人婚姻條例」前身為41年1月5日所制定之「戡亂時期陸海空軍軍人婚姻條例」，迄今經過5次修正，最近1次於88年4月21日修正公布。其原立法目的，乃為保障動員戡亂時期參與作戰軍人婚姻之權益，使其無後顧之憂，全力作戰，並兼顧國家安全。茲考量本條例經數次修正後，已將原事前核准制變更為報備制，且將過去未經報准結婚者，其結婚無效之規定刪除，故目前軍人即使未報備而結婚，亦無礙其婚姻效力。另婚姻關係屬純粹私領域事項，亦為人民私領域生活之核心，公權力不宜介入。又限制軍人結婚之對象，實難謂為保障軍人基本人權，亦與國家安全保障無必然關係，故實宜將現役軍人之婚姻事項回歸民法規範。另由於時空變遷，婚姻條例已無繼續施行之必要，爰配合政府法制再造政策，主動檢討廢止，並符社會期待。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 219-243頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
-            "主提案": "謝啟大",
+            "會議日期": "940422",
+            "立法紀錄": "94卷25期3407號一冊 10-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c6cbcdcacfcec4cfcfcecfc4cfcfcecf",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfcec5cdc8c7d2cdc7cc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc6cfcec5cdcaccd2cdcaca"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 219-243頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c7c7cecccfcec4cfcdcec6c4cfcdcbcc",
-            "主提案": "謝啟大",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecfcacfccc5c9cccdd2c9cacf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 247-247頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c7c7cecccfcec4cfcdcbc8c4cfcdcbc8",
+            "進度": "委員會審查",
+            "會議日期": "940526",
+            "立法紀錄": "94卷43期3425號 35-52頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c6cbcbcccfcfc4cfcfcccac4cfcfcacd",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940927",
+            "立法紀錄": "94卷45期3427號 137-140頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c6cbcbcacfcfc4cfceccc8c4cfcecbcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5cacfced2cacfcb"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "880330",
-            "立法紀錄": "88卷13期3013號上冊 247-248頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c7c7cecccfcec4cfcdcbc8c4cfcdcbc7",
+            "會議日期": "941122",
+            "立法紀錄": "94卷70期3452號 210-210頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cdcb81c6cbc8cfcfcfc4cfcdcecfc4cfcdcecf",
             "關係文書": []
         }
     ]
