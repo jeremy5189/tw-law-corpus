@@ -1,8 +1,8 @@
 {
     "title": "道路交通管理處罰條例",
     "versions": [
-        "中華民國94年1月21日修正",
-        "中華民國94年2月5日公布"
+        "中華民國94年11月22日修正",
+        "中華民國94年12月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -488,7 +488,7 @@
         {
             "note": "",
             "rule_no": "第六十八條",
-            "content": "　　汽車駕駛人，因違反本條例及道路交通安全規則之規定，受吊扣或吊銷駕駛執照處分時，吊扣或吊銷其持有各級車類之駕駛執照。",
+            "content": "　　汽車駕駛人，因違反本條例及道路交通安全規則之規定，受吊銷駕駛執照處分時，吊銷其持有各級車類之駕駛執照。",
             "relates": {}
         },
         {
@@ -713,53 +713,59 @@
         }
     ],
     "law_reasons": {
-        "第五十六條": "　　照黨團協商條文通過。"
+        "第六十八條": "　　依原法條文，文中「吊扣或」三字刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "930521",
-            "立法紀錄": "93卷29期3363號上冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecd81c6cccdc6cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "吳敦義",
+            "會議日期": "940513",
+            "立法紀錄": "94卷34期3416號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecc81c6cbcccbcfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "徐志明",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecdcfcec5ccc7ced2ccc7cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececdcfcec5cdcec6d2cdcdce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940520",
+            "立法紀錄": "94卷37期3419號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecc81c6cbccc8cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "林重謨",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececccfcec5cecbc7d2cecace"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "931011",
-            "立法紀錄": "93卷44期3378號下冊 78-86頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecd81c6cccbcbcfccc4cfcfc8c7c4cfcfc7c9",
+            "會議日期": "940928",
+            "立法紀錄": "94卷48期3430號二冊 107-136頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecc81c6cbcbc7cfcdc4cfcecfc8c4cfceccc9",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "940121",
-            "立法紀錄": "94卷7期3389號中冊 547-548頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecd81c6cbcfc8cfcdc4cfcacbc8c4cfcacbc7",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "941122",
+            "立法紀錄": "94卷70期3452號 135-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecc81c6cbc8cfcfcfc4cfcecccac4cfcecbce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecdcfcdc5c7ccc6d2c7cbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc8cfcdc5cdc7c6d2cdc6ca"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "940121",
-            "立法紀錄": "94卷7期3389號中冊 548-549頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecd81c6cbcfc8cfcdc4cfcacbc7c4cfcacbc6",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "940121",
-            "立法紀錄": "94卷7期3389號中冊 549-550頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecd81c6cbcfc8cfcdc4cfcacbc6c4cfcacacf",
+            "會議日期": "941122",
+            "立法紀錄": "94卷70期3452號 141-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cecc81c6cbc8cfcfcfc4cfcecbcec4cfcecbce",
             "關係文書": []
         }
     ]
