@@ -1,12 +1,12 @@
 {
     "title": "中國國際商業銀行條例",
     "versions": [
-        "中華民國60年12月14日全文修正",
-        "中華民國60年12月15日公布"
+        "中華民國94年12月6日廢止",
+        "中華民國94年12月21日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -76,37 +76,45 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「中國國際商業銀行條例」規定，中國國際商業銀行經政府特許，為國際貿易與匯兌銀行，由於中國國際商業銀行已民營化，為維護金融市場公平機制，爰予以廢止，回歸「銀行法」管理。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "601210",
-            "立法紀錄": "60卷95期448號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c8cc81c9cfcbc7c6cacfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "940415",
+            "立法紀錄": "94卷22期3404號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c8cb81c6cbcdcdcfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "蔡正元",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcbcfcfc5ccc6cbd2cbcfcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc7cfcec5cecec7d2cecec6"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "941102",
+            "立法紀錄": "94卷67期3449號 27-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c8cb81c6cbc9c8cfcfc4cfcfcdc8c4cfcfc7c9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "601214",
-            "立法紀錄": "60卷96期449號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c8cc81c9cfcbc7c6c9cfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "941206",
+            "立法紀錄": "94卷75期3457號一冊 48-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c8cb81c6cbc8cacfcec4cfcfcbc7c4cfcfcac8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecbc7cfcbcfcfc5cbcdced2cbcbcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfcdc5cbcfced2cbcece"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "601214",
-            "立法紀錄": "60卷96期449號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cdc6c6c6c6c8cc81c9cfcbc7c6c9cfcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "941206",
+            "立法紀錄": "94卷75期3457號一冊 57-57頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c6c8cb81c6cbc8cacfcec4cfcfcac8c4cfcfcac8",
             "關係文書": []
         }
     ]
