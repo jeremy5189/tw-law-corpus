@@ -1,8 +1,8 @@
 {
     "title": "私立學校法",
     "versions": [
-        "中華民國94年5月24日修正",
-        "中華民國94年6月8日公布"
+        "中華民國94年12月30日修正",
+        "中華民國95年1月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -78,7 +78,7 @@
         {
             "note": "(籌設學校計劃等文件之提報)",
             "rule_no": "第十條",
-            "content": "　　私立學校之籌設，應由創辦人按照各級、各類私立學校之設立標準，提出籌設學校計畫，連同捐助章程，報請主管教育行政機關審核許可。",
+            "content": "　　私立學校之籌設，應由創辦人按照各級、各類私立學校之設立標準，提出籌設學校計畫，連同捐助章程，報請主管教育行政機關審核許可。\n　　為鼓勵私人捐資興學，同一財團法人得兼辦各級、各類私立學校，其籌設計畫，應符合各級、各類學校之設立標準。",
             "relates": {}
         },
         {
@@ -549,69 +549,46 @@
         }
     ],
     "law_reasons": {
-        "第二十七條": "　　一、 第一至三項未修正。\n　　二、 第四、五項文字合併修正之。",
-        "第二十九條": "　　照黨團協商條文通過。",
-        "第三十二條": "　　照黨團協商條文通過。"
+        "第十條": "　　使辦學績優之財團法人取得兼辦各級、各類私立學校的法源依據。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940318",
-            "立法紀錄": "94卷12期3394號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c781c6cbcecdcfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "蔡豪",
+            "會議日期": "941125",
+            "立法紀錄": "94卷73期3455號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c681c6cbc8cccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "柯建銘",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfccc5ccc9ced2ccc9ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecdcfcdc5cdc9cfd2cdc9ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940427",
-            "立法紀錄": "94卷31期3413號 241-256頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c781c6cbcccecfcfc4cfcdcbcec4cfcdcac9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "940504",
-            "立法紀錄": "94卷34期3416號 321-322頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c781c6cbcccbcfcfc4cfcccdcec4cfcccdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "940517",
-            "立法紀錄": "94卷34期3416號 59-66頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c781c6cbcccbcfcfc4cfcfcac6c4cfcfc9c9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececdcfcdc5ccc7cbd2ccc6ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "940524",
-            "立法紀錄": "94卷37期3419號一冊 193-195頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c781c6cbccc8cfcec4cfcec6ccc4cfcec6ca",
+            "會議日期": "941214",
+            "立法紀錄": "94卷79期3461號一冊 137-161頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c681c6cbc8c6cfcec4cfceccc8c4cfcec9ce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "940524",
-            "立法紀錄": "94卷37期3419號一冊 195-197頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c781c6cbccc8cfcec4cfcec6cac4cfcec6c8",
-            "關係文書": []
+            "會議日期": "941230",
+            "立法紀錄": "95卷2期3463號一冊 97-99頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c681c6cacfcdcfcec4cfcfc6c8c4cfcfc6c6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec9cfcdc5ccd2c9"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "940524",
-            "立法紀錄": "94卷37期3419號一冊 197-197頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c781c6cbccc8cfcec4cfcec6c8c4cfcec6c8",
+            "會議日期": "941230",
+            "立法紀錄": "95卷2期3463號一冊 99-99頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9cac9c681c6cacfcdcfcec4cfcfc6c6c4cfcfc6c6",
             "關係文書": []
         }
     ]
