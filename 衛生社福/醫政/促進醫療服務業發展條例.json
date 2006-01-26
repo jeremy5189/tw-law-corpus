@@ -1,11 +1,11 @@
 {
     "title": "促進醫療服務業發展條例",
     "versions": [
-        "中華民國89年5月2日制定",
-        "中華民國89年5月17日公布"
+        "中華民國95年1月13日廢止",
+        "中華民國95年1月27日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -76,45 +76,37 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　照黨團協商條文通過。",
-        "第二條": "　　照黨團協商條文通過。",
-        "第三條": "　　照黨團協商條文通過。",
-        "第四條": "　　照黨團協商條文通過。",
-        "第五條": "　　照黨團協商條文通過。",
-        "第六條": "　　照黨團協商條文通過。",
-        "第七條": "　　照黨團協商條文通過。",
-        "第八條": "　　照黨團協商條文通過。",
-        "第九條": "　　照黨團協商條文通過。",
-        "第十條": "　　照黨團協商條文通過。",
-        "第十一條": "　　照黨團協商條文通過。"
-    },
+    "deprecated_reason": "　　「促進醫療服務業發展條例」，於89年5月17日公布施行，並於90年依據該條例第7條第1項之規定，成立「醫療服務業開發基金」。惟該基金自成立至今，因規模過小，業務在資金不足之情況下，無力從事融資或貸款於醫療服務業相關事業或計畫，亦無法辦理其他法定業務，爰依立法院第6屆第1會期第14次會議通過94年度中央政府總預算案附屬單位預算營業及非營業部分，有關醫療服務業開發基金之決議，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890321",
-            "立法紀錄": "89卷12期3071號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc7c881c7c6cecdcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "黃明和",
+            "會議日期": "941104",
+            "立法紀錄": "94卷63期3445號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc7c681c6cbc9cccfcfc4cfcfcfc8c4cfcfcfc8",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcdcfcec5cccecbd2cccec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc7cfcec5cdcac9d2cdcac7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890502",
-            "立法紀錄": "89卷22期3081號 52-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc7c881c7c6cdcdcfcfc4cfcfcacdc4cfcfcac9",
-            "關係文書": []
+            "會議日期": "950113",
+            "立法紀錄": "95卷5期3466號一冊 355-357頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc7c681c6cacfcacfcec4cfcccacac4cfcccac8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5c6c9d2c6c7"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "890502",
-            "立法紀錄": "89卷22期3081號 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc7c881c7c6cdcdcfcfc4cfcfcac9c4cfcfcac9",
+            "會議日期": "950113",
+            "立法紀錄": "95卷5期3466號一冊 357-357頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcdc7c681c6cacfcacfcec4cfcccac8c4cfcccac8",
             "關係文書": []
         }
     ]
