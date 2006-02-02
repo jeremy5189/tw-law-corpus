@@ -1,8 +1,8 @@
 {
     "title": "高級中學法",
     "versions": [
-        "中華民國93年6月4日修正",
-        "中華民國93年6月23日公布"
+        "中華民國95年1月13日修正",
+        "中華民國95年2月3日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -48,7 +48,7 @@
         {
             "note": "(高級中學之類型)",
             "rule_no": "第六條",
-            "content": "　　高級中學分為下列類型：\n　　一、普通高級中學：指研習基本學科為主之普通課程組織，以強化學生通識能力之學校。\n　　二、綜合高級中學：指融合普通科目與職業科目為一體之課程組織，輔導學生根據能力、性向、興趣選修適性課程之學校。\n　　三、單類科高級中學：指採取特定學科領域為核心之課程組織，提供學習成就特別優異及性向明顯之學生，繼續發展潛能之學校。\n　　四、實驗高級中學：指為從事教育實驗設立之學校。\n　　普通高級中學為適應特殊地區之需要，得報經主管教育行政機關核准，附設職業類科或國民中學部。\n　　實驗高級中學申請設立之條件、程序、附設職業類科或國民中小學部等事項，其辦法由中央主管教育行政機關定之。",
+            "content": "　　高級中學分為下列類型：\n　　一、普通高級中學：指研習基本學科為主之普通課程組織，以強化學生通識能力之學校。\n　　二、綜合高級中學：指融合普通科目與職業科目為一體之課程組織，輔導學生根據能力、性向、興趣選修適性課程之學校。\n　　三、單類科高級中學：指採取特定學科領域為核心之課程組織，提供學習成就特別優異及性向明顯之學生，繼續發展潛能之學校。\n　　四、實驗高級中學：指為從事教育實驗設立之學校。\n　　普通高級中學為適應特殊地區之需要，報請主管教育行政機關核准後，得於同一直轄市、縣（市）行政區域內附設職業類科或國民中學部。\n　　設有國民中學部之普通高級中學，基於中小學一貫教育之考量，報請主管教育行政機關核准後，得於同一直轄市、縣（市）行政區域內附設國民小學部。\n　　實驗高級中學申請設立之條件、程序、附設職業類科或國民中小學部等事項，其辦法由中央主管教育行政機關定之。",
             "relates": {}
         },
         {
@@ -251,53 +251,46 @@
         }
     ],
     "law_reasons": {
-        "第二十六條 之二": "　　一、本條新增。\n　　二、目前公立高級中學係採公務預算型態編列，一切收支均需透過國庫統收統支，故學校有關場地與運動設施對外開放或委託經營及學生重補修、辦理招生、實施推廣教育等收入應一律繳庫，相關支出則仍需於歲出額度內容納編列，造成學校原有經費之排擠效應，致影響學校開放場地及運動設施供外界借用或經營意願，又以上各項收支因非屬常態性，事先不易作精確之預估據以編列預算，導致實際執行上常發生財務處理上之困難，爰有必要放寬其相關收支之運用彈性，俾因應實際需要及提升學校積極開源之誘因，爰增訂第一項。\n　　三、增訂第二項，收支管理作業規定之訂定機關。"
+        "第六條": "　　為落實教育改革、暢通升學管道及廢除不合理的限制，普通高級中學應准其附設小學部，爰加以修正之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "930507",
-            "立法紀錄": "93卷26期3360號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcece81c6cccdc9cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "彭添富",
+            "會議日期": "940527",
+            "立法紀錄": "94卷40期3422號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcecd81c6cbcbcfcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "林德福",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacececfcdc5cecec7d2cecdce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececbcfcac5cdc8c7d2cdc7cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "930519",
-            "立法紀錄": "93卷30期3364號 133-141頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcece81c6cccccfcfcfc4cfceccccc4cfcecbce",
+            "會議日期": "950102",
+            "立法紀錄": "95卷6期3467號一冊 147-154頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcecd81c6cacfc9cfcec4cfcecbc8c4cfcecacb",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 62-68頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcece81c6cccccccfcec4cfcfc9cdc4cfcfc9c7",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "950113",
+            "立法紀錄": "95卷5期3466號一冊 360-364頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcecd81c6cacfcacfcec4cfccc9cfc4cfccc9cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5ccced2cbcf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cecfc9d2cececf"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 68-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcece81c6cccccccfcec4cfcfc9c7c4cfcfc9c6",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 69-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcece81c6cccccccfcec4cfcfc9c6c4cfcfc9c6",
+            "會議日期": "950113",
+            "立法紀錄": "95卷5期3466號一冊 364-364頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcecd81c6cacfcacfcec4cfccc9cbc4cfccc9cb",
             "關係文書": []
         }
     ]
