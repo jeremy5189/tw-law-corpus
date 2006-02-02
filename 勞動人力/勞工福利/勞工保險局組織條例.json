@@ -1,8 +1,8 @@
 {
     "title": "勞工保險局組織條例",
     "versions": [
-        "中華民國84年10月12日制定",
-        "中華民國84年11月8日公布"
+        "中華民國95年1月11日修正",
+        "中華民國95年2月3日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -131,6 +131,12 @@
         },
         {
             "note": "",
+            "rule_no": "第二十條 之一",
+            "content": "　　本局為執行受委任辦理勞工退休金之收支、保管、滯納金之加徵、罰鍰處分及其強制執行等業務，設勞工退休金業務處。\n　　勞工退休金業務處置處經理一人、副經理二人、一等專員三人、科長七人、二等專員六人、三等專員十五人；其餘所需工作人員，就本條例所定員額內派充之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第二十一條",
             "content": "　　中央主管機關應於本條例施行後三年內成立中央社會保險局，統合辦理全民健康保險以外之各項保險。",
             "relates": {}
@@ -149,75 +155,53 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　明定勞工保局設立之法源依據、任務及隸屬關係。",
-        "第二條": "　　明定總經理、副總經理之職掌。",
-        "第三條": "　　明定本局設七個業務單位及其名稱。",
-        "第四條": "　　明定承保處之業務職掌。",
-        "第五條": "　　明定給付處之業務職掌。",
-        "第六條": "　　明定財務處之業務職掌。",
-        "第七條": "　　明定企劃室之業務職掌。",
-        "第八條": "　　明定資訊室之業務職掌。",
-        "第九條": "　　明定稽核之業務職掌。",
-        "第十條": "　　明定秘書室之業務職掌。",
-        "第十一條": "　　一、第一項明定本局人員之編制職稱及主管員額。\n　　二、職業災害中殘廢與職業病之審定及勞保基金之管理運用，均為專業性知識，非一般行政人員所能勝任，爰於第二項明定於必要時得聘用兼任醫師及財務專業人員。",
-        "第十二條": "　　明定本局得視實際需要設辦事處或聯絡處。",
-        "第十三條": "　　明定人事室之編制職稱及職掌。",
-        "第十四條": "　　明定會計室之編制及職掌。",
-        "第十五條": "　　明定政風室之編制及職掌。",
-        "第十六條": "　　為因應承保業務需要，俾作彈性處理，除醫療業務移撥健保局，其人員全數移撥該局外，改制之勞工保險局員額估需一千八百四十二人，爰決議明列本局（含各辦事處或聯絡處）之總員額，並應以預算員額進用人員，避免浮濫。",
-        "第十七條": "　　明定本局人員之派免規定。",
-        "第十八條": "　　沿用台閩地區勞工保險局現行體制，並參照中央健康保險局組織條例體例，明定人事管理及職務列等比照公營金融保險事業機構辦理。",
-        "第十九條": "　　為因應勞工保險業務之需要，得報經中央勞工行政主管機關核准，設各種委員會以供諮詢。",
-        "第二十條": "　　一、第一項明定本局得接受委託或委任代辦其他社會保險及有關業務；在受託期間，得設受託業務處，所需工作人員就本條例所定員額內派充之。\n　　二、第二項明定受託業務並受委託機關監督，以資明確。",
-        "第二十一條": "　　照修正動議條文通過。",
-        "第二十二條": "　　明定本局辦事細則之擬訂及核定機關。",
-        "第二十三條": "　　明定本條例之施行日期。"
+        "第二十條 之一": "　　一、本條新增。\n　　二、勞工退休金業務規模龐大，且體制、性質均迥異於本局現行業務，必需另設分支機構專責辦理，以利業務推動。\n　　三、受委任辦理勞工退休金業務，增置處經理一人、副經理二人、一等專員三人、科長七人、二等專員六人、三等專員十五人，以協助處理業務。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "831014",
-            "立法紀錄": "83卷65期2739號上冊 341-341頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccace81c7ccc9cacfcec4cfcccbcec4cfcccbce",
+            "會議日期": "941104",
+            "立法紀錄": "94卷63期3445號 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccacd81c6cbc9cccfcfc4cfcfcfc9c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcbcecfcfcfc5c8cdd2c7cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc7cfcec5cccecfd2cccecd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "840522",
-            "立法紀錄": "84卷33期2790號 163-186頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccace81c7cbcccccfcfc4cfcec9ccc4cfcec7c9",
+            "會議日期": "941219",
+            "立法紀錄": "95卷1期3462號一冊 27-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccacd81c6cacfcecfcec4cfcfcdc8c4cfcfcbcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "841012",
-            "立法紀錄": "84卷52期2809號 18-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccace81c7cbcacdcfcfc4cfcfcec7c4cfcfcccb",
+            "會議日期": "950106",
+            "立法紀錄": "95卷4期3465號一冊 359-362頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccacd81c6cacfcbcfcec4cfcccac6c4cfccc9cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcacdcecfcdc5c8c9ced2c8c8cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec7cfcdc5ccceced2cccecb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "841012",
-            "立法紀錄": "84卷52期2809號 34-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccace81c7cbcacdcfcfc4cfcfcccbc4cfcfcbcf",
+            "會議日期": "950111",
+            "立法紀錄": "95卷5期3466號一冊 74-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccacd81c6cacfcacfcec4cfcfc8cbc4cfcfc8ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "841012",
-            "立法紀錄": "84卷52期2809號 40-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccace81c7cbcacdcfcfc4cfcfcbcfc4cfcfcbcf",
+            "會議日期": "950111",
+            "立法紀錄": "95卷5期3466號一冊 75-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccacd81c6cacfcacfcec4cfcfc8cac4cfcfc8ca",
             "關係文書": []
         }
     ]
