@@ -1,8 +1,8 @@
 {
     "title": "教育人員任用條例",
     "versions": [
-        "中華民國92年12月4日修正",
-        "中華民國92年12月17日公布"
+        "中華民國95年1月13日修正",
+        "中華民國95年2月3日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -288,7 +288,7 @@
         {
             "note": "(教職員職務等級表)",
             "rule_no": "第四十條",
-            "content": "　　學校校長、教師之職務等級表、由教育部定之；學校職員之官等、職等及職務列等，適用公務人員任用法之規定。\n　　本條例施行前遴用之職員適用之原有薪級表得配合相當職務列等予以修正。",
+            "content": "　　學校校長、教師及運動教練之職務等級表，由教育部定之；學校職員之官等、職等及職務列等，適用公務人員任用法之規定。\n　　本條例施行前遴用之職員適用之原有薪級表，得配合相當職務列等予以修正。",
             "relates": {}
         },
         {
@@ -317,40 +317,46 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、將各級學校專任運動教練納入本條例適用對象。\n　　二、依國民體育法第十三條之規定，各級學校運動教練之聘任資格，由行政院體育委員會定之。",
-        "第二十二條 之一": "　　一、本條新增。\n　　二、專任運動教練之資格由中央體育主管機關定之，聘任程序及聘期，則由教育人員中央主管機關定之。"
+        "第四十條": "　　依據各級學校專任運動教練聘任辦法規定，運動教練為非屬教師身分之工作者，因此薪資待遇無法準用教師相關規定辦理，故須立法授權由教育部另訂定運動教練職務等級表。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "921126",
-            "立法紀錄": "92卷54期3328號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecf81c6cdcacbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "國民黨黨團",
+            "會議日期": "941118",
+            "立法紀錄": "94卷70期3452號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cece81c6cbc8cfcfcfc4cfcfcfcdc4cfcfcfcc",
+            "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecdcfcec5cecbcdd2cecbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfccc5cdc9ccd2cdc9ca"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "950102",
+            "立法紀錄": "95卷6期3467號一冊 13-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cece81c6cacfc9cfcec4cfcfceccc4cfcfcdce",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "921204",
-            "立法紀錄": "92卷57期3331號一冊 94-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecf81c6cdcac8cfcec4cfcfc6cbc4cfcfc6ca",
+            "會議日期": "950113",
+            "立法紀錄": "95卷5期3466號一冊 364-367頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cece81c6cacfcacfcec4cfccc9cbc4cfccc9c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecbcfcec5cbc8c8d2cbc7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cececdd2cececa"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "921204",
-            "立法紀錄": "92卷57期3331號一冊 95-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecf81c6cdcac8cfcec4cfcfc6cac4cfcfc6c9",
+            "會議日期": "950113",
+            "立法紀錄": "95卷5期3466號一冊 367-367頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cece81c6cacfcacfcec4cfccc9c8c4cfccc9c8",
             "關係文書": []
         }
     ]
