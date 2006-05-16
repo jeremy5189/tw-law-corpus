@@ -1,8 +1,8 @@
 {
     "title": "存款保險條例",
     "versions": [
-        "中華民國90年6月26日修正",
-        "中華民國90年7月9日公布"
+        "中華民國95年4月28日修正",
+        "中華民國95年5月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -118,6 +118,12 @@
             "relates": {}
         },
         {
+            "note": "(存保公司退場處理或停業清理債務之優先順序)",
+            "rule_no": "第十六條 之一",
+            "content": "　　存保公司經主管機關或農業金融中央主管機關指定依本條例處理要保機構，進行退場處理或停業清理債務清償時，該要保機構之存款債務應優先於非存款債務。\n　　前項所稱存款債務係指本條例第四條所稱存款；非存款債務則指該要保機構存款債務以外之負債項目。",
+            "relates": {}
+        },
+        {
             "note": "(存保公司得輔導、監管或接管要保機構)",
             "rule_no": "第十七條",
             "content": "　　中央存款保險公司為控制承保風險，必要時得報請主管機關，指派人員對業務經營不健全之要保機構進行輔導。\n　　要保機構依本條例及銀行法規定受輔導、監管或接管時，中央存款保險公司於報經主管機關核准後，得對要保機構辦理貸款或存款，並得準用第十五條第一項第三款規定。但提供財務協助支出之成本應小於第十五條第一項第一款現金賠付之損失。",
@@ -185,101 +191,60 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　因中央存保公司之理賠準備金只有二十四億元，如遇重大之金融事件，勢必不足以因應；再加上偏低之保險費率，使得理賠準備金之累積速度十分緩慢。故為了厚植理賠能力，無須再分派於財政部及中央銀行而繳國庫，全數納入保險理賠準備金，使得存款保險人之權益獲得充分之保障。",
-        "第十七條 之一": "　　一、本條係新增。\n　　二、依金融重建基金設置及管理條例第五條及第十條辦理金融機構重建時，可允許中央存款保險公司發行金融債券，以民國八十九年起已調高的存保費率所增收之保費為擔保，作償債及利息來源。",
-        "第二十一條": "　　為保障金融機構存款權益，併維護金融信用秩序，故增列第三項。"
+        "第十六條 之一": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890407",
-            "立法紀錄": "89卷15期3074號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c7c6cecacfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "何嘉榮",
+            "會議日期": "940429",
+            "立法紀錄": "94卷28期3410號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8ce81c6cbcdc7cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcacfcec5c6cdd2c6cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890602",
-            "立法紀錄": "89卷32期3091號上冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c7c6cccdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecbcfcfc5cecec9d2cecec7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900102",
-            "立法紀錄": "90卷5期3139號一冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c6cfcfcacfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec7cfcfc5cec8cfd2cec8cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900313",
-            "立法紀錄": "90卷10期3144號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c6cfcecfcfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "朱立倫",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcbc5cdc9cdd2cdc9ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececfcfccc5cecfcbd2cecfc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900308",
-            "立法紀錄": "90卷13期3147號 143-163頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c6cfcecccfcfc4cfcecbccc4cfcec9cc",
+            "會議日期": "940518",
+            "立法紀錄": "94卷39期3421號 433-451頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8ce81c6cbccc6cfcfc4cfcbccccc4cfcbcace",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "900321",
-            "立法紀錄": "90卷17期3151號下冊 269-297頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c6cfcec8cfccc4cfcdc9c6c4cfcdc6c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "900522",
-            "立法紀錄": "90卷28期3162號上冊 261-274頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c6cfcdc7cfcec4cfcdc9cec4cfcdc8cb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940927",
+            "立法紀錄": "94卷45期3427號 153-155頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8ce81c6cbcbcacfcfc4cfcecaccc4cfcecaca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc6cfccc5ceccccd2cecbc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5cacdcad2cacdc6"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "940928",
+            "立法紀錄": "95卷23期3484號 27-28頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8ce81c6cacdcccfcfc4cfcfcdc8c4cfcfcdc7",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "900626",
-            "立法紀錄": "90卷43期3177號 44-45頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c6cfcbcccfcfc4cfcfcbcbc4cfcfcbca",
+            "會議日期": "950428",
+            "立法紀錄": "95卷23期3484號 28-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8ce81c6cacdcccfcfc4cfcfcdc7c4cfcfcdc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "900626",
-            "立法紀錄": "90卷43期3177號 45-45頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8cf81c6cfcbcccfcfc4cfcfcbcac4cfcfcbca",
+            "會議日期": "950428",
+            "立法紀錄": "95卷23期3484號 29-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cec6c8ce81c6cacdcccfcfc4cfcfcdc6c4cfcfcdc6",
             "關係文書": []
         }
     ]
