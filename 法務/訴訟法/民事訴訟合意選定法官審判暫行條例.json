@@ -1,8 +1,8 @@
 {
     "title": "民事訴訟合意選定法官審判暫行條例",
     "versions": [
-        "中華民國93年5月25日全文修正",
-        "中華民國93年6月9日公布"
+        "中華民國95年5月5日修正",
+        "中華民國95年5月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,67 +66,51 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　本條例自公布日施行，施行期間至中華民國九十五年九月五日止。\n　　適用本條例之事件，於前項施行期間屆滿後尚未終結者，本條例之規定繼續適用之。",
+            "content": "　　本條例自公布日施行，施行期間至中華民國九十七年九月五日止。\n　　適用本條例之事件，於前項施行期間屆滿後尚未終結前，本條例之規定繼續適用之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條": "　　本條未修正。",
-        "第二條": "　　本條未修正。",
-        "第三條": "　　一、本條新增。\n　　二、為擴大當事人選定法官之範圍，爰增訂當事人於上訴第二審法院時，亦得選定第二審法院法官審判，並準用前條第三項、第四項及第六項之規定。",
-        "第四條": "　　一、本條為原條文第三條移列。\n　　二、配合第三條之增訂，將「前條」修正為「前二條」，又目前得適用本條例之事件，除普通事件外，並包括簡易事件及家事事件，為杜絕爭議，爰修正法官每月受理前二條事件，以所屬民事庭、簡易庭及家事庭法官前月分受之平均件數為限。",
-        "第五條": "　　一、本條為原條文第四條移列。\n　　二、配合增訂第三條而為文字修正。",
-        "第六條": "　　一、本條為原條文第五條移列。\n　　二、配合增訂第三條而為文字修正。",
-        "第七條": "　　 本條為原條文第六條移列，內容未修正。",
-        "第八條": "　　一、本條為原條文第七條移列。\n　　二、本條例施行後，經調查各方意見，認為適用本條例之事件，不得上訴第二審法院，降低當事人合意選定法官之意願，為貫徹本條例之立法宗旨，即尊重當事人之程序主體地位及程序選擇權，增進人民對裁判之信賴，並疏減訟源，爰修正為適用本條例之案件，其上訴或抗告，除法律別有規定外，依民事訴訟法之規定。",
-        "第九條": "　　一、本條為原條文第八條移列。\n　　二、配合第三條之增訂，刪除「地方」二字。",
-        "第十條": "　　一、本條為原條文第九條移列。\n　　二、本條例施行期間原規定為一年，為做有效評估其可行性，爰修正其施行期間至中華民國九十五年九月五日止。"
+        "第十條": "　　本條例施行期間原至九十五年九月五日止，為使當事人得續採用此制度，並有效評估其可行性，經徵詢各方意見，再延長試辦期間二年，爰修正其施行期間至中華民國九十七年九月五日止。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "930409",
-            "立法紀錄": "93卷20期3354號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfcf81c6cccdcfcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "950331",
+            "立法紀錄": "95卷14期3475號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfce81c6cacecbcfcec4cfcfcfc8c4cfcfcfc8",
             "主提案": "司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacfc6cfcfc5cecfccd2cecfc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc8cfcec5cdccccd2cdccca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "930505",
-            "立法紀錄": "93卷27期3361號 231-242頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfcf81c6cccdc8cfcfc4cfcdcccec4cfcdcbcd",
+            "會議日期": "950419",
+            "立法紀錄": "95卷21期3482號 329-346頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfce81c6cacdcecfcfc4cfcccdc6c4cfcccbc9",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "930525",
-            "立法紀錄": "93卷29期3363號上冊 118-125頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfcf81c6cccdc6cfcec4cfcecec7c4cfcecdca",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 46-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfce81c6cacdcacfcec4cfcfcbc9c4cfcfcacf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecdcfcdc5cccaced2ccc9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cdced2cdca"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "930525",
-            "立法紀錄": "93卷29期3363號上冊 126-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfcf81c6cccdc6cfcec4cfcecdc9c4cfcecdc8",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "930525",
-            "立法紀錄": "93卷29期3363號上冊 127-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfcf81c6cccdc6cfcec4cfcecdc8c4cfcecdc8",
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 50-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfce81c6cacdcacfcec4cfcfcacfc4cfcfcacf",
             "關係文書": []
         }
     ]
