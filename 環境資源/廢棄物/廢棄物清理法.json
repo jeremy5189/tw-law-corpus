@@ -1,8 +1,8 @@
 {
     "title": "廢棄物清理法",
     "versions": [
-        "中華民國93年5月18日修正",
-        "中華民國93年6月2日公布"
+        "中華民國95年5月5日修正",
+        "中華民國95年5月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -302,7 +302,7 @@
         {
             "note": "(罰則)",
             "rule_no": "第四十六條",
-            "content": "　　有下列情形之一者，處一年以上五年以下有期徒刑，得併科新臺幣三百萬元以下罰金：\n　　一、任意棄置有害事業廢棄物。\n　　二、事業負責人或相關人員未依本法規定之方式貯存、清除、處理或再利用廢棄物，致污染環境。\n　　三、未經主管機關許可，提供土地回填、堆置廢棄物。\n　　四、未依第四十一條第一項規定領有廢棄物清除、處理許可文件，從事廢棄物貯存、清除、處理，或未依廢棄物清除、處理許可文件內容貯存、清除、處理廢棄物。\n　　五、執行機關之人員委託未取得許可文件之業者，清除、處理一般廢棄物者；或明知受託人非法清除、處理而仍委託。\n　　六、公民營廢棄物處理機構負責人或相關人員、或執行機關之人員未處理廢棄物，開具虛偽證明。\n　　無許可文件，以經營廢棄物清除、處理為常業者，處三年以上十年以下有期徒刑，得併科新臺幣九百萬元以下罰金。",
+            "content": "　　有下列情形之一者，處一年以上五年以下有期徒刑，得併科新臺幣三百萬元以下罰金：\n　　一、任意棄置有害事業廢棄物。\n　　二、事業負責人或相關人員未依本法規定之方式貯存、清除、處理或再利用廢棄物，致污染環境。\n　　三、未經主管機關許可，提供土地回填、堆置廢棄物。\n　　四、未依第四十一條第一項規定領有廢棄物清除、處理許可文件，從事廢棄物貯存、清除、處理，或未依廢棄物清除、處理許可文件內容貯存、清除、處理廢棄物。\n　　五、執行機關之人員委託未取得許可文件之業者，清除、處理一般廢棄物者；或明知受託人非法清除、處理而仍委託。\n　　六、公民營廢棄物處理機構負責人或相關人員、或執行機關之人員未處理廢棄物，開具虛偽證明。",
             "relates": {}
         },
         {
@@ -492,73 +492,45 @@
         {
             "note": "(施行日)",
             "rule_no": "第七十七條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十五年五月五日修正之條文，自中華民國九十五年七月一日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第五十一條": "　　照黨團協商條文通過。"
+        "第四十六條": "　　配合九十四年二月二日修正公布之刑法已刪除常業犯之規定，爰將原條文第二項有關常業犯之規定刪除。　　",
+        "第七十七條": "　　一、原條文未修正，列為第一項。\n　　二、配合刑法修正條文自九十五年七月一日施行，增列第二項，規定修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920509",
-            "立法紀錄": "92卷27期3301號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c881c6cdcdc8cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "民進黨黨團",
+            "會議日期": "950111",
+            "立法紀錄": "95卷5期3466號一冊 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c781c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccececfcec5cdc6c7d2cccfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "920523",
-            "立法紀錄": "92卷31期3305號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c881c6cdcccecfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecccfcec5cdc6c9d2cdc6c7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "921226",
-            "立法紀錄": "93卷2期3336號上冊 122-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c881c6cccfcdcfcec4cfcecdcdc4cfcecdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "930106",
-            "立法紀錄": "93卷4期3338號上冊 182-183頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c881c6cccfcbcfcec4cfcec7cdc4cfcec7cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "930518",
-            "立法紀錄": "93卷28期3362號 121-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c881c6cccdc7cfcfc4cfcecdcec4cfcecdcd",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930518",
-            "立法紀錄": "93卷28期3362號 122-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c881c6cccdc7cfcfc4cfcecdcdc4cfcecdcd",
-            "關係文書": []
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 133-193頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c781c6cacdcacfcec4cfceccccc4cfcec6cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "930518",
-            "立法紀錄": "93卷28期3362號 122-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c881c6cccdc7cfcfc4cfcecdcdc4cfcecdcd",
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 193-194頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cac7c7c781c6cacdcacfcec4cfcec6ccc4cfcec6cb",
             "關係文書": []
         }
     ]
