@@ -1,8 +1,8 @@
 {
     "title": "香港澳門關係條例",
     "versions": [
-        "中華民國92年10月9日修正",
-        "中華民國92年10月29日公布"
+        "中華民國95年5月5日修正",
+        "中華民國95年5月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -332,9 +332,9 @@
             "section_name": "第五章  罰則"
         },
         {
-            "note": "(港澳居民非法進入之處罰)",
+            "note": "(港澳居民非法進入臺灣地區之處罰)",
             "rule_no": "第四十七條",
-            "content": "　　使香港或澳門居民非法進入臺灣地區者，處五年以下有期徒刑、拘役或科或併科新臺幣五十萬元以下罰金。\n　　意圖營利而犯前項之罪者，處一年以上七年以下有期徒刑，得併科新臺幣一百萬元以下罰金。\n　　前二項之未遂犯罰之。\n　　以犯第二項之罪為常業者，處三年以上十年以下有期徒刑，得併科新臺幣三百萬元以下罰金。",
+            "content": "　　使香港或澳門居民非法進入臺灣地區者，處五年以下有期徒刑、拘役或科或併科新臺幣五十萬元以下罰金。\n　　意圖營利而犯前項之罪者，處一年以上七年以下有期徒刑，得併科新臺幣一百萬元以下罰金。\n　　前二項之未遂犯罰之。",
             "relates": {}
         },
         {
@@ -428,66 +428,45 @@
         {
             "note": "(施行日)",
             "rule_no": "第六十二條",
-            "content": "　　本條例施行日期，由行政院定之。但行政院得分別情形定其一部或全部之施行日期。",
+            "content": "　　本條例施行日期，由行政院定之。但行政院得分別情形定其一部或全部之施行日期。\n　　本條例中華民國九十五年五月五日修正之條文，自中華民國九十五年七月一日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第四十一條": "　　兩岸人民關係條例修正條文已建立陸資來臺投資之許可制，並授權訂定許可辦法，以資規範。大陸地區人民、法人、團體、其他機構於香港、澳門投資之公司，應適用兩岸人民關係條例修正條文第七十三條之規定予以規範，本條第二項之限制規定，已不合時宜，爰配合刪除。",
-        "第四十一條 之一": "　　一、本條新增。\n　　二、香港、澳門公司在臺之投資及營業，依港澳關係條例第三十一條及第四十一條規定，準用外國人投資及公司法外國公司之規定，鑒於陸資來臺政策規劃，大陸地區人民、法人、團體或其他機構於香港或澳門投資之公司，有兩岸人民關係條例修正條文第七十三條所定情形者，應適用兩岸人民關係條例關於在臺投資及稅捐之相關規定，爰依本條例第一條第二項規定意旨增訂本條，以資明確。"
+        "第四十七條": "　　因刑法已刪除常業犯之規定，爰配合刪除原條文第四項常業犯之規定。",
+        "第六十二條": "　　一、原條文未修正，列為第一項。\n　　二、配合刑法修正條文自九十五年七月一日施行，增列第二項，規定修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910409",
-            "立法紀錄": "91卷24期3220號 7-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cecdcbcfcfc4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "950111",
+            "立法紀錄": "95卷5期3466號一冊 6-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac7cf81c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cbcdcfd2cbcdcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "910502",
-            "立法紀錄": "91卷44期3240號下冊 133-149頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cecbcbcfccc4cfceccccc4cfcecbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 127-131頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cecccbcfcec4cfcecdc8c4cfceccce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececdcfcec5cbcfced2cbcfc8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "920926",
-            "立法紀錄": "92卷40期3314號中冊 803-807頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cdcbcfcfcdc4cfc7cfccc4cfc7cfc8",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "921009",
-            "立法紀錄": "92卷41期3315號 329-329頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cdcbcecfcfc4cfcccdc6c4cfcccdc6",
-            "關係文書": []
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 133-200頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac7cf81c6cacdcacfcec4cfceccccc4cfcdcfcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "921009",
-            "立法紀錄": "92卷41期3315號 329-329頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac8c781c6cdcbcecfcfc4cfcccdc6c4cfcccdc6",
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 200-200頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9cac7cf81c6cacdcacfcec4cfcdcfcfc4cfcdcfcf",
             "關係文書": []
         }
     ]
