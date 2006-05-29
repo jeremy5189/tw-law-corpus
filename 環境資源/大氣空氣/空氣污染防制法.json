@@ -1,8 +1,8 @@
 {
     "title": "空氣污染防制法",
     "versions": [
-        "中華民國94年4月29日修正",
-        "中華民國94年5月18日公布"
+        "中華民國95年5月5日修正",
+        "中華民國95年5月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -376,7 +376,7 @@
         {
             "note": "(罰則)",
             "rule_no": "第五十九條",
-            "content": "　　違反第三十條第二項所定管理辦法者，處新臺幣十萬元以上一百萬元以下罰鍰，並通知限期補正或申報，屆期仍未遵行者，按日連續處罰；情節重大者，得令其停工或停業，必要時，並得廢止其販賣或使用許可證或勒令歇業。\n　　違反第三十條第二項所定管理辦法中輸入或輸出規定者，處六個月以上五年以下有期徒刑，得併科新臺幣三十萬元以上一百五十萬元以下罰金。\n　　以犯前項之罪為常業者，處一年以上七年以下有期徒刑，得併科新臺幣五十萬元以上二百五十萬元以下罰金。",
+            "content": "　　違反第三十條第二項所定管理辦法者，處新臺幣十萬元以上一百萬元以下罰鍰，並通知限期補正或申報，屆期仍未遵行者，按日連續處罰；情節重大者，得令其停工或停業，必要時，並得廢止其販賣或使用許可證或勒令歇業。\n　　違反第三十條第二項所定管理辦法中輸入或輸出規定者，處六個月以上五年以下有期徒刑，得併科新臺幣三十萬元以上一百五十萬元以下罰金。",
             "relates": {}
         },
         {
@@ -542,51 +542,45 @@
         {
             "note": "(施行日)",
             "rule_no": "第八十六條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十五年五月五日修正之條文，自中華民國九十五年七月一日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十八條": "　　一、影響國民健康之因素繁多，空氣污染亦為其中之一，爰修正第一項第十一款。\n　　二、第二項至第四項未修正。"
+        "第五十九條": "　　配合九十四年二月二日修正公布之刑法已刪除常業犯之規定，爰將原條文第三項有關常業犯之規定刪除。",
+        "第八十六條": "　　一、原條文未修正，列為第一項。\n　　二、配合刑法修正條文自九十五年七月一日施行，增列第二項，規定修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940318",
-            "立法紀錄": "94卷12期3394號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7c9c7c981c6cbcecdcfcfc4cfcfcfc9c4cfcfcfc8",
+            "會議日期": "950111",
+            "立法紀錄": "95卷5期3466號一冊 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7c9c7c781c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5cbcecdd2cbceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "940413",
-            "立法紀錄": "94卷27期3409號 99-104頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7c9c7c981c6cbcdc8cfcfc4cfcfc6c6c4cfcecfcb",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "940429",
-            "立法紀錄": "94卷28期3410號一冊 72-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7c9c7c981c6cbcdc7cfcec4cfcfc8cdc4cfcfc8ca",
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 133-193頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7c9c7c781c6cacdcacfcec4cfceccccc4cfcec6cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececfcfcdc5cbcbd2cbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "940429",
-            "立法紀錄": "94卷28期3410號一冊 75-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7c9c7c981c6cbcdc7cfcec4cfcfc8cac4cfcfc8c9",
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 193-193頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7c9c7c781c6cacdcacfcec4cfcec6ccc4cfcec6cc",
             "關係文書": []
         }
     ]
