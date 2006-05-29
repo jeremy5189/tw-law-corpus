@@ -1,8 +1,8 @@
 {
     "title": "公職人員選舉罷免法",
     "versions": [
-        "中華民國95年1月13日修正",
-        "中華民國95年2月3日公布"
+        "中華民國95年5月5日修正",
+        "中華民國95年5月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -106,7 +106,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　中華民國國民，年滿二十歲，無左列情事之一者，有選舉權。\n　　一、褫奪公權尚未復權者。\n　　二、受禁治產宣告尚未撤銷者。\n　　前項第一款情形，如係戒嚴時期依懲治叛亂條例判決者，不在此限。",
+            "content": "　　中華民國國民，年滿二十歲，除受禁治產宣告尚未撤銷者外，有選舉權。",
             "relates": {}
         },
         {
@@ -954,88 +954,45 @@
         {
             "note": "",
             "rule_no": "第一百十三條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十五年五月五日修正之條文，自中華民國九十五年七月一日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第四十二條": "　　照黨團協商條文通過。",
-        "第六十八條 之二": "　　一、本條新增。\n　　二、照黨團協商條文通過。"
+        "第十四條": "　　一、九十四年二月二日修正公布之刑法，業已刪除原第三十六條第三款有關褫奪公權者，褫奪選舉、罷免、創制、複決四權資格之規定，並自九十五年七月一日起施行，爰配合將第一項第一款規定予以刪除，並酌作文字修正。\n　　二、配合第一項之修正，刪除第二項規定。",
+        "第一百十三條": "　　一、原條文未修正，列為第一項。\n　　二、配合刑法修正條文自九十五年七月一日施行，增列第二項，規定修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940527",
-            "立法紀錄": "94卷40期3422號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cbcbcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececbcfcec5cecbc7d2cecbc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941230",
-            "立法紀錄": "95卷2期3463號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cacfcdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "民進黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec8cfcdc5ccc9c9d2ccc9c8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950103",
-            "立法紀錄": "95卷2期3463號一冊 265-265頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cacfcdcfcec4cfcdc9cac4cfcdc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950110",
-            "立法紀錄": "95卷4期3465號一冊 366-366頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cacfcbcfcec4cfccc9c9c4cfccc9c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
             "會議日期": "950111",
-            "立法紀錄": "95卷5期3466號一冊 76-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cacfcacfcec4cfcfc8c9c4cfcfc8c8",
-            "關係文書": []
+            "立法紀錄": "95卷5期3466號一冊 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcb81c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 270-272頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cacfcacfcec4cfcdc8cfc4cfcdc8cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 534-535頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cacfcacfcec4cfcacccbc4cfcaccca",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 272-272頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cacfcacfcec4cfcdc8cdc4cfcdc8cd",
-            "關係文書": []
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 133-177頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcb81c6cacdcacfcec4cfceccccc4cfcec8c8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 535-536頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcc81c6cacfcacfcec4cfcacccac4cfcaccc9",
+            "會議日期": "950505",
+            "立法紀錄": "95卷25期3486號一冊 177-177頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfcb81c6cacdcacfcec4cfcec8c8c4cfcec8c8",
             "關係文書": []
         }
     ]
