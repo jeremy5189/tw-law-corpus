@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法施行法",
     "versions": [
-        "中華民國92年1月14日修正",
-        "中華民國92年2月6日公布"
+        "中華民國95年5月23日修正",
+        "中華民國95年6月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -68,104 +68,55 @@
             "rule_no": "第七條 之三",
             "content": "　　中華民國九十二年一月十四日修正通過之刑事訴訟法施行前，已繫屬於各級法院之案件，其以後之訴訟程序，應依修正刑事訴訟法終結之。但修正刑事訴訟法施行前已依法定程序進行之訴訟程序，其效力不受影響。",
             "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第七條 之四",
+            "content": "　　中華民國九十五年五月二十三日修正通過之刑事訴訟法，自九十五年七月一日施行。",
+            "relates": {}
         }
     ],
     "law_reasons": {
-        "第七條 之二": "　　一、本條係新增。\n　　二、本次刑事訴訟法之修正，涉及證據之傳聞法則及排除規定與交互詰問運作方式等重大變革，對於偵查及審判程序之進行將發生深遠之影響。從而，相關配套措施及應行注意事項與人員教育訓練，均需時間妥為規劃，爰增訂本條，除部分公布後可立即施行之條文外，就相關規定給予施行緩衝期間，期使新制運作順暢。",
-        "第七條 之三": "　　一、本條係新增。\n　　二、中華民國九十二年一月十四日修正刑事訴訟法施行前，已繫屬於各級法院之案件，其以後之訴訟程序，應依修正刑事訴訟法終結之。但為避免程序之勞費，本諸舊程序用舊法，新程序始用新法之一般法則，各級法院於修正之刑事訴訟法施行前，已依法踐行之訴訟程序（包含相關證據法則之適用），其效力不受影響。故而，對於提起上訴之案件，於修正刑事訴訟法施行前，原審法院就可得為證據之證據，已依法定程序調查者，其效力亦不受影響，爰增訂本條，以資適用。"
+        "第七條 之四": "　　一、本條係新增。\n　　二、中華民國刑法（以下稱刑法）已經立法院於九十四年一月七日修正，並經總統於九十四年二月二日以華總一義字第○九四○○○一四九○一號令公布，復以九十四年二月二日華總一義字第○九四○○○一四九一一號令公布自九十五年七月一日施行。前揭修正刑法已刪除常業犯之規定、修正刑事責任能力之定義、增列追繳及抵償為從刑、增刪調整有關刑或保安處分之執行等規定，為銜接適用，刑事訴訟法第一百零一條之一、第三百零一條、第四百七十條及第四百八十一條自應配合修正，並與修正刑法自九十五年七月一日同時施行。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "911108",
-            "立法紀錄": "91卷67期3263號上冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cec9c8cfcec4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "950421",
+            "立法紀錄": "95卷20期3481號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcd81c6cacdcfcfcfc4cfcfcfc9c4cfcfcfc9",
             "主提案": "司法院、行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc7cfcec5ccc9ced2cbcecd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910618",
-            "立法紀錄": "91卷45期3241號一冊 16-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cecbcacfcec4cfcfcec9c4cfcfcec6",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcfc5cac9cfd2c8cfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecfcfcec5cdcecfd2cdcec8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910619",
-            "立法紀錄": "91卷54期3250號下冊 81-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cecacbcfccc4cfcfc7cec4cfcfc6c8",
+            "會議日期": "950508",
+            "立法紀錄": "95卷28期3489號 407-423頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcd81c6cacdc7cfcfc4cfcbcfc8c4cfcbcdcc",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "911016",
-            "立法紀錄": "91卷66期3262號上冊 3-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cec9c9cfcec4cfcfcfccc4cfcfcfca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "911104",
-            "立法紀錄": "91卷74期3270號下冊 331-339頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cec8cbcfccc4cfcccccec4cfccccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "911209",
-            "立法紀錄": "92卷2期3276號下冊 99-132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cdcfcdcfccc4cfcfc6c6c4cfcecccd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "911219",
-            "立法紀錄": "92卷5期3279號四冊 385-465頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cdcfcacfcbc4cfccc7cac4cfcbc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "920102",
-            "立法紀錄": "92卷9期3283號下冊 3-40頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cdcfc6cfccc4cfcfcfccc4cfcfcbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "920114",
-            "立法紀錄": "92卷8期3282號六冊 1823-1847頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cdcfc7cfc9c4cec7cdccc4cec7cbc8",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "950523",
+            "立法紀錄": "95卷29期3490號一冊 67-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcd81c6cacdc6cfcec4cfcfc9c8c4cfcfc8c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfc8c5ced2ccc6c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcdc5cdcbcfd2cdcbc6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "920114",
-            "立法紀錄": "92卷8期3282號六冊 2198-2234頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cdcfc7cfc9c4cdcec6c7c4cdcdcccb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "920114",
-            "立法紀錄": "92卷8期3282號六冊 2257-2258頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcf81c6cdcfc7cfc9c4cdcdcac8c4cdcdcac7",
+            "會議日期": "950523",
+            "立法紀錄": "95卷29期3490號一冊 78-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcd81c6cacdc6cfcec4cfcfc8c7c4cfcfc8c7",
             "關係文書": []
         }
     ]
