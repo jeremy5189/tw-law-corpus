@@ -1,8 +1,8 @@
 {
     "title": "營造業法",
     "versions": [
-        "中華民國93年5月4日修正",
-        "中華民國93年5月19日公布"
+        "中華民國95年5月26日修正",
+        "中華民國95年6月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -208,7 +208,7 @@
         {
             "note": "(工地主任之資格)",
             "rule_no": "第三十一條",
-            "content": "　　工地主任應符合下列資格之一，並經中央主管機關會同中央勞工主管機關評定合格，領有中央主管機關核發之執業證者，始得擔任：\n　　一、專科以上學校土木、建築、營建、水利、環境或相關系、科畢業，並於畢業後有二年以上土木或建築工程經驗者。\n　　二、職業學校土木、建築或相關類科畢業，並於畢業後有五年以上土木或建築工程經驗者。\n　　三、高級中學或職業學校以上畢業，並於畢業後有十年以上土木或建築工程經驗者。\n　　四、普通考試或相當於普通考試以上之特種考試土木、建築或相關類科考試及格，並於及格後有二年以上土木或建築工程經驗者。\n　　五、領有建築工程管理甲級技術士證或建築工程管理乙級技術士證，並有三年以上土木或建築工程經驗者。\n　　六、專業營造業，得以領有該項專業甲級技術士證或該項專業乙級技術士證，並有三年以上該項專業工程經驗者為之。\n　　取得工地主任執業證者，每逾四年，應再取得最近四年內回訓證明，始得擔任營造業之工地主任。\n　　本法施行前領有內政部與受委託學校會銜核發之工地主任訓練結業證書者，應取得前項回訓證明，由中央主管機關發給執業證後，始得擔任營造業之工地主任。\n　　第一項工地主任之評定程序、基準及第二項回訓期程、課程、時數、實施方式、管理及相關事項之辦法，由中央主管機關定之。",
+            "content": "　　工地主任應符合下列資格之一，並另經中央主管機關評定合格或取得中央勞工行政主管機關依技能檢定法令辦理之營造工程管理甲級技術士證，由中央主管機關核發工地主任執業證者，始得擔任：\n　　一、專科以上學校土木、建築、營建、水利、環境或相關系、科畢業，並於畢業後有二年以上土木或建築工程經驗者。\n　　二、職業學校土木、建築或相關類科畢業，並於畢業後有五年以上土木或建築工程經驗者。\n　　三、高級中學或職業學校以上畢業，並於畢業後有十年以上土木或建築工程經驗者。\n　　四、普通考試或相當於普通考試以上之特種考試土木、建築或相關類科考試及格，並於及格後有二年以上土木或建築工程經驗者。\n　　五、領有建築工程管理甲級技術士證或建築工程管理乙級技術士證，並有三年以上土木或建築工程經驗者。\n　　六、專業營造業，得以領有該項專業甲級技術士證或該項專業乙級技術士證，並有三年以上該項專業工程經驗者為之。\n　　本法施行前符合前項第五款資格者，得經完成中央主管機關規定時數之職業法規講習，領有結訓證書者，視同評定合格。\n　　取得工地主任執業證者，每逾四年，應再取得最近四年內回訓證明，始得擔任營造業之工地主任。\n　　本法施行前領有內政部與受委託學校會銜核發之工地主任訓練結業證書者，應取得前項回訓證明，由中央主管機關發給執業證後，始得擔任營造業之工地主任。\n　　工地主任應於中央政府所在地組織全國營造業工地主任公會，辦理營造業工地主任管理輔導及訓練服務等業務；工地主任應加入全國營造業工地主任公會。營造業聘用工地主任，不必經工地主任公會同意。\n　　第一項工地主任之評定程序、基準及第三項回訓期程、課程、時數、實施方式、管理及相關事項之辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -485,53 +485,73 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　照黨團協商條文通過。"
+        "第三十一條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "921121",
-            "立法紀錄": "92卷53期3327號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8ccccc781c6cdcacccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "唐碧娥",
+            "會議日期": "941118",
+            "立法紀錄": "94卷70期3452號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcf81c6cbc8cfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "陳根德",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcececfcec5cecaced2cecacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfccc5cdccccd2cdccc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941125",
+            "立法紀錄": "94卷73期3455號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcf81c6cbc8cccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "李永萍",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecdcfcec5c6c6d2cecfcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921217",
-            "立法紀錄": "93卷2期3336號下冊 231-250頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8ccccc781c6cccfcdcfccc4cfcdcccec4cfcdcacf",
+            "會議日期": "941219",
+            "立法紀錄": "95卷1期3462號一冊 149-185頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcf81c6cacfcecfcec4cfcecbc6c4cfcec7ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "930504",
-            "立法紀錄": "93卷25期3359號上冊 89-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8ccccc781c6cccdcacfcec4cfcfc7c6c4cfcfc6ca",
+            "會議日期": "941230",
+            "立法紀錄": "95卷2期3463號一冊 102-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcf81c6cacfcdcfcec4cfcecfcdc4cfcecfc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacececfcec5c8cdd2c8c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec8cfcdc5cececcd2cecdcf"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "950526",
+            "立法紀錄": "95卷32期3493號一冊 178-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcf81c6cacccdcfcec4cfcec8c7c4cfcec8c6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930504",
-            "立法紀錄": "93卷25期3359號上冊 95-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8ccccc781c6cccdcacfcec4cfcfc6cac4cfcfc6ca",
+            "會議日期": "950526",
+            "立法紀錄": "95卷32期3493號一冊 179-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcf81c6cacccdcfcec4cfcec8c6c4cfcec7cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "930504",
-            "立法紀錄": "93卷25期3359號上冊 95-95頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8ccccc781c6cccdcacfcec4cfcfc6cac4cfcfc6ca",
+            "會議日期": "950526",
+            "立法紀錄": "95卷32期3493號一冊 180-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcf81c6cacccdcfcec4cfcec7cfc4cfcec7cf",
             "關係文書": []
         }
     ]
