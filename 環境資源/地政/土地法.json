@@ -1,8 +1,8 @@
 {
     "title": "土地法",
     "versions": [
-        "中華民國94年5月20日修正",
-        "中華民國94年6月15日公布"
+        "中華民國95年5月19日修正",
+        "中華民國95年6月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -520,7 +520,7 @@
         {
             "note": "(更正登記之聲請)",
             "rule_no": "第六十九條",
-            "content": "　　登記人員或利害關係人，於登記完畢後，發見登記錯誤或遺漏時，非以書面聲請該管上級機關查明核准後，不得更正。",
+            "content": "　　登記人員或利害關係人，於登記完畢後，發見登記錯誤或遺漏時，非以書面聲請該管上級機關查明核准後，不得更正。但登記錯誤或遺漏，純屬登記人員記載時之疏忽，並有原始登記原因證明文件可稽者，由登記機關逕行更正之。",
             "relates": {}
         },
         {
@@ -1697,46 +1697,46 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　一、第三項為新增。\n　　二、日本據台期間，許多教堂寺廟之不動產，因當時日本政府無理之要求，均登記為日本人所有，致其土地其建物於台灣光復後，國民政府誤為日產予以接收並登記為國有。後行政院遂根據國有財產法第六十條第二項訂定「台灣地區國有財產捐贈寺廟教堂辦法」，以解決此一歷史造成之不公平現象，還產於民。"
+        "第六十九條": "　　配合司法院釋字第五九八號解釋意旨，並鑑於登記錯誤或遺漏，如純屬登記人員記載時之疏忽，並有原始登記原因證明文件可資查證者，其更正所依據之事實明確，由登記機關逕行更正，對提高行政機關效率及達簡政便民之立場實有必要，爰增訂但書規定，賦予登記機關得逕為更正登記之法源。"
     },
     "law_history": [
         {
             "進度": "一讀",
             "會議日期": "940429",
-            "立法紀錄": "94卷28期3410號一冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc681c6cbcdc7cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "王幸男",
+            "立法紀錄": "95卷17期3478號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccccf81c6cacec8cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececfcfcec5cdccccd2cdccc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc6cfcec5cecfc7d2cececf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940511",
-            "立法紀錄": "94卷38期3420號 49-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc681c6cbccc7cfcfc4cfcfcbc6c4cfcfc9c6",
+            "會議日期": "950510",
+            "立法紀錄": "95卷29期3490號二冊 247-267頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccccf81c6cacdc6cfcdc4cfcdcbc8c4cfcdc9c8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "940520",
-            "立法紀錄": "94卷37期3419號一冊 47-51頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc681c6cbccc8cfcec4cfcfcbc8c4cfcfcace",
+            "會議日期": "950519",
+            "立法紀錄": "95卷29期3490號一冊 64-66頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccccf81c6cacdc6cfcec4cfcfc9cbc4cfcfc9c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececccfcdc5cccfced2cccfca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcdc5cdccc9d2cdccc6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "940520",
-            "立法紀錄": "94卷37期3419號一冊 51-51頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccdc681c6cbccc8cfcec4cfcfcacec4cfcfcace",
+            "會議日期": "950519",
+            "立法紀錄": "95卷29期3490號一冊 66-66頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c7cccccf81c6cacdc6cfcec4cfcfc9c9c4cfcfc9c9",
             "關係文書": []
         }
     ]
