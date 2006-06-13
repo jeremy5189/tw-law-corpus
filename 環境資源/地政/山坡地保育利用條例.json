@@ -1,8 +1,8 @@
 {
     "title": "山坡地保育利用條例",
     "versions": [
-        "中華民國91年5月21日修正",
-        "中華民國91年6月12日公布"
+        "中華民國95年5月23日修正",
+        "中華民國95年6月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -278,7 +278,7 @@
         {
             "note": "(山地保留)",
             "rule_no": "第三十七條",
-            "content": "　　山坡地範圍內山地保留地，輔導山胞開發並取得耕作權、地上權或承租權。其耕作權、地上權繼續經營滿五年者，無償取得土地所有權，除政府指定之特定用途外，如有移轉，以山胞為限；其開發管理辦法，由行政院定之。",
+            "content": "　　山坡地範圍內山地保留地，輔導原住民開發並取得耕作權、地上權或承租權。其耕作權、地上權繼續經營滿五年者，無償取得土地所有權，除政府指定之特定用途外，如有移轉，以原住民為限；其開發管理辦法，由行政院定之。",
             "relates": {}
         },
         {
@@ -295,44 +295,46 @@
         }
     ],
     "law_reasons": {
-        "第十二條": "　　一、配合行政程序法之施行，將山坡地保育利用條例施行細則第六條規定移列修正為第二項。\n　　二、原條文第二項配合修正為第三項，其條文中「前項」文字修正為「前二項」。",
-        "第十二條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將山坡地保育利用條例施行細則第八條規定移列修正。",
-        "第十六條": "　　一、增列第四項。\n　　二、配合行政程序法之施行，將山坡地保育利用條例施行細則第十三條第一項規定移列修正。",
-        "第三十二條 之一": "　　一、本條新增。\n　　二、配合行政程序法之施行，將山坡地保育利用條例施行細則第十六條第一項及第二項規定移列修正。"
+        "第三十七條": "　　「山胞」名稱早已於八十三年八月一日修憲中正名為原住民，本條文內容仍使用之，明顯違憲，爰予以修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 11-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccca81c6cecccccfcec4cfcfcecec4cfcfcecd",
-            "主提案": "行政院",
+            "會議日期": "940930",
+            "立法紀錄": "94卷46期3428號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccc981c6cbcbc9cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳瑩",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2cccbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcbcfcec5cecdced2cecdcd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910517",
-            "立法紀錄": "91卷35期3231號上冊 167-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccca81c6cecccacfcec4cfcec9c8c4cfcec8cf",
+            "進度": "委員會審查",
+            "會議日期": "950515",
+            "立法紀錄": "95卷30期3491號 163-171頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccc981c6cacccfcfcfc4cfcec9ccc4cfcec8ce",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910521",
-            "立法紀錄": "91卷36期3232號上冊 52-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccca81c6ceccc9cfcec4cfcfcacdc4cfcfcac7",
-            "關係文書": []
+            "進度": "二讀(逐條討論)",
+            "會議日期": "950523",
+            "立法紀錄": "95卷29期3490號一冊 85-87頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccc981c6cacdc6cfcec4cfcfc7cac4cfcfc7c8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcdc5cdcac7d2cdc9cf"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "910521",
-            "立法紀錄": "91卷36期3232號上冊 74-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccca81c6ceccc9cfcec4cfcfc8cbc4cfcfc8ca",
+            "會議日期": "950523",
+            "立法紀錄": "95卷29期3490號一冊 87-87頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccc981c6cacdc6cfcec4cfcfc7c8c4cfcfc7c8",
             "關係文書": []
         }
     ]
