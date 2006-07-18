@@ -1,8 +1,8 @@
 {
     "title": "卸任總統副總統禮遇條例",
     "versions": [
-        "中華民國90年5月29日修正",
-        "中華民國90年6月13日公布"
+        "中華民國95年6月30日全文修正",
+        "中華民國95年7月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -16,105 +16,200 @@
             "relates": {}
         },
         {
-            "note": "(禮遇範圍)",
+            "note": "(卸任總統禮遇範圍)",
             "rule_no": "第二條",
-            "content": "　　卸任總統享有下列禮遇：\n　　一、邀請參加國家大典。\n　　二、依現任總統月俸按月致送終身俸。\n　　三、供應房屋及其設備。\n　　四、供應交通工具。\n　　五、供應處理事務人員及事務費。\n　　六、供應保健醫療。\n　　七、供應安全護衛。\n　　卸任副總統依現任副總統月俸按月致送終身俸，並享有前項第一款及第四款至第七款之禮遇。\n　　本條例修正施行前，卸任總統之終身俸月支數額高於現任總統月俸時，按原月支數額致送終身俸。\n　　本條例修正施行前，卸任副總統已依政務人員退職酬勞金給與條例辦理退職者，得改依本條例致送終身俸。但其原支月退職酬勞金數額高於現任副總統月俸時，按原月退職酬勞金數額致送終身俸。\n　　現任或卸任總統、副總統逝世後，其配偶比照本條例之規定，應給予適當之禮遇及照顧。",
+            "content": "　　卸任總統享有下列禮遇：\n　　一、邀請參加國家大典。\n　　二、按月致送新臺幣二十五萬元禮遇金，並隨同公教人員待遇調整之。\n　　三、提供處理事務人員、司機、辦公室及各項事務等之費用，每年新臺幣八百萬元，但第二年遞減為新臺幣七百萬元，第三年遞減為新臺幣六百萬元，第四年遞減為新臺幣五百萬元，第五年以後不再遞減。\n　　四、供應保健醫療。\n　　五、供應安全護衛八人至十二人，必要時得加派之，執勤範圍以國內為限。\n　　前項第五款禮遇，由國家安全局提供。\n　　第一項禮遇除第一款外，其餘各款禮遇之有效期間與其任職期間相同，未滿一年者以一年計。",
             "relates": {}
         },
         {
-            "note": "(禮遇停止)",
+            "note": "(卸任副總統禮遇範圍)",
             "rule_no": "第三條",
-            "content": "　　前條禮遇，於再任有法定待遇公職時停止之。",
+            "content": "　　卸任副總統享有下列禮遇：\n　　一、邀請參加國家大典。\n　　二、按月致送新臺幣十八萬元禮遇金，並隨同公教人員待遇調整之。\n　　三、提供處理事務人員、司機、辦公室及各項事務等之費用，每年新臺幣四百萬元，但第二年遞減為新臺幣三百五十萬元，第三年遞減為新臺幣三百萬元，第四年遞減為新臺幣二百五十萬元，第五年以後不再遞減。\n　　四、供應保健醫療。\n　　五、供應安全護衛四人至八人，必要時得加派之，執勤範圍以國內為限。\n　　本條例於中華民國九十年六月十三日修正施行前，卸任副總統已依政務人員退職酬勞金給與條例辦理退職者，其退職金仍依原規定辦理，不適用前項第二款之規定。\n　　第一項第五款禮遇，由國家安全局提供。\n　　第一項禮遇除第一款外，其餘各款禮遇之有效期間與其任職期間相同，未滿一年者以一年計。",
             "relates": {}
         },
         {
             "note": "(禮遇停止)",
             "rule_no": "第四條",
-            "content": "　　因罷免或判刑確定解職者，不得享有第二條之禮遇。",
+            "content": "　　卸任總統、副總統之禮遇，有下列情形之一者，停止之：\n　　一、再任有給公職。\n　　二、犯內亂、外患、貪污罪經判刑確定。\n　　三、喪失中華民國國籍。\n　　四、移居國外定居。",
             "relates": {}
         },
         {
-            "note": "(實施辦法)",
+            "note": "(禮遇停止)",
             "rule_no": "第五條",
-            "content": "　　本條例實施辦法由行政院定之。",
+            "content": "　　總統、副總統因罷免、彈劾或判刑確定解職者，不適用本條例之禮遇。\n　　卸任總統、副總統被彈劾確定者，適用前項之規定。",
             "relates": {}
         },
         {
             "note": "(施行日)",
             "rule_no": "第六條",
-            "content": "　　本條例自公布日施行。\n　　本條例修正條文自中華民國九十年一月一日施行。",
+            "content": "　　本條例自公布日施行。\n　　本條例中華民國九十五年六月三十日修正之條文，自九十六年一月一日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條": "　　配合將卸任副總統納入本條例適用對象，修正本條例之立法意旨。",
-        "第二條": "　　一、第一項配合法制用語酌作文字修正。\n　　二、增訂第二項，明定卸任副總統依現任副總統月俸按月致送終身俸及其他禮遇事項。\n　　三、基於法律不溯既往及信賴保護原則，增訂第三項，明定本條例修正施行前卸任總統之終身俸月支數額，高於現任總統月俸時，仍按原月支數額致送終身俸，以維護其既有權益。\n　　四、配合本條例將卸任副總統納為適用對象，為維護其既有權益，爰增訂第四項。\n　　五、增訂第五項。現任或卸任總統、副總統逝世後，其配偶應給予適當之禮遇及照顧。",
-        "第六條": "　　鑒於現任總統、副總統之待遇將自中華民國九十年一月一日起調降，為保障本條例修正條文施行前已卸任總統、副總統之權益，爰增訂第二項，明定本條例修正條文之施行日期。"
+        "第一條": "　　本條未修正。",
+        "第二條": "　　一、第一項第六款移為第四款，未修正。\n　　二、第二款將依現任總統月俸按月致送終身俸之規定修改為「按月致送新臺幣二十五萬元禮遇金，並隨同公教人員待遇調整之」。\n　　三、原條文第三、四、五款合併為第三款，並修正為「提供處理事務人員、司機、辦公室及各項事務等之費用，每年新臺幣八百萬元，但第二年遞減為新臺幣七百萬元，第三年遞減為新臺幣六百萬元，第四年遞減為新臺幣五百萬元，第五年以後不再遞減」。\n　　四、第七款移列為第五款，並規定安全護衛八人至十二人，必要時得加派之，執勤範圍以國內為限。另將該項禮遇由國家安全局提供列為第二項。\n　　五、卸任副總統之禮遇改列為第三條。\n　　六、增列第三項規定除第一款外，其餘各款禮遇之有效期間與其任職期間相同，未滿一年者以一年計。\n　　七、原條文第三項、第四項、第五項刪除。",
+        "第三條": "　　一、本條新增。\n　　二、明列卸任副總統應享有之禮遇。",
+        "第四條": "　　一、原條文第三條條次變更為本條。\n　　二、原條文僅規定再任有法定待遇公職時停止禮遇，有欠周延，增列犯內亂、外患、貪污罪經判刑確定；喪失中華民國國籍以及移居國外定居等相關規定。",
+        "第五條": "　　一、原條文第四條條次變更為本條。\n　　二、增列彈劾確定即不適用本條例禮遇之規定。",
+        "第六條": "　　文字修正，明定民國九十五年六月三十日修正之條文，自九十六年一月一日施行。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890502",
-            "立法紀錄": "89卷22期3081號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c7c6cdcdcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "劉光華",
+            "會議日期": "940318",
+            "立法紀錄": "94卷12期3394號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbcecdcfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfc6cfcfc5c6cbd2c6c9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5c9cbd2c8cc"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "900327",
-            "立法紀錄": "90卷14期3148號上冊 15-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c6cfcecbcfcec4cfcfcecac4cfcfceca",
-            "主提案": "行政院",
+            "會議日期": "940513",
+            "立法紀錄": "94卷34期3416號 8-8頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbcccbcfcfc4cfcfcfc7c4cfcfcfc7",
+            "主提案": "朱鳳芝",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcfc5cec7c6d2cec6cc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececdcfcec5cccec8d2cccdce"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "900403",
-            "立法紀錄": "90卷15期3149號上冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c6cfcecacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "劉光華",
+            "會議日期": "941104",
+            "立法紀錄": "94卷63期3445號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbc9cccfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "蔡正元",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcbcfcdc5c6d2cecd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc6cfcec5cecdc7d2ceccce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941104",
+            "立法紀錄": "94卷63期3445號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbc9cccfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "民進黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc6cfcec5cecbcfd2cecbce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941111",
+            "立法紀錄": "94卷66期3448號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbc9c9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "劉盛良",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecfcfcec5c7cbd2c7c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941111",
+            "立法紀錄": "94卷66期3448號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbc9c9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "吳志揚",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecfcfcec5c7c7d2c6cd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941111",
+            "立法紀錄": "94卷66期3448號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbc9c9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "林濁水",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecfcfcec5c6cbd2c6c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941111",
+            "立法紀錄": "94卷66期3448號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbc9c9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "台灣團結聯盟黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecfcfcec5cecfcfd2cecfcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "950331",
+            "立法紀錄": "95卷14期3475號一冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cacecbcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "親民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc8cfcec5cecbc6d2cecac8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900508",
-            "立法紀錄": "89卷27期3086號 347-359頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c7c6cdc8cfcfc4cfcccbc8c4cfcccac6",
+            "會議日期": "951116",
+            "立法紀錄": "94卷72期3454號 257-305頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cbc8cdcfcfc4cfcdcac8c4cfcccfca",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "900529",
-            "立法紀錄": "90卷30期3164號一冊 427-444頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c6cfcccfcfcec4cfcbcdc8c4cfcbcbcb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "950526",
+            "立法紀錄": "95卷32期3493號一冊 225-278頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6cacccdcfcec4cfcdcdcac4cfcdc8c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacecfcfcac5cecccdd2cecbc8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecacfcdc5cdc6cdd2cccac7"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "950630",
+            "立法紀錄": "95卷36期3497號 29-31頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6caccc9cfcfc4cfcfcdc6c4cfcfccce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "950630",
+            "立法紀錄": "95卷36期3497號 31-32頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6caccc9cfcfc4cfcfcccec4cfcfcccd",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "900529",
-            "立法紀錄": "90卷30期3164號一冊 444-444頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cbc681c6cfcccfcfcec4cfcbcbcbc4cfcbcbcb",
+            "會議日期": "950630",
+            "立法紀錄": "95卷36期3497號 33-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cacf81c6caccc9cfcfc4cfcfccccc4cfcfcccc",
             "關係文書": []
         }
     ]
