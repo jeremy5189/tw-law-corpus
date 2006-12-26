@@ -1,8 +1,8 @@
 {
     "title": "羈押法",
     "versions": [
-        "中華民國86年4月29日修正",
-        "中華民國86年5月21日公布"
+        "中華民國95年12月12日修正",
+        "中華民國95年12月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -185,6 +185,12 @@
         },
         {
             "note": "",
+            "rule_no": "第二十七條 之一",
+            "content": "　　被告得與任何人發受書信。但有特別理由時，法院或檢察官得限制被告僅得與最近親屬及家屬發受書信。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第二十八條",
             "content": "　　被告在所之言語、行狀、發受書信之內容可供偵查或審判上之參考者，應呈報檢察官或法院。",
             "relates": {}
@@ -263,55 +269,53 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、配合法院組織法之修正，爰將第一項「檢察處」修正為「檢察署」，「首席檢察官」修正為「檢察長」。\n　　二、第二項未修正。",
-        "第六條": "　　配合法院組織法之修正，爰將「推事」修正為「法官」，「首席檢察官」修正為「檢察長」。",
-        "第十七條": "　　一、配合監獄行刑法部分條文修正草案第三十二條、第三十三條之修正，爰刪除現行條文第一項後段之規定，並酌作文字修正。\n　　二、增列第二項，前段明定給與被告勞作金之比例，後段明定提撥部分金額補償犯罪被害人之規定。\n　　三、為避免影響整體被告之福利，將現行第二項作業收入賸餘額之各項酌予調整，列為修正第三項。\n　　四、現行第二項及第三項中「看守所內部設施」修正為「被告生活設施」。\n　　五、配合八十四年三月送請立法院審議之犯罪被害人補償法規定，爰增列第四項。\n　　六、現行第三項前段併入修正第三項；後段改列為第五項。\n　　七、授權法務部訂定勞作金給付辦法。"
+        "第二十七條 之一": "　　一、本條新增。\n　　二、羈押中之被告，有關發受書信之限制，除有刑事訴訟法第一百零五條第三項經法院禁止接見通訊外，原則上應與受刑人有區別，爰於本條規定，原則上得與任何人發受書信。\n　　三、另考量犯罪偵查及法院審理之需要，爰於本條但書規定，有特別理由時，法院或檢察官得限制羈押被告僅得與最近親屬及家屬發受書信。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "850611",
-            "立法紀錄": "85卷32期2854號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec881c7cacccdcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "940506",
+            "立法紀錄": "94卷30期3412號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec781c6cbcccfcfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "郭林勇",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcecec9cfcdc5cec6cdd2cec6ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecececfcec5cecac7d2cec9cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "850626",
-            "立法紀錄": "85卷38期2860號下冊 569-589頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec881c7caccc7cfccc4cfcac9c6c4cfcac7c6",
+            "會議日期": "951113",
+            "立法紀錄": "95卷52期3513號二冊 59-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec781c6cacacdcfcdc4cfcfcac6c4cfcfc7cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "860429",
-            "立法紀錄": "86卷21期2913號上冊 70-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec881c7c9cdcecfcec4cfcfc8cfc4cfcfc8ca",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 111-113頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec781c6cacac6cfcfc4cfcececec4cfcececc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccec8cfcfc5cbcccdd2cbccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecfcfcdc5c9cccbd2c9ccc8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "860429",
-            "立法紀錄": "86卷21期2913號上冊 75-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec881c7c9cdcecfcec4cfcfc8cac4cfcfc8c9",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 114-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec781c6cacac6cfcfc4cfcececbc4cfcececb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "860429",
-            "立法紀錄": "86卷21期2913號上冊 76-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec881c7c9cdcecfcec4cfcfc8c9c4cfcfc8c9",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 114-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacccec781c6cacac6cfcfc4cfcececbc4cfcececb",
             "關係文書": []
         }
     ]
