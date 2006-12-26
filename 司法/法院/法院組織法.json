@@ -1,8 +1,8 @@
 {
     "title": "法院組織法",
     "versions": [
-        "中華民國95年1月13日修正",
-        "中華民國95年2月3日公布"
+        "中華民國95年12月12日修正",
+        "中華民國95年12月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -222,7 +222,7 @@
         {
             "note": "",
             "rule_no": "第三十四條",
-            "content": "　　高等法院置法官，簡任第十職等至第十一職等或薦任第九職等。\n　　高等法院法官，繼續服務二年以上，得晉敘至簡任第十二職等至第十四職等。\n　　司法院得調地方法院試署或候補法官至高等法院辦事，承法官之命，辦理訴訟案件程序及實體之審查、法律問題之分析、資料之蒐集、裁判書之草擬等事務。\n　　高等法院於必要時得置法官助理，依聘用人員聘用條例聘用各種專業人員充任之；承法官之命，辦理訴訟案件程序之審查、法律問題之分析、資料之蒐集等事務。\n　　試署法官或候補法官調高等法院辦事期間，計入其試署或候補法官年資。\n　　具律師執業資格者經聘用充任法官助理期間，計入其律師執業年資。",
+            "content": "　　高等法院置法官，簡任第十職等至第十一職等或薦任第九職等；試署法官，薦任第七職等至第九職等。\n　　高等法院法官繼續服務二年以上，得晉敘至簡任第十二職等至第十四職等。\n　　司法院因應高等法院業務需要，得調地方法院或其分院試署法官或候補法官至高等法院辦事，承法官之命，辦理訴訟案件程序及實體之審查、法律問題之分析、資料之蒐集、裁判書之草擬等事務。\n　　高等法院於必要時得置法官助理，依聘用人員聘用條例聘用各種專業人員充任之，承法官之命，辦理訴訟案件程序之審查、法律問題之分析、資料之蒐集等事務。\n　　試署法官或候補法官調高等法院辦事期間，計入其試署法官或候補法官年資。\n　　具律師執業資格者，經聘用充任法官助理期間，計入其律師執業年資。\n　　第十二條第九項規定，於高等法院準用之。",
             "relates": {}
         },
         {
@@ -791,98 +791,60 @@
         }
     ],
     "law_reasons": {
-        "第十二條": "　　照黨團協商條文通過。",
-        "第五十九條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第六十二條": "　　照黨團協商條文通過。",
-        "第六十三條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第六十六條": "　　照黨團協商條文通過。"
+        "第三十四條": "　　一、配合司法人員人事條例修正第十一條第一項第二款增訂律師執業十二年以上得轉任二審法官、檢察官之規定，爰於第一項後段增列試署法官之官職等，俾順利延攬資深優良律師出任二審法院法官。\n　　二、參照本法第十二條第五項條文用語，酌作文字修正。\n　　三、增列第七項規定，使第十二條第九項，於高等法院準用之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940513",
-            "立法紀錄": "94卷34期3416號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cbcccbcfcfc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "蔡啟芳",
+            "會議日期": "950428",
+            "立法紀錄": "95卷23期3484號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacdcccfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "親民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececdcfcec5cdc6ced2cccfcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940930",
-            "立法紀錄": "94卷46期3428號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cbcbc9cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "高思博",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcbcfcec5cecfcad2cecfc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccececfcec5cecacdd2cecacb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "941017",
-            "立法紀錄": "94卷56期3438號 251-266頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cbcac9cfcfc4cfcdcacec4cfcdc9c9",
+            "會議日期": "950515",
+            "立法紀錄": "95卷30期3491號 173-203頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacccfcfcfc4cfcec8ccc4cfcdcfcc",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "941108",
-            "立法紀錄": "94卷63期3445號 211-211頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cbc9cccfcfc4cfcdcecec4cfcdcece",
+            "進度": "委員會審查",
+            "會議日期": "950522",
+            "立法紀錄": "95卷33期3494號 59-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacccccfcfc4cfcfcac6c4cfcfc9cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 103-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacac6cfcfc4cfcecfccc4cfcecfc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfcdc5cbcaccd2cbcac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecfcfcdc5c9cdc9d2c9cdc6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "941213",
-            "立法紀錄": "94卷76期3458號 226-231頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cbc8c9cfcfc4cfcdcdc9c4cfcdccce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "941220",
-            "立法紀錄": "94卷77期3459號三冊 1016-1016頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cbc8c8cfccc4cecfcec9c4cecfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 401-401頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cacfcacfcec4cfcbcfcec4cfcbcfce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 452-452頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cacfcacfcec4cfcbcacdc4cfcbcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 536-541頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cacfcacfcec4cfcaccc9c4cfcacbce",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 107-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacac6cfcfc4cfcecfc8c4cfcecfc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 541-543頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecf81c6cacfcacfcec4cfcacbcec4cfcacbcc",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 107-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacac6cfcfc4cfcecfc8c4cfcecfc8",
             "關係文書": []
         }
     ]
