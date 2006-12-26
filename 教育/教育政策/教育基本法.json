@@ -1,8 +1,8 @@
 {
     "title": "教育基本法",
     "versions": [
-        "中華民國94年11月8日修正",
-        "中華民國94年11月30日公布"
+        "中華民國95年12月12日修正",
+        "中華民國95年12月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -54,7 +54,7 @@
         {
             "note": "(教師、學生、家長及學校之教育權責)",
             "rule_no": "第八條",
-            "content": "　　教育人員之工作、待遇及進修等權利義務，應以法律定之，教師之專業自主應予尊重。\n　　學生之學習權及受教育權，國家應予保障。\n　　國民教育階段內，家長負有輔導子女之責任；並得為其子女之最佳福祉，依法律選擇受教育之方式、內容及參與學校教育事務之權利。\n　　學校應在各級政府依法監督下，配合社區發展需要，提供良好學習環境。",
+            "content": "　　教育人員之工作、待遇及進修等權利義務，應以法律定之，教師之專業自主應予尊重。\n　　學生之學習權、受教育權、身體自主權及人格發展權，國家應予保障，並使學生不受任何體罰，造成身心之侵害。\n　　國民教育階段內，家長負有輔導子女之責任；並得為其子女之最佳福祉，依法律選擇受教育之方式、內容及參與學校教育事務之權利。\n　　學校應在各級政府依法監督下，配合社區發展需要，提供良好學習環境。",
             "relates": {}
         },
         {
@@ -96,7 +96,7 @@
         {
             "note": "(教師專業自主權及學生學習權之保障)",
             "rule_no": "第十五條",
-            "content": "　　教師專業自主權及學生學習權遭受學校或主管教育行政機關不當或違法之侵害時，政府應依法令提供當事人或其法定代理人有效及公平救濟之管道。",
+            "content": "　　教師專業自主權及學生學習權、受教育權、身體自主權及人格發展權遭受學校或主管教育行政機關不當或違法之侵害時，政府應依法令提供當事人或其法定代理人有效及公平救濟之管道。",
             "relates": {}
         },
         {
@@ -113,47 +113,75 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　於本條第二項教育目的之規定中，增定「愛國教育、鄉土關懷、資訊知能」等文字。",
-        "第五條": "　　「教育經費編列與管理法」第十三條規定：「直轄市、縣（市）政府之各項教育經費收入及支出，應設立地方教育發展基金，依法編列預算辦理」其立法意旨就在於保障教育經費專款專用。爰於第一項增列「保障專款專用」等文字。"
+        "第八條": "　　參酌聯合國兒童權利公約前言、第十九條第一項以及第二十八條第二項，肯定教育過程中，學生之身體完整性及人性尊嚴應受尊重，並且不受照護者之暴力對待。（註：兒童權利公約定義之「兒童」乃十八歲以下之自然人）爰予以修正之。",
+        "第十五條": "　　配合本法第八條第二項之修正，第十五條規範之救濟範圍自納入學生受教育權、身體自主權及人格發展權。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940408",
-            "立法紀錄": "94卷20期3402號一冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cd81c6cbcdcfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "曾燦燈",
+            "會議日期": "941014",
+            "立法紀錄": "94卷52期3434號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cbcacdcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "管碧玲",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc8cfcec5cecdcfd2cecdcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5c7c9d2c7c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "941017",
-            "立法紀錄": "94卷57期3439號 33-59頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cd81c6cbcac8cfcfc4cfcfccccc4cfcfcac6",
+            "會議日期": "941123",
+            "立法紀錄": "94卷74期3456號二冊 155-168頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cbc8cbcfcdc4cfcecacac4cfcec9c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "941108",
-            "立法紀錄": "94卷63期3445號 200-204頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cd81c6cbc9cccfcfc4cfcdcfcfc4cfcdcfcb",
+            "進度": "委員會審查",
+            "會議日期": "941228",
+            "立法紀錄": "95卷3期3464號 205-206頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacfcccfcfc4cfcdcfcac4cfcdcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "950106",
+            "立法紀錄": "95卷4期3465號一冊 52-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacfcbcfcec4cfcfcacdc4cfcfcac9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc6cfcdc5cec8cad2cec8c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec7cfcdc5cdccd2cdc9"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "950526",
+            "立法紀錄": "95卷32期3493號一冊 289-289頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacccdcfcec4cfcdc7c6c4cfcdc7c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 208-209頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacac6cfcfc4cfcdcfc7c4cfcdcfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 209-209頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacac6cfcfc4cfcdcfc6c4cfcdcfc6",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "941108",
-            "立法紀錄": "94卷63期3445號 204-204頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cd81c6cbc9cccfcfc4cfcdcfcbc4cfcdcfcb",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 209-210頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacac6cfcfc4cfcdcfc6c4cfcdcecf",
             "關係文書": []
         }
     ]
