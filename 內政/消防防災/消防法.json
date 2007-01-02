@@ -1,8 +1,8 @@
 {
     "title": "消防法",
     "versions": [
-        "中華民國94年1月11日修正",
-        "中華民國94年2月2日公布"
+        "中華民國95年12月19日修正",
+        "中華民國96年1月3日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -68,7 +68,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　依第六條第一項應設置消防安全設備場所，其管理權人應委託第八條所規定之消防設備師或消防設備士，定期檢修消防安全設備，其檢修結果應依限報請當地消防機關備查；消防機關得視需要派員複查。但高層建築物或地下建築物消防安全設備之定期檢修，其管理權人應委託中央主管機關審查合格之專業機構辦理。",
+            "content": "　　依第六條第一項應設置消防安全設備場所，其管理權人應委託第八條所規定之消防設備師或消防設備士，定期檢修消防安全設備，其檢修結果應依限報請當地消防機關備查；消防機關得視需要派員複查。但高層建築物或地下建築物消防安全設備之定期檢修，其管理權人應委託中央主管機關審查合格之專業機構辦理。\n　　應設消防安全設備之集合住宅，其消防安全設備定期之檢查，得由直轄市、縣（市）消防機關聘用或委託消防專業人員辦理，經費由地方主管機關編列預算支付，中央主管機關補助；其補助辦法由中央主管機關另定之。",
             "relates": {}
         },
         {
@@ -333,49 +333,53 @@
         }
     ],
     "law_reasons": {
-        "第十五條 之一": "　　照黨團協商條文通過。",
-        "第四十二條 之一": "　　照黨團協商條文通過。"
+        "第九條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "931231",
-            "立法紀錄": "94卷2期3384號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcec681c6cbcfcdcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "國民黨黨團",
+            "會議日期": "940513",
+            "立法紀錄": "94卷34期3416號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcdcf81c6cbcccbcfcfc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "林正峰",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecfcfccc5c9cfccd2c9cfcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececdcfcec5cdcbccd2cdcbca"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "940104",
-            "立法紀錄": "94卷2期3384號上冊 371-371頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcec681c6cbcfcdcfcec4cfccc8cec4cfccc8ce",
+            "進度": "委員會審查",
+            "會議日期": "941219",
+            "立法紀錄": "95卷1期3462號一冊 149-185頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcdcf81c6cacfcecfcec4cfcecbc6c4cfcec7ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "940111",
-            "立法紀錄": "94卷5期3387號上冊 141-143頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcec681c6cbcfcacfcec4cfcecbcec4cfcecbcc",
-            "關係文書": []
+            "會議日期": "951219",
+            "立法紀錄": "96卷1期3524號 423-429頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcdcf81c6c9cfcecfcfc4cfcbcdccc4cfcbcdc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecdcfcdc5cac7c7d2cac6cb"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "940111",
-            "立法紀錄": "94卷5期3387號上冊 143-143頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcec681c6cbcfcacfcec4cfcecbccc4cfcecbcc",
+            "會議日期": "951219",
+            "立法紀錄": "96卷1期3524號 429-429頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcdcf81c6c9cfcecfcfc4cfcbcdc6c4cfcbcdc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "940111",
-            "立法紀錄": "94卷5期3387號上冊 143-143頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcec681c6cbcfcacfcec4cfcecbccc4cfcecbcc",
+            "會議日期": "951219",
+            "立法紀錄": "96卷1期3524號 430-430頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbcdcf81c6c9cfcecfcfc4cfcbcccfc4cfcbcccf",
             "關係文書": []
         }
     ]
