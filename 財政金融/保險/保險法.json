@@ -1,8 +1,8 @@
 {
     "title": "保險法",
     "versions": [
-        "中華民國95年5月5日修正",
-        "中華民國95年5月30日公布"
+        "中華民國95年12月22日修正",
+        "中華民國96年1月10日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -160,7 +160,7 @@
         {
             "note": "",
             "rule_no": "第二十二條",
-            "content": "　　保險費應由要保人依契約規定交付。\n　　要保人為他人利益訂立之保險契約，保險人對於要保人所得為之抗辯，亦得以之對抗受益人。",
+            "content": "　　保險費應由要保人依契約規定交付。信託業依信託契約有交付保險費義務者，保險費應由信託業代為交付之。\n　　要保人為他人利益訂立之保險契約，保險人對於要保人所得為之抗辯，亦得以之對抗受益人。",
             "relates": {}
         },
         {
@@ -1523,40 +1523,53 @@
         }
     ],
     "law_reasons": {
-        "第一百六十八條 之三": "　　一、刑法第四章章名已由「共犯」修正為「正犯與共犯」，爰修正第一項及第二項。\n　　二、第三項未修正。",
-        "第一百七十八條": "　　配合刑法修正條文自九十五年七月一日施行，爰將第一項及第二項為合併修正。"
+        "第二十二條": "　　信託業者依信託指示購買保險並支付保險費，視為要保人行使交付保險費之義務，且將保險給付放入信託帳戶，依信託契約給付予信託受益人。故信託業者依信託契約指示購買之保險、依保險契約內容給付之保險金皆屬於信託財產"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950111",
-            "立法紀錄": "95卷5期3466號一冊 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9cdcf81c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "950919",
+            "立法紀錄": "95卷37期3498號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9cdcd81c6caccc8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "賴士葆",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcec8cdc5cec6d2cdce"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "951213",
+            "立法紀錄": "96卷3期3526號 23-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9cdcd81c6c9cfcccfcfc4cfcfcdccc4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "951222",
+            "立法紀錄": "96卷4期3527號 28-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9cdcd81c6c9cfcbcfcfc4cfcfcdc7c4cfcfccce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecccfcdc5cdc7ced2cdc7cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 133-198頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9cdcf81c6cacdcacfcec4cfceccccc4cfcec6c7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
-                ]
-            ]
+            "會議日期": "951222",
+            "立法紀錄": "96卷4期3527號 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9cdcd81c6c9cfcbcfcfc4cfcfcccec4cfcfccce",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 198-198頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9cdcf81c6cacdcacfcec4cfcec6c7c4cfcec6c7",
+            "會議日期": "951222",
+            "立法紀錄": "96卷4期3527號 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc9cdcd81c6c9cfcbcfcfc4cfcfcccec4cfcfccce",
             "關係文書": []
         }
     ]
