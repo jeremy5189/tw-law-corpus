@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國89年4月28日修正",
-        "中華民國89年5月17日公布"
+        "中華民國95年12月22日修正",
+        "中華民國96年1月10日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -52,7 +52,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　稅捐之徵收，優先於普通債權。\n　　土地增值稅之徵收，就土地之自然漲價部分，優先於一切債權及抵押權。\n　　經法院執行拍賣或交債權人承受之土地，執行法院應於拍定或承受五日內，將拍定或承受價額通知當地主管機關，依法核課土地增值稅，並由執行法院代為扣繳。",
+            "content": "　　稅捐之徵收，優先於普通債權。\n　　土地增值稅、地價稅、房屋稅之徵收，優先於一切債權及抵押權。\n　　經法院或行政執行署執行拍賣或交債權人承受之土地，執行法院或行政執行署應於拍定或承受五日內，將拍定或承受價額通知當地主管機關，依法核課土地增值稅、地價稅、房屋稅，並由執行法院或行政執行署代為扣繳。",
             "relates": {}
         },
         {
@@ -441,53 +441,53 @@
         }
     ],
     "law_reasons": {
-        "第十一條 之二": "　　一、本條新增。\n　　二、電子化、網路化政府為未來政府積極推展之政策，為期依本法或稅法規定應辦理之事項及應提出之文件，得以電子化、網路化等自動化方式辦理，製成紀錄，而供電腦處理，俾提供民眾快速便捷之服務，並簡化稽徵程序，提高稅務行政效率，爰增訂本條文。"
+        "第六條": "　　一、第一項已明定稅捐之徵收均優於普通債權，但所有稅捐項目繁多，卻僅適用土地增值稅，顯然與此法精神有所違背，亦對國家稅收影響甚鉅，且對債務人二度傷害。故修正第二項規定，明定地價稅、房屋稅等稅捐亦優先一切債權及抵押權，一來可確保國家財政，二來避免債務人因欠稅屢遭執行機關多次執行。\n　　二、修正第三項，增訂地價稅、房屋稅，交由執行法院或行政執行署代為扣繳。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881015",
-            "立法紀錄": "88卷44期3044號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c7cbcbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "950919",
+            "立法紀錄": "95卷37期3498號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6caccc8cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "李全教",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdcbcfd2cdcbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcec8cdc5cecdcad2cecdc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881216",
-            "立法紀錄": "89卷3期3062號中冊 165-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c6cfcccfcdc4cfcec9cac4cfcec8c9",
+            "會議日期": "951211",
+            "立法紀錄": "96卷2期3525號 45-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6c9cfcdcfcfc4cfcfcbcac4cfcfc8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "890418",
-            "立法紀錄": "89卷18期3077號 73-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c6cec7cfcfc4cfcfc8ccc4cfcfc8c8",
+            "會議日期": "951222",
+            "立法紀錄": "96卷4期3527號 35-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6c9cfcbcfcfc4cfcfcccac4cfcfcbcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecccfcdc5cccccfd2cccccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecccfcdc5cdc7c6d2cdc6c7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890428",
-            "立法紀錄": "89卷21期3080號 67-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c6cdcecfcfc4cfcfc9c8c4cfcfc9c7",
+            "會議日期": "951222",
+            "立法紀錄": "96卷4期3527號 43-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6c9cfcbcfcfc4cfcfcbccc4cfcfcbcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "890428",
-            "立法紀錄": "89卷21期3080號 68-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc781c7c6cdcecfcfc4cfcfc9c7c4cfcfc9c7",
+            "會議日期": "951222",
+            "立法紀錄": "96卷4期3527號 43-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6c9cfcbcfcfc4cfcfcbccc4cfcfcbcc",
             "關係文書": []
         }
     ]
