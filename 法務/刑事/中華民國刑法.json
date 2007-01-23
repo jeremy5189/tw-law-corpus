@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國95年4月25日修正",
-        "中華民國95年5月17日公布"
+        "中華民國96年1月12日修正",
+        "中華民國96年1月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -986,7 +986,7 @@
         {
             "note": "",
             "rule_no": "第一百四十六條",
-            "content": "　　以詐術或其他非法之方法，使投票發生不正確之結果或變造投票之結果者，處五年以下有期徒刑。\n　　前項之未遂犯罰之。",
+            "content": "　　以詐術或其他非法之方法，使投票發生不正確之結果或變造投票之結果者，處五年以下有期徒刑。\n　　意圖使特定候選人當選，以虛偽遷徙戶籍取得投票權而為投票者，亦同。\n　　前二項之未遂犯罰之。",
             "relates": {}
         },
         {
@@ -2591,47 +2591,60 @@
         }
     ],
     "law_reasons": {
-        "第三百三十三條": "　　一、原條文第三項前段對於犯海盜罪而有致人於死之結果，其法定刑為唯一死刑，第三百三十四條海盜結合罪亦為唯一死刑，有違反罪刑均衡原則，為配合第三百三十四條法定刑之修正，而通盤檢討本條及第三百三十四條之法定刑，使海盜加重結果罪及海盜結合罪之處罰，有其合理之差距，以符罪刑均衡原則。\n　　二、修正條文第三百三十四條第一項犯海盜罪而故意殺人之法定刑因已檢討修正為死刑或無期徒刑，為符罪刑均衡原則，爰將本條第三項可罰性較低之海盜致人於死罪之法定刑配合修正為死刑、無期徒刑或十二年以上有期徒刑，海盜致重傷罪之法定刑修正為死刑、無期徒刑或十年以上有期徒刑。",
-        "第三百三十四條": "　　一、九十一年一月三十日因懲治盜匪條例之廢止，而配套修正之中華民國刑法部分條文，就結合犯之規範，因其犯罪行為輕重不同，而歸納區分為二類：一為故意殺人；另一則為放火、強制性交、擄人勒贖及使人受重傷等行為，而規範不同刑責，本條亦援引上開體例，將海盜罪之結合犯行為區分為二類，將原條文修正為二項，並於第二項中配合增列使人受重傷之類型，以期體例一致。\n　　二、第二項新增。將原條文修正為二項，第一項犯海盜罪而故意殺人之法定刑已由唯一死刑修正為死刑或無期徒刑，則第二項之放火、強制性交、擄人勒贖及使人受重傷等結合行為之法定刑亦應一併修正為死刑、無期徒刑或十二年以上有期徒刑，以資相應。"
+        "第一百四十六條": "　　一、公職人員經由各選舉區選出，自應獲得各該選舉區居民多數之支持與認同，始具實質代表性，若以遷徙戶籍但未實際居住戶籍地之方式，取得投票權參與投票，其影響戕害民主選舉之精神甚深。\n　　二、為導正選舉風氣，爰增訂第二項：「意圖使特定候選人當選，以虛偽遷徙戶籍取得投票權而為投票者，亦同。」。\n　　三、現未實際居住於戶籍地者有數百萬人，其因就業、就學、服兵役未實際居住於戶籍地，或為子女學區、農保、都會區福利給付優渥、保席次或其他因素而遷籍於未實際居住地，其原因不一。然此與意圖支持特定候選人當選，進而遷徙戶籍之情形不同，並非所有籍在人不在參與投票均須以刑罰相繩，是以第二項以意圖使特定候選人當選虛偽遷徙戶籍投票者，為處罰之對象。\n　　四、原第二項改列為第三項，並將句首之「前項」修正為：「前二項」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950224",
-            "立法紀錄": "95卷7期3468號三冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcd81c6cacfc8cfccc4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "951110",
+            "立法紀錄": "95卷48期3509號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6cacbc7cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "黃健庭",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfcdcfcec5c8cad2c7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfc8c8cdc5cbcad2cbc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950313",
-            "立法紀錄": "95卷11期3472號一冊 175-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcd81c6cacececfcec4cfcec8cac4cfcdcccf",
+            "會議日期": "951204",
+            "立法紀錄": "95卷58期3519號 49-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6cacac7cfcfc4cfcfcbc6c4cfcfc7cf",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950425",
-            "立法紀錄": "95卷20期3481號 117-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcd81c6cacdcfcfcfc4cfcecec8c4cfcecdcc",
+            "進度": "委員會審查",
+            "會議日期": "960103",
+            "立法紀錄": "96卷12期3535號 262-269頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6c9cecdcfcfc4cfcdc9cdc4cfcdc9c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960112",
+            "立法紀錄": "96卷13期3536號一冊 75-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6c9cecccfcec4cfcfc8cac4cfcfc7cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc7cfcdc5cec7c8d2cec6cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec9cfcdc5ccc8d2cbcd"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960112",
+            "立法紀錄": "96卷13期3536號一冊 80-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6c9cecccfcec4cfcfc7cfc4cfcfc7cf",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "950425",
-            "立法紀錄": "95卷20期3481號 123-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcd81c6cacdcfcfcfc4cfcecdccc4cfcecdcc",
+            "會議日期": "960112",
+            "立法紀錄": "96卷13期3536號一冊 80-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6c9cecccfcec4cfcfc7cfc4cfcfc7cf",
             "關係文書": []
         }
     ]
