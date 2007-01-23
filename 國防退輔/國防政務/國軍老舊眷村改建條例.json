@@ -1,8 +1,8 @@
 {
     "title": "國軍老舊眷村改建條例",
     "versions": [
-        "中華民國95年12月12日修正",
-        "中華民國96年1月3日公布"
+        "中華民國96年1月9日修正",
+        "中華民國96年1月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -150,7 +150,7 @@
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　改建、處分之眷村及第四條之不適用營地上之違占建戶，主管機關應比照當地地方政府舉辦公共工程拆遷補償標準，由改建基金予以補償後拆遷，提供興建住宅依成本價格價售之，並洽請直轄市、縣（市）政府比照國民住宅條例規定，提供優惠貸款。\n　　前項所稱之違占建戶，以本條例施行前，經主管機關存證有案者為限。\n　　前項違占建戶應於主管機關通知搬遷之日起，六個月內搬遷騰空，逾期未搬遷者，由主管機關收回土地，並得移送管轄之地方法院裁定後強制執行。",
+            "content": "　　改建、處分之眷村及第四條之不適用營地上之違占建戶，主管機關應比照當地地方政府舉辦公共工程拆遷補償標準，由改建基金予以補償後拆遷，提供興建住宅依成本價格價售之，並洽請直轄市、縣（市）政府比照國民住宅條例規定，提供優惠貸款。但屬都市更新事業計畫範圍內，實施者應依都市更新條例之規定，納入都市更新事業計畫辦理拆遷補償或安置，並經都市更新主管機關核定者不適用之。\n　　前項所稱之違占建戶，以本條例施行前，經主管機關存證有案者為限。\n　　前項違占建戶應於主管機關通知搬遷之日起，六個月內搬遷騰空，逾期未搬遷者，由主管機關收回土地，並得移送管轄之地方法院裁定後強制執行。",
             "relates": {}
         },
         {
@@ -197,75 +197,53 @@
         }
     ],
     "law_reasons": {
-        "第二十一條 之一": "　　鑑於實際執行改建過程中，常因少數眷戶不同意，致無法達到四分之三的改建門檻，影響多數眷戶參加改建的權益，故修正為只須有三分之二以上眷戶同意改建即可，以維護大多數眷戶之權益。",
-        "第二十二條": "　　一、配合本法第二十一條之一修正，將條文第一項中之「四分之三」，修改為「三分之二」。\n　　二、增列第二項。"
+        "第二十三條": "　　條文增加已辦理更新事業計畫之基地，違佔戶應由實施者依都市更新條例相關規定辦理，如此不但違佔戶利用都市更新所得到的利益將比軍方的優惠，同時也能充裕國庫，節省了安置違佔戶的建築成本，對軍方來說亦可減少賠償及配屋的問題。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941014",
-            "立法紀錄": "94卷52期3434號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec981c6cbcacdcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "趙良燕",
+            "會議日期": "951124",
+            "立法紀錄": "95卷52期3513號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec881c6cacacdcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "朱鳳芝",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5c9cdd2c9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfc6c8cdc5ced2cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "941027",
-            "立法紀錄": "94卷64期3446號二冊 3-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec981c6cbc9cbcfcdc4cfcfcfccc4cfcfcdca",
+            "會議日期": "951214",
+            "立法紀錄": "96卷5期3528號 59-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec881c6c9cfcacfcfc4cfcfcac6c4cfcfc8cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "941206",
-            "立法紀錄": "94卷75期3457號一冊 57-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec981c6cbc8cacfcec4cfcfcac8c4cfcfc9cf",
+            "會議日期": "951212",
+            "立法紀錄": "96卷4期3527號 48-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec881c6c9cfcbcfcfc4cfcfcbc7c4cfcfcace",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfcdc5cbceccd2cbcec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecccfcdc5cccfcad2cccfc7"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "950502",
-            "立法紀錄": "95卷23期3484號 267-267頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec981c6cacdcccfcfc4cfcdc9c8c4cfcdc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "950509",
-            "立法紀錄": "95卷25期3486號三冊 338-338頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec981c6cacdcacfccc4cfccccc7c4cfccccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "9500526",
-            "立法紀錄": "95卷32期3493號一冊 71-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec981c6cacccdcfcec4cfcfc8cec4cfcfc8ce",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 73-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec981c6cacac6cfcfc4cfcfc8ccc4cfcfc8cb",
+            "會議日期": "960109",
+            "立法紀錄": "96卷10期3533號二冊 535-535頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec881c6c9cecfcfcdc4cfcacccac4cfcaccca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 74-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec981c6cacac6cfcfc4cfcfc8cbc4cfcfc8cb",
+            "會議日期": "960109",
+            "立法紀錄": "96卷10期3533號二冊 535-535頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecec881c6c9cecfcfcdc4cfcacccac4cfcaccca",
             "關係文書": []
         }
     ]
