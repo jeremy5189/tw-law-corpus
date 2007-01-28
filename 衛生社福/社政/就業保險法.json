@@ -1,12 +1,12 @@
 {
     "title": "就業保險法",
     "versions": [
-        "中華民國91年4月25日制定",
-        "中華民國91年5月15日公布"
+        "中華民國96年1月5日修正",
+        "中華民國96年1月29日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -82,7 +82,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　本保險之給付，分下列四種：\n　　一、失業給付。\n　　二、提早就業獎助津貼。\n　　三、職業訓練生活津貼。\n　　四、失業之被保險人其全民健康保險保險費補助。\n　　前項第四款之補助對象、補助條件、補助標準、補助期限之辦法，由中央主管機關另定之。",
+            "content": "　　本保險之給付，分下列四種：\n　　一、失業給付。\n　　二、提早就業獎助津貼。\n　　三、職業訓練生活津貼。\n　　四、失業之被保險人及隨同被保險人辦理加保之眷屬全民健康保險保險費補助。\n　　前項第四款之補助對象、補助條件、補助標準、補助期限之辦法，由中央主管機關另定之。",
             "relates": {}
         },
         {
@@ -306,64 +306,54 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第十條": "　　第一項第四款增列隨同被保險人辦理加保之眷屬全民健康保險保險費補助，俾加強照顧失業勞工眷屬之醫療權益。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910312",
-            "立法紀錄": "91卷16期3212號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cd81c6cecec9cfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "950526",
+            "立法紀錄": "95卷32期3493號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cc81c6cacccdcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "盧天麟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcdcfcdc5cec9c6d2cec7c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910312",
-            "立法紀錄": "91卷16期3212號 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cd81c6cecec9cfcfc4cfcfcfcac4cfcfcfc9",
-            "主提案": "周清玉",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcdcfcdc5c8cad2c6cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecacfcec5c7c8d2c6cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910410",
-            "立法紀錄": "91卷39期3235號下冊 201-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cd81c6ceccc6cfccc4cfcdcfcec4cfcdcbcc",
+            "會議日期": "951225",
+            "立法紀錄": "96卷8期3531號 167-239頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cc81c6c9cfc7cfcfc4cfcec9c8c4cfcdccc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 178-218頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cd81c6cecdc7cfcec4cfcec8c7c4cfcdcec7",
+            "會議日期": "960105",
+            "立法紀錄": "96卷10期3533號一冊 208-214頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cc81c6c9cecfcfcec4cfcdcfc7c4cfcdcecb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc7cfcec5cdc9cad2cccfc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecac8cbc5c8d2cecc"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 218-225頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cd81c6cecdc7cfcec4cfcdcec7c4cfcdcdca",
+            "會議日期": "960105",
+            "立法紀錄": "96卷10期3533號一冊 214-214頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cc81c6c9cecfcfcec4cfcdcecbc4cfcdcecb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910425",
-            "立法紀錄": "91卷28期3224號上冊 225-227頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cd81c6cecdc7cfcec4cfcdcdcac4cfcdcdc8",
+            "會議日期": "960105",
+            "立法紀錄": "96卷10期3533號一冊 214-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc9cc81c6c9cecfcfcec4cfcdcecbc4cfcdceca",
             "關係文書": []
         }
     ]
