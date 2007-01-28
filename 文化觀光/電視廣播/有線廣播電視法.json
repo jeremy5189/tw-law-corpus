@@ -1,8 +1,8 @@
 {
     "title": "有線廣播電視法",
     "versions": [
-        "中華民國92年12月9日修正",
-        "中華民國92年12月24日公布"
+        "中華民國96年1月12日修正",
+        "中華民國96年1月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -229,6 +229,12 @@
             "note": "(營運許可之換發及補發)",
             "rule_no": "第三十五條",
             "content": "　　系統經營者之營運許可，有效期間為九年。系統經營者於營運許可期限屆滿，仍欲經營時，應於營運許可期限滿八年後六個月內，向中央主管機關申請換發。\n　　前項營運許可所載內容變更時，應於變更後十五日內向中央主管機關申准換發；遺失時，應於登報聲明作廢後十五日內申請補發。",
+            "relates": {}
+        },
+        {
+            "note": "(申請換發之審查標準及程序)",
+            "rule_no": "第三十五條 之一",
+            "content": "　　中央主管機關審查申請換發系統經營者之營運許可案件時，應審酌下列事項：\n　　一、營運計畫執行情形之評鑑結果及改正情形。\n　　二、未來之營運計畫。\n　　三、財務狀況。\n　　四、營運是否符合經營地區民眾利益及需求。\n　　五、系統經營者之獎懲紀錄及其他影響營運之事項。\n　　前項審查結果，中央主管機關認該系統經營者營運不善或未來之營運計畫有改善之必要時，應以書面通知其限期改善。屆期無正當理由而未改善者，經審議委員會審議，並經中央主管機關決議不予換發營運許可者，駁回其申請。\n　　前項審查期間及改善期間，中央主管機關得發給臨時執照，其有效期間為一年，並以一次為限。",
             "relates": {}
         },
         {
@@ -509,97 +515,53 @@
         }
     ],
     "law_reasons": {
-        "第十九條": "　　照黨團協商條文通過。",
-        "第二十條": "　　照黨團協商條文通過。",
-        "第二十四條": "　　照黨團協商條文通過。",
-        "第三十七條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第六十八條": "　　照黨團協商條文通過。"
+        "第三十五條 之一": "　　一、本條新增\n　　二、本法第三十五條第一項規定：「系統經營者之營運許可，有效期間為九年。系統經營者於營運許可期限屆滿，仍欲經營時，應於營運許可期限滿八年後六個月內，向中央主管機關申請換發。」但未明定申請換發之審查標準及程序，爰參酌廣播電視法第十二條之一規定以及本法第三十六條有關對系統經營者定期評鑑之規定，增訂本條規範補充之，以明確必要之行政程序，並維護相關經營地區團體及民眾之權益。\n　　三、為免屆期無法完成營運許可換發或發給籌設許可導致立即影響該經營地區民眾正當視聽權益，在審查期間及改善期間，中央主管機關發給臨時執照，酌量系統經營者營運許可有效期間為九年，以及辦理換發營運許可程序所需作業時間，以一年為適當，但臨時執照之核發以一次為限。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910416",
-            "立法紀錄": "91卷26期3222號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac881c6cecdc9cfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "951124",
+            "立法紀錄": "95卷52期3513號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac681c6cacacdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc8cfcec5cdc9ced2cdc9c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910531",
-            "立法紀錄": "91卷39期3235號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac881c6ceccc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececbcfcdc5cccfc8d2cccec6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac881c6cecbcfcfcec4cfcfcfcbc4cfcfcfcb",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5cec8ced2cec8cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "911101",
-            "立法紀錄": "91卷65期3261號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac881c6cec9cacfcec4cfcfcfccc4cfcfcfcc",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc8cfcec5cecdcfd2cecdc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "911101",
-            "立法紀錄": "91卷65期3261號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac881c6cec9cacfcec4cfcfcfccc4cfcfcfcc",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc8cfcec5cececbd2cecec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfc6c8cdc5c7ccd2c7ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "911212",
-            "立法紀錄": "92卷3期3277號三冊 280-297頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac881c6cdcfcccfccc4cfcdc7cfc4cfcdc6c8",
+            "會議日期": "951228",
+            "立法紀錄": "96卷12期3535號 1-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac681c6c9cecdcfcfc4cfcfcfcec4cfcfcecc",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "921209",
-            "立法紀錄": "92卷57期3331號二冊 498-502頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac881c6cdcac8cfcdc4cfcbc6c7c4cfcacfcd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960112",
+            "立法紀錄": "96卷13期3536號一冊 60-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac681c6c9cecccfcec4cfcfc9cfc4cfcfc9cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5c9d2c8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec9cfcdc5cec6d2cdcc"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960112",
+            "立法紀錄": "96卷13期3536號一冊 64-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac681c6c9cecccfcec4cfcfc9cbc4cfcfc9cb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "921209",
-            "立法紀錄": "92卷57期3331號二冊 502-502頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac881c6cdcac8cfcdc4cfcacfcdc4cfcacfcd",
+            "會議日期": "9610112",
+            "立法紀錄": "96卷13期3536號一冊 64-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcac681c6c9cecccfcec4cfcfc9cbc4cfcfc9cb",
             "關係文書": []
         }
     ]
