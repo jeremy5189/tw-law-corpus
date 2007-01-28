@@ -1,8 +1,8 @@
 {
     "title": "農業發展條例",
     "versions": [
-        "中華民國95年12月22日修正",
-        "中華民國96年1月10日公布"
+        "中華民國96年1月5日修正",
+        "中華民國96年1月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -204,7 +204,7 @@
         {
             "note": "(農業資材規格標準及農產品認證制度)",
             "rule_no": "第二十七條",
-            "content": "　　中央主管機關對於種用動植物、肥料、飼料、農藥及動物用藥等資材，應分別訂定規格及設立廠場標準，實施檢驗。\n　　為提升農產品及農產加工品品質，維護消費者權益，中央主管機關應推動相關產品之證明標章驗（認）證制度。\n　　前項農產品、農產加工品之證明標章驗（認）證相關作業規定，由中央主管機關定之。",
+            "content": "　　中央主管機關對於種用動植物、肥料、飼料、農藥及動物用藥等資材，應分別訂定規格及設立廠場標準，實施檢驗。\n　　為提升農產品及農產加工品品質，維護消費者權益，中央主管機關應推動相關產品之證明標章驗（認）證制度。",
             "relates": {}
         },
         {
@@ -541,67 +541,53 @@
         }
     ],
     "law_reasons": {
-        "第三十一條": "　　照委員李俊毅等6人修正動議通過。",
-        "第三十九條": "　　由於第三十一條規範限制耕地所有權移轉登記之相關規定，不盡合理且不公平，為保障農民權益及財產權之行使，故本條第一項之規定刪除之，並修正部分文字。"
+        "第二十七條": "　　行政院農業委員會原依原條文第三項規定訂定「優良農產品證明標章認證及驗證作業辦法」，茲為配合政策決定制定「農產品生產及驗證管理法」據以規範農產品相關驗證之管理，為避免法規適用產生競合，爰配合刪除原條文第三項規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940916",
-            "立法紀錄": "94卷44期3426號三冊 1-1頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7c681c6cbcbcbcfccc4cfcfcfcec4cfcfcfce",
-            "主提案": "林耘生",
+            "會議日期": "950919",
+            "立法紀錄": "95卷37期3498號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc6ce81c6caccc8cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcdcfcec5c6c9d2c6c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "950317",
-            "立法紀錄": "95卷10期3471號一冊 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7c681c6cacecfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "蔡勝佳",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfcacfcec5c6cbd2c6ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcec8ccc5cec7ced2cec6cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
             "會議日期": "951213",
-            "立法紀錄": "96卷3期3526號 73-85頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7c681c6c9cfcccfcfc4cfcfc8ccc4cfcfc7ca",
+            "立法紀錄": "96卷6期3529號 1-41頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc6ce81c6c9cfc9cfcfc4cfcfcfcec4cfcfcbce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "951222",
-            "立法紀錄": "96卷4期3527號 60-64頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7c681c6c9cfcbcfcfc4cfcfc9cfc4cfcfc9cb",
+            "會議日期": "960105",
+            "立法紀錄": "96卷10期3533號一冊 143-202頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc6ce81c6c9cecfcfcec4cfcecbccc4cfcdcfcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecccfcdc5cccec6d2cccdcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecbcfcbc5cdc9ced2cccdcd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "951222",
-            "立法紀錄": "96卷4期3527號 64-64頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7c681c6c9cfcbcfcfc4cfcfc9cbc4cfcfc9cb",
+            "會議日期": "960105",
+            "立法紀錄": "96卷10期3533號一冊 202-207頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc6ce81c6c9cecfcfcec4cfcdcfcdc4cfcdcfc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "951222",
-            "立法紀錄": "96卷4期3527號 64-64頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc7c681c6c9cfcbcfcfc4cfcfc9cbc4cfcfc9cb",
+            "會議日期": "960105",
+            "立法紀錄": "96卷10期3533號一冊 207-208頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc6ce81c6c9cecfcfcec4cfcdcfc8c4cfcdcfc7",
             "關係文書": []
         }
     ]
