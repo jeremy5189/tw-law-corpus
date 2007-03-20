@@ -1,8 +1,8 @@
 {
     "title": "兵役法",
     "versions": [
-        "中華民國94年11月22日修正",
-        "中華民國94年12月14日公布"
+        "中華民國96年3月5日修正",
+        "中華民國96年3月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,7 +28,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　男子年滿十八歲之翌年一月一日起役，至屆滿四十歲之年十二月三十一日除役，稱為役齡男子。但軍官、士官除役年齡，不在此限。\n　　男子年滿十五歲之翌年一月一日起，至屆滿十八歲之年十二月三十一日止，稱為接近役齡男子。",
+            "content": "　　男子年滿十八歲之翌年一月一日起役，至屆滿三十六歲之年十二月三十一日除役，稱為役齡男子。但軍官、士官、志願士兵除役年齡，不在此限。\n　　男子年滿十五歲之翌年一月一日起，至屆滿十八歲之年十二月三十一日止，稱為接近役齡男子。",
             "relates": {}
         },
         {
@@ -114,7 +114,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　常備兵役之區分如下：\n　　一、現役：以徵兵及齡男子，經徵兵檢查合格於除役前，徵集入營服之，為期一年十個月，期滿退伍。\n　　二、後備役：以現役期滿退伍者服之，至屆滿四十歲除役時止。\n　　前項所定役期，凡於學校授畢之軍訓課程得以八堂課折算一日折減之。",
+            "content": "　　常備兵役之區分如下：\n　　一、現役：以徵兵及齡男子，經徵兵檢查合格於除役前，徵集入營服之，為期一年十個月，期滿退伍。\n　　二、後備役：以現役期滿退伍者服之，至除役時止。\n　　前項所定役期，凡於學校授畢之軍訓課程得以八堂課折算一日折減之。",
             "relates": {}
         },
         {
@@ -346,7 +346,7 @@
         {
             "note": "",
             "rule_no": "第五十條",
-            "content": "　　本法修正施行前之補充兵及已訓或待訓國民兵役期限均至四十歲除役時止，其管理運用辦法由國防部會同內政部定之。",
+            "content": "　　本法修正施行前之補充兵及已訓或待訓國民兵役期限均至除役時止；其管理運用辦法由國防部會同內政部定之。",
             "relates": {}
         },
         {
@@ -363,54 +363,87 @@
         }
     ],
     "law_reasons": {
-        "第四十七條": "　　一、為精實國防戰力，擴大志願士兵招募來源，放寬志願士兵入營服役年齡範圍，使高中、職之應屆畢業生得於畢業當年直接參加志願士兵甄選，進入軍中服役，有利其生涯規劃，爰於第一項增訂「適齡男子」為志願士兵甄選對象。\n　　二、另考量適齡之後備役士兵，多甫自軍中退伍，為有效運用上述人力，爰增訂渠等為志願士兵甄選對象。",
-        "第四十八條": "　　一、為符合兩性平權原則，並有效運用女性人力，於滿足國防軍事需要之前提下，開拓女性人力為志願士兵來源，爰增訂第三項規定。\n　　二、配合兵役法第十四條規定，酌作文字修正。"
+        "第三條": "　　照黨團協商條文通過。",
+        "第十六條": "　　一、 配合除役年齡降低，爰修正第一項第二款。\n　　二、 第二項未修正。",
+        "第五十條": "　　配合除役年齡降低，爰修正本條。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940513",
-            "立法紀錄": "94卷34期3416號 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc9c681c6cbcccbcfcfc4cfcfcecbc4cfcfcecb",
-            "主提案": "行政院",
+            "會議日期": "940506",
+            "立法紀錄": "94卷30期3412號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cbcccfcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "賴士葆",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececdcfcec5ccc9c6d2ccc8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecececfcec5cecfc9d2cecfc8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940913",
+            "立法紀錄": "94卷44期3426號一冊 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cbcbcbcfcec4cfcfcecbc4cfcfcecb",
+            "主提案": "謝國樑",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdcdc6d2cdccce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940913",
+            "立法紀錄": "94卷44期3426號一冊 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cbcbcbcfcec4cfcfcecbc4cfcfcecb",
+            "主提案": "林郁方",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdccccd2cdcccb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "951027",
+            "立法紀錄": "95卷44期3505號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cacbcbcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "湯火聖",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcac8cdc5ceccd2cec9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940526",
-            "立法紀錄": "94卷43期3425號 35-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc9c681c6cbcbcccfcfc4cfcfcccac4cfcfcacd",
+            "會議日期": "951204",
+            "立法紀錄": "95卷58期3519號 277-282頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cacac7cfcfc4cfcdc8c8c4cfcdc7cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "940927",
-            "立法紀錄": "94卷45期3427號 155-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc9c681c6cbcbcacfcfc4cfcecacac4cfcec9ca",
+            "會議日期": "960305",
+            "立法紀錄": "96卷20期3543號二冊 89-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6c9cdcfcfcdc4cfcfc7c6c4cfcfc6c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5caccced2cacbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfcdcfcfc5ccc8c7d2ccc7c7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "9411222",
-            "立法紀錄": "94卷70期3452號 211-212頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc9c681c6cbc8cfcfcfc4cfcdcecec4cfcdcecd",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "941122",
-            "立法紀錄": "94卷70期3452號 212-212頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc9c681c6cbc8cfcfcfc4cfcdcecdc4cfcdcecd",
+            "會議日期": "960305",
+            "立法紀錄": "96卷20期3543號二冊 99-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6c9cdcfcfcdc4cfcfc6c6c4cfcfc6c6",
             "關係文書": []
         }
     ]
