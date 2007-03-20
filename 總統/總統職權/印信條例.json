@@ -1,8 +1,8 @@
 {
     "title": "印信條例",
     "versions": [
-        "中華民國89年5月16日修正",
-        "中華民國89年5月17日公布"
+        "中華民國96年3月2日修正",
+        "中華民國96年3月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,7 +24,7 @@
         {
             "note": "(印信質料、形式)",
             "rule_no": "第三條",
-            "content": "　　印信之質料及形式，規定如左：\n　　一、質料：國璽用玉質；國民大會、總統及五院之印用銀質；總統、副總統及五院院長職章，用牙質或銀質；其他之印、關防、職章均用銅質。但得適應當地情形，暫用木質或鋁質，並得以角質暫製職章；圖記用木質。\n　　二、形式：國璽為正方形，國徽鈕；印、職章均為直柄式正方形；關防、圖記均為直柄式長方形。但牙質職章為立體式正方形。\n　　前條第一款至第五款之印信字體，均用陽文篆字。",
+            "content": "　　印信之質料及形式，規定如下：\n　　一、質料：國璽用玉質；總統及五院之印用銀質；總統、副總統及五院院長職章，用牙質或銀質；其他之印、關防、職章均用銅質。但得適應當地情形，暫用木質或鋁質，並得以角質暫製職章；圖記用木質。\n　　二、形式：國璽為正方形，國徽鈕；印、職章均為直柄式正方形；關防、圖記均為直柄式長方形。但牙質職章為立體式正方形。\n　　前條第一款至第五款之印信字體，均用陽文篆字。",
             "relates": {}
         },
         {
@@ -36,7 +36,7 @@
         {
             "note": "(國璽及總統之印暨職章之授與)",
             "rule_no": "第五條",
-            "content": "　　國璽及總統之印暨職章，由國民大會推派之代表於總統就職時授與之；副總統職章之授與，亦同。\n　　總統、副總統就職時，非於國民大會開會期間，由立法院院長為之。",
+            "content": "　　國璽及總統之印暨職章，由立法院院長於總統就職時授與之；副總統職章之授與，亦同。",
             "relates": {}
         },
         {
@@ -113,46 +113,60 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　增列第二項總統、副總統就職時，非於國民大會開會期間，由立法院院長為之。以因應國大虛級化後為非常設機關，並維持憲法上國民主權之原理。"
+        "第三條": "　　為配合國民大會廢止，爰刪除第一項第一款「國民大會、」文字。",
+        "第五條": "　　一、為配合國民大會廢止，第一項修正為由「立法院院長」授印。\n　　二、第二項刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890428",
-            "立法紀錄": "89卷21期3080號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccf81c7c6cdcecfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "民進黨黨團",
+            "會議日期": "941028",
+            "立法紀錄": "94卷59期3441號 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccd81c6cbcac6cfcfc4cfcfcfcbc4cfcfcfca",
+            "主提案": "黃偉哲",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccececfcfc5cecdc9d2cecdc7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc7cfcec5cec7c9d2cec7c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "950317",
+            "立法紀錄": "95卷10期3471號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccd81c6cacecfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "親民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfcacfcec5cececdd2cececc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890508",
-            "立法紀錄": "89卷27期3086號 347-360頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccf81c7c6cdc8cfcfc4cfcccbc8c4cfccc9cf",
+            "會議日期": "960103",
+            "立法紀錄": "96卷12期3535號 229-243頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccd81c6c9cecdcfcfc4cfcdcdc6c4cfcdcbcc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890516",
-            "立法紀錄": "89卷26期3085號 45-47頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccf81c7c6cdc9cfcfc4cfcfcbcac4cfcfcbc8",
+            "會議日期": "960302",
+            "立法紀錄": "96卷20期3543號一冊 75-79頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccd81c6c9cdcfcfcec4cfcfc8cac4cfcfc8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccecacfcfc5cbc7cad2cbc7c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec8cfccc5cbcad2cbc7"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "890516",
-            "立法紀錄": "89卷26期3085號 47-47頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccf81c7c6cdc9cfcfc4cfcfcbc8c4cfcfcbc8",
+            "會議日期": "960302",
+            "立法紀錄": "96卷20期3543號一冊 79-79頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc6cec9cccd81c6c9cdcfcfcec4cfcfc8c6c4cfcfc8c6",
             "關係文書": []
         }
     ]
