@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國95年12月22日修正",
-        "中華民國96年1月10日公布"
+        "中華民國96年3月5日修正",
+        "中華民國96年3月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -186,7 +186,7 @@
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　稅捐之徵收期間為五年，自繳納期間屆滿之翌日起算；應徵之稅捐未於徵收期間徵起者，不得再行徵收。但於徵收期間屆滿前，已移送法院強制執行，或已依強制執行法規定聲明參與分配，或已依破產法規定申報債權尚未結案者，不在此限。\n　　應徵之稅捐，有第十條、第二十五條、第二十六條及第二十七條規定情事者，前項徵收期間，自各該變更繳納期間屆滿之翌日起算。\n　　依第三十九條暫緩移送法院強制執行或其他法律規定停止稅捐之執行者，第一項徵收期間之計算，應扣除暫緩執行或停止執行之期間。",
+            "content": "　　稅捐之徵收期間為五年，自繳納期間屆滿之翌日起算；應徵之稅捐未於徵收期間徵起者，不得再行徵收。但於徵收期間屆滿前，已移送執行，或已依強制執行法規定聲明參與分配，或已依破產法規定申報債權尚未結案者，不在此限。\n　　應徵之稅捐，有第十條、第二十五條、第二十六條或第二十七條規定情事者，前項徵收期間，自各該變更繳納期間屆滿之翌日起算。\n　　依第三十九條暫緩移送執行或其他法律規定停止稅捐之執行者，第一項徵收期間之計算，應扣除暫緩執行或停止執行之期間。\n　　稅捐之徵收，於徵收期間屆滿前已移送執行者，自徵收期間屆滿之翌日起，五年內未經執行者，不再執行，其於五年期間屆滿前已開始執行，仍得繼續執行；但自五年期間屆滿之日起已逾五年尚未執行終結者，不得再執行。\n　　本法中華民國九十六年三月五日修正前已移送執行尚未終結之案件，自修正之日起逾五年尚未執行終結者，不再執行。",
             "relates": {}
         },
         {
@@ -441,19 +441,45 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　一、第一項已明定稅捐之徵收均優於普通債權，但所有稅捐項目繁多，卻僅適用土地增值稅，顯然與此法精神有所違背，亦對國家稅收影響甚鉅，且對債務人二度傷害。故修正第二項規定，明定地價稅、房屋稅等稅捐亦優先一切債權及抵押權，一來可確保國家財政，二來避免債務人因欠稅屢遭執行機關多次執行。\n　　二、修正第三項，增訂地價稅、房屋稅，交由執行法院或行政執行署代為扣繳。"
+        "第二十三條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950919",
-            "立法紀錄": "95卷37期3498號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6caccc8cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "李全教",
+            "會議日期": "940916",
+            "立法紀錄": "94卷44期3426號三冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6cbcbcbcfccc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcec8cdc5cecdcad2cecdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcdcfcec5cecec9d2cecec6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941014",
+            "立法紀錄": "94卷52期3434號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6cbcacdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林滄敏",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5cececfd2cececc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "951027",
+            "立法紀錄": "95卷44期3505號一冊 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6cacbcbcfcec4cfcfcfcec4cfcfcfcd",
+            "主提案": "沈智慧",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcac8cdc5cec8d2cdcf"
                 ]
             ]
         },
@@ -461,33 +487,47 @@
             "進度": "委員會審查",
             "會議日期": "951211",
             "立法紀錄": "96卷2期3525號 45-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6c9cfcdcfcfc4cfcfcbcac4cfcfc8c9",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cfcdcfcfc4cfcfcbcac4cfcfc8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "951222",
-            "立法紀錄": "96卷4期3527號 35-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6c9cfcbcfcfc4cfcfcccac4cfcfcbcc",
+            "會議日期": "951226",
+            "立法紀錄": "96卷4期3527號 89-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cfcbcfcfc4cfcfc7c6c4cfcecfc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecccfcdc5cdc7c6d2cdc6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecccfcdc5cccbc6d2ccc8ce"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960109",
+            "立法紀錄": "96卷10期3533號二冊 541-541頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cecfcfcdc4cfcacbcec4cfcacbce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960116",
+            "立法紀錄": "96卷13期3536號一冊 269-269頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cecccfcec4cfcdc9c6c4cfcdc9c6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "951222",
-            "立法紀錄": "96卷4期3527號 43-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6c9cfcbcfcfc4cfcfcbccc4cfcfcbcc",
+            "會議日期": "960305",
+            "立法紀錄": "96卷20期3543號二冊 99-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cdcfcfcdc4cfcfc6c6c4cfcecfce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "951222",
-            "立法紀錄": "96卷4期3527號 43-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcaceccc681c6c9cfcbcfcfc4cfcfcbccc4cfcfcbcc",
+            "會議日期": "960305",
+            "立法紀錄": "96卷20期3543號二冊 101-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cdcfcfcdc4cfcecfcec4cfcecfce",
             "關係文書": []
         }
     ]
