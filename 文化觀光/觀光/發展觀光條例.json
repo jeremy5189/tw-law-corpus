@@ -1,8 +1,8 @@
 {
     "title": "發展觀光條例",
     "versions": [
-        "中華民國92年5月27日修正",
-        "中華民國92年6月11日公布"
+        "中華民國96年3月2日修正",
+        "中華民國96年3月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -457,52 +457,58 @@
         },
         {
             "note": "",
+            "rule_no": "第七十條 之一",
+            "content": "　　於本條例九十年十一月十四日施行前已依相關法令核准經營觀光遊樂業業務而非屬公司組織者，應自本條例修正施行之日起二年內，向該管主管機關申請觀光遊樂業執照，始得繼續營業。\n　　前項申請案，不適用第三十五條辦理公司登記之規定。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第七十一條",
             "content": "　　本條例除另定施行日期者外，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第五十條 之一": "　　一、本條新增。\n　　二、參考德國、日本、新加坡及韓國等國家實施觀光客退稅之經驗及整體退稅機制，並考量我國主客觀因素與行政成本，以及達到提高外國旅客在我國消費意願之目的，同時授權交通部會同財政部另定辦法加以推動，以建立並落實觀光客退稅制度。\n　　三、關於本條所稱「營業稅」，指加值型及非加值型營業稅所稱加值型之營業稅。"
+        "第七十條 之一": " 960302\n　　一、本條新增。\n　　二、鑑因國人對於觀光休憩之需求日增，各類型之主題遊樂園紛紛設立，惟相較於政府對遊樂園之界定輔導機制，似未臻完善。嗣於九十年十一月十四日修正公布之本條例第二條明定「觀光遊樂業」定義後，始有業別之法定依據，爰以上開日期作為認定經營觀光遊樂業業務起始日。\n　　三、按本條例第三十五條規定，經營觀光遊樂業者，應先向主管機關申請核准，應辦妥公司登記後，領取觀光遊樂業執照，使得營業；爰本條例修正施行前已依相關法令核准經營觀光遊樂業業務而非屬公司組織者，因無法辦理公司登記，致無法繼續經營觀光遊樂業業務。\n　　四、為減輕上開業者之損害，並符合憲法保障人民權利之意旨，爰增列訂定該等業者申請觀光遊樂業執照之條件及程序。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920509",
-            "立法紀錄": "92卷27期3301號上冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdcb81c6cdcdc8cfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "940930",
+            "立法紀錄": "94卷46期3428號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdc981c6cbcbc9cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "蔡勝佳",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccececfcec5cccecbd2cccec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcbcfcec5c6c8d2c6c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920515",
-            "立法紀錄": "92卷32期3306號上冊 1-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdcb81c6cdcccdcfcec4cfcfcfcec4cfcfcdc9",
+            "會議日期": "960115",
+            "立法紀錄": "96卷17期3540號 167-196頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdc981c6c9cec8cfcfc4cfcec9c8c4cfcec6c9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "920527",
-            "立法紀錄": "92卷31期3305號二冊 195-197頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdcb81c6cdcccecfcdc4cfcec6cac4cfcec6c8",
+            "會議日期": "960302",
+            "立法紀錄": "96卷20期3543號一冊 72-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdc981c6c9cdcfcfcec4cfcfc8cdc4cfcfc8ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecccfcdc5cbcfced2cbcfc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec8cfccc5cdcac8d2cdcac6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "920527",
-            "立法紀錄": "92卷31期3305號二冊 197-197頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdcb81c6cdcccecfcdc4cfcec6c8c4cfcec6c8",
+            "會議日期": "960302",
+            "立法紀錄": "96卷20期3543號一冊 75-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdc981c6c9cdcfcfcec4cfcfc8cac4cfcfc8ca",
             "關係文書": []
         }
     ]
