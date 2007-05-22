@@ -1,8 +1,8 @@
 {
     "title": "民法親屬編施行法",
     "versions": [
-        "中華民國91年6月4日修正",
-        "中華民國91年6月26日公布"
+        "中華民國96年5月4日修正",
+        "中華民國96年5月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -31,6 +31,12 @@
             "note": "(婚約規定之適用)",
             "rule_no": "第四條",
             "content": "　　民法親屬編關於婚約之規定，除第九百七十三條外，於民法親屬編施行前所訂之婚約亦適用之。\n　　修正之民法第九百七十七條第二項及第三項之規定，於民法親屬編修正前所訂之婚約並適用之。",
+            "relates": {}
+        },
+        {
+            "note": "(重婚規定之適用)",
+            "rule_no": "第四條 之一",
+            "content": "　　中華民國九十六年五月四日修正之民法第九百八十二條之規定，自公布後一年施行。\n　　修正之民法第九百八十八條之規定，於民法修正前重婚者，仍有適用。",
             "relates": {}
         },
         {
@@ -67,6 +73,12 @@
             "note": "(婚生子女之推定及否認規定之適用)",
             "rule_no": "第八條",
             "content": "　　民法親屬編關於婚生子女之推定及否認，於施行前受胎之子女亦適用之。\n　　民法親屬編修正前結婚，並有修正之民法第一千零五十九條第一項但書之約定而從母姓者，得於修正後一年內，聲請改姓母姓，但子女已成年或已結婚者，不在此限。\n　　修正之民法第一千零六十三條第二項之規定，於民法親屬編修正前受胎或出生之子女亦適用之。",
+            "relates": {}
+        },
+        {
+            "note": "(否認婚生子女提訴期限)",
+            "rule_no": "第八條 之一",
+            "content": "　　夫妻已逾中華民國九十六年五月四日修正前之民法第一千零六十三條第二項規定所定期間，而不得提起否認之訴者，得於修正施行後二年內提起之。",
             "relates": {}
         },
         {
@@ -119,87 +131,217 @@
         }
     ],
     "law_reasons": {
-        "第六條 之二": "　　一、本條新增。\n　　二、為保障人民之既得權益，並使現存之法律關係得順利過渡至法律修正施行之後，爰增訂本條規定，俾修正前結婚而婚姻關係尚存續夫妻之特有財產及結婚時之原有財產，仍得排除於剩餘財產分配之列；至於婚姻關係存續期間取得之原有財產，則仍列入分配。"
+        "第四條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
+        "第八條 之一": "　　一、本條新增。\n　　二、因原民法第一千零六十三條第二項所定法定起訴期間係「知悉子女出生之日起一年內」，而非本次修正之第一千零六十三條修正條文所定「知悉該子女非為婚生子女時起二年內」，是以，在本次民法修正前，夫妻如知悉其子女非為婚生子女時已逾「知悉子女出生之日一年」之期間，即不得提起否認之訴。惟本次民法修正條文第一千零六十三條第二項規定既已放寬至「知悉該子女非為婚生子女時起二年」，故對於修正前不得提起否認之訴者，亦宜放寬而使其得於本次民法修正施行後二年內提起否認之訴。至於本法修正施行後夫妻始知悉其子女非為婚生子女者，自應依修正後第一千零六十三條第二項及第三項規定提起否認之訴。\n　　三、本次修正條文增列第二項子女提起否認之訴之規定，其規範目的在於取得血統真實與身分安定二者間之平衡，故子女依本次民法修正前之規定雖不得提起否認之訴，惟修正施行後如符合第一千零六十三條第二項及第三項之規定，自得依該等規定提起否認之訴，併此敘明。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910507",
-            "立法紀錄": "91卷31期3227號上冊 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecccecfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "行政院、司法院",
+            "會議日期": "940325",
+            "立法紀錄": "94卷14期3396號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbcecbcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "葉宜津",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececfcfcdc5cecbc7d2cdcfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfcec5cdcecad2cdcdca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "910423",
-            "立法紀錄": "91卷28期3224號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecdc7cfcec4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "940325",
+            "立法紀錄": "94卷14期3396號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbcecbcfcec4cfcfcfcac4cfcfcfca",
             "主提案": "沈智慧",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc8cfccc5cacdced2cacac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfcec5cdccced2cdcccd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940422",
+            "立法紀錄": "94卷25期3407號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbcdcacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "王幸男",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc6cfcec5cececcd2cecec6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940913",
+            "立法紀錄": "94卷44期3426號一冊 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbcbcbcfcec4cfcfcecac4cfcfceca",
+            "主提案": "孫大千",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdc9cad2cdc9c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940923",
+            "立法紀錄": "94卷45期3427號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbcbcacfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": "余政道",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcec5cdccc6d2cdcbce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941007",
+            "立法紀錄": "94卷49期3431號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbcbc6cfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "吳志揚",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcacfcec5c6cad2c6c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941014",
+            "立法紀錄": "94卷52期3434號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbcacdcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "李復興",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5c8cbd2c8c9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "941021",
+            "立法紀錄": "94卷55期3437號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbcacacfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": "羅志明",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc8cfcec5cdcbc9d2cdcbc8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "950406",
+            "立法紀錄": "94卷75期3457號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cbc8cacfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林耘生",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecccfcec5cecfced2cecfcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "950421",
+            "立法紀錄": "95卷20期3481號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cacdcfcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳根德",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecfcfcec5cecacdd2cec9ca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "950428",
+            "立法紀錄": "95卷23期3484號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cacdcccfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "蔡錦隆",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccececfcec5cecfcdd2cecfca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "951012",
+            "立法紀錄": "95卷27期3488號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cacdc8cfcfc4cfcfcfc7c4cfcfcfc7",
+            "主提案": "司法院、行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecccfcec5ccc8ccd2cbcfc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "951027",
+            "立法紀錄": "95卷44期3505號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6cacbcbcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "黃淑英",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcacfcec5c7c9d2c7c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910424",
-            "立法紀錄": "91卷42期3238號下冊 123-146頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbcdcfccc4cfcecdccc4cfcecbc9",
+            "會議日期": "951221",
+            "立法紀錄": "96卷8期3531號 1-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6c9cfc7cfcfc4cfcfcfcec4cfcfcdc7",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910513",
-            "立法紀錄": "91卷48期3244號下冊 29-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbc7cfccc4cfcfcdc6c4cfcfcacc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "910515",
-            "立法紀錄": "91卷48期3244號下冊 53-98頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbc7cfccc4cfcfcaccc4cfcfc6c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "910516",
-            "立法紀錄": "91卷48期3244號下冊 98-138頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbc7cfccc4cfcfc6c7c4cfceccc7",
+            "會議日期": "960104",
+            "立法紀錄": "96卷14期3537號 289-314頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6c9cecbcfcfc4cfcdc7c6c4cfcccecb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 33-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbcfcfcec4cfcfccccc4cfcfcbcd",
+            "會議日期": "960504",
+            "立法紀錄": "96卷38期3561號 45-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6c9ccc7cfcfc4cfcfcbcac4cfcec8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5cbc6cdd2cac7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5cad2ceccca"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 112-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbcfcfcec4cfcececdc4cfcecdc8",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960504",
+            "立法紀錄": "96卷38期3561號 179-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6c9ccc7cfcfc4cfcec8c6c4cfcec7cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 133-134頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcf81c6cecbcfcfcec4cfceccccc4cfcecccb",
+            "會議日期": "950504",
+            "立法紀錄": "96卷38期3561號 180-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbce81c6c9ccc7cfcfc4cfcec7cfc4cfcec7cf",
             "關係文書": []
         }
     ]
