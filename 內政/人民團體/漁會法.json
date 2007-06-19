@@ -1,8 +1,8 @@
 {
     "title": "漁會法",
     "versions": [
-        "中華民國93年6月4日修正",
-        "中華民國93年6月23日公布"
+        "中華民國96年5月11日修正",
+        "中華民國96年6月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -218,7 +218,7 @@
         {
             "note": "(總幹事之聘任及解聘)",
             "rule_no": "第二十六條",
-            "content": "　　漁會置總幹事一人，由理事會就中央或直轄市主管機關遴選之合格人員中聘任之。聘期最長以當屆理事任期為限；如次屆理事會續聘者，得續聘一次。但經政府評定為績優者，得再續聘一次。\n　　總幹事之聘任，應於理事會成立後六十天內為之；屆期未能產生時，得由上級漁會逕行遴派合格人員代理。全國或省（市）漁會總幹事，得由中央主管機關遴派合格人員代理之，其派代期間至新任總幹事依法聘任時為止。\n　　漁會總幹事之聘任，須經全體理事二分之一以上之決議行之；其解聘須經全體理事三分之二以上之決議行之。",
+            "content": "　　漁會置總幹事一人，由理事會就中央或直轄市主管機關遴選之合格人員中聘任之。\n　　總幹事之聘任，應於理事會成立後六十日內為之；屆期未能產生時，得由上級漁會逕行遴派合格人員代理。全國或省（市）漁會總幹事，得由中央主管機關遴派合格人員代理之，其派代期間至新任總幹事依法聘任時為止。\n　　漁會總幹事之聘任，須經全體理事二分之一以上之決議行之；其解聘須經全體理事三分之二以上之決議行之。",
             "relates": {}
         },
         {
@@ -402,7 +402,7 @@
         {
             "note": "(選任及聘、僱人員之停止職權)",
             "rule_no": "第四十九條 之一",
-            "content": "　　漁會選任及聘、僱人員，因刑事案件被羈押或通緝者，應予停止職權。\n　　漁會選任及聘、僱人員，受有期徒刑以上刑之二審判決者，應解除其職務。但漁會選任及聘、僱人員受緩刑宣告或經判處六個月以下有期徒刑得易科罰金者，不在此限。\n　　本條修正施行前，依修正前之規定而停止職權之漁會選任及聘、僱人員，自本條施行之日起，適用修正後之規定。\n　　依第一項規定停止職權之人員，經停止羈押或撤銷通緝者，在其任期屆滿前，得申請恢復其職權。\n　　漁會選任及聘、僱人員任職期間，喪失其候選或候聘資格者，由主管機關或其上級主管機關予以解除職務。",
+            "content": "　　漁會選任及聘、僱人員，因刑事案件被羈押或通緝者，應予停止職權。\n　　漁會選任及聘、僱人員，受有期徒刑以上刑之判決確定者，應解除其職務。但漁會選任及聘、僱人員受緩刑宣告或經判處六個月以下有期徒刑得易科罰金者，不在此限。\n　　本條修正施行前，依修正前之規定而停止職權之漁會選任及聘、僱人員，自本條施行之日起，適用修正後之規定。\n　　依第一項規定停止職權之人員，經停止羈押或撤銷通緝者，在其任期屆滿前，得申請恢復其職權。\n　　漁會選任及聘、僱人員任職期間，喪失其候選或候聘資格者，由主管機關或其上級主管機關予以解除職務。",
             "relates": {}
         },
         {
@@ -477,59 +477,60 @@
         }
     ],
     "law_reasons": {
-        "第二十一條 之一": "　　為使漁會理事、監事候選人實際從事漁業之資格明確並符合規定，爰修正本條文，增列第二項。"
+        "第二十六條": "　　一、刪除原條文第一項後半段文字。\n　　二、漁會總幹事依據漁會法規定、及其與漁會具有民法上委任關係之司法判例而觀之，漁會總幹事實際上被界定為「專業經理人」角色。專業經理人係以其經營績效良窳，做為決定其去留依據。基於此種認知，企業組織鮮少對專業經理人任期作限制，甚至為避免專業經理人對委任事業之經營權，會受到所有權改變或外力介入等干擾，難以貫徹其經營理念，尤有進者，尚對專業經理人更施以任期保障制度，確保其經營權得以發揮到極至。爰刪除原條文第一項後半段有關總幹事任期制之文字。",
+        "第四十九條 之一": "　　一、修正原條文第二項文字。\n　　二、比照地方制度法第79條第1項第4款規定：「直轄市議員、直轄市長、縣（市）議員、縣（市）長、鄉（鎮、市）民代表、鄉（鎮、市）長及村（里）長受有期徒刑以上刑之判決確定，而未受緩刑之宣告或未執行易科罰金者，解除其職權或職務」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "930423",
-            "立法紀錄": "93卷23期3357號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7ce81c6cccdcccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林豐喜",
+            "會議日期": "940325",
+            "立法紀錄": "94卷14期3396號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6cbcecbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecfcfcec5c7c9d2c7c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfcec5cec9c6d2cec8cd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "930423",
-            "立法紀錄": "93卷23期3357號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7ce81c6cccdcccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林豐喜",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6cacac6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "洪玉欽",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecfcfcec5c7cdd2c7cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcececfcec5cecfcad2cecfc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "930517",
-            "立法紀錄": "93卷30期3364號 64-69頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7ce81c6cccccfcfcfc4cfcfc9cbc4cfcfc9c6",
+            "會議日期": "940509",
+            "立法紀錄": "94卷36期3418號 120-136頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6cbccc9cfcfc4cfcecdcfc4cfceccc9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 37-43頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7ce81c6cccccccfcec4cfcfccc8c4cfcfcbcc",
+            "會議日期": "960511",
+            "立法紀錄": "96卷41期3564號 50-59頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6c9cbcecfcfc4cfcfcacfc4cfcfcac6",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5ccd2cecf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5cecbcad2cecbc6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 43-44頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7ce81c6cccccccfcec4cfcfcbccc4cfcfcbcb",
+            "會議日期": "960511",
+            "立法紀錄": "96卷41期3564號 59-61頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6c9cbcecfcfc4cfcfcac6c4cfcfc9ce",
             "關係文書": []
         }
     ]
