@@ -1,11 +1,11 @@
 {
     "title": "交通部電信總局組織條例",
     "versions": [
-        "中華民國91年6月7日修正",
-        "中華民國91年6月26日公布"
+        "中華民國96年6月14日廢止",
+        "中華民國96年7月4日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -118,42 +118,40 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　配合八十八年十一月三日修正公布之電信法，爰予修正，俾資明確。",
-        "第十條": "　　依八十八年十一月三日修正公布之電信法，電信總局對違反電信法之場所得實施行政檢查，各地區監理站之角色益形重要；但法律上並未賦予任何權責，不符合現代組織分層負責之原則，在不增加電信總局員額之原則下，於第二項增訂各地區電信監理站指派薦任技正、編審或專員兼任科長職務，俾有效管理與運作，並收迅赴事功之效。"
-    },
+    "deprecated_reason": "　　交通部為配合國家通訊傳播委員會成立及「通訊傳播基本法」規定，將承接電信總局執行通訊整體資源之規劃、產業之輔導、獎勵及通訊接近使用及普及服務之配合促進等業務，復因交通部電信總局之業務及員額，已分別移撥至國家通訊傳播委員會及交通部，該總局已無存續之必要。爰修正「交通部組織法」第六條、第十二條及第二十一條規定，調整交通部郵電司之掌理事項，並廢止「交通部電信總局組織條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910409",
-            "立法紀錄": "91卷24期3220號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6ccce81c6cecdcbcfcfc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "960227",
+            "立法紀錄": "96卷19期3542號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cccd81c6c9cec6cfcec4cfcfcfccc4cfcfcfcc",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cbcccfd2cbccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfcec8cec5c9c7d2c8ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910513",
-            "立法紀錄": "91卷47期3243號 3-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6ccce81c6cecbc8cfcfc4cfcfcfccc4cfcfcec6",
+            "會議日期": "960329",
+            "立法紀錄": "96卷28期3551號 407-412頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cccd81c6c9cdc7cfcfc4cfcbcfc8c4cfcbcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號一冊 253-264頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cccd81c6c9cacbcfcec4cfcdcaccc4cfcdc9cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910607",
-            "立法紀錄": "91卷40期3236號二冊 735-744頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6ccce81c6cecbcfcfcdc4cfc8cccac4cfc8cbcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececbcfcbc5cdccc9d2cdcace"
-                ]
-            ]
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號一冊 264-264頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cccd81c6c9cacbcfcec4cfcdc9cbc4cfcdc9cb",
+            "關係文書": []
         }
     ]
 }
