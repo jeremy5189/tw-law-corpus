@@ -1,8 +1,8 @@
 {
     "title": "內政部警政署組織條例",
     "versions": [
-        "中華民國94年11月8日修正",
-        "中華民國94年11月30日公布"
+        "中華民國96年6月5日修正",
+        "中華民國96年7月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本署得設刑事警察局、航空警察局、國道公路警察局、鐵路警察局、港務警察局、保安警察總隊、臺灣保安警察總隊、國家公園警察大隊、空中警察隊、警察電訊所、民防防情指揮管制所、警察廣播電臺、警察機械修理廠及臺灣警察專科學校；其組織，以法律定之。",
+            "content": "　　本署得設刑事警察局、航空警察局、國道公路警察局、鐵路警察局、港務警察局、保安警察總隊、臺灣保安警察總隊、國家公園警察大隊、警察電訊所、民防防情指揮管制所、警察廣播電臺、警察機械修理廠及臺灣警察專科學校；其組織，以法律定之。",
             "relates": {}
         },
         {
@@ -113,55 +113,46 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　一、配合內政部入出國及移民署之成立，原條文第九款有關人民入出境許可業務已移由該署辦理。又現行航空警察局係就「民用航空器」實施安全檢查，爰修正原條文第九款，以資明確。\n　　二、原條文第十款有關外僑居留、停留管理、入出境證照查證等業務已移由內政部入出國及移民署辦理，另考量該署成立後，機場及港區內發生外籍人士涉及走私、偷渡、意外死亡、傷害、交通事故等治安事件，仍由航空警察局及各港務警察局處理，爰將所定「涉外案件處理」，修正為「涉外治安案件處理」，以與外交部及內政部入出國及移民署業務區隔。另為應實際業務需要，如各國駐華使領館及代表機構、官員安全維護等事項，爰修正原條文第十款。",
-        "第五條": "　　配合入出境管理局併入內政部入出國及移民署，爰將「入出境管理局」之機關名稱刪除。",
-        "第七條": "　　一、警政署為配合內政部成立入出國及移民署，需移撥員額如下：\n　　　（一）外事組五人（專員一人、警務正四人）。\n　　　（二）外事警官隊三人（專員一人、警務正二人）。\n　　　（三）後勤組專員一人（兼任宜蘭大陸地區人民處理中心主任職務）。\n　　　（四）行政組專員一人及保防室警務正一人（分別兼任新竹大陸地區人民處理中心主任、副主任職務）。\n　　二、綜上所述，警政署需配合減列各職稱之法定員額為：專員四人、警務正七人，合計十一人。\n　　三、增列第三項：「第三條、第五條及本條第一項條文施行日期，由行政院以命令定之。」"
+        "第五條": "　　按內政部空中勤務總隊業已整併納編警政署空中警察隊，爰修正本條相關文字。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940318",
-            "立法紀錄": "94卷12期3394號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacd81c6cbcecdcfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "950421",
+            "立法紀錄": "95卷20期3481號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacc81c6cacdcfcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcbcfcec5ccc7cfd2cbcfc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecfcfcec5cdcfc9d2cdcfc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940525",
-            "立法紀錄": "94卷42期3424號二冊 3-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacd81c6cbcbcdcfcdc4cfcfcfccc4cfcfccce",
+            "會議日期": "960411",
+            "立法紀錄": "96卷31期3554號 157-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacc81c6c9cccecfcfc4cfcecac8c4cfcec7cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "941108",
-            "立法紀錄": "94卷63期3445號 211-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacd81c6cbc9cccfcfc4cfcdcecec4cfcdcbcc",
+            "會議日期": "960605",
+            "立法紀錄": "96卷48期3571號二冊 558-561頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacc81c6c9cbc7cfcdc4cfcacac7c4cfcac9ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5cac7c6d2c9cccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcbc5c8cfcdd2c8cfcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "941108",
-            "立法紀錄": "94卷63期3445號 254-255頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacd81c6cbc9cccfcfc4cfcdcacbc4cfcdcaca",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "941108",
-            "立法紀錄": "94卷63期3445號 255-256頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacd81c6cbc9cccfcfc4cfcdcacac4cfcdcac9",
+            "會議日期": "960605",
+            "立法紀錄": "96卷48期3571號二冊 561-561頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacc81c6c9cbc7cfcdc4cfcac9cec4cfcac9ce",
             "關係文書": []
         }
     ]
