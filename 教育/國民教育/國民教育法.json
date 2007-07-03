@@ -1,8 +1,8 @@
 {
     "title": "國民教育法",
     "versions": [
-        "中華民國95年1月13日修正",
-        "中華民國95年2月3日公布"
+        "中華民國96年6月14日修正",
+        "中華民國96年7月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -55,6 +55,12 @@
             "note": "(目的之達成與課程之安排)",
             "rule_no": "第七條",
             "content": "　　國民小學及國民中學之課程，應以民族精神教育及國民生活教育為中心，學生身心健全發展為目標，並注重其連貫性。",
+            "relates": {}
+        },
+        {
+            "note": "(提供技藝課程選習)",
+            "rule_no": "第七條 之一",
+            "content": "　　為適應學生個別差異、學習興趣與需要，國民中學三年級學生，應在自由參加之原則下，由學校提供技藝課程選習，加強技藝教育，並得採專案編班方式辦理；其實施辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -197,46 +203,46 @@
         }
     ],
     "law_reasons": {
-        "第八條 之三": "　　一、為兼顧國情需要及政府財政負擔，國民小學及國民中學藝能及活動科目，應採「免費借用制」才符合國民義務教育的本質。\n　　二、增訂第二項，關於國民教育教科圖書之供應制度顯有修正之必要。"
+        "第七條 之一": "　　一、本條新增。\n　　二、為提供國民中學學生生涯試探機會，奠定多元發展基礎，宜鼓勵選習技藝課程，俾利未來之生涯發展，爰增訂國中三年級學生選習技藝課程規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941007",
-            "立法紀錄": "94卷49期3431號 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbccc981c6cbcbc6cfcfc4cfcfcfcac4cfcfcfc9",
-            "主提案": "王幸男",
+            "會議日期": "951020",
+            "立法紀錄": "95卷42期3503號一冊 3-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbccc881c6cacbcdcfcec4cfcfcfccc4cfcfcfcb",
+            "主提案": "藍美津",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcacfcec5cdccccd2cdcbcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcbcfcec5cececbd2cecec8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950102",
-            "立法紀錄": "95卷6期3467號一冊 147-154頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbccc981c6cacfc9cfcec4cfcecbc8c4cfcecacb",
+            "會議日期": "960426",
+            "立法紀錄": "96卷37期3560號 333-347頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbccc881c6c9ccc8cfcfc4cfccccccc4cfcccbc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 377-382頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbccc981c6cacfcacfcec4cfccc8c8c4cfccc7cd",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號一冊 129-132頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbccc881c6c9cacbcfcec4cfcecdc6c4cfcecccd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cecdcbd2cecccf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5cdcbc8d2cdcbc6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 382-382頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbccc981c6cacfcacfcec4cfccc7cdc4cfccc7cd",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號一冊 132-132頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbccc881c6c9cacbcfcec4cfcecccdc4cfcecccd",
             "關係文書": []
         }
     ]
