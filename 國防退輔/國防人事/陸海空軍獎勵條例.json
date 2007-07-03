@@ -1,8 +1,8 @@
 {
     "title": "陸海空軍獎勵條例",
     "versions": [
-        "中華民國91年6月4日修正",
-        "中華民國91年6月26日公布"
+        "中華民國96年6月14日修正",
+        "中華民國96年7月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -84,7 +84,7 @@
         {
             "note": "(獎勵權責及程序)",
             "rule_no": "第十三條",
-            "content": "　　陸、海、空軍現役軍人獎勵權責及程序規定如左：\n　　一、上將由總統核定；中將以下依其隸屬關係，由各級權責單位分別核定。\n　　二、陸海空軍通用獎章及陸海空軍褒狀，由國防部核定；軍種獎章及優勝獎章由各總司令部核定；獎狀以下，得依其隸屬關係，授權下級單位分別核定。\n　　非陸、海、空軍現役軍人或非軍事機關、團體及外國人之獎勵，由關係機關或地方軍政首長轉請國防部核定。",
+            "content": "　　陸、海、空軍現役軍人獎勵權責及程序規定如下：\n　　一、上將由總統核定；中將以下依其隸屬關係，由各級權責單位分別核定。\n　　二、陸海空軍通用獎章及陸海空軍褒狀，由國防部核定；軍種獎章及優勝獎章，由國防部或國防部陸軍司令部、國防部海軍司令部、國防部空軍司令部、國防部聯合後勤司令部、國防部後備司令部核定；獎狀以下，得依其隸屬關係，由下級單位分別核定。\n　　非陸、海、空軍現役軍人或非軍事機關、團體及外國人之獎勵，由中央二級或相當二級以上機關、直轄市政府、直轄市議會、縣（市）政府或縣（市）議會轉請國防部核定。",
             "relates": {}
         },
         {
@@ -137,46 +137,46 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　參加各種戰鬥技能、後勤技能競賽，成績經評定最優，並達到規定標準者，得頒給優勝獎章，爰予修正之。"
+        "第十三條": "　　一、為因應國防部陸軍總司令部、海軍總司令部及空軍總司令部改編為司令部，及實務作業上有關軍種獎章及優勝獎章之核定權責機關，係指國防部或陸軍總司令部、海軍總司令部、空軍總司令部、聯合後勤司令部、後備司令部等編階為上將之司令部，並未包含憲兵司令部，爰配合修正第一項第二款所定軍種獎章及優勝獎章之核定機關名稱。又第一項第二款末句之「授權」二字，與委任、委託之概念無涉，為免滋疑義，爰予刪除。\n　　二、原條文第二項所定「關係機關或地方軍政首長」之用詞未盡明確且不合時宜，經審酌目前實務之作法，關於非現役軍人等之獎勵，係由總統府、國家安全會議、五院、各部（會、處、局、署或同層級之機關）、直轄市政府、直轄市議會、縣（市）政府及縣（市）議會報送國防部，爰配合修正為「中央二級或相當二級以上機關、直轄市政府、直轄市議會、縣（市）政府或縣（市）議會」，以臻明確。\n　　三、其他酌作文字體例之修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910507",
-            "立法紀錄": "91卷31期3227號上冊 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcd81c6cecccecfcec4cfcfceccc4cfcfcecc",
+            "會議日期": "950919",
+            "立法紀錄": "95卷37期3498號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcc81c6caccc8cfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececfcfccc5cac9c8d2cac8cf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcecfcec5cac9c6d2cac7cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910527",
-            "立法紀錄": "91卷50期3246號下冊 5-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcd81c6cecacfcfccc4cfcfcfcac4cfcfcecb",
+            "會議日期": "960319",
+            "立法紀錄": "96卷24期3547號 345-351頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcc81c6c9cdcbcfcfc4cfcccbcac4cfcccace",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 321-323頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcd81c6cecbcfcfcec4cfcccdcec4cfcccdcc",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號一冊 227-233頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcc81c6c9cacbcfcec4cfcdcdc8c4cfcdcccc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcdc5c6cad2cececd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5cdc8c7d2cdc7cd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 337-339頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcd81c6cecbcfcfcec4cfccccc8c4cfccccc6",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號一冊 233-233頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc7cfcc81c6c9cacbcfcec4cfcdccccc4cfcdcccc",
             "關係文書": []
         }
     ]
