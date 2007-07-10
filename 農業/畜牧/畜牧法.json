@@ -1,8 +1,8 @@
 {
     "title": "畜牧法",
     "versions": [
-        "中華民國93年12月24日修正",
-        "中華民國94年1月19日公布"
+        "中華民國96年6月5日修正",
+        "中華民國96年7月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -218,7 +218,7 @@
         {
             "note": "(屠宰之場所及衛生檢查)",
             "rule_no": "第二十九條",
-            "content": "　　屠宰供食用之豬、牛、羊或其他經中央主管機關指定之家畜、家禽，應於屠宰場為之。但經中央主管機關公告之情形者，不在此限。\n　　前項屠宰應申請中央主管機關派員執行屠宰衛生檢查；其檢查規則，由中央主管機關會同中央衛生主管機關定之。\n　　前項屠宰衛生檢查之申請程序、申請時應檢具之文件及停止屠宰檢查之情形，由中央主管機關定之。\n　　中央主管機關應自行或委託財團法人或經訓練合格之執業獸醫師執行前項屠宰衛生檢查。\n　　前項受託之檢查業務，應受中央主管機關之監督考核，其從事此項受託工作之檢查、檢驗及簽發證明文件之人員，就其辦理受託工作事項，以執行公務論，分別負其責任。\n　　中央主管機關為執行第一項屠宰衛生檢查，應訂定收費標準，向屠宰場收取屠宰衛生檢查費用。",
+            "content": "　　屠宰供食用之豬、牛、羊或其他經中央主管機關指定之家畜、家禽，應於屠宰場為之。但經中央主管機關公告之情形者，不在此限。\n　　前項屠宰應申請中央主管機關派員執行屠宰衛生檢查；其檢查規則，由中央主管機關會同中央衛生主管機關定之。\n　　前項屠宰衛生檢查之申請程序、申請時應檢具之文件及停止屠宰檢查之情形，由中央主管機關定之。\n　　中央主管機關應自行或委託財團法人或經訓練合格之執業獸醫師執行前項屠宰衛生檢查。\n　　前項受託之檢查業務，應受中央主管機關之監督考核，其從事此項受託工作之檢查、檢驗及簽發證明文件之人員，就其辦理受託工作事項，以執行公務論，分別負其責任。\n　　中央主管機關為執行第二項屠宰衛生檢查，應編列預算。但派員執行屠宰衛生檢查超過政府機關規定上班時數時，應訂定收費標準，向屠宰場收取屠宰衛生檢查費用。",
             "relates": {}
         },
         {
@@ -349,54 +349,59 @@
         }
     ],
     "law_reasons": {
-        "第三十條": "　　本條第三項為現行屠宰作業規範之授權依據，為符合中央法規標準法第三條命令所使用之名稱，爰將「規範」文字修正為「準則」，以符法制。",
-        "第三十八條": "　　畜牧法九十三年四月十四日修正時增訂第五款罰則、第三款構成要件原未修正，第一項修正為第二項純係誤繕所致。"
+        "第二十九條": "　　一、屠宰業者依法設立政府執行屠宰場之衛生檢查，原規定向屠宰場收取費用，顯不合時宜，應予修正。否則，將會助長私宰的風氣，增加民眾食肉的風險。\n　　二、執行衛生檢查本是政府之職責，為政府公權力之表現，對於違反該條文規定者，同法第三十八、三十九條規定者可以依法懲罰，怎可有收費之規定；執行公務之需要本是政府之職責，向百姓收取規費不合時宜，應予免徵，本項修正為應編列預算支應，但派員執行屠宰衛生檢查超過政府機關規定上班時數時，應訂定收費標準，向屠宰場收取屠宰衛生檢查費用。以符規費法第十三條之規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "931022",
-            "立法紀錄": "93卷44期3378號上冊 3-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c781c6cccbcbcfcec4cfcfcfccc4cfcfcfcb",
-            "主提案": "侯水盛",
+            "會議日期": "950519",
+            "立法紀錄": "95卷29期3490號一冊 3-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c681c6cacdc6cfcec4cfcfcfccc4cfcfcfcb",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cfc8c8cec5c8c7d2c7ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcec5cec9c9d2cec9c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "960118",
+            "立法紀錄": "96卷16期3539號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c681c6c9cec9cfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "曹來旺",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec8cfcec5cdcfced2cdcfcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "931108",
-            "立法紀錄": "93卷47期3381號下冊 263-265頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c781c6cccbc8cfccc4cfcdc9ccc4cfcdc9ca",
+            "會議日期": "960425",
+            "立法紀錄": "96卷37期3560號 235-248頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c681c6c9ccc8cfcfc4cfcdcccac4cfcdcbc7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "931224",
-            "立法紀錄": "94卷1期3383號上冊 45-49頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c781c6cbcfcecfcec4cfcfcbcac4cfcfcbc6",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960605",
+            "立法紀錄": "96卷48期3571號二冊 565-571頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c681c6c9cbc7cfcdc4cfcac9cac4cfcac8ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cfc6cfcdc5ccced2ccc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5cdcaced2cdcac7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "931224",
-            "立法紀錄": "94卷1期3383號上冊 49-50頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c781c6cbcfcecfcec4cfcfcbc6c4cfcfcacf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "931224",
-            "立法紀錄": "94卷1期3383號上冊 50-50頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c781c6cbcfcecfcec4cfcfcacfc4cfcfcacf",
+            "會議日期": "960605",
+            "立法紀錄": "96卷48期3571號二冊 571-572頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c7c9c681c6c9cbc7cfcdc4cfcac8cec4cfcac8cd",
             "關係文書": []
         }
     ]
