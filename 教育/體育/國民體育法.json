@@ -1,8 +1,8 @@
 {
     "title": "國民體育法",
     "versions": [
-        "中華民國92年1月13日修正",
-        "中華民國92年2月6日公布"
+        "中華民國96年6月15日修正",
+        "中華民國96年7月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -84,7 +84,7 @@
         {
             "note": "(優秀選手之培養)",
             "rule_no": "第十三條",
-            "content": "　　政府應建立優秀運動選手之培養制度；其辦法，由中央主管機關定之。\n　　各級學校得遴選優秀運動人才擔任專任運動教練；其任用依教育人員任用條例之規定；其資格，由中央主管機關定之。\n　　本法修正前取得教育部或各級政府招考、儲訓合格聘用之專任運動教練，於本法修正施行後仍未取得前項聘任資格者，其輔導與管理辦法，由中央主管機關定之。\n　　本條第二項所稱專任運動教練，係指各級學校專門從事運動團隊之訓練或比賽指導之工作者。",
+            "content": "　　政府應建立優秀運動選手之培養制度；其辦法，由中央主管機關定之。\n　　各級學校得遴選優秀運動人才擔任專任運動教練；其任用依教育人員任用條例之規定；其資格，由中央主管機關定之；其待遇、服勤、職責、解聘、停聘、不續聘、申訴、福利、進修、成績考核、獎懲、年資晉薪及其他權益事項，由教育部定之。\n　　專任運動教練任用滿三年，經專任運動教練績效評量委員會評量其服務成績不通過者，不予續聘。專任運動教練之退休、撫卹、離職、資遣等事項，依教育人員相關規定辦理。\n　　前項專任運動教練績效評量委員會之組成及審核相關規定，由教育部定之。\n　　本法修正前經教育部、省市教育主管機關甄選、儲訓合格已受聘之現職專任運動教練任職年資及退休年資，於本法修正後應合併計算。\n　　本法修正前取得教育部或各級政府招考、儲訓合格聘用之專任運動教練，於本法修正施行後仍未取得前項聘任者，其輔導與管理辦法，由中央主管機關定之。\n　　第二項所稱專任運動教練，指各級學校專門從事運動團隊之訓練或比賽指導工作之人。",
             "relates": {}
         },
         {
@@ -143,54 +143,82 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　一、原國民體育法第十三條各級政府應建立優秀運動選手之培養制度；其辦法，由中央主管機關定之。目前體育委員會及各級政府聘任之運動教練，其所訓練之選手，大部分屬於青年、青少年學生，其訓練工作，不脫離教育環境，因此，為配合教育人員任用條例修正，將各級學校運動教練納入圍適用對象之同時，亦配合修正本條文，以與教育人員任用條例同步送立法院審議。\n　　二、在本法及教育人員任用條例修定後，相關法規條文尚需配合修正，為對現行行政院體委會聘任之專任運動教練依辦法取得任用資格。\n　　三、第二項及第三項文字修正。"
+        "第十三條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910423",
-            "立法紀錄": "91卷28期3224號上冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ca81c6cecdc7cfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "941118",
+            "立法紀錄": "94卷70期3452號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6cbc8cfcfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5ccc7cbd2ccc7c9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfccc5cdc9c9d2cdc9c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910529",
-            "立法紀錄": "91卷51期3247號上冊 81-99頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ca81c6cecacecfcec4cfcfc7cec4cfcfc6c6",
+            "會議日期": "941214",
+            "立法紀錄": "94卷79期3461號一冊 137-161頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6cbc8c6cfcec4cfceccc8c4cfcec9ce",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "910619",
-            "立法紀錄": "91卷54期3250號下冊 1-12頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ca81c6cecacbcfccc4cfcfcfcec4cfcfcecd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 49-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6cacac6cfcfc4cfcfcbc6c4cfcfcac9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecfcfccc5ccceced2cccec7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "951219",
+            "立法紀錄": "96卷1期3524號 247-247頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cfcecfcfc4cfcdcbc8c4cfcdcbc8",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "911223",
-            "立法紀錄": "92卷6期3280號上冊 183-186頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ca81c6cdcfc9cfcec4cfcec7ccc4cfcec7c9",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "951226",
+            "立法紀錄": "96卷4期3527號 82-82頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cfcbcfcfc4cfcfc7cdc4cfcfc7cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960109",
+            "立法紀錄": "96卷10期3533號二冊 538-538頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cecfcfcdc4cfcaccc7c4cfcaccc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960116",
+            "立法紀錄": "96卷13期3536號一冊 267-267頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cecccfcec4cfcdc9c8c4cfcdc9c8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960615",
+            "立法紀錄": "96卷56期3579號一冊 431-432頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cac9cfcec4cfcbcccec4cfcbcccd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "920113",
-            "立法紀錄": "92卷8期3282號三冊 1021-1028頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9ca81c6cdcfc7cfccc4cecfcdcec4cecfcdc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcec8cfcdc5cec6cfd2cec6c6"
-                ]
-            ]
+            "會議日期": "960615",
+            "立法紀錄": "96卷56期3579號一冊 432-432頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cac9cfcec4cfcbcccdc4cfcbcccd",
+            "關係文書": []
         }
     ]
 }
