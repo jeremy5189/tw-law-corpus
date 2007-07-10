@@ -1,8 +1,8 @@
 {
     "title": "少年輔育院條例",
     "versions": [
-        "中華民國69年12月26日修正",
-        "中華民國70年1月12日公布"
+        "中華民國96年6月15日修正",
+        "中華民國96年7月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -44,7 +44,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　少年輔育院置院長一人，薦任或聘任；綜理全院事務。",
+            "content": "　　少年輔育院置院長一人，薦任第九職等至簡任第十職等或聘任，綜理全院事務。",
             "relates": {}
         },
         {
@@ -351,57 +351,53 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　配合司法行政部更名為法務部。",
-        "第三十九條": "　　配合司法行政部更名為法務部。",
-        "第四十條": "　　配合司法行政部更名為法務部。",
-        "第四十四條": "　　配合司法行政部更名為法務部。",
-        "第五十一條": "　　配合司法行政部更名為法務部。"
+        "第五條": "　　一、法務部目前所屬矯正機關計有監獄、看守所、技能訓練所、少年輔育院、戒治所、少年觀護所及少年矯正學校（以下簡稱監、院、所校）等7種類型機關。\n　　二、監獄、技能訓練所、戒治所等3種機關之組織通則之規定，首長職務均列為薦任第九職等或簡任第十職等，監獄容額二千人以上者，首長得列十一職等及十二職等，副首長亦得列簡任十職等。\n　　三、如以收容人數觀之，部分監獄（如基隆、綠島及台東監獄）或戒治所（新店、台中及高雄戒治所）收容人數尚比少輔院收容人數少，然因監獄組織通則之規定，致使收容人數少之監獄典獄長得列為簡任第十職等，反之，少輔院因受限少年輔育院條例之規定，導致首長無法列簡任第十職等之不合理現象。\n　　四、監、院、所、校均為法務部所屬機關，每逢機關首長輪調（矯正學校除外）或調整職務時，常有簡任監獄典獄長調任薦任院長之情形。雖因業務或個人資歷考量，惟尚須簽署「志願降調同意書」之不合宜現象，未來倘有遇調遷者不同意簽署時，將面臨因調動所造成之爭議情事發生。\n　　五、監所首長大部份均由大監獄簡任副典獄長升任，倘調任少輔院首長時，亦面臨降職等卻升任首長情事。\n　　六、現行監獄組織通則規定監獄之科長職等均得列為薦任九職等，無論大小監獄之科長均與少輔院首長之職等相同，對於責重事繁之少輔院首長而言，似有欠公允。\n　　七、現有法務部矯正機關之監獄，收容人數達二千人以上之副典獄長，均已列為簡任十職等，然而負有機關運作責任之少輔院機關首長，其職等僅列為薦任九職等，實有違公平正義且影響工作士氣。為求暢通人事並符合公平正義以提振士氣，實有將少輔院之機關首長職務均改列至簡任第十職等之必要。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690926",
-            "立法紀錄": "69卷80期1356號 93-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c9cd81c9c6c9cac7cfcfcfc4cfcfc6ccc4cfcfc6cc",
-            "主提案": "行政院",
+            "會議日期": "960316",
+            "立法紀錄": "96卷22期3545號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc8c9cc81c6c9cdcdcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "蔡啟芳",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcdcfcfc5cbcfd2cbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfcbc8cdc5c8ced2c8cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691210",
-            "立法紀錄": "70卷34期1415號 57-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c9cd81c8cfc9c8cccbcfcfc4cfcfcac8c4cfcfcac6",
+            "會議日期": "960510",
+            "立法紀錄": "96卷42期3565號 181-192頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc8c9cc81c6c9cbcdcfcfc4cfcec7cec4cfcec6cd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 50-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c9cd81c9c6c9c9cecfcbcfcfc4cfcfcacfc4cfcfcacb",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號一冊 118-129頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc8c9cc81c6c9cacbcfcec4cfcecec7c4cfcecdc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5c7cfcbd2c7cfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecccfcdc5cdccccd2cdcbca"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 54-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c9cd81c9c6c9c9cecfcbcfcfc4cfcfcacbc4cfcfcacb",
+            "會議日期": "960615",
+            "立法紀錄": "96卷56期3579號一冊 429-431頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc8c9cc81c6c9cac9cfcec4cfcbcdc6c4cfcbccce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 54-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc8c9cd81c9c6c9c9cecfcbcfcfc4cfcfcacbc4cfcfcaca",
+            "會議日期": "960615",
+            "立法紀錄": "96卷56期3579號一冊 431-431頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc8c9cc81c6c9cac9cfcec4cfcbcccec4cfcbccce",
             "關係文書": []
         }
     ]
