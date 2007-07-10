@@ -1,8 +1,8 @@
 {
     "title": "法院組織法",
     "versions": [
-        "中華民國95年12月12日修正",
-        "中華民國95年12月27日公布"
+        "中華民國96年6月15日修正",
+        "中華民國96年7月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -110,13 +110,25 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　地方法院設民事執行處，由法官辦理其事務，其法官在二人以上者，由一人兼任庭長，簡任第十職等至第十一職等或薦任第九職等，監督該處事務。",
+            "content": "　　地方法院設民事執行處，由法官或司法事務官辦理其事務；其法官在二人以上者，由一人兼任庭長，簡任第十職等至第十一職等或薦任第九職等，監督該處事務。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十七條",
-            "content": "　　地方法院設公設辯護人室，置公設辯護人，薦任第七職等至第九職等。其公設辯護人在二人以上者，置主任公設辯護人，薦任第九職等或簡任第十職等至第十一職等。",
+            "content": "　　地方法院設公設辯護人室，置公設辯護人，薦任第七職等至第九職等或簡任第十職等至第十一職等；其公設辯護人在二人以上者，置主任公設辯護人，薦任第九職等或簡任第十職等至第十二職等。\n　　實任公設辯護人服務滿十五年以上，成績優良，經審查合格者，得晉敘至簡任第十二職等。\n　　曾任高等法院或其分院公設辯護人四年以上，調地方法院或其分院之公設辯護人，成績優良，經審查合格者，得晉敘至簡任第十一職等至第十二職等。\n　　前二項之審查辦法，由司法院定之。\n　　具律師資格者於擔任公設辯護人期間，計入其律師執業期間。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十七條 之一",
+            "content": "　　地方法院設司法事務官室，置司法事務官，薦任第七職等至第九職等；司法事務官在二人以上者，置主任司法事務官，薦任第九職等至簡任第十職等。\n　　具律師執業資格者，擔任司法事務官期間，計入其律師執業年資。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十七條 之二",
+            "content": "　　司法事務官辦理左列事務：\n　　一、返還擔保金事件、調解程序事件、督促程序事件、保全程序事件、公示催告程序裁定事件、確定訴訟費用額事件。\n　　二、拘提、管收以外之強制執行事件。\n　　三、非訟事件法及其他法律所定之非訟事件。\n　　四、其他法律所定之事務。\n　　司法事務官辦理前項各款事件之範圍及日期，由司法院定之。\n　　第一項各款事務，未經司法院依前項規定交司法事務官辦理前，得由司法事務官承法官之命辦理之。",
             "relates": {}
         },
         {
@@ -240,7 +252,7 @@
         {
             "note": "",
             "rule_no": "第三十七條",
-            "content": "　　高等法院設公設辯護人室，置公設辯護人，簡任第十職等至第十一職等或薦任第九職等；其公設辯護人在二人以上者，置主任公設辯護人，簡任第十職等至第十二職等。",
+            "content": "　　高等法院設公設辯護人室，置公設辯護人，簡任第十職等至第十一職等或薦任第九職等；其公設辯護人在二人以上者，置主任公設辯護人，簡任第十職等至第十二職等。\n　　前項公設辯護人繼續服務四年以上，成績優良，經審查合格者，得晉敘至簡任第十二職等。\n　　第二項之審查辦法，由司法院定之。",
             "relates": {}
         },
         {
@@ -791,60 +803,85 @@
         }
     ],
     "law_reasons": {
-        "第三十四條": "　　一、配合司法人員人事條例修正第十一條第一項第二款增訂律師執業十二年以上得轉任二審法官、檢察官之規定，爰於第一項後段增列試署法官之官職等，俾順利延攬資深優良律師出任二審法院法官。\n　　二、參照本法第十二條第五項條文用語，酌作文字修正。\n　　三、增列第七項規定，使第十二條第九項，於高等法院準用之。"
+        "第十一條": "　　條文本文不修正，附表增列司法事務官職稱及員額。",
+        "第十六條": "　　照黨團協商條文通過。",
+        "第十七條": "　　照黨團協商條文通過。",
+        "第十七條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
+        "第十七條 之二": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
+        "第三十七條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950428",
-            "立法紀錄": "95卷23期3484號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacdcccfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "親民黨黨團",
+            "會議日期": "950519",
+            "立法紀錄": "95卷29期3490號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6cacdc6cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "徐中雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccececfcec5cecacdd2cecacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcec5c9cfd2c9ca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "951013",
+            "立法紀錄": "95卷40期3501號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6cacbcfcfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "高思博",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcccfcec5cbc7d2cac9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950515",
-            "立法紀錄": "95卷30期3491號 173-203頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacccfcfcfc4cfcec8ccc4cfcdcfcc",
+            "會議日期": "960426",
+            "立法紀錄": "96卷37期3560號 405-405頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9ccc8cfcfc4cfcbcfcac4cfcbcfca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950522",
-            "立法紀錄": "95卷33期3494號 59-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacccccfcfc4cfcfcac6c4cfcfc9cd",
+            "會議日期": "960507",
+            "立法紀錄": "96卷41期3564號 225-256頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cbcecfcfc4cfcdcdcac4cfcdcac9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 103-107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacac6cfcfc4cfcecfccc4cfcecfc8",
+            "會議日期": "960605",
+            "立法紀錄": "96卷48期3571號二冊 419-453頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cbc7cfcdc4cfcbcec6c4cfcbcacc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecfcfcdc5c9cdc9d2c9cdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecccfcdc5cec8ccd2cdcecf"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960615",
+            "立法紀錄": "96卷54期3577號三冊 855-859頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cacbcfccc4cfc7cacac4cfc7cac6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 107-107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacac6cfcfc4cfcecfc8c4cfcecfc8",
+            "會議日期": "960615",
+            "立法紀錄": "96卷54期3577號三冊 859-860頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cacbcfccc4cfc7cac6c4cfc7c9cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 107-107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecd81c6cacac6cfcfc4cfcecfc8c4cfcecfc8",
+            "會議日期": "960615",
+            "立法紀錄": "96卷54期3577號三冊 860-860頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cacbcfccc4cfc7c9cfc4cfc7c9cf",
             "關係文書": []
         }
     ]
