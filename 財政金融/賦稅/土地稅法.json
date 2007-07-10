@@ -1,8 +1,8 @@
 {
     "title": "土地稅法",
     "versions": [
-        "中華民國94年1月21日修正",
-        "中華民國94年1月30日公布"
+        "中華民國96年6月14日修正",
+        "中華民國96年7月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -446,7 +446,7 @@
         {
             "note": "(罰鍰)",
             "rule_no": "第五十四條",
-            "content": "　　納稅義務人藉變更、隱匿地目等則或於減免地價稅或田賦之原因、事實消滅時，未向主管稽徵機關申報者，依左列規定辦理：\n　　一、逃稅或減輕稅賦者，除追補應納部分外，處短匿稅額或賦額三倍之罰鍰。\n　　二、規避繳納實物者，除追補應納部分外，處應繳田賦實物額一倍之罰鍰。\n　　土地買賣未辦竣權利移轉登記，再行出售者，處再行出售移轉現值百分之二之罰鍰。\n　　第一項應追補之稅額或賦額、隨賦徵購實物及罰鍰，納稅義務人應於通知繳納之日起一個月內繳納之；逾期不繳納者，移送法院強制執行。",
+            "content": "　　納稅義務人藉變更、隱匿地目等則或於適用特別稅率、減免地價稅或田賦之原因、事實消滅時，未向主管稽徵機關申報者，依下列規定辦理：\n　　一、逃稅或減輕稅賦者，除追補應納部分外，處短匿稅額或賦額三倍之罰鍰。\n　　二、規避繳納實物者，除追補應納部分外，處應繳田賦實物額一倍之罰鍰。\n　　土地買賣未辦竣權利移轉登記，再行出售者，處再行出售移轉現值百分之二之罰鍰。\n　　第一項應追補之稅額或賦額、隨賦徵購實物及罰鍰，納稅義務人應於通知繳納之日起一個月內繳納之；屆期不繳納者，移送強制執行。",
             "relates": {}
         },
         {
@@ -497,53 +497,46 @@
         }
     ],
     "law_reasons": {
-        "第三十三條": "　　照黨團協商條文通過。"
+        "第五十四條": "　　一、司法院釋字第六一九號解釋意旨，認現行本法施行細則第十五條規定，亦得依本法第五十四條第一項第一款之規定，處以短匿稅額三倍之罰鍰，與法律保留原則之意旨不符，爰參照該解釋意旨修正，以資因應。\n　　二、按本法施行細則第十五條規定「適用特別稅率之原因、事實消滅時，土地所有權人應於三十日內向主管稽徵機關申報，未於限期內申報者，依本法第五十四條第一項第一款之規定辦理。」惟現行本法第五十四條第一項條文中之處罰規定，並未列明「特別稅率」部分，致稽徵機關依本法施行細則第十五條規定裁處後，迭有爭議，爰於第一項序文增列「適用特別稅率」文字，並酌作文字修正。\n　　三、第二項未修正。\n　　四、行政執行法已修正施行，爰將第三項「移送法院強制執行」修正為「移送強制執行」；並酌作文字修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940107",
-            "立法紀錄": "94卷5期3387號上冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcd81c6cbcfcacfcec4cfcfcfcec4cfcfcfce",
+            "會議日期": "960323",
+            "立法紀錄": "96卷25期3548號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcc81c6c9cdcacfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cececfcfc5c7c9d2cecdca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cfcac8cdc5c7cad2c7c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940117",
-            "立法紀錄": "94卷8期3390號 245-283頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcd81c6cbcfc7cfcfc4cfcdcbcac4cfcdc7cc",
+            "會議日期": "960530",
+            "立法紀錄": "96卷50期3573號 283-296頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcc81c6c9cacfcfcfc4cfcdc7ccc4cfcdc6c9",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "940121",
-            "立法紀錄": "94卷7期3389號上冊 225-278頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcd81c6cbcfc8cfcec4cfcdcdcac4cfcdc8c7",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號二冊 629-634頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcc81c6c9cacbcfcdc4cfc9cdc6c4cfc9cccb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecccfcec5cecac8d2cdcecb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec8cfcfc5ccc7d2cbcd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "940121",
-            "立法紀錄": "94卷7期3389號上冊 278-281頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcd81c6cbcfc8cfcec4cfcdc8c7c4cfcdc7ce",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "940121",
-            "立法紀錄": "94卷7期3389號上冊 281-283頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcd81c6cbcfc8cfcec4cfcdc7cec4cfcdc7cc",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號二冊 634-634頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcacbcc81c6c9cacbcfcdc4cfc9cccbc4cfc9cccb",
             "關係文書": []
         }
     ]
