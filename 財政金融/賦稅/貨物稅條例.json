@@ -1,8 +1,8 @@
 {
     "title": "貨物稅條例",
     "versions": [
-        "中華民國91年6月20日修正",
-        "中華民國91年7月17日公布"
+        "中華民國96年6月14日修正",
+        "中華民國96年7月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -200,7 +200,7 @@
         {
             "note": "",
             "rule_no": "第二十九條",
-            "content": "　　產製廠商未依第二十三條規定期限申報計算稅額申報書，而已依第二十五條規定之補報期限申報納稅者，應按其應納稅額加徵百分之十滯報金，金額不得少於新臺幣三千元。\n　　產製廠商逾第二十五條規定補報期限，仍未辦理申報納稅者，應按主管稽徵機關調查核定之應納稅額加徵百分之二十怠報金，金額不得少於新臺幣九千元。\n　　前二項產製廠商無應納稅額者，滯報金為新臺幣三千元，怠報金為新臺幣九千元。",
+            "content": "　　產製廠商未依第二十三條規定期限申報計算稅額申報書，而已依第二十五條規定之補報期限申報納稅者，應按其應納稅額加徵百分之十滯報金，金額不得少於新臺幣三千元，最高不得超過新臺幣三萬元。\n　　產製廠商逾第二十五條規定補報期限，仍未辦理申報納稅者，應按主管稽徵機關調查核定之應納稅額加徵百分之二十怠報金，金額不得少於新臺幣九千元，最高不得超過新臺幣九萬元。\n　　前二項產製廠商無應納稅額者，滯報金為新臺幣三千元，怠報金為新臺幣九千元。",
             "relates": {}
         },
         {
@@ -257,92 +257,47 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、配合行政程序法之施行，貨物稅稽徵規則第八十四條不得退還原納貨物稅之規定，涉及人民權利義務，爰於本條第一項第四款但書規定。\n　　二、貨物稅稽徵規則第八十八條應報繳貨物稅之規定，亦涉及人民權利義務，爰於本條增列第三項及第四項規定。",
-        "第六條": "　　配合行政程序法之施行，爰於本條第三款加入「實心橡膠輪胎」等字。",
-        "第七條": "　　一、配合行政程序法之施行，爰將貨物稅稽徵規則第四條代水泥之定義，納入於本條第二項規定。\n　　二、第二項移列為第三項，並酌作文字修正。",
-        "第八條": "　　一、配合行政程序法之施行，爰將貨物稅稽徵規則第五條設廠機製之定義，納入於本條第三項規定。\n　　二、第三項移列第四項。",
-        "第十二條": "　　一、第一項酌作文字修正。\n　　二、配合行政程序法之施行，爰將貨物稅稽徵規則第七條及第八條供研究發展用之進口車輛、附有特殊裝置供公共安全及公共衛生目的使用之特種車輛之定義，納入於本條第二項、第三項規定。\n　　三、原條文第二項及第三項刪除。",
-        "第二十條": "　　配合行政程序法之施行，原條文有關產製廠商申請登記事項，何種情況應辦理變更登記或註銷登記，文意尚欠明確，易滋混淆，影響人民權利義務，爰參照營業稅法第三十條規定，將本條文字酌作修正，以資明確。",
-        "第三十七條": "　　將修正公布日期列於條文中，使之更為明確。"
+        "第二十九條": "　　一、依司法院釋字第六一六號解釋意旨，加徵滯報金，係對納稅義務人未於法定期限內履行申報義務之制裁，應有合理最高額之限制，以免逾越處罰之必要程度及違反比例原則。爰參照同屬銷售稅性質之「加值型及非加值型營業稅法」第四十九條裁罰金額之上下限比例規定，依原第一項加徵滯報金之最低金額，增訂十倍之金額最高限制。\n　　二、按怠報金之性質與滯報金相同，皆屬違反稅法上之作為義務所處之行為罰，爰參照上開司法院釋字第六一六號解釋意旨，於第二項增列加徵怠報金之金額最高限制。\n　　三、第三項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910423",
-            "立法紀錄": "91卷28期3224號上冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7cb81c6cecdc7cfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "960330",
+            "立法紀錄": "96卷27期3550號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7c981c6c9cdc8cfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cbc9ced2cbc9cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7cb81c6cecccbcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7cb81c6cecccccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "邱毅",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececfcfccc5c8cdc9d2c8cdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7cb81c6cecccccfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "蔡正元",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfcec5ccc7cfd2ccc7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfc9cfcec5cecec7d2cecdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910523",
-            "立法紀錄": "91卷50期3246號上冊 21-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7cb81c6cecacfcfcec4cfcfcdcec4cfcfcccd",
+            "會議日期": "960530",
+            "立法紀錄": "96卷50期3573號 283-296頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7c981c6c9cacfcfcfc4cfcdc7ccc4cfcdc6c9",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "910603",
-            "立法紀錄": "91卷53期3249號上冊 147-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7cb81c6cecacccfcec4cfcecbc8c4cfcecacf",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "910620",
-            "立法紀錄": "91卷45期3241號一冊 319-340頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7cb81c6cecbcacfcec4cfcccec6c4cfcccbcf",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號二冊 622-628頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7c981c6c9cacbcfcdc4cfc9cdcdc4cfc9cdc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcdc5cdcac9d2cdc8cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec8cfcfc5cccfd2ccc9"
                 ]
             ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號二冊 629-629頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac7c981c6c9cacbcfcdc4cfc9cdc6c4cfc9cdc6",
+            "關係文書": []
         }
     ]
 }
