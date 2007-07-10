@@ -1,8 +1,8 @@
 {
     "title": "地方民意代表費用支給及村里長事務補助費補助條例",
     "versions": [
-        "中華民國95年4月28日修正",
-        "中華民國95年5月17日公布"
+        "中華民國96年6月14日修正",
+        "中華民國96年7月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -34,9 +34,9 @@
             "relates": {}
         },
         {
-            "note": "(支領身體檢查費、保險費及特別費之最高標準)",
+            "note": "(支應健康檢查費、保險費及特別費之最高標準)",
             "rule_no": "第五條",
-            "content": "　　地方民意代表因職務關係，得由各該地方民意機關編列預算，支應其健康檢查費、保險費、郵電費、文具費、春節慰勞金及出國考察費。\n　　直轄市議會議長、副議長、縣（市）議會議長、副議長及鄉（鎮、市）民代表會主席、副主席，得由各該地方民意機關編列預算，支應因公支出之特別費。\n　　前二項費用編列最高標準如附表。[附表：]",
+            "content": "　　地方民意代表因職務關係，得由各該地方民意機關編列預算，支應其健康檢查費、保險費、為民服務費、春節慰勞金及出國考察費。\n　　直轄市議會議長、副議長、縣（市）議會議長、副議長及鄉（鎮、市）民代表會主席、副主席，得由各該地方民意機關編列預算，支應因公支出之特別費。\n　　前二項費用編列最高標準如附表。[附表：]",
             "relates": {}
         },
         {
@@ -71,124 +71,46 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　按原議員助理費用標準，在總經費不變下，取消薪給齊一限制，俾能因應個別議員對助理工作質量之多元需求。如議員所需助理工作屬全方位專業性質，議員即須限縮助理聘請人數，始足以高薪網羅是類人員；如議員所需助理工作屬事務性質，則須調降薪給，方能符合實際需要。"
+        "第五條": "　　地方民意代表基於問政、服務選民及協助推動地方政務需要，所需支出費用包括服務處租金、水電費、郵電費、瓦斯費、文具費、禮金、奠儀、急難慰問金、花籃、花圈、喜幛、中堂、輓聯、輓額等支出，均係與其職權行使有關之必要費用，為期合理規範並與實際開支情形相符合，爰於不增加預算金額原則下，將「郵電費」、「文具費」項目名稱合併修正為「為民服務費」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940513",
-            "立法紀錄": "94卷34期3416號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cbcccbcfcfc4cfcfcecec4cfcfcece",
-            "主提案": "李復興",
+            "會議日期": "960302",
+            "立法紀錄": "96卷20期3543號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c681c6c9cdcfcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfccc5cbcec6d2cbcdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940513",
-            "立法紀錄": "94卷34期3416號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cbcccbcfcfc4cfcfcecec4cfcfcece",
-            "主提案": "黃昭順",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcccfcdc5c9cfcfd2c9cfcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940527",
-            "立法紀錄": "94卷40期3422號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cbcbcfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececbcfcec5cdc9cbd2cdc9ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940913",
-            "立法紀錄": "94卷44期3426號一冊 15-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cbcbcbcfcec4cfcfcecac4cfcfceca",
-            "主提案": "費鴻泰",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdc8ccd2cdc8ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941007",
-            "立法紀錄": "94卷49期3431號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cbcbc6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "藍美津",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcacfcec5cecdccd2cecdca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940913",
-            "立法紀錄": "94卷44期3426號一冊 15-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cbcbcbcfcec4cfcfcecac4cfcfcec9",
-            "主提案": "黃昭順",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdc8c8d2cdc8c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941118",
-            "立法紀錄": "94卷70期3452號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cbc8cfcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "李慶安",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfcec5cecccdd2cecccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfcdc8cdc5c8c8d2c7cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950406",
-            "立法紀錄": "95卷18期3479號 167-187頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cacec7cfcfc4cfcec9c8c4cfcec7c8",
+            "會議日期": "960411",
+            "立法紀錄": "96卷31期3554號 157-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c681c6c9cccecfcfc4cfcecac8c4cfcec7cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950428",
-            "立法紀錄": "95卷23期3484號 32-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cacdcccfcfc4cfcfcccdc4cfcfcbcd",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號二冊 577-581頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c681c6c9cacbcfcdc4cfcac8c8c4cfcac7ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccececfcdc5c8d2cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcbc5c8cfcad2c8cfc6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "950428",
-            "立法紀錄": "95卷23期3484號 42-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c781c6cacdcccfcfc4cfcfcbcdc4cfcfcbcd",
+            "會議日期": "960614",
+            "立法紀錄": "96卷54期3577號二冊 581-581頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c6c681c6c9cacbcfcdc4cfcac7cec4cfcac7ce",
             "關係文書": []
         }
     ]
