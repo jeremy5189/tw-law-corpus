@@ -1,8 +1,8 @@
 {
     "title": "總統副總統選舉罷免法",
     "versions": [
-        "中華民國95年5月5日修正",
-        "中華民國95年5月30日公布"
+        "中華民國96年7月19日修正",
+        "中華民國96年8月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -372,7 +372,7 @@
         {
             "note": "",
             "rule_no": "第五十五條",
-            "content": "　　投票所、開票所置主任監察員一人，監察員若干人，監察投票、開票工作。\n　　前項監察員，由各組候選人就所需人數平均推薦，送由直轄市、縣（市）選舉委員會審核派充之，經政黨推薦之候選人，其監察員之推薦，由其推薦之政黨為之，二個以上政黨共同推薦一組候選人者，以一政黨計，並由政黨推薦書所填順序首位之政黨負責處理推薦事宜。同一組候選人或其推薦之政黨得就其所推薦之監察員，指定投票所、開票所，執行投票、開票監察工作，同一投票所、開票所，以指定一人為限。如指定之監察員超過該投票所、開票所規定名額時，以抽籤定之。\n　　主任監察員及推薦不足額之監察員，由直轄市、縣（市）選舉委員會就下列人員遴派之：\n　　一、地方公正人士。\n　　二、各機關（構）、團體、學校人員。\n　　三、大專校院成年學生。\n　　監察員資格、推薦程序及服務規則，由中央選舉委員會定之。",
+            "content": "　　投票所、開票所置主任監察員一人，監察員若干人，監察投票、開票工作。\n　　前項監察員之產生每一投票所，由各組候選人各自推薦一人，送由選舉委員會審核派充之。但經政黨推薦之候選人，由其所屬政黨推薦，二個以上政黨共同推薦一組候選人者，以一政黨計，並由政黨推薦書所填順序首位之政黨負責處理推薦事宜。\n　　主任監察員由選舉委員會就下列人員遴派之：\n　　一、地方公正人士。\n　　二、各機關、團體、學校人員。\n　　三、大專校院成年學生。\n　　監察員資格、推薦程序及服務規則，由中央選舉委員會定之。",
             "relates": {}
         },
         {
@@ -779,62 +779,53 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　一、九十四年二月二日修正公布之刑法，業將第三十六條第三款有關褫奪公權之範圍，刪除有關選舉、罷免、創制、複決等人民參政權之行使，並自九十五年七月一日起施行，爰配合將第一項第一款規定予以刪除，並酌作文字修正。\n　　二、配合第一項之修正，刪除第二項規定。",
-        "第八十六條": "　　一、第一項至第三項未修正。\n　　二、配合刑法第四章章名「共犯」修正為「正犯與共犯」，第四項、第五項爰增列「正犯或」等字。",
-        "第八十九條": "　　一、第一項至第三項、第六項至第九項未修正。\n　　二、配合刑法第四章章名「共犯」修正為「正犯與共犯」，爰將第四項、第五項「共犯」修正為「正犯或共犯」。",
-        "第一百十七條": "　　一、原條文未修正，列為第一項。\n　　二、配合刑法修正條文自九十五年七月一日施行，增列第二項，規定修正條文之施行日期。"
+        "第五十五條": "　　監察員之產生與其能否確實執行投票、開票監察作業，確保選舉結果之公正息息相關。由於候選人所推薦之監察員人數超過所需人數時，原法係採抽籤方式定之，於重大選舉中常使人質疑投票、開票作業是否有瑕疵，故於總統大選中應使各組候選人皆得推薦一名為宜，故修正本條第二、三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950111",
-            "立法紀錄": "95卷5期3466號一冊 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbca81c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "960710",
+            "立法紀錄": "96卷57期3580號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cdcbcb"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcacad2cdcac7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec6cfcec5cec6d2cdcf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3468號一冊 133-134頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbca81c6cacdcacfcec4cfceccccc4cfcecccb",
+            "進度": "委員會審查",
+            "會議日期": "960712",
+            "立法紀錄": "96卷58期3581號 295-314頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac7cfcfc4cfcdc6cac4cfcccecb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3468號一冊 139-141頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbca81c6cacdcacfcec4cfceccc6c4cfcecbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3468號一冊 175-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbca81c6cacdcacfcec4cfcec8cac4cfcec8c9",
-            "關係文書": []
+            "會議日期": "960719",
+            "立法紀錄": "96卷59期3582號 7-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac6cfcfc4cfcfcfc8c4cfcfcece",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec6cfcec5cec9cfd2cec9cb"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3468號一冊 178-179頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbca81c6cacdcacfcec4cfcec8c7c4cfcec8c6",
+            "會議日期": "960719",
+            "立法紀錄": "96卷59期3582號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac6cfcfc4cfcfcecec4cfcfcece",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3468號一冊 179-180頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbca81c6cacdcacfcec4cfcec8c6c4cfcec7cf",
+            "會議日期": "960719",
+            "立法紀錄": "96卷59期3582號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac6cfcfc4cfcfcecec4cfcfcece",
             "關係文書": []
         }
     ]
