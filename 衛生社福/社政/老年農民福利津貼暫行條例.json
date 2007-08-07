@@ -1,8 +1,8 @@
 {
     "title": "老年農民福利津貼暫行條例",
     "versions": [
-        "中華民國94年12月13日修正",
-        "中華民國94年12月28日公布"
+        "中華民國96年7月20日修正",
+        "中華民國96年8月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　符合前條資格條件之老年農民，得申請發給福利津貼，每月新臺幣五千元，發放至本人死亡當月止。\n　　本津貼之發放，經審查合格後，自受理申請日當月起算。\n　　同一期間兼具前條及政府發放之生活補助或津貼之資格條件者，得擇一申領之。\n　　已領取社會保險老年給付者，於本條例八十七年十一月十一日修正公布後再加入農民健康保險者或加入勞工保險之漁會甲類會員，不適用本條例之規定。\n　　不符本條例資格而領取福利津貼者，其溢領之福利津貼應由本人或法定繼承人自事實發生之日起三十日內繳還；未繳還者，應依法追訴。\n　　老年農民福利津貼申領及核發辦法，由中央主管機關定之。",
+            "content": "　　符合前條資格條件之老年農民，自民國九十六年七月一日起得申請發給福利津貼，每月新臺幣六千元，發放至本人死亡當月止。其增加之經費由中央全額負擔。\n　　本津貼之發放，經審查合格後，自受理申請日當月起算。\n　　同一期間兼具前條及政府發放之生活補助或津貼之資格條件者，得擇一申領之。\n　　已領取社會保險老年給付者，於本條例八十七年十一月十一日修正公布後再加入農民健康保險者或加入勞工保險之漁會甲類會員，不適用本條例之規定。\n　　不符本條例資格而領取福利津貼者，其溢領之福利津貼應由本人或法定繼承人自事實發生之日起三十日內繳還；未繳還者，應依法追訴。\n　　老年農民福利津貼申領及核發辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -59,81 +59,62 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　照黨團協商條文通過。",
-        "第六條": "　　照黨團協商條文通過。",
-        "第七條": "　　照黨團協商條文通過。"
+        "第四條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941104",
-            "立法紀錄": "94卷63期3445號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c681c6cbc9cccfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "民進黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc6cfcec5cec6c7d2cdcfcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941104",
-            "立法紀錄": "94卷63期3445號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c681c6cbc9cccfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "無黨團結聯盟黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc6cfcdc5ccc8c9d2ccc8c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941104",
-            "立法紀錄": "94卷63期3445號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c681c6cbc9cccfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "960504",
+            "立法紀錄": "96卷38期3561號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c8cf81c6c9ccc7cfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "翁重鈞",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc6cfcec5cdcfcdd2cdcfcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecec8cdc5ccc8d2cbcf"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "941206",
-            "立法紀錄": "94卷75期3457號一冊 40-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c681c6cbc8cacfcec4cfcfcbcfc4cfcfcbce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecbcfcdc5c8d2ceca"
-                ]
-            ]
+            "會議日期": "960615",
+            "立法紀錄": "96卷56期3579號一冊 412-416頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c8cf81c6c9cac9cfcec4cfcbcecdc4cfcbcec9",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "941209",
-            "立法紀錄": "94卷76期3458號 34-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c681c6cbc8c9cfcfc4cfcfcccbc4cfcfcbcd",
+            "會議日期": "960713",
+            "立法紀錄": "96卷58期3581號 120-120頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c8cf81c6c9cac7cfcfc4cfcecdcfc4cfcecdcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960719",
+            "立法紀錄": "96卷59期3582號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c8cf81c6c9cac6cfcfc4cfcfcfccc4cfcfcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960720",
+            "立法紀錄": "96卷59期3582號 167-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c8cf81c6c9cac6cfcfc4cfcec9c8c4cfcec9c7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "941213",
-            "立法紀錄": "94卷76期3458號 265-267頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c681c6cbc8c9cfcfc4cfcdc9cac4cfcdc9c8",
+            "會議日期": "960720",
+            "立法紀錄": "96卷59期3582號 168-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c8cf81c6c9cac6cfcfc4cfcec9c7c4cfcec9c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "941213",
-            "立法紀錄": "94卷76期3458號 267-271頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c9c681c6cbc8c9cfcfc4cfcdc9c8c4cfcdc8ce",
+            "會議日期": "960720",
+            "立法紀錄": "96卷59期3582號 168-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec7c8cf81c6c9cac6cfcfc4cfcec9c7c4cfcec9c7",
             "關係文書": []
         }
     ]
