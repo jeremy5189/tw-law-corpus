@@ -1,12 +1,12 @@
 {
     "title": "陸軍服制條例",
     "versions": [
-        "中華民國48年3月13日全文修正",
-        "中華民國48年3月24日公布"
+        "中華民國95年1月3日廢止",
+        "中華民國96年11月7日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -112,51 +112,46 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　鑑於現行陸海空軍之制服分別由「陸軍服制條例」、「海軍服制條例」及「空軍服制條例」加以規範，其內容不一，且未將憲兵、海軍陸戰隊制服納入規定，考量國軍當前整體服制實際需要，經檢討合併現行３服制條例，擬具「陸海空軍服制條例」草案，並同時廢止現行３服制條例。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "471114",
-            "立法紀錄": "47卷22期號10冊 9-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc781cbc8cdcdcecfc4cfcfcfc6c4cfcfcfc6",
-            "主提案": "行政院",
+            "會議日期": "940913",
+            "立法紀錄": "94卷44期3426號一冊 21-21頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc681c6cbcbcbcfcec4cfcfcdcec4cfcfcdce",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cac8d2c7c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcdc5cecdcad2cec8cc"
                 ]
             ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "940928",
+            "立法紀錄": "94卷48期3430號二冊 151-166頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc681c6cbcbc7cfcdc4cfcecacec4cfcec9c9",
+            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "480313",
-            "立法紀錄": "48卷23期號4冊 3-26頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc781cbc7cdcccfcbc4cfcfcfccc4cfcfcdc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecdcdcfcdcfcfc5cacdc7d2cacacf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "480116",
-            "立法紀錄": "48卷22期號19冊 52-53頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc781cbc7cdcdcec6c4cfcfcacdc4cfcfcacc",
+            "會議日期": "941220",
+            "立法紀錄": "94卷77期3459號三冊 1069-1124頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc681c6cbc8c8cfccc4cecfc9c6c4cececdcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "480313",
-            "立法紀錄": "48卷23期號4冊 31-44頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc781cbc7cdcccfcbc4cfcfcccec4cfcfcbcb",
+            "會議日期": "950103",
+            "立法紀錄": "95卷2期3463號一冊 266-268頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc681c6cacfcdcfcec4cfcdc9c9c4cfcdc9c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "480313",
-            "立法紀錄": "48卷23期號4冊 44-45頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc781cbc7cdcccfcbc4cfcfcbcbc4cfcfcbca",
+            "會議日期": "950103",
+            "立法紀錄": "95卷2期3463號一冊 268-269頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcdc681c6cacfcdcfcec4cfcdc9c7c4cfcdc9c6",
             "關係文書": []
         }
     ]
