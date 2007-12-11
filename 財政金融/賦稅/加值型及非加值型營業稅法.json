@@ -1,8 +1,8 @@
 {
     "title": "加值型及非加值型營業稅法",
     "versions": [
-        "中華民國95年1月13日修正",
-        "中華民國95年2月3日公布"
+        "中華民國96年11月21日修正",
+        "中華民國96年12月12日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -141,6 +141,12 @@
             "note": "(當期應納或溢付營業稅額之計算)",
             "rule_no": "第十五條",
             "content": "　　營業人當期銷項稅額，扣減進項稅額後之餘額，為當期應納或溢付營業稅額。\n　　營業人因銷貨退回或折讓而退還買受人之營業稅額，應於發生銷貨退回或折讓之當期銷項稅額中扣減之。營業人因進貨退出或折讓而收回之營業稅額，應於發生進貨退出或折讓之當期進項稅額中扣減之。\n　　進項稅額，指營業人購買貨物或勞務時，依規定支付之營業稅額。",
+            "relates": {}
+        },
+        {
+            "note": "(進項稅額之計算)",
+            "rule_no": "第十五條 之一",
+            "content": "　　營業人銷售其向非依本節規定計算稅額者購買之舊乘人小汽車及機車，得以該購入成本，按第十條規定之徵收率計算進項稅額；其計算公式如下：\n　　進項稅額＝購入成本/(１＋徵收率)×徵收率\n　　前項進項稅額，營業人應於申報該輛舊乘人小汽車及機車銷售額之當期，申報扣抵該輛舊乘人小汽車及機車之銷項稅額。但進項稅額超過銷項稅額部分不得扣抵。\n　　營業人於申報第一項進項稅額時，應提示購入該輛舊乘人小汽車及機車之進項憑證。\n　　本條修正公布生效日尚未核課或尚未核課確定者，適用前三項規定辦理。",
             "relates": {}
         },
         {
@@ -453,46 +459,46 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　果菜批發市場之市場管理費屬勞務範圍，符合第八條第十、十一項，故將依農產品市場交易法設立之農產品批發市場之勞務列為免徵營業稅範圍。"
+        "第十五條 之一": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941007",
-            "立法紀錄": "94卷49期3431號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c881c6cbcbc6cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "蔡正元",
+            "會議日期": "960427",
+            "立法紀錄": "96卷35期3558號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c781c6c9cccacfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "羅志明",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcacfcec5cecacad2cec9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecfcfcfc5cecfced2cecfcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "941228",
-            "立法紀錄": "95卷3期3464號 207-237頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c881c6cacfcccfcfc4cfcdcfc8c4cfcdccc8",
+            "會議日期": "960517",
+            "立法紀錄": "96卷45期3568號 1-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c781c6c9cbcacfcfc4cfcfcfcec4cfcfcec7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 367-376頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c881c6cacfcacfcec4cfccc9c8c4cfccc8c9",
+            "會議日期": "961121",
+            "立法紀錄": "96卷80期3603號 283-288頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c781c6c9c7cfcfcfc4cfcdc7ccc4cfcdc7c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cecec9d2cecdcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cececfccc5cac6cfd2cac6cb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 376-376頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c881c6cacfcacfcec4cfccc8c9c4cfccc8c9",
+            "會議日期": "961121",
+            "立法紀錄": "96卷80期3603號 288-288頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c781c6c9c7cfcfcfc4cfcdc7c7c4cfcdc7c7",
             "關係文書": []
         }
     ]
