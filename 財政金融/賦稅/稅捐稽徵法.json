@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國96年3月5日修正",
-        "中華民國96年3月21日公布"
+        "中華民國96年11月21日修正",
+        "中華民國96年12月12日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -152,7 +152,7 @@
         {
             "note": "",
             "rule_no": "第十八條",
-            "content": "　　稅捐稽徵機關為稽徵稅捐所發之各種文書，應受送達人拒絕收受者，稅捐稽徵機關得將文書寄存送達地之自治或警察機關，並作成送達通知書，黏貼於應受送達人之住所、居所、事務所或營業所門首，以為送達。\n　　應受送達人行蹤不明，致文書無從送達者，稅捐稽徵機關應先向戶籍機關查明；如無著落時，應由稅捐稽徵機關保管應送達之文書，而於其牌示處黏貼，並於新聞紙登載公告，曉示應受送達人，應隨時向其領取。\n　　前項公示送達，自將公告黏貼牌示處並自登載新聞紙之日起經二十日，發生送達效力。\n　　繳納稅捐之文書，稅捐稽徵機關，應於該文書所載開始繳納稅捐日期前送達。",
+            "content": "　　繳納稅捐之文書，稅捐稽徵機關應於該文書所載開始繳納稅捐日期前送達。",
             "relates": {}
         },
         {
@@ -441,93 +441,59 @@
         }
     ],
     "law_reasons": {
-        "第二十三條": "　　照黨團協商條文通過。"
+        "第十八條": "　　將原條文第一、二及三項規定刪除，俾一致適用行政程序法之相關規定，以資明確，並符合簡政便民之施政方針。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940916",
-            "立法紀錄": "94卷44期3426號三冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6cbcbcbcfccc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "國民黨黨團",
+            "會議日期": "960316",
+            "立法紀錄": "96卷22期3545號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcd81c6c9cdcdcfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "賴士葆",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcdcfcec5cecec9d2cecec6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfcbcfcec5caccd2caca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "941014",
-            "立法紀錄": "94卷52期3434號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6cbcacdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林滄敏",
+            "會議日期": "960927",
+            "立法紀錄": "96卷63期3586號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcd81c6c9c9cccfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "余政道",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5cececfd2cececc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "951027",
-            "立法紀錄": "95卷44期3505號一冊 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6cacbcbcfcec4cfcfcfcec4cfcfcfcd",
-            "主提案": "沈智慧",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcac8cdc5cec8d2cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cfccc8cdc5cad2c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "951211",
-            "立法紀錄": "96卷2期3525號 45-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cfcdcfcfc4cfcfcbcac4cfcfc8c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "951226",
-            "立法紀錄": "96卷4期3527號 89-107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cfcbcfcfc4cfcfc7c6c4cfcecfc8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecccfcdc5cccbc6d2ccc8ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960109",
-            "立法紀錄": "96卷10期3533號二冊 541-541頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cecfcfcdc4cfcacbcec4cfcacbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960116",
-            "立法紀錄": "96卷13期3536號一冊 269-269頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cecccfcec4cfcdc9c6c4cfcdc9c6",
+            "會議日期": "961015",
+            "立法紀錄": "96卷70期3593號 26-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcd81c6c9c8cfcfcfc4cfcfcdc9c4cfcfccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960305",
-            "立法紀錄": "96卷20期3543號二冊 99-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cdcfcfcdc4cfcfc6c6c4cfcecfce",
-            "關係文書": []
+            "會議日期": "961121",
+            "立法紀錄": "96卷80期3603號 219-228頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcd81c6c9c7cfcfcfc4cfcdcec6c4cfcdcdc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cececfccc5cacdcdd2cacccf"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960305",
-            "立法紀錄": "96卷20期3543號二冊 101-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcf81c6c9cdcfcfcdc4cfcecfcec4cfcecfce",
+            "會議日期": "961121",
+            "立法紀錄": "96卷80期3603號 228-228頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacecbcd81c6c9c7cfcfcfc4cfcdcdc7c4cfcdcdc7",
             "關係文書": []
         }
     ]
