@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國94年1月21日修正",
-        "中華民國94年2月2日公布"
+        "中華民國96年11月30日修正",
+        "中華民國96年12月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,7 +66,7 @@
         {
             "note": "",
             "rule_no": "第十條",
-            "content": "　　立法院依憲法第六十七條之規定，設下列委員會：\n　　一、內政及民族委員會。\n　　二、外交及僑務委員會。\n　　三、科技及資訊委員會。\n　　四、國防委員會。\n　　五、經濟及能源委員會。\n　　六、財政委員會。\n　　七、預算及決算委員會。\n　　八、教育及文化委員會。\n　　九、交通委員會。\n　　十、司法委員會。\n　　十一、法制委員會。\n　　十二、衛生環境及社會福利委員會。\n　　立法院於必要時，得增設特種委員會。",
+            "content": "　　立法院依憲法第六十七條之規定，設下列委員會：\n　　一、內政委員會。\n　　二、外交及國防委員會。\n　　三、經濟委員會。\n　　四、財政委員會。\n　　五、教育及文化委員會。\n　　六、交通委員會。\n　　七、司法及法制委員會。\n　　八、衛生環境及勞工委員會。\n　　立法院於必要時，得增設特種委員會。",
             "relates": {}
         },
         {
@@ -228,7 +228,7 @@
         {
             "note": "",
             "rule_no": "第三十二條",
-            "content": "　　立法委員每人得置公費助理六人至十人，由委員任免；立法院應每年編列每一立法委員一定數額之助理費及其辦公事務預算。公費助理均採聘用制，與委員同進退；其依勞動基準法所規定之相關費用，均由立法院編列預算支應之。",
+            "content": "　　立法委員每人得置公費助理八人至十四人，由委員聘用；立法院應每年編列每一立法委員一定數額之助理費及其辦公事務預算。公費助理與委員同進退；其依勞動基準法所規定之相關費用，均由立法院編列預算支應之。",
             "relates": {}
         },
         {
@@ -252,59 +252,67 @@
         {
             "note": "",
             "rule_no": "第三十五條",
-            "content": "　　本法自公布日施行。\n　　本法中華民國九十四年一月二十一日修正之第三十三條條文，自立法院第六屆立法委員就職日起施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十六年十一月三十日修正之條文，自立法院第七屆立法委員就職日起施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第三十三條": "　　有鑑於黨團在國會政黨政治運作之重要性，為維護黨團協商機制，並充分保障少數席次政黨及弱勢族群權益，爰將第一項及第二項中組成黨團及合組政團人數由現行八人修正為六人。",
-        "第三十五條": "　　配合修正條文第三十三條，明定該條文自立法院第六屆立法委員就職日起施行，以資明確。"
+        "第十條": "　　一、配合立法院委員自第七屆起席次減半，修正第一項常設委員會數目為八個，並酌修其名稱。\n　　二、第二項未修正。",
+        "第三十二條": "　　鑑於席次減半後，個別委員對於立法議事之影響力將更強化，且立法委員選舉改為單一選區制度後，委員更需要加強選區服務工作，連帶助理人力需求也益形迫切。爰修正委員公費助理員額由現行六人至十人修正增加為八人至十四人，以因應委員問政需求；其由立法院編列之預算，立法委員每人之公費助理費每月為新台幣40萬元；另適用勞基法所需加班費、不休假加班費等相關經費每月為新臺幣8萬元。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940120",
-            "立法紀錄": "94卷7期3389號上冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "無黨團結聯盟黨團",
+            "會議日期": "960118",
+            "立法紀錄": "96卷16期3539號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6cd81c6c9cec9cfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecccfcfc5cececcd2cececb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec8cfcec5cdcfcad2cdcfc8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": " ",
-            "立法紀錄": "94卷7期3389號上冊 416-418頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcbcec9c4cfcbcec7",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "940120",
-            "立法紀錄": "94卷7期3389號上冊 1-223頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcfcfcec4cfcdcdcc",
+            "進度": "一讀",
+            "會議日期": "961116",
+            "立法紀錄": "96卷80期3603號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6cd81c6c9c7cfcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
-                    "",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfc9cecccfcdc5cacdcf"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecec8cdc5cecfced2cecdcd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "940121",
-            "立法紀錄": "94卷7期3389號上冊 418-418頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcbcec7c4cfcbcec7",
+            "會議日期": "961121",
+            "立法紀錄": "96卷80期3603號 196-197頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6cd81c6c9c7cfcfcfc4cfcec6c9c4cfcec6c8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "961121",
+            "立法紀錄": "96卷80期3603號 197-212頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6cd81c6c9c7cfcfcfc4cfcec6c8c4cfcdcecd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "961130",
+            "立法紀錄": "96卷83期3606號一冊 41-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6cd81c6c9c7cccfcec4cfcfcbcec4cfcfcbcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "940121",
-            "立法紀錄": "94卷7期3389號上冊 418-418頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6ce81c6cbcfc8cfcec4cfcbcec7c4cfcbcec7",
+            "會議日期": "961130",
+            "立法紀錄": "96卷83期3606號一冊 43-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc7c6cd81c6c9c7cccfcec4cfcfcbccc4cfcfcacd",
             "關係文書": []
         }
     ]
