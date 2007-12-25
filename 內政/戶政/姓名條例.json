@@ -1,8 +1,8 @@
 {
     "title": "姓名條例",
     "versions": [
-        "中華民國92年6月6日修正",
-        "中華民國92年6月25日公布"
+        "中華民國96年12月7日修正",
+        "中華民國96年12月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -42,7 +42,7 @@
         {
             "note": "(改姓冠姓)",
             "rule_no": "第六條",
-            "content": "　　有下列情事之一者，得申請改姓：\n　　一、被認領者。\n　　二、被收養或終止收養者。\n　　三、夫妻離婚，未成年子女姓與行使親權之父或母姓不同者。\n　　四、原住民因改漢姓造成家族姓氏誤植者。\n　　五、其他依法改姓者。\n　　夫妻之一方得申請以其本姓冠以配偶之姓或回復其本姓；其回復本姓者，於同一婚姻關係存續中，以一次為限。",
+            "content": "　　有下列情事之一者，得申請改姓：\n　　一、被認領。\n　　二、被收養或終止收養。\n　　三、原住民因改漢姓造成家族姓氏誤植。\n　　四、其他依法改姓。\n　　夫妻之一方得申請以其本姓冠以配偶之姓或回復其本姓；其回復本姓者，於同一婚姻關係存續中，以一次為限。",
             "relates": {}
         },
         {
@@ -78,7 +78,7 @@
         {
             "note": "(不得申請更改姓名之情形)",
             "rule_no": "第十二條",
-            "content": "　　有下列情事之一者，不得申請改姓、改名或更改姓名：\n　　一、經通緝或羈押者。\n　　二、受宣告強制工作或交付感訓處分之裁判確定者。\n　　三、受有期徒刑以上刑之判決確定而未受緩刑或易科罰金之宣告者。但過失犯罪者，不在此限。\n　　前項第二款及第三款規定不得申請改姓、改名或更改姓名之期間，自裁判確定之日起至執行完畢滿五年止。",
+            "content": "　　有下列情事之一者，不得申請改姓、改名或更改姓名：\n　　一、經通緝或羈押者。\n　　二、受宣告強制工作或交付感訓處分之裁判確定者。\n　　三、受有期徒刑以上刑之判決確定而未受緩刑或易科罰金之宣告者。但過失犯罪者，不在此限。\n　　前項第二款及第三款規定不得申請改姓、改名或更改姓名之期間，自裁判確定之日起至執行完畢滿三年止。",
             "relates": {}
         },
         {
@@ -95,64 +95,99 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　原條文第三項及第四項係規範不同主體之中文姓氏取用原則，為使海外無戶籍國民之外籍配偶與所生子女之中文姓氏有所依循，以減少其申請護照之困擾，並使前開規定主體明確、文字簡潔，爰加以合併修正為第三項，以資明確。",
-        "第二條": "　　一、為兼顧原住民族姓名權之實際需求與維護原住民族傳統文化之功能，爰將原條文第一項但書規定修正移列為第二項，並增列原住民之漢人姓名亦得以傳統姓名之羅馬拼音並列登記。\n　　二、原條文第二項移列為第三項，並酌作文字修正。",
-        "第六條": "　　一、增列第三款。夫妻離婚，未成年子女姓與行使親權之父或母姓不同者。\n　　二、增列第四款。原住民因改漢姓造成家族姓氏誤植者。\n　　三、原條文第三款移列為第五款。",
-        "第十條": "　　增列因被收養或終止收養等法定原因而改姓者，可由辦理收養或終止收養登記之申請人同時申請改姓，毋庸由改姓當事人再親自申請，以資便民。",
-        "第十二條": "　　一、為避免不法人士透過變更姓名逃避犯罪查緝，或再從事不法行為影響社會秩序，爰修正原條文序文。\n　　二、為使文字簡潔，爰修正原條文第二款。\n　　三、基於受緩刑或易科罰金之宣告者，均屬輕罪，依平等原則及比例原則，兩者應有相同之規範，不應以受易科罰金之宣告者未執行而剝奪其姓名變更權，爰修正原條文第三款。\n　　四、原條文第二款、第三款情形，其剝奪申請姓名變更權原無期限規定，亦即終身均不得申請姓名變更；然姓名係人格權之表現，考量比例原則，此一限制允宜明定一定期間，期滿之後則恢復其申請姓名變更之權利，以啟其自新，爰增列修正條文第二項。如此既可落實限制不法人士更名之意旨，兼可保障民眾更名之權益。",
-        "第十四條": "　　本次修正條文自公布日施行，爰配合修正本條規定，以資明確。"
+        "第六條": "　　一、按夫妻離婚後，得行使親權之一方，依本條第一項第三款規定申請為子女改姓時，不必於申請前告知或獲得非行使親權者之同意，致非行使親權者深感不受尊重；且未成年子女如不願改姓，而行使親權者仍執意為之者，反而影響未成年子女之人格發展。另已送立法院審議之民法親屬編修正草案修正條文第一千零五十九條已增列父母離婚、父母之一方或雙方死亡，或生死不明滿三年，且有事實足認子女之姓氏於其人格發展有明顯不利之影響者，法院得依父母之一方或子女之請求，宣告變更子女之姓氏之規定，其適用範圍較廣，可涵蓋本條第一項第三款規定情形，爰刪除該款規定。\n　　二、修正條文第六條第一項第一款及第二款規定，係原條文之規定，其僅係將得申請改姓之情形定明，並未涉及實質身分關係之變動，而得以據以認定為實體規定，故該二款規定，仍予保留。\n　　三、本條第一項第四款及第五款，款次變更為修正條文第一項第三款及第四款。",
+        "第十二條": "　　修正第二項「……至執行完畢滿五年止」為「……至執行完畢滿三年止」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920321",
-            "立法紀錄": "92卷14期3288號上冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6cdcecbcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "950106",
+            "立法紀錄": "95卷4期3465號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6cacfcbcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "林樹山",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cdccc6d2cdcbcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec9cfcec5c6c8d2c6c6"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "920516",
-            "立法紀錄": "92卷29期3303號一冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6cdcdc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "羅志明",
+            "會議日期": "950310",
+            "立法紀錄": "95卷9期3470號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6cacfc6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "陳根德",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecdcfccc5cecbccd2cecbc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfcbcfcec5c7c6d2c6cd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "960413",
+            "立法紀錄": "96卷30期3553號一冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6c9cccfcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfc7cfcec5cecdc9d2cecdc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920529",
-            "立法紀錄": "92卷36期3310號上冊 85-99頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6cdccc9cfcec4cfcfc7cac4cfcfc6c6",
+            "會議日期": "960430",
+            "立法紀錄": "96卷38期3561號 509-519頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6c9ccc7cfcfc4cfcacfc6c4cfcacec6",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "961126",
+            "立法紀錄": "96卷84期3607號 1-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6c9c7cbcfcfc4cfcfcfcec4cfcfcfc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 155-167頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6cdcccbcfccc4cfcecacac4cfcec9c8",
+            "會議日期": "961207",
+            "立法紀錄": "96卷85期3608號 62-67頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6c9c7cacfcfc4cfcfc9cdc4cfcfc9c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5cbc9ccd2cbc8cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecbcfccc5ceced2cec9"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "961207",
+            "立法紀錄": "96卷85期3608號 67-73頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6c9c7cacfcfc4cfcfc9c8c4cfcfc8cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecbcfccc5cec8d2cdcc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 167-167頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6cdcccbcfccc4cfcec9c8c4cfcec9c8",
+            "會議日期": "961207",
+            "立法紀錄": "96卷85期3608號 67-67頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6c9c7cacfcfc4cfcfc9c8c4cfcfc9c8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "961207",
+            "立法紀錄": "96卷85期3608號 73-73頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfcecfc881c6c9c7cacfcfc4cfcfc8ccc4cfcfc8cc",
             "關係文書": []
         }
     ]
