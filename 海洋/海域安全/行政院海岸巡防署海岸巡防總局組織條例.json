@@ -1,8 +1,8 @@
 {
     "title": "行政院海岸巡防署海岸巡防總局組織條例",
     "versions": [
-        "中華民國89年1月14日制定",
-        "中華民國89年1月26日公布"
+        "中華民國96年12月18日修正",
+        "中華民國97年1月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -72,7 +72,7 @@
         {
             "note": "",
             "rule_no": "第十一條",
-            "content": "　　本總局軍職人員之任用，不得逾編制員額五分之四，並應逐年降低其配比；俟本條例施行八年後，本總局人員任用以文職人員為主，文職人員之任用，依公務人員任用法規定辦理。",
+            "content": "（刪除）",
             "relates": {}
         },
         {
@@ -101,81 +101,61 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　照黨團協商條文通過。",
-        "第二條": "　　照黨團協商條文通過。",
-        "第三條": "　　照黨團協商條文通過。",
-        "第四條": "　　照黨團協商條文通過。",
-        "第五條": "　　照黨團協商條文通過。",
-        "第六條": "　　照黨團協商條文通過。",
-        "第七條": "　　照黨團協商條文通過。",
-        "第八條": "　　照黨團協商條文通過。",
-        "第九條": "　　照黨團協商條文通過。",
-        "第十條": "　　照黨團協商條文通過。",
-        "第十一條": "　　照黨團協商條文通過。",
-        "第十二條": "　　照黨團協商條文通過。",
-        "第十三條": "　　照黨團協商條文通過。",
-        "第十四條": "　　照黨團協商條文通過。",
-        "第十五條": "　　照黨團協商條文通過。"
+        "第十一條": "　　一、本條刪除。\n　　二、維持相當比例之軍職人員，提升政策規劃之效率：依行政院海岸巡防總局各地區巡防局組織通則第十二條規定，應任務需要各岸巡總大隊及所屬單位均屬軍職，文職人員僅於各地區巡防局以上機關任職，負責政策規劃及督（指）導業務，而基層總大隊係屬全軍職單位，文職人員並未具上述一線基層單位執勤之實務經驗，且未受相關軍事訓練，在政策規劃及指導、監督上自難以周詳，無法有效遂行任務，實際上有需要維持相當比例之軍職人員。\n　　三、軍職人員陞遷管道順暢，利於海巡業務推行：海巡署及所屬機關如以文職人員為主之任用方式，純軍職單位人員經管培育、陞遷調用權益將受影響，使工作士氣低落，亦將肇生人事經費之擴增及執勤人力老化等問題，對海巡業務之推展，未能有效提升。\n　　四、軍職人員轉任困難，影響人力有效運用：海巡署雖已積極鼓勵軍職人員轉任文職，惟因該署肩負維護國境安全第一線巡防任務，平日工作係採輪班執勤方式，日夜顛倒，僅能利用公餘時間自行進修，無法專心致力於準備考試，致海巡署志願役軍職人員報考海巡特考錄取率低；另受限於該署暨所屬機關之職缺，即使報考之軍職人員錄取率提高，亦無法於短期內完成轉任，致有工作經驗之軍職人力未能有效運用。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881001",
-            "立法紀錄": "88卷42期3042號上冊 7-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c881c7c7cbcdcfcec4cfcfcfc8c4cfcfcfc7",
-            "主提案": "行政院",
+            "會議日期": "960601",
+            "立法紀錄": "96卷48期3571號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c781c6c9cbc7cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "親民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcdcfcec5c9c8ccd2c8cecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecacfcec5cecac6d2cec9cc"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "881117",
-            "立法紀錄": "88卷53期3053號上冊 87-116頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c881c7c7cacccfcec4cfcfc7c8c4cfcecec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "881206",
-            "立法紀錄": "88卷59期3059號上冊 79-121頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c881c7c7cac6cfcec4cfcfc8c6c4cfcecdce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "881208",
-            "立法紀錄": "88卷59期3059號上冊 122-178頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c881c7c7cac6cfcec4cfcecdcdc4cfcec8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "891114",
-            "立法紀錄": "89卷9期3068號二冊 247-311頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c881c7c6cfc6cfcdc4cfcdcbc8c4cfcccece",
+            "進度": "一讀",
+            "會議日期": "960928",
+            "立法紀錄": "96卷63期3586號 108-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c781c6c9c9cccfcfc4cfcecfc7c4cfcecfc7",
+            "主提案": "行政院",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecdcfcdc5c9c7ced2c8cccb"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cfcbc8cdc5c8ccd2c7cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "891114",
-            "立法紀錄": "89卷9期3068號二冊 324-327頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c881c7c6cfc6cfcdc4cfcccdcbc4cfcccdc8",
+            "會議日期": "961204",
+            "立法紀錄": "96卷83期3606號四冊 1145-1152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c781c6c9c7cccfcbc4cececbcac4cececacd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "961211",
+            "立法紀錄": "96卷85期3608號 150-151頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c781c6c9c7cacfcfc4cfcecacfc4cfcecace",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "961218",
+            "立法紀錄": "96卷86期3609號二冊 378-380頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c781c6c9c7c9cfcdc4cfccc8c7c4cfccc7cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "891114",
-            "立法紀錄": "89卷9期3068號二冊 327-327頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c881c7c6cfc6cfcdc4cfcccdc8c4cfcccdc8",
+            "會議日期": "961218",
+            "立法紀錄": "96卷86期3609號二冊 380-380頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccfc6c781c6c9c7c9cfcdc4cfccc7cfc4cfccc7cf",
             "關係文書": []
         }
     ]
