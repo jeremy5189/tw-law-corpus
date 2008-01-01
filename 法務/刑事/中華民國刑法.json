@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國96年1月12日修正",
-        "中華民國96年1月24日公布"
+        "中華民國96年12月18日修正",
+        "中華民國97年1月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -1258,7 +1258,7 @@
         {
             "note": "",
             "rule_no": "第一百八十五條 之三",
-            "content": "　　服用毒品、麻醉藥品、酒類或其他相類之物，不能安全駕駛動力交通工具而駕駛者，處一年以下有期徒刑、拘役或三萬元以下罰金。",
+            "content": "　　服用毒品、麻醉藥品、酒類或其他相類之物，不能安全駕駛動力交通工具而駕駛者，處一年以下有期徒刑、拘役或科或併科十五萬元以下罰金。",
             "relates": {}
         },
         {
@@ -2591,60 +2591,67 @@
         }
     ],
     "law_reasons": {
-        "第一百四十六條": "　　一、公職人員經由各選舉區選出，自應獲得各該選舉區居民多數之支持與認同，始具實質代表性，若以遷徙戶籍但未實際居住戶籍地之方式，取得投票權參與投票，其影響戕害民主選舉之精神甚深。\n　　二、為導正選舉風氣，爰增訂第二項：「意圖使特定候選人當選，以虛偽遷徙戶籍取得投票權而為投票者，亦同。」。\n　　三、現未實際居住於戶籍地者有數百萬人，其因就業、就學、服兵役未實際居住於戶籍地，或為子女學區、農保、都會區福利給付優渥、保席次或其他因素而遷籍於未實際居住地，其原因不一。然此與意圖支持特定候選人當選，進而遷徙戶籍之情形不同，並非所有籍在人不在參與投票均須以刑罰相繩，是以第二項以意圖使特定候選人當選虛偽遷徙戶籍投票者，為處罰之對象。\n　　四、原第二項改列為第三項，並將句首之「前項」修正為：「前二項」。"
+        "第一百八十五條 之三": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "951110",
-            "立法紀錄": "95卷48期3509號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6cacbc7cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "黃健庭",
+            "會議日期": "950310",
+            "立法紀錄": "95卷9期3470號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6cacfc6cfcfc4cfcfcfcec4cfcfcfcd",
+            "主提案": "謝國樑",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfc8c8cdc5cbcad2cbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfcbcfcec5c8c8d2c7cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "951204",
-            "立法紀錄": "95卷58期3519號 49-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6cacac7cfcfc4cfcfcbc6c4cfcfc7cf",
+            "會議日期": "950426",
+            "立法紀錄": "95卷24期3485號 397-403頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6cacdcbcfcfc4cfccc6c8c4cfcbcfcc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960103",
-            "立法紀錄": "96卷12期3535號 262-269頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6c9cecdcfcfc4cfcdc9cdc4cfcdc9c6",
+            "會議日期": "951019",
+            "立法紀錄": "95卷43期3504號二冊 155-174頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6cacbcccfcdc4cfcecacac4cfcec8cb",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960112",
-            "立法紀錄": "96卷13期3536號一冊 75-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6c9cecccfcec4cfcfc8cac4cfcfc7cf",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "961204",
+            "立法紀錄": "96卷83期3606號四冊 1138-1145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6c9c7cccfcbc4cececcc7c4cececbca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec9cfcdc5ccc8d2cbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecccfccc5cdc8ced2cdc8c6"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960112",
-            "立法紀錄": "96卷13期3536號一冊 80-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6c9cecccfcec4cfcfc7cfc4cfcfc7cf",
+            "會議日期": "961211",
+            "立法紀錄": "96卷85期3608號 150-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6c9c7cacfcfc4cfcecacfc4cfcecacf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "961218",
+            "立法紀錄": "96卷86期3609號二冊 376-377頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6c9c7c9cfcdc4cfccc8c9c4cfccc8c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "960112",
-            "立法紀錄": "96卷13期3536號一冊 80-80頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbcb81c6c9cecccfcec4cfcfc7cfc4cfcfc7cf",
+            "會議日期": "961218",
+            "立法紀錄": "96卷86期3609號二冊 377-377頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6c9c7c9cfcdc4cfccc8c8c4cfccc8c8",
             "關係文書": []
         }
     ]
