@@ -1,8 +1,8 @@
 {
     "title": "職業學校法",
     "versions": [
-        "中華民國93年6月4日修正",
-        "中華民國93年6月23日公布"
+        "中華民國96年12月14日修正",
+        "中華民國97年1月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -120,7 +120,7 @@
         {
             "note": "(教師之聘任)",
             "rule_no": "第十一條",
-            "content": "　　職業學校教師，由校長聘任之，應為專任。\n　　職業學校得置技術及專業教師，遴聘富有實際經驗之人員，以擔任專業或技術科目之教學；其分級、資格、聘任、解聘、停聘、不續聘、申訴、待遇、福利、進修、退休、撫卹、資遣、年資晉薪及其他權益事項之辦法，由教育部定之。\n　　職業學校職員由校長任用之，報請各該主管教育行政機關備查。",
+            "content": "　　職業學校教師應為專任。但有特殊情形者，得聘請兼任教師；教師之聘任應依教師法之規定辦理。\n　　公立職業學校教師出缺時，得經教師評審委員會決議報主管教育行政機關辦理介聘後，由校長直接聘任。\n　　主管教育行政機關依前項規定辦理職業學校教師之介聘，得自行或聯合組成介聘小組辦理；其介聘小組之組織、介聘條件及運作之辦法，由各該主管教育行政機關定之。\n　　職業學校得置技術及專業教師，遴聘富有實際經驗之人員，以擔任專業或技術科目之教學；其分級、資格、聘任、解聘、停聘、不續聘、申訴、待遇、福利、進修、退休、撫卹、資遣、年資晉薪及其他權益事項之辦法，由教育部定之。\n　　職業學校職員由校長任用之，報請各該主管教育行政機關備查。",
             "relates": {}
         },
         {
@@ -173,53 +173,53 @@
         }
     ],
     "law_reasons": {
-        "第十五條": "　　一、原條文第一項有關不收學費之規定納入修正條文第一項中規範，爰予刪除；另有關設獎學金之規定因不怠規定，予以刪除。原條文第二項酌作文字修正後移列為修正條文第一項。\n　　二、目前公立職業學校係採公務預算型態編列，一切收支均需透過公庫統收統支，故推廣教育等收入應一律繳庫，相關支出則仍需於歲出額度內容納編列，造成學校原有經費之排擠效應，致影響學校開放場地及運動設施供外界借用或經營意願，又以上各項收支因非屬常態性，事先不易作精確之預估據以編列預算，導致實際執行上常發生財務處理上之困難，爰有必要放寬其相關收支之運用彈性，俾因應實際需要及提升學校積極開源之誘因，故增列於第二項。\n　　三、增訂第三項，收支管理作業規定之訂定機關。"
+        "第十一條": "　　一、國民中、小學現職教師得依國民教育法第十八條以遷調、介聘方式申請調動。\n　　二、職業學校於實務上仍有聘請兼任教師之事實與必要。爰將本條修正為與「高級中學法第二十一條」相同之文字，以求一致。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "930507",
-            "立法紀錄": "93卷26期3360號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cf81c6cccdc9cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "彭添富",
+            "會議日期": "961109",
+            "立法紀錄": "96卷78期3601號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c8c7cfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacececfcdc5cecfc7d2cececf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cfc6c8cdc5cecfced2cecbcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "930519",
-            "立法紀錄": "93卷30期3364號 133-141頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cf81c6cccccfcfcfc4cfceccccc4cfcecbce",
+            "會議日期": "961205",
+            "立法紀錄": "96卷84期3607號 341-347頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c7cbcfcfc4cfcccbcec4cfcccbc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 56-61頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cf81c6cccccccfcec4cfcfcac9c4cfcfc9ce",
+            "會議日期": "961214",
+            "立法紀錄": "96卷86期3609號一冊 96-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c7c9cfcec4cfcfc6c9c4cfcecfcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5cdccd2cccf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecacfccc5c9c7d2c8ce"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 61-62頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cf81c6cccccccfcec4cfcfc9cec4cfcfc9cd",
+            "會議日期": "961214",
+            "立法紀錄": "96卷86期3609號一冊 100-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c7c9cfcec4cfcecfcfc4cfcecfcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 62-62頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cf81c6cccccccfcec4cfcfc9cdc4cfcfc9cd",
+            "會議日期": "961214",
+            "立法紀錄": "96卷86期3609號一冊 100-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c7c9cfcec4cfcecfcfc4cfcecfcf",
             "關係文書": []
         }
     ]
