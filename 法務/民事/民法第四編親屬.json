@@ -1,7 +1,7 @@
 {
     "title": "民法第四編親屬",
     "versions": [
-        "中華民國96年12月21日修正",
+        "中華民國96年12月19日修正",
         "中華民國97年1月9日公布"
     ],
     "types": [
@@ -1210,7 +1210,7 @@
         {
             "note": "(扶養方法之決定)",
             "rule_no": "第一千一百二十條",
-            "content": "　　扶養之方法，由當事人協議定之；不能協議時，由親屬會議定之。但扶養費之給付，當事人不能協議時，由法院定之。",
+            "content": "　　扶養之方法，由當事人協議定之；不能協議時，由親屬會議定之。",
             "relates": {}
         },
         {
@@ -1325,60 +1325,46 @@
         }
     ],
     "law_reasons": {
-        "第一千一百二十條": "　　照黨團協商條文通過。"
+        "第一千零五十二條": "　　一、第一項第三款係採有責主義，夫妻之一方有該款所列情形者，他方得向法院請求離婚，因原第三款語意有欠明確，爰予修正。\n　　二、第一項第四款僅規範夫妻之一方對他方之直系尊親屬為虐待致不堪為共同生活時，他方得向法院請求離婚，至於夫妻之一方對他方之直系卑親屬虐待致不堪共同生活時，他方並未能依本款請求離婚，有失公允；又考量目前虐童案件頻傳，為兼顧其他家族成員及未成年子女之利益，爰修正本款前段規定。次查原第四款係指夫妻一方之直系親屬虐待他方致不堪為共同生活時，他方得請求離婚，因原第四款後段文字語意未臻明確，易生誤會，爰予修正俾利適用。\n　　三、第一項第五款、第六款及第二項酌予文字修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "961026",
-            "立法紀錄": "96卷73期3596號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cac881c6c9c8cccfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "楊芳婉",
+            "會議日期": "961102",
+            "立法紀錄": "96卷76期3599號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7caca81c6c9c8c9cfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cfc7c8cdc5cad2c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cfc6c8cdc5c6d2cecd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "961112",
-            "立法紀錄": "96卷79期3602號 179-184頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cac881c6c9c8c6cfcfc4cfcec8c6c4cfcec7cb",
+            "會議日期": "961213",
+            "立法紀錄": "96卷87期3610號 137-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7caca81c6c9c7c8cfcfc4cfceccc8c4cfcecacd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "961112",
-            "立法紀錄": "96卷85期3608號 153-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cac881c6c9c7cacfcfc4cfcecaccc4cfcecac9",
+            "會議日期": "961219",
+            "立法紀錄": "96卷88期3611號一冊 147-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7caca81c6c9c7c7cfcec4cfcecbc8c4cfcecacf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecbcfccc5c8cad2c8c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cec9cfcdc5ccc8cfd2ccc8cc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961218",
-            "立法紀錄": "96卷86期3609號二冊 382-383頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cac881c6c9c7c9cfcdc4cfccc7cdc4cfccc7cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cac881c6c9c7c7cfcdc4cfcfcfcbc4cfcfcfca",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cac881c6c9c7c7cfcdc4cfcfcfcac4cfcfcfca",
+            "會議日期": "961219",
+            "立法紀錄": "96卷88期3611號一冊 150-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7caca81c6c9c7c7cfcec4cfcecacfc4cfcecacf",
             "關係文書": []
         }
     ]
