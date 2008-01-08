@@ -1,8 +1,8 @@
 {
     "title": "預算法",
     "versions": [
-        "中華民國96年12月7日修正",
-        "中華民國96年12月26日公布"
+        "中華民國96年12月21日修正",
+        "中華民國97年1月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -592,7 +592,7 @@
         {
             "note": "(司法概算之編列)",
             "rule_no": "第九十三條",
-            "content": "　　司法院得獨立編列司法概算。\n　　行政院就司法院所提之年度司法概算，得加註意見，編入中央政府總預算案，併送立法院審議。\n　　司法院院長認為必要時，得請求列席立法院全院各委員會聯席會議。",
+            "content": "　　司法院得獨立編列司法概算。\n　　行政院就司法院所提之年度司法概算，得加註意見，編入中央政府總預算案，併送立法院審議。\n　　司法院院長認為必要時，得請求列席立法院司法及法制委員會會議。",
             "relates": {}
         },
         {
@@ -639,34 +639,34 @@
         }
     ],
     "law_reasons": {
-        "第五十三條": "　　一、為提高議事效率，將審查總預算案之程序予以簡化，刪除應經全院各委員會聯席會議審查規定，並酌作文字修正。\n　　二、參照預算法第四十八條規定，增列第二項明定各委員會審查總預算案時，各機關首長有應邀列席報告、備詢及提供有關資料之義務。"
+        "第九十三條": "　　配合簡化總預算案審查，刪除全院各委員會聯席會議審查規定，修正第三項，改為司法院院長認為必要時，得請求列席立法院司法及法制委員會會議。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "961207",
-            "立法紀錄": "96卷85期3608號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6c681c6c9c7cacfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "961214",
+            "立法紀錄": "96卷86期3609號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcf81c6c9c7c9cfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecbc8cdc5cdcad2cac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecac8cdc5cbcad2cbc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "961207",
-            "立法紀錄": "96卷85期3608號 135-135頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6c681c6c9c7cacfcfc4cfcecccac4cfceccca",
+            "會議日期": "961221",
+            "立法紀錄": "96卷88期3611號二冊 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcf81c6c9c7c7cfcdc4cfcfcfcac4cfcfcfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "961207",
-            "立法紀錄": "96卷85期3608號 135-135頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc6c681c6c9c7cacfcfc4cfcecccac4cfceccca",
+            "會議日期": "961221",
+            "立法紀錄": "96卷88期3611號二冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcf81c6c9c7c7cfcdc4cfcfcfc9c4cfcfcfc9",
             "關係文書": []
         }
     ]
