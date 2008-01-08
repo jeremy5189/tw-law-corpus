@@ -1,8 +1,8 @@
 {
     "title": "國營事業管理法",
     "versions": [
-        "中華民國91年5月24日修正",
-        "中華民國91年6月19日公布"
+        "中華民國96年12月21日修正",
+        "中華民國97年1月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,7 +28,7 @@
         {
             "note": "(國營事業之定義)",
             "rule_no": "第三條",
-            "content": "　　本法所稱國營事業如左：\n　　一、政府獨資經營者。\n　　二、依事業組織特別法之規定，由政府與人民合資經營者。\n　　三、依公司法之規定，由政府與人民合資經營，政府資本超過百分之五十者。\n　　其與外人合資經營，訂有契約者，依其規定。",
+            "content": "　　本法所稱國營事業如下：\n　　一、政府獨資經營者。\n　　二、依事業組織特別法之規定，由政府與人民合資經營者。\n　　三、依公司法之規定，由政府與人民合資經營，政府資本超過百分之五十者。\n　　其與外人合資經營，訂有契約者，依其規定。\n　　政府資本未超過百分之五十，但由政府指派公股代表擔任董事長或總經理者，立法院得要求該公司董事長或總經理至立法院報告股東大會通過之預算及營運狀況，並備詢。",
             "relates": {}
         },
         {
@@ -259,40 +259,102 @@
         }
     ],
     "law_reasons": {
-        "第三十五條": "　　第一項後段增列董事監察人或理監事兼任之禁止規定。"
+        "第三條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910319",
-            "立法紀錄": "91卷18期3214號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c681c6cecec7cfcfc4cfcfcfc9c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "940913",
+            "立法紀錄": "94卷44期3426號一冊 16-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6cbcbcbcfcec4cfcfcec9c4cfcfcec9",
+            "主提案": "徐耀昌",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcccfcec5cbc9c6d2cbc8cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdc7ced2cdc7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "940923",
+            "立法紀錄": "94卷45期3427號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6cbcbcacfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "親民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcec5cdcdccd2cdcdcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910429",
-            "立法紀錄": "91卷43期3239號下冊 177-190頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c681c6cecbcccfccc4cfcec8c8c4cfcec6cf",
+            "會議日期": "941219",
+            "立法紀錄": "95卷1期3462號一冊 45-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6cacfcecfcec4cfcfcbcac4cfcfc9cc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "941226",
+            "立法紀錄": "95卷2期3463號二冊 301-301頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6cacfcdcfcdc4cfcccfcec4cfcccfce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "951212",
+            "立法紀錄": "95卷59期3520號 87-95頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6cacac6cfcfc4cfcfc7c8c4cfcfc6ca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecfcfcdc5c9cecfd2c9cec7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "951219",
+            "立法紀錄": "96卷1期3524號 248-248頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6c9cfcecfcfc4cfcdcbc7c4cfcdcbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "951226",
+            "立法紀錄": "96卷4期3527號 82-82頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6c9cfcbcfcfc4cfcfc7cdc4cfcfc7cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960109",
+            "立法紀錄": "96卷10期3533號二冊 538-538頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6c9cecfcfcdc4cfcaccc7c4cfcaccc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "960116",
+            "立法紀錄": "96卷13期3536號一冊 268-268頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6c9cecccfcec4cfcdc9c7c4cfcdc9c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "961221",
+            "立法紀錄": "96卷88期3611號二冊 101-102頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6c9c7c7cfcdc4cfcecfcec4cfcecfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910524",
-            "立法紀錄": "91卷37期3233號上冊 42-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec9c681c6ceccc8cfcec4cfcfcbcdc4cfcfcbc8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececccfcdc5cdcdced2cdcdc9"
-                ]
-            ]
+            "會議日期": "961221",
+            "立法紀錄": "96卷88期3611號二冊 102-102頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cbcec8ce81c6c9c7c7cfcdc4cfcecfcdc4cfcecfcd",
+            "關係文書": []
         }
     ]
 }
