@@ -1,8 +1,8 @@
 {
     "title": "總統副總統選舉罷免法",
     "versions": [
-        "中華民國96年7月19日修正",
-        "中華民國96年8月8日公布"
+        "中華民國96年12月20日修正",
+        "中華民國97年1月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -402,7 +402,7 @@
         {
             "note": "",
             "rule_no": "第六十條",
-            "content": "　　選舉票有下列情事之一者，無效：\n　　一、不用選舉委員會製發之選舉票者。\n　　二、未依前條第一項規定圈選一組者。\n　　三、所圈位置全部於圈選欄外或不能辨別為何組者。\n　　四、圈後加以塗改者。\n　　五、簽名、蓋章、按指印、加入任何文字或符號者。\n　　六、將選舉票撕破致不完整者。\n　　七、將選舉票污染致不能辨別所圈選為何組者。\n　　八、不用選舉委員會製備之圈選工具者。\n　　前項無效票，應由開票所主任管理員會同主任監察員認定；認定有爭議時，由全體監察員表決之。表決結果正反意見同數者，該選舉票應為有效。",
+            "content": "　　選舉票有下列情事之一者，無效：\n　　一、不用選舉委員會製發之選舉票。\n　　二、未依前條第一項規定圈選一組。\n　　三、所圈位置不能辨別為何組。\n　　四、圈後加以塗改。\n　　五、簽名、蓋章、按指印、加入任何文字或符號。\n　　六、將選舉票撕破致不完整。\n　　七、將選舉票污染致不能辨別所圈選為何組。\n　　八、不用選舉委員會製備之圈選工具。\n　　前項無效票，應由開票所主任管理員會同主任監察員認定；認定有爭議時，由全體監察員表決之。表決結果正反意見同數者，該選舉票應為有效。\n　　本條文九十六年十二月二十日修正條文，自公布日施行，不適用第一百十五條之規定。",
             "relates": {}
         },
         {
@@ -425,6 +425,12 @@
             "note": "",
             "rule_no": "第六十三條",
             "content": "　　選舉結果以候選人得票最多之一組為當選；得票相同時，應自投票之日起三十日內重行投票。\n　　候選人僅有一組時，其得票數須達選舉人總數百分之二十以上，始為當選。選舉結果未能當選時，應自投票之日起三個月內，完成重行選舉投票。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第六十三條 之一",
+            "content": "　　選舉結果得票數最高與次高之候選人得票數差距，在有效票數千分之三以內時，次高票之候選人得於投票日後七日內，向第一百十條規定之管轄法院聲請查封全部或一部分投票所之選舉人名冊及選舉票，就查封之投票所於四十日內完成重新計票，並將重新計票結果通知中央選舉委員會。中央選舉委員會應於七日內依管轄法院重新計票結果，重行審定選舉結果。審定結果，有不應當選而已公告當選之情形，應予撤銷；有應當選而未予公告之情形，應重行公告。\n　　前項聲請，應以書面載明重新計票之投票所，並繳納一定金額之保證金；其數額以投票所之投票數每票新臺幣三元計。\n　　重新計票由管轄法院選定地點，就查封之投票所選舉人名冊及選舉票逐張認定。\n　　管轄法院辦理重新計票，應通知各候選人或其指定人員到場，並得指揮直轄市、縣（市）選舉委員會、鄉（鎮、市、區）公所及投票所工作人員協助。\n　　重新計票結果未改變當選或落選時，第二項保證金不予發還；重新計票結果改變當選或落選時，保證金應予發還。\n　　任何人提起選舉訴訟時，依第一項規定查封之投票所選舉人名冊及選舉票，不得聲請重新計票。\n　　第一項辦理重新計票所需費用，由中央選舉委員會編列預算負擔之。\n　　本條文九十六年十二月二十日修正條文，自公布日施行，不適用第一百十五條之規定。",
             "relates": {}
         },
         {
@@ -779,53 +785,118 @@
         }
     ],
     "law_reasons": {
-        "第五十五條": "　　監察員之產生與其能否確實執行投票、開票監察作業，確保選舉結果之公正息息相關。由於候選人所推薦之監察員人數超過所需人數時，原法係採抽籤方式定之，於重大選舉中常使人質疑投票、開票作業是否有瑕疵，故於總統大選中應使各組候選人皆得推薦一名為宜，故修正本條第二、三項。"
+        "第六十條": "　　照黨團協商條文通過。",
+        "第六十三條 之一": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "960710",
-            "立法紀錄": "96卷57期3580號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac8cfcec4cfcfcfcec4cfcfcfce",
+            "會議日期": "960302",
+            "立法紀錄": "96卷20期3543號一冊 9-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9cdcfcfcec4cfcfcfc6c4cfcfcece",
             "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec6cfcec5cec6d2cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfc9cfcec5cec9c8d2cec8c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "960511",
+            "立法紀錄": "96卷41期3564號 28-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9cbcecfcfc4cfcfcdc7c4cfcfccce",
+            "主提案": "民進黨黨團",
+            "關係文書": []
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "960608",
+            "立法紀錄": "96卷52期3572號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9cacdcfcfc4cfcfcfccc4cfcfcfcc",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec9cfcec5cec6cad2cec6c8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960712",
-            "立法紀錄": "96卷58期3581號 295-314頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac7cfcfc4cfcdc6cac4cfcccecb",
+            "會議日期": "961003",
+            "立法紀錄": "96卷66期3589號 331-353頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c9c9cfcfc4cfcccccec4cfcccacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "960713",
+            "立法紀錄": "96卷58期3581號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9cac7cfcfc4cfcfcfcec4cfcfcfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "960719",
-            "立法紀錄": "96卷59期3582號 7-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac6cfcfc4cfcfcfc8c4cfcfcece",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec6cfcec5cec9cfd2cec9cb"
-                ]
-            ]
+            "立法紀錄": "96卷59期3582號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9cac6cfcfc4cfcfcfccc4cfcfcfcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "961127",
+            "立法紀錄": "96卷82期3605號 118-118頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c7cdcfcfc4cfcecec7c4cfcecec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "961204",
+            "立法紀錄": "96卷83期3606號三冊 1044-1044頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c7cccfccc4cecfcbcbc4cecfcbcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "961211",
+            "立法紀錄": "96卷85期3608號 147-147頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c7cacfcfc4cfcecbc8c4cfcecbc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "961214",
+            "立法紀錄": "96卷86期3609號一冊 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c7c9cfcec4cfcfc6cec4cfcfc6ce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "961219",
+            "立法紀錄": "96卷88期3611號一冊 36-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c7c7cfcec4cfcfccc9c4cfcfccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "961220",
+            "立法紀錄": "96卷88期3611號一冊 486-488頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c7c7cfcec4cfcbc7c9c4cfcbc7c7",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960719",
-            "立法紀錄": "96卷59期3582號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac6cfcfc4cfcfcecec4cfcfcece",
+            "會議日期": "961220",
+            "立法紀錄": "96卷88期3611號一冊 488-489頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c7c7cfcec4cfcbc7c7c4cfcbc7c6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "960719",
-            "立法紀錄": "96卷59期3582號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc981c6c9cac6cfcfc4cfcfcecec4cfcfcece",
+            "會議日期": "961220",
+            "立法紀錄": "96卷88期3611號一冊 489-489頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcbc781c6c9c7c7cfcec4cfcbc7c6c4cfcbc7c6",
             "關係文書": []
         }
     ]
