@@ -1,8 +1,8 @@
 {
     "title": "加值型及非加值型營業稅法",
     "versions": [
-        "中華民國96年12月21日修正",
-        "中華民國97年1月16日公布"
+        "中華民國97年3月7日修正",
+        "中華民國97年3月10日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -93,6 +93,12 @@
             "note": "(免徵營業稅之進口貨物)",
             "rule_no": "第九條",
             "content": "　　進口下列貨物免徵營業稅：\n　　一、第七條第一項第六款，第八條第一項第二十七款之肥料及第三十款之貨物。\n　　二、關稅法第二十六條規定之貨物。但因轉讓或變更用途依照同法第三十一條規定補繳關稅者，應補繳營業稅。\n　　三、本國之古物。",
+            "relates": {}
+        },
+        {
+            "note": "(貨物營業稅之機動調整)",
+            "rule_no": "第九條 之一",
+            "content": "　　為因應經濟特殊情況，調節物資供應，對進口小麥、大麥、玉米或黃豆應徵之營業稅，得由行政院機動調整，不受第十條規定限制。\n　　前項機動調整之貨物種類、調整幅度、實施期間與實際開始及停止日期，由財政部會同有關機關擬訂，報請行政院核定公告之。",
             "relates": {}
         },
         {
@@ -459,126 +465,34 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　照黨團協商條文通過。",
-        "第九條": "　　增列第八條第一項第二十七款之肥料、農藥兩項貨物。"
+        "第九條 之一": "　　一、本條新增。\n　　二、為因應經濟特殊情況，調節物資供應，爰參照關稅法第七十一條之立法例，於第一項明定行政院得機動調整進口小麥、大麥、玉米或黃豆應徵之營業稅，不受本法第十條規定，最低不得少於百分之五，最高不得超過百分之十之限制。\n　　三、為保留適當彈性，以因應經濟特殊狀況之變化，於第二項明定財政部得視實際需要，會同相關機關擬訂調整之貨物種類、調整幅度、實施期間與實際開始及停止日期，報請行政院核定公告之，並應刊登行政院公報。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940325",
-            "立法紀錄": "94卷14期3396號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6cbcecbcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "沈智慧",
+            "會議日期": "970229",
+            "立法紀錄": "97卷2期3613號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac6ce81c6c8cfcdcfcfc4cfcfcfc8c4cfcfcfc8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfcec5cdcccad2cdccc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940916",
-            "立法紀錄": "94卷44期3426號三冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6cbcbcbcfccc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "余政道",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcdcfcec5ceccc7d2cecbcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940923",
-            "立法紀錄": "94卷45期3427號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6cbcbcacfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcec5c6c8d2c6c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941206",
-            "立法紀錄": "94卷75期3457號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6cbc8cacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcecccfcec5cececad2cecec8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "950111",
-            "立法紀錄": "95卷5期3466號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6cacfcacfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "蔡勝佳",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cec7cad2cec7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "950421",
-            "立法紀錄": "95卷20期3481號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6cacdcfcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecfcfcec5cdcfcfd2cdcfca"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "950508",
-            "立法紀錄": "95卷28期3489號 516-544頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6cacdc7cfcfc4cfcacec9c4cfcacbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960116",
-            "立法紀錄": "96卷13期3536號二冊 553-573頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6c9cecccfcdc4cfcacaccc4cfcac8cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec9cfcdc5ccc7ced2cbcfcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcdc8ccc5ccc8ccd2ccc8c9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "961219",
-            "立法紀錄": "96卷88期3611號一冊 36-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6c9c7c7cfcec4cfcfccc9c4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 407-410頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6c9c7c7cfcdc4cfcbcfc8c4cfcbcecf",
+            "會議日期": "970307",
+            "立法紀錄": "97卷3期3614號 28-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac6ce81c6c8cfcccfcfc4cfcfcdc7c4cfcfcccf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 410-410頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac7c681c6c9c7c7cfcdc4cfcbcecfc4cfcbcecf",
+            "會議日期": "970307",
+            "立法紀錄": "97卷3期3614號 30-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcac6ce81c6c8cfcccfcfc4cfcfcccfc4cfcfcccf",
             "關係文書": []
         }
     ]
