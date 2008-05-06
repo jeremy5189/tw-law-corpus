@@ -1,10 +1,11 @@
 {
     "title": "財政部各區鹽務管理局組織條例",
     "versions": [
-        "中華民國69年12月26日停止適用",
-        "中華民國70年1月12日公布"
+        "中華民國97年4月22日廢止",
+        "中華民國97年5月7日公布"
     ],
     "types": [
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -75,31 +76,32 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　財政部各區鹽務管理局組織條例於民國三十七年一月十日由國民政府公布，並於民國七十年一月十二日總統令暫停適用，因鹽務業務已於民國七十年移撥經濟部掌理，已無繼續適用之必要，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690118",
-            "立法紀錄": "69卷6期1282號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec6cc81c9c6c9cbcfc9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "970307",
+            "立法紀錄": "97卷003期3614號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec6cb81c6c8cfcccfcfc4cfcfcfcbc4cfcfcfcb",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cbcfcbcfcfc5c9c6cad2c8cfcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfccc8cdc5cecaced2cecacd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691210",
-            "立法紀錄": "70卷38期1419號 27-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec6cc81c8cfc9c8ccc7cfcfc4cfcfcdc8c4cfcfccce",
+            "會議日期": "970411",
+            "立法紀錄": "97卷015期3626號 79-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec6cb81c6c8cecacfcfc4cfcfc8c6c4cfcfc7cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 56-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcec6cc81c9c6c9c9cecfcbcfcfc4cfcfcac9c4cfcfcac7",
+            "會議日期": "970422",
+            "立法紀錄": "97卷016期3627號 54-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec6cb81c6c8cec9cfcfc4cfcfcacbc4cfcfcac6",
             "關係文書": []
         }
     ]
