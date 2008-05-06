@@ -1,8 +1,8 @@
 {
     "title": "民法繼承編施行法",
     "versions": [
-        "中華民國96年12月14日修正",
-        "中華民國97年1月2日公布"
+        "中華民國97年4月22日修正",
+        "中華民國97年5月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -19,6 +19,12 @@
             "note": "(法律適用範圍)",
             "rule_no": "第一條 之一",
             "content": "　　繼承在民法繼承編中華民國九十六年十二月十四日修正施行前開始且未逾修正施行前為限定或拋棄繼承之法定期間者，自修正施行之日起，適用修正後限定或拋棄繼承之規定。\n　　繼承在民法繼承編中華民國九十六年十二月十四日修正施行前開始，繼承人於繼承開始時為無行為能力人或限制行為能力人，未能於修正施行前之法定期間為限定或拋棄繼承，由其繼續履行繼承債務顯失公平者，於修正施行後，得以所得遺產為限，負清償責任。\n　　前項繼承人依修正施行前之規定已清償之債務，不得請求返還。",
+            "relates": {}
+        },
+        {
+            "note": "(繼承人之保證契約債務)",
+            "rule_no": "第一條 之二",
+            "content": "　　繼承在民法繼承編中華民國九十七年一月四日前開始，繼承人對於繼承開始後，始發生代負履行責任之保證契約債務，由其繼續履行債務顯失公平者，得以所得遺產為限，負清償責任。\n　　前項繼承人依中華民國九十七年四月二十二日修正施行前之規定已清償之保證契約債務，不得請求返還。",
             "relates": {}
         },
         {
@@ -83,60 +89,46 @@
         }
     ],
     "law_reasons": {
-        "第一條 之一": "　　照黨團協商條文通過。"
+        "第一條 之二": "　　一、本條新增。\n　　二、民法繼承編部分條文於九十七年一月四日開始，明訂繼承人對於被繼承人之連帶保證債務，僅負有限責任。惟前法修正前已發生之繼承保證債務事件，許多繼承人尚陷於天外飛來債務中，影響其權益甚鉅，亦顯失公平，為保障此類繼承人，爰增設本條追溯適用新法之規定，並以繼承所得遺產為限，負清償責任，以維公平正義。\n　　三、另為維護債權人之權益及法律安定性，於中華民國九十七年四月二十二日修正施行前已依法清償債務者，則不得請求返還。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "961109",
-            "立法紀錄": "96卷78期3601號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac781c6c9c8c7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "李復甸",
+            "會議日期": "970328",
+            "立法紀錄": "97卷008期3619號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac681c6c8cfc7cfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": "徐中雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecfc8cdc5cbc8d2cbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcac8cdc5cdcfc6d2cdcecd"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "961116",
-            "立法紀錄": "96卷80期3603號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac781c6c9c7cfcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "民進黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecec8cdc5c6ced2c6cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "961123",
-            "立法紀錄": "96卷82期3605號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac781c6c9c7cdcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecdc8cdc5cccad2ccc9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961214",
-            "立法紀錄": "96卷86期3609號一冊 86-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac781c6c9c7c9cfcec4cfcfc7c9c4cfcfc6cf",
+            "進度": "委員會審查",
+            "會議日期": "970411",
+            "立法紀錄": "97卷015期3626號 57-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac681c6c8cecacfcfc4cfcfcac8c4cfcfc8c7",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "970422",
+            "立法紀錄": "97卷016期3627號 65-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac681c6c8cec9cfcfc4cfcfc9cac4cfcfc8cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfccc5cacfcdd2cacfc8"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "961214",
-            "立法紀錄": "96卷86期3609號一冊 90-90頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac781c6c9c7c9cfcec4cfcfc6cfc4cfcfc6cf",
+            "會議日期": "970422",
+            "立法紀錄": "97卷016期3627號 70-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac681c6c8cec9cfcfc4cfcfc8cfc4cfcfc8cd",
             "關係文書": []
         }
     ]
