@@ -1,8 +1,8 @@
 {
     "title": "決算法",
     "versions": [
-        "中華民國89年11月24日修正",
-        "中華民國89年12月13日公布"
+        "中華民國97年5月2日修正",
+        "中華民國97年5月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -146,7 +146,7 @@
         {
             "note": "(特別預算收支決算之編造)",
             "rule_no": "第二十二條",
-            "content": "　　特別預算之收支，應於執行期滿後，依本法之規定編造其決算；其跨越兩個年度以上者，並應由主管機關依會計法所定程序，分年編送年度會計報告。",
+            "content": "　　特別預算之收支，應於執行期滿後，依本法之規定編造其決算；其跨越兩個年度以上者，並應由主管機關依會計法所定程序，分年編送年度會計報告。\n　　政府捐助基金累計超過百分之五十之財團法人及日本撤退臺灣接收其所遺留財產而成立之財團法人，每年應由各該主管機關將其年度決算書，送立法院審議。",
             "relates": {}
         },
         {
@@ -225,95 +225,46 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、配合八十七年十月二十九日修正之預算法第六條，及同法第十七條對總預算內容之修正，爰將第一項修正之。\n　　二、配合預算法第七條、第八條增列立法機關得為未來承諾之授權及承諾之授權，應以一定金額於預算內表達之規定，及同法第九條增列因擔保、保證或契約可能造成未來會計年度內之支出者，應於預算書中列表說明之規定，爰增列第二項。",
-        "第五條": "　　預算法第六條對歲入歲出定義已作修正，又本法第四條第一項已規範決算應編入之內容，爰將本條「歲入、歲出」之文字予以刪除；總預算內容機關、各政事及計畫或業務科目間之經費，不得互相流用，而上項科目之執行結果，其科目與門類可能與原預算編列有所不同，爰增列但書之規定。",
-        "第六條": "　　決算書所使用之貨幣與預算書相同，均為新臺幣，惟決算書之單位為元，與預算書之單位為千元不同，為符實際，爰將「貨幣單位」修正為「貨幣」。",
-        "第七條": "　　配合預算法第七十二條規定，將本條「歲入應收款、歲出應付款」修正為「各項應收款、應付款、保留數準備」；另原條文「經政府催收或通知申請領取」之規定係屬規範政府機關內部作業程序，為簡化內容，爰刪除之。",
-        "第九條": "　　原條文第九條係規定機關在年度內有變更者，其決算之辦理，第十條則係規定基金在年度內有變更者，其決算之辦理，兩者性質相同，爰予合併，並酌作修正。",
-        "第十條": "　　本條移列於修正條文第九條規定，爰予刪除。",
-        "第十三條": "　　本條係規範決算書表內容，其可依決算法第三十條規定，由中央主計機關另定之，爰將本條刪除。",
-        "第十四條": "　　因原條文第十三條業已刪除，爰配合將第二項後段刪除。",
-        "第十五條": "　　國營事業以往辦理決算係編製資金運用表，惟我國財務會計準則公報第十七號已改為現金流量表，爰將第一項第二款「資金運用」配合修正為「現金流量」。",
-        "第二十六條 之一": "　　一、本條新增。\n　　二、為在會計年度進行中定期且確實監督行政機關預算執行與審核情況，免於會計年度終了時的虛應審議情事，故除了每年度總決算審核外，特新增半年結算之查核報告，並送立法院審議。",
-        "第二十八條": "　　由於審計部對於中央政府總決算最終審定數額表，往往未經立法院審議通過逕行公告，故為確實執行立法院監督之責，爰修正為必須由立法院審議通過後，送交監察院，再由監察院咨請總統公告，方符法制程序。"
+        "第二十二條": "　　增訂第二項，政府捐助基金累計超過百分之五十之財團法人及日本撤退臺灣接收其所遺留財產而成立之財團法人，每年應由各該主管機關將其年度決算書，送立法院審議。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890523",
-            "立法紀錄": "89卷28期3087號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9ce81c7c6cdc7cfcfc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "970307",
+            "立法紀錄": "97卷003期3614號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9cd81c6c8cfcccfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "賴士葆",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccec7cfcfc5cec8cbd2cec8c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890602",
-            "立法紀錄": "89卷32期3091號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9ce81c7c6cccdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "朱立倫",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcecfcfc5c9cdd2c9ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890609",
-            "立法紀錄": "89卷33期3092號上冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9ce81c7c6cccccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃木添",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcdcfcfc5cecdcdd2cecdcb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890725",
-            "立法紀錄": "89卷48期3107號一冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9ce81c7c6cbc7cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccccdcfcec5cccccdd2ccccc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfccc8cdc5c7ccd2c7c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "891009",
-            "立法紀錄": "89卷57期3116號下冊 263-280頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9ce81c7c6cac8cfccc4cfcdc9ccc4cfcdc7cf",
+            "會議日期": "970417",
+            "立法紀錄": "97卷019期3630號 276-278頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9cd81c6c8cec6cfcfc4cfcdc8c9c4cfcdc8c7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "891124",
-            "立法紀錄": "89卷66期3125號上冊 127-150頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9ce81c7c6c9c9cfcec4cfcecdc8c4cfcecacf",
+            "會議日期": "970502",
+            "立法紀錄": "97卷023期3634號 35-38頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9cd81c6c8cdcccfcfc4cfcfcccac4cfcfccc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcfc6cfcfc5cecccfd2cecbc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc6cfcbc5cdc6ccd2cdc6c9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "891124",
-            "立法紀錄": "89卷66期3125號上冊 150-151頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9ce81c7c6c9c9cfcec4cfcecacfc4cfcecace",
+            "會議日期": "970502",
+            "立法紀錄": "97卷023期3634號 38-39頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cbc9cd81c6c8cdcccfcfc4cfcfccc7c4cfcfccc6",
             "關係文書": []
         }
     ]
