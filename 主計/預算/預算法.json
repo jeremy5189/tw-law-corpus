@@ -1,8 +1,8 @@
 {
     "title": "預算法",
     "versions": [
-        "中華民國96年12月21日修正",
-        "中華民國97年1月9日公布"
+        "中華民國97年5月2日修正",
+        "中華民國97年5月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -260,7 +260,7 @@
         {
             "note": "(各機關單位預算及附屬單位預算之送達)",
             "rule_no": "第四十一條",
-            "content": "　　各機關單位預算及附屬單位預算，應分別依照規定期限送達各該主管機關。\n　　各國營事業機關所屬各部門或投資經營之其他事業，其資金獨立自行計算盈虧者，應附送各該部門或事業之分預算。\n　　各部門投資或經營之其他事業及政府捐助之財團法人，每年應由各該主管機關就以前年度投資或捐助之效益評估，併入決算辦理後，分別編製營運及資金運用計畫送立法院。",
+            "content": "　　各機關單位預算及附屬單位預算，應分別依照規定期限送達各該主管機關。\n　　各國營事業機關所屬各部門或投資經營之其他事業，其資金獨立自行計算盈虧者，應附送各該部門或事業之分預算。\n　　各部門投資或經營之其他事業及政府捐助之財團法人，每年應由各該主管機關就以前年度投資或捐助之效益評估，併入決算辦理後，分別編製營運及資金運用計畫送立法院。\n　　政府捐助基金累計超過百分之五十之財團法人及日本撤退臺灣接收其所遺留財產而成立之財團法人，每年應由各該主管機關將其年度預算書，送立法院審議。",
             "relates": {}
         },
         {
@@ -639,34 +639,46 @@
         }
     ],
     "law_reasons": {
-        "第九十三條": "　　配合簡化總預算案審查，刪除全院各委員會聯席會議審查規定，修正第三項，改為司法院院長認為必要時，得請求列席立法院司法及法制委員會會議。"
+        "第四十一條": "　　增訂第四項，政府捐助基金累計超過百分之五十之財團法人及日本撤退臺灣接收其所遺留財產而成立之財團法人，每年應由各該主管機關將其年度預算書，送立法院審議。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "961214",
-            "立法紀錄": "96卷86期3609號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcf81c6c9c7c9cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "民進黨黨團",
+            "會議日期": "970307",
+            "立法紀錄": "97卷003期3614號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcd81c6c8cfcccfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "賴士葆",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecac8cdc5cbcad2cbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfccc8cdc5c8c6d2c7cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcf81c6c9c7c7cfcdc4cfcfcfcac4cfcfcfc9",
+            "進度": "委員會審查",
+            "會議日期": "970415",
+            "立法紀錄": "97卷017期3628號 199-248頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcd81c6c8cec8cfcfc4cfcec6c6c4cfcdcbc7",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "970502",
+            "立法紀錄": "97卷023期3634號 39-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcd81c6c8cdcccfcfc4cfcfccc6c4cfcfcbcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc6cfcbc5cdc6c8d2cccfce"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcf81c6c9c7c7cfcdc4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "970502",
+            "立法紀錄": "97卷023期3634號 43-44頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcd81c6c8cdcccfcfc4cfcfcbccc4cfcfcbcb",
             "關係文書": []
         }
     ]
