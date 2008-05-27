@@ -1,8 +1,8 @@
 {
     "title": "立法院職權行使法",
     "versions": [
-        "中華民國97年4月25日修正",
-        "中華民國97年5月14日公布"
+        "中華民國97年5月9日修正",
+        "中華民國97年5月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -111,6 +111,40 @@
             "note": "(總統發布緊急命令之追認程序)",
             "rule_no": "第十五條",
             "content": "　　總統依憲法增修條文第二條第三項之規定發布緊急命令，提交立法院追認時，不經討論，交全院委員會審查；審查後提出院會以無記名投票表決。未獲同意者，該緊急命令立即失效。\n　　總統於立法院休會期間發布緊急命令提交追認時，立法院應即召開臨時會，依前項規定處理。\n　　總統於立法院解散後發布緊急命令，提交立法院追認時，立法院應於三日內召開臨時會，並於開議七日內議決，如未獲同意，該緊急命令立即失效。但於新任立法委員選舉投票日後發布者，由新任立法委員於就職後依第一項規定處理。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "section_name": "第二章之一  聽取總統國情報告"
+        },
+        {
+            "note": "(立法院每年集會聽取總統國情報告)",
+            "rule_no": "第十五條 之一",
+            "content": "　　依中華民國憲法增修條文第四條第三項規定，立法院得於每年集會時，聽取總統國情報告。",
+            "relates": {}
+        },
+        {
+            "note": "(總統赴立法院做國情報告之要件)",
+            "rule_no": "第十五條 之二",
+            "content": "　　立法院得經全體立法委員四分之一以上提議，院會決議後，由程序委員會排定議程，就國家安全大政方針，聽取總統國情報告。\n　　總統就其職權相關之國家大政方針，得咨請立法院同意後，至立法院進行國情報告。",
+            "relates": {}
+        },
+        {
+            "note": "(印送書面報告之期限)",
+            "rule_no": "第十五條 之三",
+            "content": "　　總統應於立法院聽取國情報告日前三日，將書面報告印送全體委員。",
+            "relates": {}
+        },
+        {
+            "note": "(立法委員就國情報告不明瞭處提出問題之相關程序)",
+            "rule_no": "第十五條 之四",
+            "content": "　　立法委員於總統國情報告完畢後，得就報告不明瞭處，提出問題；其發言時間、人數、順序、政黨比例等事項，由黨團協商決定。\n　　就前項委員發言，經總統同意時，得綜合再做補充報告。",
+            "relates": {}
+        },
+        {
+            "note": "(立法委員對國情報告所提問題送請總統參考)",
+            "rule_no": "第十五條 之五",
+            "content": "　　立法委員對國情報告所提問題之發言紀錄，於彙整後送請總統參考。",
             "relates": {}
         },
         {
@@ -547,47 +581,50 @@
         }
     ],
     "law_reasons": {
-        "第七十條": "　　黨團協商過程除重點紀錄外，應全程錄影、錄音，以破除外界「密室協商」疑慮，更可體現國會議員公開負責與受民意監督之精神。",
-        "第七十一條 之一": "　　將協商期限縮短為一個月，俾能在同一會期內完成重大急迫性法案。"
+        "第十五條 之一": "　　一、本條新增。\n　　二、明訂法源依據。",
+        "第十五條 之二": "　　一、本條新增。\n　　二、明訂總統赴立法院做國情報告之要件。",
+        "第十五條 之三": "　　一、本條新增。\n　　二、參照立法院職權行使法第十六條第一項第三款之立法體例，增訂本條。",
+        "第十五條 之四": "　　一、本條新增。\n　　二、第一項明訂立法委員提供國是建言之相關程序。\n　　三、為兼顧憲政精神，引入總統自行同意（非憲法義務）之設計，爰為第二項規定。",
+        "第十五條 之五": "　　一、本條新增。\n　　二、明訂立法委員對國情報告所提問題之發言紀錄，於彙整後送請總統參考，以符憲法規定之精神；並達到間接溝通的效果。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970307",
-            "立法紀錄": "97卷003期3614號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c881c6c8cfcccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "丁守中",
+            "會議日期": "970422",
+            "立法紀錄": "97卷016期3627號 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c681c6c8cec9cfcfc4cfcfcfcac4cfcfcfc9",
+            "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcccfcdc5cbc9c9d2cbc9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8c8cdc5cec7c8d2cec6cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970416",
-            "立法紀錄": "97卷018期3629號 282-293頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c881c6c8cec7cfcfc4cfcdc7cdc4cfcdc6cc",
+            "會議日期": "970501",
+            "立法紀錄": "97卷026期3637號 134-153頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c681c6c8cdc9cfcfc4cfcecccbc4cfcecacc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970425",
-            "立法紀錄": "97卷018期3629號 26-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c881c6c8cec7cfcfc4cfcfcdc9c4cfcfcccf",
+            "會議日期": "970509",
+            "立法紀錄": "97卷025期3636號 126-130頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c681c6c8cdcacfcfc4cfcecdc9c4cfcecccf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc7cfccc5cccbccd2cccbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececfcfcdc5cbcdc6d2cbcccc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "970425",
-            "立法紀錄": "97卷018期3629號 30-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c881c6c8cec7cfcfc4cfcfcccfc4cfcfcccd",
+            "會議日期": "970509",
+            "立法紀錄": "97卷025期3636號 131-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c681c6c8cdcacfcfc4cfcecccec4cfceccce",
             "關係文書": []
         }
     ]
