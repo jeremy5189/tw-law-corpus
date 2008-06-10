@@ -1,8 +1,8 @@
 {
     "title": "促進產業升級條例",
     "versions": [
-        "中華民國96年12月21日修正",
-        "中華民國97年1月9日公布"
+        "中華民國97年5月23日修正",
+        "中華民國97年6月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -170,7 +170,7 @@
         {
             "note": "(新發行記名股票)",
             "rule_no": "第十九條 之四",
-            "content": "　　公司股東取得符合本條例於中華民國八十八年十二月三十一日修正前第十六條及第十七條規定之新發行記名股票，於公司辦理減資彌補虧損收回股票時，上市、上櫃公司應依減資日之收盤價格，未上市、未上櫃公司應依減資日公司股票之每股資產淨值，計入減資年度該股東之所得額課稅。但減資日之收盤價格或資產淨值高於股票面額者，依面額計算。\n　　前項規定，於獎勵投資條例施行期間取得之緩課股票，準用之。",
+            "content": "　　公司股東取得符合本條例於中華民國八十八年十二月三十一日修正前第十六條及第十七條規定之新發行記名股票，於公司辦理減資彌補虧損收回股票時，上市、上櫃公司應依減資日之收盤價格，未上市、未上櫃公司應依減資日公司股票之每股資產淨值，計入減資年度該股東之所得額課稅。但減資日之收盤價格或資產淨值高於股票面額者，依面額計算。\n　　前項規定，於獎勵投資條例施行期間取得之緩課股票，準用之。\n　　本條例中華民國九十七年一月九日修正公布施行前已發生尚未核課確定之案件，准予適用。",
             "relates": {}
         },
         {
@@ -552,95 +552,50 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950919",
-            "立法紀錄": "95卷37期3498號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6caccc8cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "李俊毅",
+            "會議日期": "970422",
+            "立法紀錄": "97卷016期3627號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc981c6c8cec9cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "黃志雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcecfcec5ccceccd2ccceca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "950919",
-            "立法紀錄": "95卷37期3498號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6caccc8cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "李全教",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcecfcec5cccdcad2cccdc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6cacac6cfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "李俊毅",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcececfcec5c6cad2c6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "951212",
-            "立法紀錄": "96卷7期3530號 329-337頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6c9cfc8cfcfc4cfcccdc6c4cfccccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "960104",
-            "立法紀錄": "96卷14期3537號 223-223頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6c9cecbcfcfc4cfcdcdccc4cfcdcdcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "961204",
-            "立法紀錄": "97卷1期3612號一冊 406-415頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6c8cfcecfcec4cfcbcfc9c4cfcbceca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecccfccc5cdcac6d2cdc9c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8c8cdc5c6c8d2c6c7"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "961211",
-            "立法紀錄": "96卷85期3608號 149-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6c9c7cacfcfc4cfcecbc6c4cfcecbc6",
+            "會議日期": "970502",
+            "立法紀錄": "97卷023期3634號 34-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc981c6c8cdcccfcfc4cfcfcccbc4cfcfccca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "961218",
-            "立法紀錄": "96卷86期3609號二冊 376-376頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6c9c7c9cfcdc4cfccc8c9c4cfccc8c9",
+            "會議日期": "970509",
+            "立法紀錄": "97卷025期3636號 38-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc981c6c8cdcacfcfc4cfcfccc7c4cfcfccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "970521",
+            "立法紀錄": "97卷031期3642號 401-402頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc981c6c8cccecfcfc4cfcbcfcec4cfcbcfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6c9c7c7cfcdc4cfcfcfccc4cfcfcfcb",
+            "會議日期": "970523",
+            "立法紀錄": "97卷031期3642號 69-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc981c6c8cccecfcfc4cfcfc9c6c4cfcfc8ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7cccb81c6c9c7c7cfcdc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "970523",
+            "立法紀錄": "97卷031期3642號 71-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc981c6c8cccecfcfc4cfcfc8cec4cfcfc8ce",
             "關係文書": []
         }
     ]
