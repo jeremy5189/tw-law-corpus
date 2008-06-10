@@ -1,8 +1,8 @@
 {
     "title": "法院組織法",
     "versions": [
-        "中華民國96年6月15日修正",
-        "中華民國96年7月11日公布"
+        "中華民國97年5月23日修正",
+        "中華民國97年6月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -128,7 +128,7 @@
         {
             "note": "",
             "rule_no": "第十七條 之二",
-            "content": "　　司法事務官辦理左列事務：\n　　一、返還擔保金事件、調解程序事件、督促程序事件、保全程序事件、公示催告程序裁定事件、確定訴訟費用額事件。\n　　二、拘提、管收以外之強制執行事件。\n　　三、非訟事件法及其他法律所定之非訟事件。\n　　四、其他法律所定之事務。\n　　司法事務官辦理前項各款事件之範圍及日期，由司法院定之。\n　　第一項各款事務，未經司法院依前項規定交司法事務官辦理前，得由司法事務官承法官之命辦理之。",
+            "content": "　　司法事務官辦理下列事務：\n　　一、返還擔保金事件、調解程序事件、督促程序事件、保全程序事件、公示催告程序裁定事件、確定訴訟費用額事件。\n　　二、拘提、管收以外之強制執行事件。\n　　三、非訟事件法及其他法律所定之非訟事件。\n　　四、其他法律所定之事務。\n　　司法事務官得承法官之命，彙整起訴及答辯要旨，分析卷證資料，整理事實及法律疑義，並製作報告書。\n　　司法事務官辦理第一項各款事件之範圍及日期，由司法院定之。",
             "relates": {}
         },
         {
@@ -803,85 +803,53 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　條文本文不修正，附表增列司法事務官職稱及員額。",
-        "第十六條": "　　照黨團協商條文通過。",
-        "第十七條": "　　照黨團協商條文通過。",
-        "第十七條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第十七條 之二": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第三十七條": "　　照黨團協商條文通過。"
+        "第十七條 之二": "　　一、第一項酌作文字修正。\n　　二、增訂第二項：「司法事務官得承法官之命，彙整起訴及答辯要旨，分析卷證資料，整理事實及法律疑義，並製作報告書。」\n　　三、原第二項移列為第三項，並酌作文字修正；又司法事務官承法官之命辦理之事務，業增訂第二項明確規範，爰刪除原第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950519",
-            "立法紀錄": "95卷29期3490號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6cacdc6cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "徐中雄",
+            "會議日期": "970408",
+            "立法紀錄": "97卷011期3622號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdceca81c6c8cececfcfc4cfcfcfcdc4cfcfcfcc",
+            "主提案": "李明星",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcec5c9cfd2c9ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "951013",
-            "立法紀錄": "95卷40期3501號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6cacbcfcfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "高思博",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcccfcec5cbc7d2cac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9c8cdc5cecdccd2cecdc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960426",
-            "立法紀錄": "96卷37期3560號 405-405頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9ccc8cfcfc4cfcbcfcac4cfcbcfca",
+            "會議日期": "970428",
+            "立法紀錄": "97卷024期3635號 2-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdceca81c6c8cdcbcfcfc4cfcfcfcdc4cfcfcdcc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960507",
-            "立法紀錄": "96卷41期3564號 225-256頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cbcecfcfc4cfcdcdcac4cfcdcac9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960605",
-            "立法紀錄": "96卷48期3571號二冊 419-453頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cbc7cfcdc4cfcbcec6c4cfcbcacc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecccfcdc5cec8ccd2cdcecf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960615",
-            "立法紀錄": "96卷54期3577號三冊 855-859頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cacbcfccc4cfc7cacac4cfc7cac6",
+            "會議日期": "970505",
+            "立法紀錄": "97卷026期3637號 333-333,367-375頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdceca81c6c8cdc9cfcfc4cfccccccc4cfccccccd9c6c8cdc9cfcfc4cfccc9c8c4cfccc8ca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960615",
-            "立法紀錄": "96卷54期3577號三冊 859-860頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cacbcfccc4cfc7cac6c4cfc7c9cf",
-            "關係文書": []
+            "會議日期": "970523",
+            "立法紀錄": "97卷31期3642號 50-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdceca81c6c8cccecfcfc4cfcfcacfc4cfcfcac7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececdcfccc5ccc8c8d2ccc7ca"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960615",
-            "立法紀錄": "96卷54期3577號三冊 860-860頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdcecb81c6c9cacbcfccc4cfc7c9cfc4cfc7c9cf",
+            "會議日期": "970523",
+            "立法紀錄": "97卷031期3642號 58-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccdceca81c6c8cccecfcfc4cfcfcac7c4cfcfcac7",
             "關係文書": []
         }
     ]
