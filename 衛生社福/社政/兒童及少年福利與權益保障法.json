@@ -1,8 +1,8 @@
 {
     "title": "兒童及少年福利與權益保障法",
     "versions": [
-        "中華民國97年4月22日修正",
-        "中華民國97年5月7日公布"
+        "中華民國97年7月18日修正",
+        "中華民國97年8月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -138,7 +138,7 @@
         {
             "note": "",
             "rule_no": "第二十條",
-            "content": "　　政府應規劃實施三歲以下兒童醫療照顧措施，必要時並得補助其費用。\n　　前項費用之補助對象、項目、金額及其程序等之辦法，由中央主管機關定之。",
+            "content": "　　政府應規劃實施未滿十八歲兒童及少年之醫療照顧措施，必要時並得視其家庭經濟條件補助其費用。\n　　前項費用之補助對象、項目、金額及其程序等之辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -489,47 +489,55 @@
         }
     ],
     "law_reasons": {
-        "第三十條": "　　一、因網路相約自殺事件頻繁，為有效管制此類不當行為，特增列本條文，進行規範。\n　　二、由於強迫、引誘、容留或媒介兒童及少年為自殺行為，情節嚴重者將會危及兒童及少年的生命，爰修訂本條文，將該行為之主觀意圖與客觀行為態樣予以具體明文。",
-        "第五十八條": "　　一、為對應第三十條之犯意或犯行者，爰修訂本條文，提高罰款金額，以期達到更大的嚇阻的效果。\n　　二、第二項維持原條文。"
+        "第二十條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970307",
-            "立法紀錄": "97卷003期3614號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cecccb81c6c8cfcccfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "賴士葆",
+            "會議日期": "970708",
+            "立法紀錄": "97卷047期3658號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfccc8cdc5c7c8d2c6cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec7c8cdc5ccccd2cccb"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "970411",
-            "立法紀錄": "97卷015期3626號 100-133頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cecccb81c6c8cecacfcfc4cfcecfcfc4cfcecccc",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970717",
+            "立法紀錄": "97卷048期3659號一冊 111-111頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcec4cfcececec4cfcecece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970718",
+            "立法紀錄": "97卷048期3659號一冊 483-485頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcec4cfcbc7ccc4cfcbc7ca",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "970715",
+            "立法紀錄": "97卷048期3659號二冊 391-396頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcdc4cfccc6cec4cfccc6c9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970422",
-            "立法紀錄": "97卷016期3627號 75-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cecccb81c6c8cec9cfcfc4cfcfc8cac4cfcfc7ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfccc5cacecdd2cacec9"
-                ]
-            ]
+            "會議日期": "970718",
+            "立法紀錄": "97卷048期3659號一冊 485-485頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcec4cfcbc7cac4cfcbc7ca",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷016期3627號 81-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cecccb81c6c8cec9cfcfc4cfcfc7cec4cfcfc7ce",
+            "會議日期": "970718",
+            "立法紀錄": "97卷048期3659號一冊 485-485頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcec4cfcbc7cac4cfcbc7ca",
             "關係文書": []
         }
     ]
