@@ -1,8 +1,8 @@
 {
     "title": "農會法",
     "versions": [
-        "中華民國96年5月11日修正",
-        "中華民國96年6月20日公布"
+        "中華民國97年7月18日修正",
+        "中華民國97年8月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,7 +66,7 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　鄉、鎮（市）、區內具有農會會員資格滿五十人時，應發起組織基層農會。\n　　下級農會成立三個以上時，得組織上級農會。\n　　下級農會受上級農會之輔導；其辦法由中央主管機關定之。",
+            "content": "　　鄉、鎮（市）、區內具有農會會員資格滿五十人時，應發起組織基層農會。\n　　下級農會成立三個以上或經中央主管機關之核准，得組織上級農會。\n　　下級農會受上級農會之輔導；其辦法由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -459,60 +459,101 @@
         }
     ],
     "law_reasons": {
-        "第二十五條": "　　一、刪除原條文第一項後半段文字。\n　　二、農會總幹事依據農會法規定、及其與農會具有民法上委任關係之司法判例而觀之，農會總幹事實際上被界定為「專業經理人」角色。專業經理人係以其經營績效良窳，做為決定其去留依據。基於此種認知，企業組織鮮少對專業經理人任期作限制，甚至為避免專業經理人對委任事業之經營權，會受到所有權改變或外力介入等干擾，難以貫徹其經營理念，尤有進者，尚對專業經理人更施以任期保障制度，確保其經營權得以發揮到極至。爰刪除原條文第一項後半段有關總幹事任期制之文字。",
-        "第四十六條 之一": "　　一、修正原條文第二項文字。\n　　二、比照地方制度法第79條第1項第4款規定：「直轄市議員、直轄市長、縣（市）議員、縣（市）長、鄉（鎮、市）民代表、鄉（鎮、市）長及村（里）長受有期徒刑以上刑之判決確定，而未受緩刑之宣告或未執行易科罰金者，解除其職權或職務」"
+        "第八條": "　　全國性農會組織之成立應不受限下級農會成立三個以上時方得組織之規定，應視實際需要專案報經中央主管機關核准後組織之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940325",
-            "立法紀錄": "94卷14期3396號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc781c6cbcecbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "國民黨黨團",
+            "會議日期": "970408",
+            "立法紀錄": "97卷11期3622號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cececfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "張嘉郡",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfcec5cec8ccd2cec8c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9ccc5c9cdc8d2c9cdc6"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "951215",
-            "立法紀錄": "95卷61期3522號一冊 26-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc781c6cac9cecfcec4cfcfcdc9c4cfcfcdc8",
-            "主提案": "親民黨黨團",
+            "會議日期": "970422",
+            "立法紀錄": "97卷16期3627號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cec9cfcfc4cfcfcecec4cfcfcece",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc6cfcec5c9c9d2c9c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8c8ccc5cbccc6d2cbcbcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940509",
-            "立法紀錄": "94卷36期3418號 120-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc781c6cbccc9cfcfc4cfcecdcfc4cfceccc9",
+            "會議日期": "970505",
+            "立法紀錄": "97卷26期3637號 251-270頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cdc9cfcfc4cfcdcacec4cfcdc8cf",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960511",
-            "立法紀錄": "96卷41期3564號 39-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc781c6c9cbcecfcfc4cfcfccc6c4cfcfcacf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970619",
+            "立法紀錄": "97卷42期3653號 79-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbcdcfcfc4cfcfc8c6c4cfcfc6cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5ceccc8d2cecbcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec9cfcdc5ccc9ccd2ccc8c8"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970627",
+            "立法紀錄": "97卷45期3656號 60-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbcacfcfc4cfcfc9cfc4cfcfc9cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970708",
+            "立法紀錄": "97卷47期3658號 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc8cfcfc4cfcfc6cec4cfcfc6ce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970716",
+            "立法紀錄": "97卷48期3659號一冊 73-73頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc7cfcec4cfcfc8ccc4cfcfc8cc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970718",
+            "立法紀錄": "97卷48期3659號一冊 479-480頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc7cfcec4cfcbc8c6c4cfcbc7cf",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "970611",
+            "立法紀錄": "97卷49期3660號 1-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc6cfcfc4cfcfcfcec4cfcfcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "970718",
+            "立法紀錄": "97卷48期3659號一冊 480-480頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc7cfcec4cfcbc7cfc4cfcbc7cf",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "960511",
-            "立法紀錄": "96卷41期3564號 50-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc781c6c9cbcecfcfc4cfcfcacfc4cfcfcacf",
+            "會議日期": "970718",
+            "立法紀錄": "97卷48期3659號一冊 480-480頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc7cfcec4cfcbc7cfc4cfcbc7cf",
             "關係文書": []
         }
     ]
