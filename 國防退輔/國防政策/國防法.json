@@ -1,8 +1,8 @@
 {
     "title": "國防法",
     "versions": [
-        "中華民國91年12月13日修正",
-        "中華民國92年1月8日公布"
+        "中華民國97年7月17日修正",
+        "中華民國97年8月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -216,7 +216,7 @@
         {
             "note": "(定期向立法院提出軍事政策等報告書)",
             "rule_no": "第三十一條",
-            "content": "　　國防部應定期向立法院提出軍事政策、建軍備戰及軍備整備等報告書。\n　　為提升國防預算之審查效率，國防部每年應編撰中共軍力報告書、中華民國五年兵力整建及施政計畫報告，與總預算書併同送交立法院。\n　　前二項之報告，得區分為機密及公開兩種版本。",
+            "content": "　　國防部應定期向立法院提出軍事政策、建軍備戰及軍備整備等報告書。\n　　為提升國防預算之審查效率，國防部每年應編撰中共軍力報告書、中華民國五年兵力整建及施政計畫報告，與總預算書併同送交立法院。\n　　前二項之報告，得區分為機密及公開兩種版本。\n　　國防部應於每屆總統就職後十個月內，向立法院公開提出「四年期國防總檢討」。",
             "relates": {}
         },
         {
@@ -249,40 +249,47 @@
         }
     ],
     "law_reasons": {
-        "第三十一條": "　　原條文，規定較為籠統、模糊，爰增加第二、三項，國防部應定期向立法院提出軍事政策、建軍備戰及軍備整備等報告書，為提升國防預算之審查效率，國防部每年應編撰中共軍力報告書、中華民國五年兵力整建及施政計畫報告，與總預算書併同送交立法院。前二項之報告，得區分為機密及公開兩種版本。"
+        "第三十一條": "　　一、第一至三項未修正。\n　　二、為使總統就職後，能重新審視既有的國防政策，並使國防部文人部長能將其國防政策和戰略構想，挹注到國防部的施政中，故增訂第四項，要求國防部應在每屆總統就職後十個月內，向立法院公開提出「四年期國防總檢討」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6cecccccfcec4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "970619",
+            "立法紀錄": "97卷042期3653號 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6c8cbcdcfcfc4cfcfcfcac4cfcfcfca",
             "主提案": "林郁方",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecececfcec5cbcecfd2cbcecd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec9c8cdc5cecccad2ceccc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "911209",
-            "立法紀錄": "92卷2期3276號上冊 105-127頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6cdcfcdcfcec4cfcecfcac4cfcecdc8",
+            "會議日期": "970714",
+            "立法紀錄": "97卷047期3658號 340-352頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6c8cbc8cfcfc4cfcccbcfc4cfcccacd",
             "關係文書": []
         },
         {
-            "進度": "三讀",
-            "會議日期": "911213",
-            "立法紀錄": "91卷77期3273號一冊 94-99頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6cec8c8cfcec4cfcfc6cbc4cfcfc6c6",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "970717",
+            "立法紀錄": "97卷048期3659號一冊 111-114頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6c8cbc7cfcec4cfcececec4cfcececb",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecccfcdc5cdcad2cdc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec6cfccc5c9cec6d2c9cdcd"
                 ]
             ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "970717",
+            "立法紀錄": "97卷048期3659號一冊 114-114頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6c8cbc7cfcec4cfcececbc4cfcececb",
+            "關係文書": []
         }
     ]
 }
