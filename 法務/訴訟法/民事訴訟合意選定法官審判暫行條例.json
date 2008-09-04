@@ -1,12 +1,10 @@
 {
     "title": "民事訴訟合意選定法官審判暫行條例",
     "versions": [
-        "中華民國95年5月5日修正",
-        "中華民國95年5月24日公布"
+        "中華民國97年9月5日期滿廢止"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -70,48 +68,5 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十條": "　　本條例施行期間原至九十五年九月五日止，為使當事人得續採用此制度，並有效評估其可行性，經徵詢各方意見，再延長試辦期間二年，爰修正其施行期間至中華民國九十七年九月五日止。"
-    },
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "950331",
-            "立法紀錄": "95卷14期3475號一冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfce81c6cacecbcfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "司法院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc8cfcec5cdccccd2cdccca"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "950419",
-            "立法紀錄": "95卷21期3482號 329-346頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfce81c6cacdcecfcfc4cfcccdc6c4cfcccbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 46-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfce81c6cacdcacfcec4cfcfcbc9c4cfcfcacf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cdced2cdca"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 50-50頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcfce81c6cacdcacfcec4cfcfcacfc4cfcfcacf",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
