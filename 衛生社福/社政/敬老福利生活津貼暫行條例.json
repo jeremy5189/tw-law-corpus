@@ -1,12 +1,10 @@
 {
     "title": "敬老福利生活津貼暫行條例",
     "versions": [
-        "中華民國92年6月5日修正",
-        "中華民國92年6月18日公布"
+        "中華民國97年9月30日期滿廢止"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -94,153 +92,5 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　一、原條文第一項第三款之規定刪除。\n　　二、原條文第四、五、六、七款，移列為第三、四、五、六款。",
-        "第十四條": "　　增訂第二項。明訂修正條文施行日期。"
-    },
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "910618",
-            "立法紀錄": "91卷45期3241號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cecbcacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "錢林慧君",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcfc5cdcccad2cdccc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910618",
-            "立法紀錄": "91卷45期3241號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cecbcacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcfc5ccc8cdd2ccc8ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910618",
-            "立法紀錄": "91卷45期3241號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cecbcacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcfc5ccc8c9d2ccc8c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910618",
-            "立法紀錄": "91卷45期3241號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cecbcacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "沈富雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecec8cfcfc5cbcec9d2cbcdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910618",
-            "立法紀錄": "91卷45期3241號一冊 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cecbcacfcec4cfcfcfcec4cfcfcfcd",
-            "主提案": "林南生",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5ceccc8d2cecbce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "910927",
-            "立法紀錄": "91卷57期3253號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cecac8cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "陳朝龍",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcdcfcec5cecdcad2cecdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "911008",
-            "立法紀錄": "91卷58期3254號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cecac7cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "民進黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfcccfcfc5cecbcdd2cecbca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "911108",
-            "立法紀錄": "91卷67期3263號上冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cec9c8cfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "盧秀燕",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc7cfcec5cccfc8d2cccecd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "911108",
-            "立法紀錄": "91卷67期3263號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cec9c8cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "朱鳳芝",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcfc7cfcec5ccceccd2cccec9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "920527",
-            "立法紀錄": "92卷31期3305號二冊 418-419頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cdcccecfcdc4cfcbcec7c4cfcbcec6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "920605",
-            "立法紀錄": "92卷34期3308號一冊 178-206頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cdcccbcfcec4cfcec8c7c4cfcdcfc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecdcfcdc5cccbccd2ccc7cf"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "920605",
-            "立法紀錄": "92卷34期3308號一冊 206-210頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdc881c6cdcccbcfcec4cfcdcfc9c4cfcdcecf",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
