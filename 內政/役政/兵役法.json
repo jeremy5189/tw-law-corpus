@@ -1,8 +1,8 @@
 {
     "title": "兵役法",
     "versions": [
-        "中華民國96年3月5日修正",
-        "中華民國96年3月21日公布"
+        "中華民國97年12月12日修正",
+        "中華民國97年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -114,7 +114,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　常備兵役之區分如下：\n　　一、現役：以徵兵及齡男子，經徵兵檢查合格於除役前，徵集入營服之，為期一年十個月，期滿退伍。\n　　二、後備役：以現役期滿退伍者服之，至除役時止。\n　　前項所定役期，凡於學校授畢之軍訓課程得以八堂課折算一日折減之。",
+            "content": "　　常備兵役之區分如下：\n　　一、現役：以徵兵及齡男子，經徵兵檢查合格於除役前，徵集入營服之，為期一年，期滿退伍。\n　　二、後備役：以現役期滿退伍者服之，至除役時止。\n　　前項所定役期，凡於學校授畢之軍訓課程得以八堂課折算一日折減之。",
             "relates": {}
         },
         {
@@ -363,87 +363,46 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　照黨團協商條文通過。",
-        "第十六條": "　　一、 配合除役年齡降低，爰修正第一項第二款。\n　　二、 第二項未修正。",
-        "第五十條": "　　配合除役年齡降低，爰修正本條。"
+        "第十六條": "　　將「一年十個月」修正為「一年」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940506",
-            "立法紀錄": "94卷30期3412號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cbcccfcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "賴士葆",
+            "會議日期": "971031",
+            "立法紀錄": "97卷59期3670號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8cd81c6c8cac6cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "盧秀燕",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecececfcec5cecfc9d2cecfc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940913",
-            "立法紀錄": "94卷44期3426號一冊 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cbcbcbcfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "謝國樑",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdcdc6d2cdccce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940913",
-            "立法紀錄": "94卷44期3426號一冊 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cbcbcbcfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "林郁方",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdccccd2cdcccb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "951027",
-            "立法紀錄": "95卷44期3505號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cacbcbcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "湯火聖",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcac8cdc5ceccd2cec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc8c8cdc5caccd2cac9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "951204",
-            "立法紀錄": "95卷58期3519號 277-282頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6cacac7cfcfc4cfcdc8c8c4cfcdc7cd",
+            "會議日期": "971203",
+            "立法紀錄": "97卷72期3683號二冊 144-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8cd81c6c8c8cdcfcdc4cfcecbcbc4cfcecac9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960305",
-            "立法紀錄": "96卷20期3543號二冊 89-99頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6c9cdcfcfcdc4cfcfc7c6c4cfcfc6c6",
+            "會議日期": "971212",
+            "立法紀錄": "97卷73期3684號一冊 419-422頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8cd81c6c8c8cccfcec4cfcbcec6c4cfcbcdcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfcdcfcfc5ccc8c7d2ccc7c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecccfcdc5c9ceced2c9cecb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960305",
-            "立法紀錄": "96卷20期3543號二冊 99-99頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8ce81c6c9cdcfcfcdc4cfcfc6c6c4cfcfc6c6",
+            "會議日期": "971212",
+            "立法紀錄": "97卷73期3684號一冊 422-422頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacfc8cd81c6c8c8cccfcec4cfcbcdcdc4cfcbcdcd",
             "關係文書": []
         }
     ]
