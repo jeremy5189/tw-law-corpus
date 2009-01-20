@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法施行法",
     "versions": [
-        "中華民國95年5月19日修正",
-        "中華民國95年6月14日公布"
+        "中華民國98年1月9日修正",
+        "中華民國98年1月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -128,49 +128,50 @@
             "rule_no": "第十條 之一",
             "content": "　　中華民國九十四年一月七日修正公布之刑法，自九十五年七月一日施行。",
             "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十條 之二",
+            "content": "　　中華民國九十七年十二月三十日修正之刑法第四十一條，自九十八年九月一日施行。",
+            "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條 之一": "　　一、本條新增。\n　　二、依九十四年一月七日修正之刑法第三十三條第五款規定，罰金貨幣單位已改為新臺幣，刑法分則編各罪所定罰金之貨幣單位，自應配合上開規定修正，爰為第一項規定。\n　　三、刑法二十四年施行後，為解決國民所得經濟水準已大幅提昇問題，有關罰金與罰鍰倍數之調整及銀元與新臺幣之折算標準，訂有「罰金罰鍰提高標準條例」及「現行法規所定貨幣單位折算新臺幣條例」，除罰金以一銀元折算三元新臺幣外，並將七十二年六月二十六日以前修正之刑法部分條文罰金數額提高為十倍；其後修正者則不再提高倍數，亦即刑法分則各罪罰金數額視前開情形分別提高為三十倍或三倍。考量新修正之刑法施行後，不再適用「現行法規所定貨幣單位折算新臺幣條例」，為使罰金數額趨於一致，避免衍生新舊法比較適用問題，以緩和實務適用法律之衝擊，於不變動罰金數額之前提下，爰為第二項規定。"
+        "第十條 之二": "　　一、本條新增。\n　　二、照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950407",
-            "立法紀錄": "95卷15期3476號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfcc81c6cacecacfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院、司法院",
+            "會議日期": "980106",
+            "立法紀錄": "98卷3期3689號二冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfca81c6c7cfcccfcdc4cfcfcfcbc4cfcfcfca",
+            "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc7cfcec5cec8cad2cec8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec9c8cdc5cbc6d2cacf"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "950501",
-            "立法紀錄": "95卷26期3487號 299-309頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfcc81c6cacdc9cfcfc4cfcdc6c6c4cfcccfc6",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980106",
+            "立法紀錄": "98卷3期3689號二冊 511-511頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfca81c6c7cfcccfcdc4cfcacecec4cfcacece",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950519",
-            "立法紀錄": "95卷29期3490號一冊 29-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfcc81c6cacdc6cfcec4cfcfcdc6c4cfcfccc8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecccfcdc5cbccd2cacd"
-                ]
-            ]
+            "會議日期": "980109",
+            "立法紀錄": "98卷5期3691號一冊 111-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfca81c6c7cfcacfcec4cfcececec4cfcececd",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "950519",
-            "立法紀錄": "95卷29期3490號一冊 38-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfcc81c6cacdc6cfcec4cfcfccc7c4cfcfccc7",
+            "會議日期": "980109",
+            "立法紀錄": "98卷5期3691號一冊 112-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfca81c6c7cfcacfcec4cfcececdc4cfcececd",
             "關係文書": []
         }
     ]
