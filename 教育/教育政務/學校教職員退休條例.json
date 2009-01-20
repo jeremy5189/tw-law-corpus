@@ -1,8 +1,8 @@
 {
     "title": "學校教職員退休條例",
     "versions": [
-        "中華民國96年6月15日修正",
-        "中華民國96年7月11日公布"
+        "中華民國98年1月9日修正",
+        "中華民國98年1月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -132,7 +132,7 @@
         {
             "note": "(準用範圍)",
             "rule_no": "第十八條",
-            "content": "　　公立社會教育及學術機關服務人員、教育部依法令規定資格介派至公、私立學校擔任軍訓護理課程之護理教師之退休，準用本條例之規定。但其具有公務人員身分者，仍依公務人員退休法之規定。\n　　前項護理教師之退休金，在中華民國九十年十月三十日前之任職年資由公庫支給；中華民國九十年十月三十一日後之任職年資由退休撫卹基金支給。",
+            "content": "　　下列人員之退休，除其具有公務人員身分者，仍依公務人員退休法規定辦理外，準用本條例之規定：\n　　一、公立社會教育及學術機關服務人員。\n　　二、教育部依法令規定資格介派至公、私立學校擔任軍訓護理課程之護理教師。\n　　三、幼稚教育法施行後，經各級主管教育行政機關納編之公立幼稚園合格園長及教師。\n　　前項第二款護理教師之退休金，在中華民國九十年十月三十日前之任職年資，由公庫支給；中華民國九十年十月三十一日後之任職年資，由退休撫卹基金支給。\n　　第一項第三款園長及教師，其納編前依臺灣省國民小學附設自立幼稚園（班）試行要點規定進用之合格教師年資，得併計為退休年資。\n　　前項規定，自中華民國九十八年八月一日施行。",
             "relates": {}
         },
         {
@@ -173,87 +173,66 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　照黨團協商條文通過。",
-        "第十八條": "　　照黨團協商條文通過。"
+        "第十八條": "　　民國七十年幼稚教育法實施後，全國陸續進行公立幼稚園之納編作業，惟對於教師納編前之年資可否併計為退休年資之規定付之闕如。為保障公立幼稚園教師之退休權益，實踐國家保障公教人員老年生活之精神，爰修正第一項條文，使公立幼稚園教師納編前之年資可一併計算為退休年資。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940325",
-            "立法紀錄": "94卷14期3396號一冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc881c6cbcecbcfcec4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "970606",
+            "立法紀錄": "97卷36期3647號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc681c6c8ccc9cfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfcec5cdc6ced2cdc6cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececbcfcec5cdcfcad2cdcfc8"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "940913",
-            "立法紀錄": "94卷44期3426號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc881c6cbcbcbcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "黃健庭",
+            "會議日期": "971003",
+            "立法紀錄": "97卷52期3663號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc681c6c8cacdcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "江義雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcecfcec5cdcec8d2cdcec6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941230",
-            "立法紀錄": "95卷2期3463號一冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc881c6cacfcdcfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec9cfcec5cdcec6d2cdcdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfccc8cdc5c9c8d2c8cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940509",
-            "立法紀錄": "94卷36期3418號 173-183頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc881c6cbccc9cfcfc4cfcec8ccc4cfcec7cc",
+            "會議日期": "971110",
+            "立法紀錄": "97卷65期3676號 377-390頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc681c6c8c9cacfcfc4cfccc8c8c4cfccc6cf",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "950410",
-            "立法紀錄": "95卷19期3480號 43-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc881c6cacec6cfcfc4cfcfcbccc4cfcfcac9",
+            "進度": "黨團協商",
+            "會議日期": "980604",
+            "立法紀錄": "98卷55期3741號 569-572頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc681c6c7cacacfcfc4cfcac9c6c4cfcac8cd",
             "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960615",
-            "立法紀錄": "96卷56期3579號一冊 420-428頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc881c6c9cac9cfcec4cfcbcdcfc4cfcbcdc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec8cfccc5cccdcad2cccccc"
-                ]
-            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960615",
-            "立法紀錄": "96卷56期3579號一冊 428-428頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc881c6c9cac9cfcec4cfcbcdc7c4cfcbcdc7",
-            "關係文書": []
+            "會議日期": "980109",
+            "立法紀錄": "98卷5期3691號一冊 173-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc681c6c7cfcacfcec4cfcec8ccc4cfcec7cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec8cfcdc5cac8ced2cac8c9"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960615",
-            "立法紀錄": "96卷56期3579號一冊 428-428頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc881c6c9cac9cfcec4cfcbcdc7c4cfcbcdc7",
+            "會議日期": "980109",
+            "立法紀錄": "98卷5期3691號一冊 180-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccfc681c6c7cfcacfcec4cfcec7cfc4cfcec7cf",
             "關係文書": []
         }
     ]
