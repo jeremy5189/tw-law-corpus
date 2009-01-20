@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國96年12月18日修正",
-        "中華民國97年1月2日公布"
+        "中華民國97年12月30日修正",
+        "中華民國98年1月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -282,7 +282,7 @@
         {
             "note": "",
             "rule_no": "第四十一條",
-            "content": "　　犯最重本刑為五年以下有期徒刑以下之刑之罪，而受六個月以下有期徒刑或拘役之宣告者，得以新臺幣一千元、二千元或三千元折算一日，易科罰金。但確因不執行所宣告之刑，難收矯正之效，或難以維持法秩序者，不在此限。\n　　前項規定於數罪併罰，其應執行之刑未逾六月者，亦適用之。",
+            "content": "　　犯最重本刑為五年以下有期徒刑以下之刑之罪，而受六個月以下有期徒刑或拘役之宣告者，得以新臺幣一千元、二千元或三千元折算一日，易科罰金。但確因不執行所宣告之刑，難收矯正之效或難以維持法秩序者，不在此限。\n　　依前項規定得易科罰金而未聲請易科罰金者，得以提供社會勞動六小時折算一日，易服社會勞動。\n　　受六個月以下有期徒刑或拘役之宣告，不符第一項易科罰金之規定者，得依前項折算規定，易服社會勞動。\n　　前二項之規定，因身心健康之關係，執行顯有困難者，或確因不執行所宣告之刑，難收矯正之效或難以維持法秩序者，不適用之。\n　　第二項及第三項之易服社會勞動履行期間，不得逾一年。\n　　無正當理由不履行社會勞動，情節重大，或履行期間屆滿仍未履行完畢者，於第二項之情形應執行原宣告刑或易科罰金；於第三項之情形應執行原宣告刑。\n　　已繳納之罰金或已履行之社會勞動時數依裁判所定之標準折算日數，未滿一日者，以一日論。\n　　第一項至第三項規定於數罪併罰，其應執行之刑未逾六個月者，亦適用之。",
             "relates": {}
         },
         {
@@ -2591,67 +2591,67 @@
         }
     ],
     "law_reasons": {
-        "第一百八十五條 之三": "　　照黨團協商條文通過。"
+        "第四十一條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950310",
-            "立法紀錄": "95卷9期3470號 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6cacfc6cfcfc4cfcfcfcec4cfcfcfcd",
-            "主提案": "謝國樑",
+            "會議日期": "970612",
+            "立法紀錄": "97卷39期3650號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc781c6c8ccc6cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfcbcfcec5c8c8d2c7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececacfcec5cdcccbd2cdccc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950426",
-            "立法紀錄": "95卷24期3485號 397-403頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6cacdcbcfcfc4cfccc6c8c4cfcbcfcc",
+            "會議日期": "970626",
+            "立法紀錄": "97卷46期3657號 124-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc781c6c8cbc9cfcfc4cfcecdcbc4cfcecacf",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "951019",
-            "立法紀錄": "95卷43期3504號二冊 155-174頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6cacbcccfcdc4cfcecacac4cfcec8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961204",
-            "立法紀錄": "96卷83期3606號四冊 1138-1145頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6c9c7cccfcbc4cececcc7c4cececbca",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970715",
+            "立法紀錄": "97卷47期3658號 133-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc781c6c8cbc8cfcfc4cfceccccc4cfceccc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecccfccc5cdc8ced2cdc8c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec7cfcec5cacbc9d2cacace"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961211",
-            "立法紀錄": "96卷85期3608號 150-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6c9c7cacfcfc4cfcecacfc4cfcecacf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970717",
+            "立法紀錄": "97卷48期3659號一冊 218-218頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc781c6c8cbc7cfcec4cfcdcec7c4cfcdcec7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "971230",
+            "立法紀錄": "98卷3期3689號一冊 181-181頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc781c6c7cfcccfcec4cfcec7cec4cfcec7ce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "961218",
-            "立法紀錄": "96卷86期3609號二冊 376-377頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6c9c7c9cfcdc4cfccc8c9c4cfccc8c8",
+            "會議日期": "971230",
+            "立法紀錄": "98卷3期3689號一冊 182-182頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc781c6c7cfcccfcec4cfcec7cdc4cfcec7cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "961218",
-            "立法紀錄": "96卷86期3609號二冊 377-377頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc981c6c9c7c9cfcdc4cfccc8c8c4cfccc8c8",
+            "會議日期": "971230",
+            "立法紀錄": "98卷3期3689號一冊 182-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9c9cbc781c6c7cfcccfcec4cfcec7cdc4cfcec7cc",
             "關係文書": []
         }
     ]
