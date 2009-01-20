@@ -1,11 +1,11 @@
 {
     "title": "檢肅流氓條例",
     "versions": [
-        "中華民國95年5月5日修正",
-        "中華民國95年5月30日公布"
+        "中華民國98年1月6日廢止",
+        "中華民國98年1月21日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -172,41 +172,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十一條": "　　一、原第一項序文酌作文字修正，將「左列」修正為「下列」。\n　　二、因原條文第二條僅有一項規定，現行第一項第一款所定「第一項」等字乃屬贅詞，爰予刪除。\n　　三、刑法第四章章名已由「共犯」修正為「正犯與共犯」，爰配合將原第一項第三款所定「共犯」，修正為「其他正犯、共犯」。",
-        "第二十五條": "　　配合刑法修正條文自九十五年七月一日施行，爰修正原第二項施行日期之規定。"
-    },
+    "deprecated_reason": "　　「檢肅流氓條例」自施行以來，對治安維護有其功能與貢獻，惟部分條文歷經3次宣告違憲及4次修正，經內政部彙整各司法、治安機關及法學界專家學者意見，基於下列理由，本條例爰予廢止，以符合憲法保障人權之精神。\n　　一、 若修法續存將繼續面臨釋憲問題。\n　　二、 法律性質不明。\n　　三、 本條例規範流氓行為與刑事法令規範之行為重疊。\n　　四、 審查作業窒礙難行。\n　　五、 因情勢變遷，無繼續施行之必要。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950111",
-            "立法紀錄": "95卷5期3466號一冊 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbcf81c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "971128",
+            "立法紀錄": "97卷69期3680號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbcd81c6c8c9c6cfcfc4cfcfcfc8c4cfcfcfc7",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cdcbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecec8cdc5ceccc6d2cecacf"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 133-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbcf81c6cacdcacfcec4cfceccccc4cfcec8c9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
-                ]
-            ]
+            "進度": "委員會審查",
+            "會議日期": "971211",
+            "立法紀錄": "98卷1期3687號 497-525頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbcd81c6c7cfcecfcfc4cfcbc6c8c4cfcacdca",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 177-177頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbcf81c6cacdcacfcec4cfcec8c8c4cfcec8c8",
+            "會議日期": "980106",
+            "立法紀錄": "98卷3期3689號二冊 37-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcecdcbcd81c6c7cfcccfcdc4cfcfccc8c4cfcfcbc9",
             "關係文書": []
         }
     ]
