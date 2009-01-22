@@ -1,8 +1,8 @@
 {
     "title": "漁會法",
     "versions": [
-        "中華民國96年5月11日修正",
-        "中華民國96年6月20日公布"
+        "中華民國98年1月12日修正",
+        "中華民國98年1月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -254,7 +254,7 @@
         {
             "note": "(總幹事等之專職義務)",
             "rule_no": "第二十九條",
-            "content": "　　漁會總幹事及聘雇人員均為專任，不得兼營工商業或兼任公私團體任何有給職務或各級民意代表。如有競選公職，一經當選就職，視同辭職，予以解任。但國民大會代表不在此限。",
+            "content": "　　漁會總幹事及聘雇人員均為專任，不得兼營工商業或兼任公私團體任何有給職務或各級民意代表。如有競選公職，一經當選就職，視同辭職，予以解任。",
             "relates": {}
         },
         {
@@ -477,60 +477,46 @@
         }
     ],
     "law_reasons": {
-        "第二十六條": "　　一、刪除原條文第一項後半段文字。\n　　二、漁會總幹事依據漁會法規定、及其與漁會具有民法上委任關係之司法判例而觀之，漁會總幹事實際上被界定為「專業經理人」角色。專業經理人係以其經營績效良窳，做為決定其去留依據。基於此種認知，企業組織鮮少對專業經理人任期作限制，甚至為避免專業經理人對委任事業之經營權，會受到所有權改變或外力介入等干擾，難以貫徹其經營理念，尤有進者，尚對專業經理人更施以任期保障制度，確保其經營權得以發揮到極至。爰刪除原條文第一項後半段有關總幹事任期制之文字。",
-        "第四十九條 之一": "　　一、修正原條文第二項文字。\n　　二、比照地方制度法第79條第1項第4款規定：「直轄市議員、直轄市長、縣（市）議員、縣（市）長、鄉（鎮、市）民代表、鄉（鎮、市）長及村（里）長受有期徒刑以上刑之判決確定，而未受緩刑之宣告或未執行易科罰金者，解除其職權或職務」"
+        "第二十九條": "　　配合修憲，將「但國民大會代表不在此限」予以刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940325",
-            "立法紀錄": "94卷14期3396號一冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6cbcecbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "國民黨黨團",
+            "會議日期": "971014",
+            "立法紀錄": "97卷53期3664號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cb81c6c8cacccfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfcacfcec5cec9c6d2cec8cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6cacac6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "洪玉欽",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcececfcec5cecfcad2cecfc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbc8cdc5cecec8d2cecec7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940509",
-            "立法紀錄": "94卷36期3418號 120-136頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6cbccc9cfcfc4cfcecdcfc4cfceccc9",
+            "會議日期": "980107",
+            "立法紀錄": "98卷4期3690號三冊 485-508頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cb81c6c7cfcbcfccc4cfcbc7cac4cfcacfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960511",
-            "立法紀錄": "96卷41期3564號 50-59頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6c9cbcecfcfc4cfcfcacfc4cfcfcac6",
+            "會議日期": "980112",
+            "立法紀錄": "98卷5期3691號二冊 10-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cb81c6c7cfcacfcdc4cfcfcecfc4cfcfcecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5cecbcad2cecbc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec8cfccc5cbcac9d2cbcac7"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960511",
-            "立法紀錄": "96卷41期3564號 59-61頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cc81c6c9cbcecfcfc4cfcfcac6c4cfcfc9ce",
+            "會議日期": "980112",
+            "立法紀錄": "98卷5期3691號二冊 13-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cb81c6c7cfcacfcdc4cfcfceccc4cfcfcecc",
             "關係文書": []
         }
     ]
