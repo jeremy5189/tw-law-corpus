@@ -1,8 +1,8 @@
 {
     "title": "農會法",
     "versions": [
-        "中華民國97年7月18日修正",
-        "中華民國97年8月6日公布"
+        "中華民國98年1月12日修正",
+        "中華民國98年1月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -236,7 +236,7 @@
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　農會總幹事及聘雇人員均為專任，不得兼營工商業或兼任公私團體任何有給職務或各級民意代表。如有競選公職，一經當選就職，視同辭職，予以解任。但國民大會代表不在此限。",
+            "content": "　　農會總幹事及聘雇人員均為專任，不得兼營工商業或兼任公私團體任何有給職務或各級民意代表。如有競選公職，一經當選就職，視同辭職，予以解任。",
             "relates": {}
         },
         {
@@ -459,101 +459,46 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　全國性農會組織之成立應不受限下級農會成立三個以上時方得組織之規定，應視實際需要專案報經中央主管機關核准後組織之。"
+        "第二十七條": "　　配合修憲，將「但國民大會代表不在此限」予以刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970408",
-            "立法紀錄": "97卷11期3622號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cececfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "張嘉郡",
+            "會議日期": "971014",
+            "立法紀錄": "97卷53期3664號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cace81c6c8cacccfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9ccc5c9cdc8d2c9cdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbc8cdc5cececad2cecec9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷16期3627號 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cec9cfcfc4cfcfcecec4cfcfcece",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8c8ccc5cbccc6d2cbcbcb"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "970505",
-            "立法紀錄": "97卷26期3637號 251-270頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cdc9cfcfc4cfcdcacec4cfcdc8cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "970619",
-            "立法紀錄": "97卷42期3653號 79-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbcdcfcfc4cfcfc8c6c4cfcfc6cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec9cfcdc5ccc9ccd2ccc8c8"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "970627",
-            "立法紀錄": "97卷45期3656號 60-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbcacfcfc4cfcfc9cfc4cfcfc9cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "970708",
-            "立法紀錄": "97卷47期3658號 91-91頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc8cfcfc4cfcfc6cec4cfcfc6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "970716",
-            "立法紀錄": "97卷48期3659號一冊 73-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc7cfcec4cfcfc8ccc4cfcfc8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "970718",
-            "立法紀錄": "97卷48期3659號一冊 479-480頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc7cfcec4cfcbc8c6c4cfcbc7cf",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "970611",
-            "立法紀錄": "97卷49期3660號 1-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc6cfcfc4cfcfcfcec4cfcfcfc9",
+            "會議日期": "980107",
+            "立法紀錄": "98卷4期3690號三冊 485-508頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cace81c6c7cfcbcfccc4cfcbc7cac4cfcacfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970718",
-            "立法紀錄": "97卷48期3659號一冊 480-480頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc7cfcec4cfcbc7cfc4cfcbc7cf",
-            "關係文書": []
+            "會議日期": "980112",
+            "立法紀錄": "98卷5期3691號二冊 7-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cace81c6c7cfcacfcdc4cfcfcfc8c4cfcfcecf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec8cfccc5cbcacdd2cbcacb"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "970718",
-            "立法紀錄": "97卷48期3659號一冊 480-480頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cbc681c6c8cbc7cfcec4cfcbc7cfc4cfcbc7cf",
+            "會議日期": "980112",
+            "立法紀錄": "98卷5期3691號二冊 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9cace81c6c7cfcacfcdc4cfcfcecfc4cfcfcecf",
             "關係文書": []
         }
     ]
