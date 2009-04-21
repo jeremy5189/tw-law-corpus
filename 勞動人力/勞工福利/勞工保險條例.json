@@ -1,8 +1,8 @@
 {
     "title": "勞工保險條例",
     "versions": [
-        "中華民國98年1月12日修正",
-        "中華民國98年1月23日公布"
+        "中華民國98年3月31日修正",
+        "中華民國98年4月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -614,7 +614,7 @@
         {
             "note": "(投保單位不依法辦理勞工保險之責任)",
             "rule_no": "第七十二條",
-            "content": "　　投保單位不依本條例之規定辦理投保手續者，按自僱用之日起，至參加保險之日止應負擔之保險費金額，處以二倍罰鍰。勞工因此所受之損失，並應由投保單位依本條例規定之給付標準賠償之。\n　　投保單位違背本條例規定，將投保薪資金額以多報少或以少報多者，自事實發生之日起，按其短報或多報之保險費金額，處以二倍罰鍰，並追繳其溢領給付金額。勞工因此所受損失，應由投保單位賠償之。\n　　投保單位於保險人依第十條第三項規定為查對時，拒不出示，或違反同條第四項規定者，處以二千元以上六千元以下罰鍰。\n　　投保單位經依第十七條第一項規定加徵滯納金至應納費額一倍後，其應繳之保險費仍未向保險人繳納者，應按其應繳保險費之金額，處以三倍罰鍰。",
+            "content": "　　投保單位不依本條例之規定辦理投保手續者，按自僱用之日起，至參加保險之日止應負擔之保險費金額，處以二倍罰鍰。勞工因此所受之損失，並應由投保單位依本條例規定之給付標準賠償之。\n　　投保單位違背本條例規定，將投保薪資金額以多報少或以少報多者，自事實發生之日起按其短報或多報之保險費金額，處以二倍罰鍰，並追繳其溢領給付金額。勞工因此所受損失應由投保單位賠償之。\n　　投保單位於保險人依第十條第三項規定為查對時，拒不出示者，或違反同條第四項規定者，處以二千元以上六千元以下罰鍰。\n　　投保單位於本條例中華民國九十七年五月十六日修正生效前，依第十七條第一項規定加徵滯納金至應納費額一倍者，其應繳之保險費仍未向保險人繳納，且未經保險人處以罰鍰或處以罰鍰未執行者，不再裁處或執行。",
             "relates": {}
         },
         {
@@ -683,48 +683,59 @@
         }
     ],
     "law_reasons": {
-        "第二十條": "　　照黨團協商條文通過。"
+        "第七十二條": "　　將第四項文字修正為：「投保單位於本條例中華民國九十七年五月十六日修正生效前，依第十七條第一項規定加徵滯納金至應納費額一倍者，其應繳之保險費仍未向保險人繳納，且未經保險人處以罰鍰或處以罰鍰未執行者，不再裁處或執行。」，其餘未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980106",
-            "立法紀錄": "98卷3期3689號二冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cecf81c6c7cfcccfcdc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "黃淑英",
+            "會議日期": "970509",
+            "立法紀錄": "97卷25期3636號 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cece81c6c8cdcacfcfc4cfcfcfc8c4cfcfcfc8",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec9cfccc5cdcfcfd2cdcfce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececfcfcec5cdc9cad2cdc9c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980106",
-            "立法紀錄": "98卷3期3689號二冊 37-37頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cecf81c6c7cfcccfcdc4cfcfccc8c4cfcfccc8",
-            "關係文書": []
+            "進度": "一讀",
+            "會議日期": "970530",
+            "立法紀錄": "97卷34期3645號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cece81c6c8cccbcfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "張顯耀",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececccfcec5cecfcfd2cecfce"
+                ]
+            ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980112",
-            "立法紀錄": "98卷5期3691號一冊 508-509頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cecf81c6c7cfcacfcec4cfcacfc7c4cfcacfc6",
+            "進度": "委員會審查",
+            "會議日期": "980107",
+            "立法紀錄": "98卷4期3690號三冊 382-416頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cece81c6c7cfcbcfccc4cfccc7cdc4cfcbcec9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980112",
-            "立法紀錄": "98卷5期3691號二冊 152-153頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cecf81c6c7cfcacfcdc4cfcecacdc4cfcecacc",
-            "關係文書": []
+            "會議日期": "980331",
+            "立法紀錄": "98卷14期3700號一冊 433-437頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cece81c6c7cecbcfcec4cfcbccccc4cfcbccc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfcdc5cacccfd2cacccc"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "980112",
-            "立法紀錄": "98卷5期3691號二冊 153-154頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cecf81c6c7cfcacfcdc4cfcecaccc4cfcecacb",
+            "會議日期": "980331",
+            "立法紀錄": "98卷14期3700號一冊 437-437頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c9c9cece81c6c7cecbcfcec4cfcbccc8c4cfcbccc8",
             "關係文書": []
         }
     ]
