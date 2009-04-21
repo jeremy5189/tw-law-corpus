@@ -1,8 +1,8 @@
 {
     "title": "營造業法",
     "versions": [
-        "中華民國97年7月15日修正",
-        "中華民國97年8月6日公布"
+        "中華民國98年3月31日修正",
+        "中華民國98年4月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -448,6 +448,12 @@
             "relates": {}
         },
         {
+            "note": "(工程專業法庭之設立)",
+            "rule_no": "第六十七條 之一",
+            "content": "　　司法院應指定法院設立工程專業法庭，由具有工程相關專業知識或審判經驗之法官，辦理工程糾紛訴訟案件。",
+            "relates": {}
+        },
+        {
             "note": "(離島地區營造業適用規定)",
             "rule_no": "第六十八條",
             "content": "　　離島地區營造業承攬當地工程者，其營造業人員之設置，得不適用第七條、第三十五條及第四十一條規定。\n　　前項所稱離島地區之範圍、人員設置及其相關事項之辦法，由中央主管機關定之。",
@@ -485,71 +491,45 @@
         }
     ],
     "law_reasons": {
-        "第十二條": "　　一、營造業法自92年2月7日公布施行以來，有關資本額之限制，已束縛營造業正常發展。\n　　二、經查經濟部依公司法規定准許營造業以盈餘、紅利等辦理轉增資時，主管機關卻以不符合營造業法第十二條規定之現金定義為理由，拒絕辦理以盈餘、紅利等辦理轉增資，造成「營造業登記證書」與「變更登記表」、「營利事業登記證」之實收資本額所登記之金額不一致，影響營造業參加公共工程投標權益。\n　　三、營造業為資本、勞力密集之產業，應有足夠資金靈活運用，才能順利完成所承攬工程。如續拘泥於原規定，勢將扼殺營造業之經營與發展，是以宜由主管機關衡酌實情，就營造業出資種類及其占資本額比率予以詳細規定，以有助於營造業之經營，進而促進國家建設計畫之推展。",
-        "第三十一條": "　　第五項修正為「工地主任應於中央政府所在地組織全國營造業工地主任公會，辦理營造業工地主任管理輔導及訓練服務等業務；工地主任應加入全國營造業工地主任公會。全國營造業工地主任公會不得拒絕其加入。營造業聘用工地主任，不必經工地主任公會同意。」，其餘照原條文。"
+        "第六十七條 之一": "　　一、本條新增。\n　　二、由於工程糾紛案件，恆具有相當之工程專業性，司法院應指定法院設立工程專業法庭，由具有工程專業知識或審判經驗之法官，辦理工程糾紛訴訟案件，以利曲直平亭。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970523",
-            "立法紀錄": "97卷031期3642號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbce81c6c8cccecfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "李鴻鈞",
+            "會議日期": "971226",
+            "立法紀錄": "98卷3期3689號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcc81c6c7cfcccfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececdc8cdc5cec8ced2cec8cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970606",
-            "立法紀錄": "97卷036期3647號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbce81c6c8ccc9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "陳根德",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececbc8cdc5cdcad2cdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecac8cdc5ccc6d2cbcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970623",
-            "立法紀錄": "97卷044期3655號 96-107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbce81c6c8cbcbcfcfc4cfcfc6c9c4cfcecfc8",
+            "會議日期": "980331",
+            "立法紀錄": "",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970715",
-            "立法紀錄": "97卷047期3658號 114-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbce81c6c8cbc8cfcfc4cfcececbc4cfcecdc9",
+            "會議日期": "980331",
+            "立法紀錄": "98卷14期3700號一冊 448-450頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcc81c6c7cecbcfcec4cfcbcbc7c4cfcbcacf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec7cfcec5cacdcbd2cacdc7"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec7cfcec5cacccfd2caccc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfcdc5cacbc9d2cacbc6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "970715",
-            "立法紀錄": "97卷047期3658號 118-118頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbce81c6c8cbc8cfcfc4cfcecec7c4cfcecec7",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "970715",
-            "立法紀錄": "97卷047期3658號 127-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbce81c6c8cbc8cfcfc4cfcecdc8c4cfcecdc8",
+            "會議日期": "980331",
+            "立法紀錄": "98卷14期3700號一冊 450-450頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cccbcc81c6c7cecbcfcec4cfcbcacfc4cfcbcacf",
             "關係文書": []
         }
     ]
