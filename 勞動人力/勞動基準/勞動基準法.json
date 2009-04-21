@@ -1,8 +1,8 @@
 {
     "title": "勞動基準法",
     "versions": [
-        "中華民國97年4月25日修正",
-        "中華民國97年5月14日公布"
+        "中華民國98年3月31日修正",
+        "中華民國98年4月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -354,7 +354,7 @@
         {
             "note": "",
             "rule_no": "第五十三條",
-            "content": "　　勞工有左列情形之一者，得自請退休：\n　　一、工作十五年以上年滿五十五歲者。\n　　二、工作二十五年以上者。",
+            "content": "　　勞工有下列情形之一，得自請退休：\n　　一、工作十五年以上年滿五十五歲者。\n　　二、工作二十五年以上者。\n　　三、工作十年以上年滿六十歲者。",
             "relates": {}
         },
         {
@@ -593,59 +593,46 @@
         }
     ],
     "law_reasons": {
-        "第五十四條": "　　為因應人口結構調整，台灣國民平均壽命已提高至七十六歲，且勞動人口年齡有延後趨勢，宜加強中高齡人力資源運用，以降低「少子化」對勞動力減少之衝擊。宜延緩強制退休年   齡，修法延長為六十五歲，與公務員退休年齡同步，並保障高齡勞工工作條件。"
+        "第五十三條": "　　一、第三款新增。\n　　二、於民國九十四年修正之勞退新制，規範年資可不受同一事業單位之限制。然於制度推行過程中，主管機關建議年齡接近原強制退休規範（六十歲）之勞工選擇原制度。然於民國九十七年將強制退休年齡修正為六十五歲時，卻未同時調整自請退休之規定，外在條件的變化，影響民眾原本生涯規劃，致使民眾權益受損。\n　　三、依據經濟部提供資料，顯示全台灣企業約一百二十六萬家，平均經營壽命達十五年者，僅佔全體企業的29.65%，除國營事業及公職單位外，多數勞工要符合勞動基準法之舊制所制定之退休規定，實為困難。\n　　四、政府應尊重每一位勞工的退休權利及意願，爰增設本款，以維護勞工退休之權益。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970314",
-            "立法紀錄": "97卷007期3618號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cd81c6c8cfc8cfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "國民黨黨團",
+            "會議日期": "970716",
+            "立法紀錄": "97卷48期3659號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cc81c6c8cbc7cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "徐中雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcbc8cdc5cecdced2cecdcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970328",
-            "立法紀錄": "97卷008期3619號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cd81c6c8cfc7cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "楊瓊瓔",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcac8cdc5cecec8d2cecec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec6cfcec5cec8cbd2cec8c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970418",
-            "立法紀錄": "97卷020期3631號 205-239頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cd81c6c8cdcfcfcfc4cfcdcfcac4cfcdccc6",
+            "會議日期": "980107",
+            "立法紀錄": "98卷4期3690號三冊 382-416頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cc81c6c7cfcbcfccc4cfccc7cdc4cfcbcec9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970425",
-            "立法紀錄": "97卷018期3629號 47-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cd81c6c8cec7cfcfc4cfcfcbc8c4cfcfcace",
+            "會議日期": "980331",
+            "立法紀錄": "98卷14期3700號一冊 429-433頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cc81c6c7cecbcfcec4cfcbcdc6c4cfcbcccc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc7cfccc5ccc9cad2ccc9c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfccc5caccc7d2cacbce"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "970425",
-            "立法紀錄": "97卷018期3629號 51-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cd81c6c8cec7cfcfc4cfcfcacec4cfcfcacd",
+            "會議日期": "980331",
+            "立法紀錄": "98卷14期3700號一冊 433-433頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8c8cc81c6c7cecbcfcec4cfcbccccc4cfcbcccc",
             "關係文書": []
         }
     ]
