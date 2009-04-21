@@ -1,8 +1,8 @@
 {
     "title": "家庭暴力防治法",
     "versions": [
-        "中華民國96年12月21日修正",
-        "中華民國97年1月9日公布"
+        "中華民國98年4月7日修正",
+        "中華民國98年4月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -334,7 +334,7 @@
         {
             "note": "",
             "rule_no": "第五十條",
-            "content": "　　醫事人員、社會工作人員、臨床心理人員、教育人員、保育人員、警察人員及其他執行家庭暴力防治人員，在執行職務時知有疑似家庭暴力情事者，應立即通報當地主管機關，至遲不得逾二十四小時。\n　　前項通報之方式及內容，由中央主管機關定之；通報人之身分資料，應予保密。\n　　主管機關接獲通報後，應即行處理；必要時得自行或委請其他機關（構）、團體進行訪視、調查。\n　　主管機關或受其委請之機關（構）或團體進行訪視、調查時，得請求警察機關、醫療（事）機構、學校或其他相關機關（構）協助，被請求者應予配合。",
+            "content": "　　醫事人員、社會工作人員、臨床心理人員、教育人員、保育人員、警察人員、移民業務人員及其他執行家庭暴力防治人員，在執行職務時知有疑似家庭暴力情事者，應立即通報當地主管機關，至遲不得逾二十四小時。\n　　前項通報之方式及內容，由中央主管機關定之；通報人之身分資料，應予保密。\n　　主管機關接獲通報後，應即行處理；必要時得自行或委請其他機關（構）、團體進行訪視、調查。\n　　主管機關或受其委請之機關（構）或團體進行訪視、調查時，得請求警察機關、醫療（事）機構、學校或其他相關機關（構）協助，被請求者應予配合。",
             "relates": {}
         },
         {
@@ -443,48 +443,46 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　一、第一及第二項未修正。\n　　二、第三項修正為保護令之聲請、撤銷、變更、延長及抗告，均免徵裁判費，並準用民事訴訟法第七十七條之二十三第四項規定。"
+        "第五十條": "　　為提供受暴之外籍配偶與大陸配偶即時接受相關機關幫助，將與外配或陸配經常接觸，主責移民業務之相關人員列為責任通報人員之一。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "960525",
-            "立法紀錄": "96卷46期3569號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdcc81c6c9cbc9cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "潘維剛",
+            "會議日期": "971121",
+            "立法紀錄": "97卷67期3678號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdca81c6c8c9c8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "徐中雄",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecbcfcec5cec7cad2cec7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecfc8cdc5c7c8d2c6cf"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "961130",
-            "立法紀錄": "96卷83期3606號一冊 36-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdcc81c6c9c7cccfcec4cfcfccc9c4cfcfccc9",
+            "進度": "委員會審查",
+            "會議日期": "980323",
+            "立法紀錄": "98卷16期3702號 187-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdca81c6c7cec9cfcfc4cfcec7c8c4cfcdcfc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "961218",
-            "立法紀錄": "96卷86期3609號二冊 388-388頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdcc81c6c9c7c9cfcdc4cfccc7c7c4cfccc7c7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdcc81c6c9c7c7cfcdc4cfcfcfc9c4cfcfcfc8",
-            "關係文書": []
+            "會議日期": "980407",
+            "立法紀錄": "98卷17期3703號 106-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdca81c6c7cec8cfcfc4cfcecfc9c4cfcecfc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc8cfcdc5cccfcbd2cccfc8"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "961221",
-            "立法紀錄": "96卷88期3611號二冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdcc81c6c9c7c7cfcdc4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "980407",
+            "立法紀錄": "98卷17期3703號 109-110頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfcdca81c6c7cec8cfcfc4cfcecfc6c4cfcececf",
             "關係文書": []
         }
     ]
