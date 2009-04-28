@@ -1,11 +1,11 @@
 {
     "title": "罰金罰鍰提高標準條例",
     "versions": [
-        "中華民國95年4月28日修正",
-        "中華民國95年5月17日公布"
+        "中華民國98年4月14日廢止",
+        "中華民國98年4月29日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -46,48 +46,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　一、本條刪除。\n　　二、刑法已於九十四年一月七日修正第四十一條、第四十二條，並於九十四年二月二日公布，自九十五年七月一日施行。其修正重點係分別將易科罰金由一元以上三元以下折算一日，修正為以新臺幣一千元、二千元或三千元折算一日；易服勞役以一元以上三元以下折算一日，修正為以新臺幣一千元、二千元或三千元折算一日。刑法第四十一條、第四十二條經修正後，已適度反應經濟水準，本條已無存在必要，爰予刪除。",
-        "第六條": "　　一、原條文未修正，列為第一項。\n　　二、為配合九十四年二月二日修正公布之刑法，自九十五年七月一日施行，爰增訂第二項之規定。"
-    },
+    "deprecated_reason": "　　「罰金罰鍰提高標準條例」於51年5月25日公布施行，原為因應法律處罰金、罰鍰數額，不合經濟水平而制定，雖歷經多次修正，仍無一致之適用標準；實務上對科處罰金、罰鍰之數額，除依該處罰之規定外，尚須判斷有無本條例之適用，其有適用者復須檢視有無經主管院提高其倍數，適用上缺乏明確性，亦與民眾預期之法律效果產生落差，影響對法律之信賴。再者，現行法律仍有本條例適用者，已屬少數，且均已歷二十餘年未修正數額，亦不合時宜，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950324",
-            "立法紀錄": "95卷12期3473號一冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cd81c6cacecdcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "970716",
+            "立法紀錄": "97卷48期3659號一冊 9-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cc81c6c8cbc7cfcec4cfcfcfc6c4cfcfcfc6",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc9cfcec5cecccfd2cecccd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec6cfcec5cccfcdd2cccfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950410",
-            "立法紀錄": "95卷19期3480號 91-92頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cd81c6cacec6cfcfc4cfcfc6cec4cfcfc6cd",
+            "會議日期": "980323",
+            "立法紀錄": "98卷16期3702號 170-183頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cc81c6c7cec9cfcfc4cfcec8cfc4cfcec7cc",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950428",
-            "立法紀錄": "95卷23期3484號 29-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cd81c6cacdcccfcfc4cfcfcdc6c4cfcfcccd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccececfcdc5ccd2ca"
-                ]
-            ]
-        },
-        {
             "進度": "三讀",
-            "會議日期": "950428",
-            "立法紀錄": "95卷23期3484號 32-32頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cd81c6cacdcccfcfc4cfcfcccdc4cfcfcccd",
+            "會議日期": "980414",
+            "立法紀錄": "98卷19期3705號一冊 263-265頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cccec8cc81c6c7cec6cfcec4cfcdc9ccc4cfcdc9ca",
             "關係文書": []
         }
     ]
