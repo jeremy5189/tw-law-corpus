@@ -1,11 +1,11 @@
 {
     "title": "原住民敬老福利生活津貼暫行條例",
     "versions": [
-        "中華民國92年12月4日修正",
-        "中華民國92年12月17日公布"
+        "中華民國98年4月14日廢止",
+        "中華民國98年4月29日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -94,48 +94,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　一、原條文第一項第四款與九十一年五月二十二日制定公布之敬老福利生活津貼暫行條例第三條第一項第三款規定屬相同事項，鑑於照顧原住民老人之政策，爰比照予以刪除。\n　　二、第二項及第三項所引相關款次配合第一項第四款之刪除，分別修正為「第六款」、「第四款」；並將原條文第三項所定「津貼」刪除之。",
-        "第十四條": "　　一、第一項依一般體例酌作文字修正。\n　　二、增列第二項，明定修正條文第三條之施行日期，比照九十二年六月十八日修正公布之敬老福利生活津貼暫行條例第三條規定，自中華民國九十二年七月一日施行。"
-    },
+    "deprecated_reason": "　　原住民平均餘命相較於全體國民平均餘命相差約10歲，立法院於制定敬老福利生活津貼暫行條例同時，一併制定原住民敬老福利生活津貼暫行條例於91年5月22日公布，並溯自91年1月1日起施行，使年滿55歲至未滿65歲之原住民老人，得依本條例每月領取3,000元之敬老福利生活津貼，以增進其福祉。茲以國民年金法於96年8月8日制定公布，原住民敬老福利生活津貼給付已併入該法規範，並自97年10月1日起施行，依據該法第53條第3項規定：「原住民敬老福利生活津貼暫行條例於本法施行後，不再適用。」故本條例應無繼續存在之必要，爰予廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "921003",
-            "立法紀錄": "92卷41期3315號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecec681c6cdcbcecfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "971121",
+            "立法紀錄": "97卷67期3678號 43-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdcf81c6c8c9c8cfcfc4cfcfcbccc4cfcfcbcc",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfcbcfcec5cccacad2cccac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc8c8cdc5cecfc6d2cececd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921103",
-            "立法紀錄": "92卷51期3325號下冊 107-139頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecec681c6cdcacecfccc4cfcecfc8c4cfceccc6",
+            "會議日期": "980330",
+            "立法紀錄": "98卷18期3704號 195-205頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdcf81c6c7cec7cfcfc4cfcec6cac4cfcdcfca",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "921204",
-            "立法紀錄": "92卷57期3331號一冊 96-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecec681c6cdcac8cfcec4cfcfc6c9c4cfcecfce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecdcfcdc5c7cad2c6ce"
-                ]
-            ]
-        },
-        {
             "進度": "三讀",
-            "會議日期": "921204",
-            "立法紀錄": "92卷57期3331號一冊 101-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecec681c6cdcac8cfcec4cfcecfcec4cfcecfcd",
+            "會議日期": "980414",
+            "立法紀錄": "98卷19期3705號一冊 260-263頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcecdcf81c6c7cec6cfcec4cfcdc9cfc4cfcdc9cc",
             "關係文書": []
         }
     ]
