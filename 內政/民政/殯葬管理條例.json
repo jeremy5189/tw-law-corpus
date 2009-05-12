@@ -1,8 +1,8 @@
 {
     "title": "殯葬管理條例",
     "versions": [
-        "中華民國96年6月14日修正",
-        "中華民國96年7月4日公布"
+        "中華民國98年4月28日修正",
+        "中華民國98年5月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -226,9 +226,9 @@
             "relates": {}
         },
         {
-            "note": "(遷葬之認定與補償費之發給)",
+            "note": "(遷葬之認定與補償費、救濟金之發給)",
             "rule_no": "第三十五條",
-            "content": "　　依法設置之墳墓，因情事變更致有妨礙軍事設施、公共衛生、都市發展或其他公共利益之虞，經直轄市、縣（市）主管機關轉請目的事業主管機關認定屬實者，應予遷葬。但經公告為古蹟者，不在此限。\n　　前項應行遷葬之墳墓，應發給遷葬補償費；其補償基準，由直轄市、縣（市）主管機關定之。",
+            "content": "　　墳墓因情事變更致有妨礙軍事設施、公共衛生、都市發展或其他公共利益之虞，經直轄市、縣（市）主管機關轉請目的事業主管機關認定屬實者，應予遷葬。但經公告為古蹟者，不在此限。\n　　前項應行遷葬之合法墳墓，應發給遷葬補償費；其補償基準，由直轄市、縣（市）主管機關定之。但非依法設置之墳墓得發給遷葬救濟金；其要件及標準，由直轄市、縣（市）主管機關定之。",
             "relates": {}
         },
         {
@@ -495,53 +495,46 @@
         }
     ],
     "law_reasons": {
-        "第九條": "　　為提升都會地區之生活品質與善良風俗，授權地方政府擁有變更殯儀館或火化場的設置地點之法律依據。"
+        "第三十五條": "　　鑑於墳墓無論其是否依法設置，有公益理由均應遷葬。惟應限合法墳墓方發給遷葬補償費，以符公平正義原則。至於非法設置墳墓若妨礙公共建設進度，為減少政府支出成本，同時鼓勵人民自主遷葬，得發給遷葬救濟金。爰參酌各項因素修正通過本條條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "960413",
-            "立法紀錄": "96卷30期3553號一冊 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cc81c6c9cccfcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "吳志揚",
+            "會議日期": "971014",
+            "立法紀錄": "97卷53期3664號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cb81c6c8cacccfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "江義雄",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfc7c8cdc5cdc8d2cccf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbcfcec5cec7c8d2cec7c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960425",
-            "立法紀錄": "96卷37期3560號 19-45頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cc81c6c9ccc8cfcfc4cfcfcec6c4cfcfcbca",
+            "會議日期": "980409",
+            "立法紀錄": "98卷21期3707號 389-418頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cb81c6c7cdcecfcfc4cfccc7c6c4cfcbcec7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 2-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cc81c6c9cacbcfcec4cfcfcfcdc4cfcfcfca",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980428",
+            "立法紀錄": "98卷24期3710號 128-133頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cb81c6c7cdcbcfcfc4cfcecdc7c4cfcecccc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5cdcec8d2cdcdcf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6cfccc5ccc9c8d2ccc8cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cc81c6c9cacbcfcec4cfcfcfcac4cfcfcfca",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cc81c6c9cacbcfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "980428",
+            "立法紀錄": "98卷24期3710號 133-133頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec8c8c7cb81c6c7cdcbcfcfc4cfceccccc4cfcecccc",
             "關係文書": []
         }
     ]
