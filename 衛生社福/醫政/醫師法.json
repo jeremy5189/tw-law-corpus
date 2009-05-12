@@ -1,8 +1,8 @@
 {
     "title": "醫師法",
     "versions": [
-        "中華民國96年11月21日修正",
-        "中華民國96年12月12日公布"
+        "中華民國98年4月21日修正",
+        "中華民國98年5月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -156,7 +156,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　醫師對於診治之病人交付藥劑時，應於容器或包裝上載明病人姓名、性別、藥名、劑量、數量、用法、執業醫療機構名稱與地點及交付年、月、日。",
+            "content": "　　醫師對於診治之病人交付藥劑時，應於容器或包裝上載明病人姓名、性別、藥名、劑量、數量、用法、作用或適應症、警語或副作用、執業醫療機構名稱與地點、調劑者姓名及調劑年、月、日。",
             "relates": {}
         },
         {
@@ -437,52 +437,46 @@
         }
     ],
     "law_reasons": {
-        "第三十七條": "　　一、如依各公會所屬會員人數佔全國醫師總人數比例計算其席次，會員人數過少之公會將無法獲得席次分配，意見及權益容易被忽略。爰將第一項第三款理事人數增至四十五人。\n　　二、全國聯合會欲保障各會員公會至少一名理事，其餘名額依各縣市中（西、牙）醫師人數佔全國中（西、牙）醫師總人數之比例分配，如此將可合理分配理監事席次，並兼顧所有會員公會之權益。"
+        "第十四條": "　　為保障病人知的權益及用藥安全，爰規定交付藥劑時，其容器或包裝載明事項參照藥師法之規定，增列用法、作用或適應症、警語或副作用、調劑者姓名及調劑年、月、日等事項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950919",
-            "立法紀錄": "95卷37期3498號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac781c6caccc8cfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "971205",
+            "立法紀錄": "97卷71期3682號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac681c6c8c8cecfcfc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcecfcec5ccc8c6d2ccc7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecdc8cdc5cecdc6d2cecccd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960611",
-            "立法紀錄": "96卷55期3578號 209-222頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac781c6c9cacacfcfc4cfcdcfc6c4cfcdcdcd",
+            "會議日期": "980406",
+            "立法紀錄": "98卷20期3706號 177-240頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac681c6c7cdcfcfcfc4cfcec8c8c4cfcdcbcf",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "961121",
-            "立法紀錄": "96卷80期3603號 213-216頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac781c6c9c7cfcfcfc4cfcdceccc4cfcdcec9",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980421",
+            "立法紀錄": "98卷22期3708號 62-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac681c6c7cdcdcfcfc4cfcfc9cdc4cfcfc9ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cececfccc5cacecbd2cacec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6cfccc5cdccc6d2cdcbce"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961121",
-            "立法紀錄": "96卷80期3603號 216-216頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac781c6c9c7cfcfcfc4cfcdcec9c4cfcdcec9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "961121",
-            "立法紀錄": "96卷80期3603號 216-216頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac781c6c9c7cfcfcfc4cfcdcec9c4cfcdcec9",
+            "會議日期": "980421",
+            "立法紀錄": "98卷22期3708號 65-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac681c6c7cdcdcfcfc4cfcfc9cac4cfcfc9ca",
             "關係文書": []
         }
     ]
