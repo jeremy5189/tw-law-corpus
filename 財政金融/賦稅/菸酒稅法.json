@@ -1,8 +1,8 @@
 {
     "title": "菸酒稅法",
     "versions": [
-        "中華民國97年11月7日修正",
-        "中華民國97年11月26日公布"
+        "中華民國98年4月28日修正",
+        "中華民國98年5月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -62,7 +62,7 @@
         {
             "note": "(酒之課稅項目及應徵稅額)",
             "rule_no": "第八條",
-            "content": "　　酒之課稅項目及應徵稅額如下：\n　　一、釀造酒類：\n　　　(一)啤酒：每公升徵收新臺幣二十六元。\n　　　(二)其他釀造酒：每公升按酒精成分每度徵收新臺幣七元。\n　　二、蒸餾酒類：每公升徵收新臺幣一百八十五元。\n　　三、再製酒類：酒精成分以容量計算超過百分之二十者，每公升徵收新臺幣一百八十五元；酒精成分以容量計算在百分之二十以下者，每公升按酒精成分每度徵收新臺幣七元。\n　　四、料理酒：每公升徵收新臺幣九元。\n　　五、其他酒類：每公升按酒精成分每度徵收新臺幣七元。\n　　六、酒精：每公升徵收新臺幣十五元。",
+            "content": "　　酒之課稅項目及應徵稅額如下：\n　　一、釀造酒類：\n　　　(一)啤酒：每公升徵收新臺幣二十六元。\n　　　(二)其他釀造酒：每公升按酒精成分每度徵收新臺幣七元。\n　　二、蒸餾酒類：每公升按酒精成分每度徵收新臺幣二點五元。\n　　三、再製酒類：酒精成分以容量計算超過百分之二十者，每公升徵收新臺幣一百八十五元；酒精成分以容量計算在百分之二十以下者，每公升按酒精成分每度徵收新臺幣七元。\n　　四、料理酒：每公升徵收新臺幣九元。\n　　五、其他酒類：每公升按酒精成分每度徵收新臺幣七元。\n　　六、酒精：每公升徵收新臺幣十五元。",
             "relates": {}
         },
         {
@@ -175,46 +175,98 @@
         }
     ],
     "law_reasons": {
-        "第二十一條": "　　依據司法院九十七年四月十八日釋字第六四一號解釋，原條文就超過原專賣價格出售專賣米酒者，應處每瓶新臺幣二千元罰鍰之處罰方式，固已考量販售數量而異其處罰程度，惟採劃一處罰方式，於個案處罰顯然過苛時，法律未設適當調整機制，不符憲法比例原則，應予以修正，並至遲於解釋公布之日起屆滿一年時停止適用。爰就查獲超過原專賣價格出售專賣時期產製之米酒者，按超過原專賣價格之金額，處一倍至三倍罰鍰，以符合比例原則，並達到懲罰不法業者投機取巧目的。"
+        "第八條": "　　自九十二年起，米酒比照蒸餾酒類採從量課徵單一稅額，每公升課徵菸酒稅新臺幣一百八十五元，致私劣米酒充斥，損害國民健康至鉅，亟待解決。爰參採日本、美國、英國、法國等國家蒸餾酒稅制，修正第二款，將蒸餾酒類改按酒精度課稅，每公升按酒精成分每度徵收新臺幣二點五元，使米酒之菸酒稅負擔合理化，提高廠商合法繳稅意願，降低廠商產製及民眾購買私劣酒誘因，緩和私劣酒問題，以保護消費者飲用酒品安全，維護國民健康，並與國際接軌。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970708",
-            "立法紀錄": "97卷47期3658號 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cc81c6c8cbc8cfcfc4cfcfcecfc4cfcfcecf",
+            "會議日期": "980227",
+            "立法紀錄": "98卷7期3693號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cb81c6c7cfc8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "羅淑蕾",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5ccc6d2cbc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980306",
+            "立法紀錄": "98卷8期3694號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cb81c6c7cfc7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "盧秀燕",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfccc8cdc5ccced2cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cb81c6c7cecbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "廖婉汝",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfccc5cbc6ccd2cbc6ca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980403",
+            "立法紀錄": "98卷17期3703號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cb81c6c7cec8cfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec7cfcec5cec8cbd2cec8c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc8c8cdc5c9c8d2c9c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980417",
+            "立法紀錄": "98卷22期3708號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cb81c6c7cdcdcfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "賴清德",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6c8cdc5ceccced2cecccd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971002",
-            "立法紀錄": "97卷52期3663號二冊 377-429頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cc81c6c8cacdcfcdc4cfccc8c8c4cfcbcdc6",
+            "會議日期": "980416",
+            "立法紀錄": "98卷23期3709號 364-404頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cb81c6c7cdcccfcfc4cfccc9cbc4cfcbcfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 39-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cc81c6c8c9cccfcfc4cfcfccc6c4cfcfcbcd",
+            "會議日期": "980428",
+            "立法紀錄": "98卷24期3710號 39-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cb81c6c7cdcbcfcfc4cfcfccc6c4cfcfcace",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7cfcdc5cad2c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecfcfcec5ceccced2cecccd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 42-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cc81c6c8c9cccfcfc4cfcfcbcdc4cfcfcbcd",
+            "會議日期": "980428",
+            "立法紀錄": "98卷24期3710號 51-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc6c7cb81c6c7cdcbcfcfc4cfcfcacec4cfcfcacd",
             "關係文書": []
         }
     ]
