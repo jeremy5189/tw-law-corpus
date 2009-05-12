@@ -1,8 +1,8 @@
 {
     "title": "就業服務法",
     "versions": [
-        "中華民國97年7月15日修正",
-        "中華民國97年8月6日公布"
+        "中華民國98年4月21日修正",
+        "中華民國98年5月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,7 +22,7 @@
         {
             "note": "(名詞定義)",
             "rule_no": "第二條",
-            "content": "　　本法用詞定義如下：\n　　一、就業服務：指協助國民就業及雇主徵求員工所提供之服務。\n　　二、就業服務機構：指提供就業服務之機構；其由政府機關設置者，為公立就業服務機構；其由政府以外之私人或團體所設置者，為私立就業服務機構。\n　　三、雇主：指聘、僱用員工從事工作者。\n　　四、中高齡者：指年滿四十五歲至六十五歲之國民。",
+            "content": "　　本法用詞定義如下：\n　　一、就業服務：指協助國民就業及雇主徵求員工所提供之服務。\n　　二、就業服務機構：指提供就業服務之機構；其由政府機關設置者，為公立就業服務機構；其由政府以外之私人或團體所設置者，為私立就業服務機構。\n　　三、雇主：指聘、僱用員工從事工作者。\n　　四、中高齡者：指年滿四十五歲至六十五歲之國民。\n　　五、長期失業者：指連續失業期間達一年以上，且辦理勞工保險退保當日前三年內，保險年資合計滿六個月以上，並於最近一個月內有向公立就業服務機構辦理求職登記者。",
             "relates": {}
         },
         {
@@ -162,7 +162,7 @@
         {
             "note": "(促進自願就業人員就業之計畫)",
             "rule_no": "第二十四條",
-            "content": "　　主管機關對下列自願就業人員，應訂定計畫，致力促進其就業，必要時，得發給相關津貼或補助金：\n　　一、負擔家計婦女。\n　　二、中高齡者。\n　　三、身心障礙者。\n　　四、原住民。\n　　五、生活扶助戶中有工作能力者。\n　　六、其他經中央主管機關認為有必要者。\n　　前項計畫應定期檢討，落實其成效。\n　　第一項津貼或補助金之申請資格、金額、期間、經費來源及其他相關事項之辦法，由主管機關定之。",
+            "content": "　　主管機關對下列自願就業人員，應訂定計畫，致力促進其就業；必要時，得發給相關津貼或補助金：\n　　一、獨力負擔家計者。\n　　二、中高齡者。\n　　三、身心障礙者。\n　　四、原住民。\n　　五、生活扶助戶中有工作能力者。\n　　六、長期失業者。\n　　七、其他經中央主管機關認為有必要者。\n　　前項計畫應定期檢討，落實其成效。\n　　第一項津貼或補助金之申請資格、金額、期間、經費來源及其他相關事項之辦法，由主管機關定之。",
             "relates": {}
         },
         {
@@ -172,9 +172,9 @@
             "relates": {}
         },
         {
-            "note": "(婦女再就業之輔導)",
+            "note": "(婦女再就業之輔導及職業訓練)",
             "rule_no": "第二十六條",
-            "content": "　　主管機關為輔導因妊娠、分娩或育兒而離職之婦女再就業，應視實際需要，辦理職業訓練。",
+            "content": "　　主管機關為輔導獨力負擔家計者就業，或因妊娠、分娩或育兒而離職之婦女再就業，應視實際需要，辦理職業訓練。",
             "relates": {}
         },
         {
@@ -543,46 +543,81 @@
         }
     ],
     "law_reasons": {
-        "第四十八條": "　　將第一項修正為「雇主聘僱外國人工作，應檢具有關文件，向中央主管機關申請許可。但有下列情形之一，不須申請許可：一、各級政府及其所屬學術研究機構聘請外國人擔任顧問或研究工作者。二、外國人與在中華民國境內設有戶籍之國民結婚，且獲准居留者。三、受聘僱於公立或經立案之私立大學進行六個月內之短期講座、學術研究經教育部認可者。」，其餘照原條文。"
+        "第二條": "　　增列第一項第五款「長期失業者」之定義。",
+        "第二十四條": "　　一、將原條文第一項第一款文字修正為「獨力負擔家計者」。\n　　二、增列「長期失業者」為第一項第六款，原第六款調整為第七款。",
+        "第二十六條": "　　修正首句為「主管機關為輔導獨力負擔家計者就業，或因妊娠、分娩或育兒而離職之婦女再就業」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970502",
-            "立法紀錄": "97卷023期3634號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfccc681c6c8cdcccfcfc4cfcfcfcdc4cfcfcfcc",
-            "主提案": "丁守中",
+            "會議日期": "971107",
+            "立法紀錄": "97卷63期3674號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbce81c6c8c9cccfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc6c8cdc5cdc6d2cccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7c8cdc5cacad2cac7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "971226",
+            "立法紀錄": "98卷3期3689號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbce81c6c7cfcccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": false,
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecac8cdc5cec6d2cdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980306",
+            "立法紀錄": "98卷8期3694號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbce81c6c7cfc7cfcfc4cfcfcfcdc4cfcfcfcc",
+            "主提案": "民進黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfccc8cdc5cbcad2cbc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970625",
-            "立法紀錄": "97卷044期3655號 356-433頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfccc681c6c8cbcbcfcfc4cfcccac9c4cfcbcccc",
+            "會議日期": "980319",
+            "立法紀錄": "98卷15期3701號 470-515頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbce81c6c7cecacfcfc4cfcbc8cfc4cfcaceca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "980402",
+            "立法紀錄": "98卷19期3705號二冊 199-212頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbce81c6c7cec6cfcdc4cfcec6c6c4cfcdcecd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970715",
-            "立法紀錄": "97卷047期3658號 145-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfccc681c6c8cbc8cfcfc4cfcecbcac4cfcecbc6",
+            "會議日期": "980421",
+            "立法紀錄": "98卷22期3708號 42-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbce81c6c7cdcdcfcfc4cfcfcbcdc4cfcfcacb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec7cfcec5cacac7d2cac9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6cfccc5cdcec6d2cdcccf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "970715",
-            "立法紀錄": "97卷047期3658號 149-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfccc681c6c8cbc8cfcfc4cfcecbc6c4cfcecbc6",
+            "會議日期": "980421",
+            "立法紀錄": "98卷22期3708號 54-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbce81c6c7cdcdcfcfc4cfcfcacbc4cfcfcacb",
             "關係文書": []
         }
     ]
