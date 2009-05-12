@@ -1,8 +1,8 @@
 {
     "title": "醫療法",
     "versions": [
-        "中華民國97年12月19日修正",
-        "中華民國98年1月7日公布"
+        "中華民國98年4月21日修正",
+        "中華民國98年5月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -98,7 +98,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　醫院之設立或擴充，應經主管機關許可後，始得依建築法有關規定申請建築執照；其設立分院者，亦同。",
+            "content": "　　醫院之設立或擴充，應經主管機關許可後，始得依建築法有關規定申請建築執照；其設立分院者，亦同。\n　　前項醫院設立或擴充之許可，其申請人之資格、審查程序及基準、限制條件、撤銷、廢止及其他應遵行事項之辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -430,7 +430,7 @@
         {
             "note": "",
             "rule_no": "第六十六條",
-            "content": "　　醫院、診所對於診治之病人交付藥劑時，應於容器或包裝上載明病人姓名、性別、藥名、劑量、數量、用法、醫療機構名稱與地點及交付年、月、日。",
+            "content": "　　醫院、診所對於診治之病人交付藥劑時，應於容器或包裝上載明病人姓名、性別、藥名、劑量、數量、用法、作用或適應症、警語或副作用、醫療機構名稱與地點、調劑者姓名及調劑年、月、日。",
             "relates": {}
         },
         {
@@ -801,46 +801,60 @@
         }
     ],
     "law_reasons": {
-        "第九十三條": "　　一、第一項未修正。\n　　二、新增第二項規定。茲為促進對醫療技術升級發展具重大效益之新興醫療研究方法之創新與研發，對於投資金額達到一定門檻（例如新台幣五十億元以上）之醫療研究計畫，實有必要鬆綁開放使投入醫療研究計畫之公益法人亦得購置及使用危險性醫療儀器，爰規定公益法人得經中央主管機關許可，依第三十條及第三十一條之規定設立醫療法人醫療機構，購置及使用具有危險性醫療儀器。\n　　三、原條文第二項移列為第三項。"
+        "第十四條": "　　一、原條文未修正，列為第一項。\n　　二、為均衡醫療資源分布，提升病床效益，行政院衛生署前已公告「行政院衛生署受理醫院設立或擴充案件審查原則一覽表」及「行政院衛生署受理醫院精神科病床設立或擴充案件審查原則」，對於醫療資源過賸區域，強化病床審核機制，以有效管制醫院設立或擴充，促進醫療資源合理分布，確保民眾就醫權益。惟因其涉及人民權益事項，爰增列第二項，賦予中央主管機關訂定醫院設立或擴充審查辦法之依據，並明確訂定授權範圍。",
+        "第六十六條": "　　為保障病人知的權益及用藥安全，爰規定交付藥劑時，其容器或包裝載明事項參照藥師法之規定，增列用法、作用或適應症、警語或副作用、調劑者姓名及、調劑年、月、日等事項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfce81c6c8c9cccfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃義交",
+            "會議日期": "971205",
+            "立法紀錄": "97卷71期3682號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfcd81c6c8c8cecfcfc4cfcfcfc8c4cfcfcfc8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7c8cdc5c8c6d2c7cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecdc8cdc5ceccc8d2cecbcf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980220",
+            "立法紀錄": "98卷6期3692號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfcd81c6c7cfc9cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcec8cdc5c9ced2c9cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971210",
-            "立法紀錄": "98卷1期3687號 268-323頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfce81c6c7cfcecfcfc4cfcdc9c7c4cfcccdcc",
+            "會議日期": "980406",
+            "立法紀錄": "98卷20期3706號 177-240頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfcd81c6c7cdcfcfcfc4cfcec8c8c4cfcdcbcf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "971219",
-            "立法紀錄": "97卷75期3686號 52-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfce81c6c8c8cacfcfc4cfcfcacdc4cfcfcac9",
+            "會議日期": "980421",
+            "立法紀錄": "98卷22期3708號 68-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfcd81c6c7cdcdcfcfc4cfcfc9c7c4cfcfc8cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecbcfcec5cbcdc7d2cbcccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6cfccc5cdcbc8d2cdcacf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "971219",
-            "立法紀錄": "97卷75期3686號 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfce81c6c8c8cacfcfc4cfcfcac9c4cfcfcac9",
+            "會議日期": "980421",
+            "立法紀錄": "98卷22期3708號 72-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac6cfcd81c6c7cdcdcfcfc4cfcfc8cdc4cfcfc8cd",
             "關係文書": []
         }
     ]
