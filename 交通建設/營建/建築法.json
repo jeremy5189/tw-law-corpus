@@ -1,8 +1,8 @@
 {
     "title": "建築法",
     "versions": [
-        "中華民國93年1月2日修正",
-        "中華民國93年1月20日公布"
+        "中華民國98年5月12日修正",
+        "中華民國98年5月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -82,7 +82,7 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　本法所稱建築物之起造人，為建造該建築物之申請人，其為未成年或禁治產者，由其法定代理人代為申請；本法規定之義務與責任，亦由法定代理人負之。\n　　起造人為政府機關公營事業機構、團體或法人者，由其負責人申請之，並由負責人負本法規定之義務與責任。",
+            "content": "　　本法所稱建築物之起造人，為建造該建築物之申請人，其為未成年或受監護宣告之人，由其法定代理人代為申請；本法規定之義務與責任，亦由法定代理人負之。\n　　起造人為政府機關公營事業機構、團體或法人者，由其負責人申請之，並由負責人負本法規定之義務與責任。",
             "relates": {}
         },
         {
@@ -780,51 +780,52 @@
         {
             "note": "",
             "rule_no": "第一百零五條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十八年五月十二日修正之條文，自九十八年十一月二十三日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第二條": "　　將直轄市、縣（市）政府主管建築機關修正為直轄市、縣（市）政府以符地方自治精神。"
+        "第十二條": "　　一、九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產人」修正為「受監護宣告之人」，爰將第一項之「禁治產者」修正為「受監護宣告之人」。\n　　二、第二項未修正。",
+        "第一百零五條": "　　一、第一項未修正。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日修正施行，本法本次修正之條文亦定自同日施行，爰增訂第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920418",
-            "立法紀錄": "92卷21期3295號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecf81c6cdcdcecfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": false,
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecd81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfc7cfcec5cecacfd2cecacd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921222",
-            "立法紀錄": "93卷3期3337號下冊 35-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecf81c6cccfcccfccc4cfcfcccac4cfcfcac9",
+            "會議日期": "980427",
+            "立法紀錄": "98卷27期3713號 254-276頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecd81c6c7cdc8cfcfc4cfcdcacbc4cfcdc8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930102",
-            "立法紀錄": "93卷4期3338號上冊 54-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecf81c6cccfcbcfcec4cfcfcacbc4cfcfcac7",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 109-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecd81c6c7cdc7cfcfc4cfcecfc6c4cfcececd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec9cfccc5cdc6cad2cccfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcdc5cec8c7d2cec7cf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "930102",
-            "立法紀錄": "93卷4期3338號上冊 58-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecf81c6cccfcbcfcec4cfcfcac7c4cfcfcac7",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 112-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecd81c6c7cdc7cfcfc4cfcececdc4cfcececd",
             "關係文書": []
         }
     ]
