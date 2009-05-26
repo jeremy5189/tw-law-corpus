@@ -1,8 +1,8 @@
 {
     "title": "新市鎮開發條例",
     "versions": [
-        "中華民國89年1月13日修正",
-        "中華民國89年1月26日公布"
+        "中華民國98年5月8日修正",
+        "中華民國98年5月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -186,7 +186,7 @@
         {
             "note": "",
             "rule_no": "第二十六條",
-            "content": "　　新市鎮開發之規劃設計經費，由主管機關編列預算支應。\n　　前項以外之土地取得、工程設計施工及經營管理等經費，中央主管機關得設置新市鎮開發基金支應。\n　　新市鎮開發基金之收支、保管及運用辦法，由中央主管機關定之，其來源如左：\n　　一、主管機關循預算程序之撥入款。\n　　二、本基金孳息收入。\n　　三、應用本基金開發新市鎮之盈餘款。\n　　四、其他有關收入。",
+            "content": "　　新市鎮開發之規劃設計經費，由主管機關編列預算支應。\n　　前項以外之土地取得、工程設計施工及經營管理等經費，中央主管機關得設置新市鎮開發基金支應。\n　　新市鎮開發基金之收支、保管及運用辦法，由中央主管機關定之，其來源如下：\n　　一、主管機關循預算程序之撥入款。\n　　二、本基金孳息收入。\n　　三、應用本基金開發新市鎮之盈餘款。\n　　四、其他有關收入。\n　　中央主管機關得就對新市鎮開發有顯著效益之相關聯外交通建設，視本基金營運效能及財務狀況，補助其部分或全部建設經費。",
             "relates": {}
         },
         {
@@ -237,62 +237,46 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　配合臺灣省政府功能業務與組織調整，刪除省政府為主管機關，並增列縣（市）級之主管機關為縣（市）政府。",
-        "第四條": "　　配合臺灣省政府功能業務與組織調整，刪除第一項中省政府會同勘選新市鎮區位之規定。",
-        "第五條": "　　配合臺灣省政府功能業務與組織調整，將第一項中由中央主管機關指定省主管機關進行新市鎮之規劃與設計之規定，修正為指定縣（市）主管機關辦理。",
-        "第六條": "　　增訂第三項，土地徵收時承租人因政府實施區段徵收而領取之補償費，明文規定免除其繳納所得稅之義務，並追溯至八十六年五月廿三日本條例公布生效日後尚未核課確定者。"
+        "第二十六條": "　　為有效解決新市鎮聯外交通系統建設經費問題，增列第四項明定主管機關得視新市鎮開發基金營運效能及財務狀況，補助其部分或全部建設經費。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881015",
-            "立法紀錄": "88卷44期3044號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbce81c7c7cbcbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "980410",
+            "立法紀錄": "98卷19期3705號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbcd81c6c7cec6cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcccfcec5cdc7cdd2cdc7ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "881015",
-            "立法紀錄": "88卷44期3044號上冊 26-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbce81c7c7cbcbcfcec4cfcfcdc9c4cfcfcdc9",
-            "主提案": "郭素春",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5cdcdcbd2cdcdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc7c8cdc5c6c8d2cecfcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881117",
-            "立法紀錄": "88卷53期3053號上冊 313-332頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbce81c7c7cacccfcec4cfccceccc4cfcccccd",
+            "會議日期": "980429",
+            "立法紀錄": "98卷28期3714號 369-389頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbcd81c6c7cdc7cfcfc4cfccc9c6c4cfccc7c6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890113",
-            "立法紀錄": "89卷6期3065號二冊 168-175頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbce81c7c6cfc9cfcdc4cfcec9c7c4cfcec8ca",
+            "會議日期": "980508",
+            "立法紀錄": "98卷28期3714號 64-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbcd81c6c7cdc7cfcfc4cfcfc9cbc4cfcfc9c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5cccbc9d2cccacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcdc5ceccc9d2cecbcf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "890113",
-            "立法紀錄": "89卷6期3065號二冊 175-175頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbce81c7c6cfc9cfcdc4cfcec8cac4cfcec8ca",
+            "會議日期": "980508",
+            "立法紀錄": "98卷28期3714號 69-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cbcd81c6c7cdc7cfcfc4cfcfc9c6c4cfcfc9c6",
             "關係文書": []
         }
     ]
