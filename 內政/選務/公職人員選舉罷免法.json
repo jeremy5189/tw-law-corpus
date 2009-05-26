@@ -1,8 +1,8 @@
 {
     "title": "公職人員選舉罷免法",
     "versions": [
-        "中華民國97年11月7日修正",
-        "中華民國97年11月26日公布"
+        "中華民國98年5月12日修正",
+        "中華民國98年5月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -106,7 +106,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　中華民國國民，年滿二十歲，除受禁治產宣告尚未撤銷者外，有選舉權。",
+            "content": "　　中華民國國民，年滿二十歲，除受監護宣告尚未撤銷者外，有選舉權。",
             "relates": {}
         },
         {
@@ -186,7 +186,7 @@
         {
             "note": "",
             "rule_no": "第二十六條",
-            "content": "　　有下列情事之一者，不得登記為候選人：\n　　一、動員戡亂時期終止後，曾犯內亂、外患罪，經依刑法判刑確定。\n　　二、曾犯貪污罪，經判刑確定。\n　　三、曾犯刑法第一百四十二條、第一百四十四條之罪，經判刑確定。\n　　四、犯前三款以外之罪，判處有期徒刑以上之刑確定，尚未執行或執行未畢。但受緩刑宣告者，不在此限。\n　　五、受保安處分或感訓處分之裁判確定，尚未執行或執行未畢。\n　　六、受破產宣告確定，尚未復權。\n　　七、依法停止任用或受休職處分，尚未期滿。\n　　八、褫奪公權，尚未復權。\n　　九、受禁治產宣告，尚未撤銷。",
+            "content": "　　有下列情事之一者，不得登記為候選人：\n　　一、動員戡亂時期終止後，曾犯內亂、外患罪，經依刑法判刑確定。\n　　二、曾犯貪污罪，經判刑確定。\n　　三、曾犯刑法第一百四十二條、第一百四十四條之罪，經判刑確定。\n　　四、犯前三款以外之罪，判處有期徒刑以上之刑確定，尚未執行或執行未畢。但受緩刑宣告者，不在此限。\n　　五、受保安處分或感訓處分之裁判確定，尚未執行或執行未畢。\n　　六、受破產宣告確定，尚未復權。\n　　七、依法停止任用或受休職處分，尚未期滿。\n　　八、褫奪公權，尚未復權。\n　　九、受監護或輔助宣告，尚未撤銷。",
             "relates": {}
         },
         {
@@ -882,51 +882,66 @@
         {
             "note": "",
             "rule_no": "第一百三十四條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十八年五月十二日修正之條文，自九十八年十一月二十三日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第五十七條": "　　一、新增第二項條文。\n　　二、要求投票所應選定於無障礙場地，相關無障礙規定參考社政主管機關所訂辦法。若該選舉區域無適當之無障礙場所，則應使用相關器材或輔具，讓行動不便者順利前往，並完成投票。\n　　三、選務人員應主動提供協助，為避免人力不足，授權各地選委會可斟酌情況加派選務人力。\n　　四、第八項酌作文字修正，將「第五項選舉票及選舉人名冊，……」改為「第六項選舉票及選舉人名冊，……」。"
+        "第十四條": "　　九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」修正為「監護宣告」，爰將原條文之「受禁治產宣告」修正為「受監護宣告」。",
+        "第二十六條": "　　九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」、修正為「監護宣告」，並增訂「受輔助宣告」之相關規定，爰將原條文第九款之「受禁治產宣告」修正為「受監護宣告」，另考量受輔助宣告之人係因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其意思表示效果之能力，顯有不足，不宜擔任公職人員，爰於同款增列「受輔助宣告」亦不得登記為候選人之規定；其餘各款未修正。",
+        "第一百三十四條": "　　一、第一項未修正。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日修正施行，本法本次修正之條文亦定自同日施行，爰增訂第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970606",
-            "立法紀錄": "97卷36期3647號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc781c6c8ccc9cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "徐中雄",
+            "會議日期": "971212",
+            "立法紀錄": "97卷73期3684號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc681c6c8c8cccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "賴清德",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececbcfcec5cec7c6d2cec6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecccfcec5ceccccd2cecccb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc681c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971006",
-            "立法紀錄": "97卷53期3664號一冊 383-430頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc781c6c8cacccfcec4cfccc7ccc4cfcbcccf",
+            "會議日期": "980427",
+            "立法紀錄": "98卷27期3713號 254-276頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc681c6c7cdc8cfcfc4cfcdcacbc4cfcdc8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 47-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc781c6c8c9cccfcfc4cfcfcbc8c4cfcfcacc",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 150-155頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc681c6c7cdc7cfcfc4cfcecacfc4cfcecaca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7cfcdc5cecad2cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcdc5cdcdcfd2cdcdcb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 54-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc781c6c8c9cccfcfc4cfcfcacbc4cfcfcacb",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 156-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcacdcfc681c6c7cdc7cfcfc4cfcecac9c4cfcecac9",
             "關係文書": []
         }
     ]
