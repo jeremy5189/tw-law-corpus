@@ -1,8 +1,8 @@
 {
     "title": "工業團體法",
     "versions": [
-        "中華民國91年11月22日修正",
-        "中華民國91年12月11日公布"
+        "中華民國98年5月12日修正",
+        "中華民國98年5月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -124,7 +124,7 @@
         {
             "note": "(會員代表資格之限制、喪失)",
             "rule_no": "第十七條",
-            "content": "　　有左列情事之一者，不得為會員代表：\n　　一、犯罪經判決確定，在執行中者。\n　　二、褫奪公權，尚未復權者。\n　　三、受禁治產之宣告，尚未撤銷者。\n　　四、受破產之宣告，尚未復權者。\n　　會員代表發生前項各款情事之一者，喪失其代表資格；原派之會員，應另派代表補充之。",
+            "content": "　　有下列情事之一，不得為會員代表：\n　　一、犯罪經判決確定，在執行中者。\n　　二、褫奪公權尚未復權者。\n　　三、受監護宣告尚未撤銷者。\n　　四、受破產之宣告尚未復權者。\n　　會員代表有前項各款情事之一者，喪失其代表資格，原派之會員，應另派代表補充之。",
             "relates": {}
         },
         {
@@ -470,45 +470,66 @@
         {
             "note": "(施行日)",
             "rule_no": "第七十條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十八年五月十二日修正之條文，自九十八年十一月二十三日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第五條": "　　第一項配合臺灣省政府功能業務與組織調整，將省工業同業公會及工業會之主管機關修正為內政部，另配合地方制定法之施行，提昇直轄市主管機關之層級為「直轄市政府」，並酌作文字修正。"
+        "第十七條": "　　一、配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」修正為「監護宣告」，爰將現行條文第一項第三款「受禁治產之宣告」修正為「受監護宣告」；其餘各款未修正。\n　　二、第二項未修正。",
+        "第七十條": "　　一、原條文列為第一項。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日施行，本法本次修正之條文亦定自同日施行，爰增訂第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbcbcb81c6cecdcecfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "971128",
+            "立法紀錄": "97卷69期3680號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbcbca81c6c8c9c6cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "賴清德",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcececfcec5cecdcbd2cecdca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbcbca81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcfc5caccc6d2cac7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910529",
-            "立法紀錄": "91卷51期3247號上冊 123-166頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbcbcb81c6cecacecfcec4cfcecdccc4cfcec9c9",
+            "會議日期": "980427",
+            "立法紀錄": "98卷27期3713號 254-276頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbcbca81c6c7cdc8cfcfc4cfcdcacbc4cfcdc8c9",
             "關係文書": []
         },
         {
-            "進度": "三讀",
-            "會議日期": "911122",
-            "立法紀錄": "91卷70期3266號上冊 108-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbcbcb81c6cec8cfcfcec4cfcecfc7c4cfcececc",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 120-124頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbcbca81c6c7cdc7cfcfc4cfcecdcfc4cfcecdcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecfcfccc5cec9cbd2cec8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcdc5cec6cfd2cec6cc"
                 ]
             ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 124-124頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbcbca81c6c7cdc7cfcfc4cfcecdcbc4cfcecdcb",
+            "關係文書": []
         }
     ]
 }
