@@ -1,8 +1,8 @@
 {
     "title": "教育會法",
     "versions": [
-        "中華民國91年4月2日修正",
-        "中華民國91年4月24日公布"
+        "中華民國98年5月12日修正",
+        "中華民國98年5月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -112,9 +112,9 @@
             "relates": {}
         },
         {
-            "note": "(會員之消極資格)",
+            "note": "(會員代表之消極資格)",
             "rule_no": "第十六條",
-            "content": "　　有左列情形之一者，不得為會員：\n　　一、犯內亂罪、外患罪經判決確定者。\n　　二、犯前款以外之罪經判決確定在執行中者。\n　　三、褫奪公權尚未復權者。\n　　四、受禁治產之宣告尚未撤銷者。\n　　五、受破產之宣告尚未復權者。",
+            "content": "　　有下列情事之一，不得為會員代表：\n　　一、犯內亂罪、外患罪經判決確定者。\n　　二、犯前款以外之罪經判決確定在執行中者。\n　　三、褫奪公權尚未復權者。\n　　四、受監護宣告尚未撤銷者。\n　　五、受破產之宣告尚未復權者。",
             "relates": {}
         },
         {
@@ -320,48 +320,52 @@
         {
             "note": "(施行日)",
             "rule_no": "第四十七條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十八年五月十二日修正之條文，自九十八年十一月二十三日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第三條": "　　一、第一項刪除主管機關在省為省政府社會處之規定，另配合地方制度法之施行，提升直轄市主管機關之層級為「直轄市政府」。\n　　二、第二項刪除省主管教育行政機關指導、監督教育會之目的事業之規定。",
-        "第十條": "　　將但書中省主管機關於特殊情形核准設立縣（市）教育會之規定，改由中央主管機關核准；另本條係在規定縣（市）教育會之設立，與直轄市主管機關無涉，爰併將轄市主管機關核准之規定刪除。",
-        "第四十六條": "　　將「內政部」配合其他條文用語，修正為「中央主管機關」。"
+        "第十六條": "　　配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」修正為「監護宣告」，爰將原條文第四款「受禁治產之宣告」修正為「受監護宣告」；其餘各款未修正。",
+        "第四十七條": "　　一、原條文列為第一項。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日施行，本法本次修正之條文亦定自同日施行，爰增訂第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 8-8頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdca81c6cecdcecfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdc981c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
             "主提案": "行政院",
             "關係文書": [
                 [
-                    "null",
-                    "http://lis.ly.gov.tw/lgcgi/lylgmeet_newimg?cfcacfcecfc8cecfcace"
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 100-101頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdca81c6cecdcecfcec4cfcecfcfc4cfcecfce",
+            "進度": "委員會審查",
+            "會議日期": "980427",
+            "立法紀錄": "98卷27期3713號 254-276頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdc981c6c7cdc8cfcfc4cfcdcacbc4cfcdc8c9",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 108-109頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdca81c6cecdcecfcec4cfcecfc7c4cfcecfc6",
-            "關係文書": []
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 136-139頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdc981c6c7cdc7cfcfc4cfceccc9c4cfceccc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcdc5cdcfc9d2cdcfc7"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "910402",
-            "立法紀錄": "91卷21期3217號上冊 128-129頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdca81c6cecdcecfcec4cfcecdc7c4cfcecdc6",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 139-139頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbcbcec6c9c9cdc981c6c7cdc7cfcfc4cfceccc6c4cfceccc6",
             "關係文書": []
         }
     ]
