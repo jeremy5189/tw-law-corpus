@@ -1,8 +1,8 @@
 {
     "title": "漁會法",
     "versions": [
-        "中華民國98年1月12日修正",
-        "中華民國98年1月23日公布"
+        "中華民國98年5月5日修正",
+        "中華民國98年5月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -136,7 +136,7 @@
         {
             "note": "(會員之消極資格)",
             "rule_no": "第十七條",
-            "content": "　　有左列情形之一者，不得為漁會會員：\n　　一、褫奪公權，尚未復權者。\n　　二、受破產之宣告，尚未復權者。\n　　三、受禁治產宣告，尚未撤銷者。\n　　四、曾受本法所定除名處分者。",
+            "content": "　　有下列情形之一，不得為漁會會員：\n　　一、褫奪公權，尚未復權者。\n　　二、受破產之宣告，尚未復權者。\n　　三、受監護宣告，尚未撤銷者。\n　　四、曾受本法所定除名處分者。",
             "relates": {}
         },
         {
@@ -472,51 +472,63 @@
         {
             "note": "(施行日)",
             "rule_no": "第五十三條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十八年五月五日修正之條文，自九十八年十一月二十三日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第二十九條": "　　配合修憲，將「但國民大會代表不在此限」予以刪除。"
+        "第十七條": "　　配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」，修正為「監護宣告」，爰將原條文第三款之「受禁治產宣告」修正為「受監護宣告」；其餘各款未修正。",
+        "第五十三條": "　　一、第一項未修正。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日施行，本法本次修正之條文亦定自同日施行，爰增訂第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971014",
-            "立法紀錄": "97卷53期3664號一冊 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cb81c6c8cacccfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "呂學樟",
+            "會議日期": "971226",
+            "立法紀錄": "98卷3期3689號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cfcccfcec4cfcfcfcbc4cfcfcfcb",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbc8cdc5cecec8d2cecec7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecacfcec5cecdcfd2cecdce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980107",
-            "立法紀錄": "98卷4期3690號三冊 485-508頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cb81c6c7cfcbcfccc4cfcbc7cac4cfcacfc7",
+            "會議日期": "980415",
+            "立法紀錄": "98卷22期3708號 413-434頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cdcdcfcfc4cfcbceccc4cfcbcccb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980112",
-            "立法紀錄": "98卷5期3691號二冊 10-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cb81c6c7cfcacfcdc4cfcfcecfc4cfcfcecc",
+            "會議日期": "980505",
+            "立法紀錄": "98卷26期3712號 149-168頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cdc9cfcfc4cfcecbc6c4cfcec9c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec8cfccc5cbcac9d2cbcac7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccececfccc5cdcdc8d2cdcbca"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "980112",
-            "立法紀錄": "98卷5期3691號二冊 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7cb81c6c7cfcacfcdc4cfcfceccc4cfcfcecc",
+            "會議日期": "980505",
+            "立法紀錄": "98卷26期3712號 168-168頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cdc9cfcfc4cfcec9c7c4cfcec9c7",
             "關係文書": []
         }
     ]
