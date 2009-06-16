@@ -1,8 +1,8 @@
 {
     "title": "職業學校法",
     "versions": [
-        "中華民國96年12月14日修正",
-        "中華民國97年1月2日公布"
+        "中華民國98年6月2日修正",
+        "中華民國98年6月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -154,9 +154,9 @@
             "relates": {}
         },
         {
-            "note": "(學生平安保險)",
+            "note": "(學生團體保險)",
             "rule_no": "第十五條 之二",
-            "content": "　　職業學校應辦理學生平安保險；其範圍、金額、繳費方式、期程、給付標準、權利與義務、辦理方式及其他相關事項之辦法，由各該主管教育行政機關定之。",
+            "content": "　　職業學校應辦理學生團體保險；其範圍、金額、繳費方式、期程、給付標準、權利與義務、辦理方式及其他相關事項之辦法，由各該主管教育行政機關定之。\n　　學生申請理賠時，學校應主動協助辦理。\n　　各級主管教育行政機關應為所轄之公私立高級職業學校場所投保公共意外責任保險。\n　　前項之經費，由教育部按年度編列預算支應之。",
             "relates": {}
         },
         {
@@ -173,53 +173,66 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　一、國民中、小學現職教師得依國民教育法第十八條以遷調、介聘方式申請調動。\n　　二、職業學校於實務上仍有聘請兼任教師之事實與必要。爰將本條修正為與「高級中學法第二十一條」相同之文字，以求一致。"
+        "第十五條 之二": "　　一、第一項酌作文字修正。\n　　二、增訂第二項。學生申請理賠時，學校應主動協助辦理。\n　　三、增訂第三項。各級主管教育行政機關應為所轄之公私立高級職業學校場所投保公共意外責任保險。\n　　四、增訂第四項，明定前項投保經費來源，以落實公私立學校均能同步實施。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "961109",
-            "立法紀錄": "96卷78期3601號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c8c7cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "國民黨黨團",
+            "會議日期": "970422",
+            "立法紀錄": "97卷16期3627號 13-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c8cec9cfcfc4cfcfceccc4cfcfcecc",
+            "主提案": "黃志雄",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cfc6c8cdc5cecfced2cecbcf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcdc5ceccced2cecccd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "971014",
+            "立法紀錄": "97卷53期3664號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c8cacccfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "陳亭妃",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbcfcec5cdcdcad2cdcdc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "961205",
-            "立法紀錄": "96卷84期3607號 341-347頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c7cbcfcfc4cfcccbcec4cfcccbc8",
+            "會議日期": "970519",
+            "立法紀錄": "97卷32期3643號 252-275頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c8cccdcfcfc4cfcdcacdc4cfcdc8ca",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "961214",
-            "立法紀錄": "96卷86期3609號一冊 96-100頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c7c9cfcec4cfcfc6c9c4cfcecfcf",
+            "進度": "委員會審查",
+            "會議日期": "980513",
+            "立法紀錄": "98卷33期3719號 330-343頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c7cccccfcfc4cfcccccfc4cfcccbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 160-168頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c7ccc8cfcfc4cfcec9cfc4cfcec9c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cecacfccc5c9c7d2c8ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfccc5cececad2cecdcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961214",
-            "立法紀錄": "96卷86期3609號一冊 100-100頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c7c9cfcec4cfcecfcfc4cfcecfcf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "961214",
-            "立法紀錄": "96卷86期3609號一冊 100-100頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7ce81c6c9c7c9cfcec4cfcecfcfc4cfcecfcf",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 168-168頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c7ccc8cfcfc4cfcec9c7c4cfcec9c7",
             "關係文書": []
         }
     ]
