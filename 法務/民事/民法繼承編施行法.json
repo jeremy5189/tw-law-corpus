@@ -1,8 +1,8 @@
 {
     "title": "民法繼承編施行法",
     "versions": [
-        "中華民國97年4月22日修正",
-        "中華民國97年5月7日公布"
+        "中華民國98年5月22日修正",
+        "中華民國98年6月10日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,13 +18,19 @@
         {
             "note": "(法律適用範圍)",
             "rule_no": "第一條 之一",
-            "content": "　　繼承在民法繼承編中華民國九十六年十二月十四日修正施行前開始且未逾修正施行前為限定或拋棄繼承之法定期間者，自修正施行之日起，適用修正後限定或拋棄繼承之規定。\n　　繼承在民法繼承編中華民國九十六年十二月十四日修正施行前開始，繼承人於繼承開始時為無行為能力人或限制行為能力人，未能於修正施行前之法定期間為限定或拋棄繼承，由其繼續履行繼承債務顯失公平者，於修正施行後，得以所得遺產為限，負清償責任。\n　　前項繼承人依修正施行前之規定已清償之債務，不得請求返還。",
+            "content": "　　繼承在民法繼承編中華民國九十六年十二月十四日修正施行前開始且未逾修正施行前為拋棄繼承之法定期間者，自修正施行之日起，適用修正後拋棄繼承之規定。\n　　繼承在民法繼承編中華民國九十六年十二月十四日修正施行前開始，繼承人於繼承開始時為無行為能力人或限制行為能力人，未能於修正施行前之法定期間為限定或拋棄繼承，由其繼續履行繼承債務顯失公平者，於修正施行後，以所得遺產為限，負清償責任。\n　　前項繼承人依修正施行前之規定已清償之債務，不得請求返還。",
             "relates": {}
         },
         {
             "note": "(繼承人之保證契約債務)",
             "rule_no": "第一條 之二",
             "content": "　　繼承在民法繼承編中華民國九十七年一月四日前開始，繼承人對於繼承開始後，始發生代負履行責任之保證契約債務，由其繼續履行債務顯失公平者，得以所得遺產為限，負清償責任。\n　　前項繼承人依中華民國九十七年四月二十二日修正施行前之規定已清償之保證契約債務，不得請求返還。",
+            "relates": {}
+        },
+        {
+            "note": "(法律適用範圍)",
+            "rule_no": "第一條 之三",
+            "content": "　　繼承在民法繼承編中華民國九十八年五月二十二日修正施行前開始，繼承人未逾修正施行前為限定繼承之法定期間且未為概括繼承之表示或拋棄繼承者，自修正施行之日起，適用修正後民法第一千一百四十八條、第一千一百五十三條至第一千一百六十三條之規定。\n　　繼承在民法繼承編中華民國九十八年五月二十二日修正施行前開始，繼承人對於繼承開始以前已發生代負履行責任之保證契約債務，由其繼續履行債務顯失公平者，以所得遺產為限，負清償責任。\n　　繼承在民法繼承編中華民國九十八年五月二十二日修正施行前開始，繼承人已依民法第一千一百四十條之規定代位繼承，由其繼續履行繼承債務顯失公平者，以所得遺產為限，負清償責任。\n　　繼承在民法繼承編中華民國九十八年五月二十二日修正施行前開始，繼承人因不可歸責於己之事由或未同居共財者，於繼承開始時無法知悉繼承債務之存在，致未能於修正施行前之法定期間為限定或拋棄繼承，且由其繼續履行繼承債務顯失公平者，於修正施行後，以所得遺產為限，負清償責任。\n　　前三項繼承人依修正施行前之規定已清償之債務，不得請求返還。",
             "relates": {}
         },
         {
@@ -89,46 +95,88 @@
         }
     ],
     "law_reasons": {
-        "第一條 之二": "　　一、本條新增。\n　　二、民法繼承編部分條文於九十七年一月四日開始，明訂繼承人對於被繼承人之連帶保證債務，僅負有限責任。惟前法修正前已發生之繼承保證債務事件，許多繼承人尚陷於天外飛來債務中，影響其權益甚鉅，亦顯失公平，為保障此類繼承人，爰增設本條追溯適用新法之規定，並以繼承所得遺產為限，負清償責任，以維公平正義。\n　　三、另為維護債權人之權益及法律安定性，於中華民國九十七年四月二十二日修正施行前已依法清償債務者，則不得請求返還。"
+        "第一條 之一": "　　照黨團協商條文通過。",
+        "第一條 之三": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970328",
-            "立法紀錄": "97卷008期3619號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac681c6c8cfc7cfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "徐中雄",
+            "會議日期": "980320",
+            "立法紀錄": "98卷12期3698號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cecdcfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcac8cdc5cdcfc6d2cdcecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcac8cdc5cecfc8d2cececf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cecbcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": false,
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9c8cdc5cac6d2c9cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970411",
-            "立法紀錄": "97卷015期3626號 57-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac681c6c8cecacfcfc4cfcfcac8c4cfcfc8c7",
+            "會議日期": "980415",
+            "立法紀錄": "98卷23期3709號 221-241頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cdcccfcfc4cfcdcdcec4cfcdcbce",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "970422",
-            "立法紀錄": "97卷016期3627號 65-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac681c6c8cec9cfcfc4cfcfc9cac4cfcfc8cf",
+            "進度": "委員會審查",
+            "會議日期": "980427",
+            "立法紀錄": "98卷27期3713號 188-231頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cdc8cfcfc4cfcec7c7c4cfcdccce",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "980513",
+            "立法紀錄": "98卷33期3719號 136-148頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccccfcfc4cfceccc9c4cfcecbc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980522",
+            "立法紀錄": "98卷34期3720號 65-102頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccbcfcfc4cfcfc9cac4cfcecfcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfccc5cacfcdd2cacfc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecbcfccc5cecccad2cec8cd"
                 ]
             ]
         },
         {
+            "進度": "黨團協商",
+            "會議日期": "980521",
+            "立法紀錄": "98卷34期3720號 547-549頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccbcfcfc4cfcacbc8c4cfcacbc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980522",
+            "立法紀錄": "98卷34期3720號 102-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccbcfcfc4cfcecfcdc4cfcecfc8",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷016期3627號 70-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccac681c6c8cec9cfcfc4cfcfc8cfc4cfcfc8cd",
+            "會議日期": "980522",
+            "立法紀錄": "98卷34期3720號 107-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccbcfcfc4cfcecfc8c4cfcecfc6",
             "關係文書": []
         }
     ]
