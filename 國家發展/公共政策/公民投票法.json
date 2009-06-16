@@ -1,8 +1,8 @@
 {
     "title": "公民投票法",
     "versions": [
-        "中華民國98年5月12日修正",
-        "中華民國98年5月27日公布"
+        "中華民國98年6月2日修正",
+        "中華民國98年6月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -244,7 +244,7 @@
         {
             "note": "(公民投票審議委員會委員)",
             "rule_no": "第三十五條",
-            "content": "　　行政院公民投票審議委員會，置委員二十一人，任期三年，由各政黨依立法院各黨團席次比例推荐，送交主管機關提請總統任命之。\n　　主任委員由委員互選之，審議委員會之組織規程及審議規則，應送立法院備查。",
+            "content": "　　行政院公民投票審議委員會，置委員二十一人，任期三年，由主管機關提請總統任命之。\n　　前項委員具有同一黨籍者，不得超過委員總額二分之一，且單一性別不得少於三分之一。\n　　主任委員由委員互選之。審議委員會之組織規程及審議規則，應送立法院備查。",
             "relates": {}
         },
         {
@@ -435,60 +435,34 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」，修正為「監護宣告」，爰將原條文「受禁治產宣告」修正為「受監護宣告」。",
-        "第六十四條": "　　一、第一項未修正。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日修正施行，本法本次修正之條文亦定自同日施行，爰修正第二項。"
+        "第三十五條": "　　一、依司法院釋字第六四五號解釋意旨，為尊重行政院人事決定權，並維持立法權與行政權相互制衡之憲政制度，第一項刪除行政院公民投票審議委員會委員由各政黨依立法院各黨團席次比例推荐之規定。\n　　二、為維護行政院公民投票審議委員會之公正性及獨立性，參酌國家通訊傳播委員會組織法第四條第二項規定及行政院公平交易委員會組織條例第十一條第三項之規定，明定委員具有同一黨籍者，不得超過委員總額二分之一；另為營造兩性共治共決之政策參與環境，參照九十四年七月二十五日行政院婦女權益促進委員會第二十二次委員會議決議「行政院各部會所屬委員會全體委員組成之性別比例，單一性別委員比例應達三分之一」，明定委員之單一性別不得少於三分之一。爰增訂第二項規定，原條文第二項遞移為第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c7ce81c6c8c9cccfcfc4cfcfcfcdc4cfcfcfcc",
-            "主提案": "費鴻泰",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7cfcec5cecdc8d2cecdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c7ce81c6c7cecbcfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "980428",
+            "立法紀錄": "98卷24期3710號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c7cc81c6c7cdcbcfcfc4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecfc8cdc5cecaccd2cecac9"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980427",
-            "立法紀錄": "98卷27期3713號 245-276頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c7ce81c6c7cdc8cfcfc4cfcdcbcac4cfcdc8c9",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980512",
-            "立法紀錄": "98卷28期3714號 132-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c7ce81c6c7cdc7cfcfc4cfcecccdc4cfceccc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcdc5cdcfcdd2cdcfca"
-                ]
-            ]
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 47-48頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c7cc81c6c7ccc8cfcfc4cfcfcbc8c4cfcfcbc7",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "980512",
-            "立法紀錄": "98卷28期3714號 136-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c7ce81c6c7cdc7cfcfc4cfceccc9c4cfceccc9",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 48-49頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c8c7cc81c6c7ccc8cfcfc4cfcfcbc7c4cfcfcbc6",
             "關係文書": []
         }
     ]
