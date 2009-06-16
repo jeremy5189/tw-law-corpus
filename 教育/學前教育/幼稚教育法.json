@@ -1,8 +1,8 @@
 {
     "title": "幼稚教育法",
     "versions": [
-        "中華民國92年6月6日修正",
-        "中華民國92年6月25日公布"
+        "中華民國98年6月2日修正",
+        "中華民國98年6月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -130,9 +130,9 @@
             "relates": {}
         },
         {
-            "note": "(兒童平安保險之辦理)",
+            "note": "(兒童團體保險及公共意外責任險之投保)",
             "rule_no": "第十七條 之一",
-            "content": "　　幼稚園應辦理兒童平安保險；其範圍、金額、繳費方式、期程、給付標準、權利與義務、辦理方式及其他相關事項之規定，由各該主管教育行政機關定之。",
+            "content": "　　幼稚園應辦理兒童團體保險；其範圍、金額、繳費方式、期程、給付標準、權利與義務、辦理方式及其他相關事項之辦法，由各該主管教育行政機關定之。\n　　兒童申請理賠時，幼稚園應主動協助辦理。\n　　各級主管教育行政機關應為所轄之公私立幼稚園場所投保公共意外責任保險。\n　　前項之經費，由教育部按年度編列預算支應之。",
             "relates": {}
         },
         {
@@ -203,46 +203,66 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　修正第二項。目前各級學校每班均設有導師一名，並肩負導護學童之責，幼教教師對此用心尤多，爰修正之，以慰良師之劬勞；另句末增列「其導師費之發給，由教育部會商各地方主管教育行政機關另定之，不受第十三條第一項相關規定之限制。」"
+        "第十七條 之一": "　　一、第一項酌作文字修正。\n　　二、增訂第二項。兒童申請理賠時，幼稚園應主動協助辦理。\n　　三、增訂第三項。各級主管教育行政機關應為所轄之公私立幼稚園場所投保公共意外責任保險。\n　　四、增訂第四項，明定前項投保經費來源，以落實公私立學校均能同步實施。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920516",
-            "立法紀錄": "92卷29期3303號一冊 4-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacaca81c6cdcdc6cfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "許淵國",
+            "會議日期": "970422",
+            "立法紀錄": "97卷16期3627號 12-13頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacac981c6c8cec9cfcfc4cfcfcecdc4cfcfcecc",
+            "主提案": "黃志雄",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecdcfcec5cdccc8d2cdccc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcdc5cecdc6d2cecccf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "971014",
+            "立法紀錄": "97卷53期3664號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacac981c6c8cacccfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "陳亭妃",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbcfcec5cdcec8d2cdcec6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920602",
-            "立法紀錄": "92卷36期3310號下冊 110-116頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacaca81c6cdccc9cfccc4cfcececfc4cfcecec9",
+            "會議日期": "970519",
+            "立法紀錄": "97卷32期3643號 252-275頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacac981c6c8cccdcfcfc4cfcdcacdc4cfcdc8ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "980513",
+            "立法紀錄": "98卷33期3719號 330-343頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacac981c6c7cccccfcfc4cfcccccfc4cfcccbcc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 257-260頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacaca81c6cdcccbcfccc4cfcdcac8c4cfcdc9cf",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 168-176頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacac981c6c7ccc8cfcfc4cfcec9c7c4cfcec8c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5cac9c8d2cac8ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfccc5cecdcad2cecccb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 260-260頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacaca81c6cdcccbcfccc4cfcdc9cfc4cfcdc9cf",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 176-176頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacac981c6c7ccc8cfcfc4cfcec8c9c4cfcec8c9",
             "關係文書": []
         }
     ]
