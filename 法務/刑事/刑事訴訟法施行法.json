@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法施行法",
     "versions": [
-        "中華民國96年6月15日修正",
-        "中華民國96年7月4日公布"
+        "中華民國98年6月12日修正",
+        "中華民國98年7月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -80,84 +80,62 @@
             "rule_no": "第七條 之五",
             "content": "　　中華民國九十六年六月十五日修正通過之刑事訴訟法施行前，不服地方法院第一審判決而上訴者，仍適用修正前第三百六十一條、第三百六十七條規定。",
             "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第七條 之六",
+            "content": "　　中華民國九十八年六月十二日修正通過之刑事訴訟法第二百五十三條之二、第四百四十九條、第四百七十九條、第四百八十條，自九十八年九月一日施行；第九十三條自九十九年一月一日施行。",
+            "relates": {}
         }
     ],
     "law_reasons": {
-        "第七條 之五": "　　一、本條新增。\n　　二、修正條文第三百六十一條第二項、第三項規定不服地方法院第一審判決而提起上訴者，其上訴書狀應敘述具體理由；未敘述具體理由者，應於法定期間補提理由書。在本次修正刑事訴訟法施行前，不服地方法院之第一審判決，已提起第二審上訴者，其上訴書狀縱未敘述具體理由，依修正前第三百六十一條規定，本為合法，第二審法院尚不得依修正後之第三百六十七條規定逕以判決駁回其上訴，爰增訂本條規定以明確其適用。"
+        "第七條 之六": "　　一、本條新增。\n　　二、刑法增訂易服社會勞動制度，並自九十八年九月一日施行。刑事訴訟法第二百五十三條之二、第四百四十九條、第四百七十九條、第四百八十條係配合易服社會勞動制度而為修正，爰明定其施行日期，以配合刑法易服社會勞動制度之施行。\n　　三、檢察官聲請羈押被告，如法院決定深夜不為訊問，尚須建置適宜被告休息之場所，爰明定刑事訴訟法第九十三條自九十九年一月一日施行，以符實需。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950519",
-            "立法紀錄": "95卷29期3490號一冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6cacdc6cfcec4cfcfcfcbc4cfcfcfca",
+            "會議日期": "980522",
+            "立法紀錄": "98卷34期3720號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcb81c6c7cccbcfcfc4cfcfcecec4cfcfcece",
             "主提案": "司法院、行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcec5cdcfc9d2cdcec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecbc8cdc5cecec8d2cecdc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "951005",
-            "立法紀錄": "95卷41期3502號 7-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6cacbcecfcfc4cfcfcfc8c4cfcfcdca",
+            "會議日期": "980604",
+            "立法紀錄": "98卷41期3727號 80-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcb81c6c7cbcecfcfc4cfcfc7cfc4cfcfc7ce",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960322",
-            "立法紀錄": "96卷26期3549號二冊 109-120頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6c9cdc9cfcdc4cfcecfc6c4cfcecdcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "960411",
-            "立法紀錄": "96卷31期3554號 319-326頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6c9cccecfcfc4cfcccec6c4cfcccdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "960604",
-            "立法紀錄": "96卷51期3574號 189-196頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6c9cacecfcfc4cfcec7c6c4cfcec6c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 132-148頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6c9cacbcfcec4cfcecccdc4cfcecbc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec9cfcdc5cdc6cdd2cccfc7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960615",
-            "立法紀錄": "96卷54期3577號三冊 888-889頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6c9cacbcfccc4cfc7c7c7c4cfc7c7c6",
+            "會議日期": "980604",
+            "立法紀錄": "98卷41期3727號 110-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcb81c6c7cbcecfcfc4cfcececfc4cfceccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960615",
-            "立法紀錄": "96卷54期3577號三冊 891-891頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6c9cacbcfccc4cfc7c6cec4cfc7c6ce",
-            "關係文書": []
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 294-312頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcb81c6c7cbcdcfcec4cfcdc6cbc4cfcccecd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfcbc5cbc6ced2cacfc8"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960615",
-            "立法紀錄": "96卷54期3577號三冊 891-891頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcc81c6c9cacbcfccc4cfc7c6cec4cfc7c6ce",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 312-312頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac8cdcb81c6c7cbcdcfcec4cfcccecdc4cfcccecd",
             "關係文書": []
         }
     ]
