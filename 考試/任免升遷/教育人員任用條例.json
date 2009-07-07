@@ -1,8 +1,8 @@
 {
     "title": "教育人員任用條例",
     "versions": [
-        "中華民國95年1月13日修正",
-        "中華民國95年2月3日公布"
+        "中華民國98年6月12日修正",
+        "中華民國98年7月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -50,7 +50,7 @@
         {
             "note": "(高中校長任用資格)",
             "rule_no": "第六條",
-            "content": "　　高級中學校長應具有左列資格之一：\n　　一、具有博士學位，曾任中等學校教師一年以上，並曾任分類職位第九職等或與其相當之薦任教育行政職務二年以上，或國民中學校長二年以上，或高級中等學校主任三年以上，成績優良者。\n　　二、大學、師範學院、教育學院、教育研究所畢業得有碩士學位；或其他研究院、所畢業得有碩士學位曾修習規定之教育學科及學分，曾任中等學校教師一年以上，並曾任分類職位第九職等或與其相當之薦任教育行政職務三年以上，或國民中學校長三年以上，或高級中等學校主任四年以上，成績優良者。\n　　三、師範大學、師範學院、教育學院、大學教育學系畢業；或其他院、系畢業曾修習規定之教育學科及學分，曾任中等學校教師一年以上，並曾任分類職位第九職等或與其相當之薦任教育行政職務五年以上，或國民中學校長六年以上，或高級中等學校主任七年以上，成績優良者。\n　　四、曾任教育院、系專任副教授及中等學校教師各二年以上，並具學校行政經驗一年以上，成績優良者。",
+            "content": "　　高級中學校長應具有下列資格之一：\n　　一、具有博士學位，曾任中等學校教師一年以上，並曾任分類職位第九職等或與其相當之薦任教育行政職務二年以上，或國民中學校長二年以上，或高級中等學校主任三年以上，成績優良者。\n　　二、大學、師範學院、教育學院、教育研究所畢業得有碩士學位；或其他研究院、所畢業得有碩士學位曾修習規定之教育學科及學分，曾任中等學校教師一年以上，並曾任分類職位第九職等或與其相當之薦任教育行政職務三年以上，或國民中學校長三年以上，或高級中等學校主任四年以上，成績優良者。\n　　三、師範大學、師範學院、教育學院、大學教育學系畢業；或其他院、系畢業曾修習規定之教育學科及學分，曾任中等學校教師一年以上，並曾任分類職位第九職等或與其相當之薦任教育行政職務五年以上，或國民中學校長六年以上，或高級中等學校主任七年以上，成績優良者。\n　　四、曾任教育院、系專任副教授及中等學校教師各二年以上，並具學校行政經驗一年以上，成績優良者。\n　　前項高級中等學校主任年資，得為大學法規所定一級單位主管之學校行政工作年資。\n　　本條例中華民國九十八年六月十二日修正施行前，主管教育行政機關、學校或董事會已依修正前規定資格辦理校長遴選作業中者，其校長聘任資格得依修正前規定辦理。",
             "relates": {}
         },
         {
@@ -317,46 +317,81 @@
         }
     ],
     "law_reasons": {
-        "第四十條": "　　依據各級學校專任運動教練聘任辦法規定，運動教練為非屬教師身分之工作者，因此薪資待遇無法準用教師相關規定辦理，故須立法授權由教育部另訂定運動教練職務等級表。"
+        "第六條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941118",
-            "立法紀錄": "94卷70期3452號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cece81c6cbc8cfcfcfc4cfcfcfcdc4cfcfcfcc",
-            "主提案": "洪秀柱",
+            "會議日期": "971024",
+            "立法紀錄": "97卷56期3667號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c8cac9cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "林正二",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfccc5cdc9ccd2cdc9ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc9cfcec5cecec8d2cecdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950102",
-            "立法紀錄": "95卷6期3467號一冊 13-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cece81c6cacfc9cfcec4cfcfceccc4cfcfcdce",
+            "會議日期": "971222",
+            "立法紀錄": "98卷3期3689號四冊 150-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cfcccfcbc4cfcecacfc4cfcec9c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 364-367頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cece81c6cacfcacfcec4cfccc9cbc4cfccc9c8",
+            "進度": "委員會審查",
+            "會議日期": "980513",
+            "立法紀錄": "98卷33期3719號 150-153頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cccccfcfc4cfcecacfc4cfcecacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980526",
+            "立法紀錄": "98卷34期3720號 230-235頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cccbcfcfc4cfcdcccfc4cfcdccca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cececdd2cececa"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecbcfccc5cec8ccd2cec8c7"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 143-144頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7ccc8cfcfc4cfcecbccc4cfcecbcb",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "980521",
+            "立法紀錄": "98卷55期3741號 567-568頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cacacfcfc4cfcac9c8c4cfcac9c7",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "980610",
+            "立法紀錄": "98卷43期3729號 425-426頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cbcccfcfc4cfcbcdcac4cfcbcdc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 332-333頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cbcdcfcec4cfcccccdc4cfcccccc",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 367-367頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cece81c6cacfcacfcec4cfccc9c8c4cfccc9c8",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 333-333頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cbcdcfcec4cfccccccc4cfcccccc",
             "關係文書": []
         }
     ]
