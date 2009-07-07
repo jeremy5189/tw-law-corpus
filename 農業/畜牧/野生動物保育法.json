@@ -1,8 +1,8 @@
 {
     "title": "野生動物保育法",
     "versions": [
-        "中華民國96年6月14日修正",
-        "中華民國96年7月11日公布"
+        "中華民國98年6月12日修正",
+        "中華民國98年7月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -238,7 +238,7 @@
         {
             "note": "(保育類野生動物等之買賣、陳列、展示之禁止)",
             "rule_no": "第三十五條",
-            "content": "　　保育類野生動物、瀕臨絕種及珍貴稀有野生動物產製品，非經主管機關之同意，不得買賣或在公共場所陳列、展示。\n　　前項保育類野生動物、瀕臨絕種及珍貴稀有野生動物產製品之種類，由中央主管機關公告之。",
+            "content": "　　保育類野生動物及其產製品，非經主管機關之同意，不得買賣或在公共場所陳列、展示。\n　　前項保育類野生動物及其產製品之種類，由中央主管機關公告之。",
             "relates": {}
         },
         {
@@ -272,7 +272,7 @@
         {
             "note": "(非法輸出入買賣等行為之處罰)",
             "rule_no": "第四十條",
-            "content": "　　有下列情形之一，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以上一百五十萬元以下罰金：\n　　一、違反第二十四條第一項規定，未經中央主管機關同意，輸入或輸出保育類野生動物之活體或其產製品者。\n　　二、違反第三十五條第一項規定，未經主管機關同意，買賣或意圖販賣而陳列、展示保育類野生動物或瀕臨絕種及珍貴稀有野生動物產製品者。",
+            "content": "　　有下列情形之一，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以上一百五十萬元以下罰金：\n　　一、違反第二十四條第一項規定，未經中央主管機關同意，輸入或輸出保育類野生動物之活體或其產製品者。\n　　二、違反第三十五條第一項規定，未經主管機關同意，買賣或意圖販賣而陳列、展示保育類野生動物或其產製品者。",
             "relates": {}
         },
         {
@@ -389,62 +389,47 @@
         }
     ],
     "law_reasons": {
-        "第二十一條": "　　增訂第二項，為協助農民妥善處理台灣獼猴危害農作物問題，確實保障農民權益，並兼顧台灣獼猴自然生態保育問題，提供農民合法以主管機關核定之人道方式捕獵保育類野生動物之法源。",
-        "第二十四條": "　　本條文刪除「及馬戲團供表演」，以禁止其作為輸入或輸出保育類野生動物活體之理由。",
-        "第二十五條": "　　本條文第一項刪除「馬戲團、」，第二項全項刪除。",
-        "第五十一條": "　　一、配合第二十五條第二項修法全項刪除，刪除本條文第四款相關罰則之規定。\n　　二、其餘款次依序調整修正。"
+        "第三十五條": "　　本條文刪除「瀕臨絕種及珍貴稀有野生動物」，以符合第一章第四條保育類野生動物定義，並酌作文字修正。",
+        "第四十條": "　　相關罰則之規定配合本法第三十五條修法內容調整修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940506",
-            "立法紀錄": "94卷30期3412號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec881c6cbcccfcfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "魏明谷",
+            "會議日期": "970612",
+            "立法紀錄": "97卷39期3650號一冊 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec781c6c8ccc6cfcec4cfcfcfcec4cfcfcfcd",
+            "主提案": "田秋堇",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecececfcec5c6cfd2c6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececacfcec5cecfcbd2cecfc9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "951215",
-            "立法紀錄": "95卷61期3522號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec881c6cac9cecfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "田秋堇",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecdcfcec5c6cad2c6c6"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "950507",
-            "立法紀錄": "96卷40期3563號 154-163頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec881c6c9cbcfcfcfc4cfcecacbc4cfcec9cc",
+            "會議日期": "980521",
+            "立法紀錄": "98卷36期3722號 103-118頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec781c6c7ccc9cfcfc4cfcecfccc4cfcecec7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 281-291頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec881c6c9cacbcfcec4cfcdc7cec4cfcdc6ce",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 245-249頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec781c6c7cbcdcfcec4cfcdcbcac4cfcdcbc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecccfcdc5cdcac6d2cdc9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec9cfcdc5c8cec8d2c8cdce"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 291-291頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec881c6c9cacbcfcec4cfcdc6cec4cfcdc6ce",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 249-250頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cfcec781c6c7cbcdcfcec4cfcdcbc6c4cfcdcacf",
             "關係文書": []
         }
     ]
