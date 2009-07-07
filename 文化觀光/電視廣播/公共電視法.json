@@ -1,8 +1,8 @@
 {
     "title": "公共電視法",
     "versions": [
-        "中華民國93年6月4日修正",
-        "中華民國93年6月23日公布"
+        "中華民國98年6月12日修正",
+        "中華民國98年7月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -92,7 +92,7 @@
         {
             "note": "(董事會之組織及董事之選任)",
             "rule_no": "第十三條",
-            "content": "　　公視基金會設董事會，由董事十一至十五人組織之，依下列程序產生之：\n　　一、由立法院推舉十一至十三名社會公正人士組成公共電視董、監事審查委員會（以下簡稱審查委員會）。\n　　二、由行政院提名董、監事候選人，提交審查委員會以四分之三以上之多數同意後，送請行政院院長聘任之。\n　　選任董事時應顧及性別及族群之代表性，並考量教育、藝文、學術、傳播及其他專業代表之均衡。\n　　董事中屬同一政黨之人數不得逾董事總額四分之一；董事於任期中不得參與政黨活動。",
+            "content": "　　公視基金會設董事會，由董事十七人至二十一人組織之，依下列程序產生之：\n　　一、由立法院推舉十一名至十五名社會公正人士組成公共電視董、監事審查委員會。\n　　二、由行政院提名董、監事候選人，提交審查委員會以四分之三以上之多數同意後，送請行政院院長聘任之。\n　　選任董事時應顧及性別及族群之代表性，並考量教育、藝文、學術、傳播及其他專業代表之均衡。\n　　董事中屬同一政黨之人數不得逾董事總額四分之一；董事於任期中不得參與政黨活動。",
             "relates": {}
         },
         {
@@ -329,53 +329,76 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、由於預算法第二十三條已修正為第二十五條第一項，爰予配合修正第一項文字。\n　　二、第二項新增。由於原條文未明確規定原由公共電視籌備委員會使用之國有財產之處理方式，茲為使公視基金會對於財產之管理與使用，在法規之適用上能更臻完善，並使公視基金會永續經營，爰增列第二項規定，一方面確立公視基金會使用國有財產之適法性，並同時兼顧國有財產權益。"
+        "第十三條": "　　一、「公共電視法」制定之目的，在於訴求民主社會公共參與的理想。董事應顧及性別及族群之代表性，並考量各行各業專業代表之均衡性。原條文規定公視基金會董事會由董事十五人組成，尚無法完全反映社會多元的聲音，應再予補充完備。\n　　二、客家電視、原住民電視、台灣宏觀電視等頻道節目之製播，依「無線電視事業公股處理條例」第十四條第三項之規定，係交由公視基金會辦理。因此，理應增加各該少數族群等之董事代表人數，以擴大各族群公共參與之權利。\n　　三、爰依「大眾傳播財團法人設立許可及監督要點」第十二條規定：「董事之名額，以七人至二十一人為限」，以保障其追求優質傳播文化及增進公共福祉之目標。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "930430",
-            "立法紀錄": "93卷25期3359號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccdcacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "971226",
+            "立法紀錄": "98卷3期3689號一冊 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cfcccfcec4cfcfcfcdc4cfcfcfcc",
+            "主提案": "林益世",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacececfcfc5cdc8ced2cdc8cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecccfcec5cdcccad2cdccc8"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "930519",
-            "立法紀錄": "93卷30期3364號 133-141頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccccfcfcfc4cfceccccc4cfcecbce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "971226",
+            "立法紀錄": "98卷3期3689號一冊 51-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cfcccfcec4cfcfcacec4cfcfcacd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 82-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccccccfcec4cfcfc7cdc4cfcfc7ca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5cac6d2c9cb"
-                ]
-            ]
+            "會議日期": "980109",
+            "立法紀錄": "98卷05期3691號一冊 180-180頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cfcacfcec4cfcec7cfc4cfcec7cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980407",
+            "立法紀錄": "98卷17期3703號 106-106頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cec8cfcfc4cfcecfc9c4cfcecfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980414",
+            "立法紀錄": "98卷19期3705號一冊 127-128頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cec6cfcec4cfcecdc8c4cfcecdc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980421",
+            "立法紀錄": "98卷22期3708號 40-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cdcdcfcfc4cfcfcbcfc4cfcfcbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980428",
+            "立法紀錄": "98卷24期3710號 70-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cdcbcfcfc4cfcfc8cfc4cfcfc8cf",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 85-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccccccfcec4cfcfc7cac4cfcfc7ca",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 97-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cbcdcfcec4cfcfc6c8c4cfcfc6c6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 85-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbce81c6cccccccfcec4cfcfc7cac4cfcfc7ca",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 99-99頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7cccccccfcbcd81c6c7cbcdcfcec4cfcfc6c6c4cfcfc6c6",
             "關係文書": []
         }
     ]
