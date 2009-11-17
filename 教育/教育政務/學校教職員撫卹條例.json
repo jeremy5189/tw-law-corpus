@@ -1,8 +1,8 @@
 {
     "title": "學校教職員撫卹條例",
     "versions": [
-        "中華民國88年12月28日修正",
-        "中華民國89年1月12日公布"
+        "中華民國98年10月23日修正",
+        "中華民國98年11月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -94,6 +94,12 @@
             "relates": {}
         },
         {
+            "note": "(教職員得依法辦理撫卹之情形)",
+            "rule_no": "第十三條 之一",
+            "content": "　　教職員於停聘、休職、因案停職或依規定辦理留職停薪期間，除因涉貪污案經判決確定，或因涉案經判處二年以上有期徒刑確定者，或留職停薪期間係借調依法銓飃審定之公務人員外，有本條例第三條第一款情事，且其遺族無本條例第十一條規定情形者，得依本條例辦理撫卹。教師依規定借調辦理留職停薪至六十五歲前未回職復薪，於屆滿六十五歲之日起五年內死亡者，亦同。",
+            "relates": {}
+        },
+        {
             "note": "(扣押讓與擔保之禁止)",
             "rule_no": "第十四條",
             "content": "　　領受撫卹金之權利及未經遺族具領之撫卹金，不得扣押、讓與或供擔保。",
@@ -118,9 +124,9 @@
             "relates": {}
         },
         {
-            "note": "(公立社會教育及學術機構服務人員之準用)",
+            "note": "(公立社會教育機構、學術研究機構人員及介派護理教師之準用規定)",
             "rule_no": "第十八條",
-            "content": "　　公立社會教育及學術機關服務人員之撫卹，準用本條例之規定。\n　　學校主計人員及人事人員之撫卹，應依公務人員撫卹法之規定，軍訓教官之撫卹，應依軍人撫卹條例之規定。",
+            "content": "　　公立社會教育機構專業人員及學術研究機構研究人員、教育部依法令規定資格介派至公、私立學校擔任軍訓護理課程之護理教師之撫卹，準用本條例之規定。\n　　前項護理教師於中華民國九十年十月三十日前之任職年資應付之撫卹金，由公庫支給。",
             "relates": {}
         },
         {
@@ -149,61 +155,82 @@
         }
     ],
     "law_reasons": {
-        "第十六條": "　　第六項省立學校教職員撫卹金，依國立學校之規定併由國庫支給；「市」修正為「直轄市」。"
+        "第十三條 之一": "　　一、本條新增。\n　　二、將教育部八十五年七月四日台人(三)字第八五○五三三九三號函有關學校教職員依規定辦理留職停薪期間死亡者，准予辦理撫卹之規定，提升至本條例規範，並參酌九十五年四月十日函送立法院審議，惟因屆期不予繼續審議之「公務人員撫卹法」修正草案第二十條規定，將停聘、休職、因案停職死亡者，亦納入規範；又教師借調擔任依法銓飃審定之公務人員期間亡故，其遺族得依公務人員撫卹法辦理撫卹，爰排除適用之，復配合上開「公務人員撫卹法」修正草案第二十條規定，因涉貪污案經判決確定，或因涉案經判處二年以上有期徒刑確定者，亦排除適用之。另為配合「學校教職員退休條例」第八條之一、第十條之一修正草案，於修正條文第十條之一規定教師借調期間逾六十五歲得辦理退休，爰於後段明定教師依規定借調辦理留職停薪至六十五歲前未回職復薪，於屆滿六十五歲之日起五年內死亡者，亦同。",
+        "第十八條": "　　一、為配合九十六年七月十一日修正公布之學校教職員退休條例第十八條規定：「（第一項）公立社會教育及學術機關服務人員、教育部依法令規定資格介派至公、私立學校擔任軍訓護理課程之護理教師之退休，準用本條例之規定。但其具有公務人員身分者，仍依公務人員退休法之規定。（第二項）前項護理教師之退休金，在中華民國九十年十月三十日前之任職年資由公庫支給；中華民國九十年十月三十一日後之任職年資由退休撫卹基金支給。」，爰於第一項明定教育部依法令規定資格介派至公、私立學校擔任軍訓護理課程之護理教師之撫卹，準用本條例之規定，並酌作文字修正。\n　　二、原條文第二條已明列本條例之適用對象，原第二項規定已無必要，爰予刪除。另因護理教師於九十年十月三十一日始加入教育人員退休撫卹基金，爰於第二項明定其在九十年十月三十日前之任職年資應付之撫卹金，由公庫支給。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881022",
-            "立法紀錄": "88卷45期3045號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdca81c7c7cbcacfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "971121",
+            "立法紀錄": "97卷67期3678號 41-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c8c9c8cfcfc4cfcfcbcec4cfcfcbce",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcacfcec5cccbc9d2cccbc8"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcacfcec5cccacfd2cccace"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecfcfcec5cdcacdd2cdc9cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881115",
-            "立法紀錄": "88卷52期3052號下冊 82-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdca81c7c7cacdcfccc4cfcfc7cdc4cfcfc7ca",
+            "會議日期": "971203",
+            "立法紀錄": "97卷72期3683號二冊 408-424頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c8c8cdcfcdc4cfcbcfc7c4cfcbcdcb",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "881207",
-            "立法紀錄": "88卷54期3054號上冊 184-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdca81c7c7cacbcfcec4cfcec7cbc4cfcec7c6",
+            "進度": "黨團協商",
+            "會議日期": "980604",
+            "立法紀錄": "98卷55期3741號 569-572頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cacacfcfc4cfcac9c6c4cfcac8cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "971219",
+            "立法紀錄": "97卷75期3686號 32-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c8c8cacfcfc4cfcfcccdc4cfcfcbcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5cecbc7d2cecace"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc6cfcbc5cecaccd2cecacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecccfcec5c9caced2c9c9cd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "881228",
-            "立法紀錄": "89卷2期3061號上冊 281-282頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdca81c7c6cfcdcfcec4cfcdc7cec4cfcdc7cd",
+            "會議日期": "971230",
+            "立法紀錄": "98卷3期3689號一冊 145-145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cfcccfcec4cfcecbcac4cfcecbca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980106",
+            "立法紀錄": "98卷3期3689號二冊 227-227頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cfcccfcdc4cfcdcdc8c4cfcdcdc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980109",
+            "立法紀錄": "98卷5期3691號一冊 173-173頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cfcacfcec4cfcec8ccc4cfcec8cc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "981023",
+            "立法紀錄": "98卷55期3741號 251-254頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cacacfcfc4cfcdcacec4cfcdcacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "881228",
-            "立法紀錄": "89卷2期3061號上冊 282-283頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdca81c7c6cfcdcfcec4cfcdc7cdc4cfcdc7cc",
+            "會議日期": "981023",
+            "立法紀錄": "98卷55期3741號 255-255頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cacacfcfc4cfcdcacac4cfcdcaca",
             "關係文書": []
         }
     ]
