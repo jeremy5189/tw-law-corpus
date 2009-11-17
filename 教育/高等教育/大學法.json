@@ -1,8 +1,8 @@
 {
     "title": "大學法",
     "versions": [
-        "中華民國95年12月19日修正",
-        "中華民國96年1月3日公布"
+        "中華民國98年10月23日修正",
+        "中華民國98年11月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -180,9 +180,9 @@
             "relates": {}
         },
         {
-            "note": "(修業期限)",
+            "note": "(修業期限與兩性平權之就學權益)",
             "rule_no": "第二十六條",
-            "content": "　　學生修讀學士學位之修業期限，以四年為原則。但得視系、所、學院、學程之性質延長一年至二年，並得視系、所、學院、學程之實際需要另增加實習半年至二年；修讀碩士學位之修業期限為一年至四年；修讀博士學位之修業期限為二年至七年。\n　　前項修業期限得予縮短或延長；其資格條件、申請程序之規定，由大學訂定，報教育部備查。\n　　身心障礙學生修讀學士學位，因身心狀況及學習需要，得延長修業期限，至多四年，並不適用因學業成績退學之規定。\n　　第一項學士學位畢業應修學分數及學分之計算，由教育部定之；碩士學位與博士學位畢業應修學分數及獲得學位所需通過之各項考核規定，由大學訂定，報教育部備查。",
+            "content": "　　學生修讀學士學位之修業期限，以四年為原則。但得視系、所、學院、學程之性質延長一年至二年，並得視系、所、學院、學程之實際需要另增加實習半年至二年；修讀碩士學位之修業期限為一年至四年；修讀博士學位之修業期限為二年至七年。\n　　前項修業期限得予縮短或延長，其資格條件、申請程序之規定，由大學訂定，報教育部備查。\n　　身心障礙學生修讀學士學位，因身心狀況及學習需要，得延長修業期限，至多四年，並不適用因學業成績退學之規定。\n　　學生因懷孕、分娩或撫育三歲以下子女，得延長修業期限。\n　　第一項學士學位畢業應修學分數及學分之計算，由教育部定之；碩士學位與博士學位畢業應修學分數及獲得學位所需通過之各項考核規定，由大學訂定，報教育部備查。",
             "relates": {}
         },
         {
@@ -286,52 +286,61 @@
             "relates": {}
         }
     ],
-    "law_reasons": {},
+    "law_reasons": {
+        "第二十六條": "　　一、第一項至第三項未修正。\n　　二、為保障女性學生就學權益及性別平等待遇，爰增訂第四項，明定懷孕或分娩之學生得申請提出延長修業年限，育有三歲以下子女之男女學生亦同。至其延長期限，由大學依第二項規定訂定之。\n　　三、原條文第四項移列為第五項。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950929",
-            "立法紀錄": "95卷38期3499號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7cb81c6caccc7cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "洪秀柱",
+            "會議日期": "980410",
+            "立法紀錄": "98卷19期3705號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cec6cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcdc8cdc5ceced2cecb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc7c8cdc5cacad2cac9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "951206",
-            "立法紀錄": "95卷60期3521號 173-187頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7cb81c6cac9cfcfcfc4cfcec8ccc4cfcec7c8",
+            "會議日期": "980430",
+            "立法紀錄": "98卷29期3715號 249-257頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cdc6cfcfc4cfcdcbc6c4cfcdcac8",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "951219",
-            "立法紀錄": "96卷1期3524號 414-417頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7cb81c6c9cfcecfcfc4cfcbcecbc4cfcbcec8",
+            "進度": "委員會審查",
+            "會議日期": "980603",
+            "立法紀錄": "98卷40期3726號 335-346頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cbcfcfcfc4cfcccccac4cfcccbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "980610",
+            "立法紀錄": "98卷44期3730號一冊 60-104頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cbcbcfcec4cfcfc9cfc4cfcecfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "981023",
+            "立法紀錄": "98卷55期3741號 219-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cacacfcfc4cfcdcec6c4cfcdcdcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecdcfcdc5cac8c7d2cac7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc9cfcdc5cbcac9d2cbcac6"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "951219",
-            "立法紀錄": "96卷1期3524號 417-417頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7cb81c6c9cfcecfcfc4cfcbcec8c4cfcbcec8",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "951219",
-            "立法紀錄": "96卷1期3524號 417-417頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7cb81c6c9cfcecfcfc4cfcbcec8c4cfcbcec8",
+            "會議日期": "981023",
+            "立法紀錄": "98卷55期3741號 223-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cacacfcfc4cfcdcdccc4cfcdcdcc",
             "關係文書": []
         }
     ]
