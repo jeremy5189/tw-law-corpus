@@ -1,8 +1,8 @@
 {
     "title": "教育人員任用條例",
     "versions": [
-        "中華民國98年6月12日修正",
-        "中華民國98年7月8日公布"
+        "中華民國98年10月23日修正",
+        "中華民國98年11月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -226,7 +226,7 @@
         {
             "note": "(教育人員任用限制)",
             "rule_no": "第三十一條",
-            "content": "　　具有左列情事之一者，不得為教育人員；其已任用者，應報請主管教育行政機關核准後，予以解聘或免職：\n　　一、曾犯內亂、外患罪，經判決確定或通緝有案尚未結案者。\n　　二、曾服公務，因貪汙瀆職經判決確定或通緝有案尚未結案者。\n　　三、依法停止任用，或受休職處分尚未期滿，或因案停止職務，其原因尚未消滅者。\n　　四、褫奪公權尚未復權者。\n　　五、受禁治產之宣告尚未撤銷者。\n　　六、經醫師證明有精神病者。\n　　七、行為不檢有損師道，經有關機關查證屬實者。",
+            "content": "　　具有下列情事之一者，不得為教育人員；其已任用者，應報請主管教育行政機關核准後，予以解聘或免職：\n　　一、曾犯內亂、外患罪，經判決確定或通緝有案尚未結案。\n　　二、曾服公務，因貪污瀆職經判決確定或通緝有案尚未結案。\n　　三、依法停止任用，或受休職處分尚未期滿，或因案停止職務，其原因尚未消滅。\n　　四、褫奪公權尚未復權。\n　　五、受監護或輔助宣告尚未撤銷。\n　　六、經醫師證明有精神病。\n　　七、行為不檢有損師道，經有關機關查證屬實，或涉及性侵害之行為，經學校性別平等教育委員會調查屬實。",
             "relates": {}
         },
         {
@@ -312,86 +312,80 @@
         {
             "note": "(施行日)",
             "rule_no": "第四十三條",
-            "content": "　　本條例自公布日施行。",
+            "content": "　　本條例自公布日施行。\n　　本條例中華民國九十八年十月二十三日修正之條文，自九十八年十一月二十三日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第六條": "　　照黨團協商條文通過。"
+        "第三十一條": "　　照黨團協商條文通過。",
+        "第四十三條": "　　一、原條文列為第一項。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日施行，本條例本次修正之條文亦定自同日施行，爰增訂第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971024",
-            "立法紀錄": "97卷56期3667號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c8cac9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "林正二",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecb81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc9cfcec5cecec8d2cecdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdcfcec5cecdc9d2cdcacf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971222",
-            "立法紀錄": "98卷3期3689號四冊 150-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cfcccfcbc4cfcecacfc4cfcec9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980513",
-            "立法紀錄": "98卷33期3719號 150-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cccccfcfc4cfcecacfc4cfcecacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980526",
-            "立法紀錄": "98卷34期3720號 230-235頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cccbcfcfc4cfcdcccfc4cfcdccca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecbcfccc5cec8ccd2cec8c7"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980602",
-            "立法紀錄": "98卷37期3723號 143-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7ccc8cfcfc4cfcecbccc4cfcecbcb",
+            "會議日期": "980420",
+            "立法紀錄": "98卷25期3711號 110-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecb81c6c7cdcacfcfc4cfcececfc4cfcececb",
             "關係文書": []
         },
         {
             "進度": "黨團協商",
             "會議日期": "980521",
             "立法紀錄": "98卷55期3741號 567-568頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cacacfcfc4cfcac9c8c4cfcac9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "980610",
-            "立法紀錄": "98卷43期3729號 425-426頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cbcccfcfc4cfcbcdcac4cfcbcdc9",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecb81c6c7cacacfcfc4cfcac9c8c4cfcac9c7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 332-333頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cbcdcfcec4cfcccccdc4cfcccccc",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 199-202頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecb81c6c7cdc7cfcfc4cfcec6c6c4cfcdcfcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccececfccc5cbcdc8d2cbcccf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980526",
+            "立法紀錄": "98卷34期3720號 288-288頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecb81c6c7cccbcfcfc4cfcdc7c7c4cfcdc7c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 143-143頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecb81c6c7ccc8cfcfc4cfcecbccc4cfcecbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "981023",
+            "立法紀錄": "98卷55期3741號 249-251頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecb81c6c7cacacfcfc4cfcdcbc6c4cfcdcace",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 333-333頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecc81c6c7cbcdcfcec4cfccccccc4cfcccccc",
+            "會議日期": "981023",
+            "立法紀錄": "98卷55期3741號 251-251頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c8cecb81c6c7cacacfcfc4cfcdcacec4cfcdcace",
             "關係文書": []
         }
     ]
