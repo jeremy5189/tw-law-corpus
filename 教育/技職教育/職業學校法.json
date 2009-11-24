@@ -1,8 +1,8 @@
 {
     "title": "職業學校法",
     "versions": [
-        "中華民國98年6月2日修正",
-        "中華民國98年6月17日公布"
+        "中華民國98年11月6日修正",
+        "中華民國98年11月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,9 +28,9 @@
             "relates": {}
         },
         {
-            "note": "(入學資格及修業年限)",
+            "note": "(入學資格、修業年限及多元入學招生之訂定)",
             "rule_no": "第四條",
-            "content": "　　職業學校學生入學資格，須具有國民中學畢業或同等學力者，其同等學力之標準，由教育部定之。\n　　職業學校應以多元方式辦理招生；其多元入學招生方式、實施區域、範圍、方法、招生對象、辦理時間、組織分工、名額比例及其他應遵行事項之辦法，由教育部定之。\n　　職業學校修業年限以三年為原則。性質特殊之類科，有增減修業年限之必要者，得由各該主管教育行政機關報請教育部核定之。\n　　職業學校應考查學生學業成績，學生學業成績優異者，得縮短其修業年限半年至一年；未在修業期限修滿應修學分者，得延長其修業年限二年。學生成績考查項目、方式、基準及其他相關事項之辦法，由教育部定之。",
+            "content": "　　職業學校學生入學資格，須具有國民中學畢業或同等學力者，其同等學力之標準，由教育部定之。\n　　職業學校應以多元方式辦理招生；其多元入學招生方式、實施區域、範圍、方法、招生對象、辦理時間、組織分工、名額比例及其他應遵行事項之辦法，由教育部會商直轄市、縣（市）主管教育行政機關後定之。\n　　職業學校修業年限以三年為原則。性質特殊之類科，有增減修業年限之必要者，得由各該主管教育行政機關報請教育部核定之。\n　　職業學校應考查學生學業成績，學生學業成績優異者，得縮短其修業年限半年至一年；未在修業期限修滿應修學分者，得延長其修業年限二年。學生成績考查項目、方式、基準及其他相關事項之辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -173,66 +173,73 @@
         }
     ],
     "law_reasons": {
-        "第十五條 之二": "　　一、第一項酌作文字修正。\n　　二、增訂第二項。學生申請理賠時，學校應主動協助辦理。\n　　三、增訂第三項。各級主管教育行政機關應為所轄之公私立高級職業學校場所投保公共意外責任保險。\n　　四、增訂第四項，明定前項投保經費來源，以落實公私立學校均能同步實施。"
+        "第四條": "　　教育部訂定高中職多元入學方案，在兼顧全國一致性及考量地方個別差異和需求下，將第二項末句文字修正為「由教育部會商直轄市、縣（市）主管教育行政機關後定之」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷16期3627號 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c8cec9cfcfc4cfcfceccc4cfcfcecc",
+            "會議日期": "970408",
+            "立法紀錄": "97卷11期3622號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c8cececfcfc4cfcfcfcdc4cfcfcfcd",
             "主提案": "黃志雄",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcdc5ceccced2cecccd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9cfcec5c8c8d2c8c6"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "971014",
-            "立法紀錄": "97卷53期3664號一冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c8cacccfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "陳亭妃",
+            "會議日期": "971226",
+            "立法紀錄": "98卷3期3689號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7cfcccfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbcfcec5cdcdcad2cdcdc8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecacfcec5cecec9d2cecec8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970519",
-            "立法紀錄": "97卷32期3643號 252-275頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c8cccdcfcfc4cfcdcacdc4cfcdc8ca",
+            "會議日期": "971224",
+            "立法紀錄": "98卷4期3690號一冊 136-178頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7cfcbcfcec4cfceccc9c4cfcec8c7",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980513",
-            "立法紀錄": "98卷33期3719號 330-343頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c7cccccfcfc4cfcccccfc4cfcccbcc",
+            "會議日期": "980416",
+            "立法紀錄": "98卷23期3709號 430-465頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7cdcccfcfc4cfcbcccfc4cfcbc9ca",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "980525",
+            "立法紀錄": "98卷62期3748號 555-556頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7c9cdcfcfc4cfcacacac4cfcacac9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980602",
-            "立法紀錄": "98卷37期3723號 160-168頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c7ccc8cfcfc4cfcec9cfc4cfcec9c7",
+            "會議日期": "981106",
+            "立法紀錄": "98卷62期3748號 48-54頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7c9cdcfcfc4cfcfcbc7c4cfcfcacb",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfccc5cececad2cecdcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfccc5cdcccad2cdcbce"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "980602",
-            "立法紀錄": "98卷37期3723號 168-168頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cd81c6c7ccc8cfcfc4cfcec9c7c4cfcec9c7",
+            "會議日期": "981106",
+            "立法紀錄": "98卷62期3748號 54-55頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7c9cdcfcfc4cfcfcacbc4cfcfcaca",
             "關係文書": []
         }
     ]
