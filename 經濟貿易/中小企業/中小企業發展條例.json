@@ -1,8 +1,8 @@
 {
     "title": "中小企業發展條例",
     "versions": [
-        "中華民國92年12月4日修正",
-        "中華民國92年12月17日公布"
+        "中華民國98年11月6日修正",
+        "中華民國98年11月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -172,6 +172,12 @@
             "relates": {}
         },
         {
+            "note": "(基金設立)",
+            "rule_no": "第二十四條 之一",
+            "content": "　　為協助發展地方特色產業，以促進地區經濟繁榮，政府得設立基金。",
+            "relates": {}
+        },
+        {
             "note": "(經營效率與競爭能力之提升)",
             "rule_no": "第二十五條",
             "content": "　　主管機關為增進中小企業經營效率，加強其競爭能力，得輔導中小企業共同從事生產、行銷、採購、運輸及合作開發技術與研究發展等事項。",
@@ -287,47 +293,67 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　一、配合中小企業信用保證基金之主管機關改為經濟部，爰將編列捐助預算之主管機關予以調整，俾使權責一致。\n　　二、中小企業信用保證基金保證之放款均為無擔保放款或擔保品不足之放款，其承擔之信用風險遠高於銀行，若基金淨值不足，其保證成數及保證利用率均將受影響。為使信用保證機構有充裕之保證能量，世界各國均設有捐助該國信用保證機構之機制。因此，為確保信保證基金能維持應有之保證能量，中央主管機關宜適時充分編列預算挹注資金。爰修正第二項規定，俾有效執行。\n　　三、有關金融機構每年應分攤捐助之總額，應由中央主管機關定之，爰修正第三項。",
-        "第三十二條": "　　一、中小企業開發公司之設立或輔導設立，乃經濟部之職掌，爰刪除第一項會同中央財政主管機關之規定。\n　　二、鑒於銀行之主管機關，未來可能變更，爰將第三項所定中央財政主管機關，修正為銀行法之主管機關。"
+        "第二十四條 之一": "　　一、本條新增。\n　　二、為協助各直轄市、縣（市）發展地方特色產業，促進地區經濟繁榮，增加就業機會，爰配合預算法第二十一條之規定，增訂本條，以賦予基金之設立法源。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920516",
-            "立法紀錄": "92卷29期3303號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbcf81c6cdcdc6cfcec4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "980320",
+            "立法紀錄": "98卷12期3698號 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbce81c6c7cecdcfcfc4cfcfcecac4cfcfceca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecdcfcec5cbcccad2cbccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcac8cdc5cec8cad2cec8c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921016",
-            "立法紀錄": "92卷46期3320號上冊 135-151頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbcf81c6cdcbc9cfcec4cfcecccac4cfcecace",
+            "會議日期": "980420",
+            "立法紀錄": "98卷25期3711號 147-171頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbce81c6c7cdcacfcfc4cfcecbc8c4cfcec8ce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "921204",
-            "立法紀錄": "92卷57期3331號一冊 106-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbcf81c6cdcac8cfcec4cfcecfc9c4cfcececd",
+            "會議日期": "980512",
+            "立法紀錄": "98卷28期3714號 187-190頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbce81c6c7cdc7cfcfc4cfcec7c8c4cfcec6cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcecdcfcdc5cecfced2cecfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccececfccc5cec9cad2cec9c8"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980526",
+            "立法紀錄": "98卷34期3720號 288-288頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbce81c6c7cccbcfcfc4cfcdc7c7c4cfcdc7c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 143-143頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbce81c6c7ccc8cfcfc4cfcecbccc4cfcecbcc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "981106",
+            "立法紀錄": "98卷62期3748號 27-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbce81c6c7c9cdcfcfc4cfcfcdc8c4cfcfcdc7",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "921204",
-            "立法紀錄": "92卷57期3331號一冊 112-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbcf81c6cdcac8cfcec4cfcececdc4cfcececc",
+            "會議日期": "981106",
+            "立法紀錄": "98卷62期3748號 28-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc8cbce81c6c7c9cdcfcfc4cfcfcdc7c4cfcfcdc7",
             "關係文書": []
         }
     ]
