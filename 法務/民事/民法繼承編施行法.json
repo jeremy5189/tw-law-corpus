@@ -1,8 +1,8 @@
 {
     "title": "民法繼承編施行法",
     "versions": [
-        "中華民國98年5月22日修正",
-        "中華民國98年6月10日公布"
+        "中華民國98年12月15日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -90,93 +90,51 @@
         {
             "note": "(施行日)",
             "rule_no": "第十一條",
-            "content": "　　本施行法自民法繼承編施行之日施行。\n　　民法繼承編修正條文及本施行法修正條文自公布日施行。",
+            "content": "　　本施行法自民法繼承編施行之日施行。\n　　民法繼承編修正條文及本施行法修正條文，除中華民國九十八年十二月十五日修正之民法第一千一百九十八條及第一千二百十條自九十八年十一月二十三日施行者外，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條 之一": "　　照黨團協商條文通過。",
-        "第一條 之三": "　　照黨團協商條文通過。"
+        "第十一條": "　　一、第一項未修正。\n　　二、配合九十七年五月二十三日修正公布之民法及其施行法修正條文自九十八年十一月二十三日施行，民法本次修正之第一千一百九十八條及第一千二百十條亦定自同日施行，爰修正原條文第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980320",
-            "立法紀錄": "98卷12期3698號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cecdcfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcac8cdc5cecfc8d2cececf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
             "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cecbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": false,
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cd81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9c8cdc5cac6d2c9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdcfcec5cecdc9d2cdcacf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980415",
-            "立法紀錄": "98卷23期3709號 221-241頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cdcccfcfc4cfcdcdcec4cfcdcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980427",
-            "立法紀錄": "98卷27期3713號 188-231頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cdc8cfcfc4cfcec7c7c4cfcdccce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980513",
-            "立法紀錄": "98卷33期3719號 136-148頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccccfcfc4cfceccc9c4cfcecbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980522",
-            "立法紀錄": "98卷34期3720號 65-102頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccbcfcfc4cfcfc9cac4cfcecfcd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecbcfccc5cecccad2cec8cd"
-                ]
-            ]
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "980521",
-            "立法紀錄": "98卷34期3720號 547-549頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccbcfcfc4cfcacbc8c4cfcacbc6",
+            "會議日期": "981126",
+            "立法紀錄": "98卷74期3760號 107-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cd81c6c7c8cbcfcfc4cfcecfc8c4cfcec9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980522",
-            "立法紀錄": "98卷34期3720號 102-107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccbcfcfc4cfcecfcdc4cfcecfc8",
-            "關係文書": []
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 304-307頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cd81c6c7c8cacfcdc4cfcccfcbc4cfcccfc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcbc5c8ccd2c8ca"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "980522",
-            "立法紀錄": "98卷34期3720號 107-109頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cf81c6c7cccbcfcfc4cfcecfc8c4cfcecfc6",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 307-307頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdccc9cd81c6c7c8cacfcdc4cfcccfc8c4cfcccfc8",
             "關係文書": []
         }
     ]
