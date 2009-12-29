@@ -1,8 +1,8 @@
 {
     "title": "證券交易稅條例",
     "versions": [
-        "中華民國82年7月9日修正",
-        "中華民國82年7月30日公布"
+        "中華民國98年12月11日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -19,6 +19,12 @@
             "note": "(課徵稅率)",
             "rule_no": "第二條",
             "content": "　　證券交易稅向出賣有價證券人按每次交易成交價格依左列稅率課徵之：\n　　一、公司發行之股票及表明股票權利之證書或憑證徵千分之三。\n　　二、公司債及其他經政府核准之有價證券徵千分之一。",
+            "relates": {}
+        },
+        {
+            "note": "(免徵公司債及金融債券證交稅之年限)",
+            "rule_no": "第二條 之一",
+            "content": "　　為活絡債券市場，協助企業籌資及促進資本市場之發展，自中華民國九十九年一月一日起七年內暫停徵公司債及金融債券之證券交易稅。",
             "relates": {}
         },
         {
@@ -107,54 +113,46 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　一、本條刪除。\n　　二、依八十一年修正公布之稅捐稽徵法第五十條之二規定，本條有關移送法院處分程序之規定已不適用，爰予刪除，以資配合。"
+        "第二條 之一": "　　一、本條新增。\n　　二、為活絡債券市場，協助企業籌資及促進資本市場之發展，在特定期間內停徵公司債及金融債之證券交易稅。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "810616",
-            "立法紀錄": "81卷49期2577號上冊 31-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cecfcbc6cfcec4cfcfcccec4cfcfccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "820323",
-            "立法紀錄": "82卷15期2614號 69-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcecacfcfc4cfcfc9c6c4cfcfc8ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "820303",
-            "立法紀錄": "82卷12期2611號 282-298頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcecdcfcfc4cfcdc7cdc4cfcdc6c7",
-            "關係文書": []
+            "會議日期": "980925",
+            "立法紀錄": "98卷47期3733號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cd81c6c7cbc8cfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec9cfcec5cdc8c8d2cdc8c6"
+                ]
+            ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "820407",
-            "立法紀錄": "82卷22期2621號下冊 180-202頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcdcdcfccc4cfcec7cfc4cfcdcfcd",
+            "會議日期": "981104",
+            "立法紀錄": "98卷64期3750號 452-482頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cd81c6c7c9cbcfcfc4cfcbcacdc4cfcbc7cd",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "820709",
-            "立法紀錄": "82卷46期2645號下冊 56-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcbc9cfccc4cfcfcac9c4cfcfc7ce",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "981211",
+            "立法紀錄": "98卷75期3761號一冊 360-364頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cd81c6c7c8cacfcec4cfccc9cfc4cfccc9cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecccacfcfc5cec7cdd2cdcfc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc6cfccc5cbc8cdd2cbc8ca"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "820709",
-            "立法紀錄": "82卷46期2645號下冊 81-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6ce81c7cdcbc9cfccc4cfcfc7cec4cfcfc7ce",
+            "會議日期": "981211",
+            "立法紀錄": "98卷75期3761號一冊 364-364頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8c6cd81c6c7c8cacfcec4cfccc9cbc4cfccc9cb",
             "關係文書": []
         }
     ]
