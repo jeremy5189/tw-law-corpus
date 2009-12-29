@@ -1,8 +1,8 @@
 {
     "title": "民法親屬編施行法",
     "versions": [
-        "中華民國97年5月2日修正",
-        "中華民國97年5月23日公布"
+        "中華民國98年12月15日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -138,53 +138,51 @@
         {
             "note": "(施行日)",
             "rule_no": "第十五條",
-            "content": "　　本施行法自民法親屬編施行之日施行。\n　　民法親屬編修正條文及本施行法修正條文，除另定施行日期者外，自公布日施行。",
+            "content": "　　本施行法自民法親屬編施行之日施行。\n民法親屬編修正條文及本施行法修正條文，除另定施行日期，及中華民國九十八年十二月十五日修正之民法第一千一百三十一條及第一千一百三十三條自九十八年十一月二十三日施行者外，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十四條 之二": "　　一、本條新增。\n　　二、為解決新法施行前後之銜接問題，爰明定民法親屬編關於未成年人及成年人監護之修正規定，對於修正條文施行前所設置之未成年人或禁治產人之監護人亦適用之。",
-        "第十四條 之三": "　　一、本條新增。\n　　二、本次民法親屬編第四章條文修正之幅度甚大，其中監護事務改由法院監督，刪除成年監護之監護人  法定順序及新增「輔助」制度等修正內容，對監護實務運作影響深遠，為避免驟然公布施行，相關程序法規未及配合修正及民眾對新制度不明瞭，衍生適用困擾，宜有適當之準備期間，爰增訂自公布後一年六個月施行，使新制運作更為順利。",
-        "第十五條": "　　一、第一項未修正。\n　　二、配合本次民法親屬編修正監護相關規定，係定自公布後一年施行，爰第二項增訂「除另定施行日期者外」之文字，以資明確。"
+        "第十五條": "　　一、第一項未修正。\n　　二、配合九十七年五月二十三日修正公布之民法及其施行法修正條文自九十八年十一月二十三日施行，民法本次修正之第一千一百三十一條及第一千一百三十三條亦定自同日施行，爰修正原條文第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970314",
-            "立法紀錄": "97卷007期3618號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcc81c6c8cfc8cfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "陳節如",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcb81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcbc8cdc5ccccd2ccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdcfcec5cecdc9d2cdcacf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970418",
-            "立法紀錄": "97卷020期3631號 173-201頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcc81c6c8cdcfcfcfc4cfcec8ccc4cfcdcfce",
+            "會議日期": "981126",
+            "立法紀錄": "98卷74期3760號 107-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcb81c6c7c8cbcfcfc4cfcecfc8c4cfcec9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970502",
-            "立法紀錄": "97卷023期3634號 60-114頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcc81c6c8cdcccfcfc4cfcfc9cfc4cfcececb",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 302-304頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcb81c6c7c8cacfcdc4cfcccfcdc4cfcccfcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc6cfcbc5cccecad2ccc9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcbc5c9c6d2c8ce"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "970502",
-            "立法紀錄": "97卷023期3634號 114-115頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcc81c6c8cdcccfcfc4cfcececbc4cfcececa",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 304-304頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcccbcb81c6c7c8cacfcdc4cfcccfcbc4cfcccfcb",
             "關係文書": []
         }
     ]
