@@ -1,8 +1,8 @@
 {
     "title": "使用牌照稅法",
     "versions": [
-        "中華民國96年7月20日修正",
-        "中華民國96年8月8日公布"
+        "中華民國98年12月11日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -216,7 +216,7 @@
         {
             "note": "(轉賣移用牌照之處罰)",
             "rule_no": "第三十一條",
-            "content": "　　交通工具使用牌照有轉賣、移用者，處以應納稅額二倍之罰鍰。",
+            "content": "　　交通工具使用牌照有轉賣、移用者，處以應納稅額二倍之罰鍰。但最高不得超過新臺幣十五萬元。",
             "relates": {}
         },
         {
@@ -267,81 +267,46 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　照黨團協商條文通過。",
-        "第七條": "　　照黨團協商條文通過。"
+        "第三十一條": "　　依司法院釋字第六一六號解釋，行為罰依應納稅額固定之比例計算，應有合理最高額限制。本條規定係就交通工具使用牌照之轉賣、移用行為所處之行為罰，應有合理最高額之限制。至其金額之決定，則係考量車輛具流動性，且轉賣、移用牌照行為增加違章案件查緝之困難度，罰鍰最高限額不宜過低，爰參據實務上裁罰情形增訂罰鍰最高限額為新臺幣十五萬元，以符比例原則。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940520",
-            "立法紀錄": "94卷37期3419號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacc81c6cbccc8cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "林炳坤",
+            "會議日期": "981016",
+            "立法紀錄": "98卷53期3739號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacb81c6c7cacccfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececccfcec5c6cbd2c6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "950106",
-            "立法紀錄": "95卷4期3465號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacc81c6cacfcbcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "王幸男",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec9cfcec5cecbced2cecbc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcac8cdc5cac6d2c9cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950524",
-            "立法紀錄": "95卷33期3494號 247-264頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacc81c6cacccccfcfc4cfcdcbc8c4cfcdc9cb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960717",
-            "立法紀錄": "96卷58期3581號 285-293頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacc81c6c9cac7cfcfc4cfcdc7cac4cfcdc6cc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacec7cfcdc5caccd2c9ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960719",
-            "立法紀錄": "96卷59期3582號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacc81c6c9cac6cfcfc4cfcfcfc9c4cfcfcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960720",
-            "立法紀錄": "96卷59期3582號 163-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacc81c6c9cac6cfcfc4cfcec9ccc4cfcec9ca",
+            "會議日期": "981104",
+            "立法紀錄": "98卷64期3750號 452-482頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacb81c6c7c9cbcfcfc4cfcbcacdc4cfcbc7cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960720",
-            "立法紀錄": "96卷59期3582號 165-166頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacc81c6c9cac6cfcfc4cfcec9cac4cfcec9c9",
-            "關係文書": []
+            "會議日期": "981211",
+            "立法紀錄": "98卷75期3761號一冊 364-369頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacb81c6c7c8cacfcec4cfccc9cbc4cfccc9c6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc6cfccc5cbc8c9d2cbc7cd"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960720",
-            "立法紀錄": "96卷59期3582號 166-167頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacc81c6c9cac6cfcfc4cfcec9c9c4cfcec9c8",
+            "會議日期": "981211",
+            "立法紀錄": "98卷75期3761號一冊 369-369頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc9cacb81c6c7c8cacfcec4cfccc9c6c4cfccc9c6",
             "關係文書": []
         }
     ]
