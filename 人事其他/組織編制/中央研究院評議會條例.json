@@ -1,12 +1,12 @@
 {
     "title": "中央研究院評議會條例",
     "versions": [
-        "中華民國43年12月17日全文修正",
-        "中華民國43年12月28日公布"
+        "中華民國98年12月15日廢止",
+        "中華民國98年12月30日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -88,44 +88,32 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　「中央研究院評議會條例」於民國24年5月27日制定公布，係以「中央研究院組織法」第11條第3項「中央研究院評議會條例另定之」為依據。惟「中央研究院組織法」於79年1月24日修正公布後，業已刪除該項條文，則「中央研究院評議會條例」已失所附麗，爰予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "431012",
-            "立法紀錄": "43卷14期號1冊 89-89頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8cc81cbcccecbcfcec4cfcfc7c6c4cfcfc7c6",
-            "主提案": "行政院",
+            "會議日期": "980918",
+            "立法紀錄": "98卷46期3732號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c8cb81c6c7cbc9cfcec4cfcfcfc9c4cfcfcfc9",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcecfcfc5cbcdc7d2cbcccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcec8cdc5cccdccd2cccdcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "431217",
-            "立法紀錄": "44卷14期號7冊 26-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8cc81cbcbcecbcfc8c4cfcfcdc9c4cfcfccce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcececbcfcccfcfc5cbcbd2caca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "431214",
-            "立法紀錄": "44卷14期號6冊 188-190頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8cc81cbcbcecbcfc9c4cfcec7c7c4cfcec6cf",
+            "進度": "委員會審查",
+            "會議日期": "981119",
+            "立法紀錄": "98卷71期3757號一冊 278-315頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c8cb81c6c7c8cecfcec4cfcdc8c7c4cfccceca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "431217",
-            "立法紀錄": "44卷14期號7冊 138-139頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfccc8c8cc81cbcbcecbcfc8c4cfceccc7c4cfceccc6",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 206-208頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c8cb81c6c7c8cacfcdc4cfcdcfc9c4cfcdcfc7",
             "關係文書": []
         }
     ]
