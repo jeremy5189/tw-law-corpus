@@ -1,8 +1,8 @@
 {
     "title": "民法第二編債",
     "versions": [
-        "中華民國89年4月14日修正",
-        "中華民國89年4月26日公布"
+        "中華民國98年12月15日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -3700,7 +3700,7 @@
         {
             "note": "(法定退夥事由)",
             "rule_no": "第六百八十七條",
-            "content": "　　合夥人除依前二條規定退夥外，因左列事項之一而退夥：\n　　一、合夥人死亡者。但契約訂明其繼承人得繼承者，不在此限。\n　　二、合夥人受破產或禁治產之宣告者。\n　　三、合夥人經開除者。",
+            "content": "　　合夥人除依前二條規定退夥外，因下列事項之一而退夥：\n　　一、合夥人死亡者。但契約訂明其繼承人得繼承者，不在此限。\n　　二、合夥人受破產或監護之宣告者。\n　　三、合夥人經開除者。",
             "relates": {}
         },
         {
@@ -3828,9 +3828,9 @@
             "relates": {}
         },
         {
-            "note": "(隱名合夥之終止)",
+            "note": "(隱名合夥契約終止事由)",
             "rule_no": "第七百零八條",
-            "content": "　　除依第六百八十六條之規定得聲明退夥外，隱名合夥契約，因左列事項之一而終止：\n　　一、存續期限屆滿者。\n　　二、當事人同意者。\n　　三、目的事業已完成或不能完成者。\n　　四、出名營業人死亡或受禁治產之宣告者。\n　　五、出名營業人或隱名合夥人受破產之宣告者。\n　　六、營業之廢止或轉讓者。",
+            "content": "　　除依第六百八十六條之規定得聲明退夥外，隱名合夥契約，因下列事項之一而終止：\n　　一、存續期限屆滿者。\n　　二、當事人同意者。\n　　三、目的事業已完成或不能完成者。\n　　四、出名營業人死亡或受監護之宣告者。\n　　五、出名營業人或隱名合夥人受破產之宣告者。\n　　六、營業之廢止或轉讓者。",
             "relates": {}
         },
         {
@@ -4277,53 +4277,47 @@
         }
     ],
     "law_reasons": {
-        "第二百四十八條": "　　「訂金」係「定金」之誤繕，予以修正。"
+        "第六百八十七條": "　　一、配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」修正為「監護宣告」，爰將現行條文第二款「受禁治產之宣告」修正為「受監護之宣告」；其餘各款未修正。\n　　二、又依民法第十五條之二第一項第一款規定，受輔助宣告之人經輔助人同意，得為合夥營業之負責人。此乃因受輔助宣告之人僅係因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其所為意思表示效果之能力，顯有不足，並不因輔助宣告而喪失行為能力，惟為保護其權益，於為重要之法律行為時，應經輔助人同意。故受輔助宣告之人經輔助人之同意，仍得為合夥營業之負責人。",
+        "第七百零八條": "　　配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」修正為「監護宣告」，爰將原條文第四款「受禁治產之宣告」修正為「受監護之宣告」；其餘各款未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881029",
-            "立法紀錄": "88卷46期3046號上冊 18-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8cb81c7c7cbc9cfcec4cfcfcec7c4cfcfcec7",
-            "主提案": "郭素春",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8c981c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcecec9cfcdc5cec6c9d2cec6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdcfcec5cecdc9d2cdcacf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890105",
-            "立法紀錄": "89卷8期3067號 215-216頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8cb81c7c6cfc7cfcfc4cfcdcecac4cfcdcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "890411",
-            "立法紀錄": "89卷16期3075號 39-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8cb81c7c6cec9cfcfc4cfcfccc6c4cfcfcbce",
+            "會議日期": "981126",
+            "立法紀錄": "98卷74期3760號 107-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8c981c6c7c8cbcfcfc4cfcecfc8c4cfcec9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "890414",
-            "立法紀錄": "89卷17期3076號 21-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8cb81c7c6cec8cfcfc4cfcfcdcec4cfcfcdcd",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 293-299頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8c981c6c7c8cacfcdc4cfcdc6ccc4cfcdc6c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfcccfcdc5cbc9ccd2cbc9ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcbc5cac6d2c9cc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "890414",
-            "立法紀錄": "89卷17期3076號 22-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8cb81c7c6cec8cfcfc4cfcfcdcdc4cfcfcdcd",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 299-299頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacac6cbcacdcec8c981c6c7c8cacfcdc4cfcdc6c6c4cfcdc6c6",
             "關係文書": []
         }
     ]
