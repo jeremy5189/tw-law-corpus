@@ -1,12 +1,12 @@
 {
     "title": "涉外民事法律適用法",
     "versions": [
-        "中華民國42年5月22日制定",
-        "中華民國42年6月6日公布"
+        "中華民國98年12月15日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -22,9 +22,9 @@
             "relates": {}
         },
         {
-            "note": "(外國人之禁治產宣告)",
+            "note": "(外國人之監護、輔助宣告)",
             "rule_no": "第三條",
-            "content": "　　凡在中華民國有住所或居所之外國人，依其本國及中華民國法律同有禁治產之原因者，得宣告禁治產。\n　　前項禁治產之宣告，其效力依中華民國法律。",
+            "content": "　　凡在中華民國有住所或居所之外國人，依其本國及中華民國法律同有受監護、輔助宣告之原因者，得為監護、輔助宣告。\n　　前項監護、輔助宣告，其效力依中華民國法律。",
             "relates": {}
         },
         {
@@ -126,7 +126,7 @@
         {
             "note": "(監護之準據法)",
             "rule_no": "第二十條",
-            "content": "　　監護依受監護人之本國法。但在中華民國有住所或居所之外國人，有左列情形之一者，其監護依中華民國法律：\n　　一、依受監護人之本國法有應置監護人之原因，而無人行使監護之職務者。\n　　二、受監護人在中華民國受禁治產之宣告者。",
+            "content": "　　監護，依受監護人之本國法，但在中華民國有住所或居所之外國人有下列情形之一者，其監護依中華民國法律：\n　　一、依受監護人之本國法，有應置監護人之原因而無人行使監護之職務。\n　　二、受監護人在中華民國受監護宣告。\n　　輔助宣告之輔助，準用前項規定。",
             "relates": {}
         },
         {
@@ -196,45 +196,48 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第三條": "　　配合「禁治產宣告」一級制已修正為「監護宣告」與「輔助宣告」二級制，爰修正本法條文用字。",
+        "第二十條": "　　配合「禁治產宣告」一級制已修正為「監護宣告」與「輔助宣告」二級制，爰修正本法條文用字。"
+    },
     "law_history": [
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420515",
-            "立法紀錄": "42卷11期號8冊 34-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcbc8ca81cbcdcececfc7c4cfcfcccbc4cfcfcacc",
+            "進度": "一讀",
+            "會議日期": "971205",
+            "立法紀錄": "97卷71期3682號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcbc8c981c6c8c8cecfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": "賴清德",
             "關係文書": [
                 [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecececfcecfcfc5cbc8cbd2cbc8c6"
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecdcfcbc5cccdc7d2cccdc6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "420515",
-            "立法紀錄": "42卷11期號8冊 131-138頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcbc8ca81cbcdcececfc7c4cfcecccec4cfceccc7",
+            "進度": "委員會審查",
+            "會議日期": "981126",
+            "立法紀錄": "98卷74期3760號 107-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcbc8c981c6c7c8cbcfcfc4cfcecfc8c4cfcec9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "420515",
-            "立法紀錄": "42卷11期號8冊 138-144頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcbc8ca81cbcdcececfc7c4cfceccc7c4cfcecbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "420519",
-            "立法紀錄": "42卷11期號8冊 151-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcbc8ca81cbcdcececfc7c4cfcecacec4cfcecac9",
-            "關係文書": []
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 248-250頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcbc8c981c6c7c8cacfcdc4cfcdcbc7c4cfcdcacf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcbc5c8d2c6"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "420522",
-            "立法紀錄": "42卷11期號8冊 174-177頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cfcbc8ca81cbcdcececfc7c4cfcec8cbc4cfcec8c8",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 250-251頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfcbc8c981c6c7c8cacfcdc4cfcdcacfc4cfcdcace",
             "關係文書": []
         }
     ]
