@@ -1,8 +1,8 @@
 {
     "title": "民法第四編親屬",
     "versions": [
-        "中華民國98年4月14日修正",
-        "中華民國98年4月29日公布"
+        "中華民國98年12月15日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -1350,7 +1350,7 @@
         {
             "note": "(親屬會議會員之選定順序)",
             "rule_no": "第一千一百三十一條",
-            "content": "　　親屬會議會員，應就未成年人、禁治產人或被繼承人之左列親屬與順序定之：\n　　一、直系血親尊親屬。\n　　二、三親等內旁系血親尊親屬。\n　　三、四親等內之同輩血親。\n　　前項同一順序之人，以親等近者為先；親等同者，以同居親屬為先，無同居親屬者，以年長者為先。\n　　依前二項順序所定之親屬會議會員，不能出席會議或難於出席時，由次順序之親屬充任之。",
+            "content": "　　親屬會議會員，應就未成年人、受監護宣告之人或被繼承人之下列親屬與順序定之：\n　　一、直系血親尊親屬。\n　　二、三親等內旁系血親尊親屬。\n　　三、四親等內之同輩血親。\n　　前項同一順序之人，以親等近者為先；親等同者，以同居親屬為先，無同居親屬者，以年長者為先。\n　　依前二項順序所定之親屬會議會員，不能出席會議或難於出席時，由次順序之親屬充任之。",
             "relates": {}
         },
         {
@@ -1362,7 +1362,7 @@
         {
             "note": "(會員資格之限制)",
             "rule_no": "第一千一百三十三條",
-            "content": "　　監護人、未成年人及禁治產人，不得為親屬會議會員。",
+            "content": "　　監護人、未成年人及受監護宣告之人，不得為親屬會議會員。",
             "relates": {}
         },
         {
@@ -1391,53 +1391,42 @@
         }
     ],
     "law_reasons": {
-        "第一千零五十二條 之一": "　　賦予法院調解離婚或法院和解離婚成立者一定之法律效果；並避免因當事人未至戶政機關作離婚登記而影響其本人及相關者之權益。"
+        "第一千一百三十一條": "　　一、第一項序言之修正理由，同修正條文第六百八十七條說明一。\n　　二、第二項及第三項未修正。",
+        "第一千一百三十三條": "　　配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」修正為「監護宣告」，爰將原條文第二款「受禁治產之宣告」修正為「受監護之宣告」；其餘各款未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971014",
-            "立法紀錄": "97卷53期3664號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9ce81c6c8cacccfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "黃淑英",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9cc81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbc8cdc5ced2cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdcfcec5cecdc9d2cdcacf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971215",
-            "立法紀錄": "98卷2期3688號 68-88頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9ce81c6c7cfcdcfcfc4cfcfc9c7c4cfcfc7c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980401",
-            "立法紀錄": "98卷18期3704號 368-392頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9ce81c6c7cec7cfcfc4cfccc9c7c4cfccc6cd",
+            "會議日期": "981126",
+            "立法紀錄": "98卷74期3760號 107-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9cc81c6c7c8cbcfcfc4cfcecfc8c4cfcec9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980414",
-            "立法紀錄": "98卷19期3705號一冊 256-260頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9ce81c6c7cec6cfcec4cfcdcac9c4cfcdc9cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc7cfcdc5caccc7d2cacbcc"
-                ]
-            ]
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 293-299頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9cc81c6c7c8cacfcdc4cfcdc6ccc4cfcdc6c6",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "980414",
-            "立法紀錄": "98卷19期3705號一冊 260-260頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9ce81c6c7cec6cfcec4cfcdc9cfc4cfcdc9cf",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 299-299頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7c9cc81c6c7c8cacfcdc4cfcdc6c6c4cfcdc6c6",
             "關係文書": []
         }
     ]
