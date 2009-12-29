@@ -1,8 +1,8 @@
 {
     "title": "行政執行法",
     "versions": [
-        "中華民國98年4月14日修正",
-        "中華民國98年4月29日公布"
+        "中華民國98年12月15日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -158,7 +158,7 @@
         {
             "note": "(適用義務人拘提管收等規定之人)",
             "rule_no": "第二十四條",
-            "content": "　　關於義務人拘提管收及應負義務之規定，於下列各款之人亦適用之：\n　　一、義務人為未成年人或禁治產人者，其法定代理人。\n　　二、商號之經理人或清算人；合夥之執行業務合夥人。\n　　三、非法人團體之代表人或管理人。\n　　四、公司或其他法人之負責人。\n　　五、義務人死亡者，其繼承人、遺產管理人或遺囑執行人。",
+            "content": "　　關於義務人拘提管收及應負義務之規定，於下列各款之人亦適用之：\n　　一、義務人為未成年人或受監護宣告之人者，其法定代理人。\n　　二、商號之經理人或清算人；合夥之執行業務合夥人。\n　　三、非法人團體之代表人或管理人。\n　　四、公司或其他法人之負責人。\n　　五、義務人死亡者，其繼承人、遺產管理人或遺囑執行人。",
             "relates": {}
         },
         {
@@ -288,74 +288,67 @@
             "relates": {}
         },
         {
-            "note": "(施行日期)",
+            "note": "(施行日)",
             "rule_no": "第四十四條",
-            "content": "　　本法自公布日施行。\n　　本法修正條文之施行日期，由行政院以命令定之。",
+            "content": "　　本法自公布日施行。\n　　本法修正條文之施行日期，由行政院以命令定之。但中華民國九十八年十二月十五日修正之條文，自九十八年十一月二十三日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十七條": "　　照黨團協商條文通過。"
+        "第二十四條": "　　配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產人」修正為「受監護宣告之人」，爰配合修正第一款規定；其餘各款未修正。",
+        "第四十四條": "　　一、第一項未修正。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日施行，本法本次修正之條文亦定自同日施行，爰增訂第二項但書。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970509",
-            "立法紀錄": "97卷25期3636號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cb81c6c8cdcacfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": false,
+            "會議日期": "971003",
+            "立法紀錄": "97卷52期3663號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ca81c6c8cacdcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "陳杰",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececfcfcec5cecec6d2cecdcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcccfcfc5cec6ccd2cec6cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ca81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdcfcec5cecdc9d2cdcacf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970611",
-            "立法紀錄": "97卷41期3652號 159-166頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cb81c6c8cbcecfcfc4cfcecac6c4cfcec9c9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980109",
-            "立法紀錄": "98卷5期3691號一冊 189-197頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cb81c6c7cfcacfcec4cfcec7c6c4cfcec6c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec8cfcdc5cac6ccd2c9cfce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980331",
-            "立法紀錄": "98卷14期3700號一冊 462-462頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cb81c6c7cecbcfcec4cfcbc9cdc4cfcbc9cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980407",
-            "立法紀錄": "98卷17期3703號 104-104頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cb81c6c7cec8cfcfc4cfcecfcbc4cfcecfcb",
+            "會議日期": "981126",
+            "立法紀錄": "98卷74期3760號 107-160頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ca81c6c7c8cbcfcfc4cfcecfc8c4cfcec9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980414",
-            "立法紀錄": "98卷19期3705號一冊 120-123頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cb81c6c7cec6cfcec4cfcecdcfc4cfcecdcc",
-            "關係文書": []
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 277-281頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ca81c6c7c8cacfcdc4cfcdc8c8c4cfcdc7ce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcbc5ccc6d2cbcc"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "980414",
-            "立法紀錄": "98卷19期3705號一冊 123-123頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8cb81c6c7cec6cfcec4cfcecdccc4cfcecdcc",
+            "會議日期": "981215",
+            "立法紀錄": "98卷75期3761號二冊 281-281頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdc6c8ca81c6c7c8cacfcdc4cfcdc7cec4cfcdc7ce",
             "關係文書": []
         }
     ]
