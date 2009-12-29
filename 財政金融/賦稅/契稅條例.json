@@ -1,8 +1,8 @@
 {
     "title": "契稅條例",
     "versions": [
-        "中華民國90年5月29日修正",
-        "中華民國90年6月13日公布"
+        "中華民國98年12月11日修正",
+        "中華民國98年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -162,7 +162,7 @@
         {
             "note": "(怠報金)",
             "rule_no": "第二十四條",
-            "content": "　　納稅義務人不依規定期限申報者，每逾三日，加徵應納稅額百分之一之怠報金。但最高以應納稅額為限。",
+            "content": "　　納稅義務人不依規定期限申報者，每逾三日，加徵應納稅額百分之一之怠報金，最高以應納稅額為限。但不得超過新臺幣一萬五千元。",
             "relates": {}
         },
         {
@@ -221,62 +221,46 @@
         }
     ],
     "law_reasons": {
-        "第七條 之一": "　　一、本條新增。\n　　二、明定不動產為信託財產，於移轉與歸屬權利人時，其契稅之納稅義務人及申報期限。",
-        "第十四條 之一": "　　一、本條新增。\n　　二、明定不動產為信託財產，於移轉時不課徵契稅之各種情形。",
-        "第三十三條": "　　一、第一項未修正。\n　　二、增訂第二項。為使本次修正之信託課稅條文，能與其他信託相關稅法修正條文同時施行，以利信託制度之運作，爰規定本次修正條文施行日期由行政院定之。"
+        "第二十四條": "　　依司法院釋字第六一六號解釋，行為罰依應納稅額固定之比例計算，應有合理最高額限制。本條加徵怠報金之規定，屬違反稅法規定作為義務所處之行為罰，爰參據過去實務上個案裁罰金額，增訂加徵怠報金之最高金額不得超過新臺幣一萬五千元，以符比例原則。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881022",
-            "立法紀錄": "88卷45期3045號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cecf81c7c7cbcacfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "981016",
+            "立法紀錄": "98卷53期3739號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cece81c6c7cacccfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfcacfcec5cdcfc9d2cdcccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcac8cdc5cac6d2c9cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "891101",
-            "立法紀錄": "89卷65期3124號下冊 231-255頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cecf81c7c6c9cacfccc4cfcdcccec4cfcdcaca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "891213",
-            "立法紀錄": "90卷4期3138號 323-343頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cecf81c6cfcfcbcfcfc4cfcccdccc4cfcccbcc",
+            "會議日期": "981104",
+            "立法紀錄": "98卷64期3750號 452-482頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cece81c6c7c9cbcfcfc4cfcbcacdc4cfcbc7cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "900511",
-            "立法紀錄": "90卷26期3160號一冊 227-313頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cecf81c6cfcdc9cfcec4cfcdcdc8c4cfcccecc",
+            "會議日期": "981211",
+            "立法紀錄": "98卷75期3761號一冊 364-369頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cece81c6c7c8cacfcec4cfccc9cbc4cfccc9c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcec9cfcec5ccc7cdd2cbc8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc6cfccc5cbc8c9d2cbc7cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "900529",
-            "立法紀錄": "90卷30期3164號一冊 321-326頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cecf81c6cfcccfcfcec4cfcccdcec4cfcccdc9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "900529",
-            "立法紀錄": "90卷30期3164號一冊 326-338頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cecf81c6cfcccfcfcec4cfcccdc9c4cfccccc7",
+            "會議日期": "981211",
+            "立法紀錄": "98卷75期3761號一冊 369-369頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cfc7cece81c6c7c8cacfcec4cfccc9c6c4cfccc9c6",
             "關係文書": []
         }
     ]
