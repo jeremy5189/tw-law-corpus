@@ -1,8 +1,8 @@
 {
     "title": "學校教職員退休條例",
     "versions": [
-        "中華民國98年10月23日修正",
-        "中華民國98年11月18日公布"
+        "中華民國98年12月22日修正",
+        "中華民國99年1月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,7 +24,7 @@
         {
             "note": "(退休申請資格)",
             "rule_no": "第三條",
-            "content": "　　教職員有下列情形之一，得申請退休：\n　　一、任職五年以上，年滿六十歲者。\n　　二、任職滿二十五年者。\n　　前項第一款之退休年齡，對所任職務有體能上之限制者，得酌予降低，但不得少於五十五歲。\n　　第一項任職年資，應包括核備有案，於各級公立學校服務之代理兵缺年資。\n　　前項規定，自中華民國九十七年一月一日施行。\n　　中華民國九十七年一月一日以後之各項代理（課）教師之年資，均不得併計為退休年資。",
+            "content": "　　教職員有下列情形之一者，得申請退休：\n　　一、任職五年以上，年滿六十歲。\n　　二、任職滿二十五年。\n　　前項第一款之退休年齡，對所任職務有體能上之限制者，得酌予降低，但不得少於五十五歲。\n　　第一項任職年資，應包括下列規定之年資：\n　　一、核備有案，於各級公立學校服務之代理兵缺年資。\n　　二、教師遭停聘、解聘或不續聘，依法令規定提起申訴或訴願，經評議決定或訴願決定確定回復聘任關係者之申訴或訴願期間學校年資。\n　　前項第一款規定，自中華民國九十七年一月一日施行。\n　　中華民國九十七年一月一日以後之各項代理（課）教師之年資，均不得併計為退休年資。",
             "relates": {}
         },
         {
@@ -185,82 +185,46 @@
         }
     ],
     "law_reasons": {
-        "第八條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。",
-        "第十條 之一": "　　一、本條新增。\n　　二、依教育人員任用條例第三十三條後段規定，已屆應即退休年齡（六十五歲）者，不得任用為專任教育人員，且依本條例第二條及其施行細則第二條規定，依本條例辦理退休之教師，除法令另有規範外，須以各級公立學校現職、編制內、合格、有給、專任者為限，爰借調教師如未於六十五歲前回職復薪者，即不得再回任教職並依本條例規定辦理退休。惟考量現行教育人員借調情形已相當普遍，如因其借調期間身分改變即限制其請領退撫給與之權利，實有損借調人員退撫權益，亦不利於產、學、研合作之政策推動，且觀諸民主國家退休制度，多有賦益權（Vesting right）之設計，亦即勞動者不因個人工作轉換而影響其領取原工作期間所應得之全部或部分退休金之權利。爰明定教師依規定借調辦理留職停薪者，於借調期間符合原條文第四條第一項第一款應即退休規定，且無第十二條、第十三條規定喪失及停止領受退休金之情形者，得於屆滿六十五歲之日起五年內辦理退休。另因教師借調擔任依法銓審定之公務人員期間，得依公務人員退休法辦理退休，乃排除適用之。\n　　三、另配合第一項有關教師借調留職停薪逾六十五歲無法回職復薪者得依本條例辦理退休之規定，爰第二項明定其借調期間年資之退休撫卹基金費用補繳時點。"
+        "第三條": "　　一、此為落實教師申訴制度，貫徹實施政令，讓教師獲致應有之救濟，以維護教師權益。\n　　二、原教師遭停聘、解聘或不續聘，依法令規定除提起申訴外，尚有提起訴願之行政救濟；為使立法更為周延，宜將「訴願」亦併為規定。爰將第三項第二款修正為：「二、教師遭停聘、解聘或不續聘，依法令規定提起申訴或訴願，經評議決定或訴願決定確定回復聘任關係者之申訴或訴願期間學校年資。」，使教師申訴或訴願期間得以併計退休年資，以保障其權益。\n　　三、第四項之規定，僅適用於第三項第一款中之「代理兵缺」；爰將第四項修正為：「前項『第一款』規定，自中華民國九十七年一月一日施行。」，以資明確。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971121",
-            "立法紀錄": "97卷67期3678號 41-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c8c9c8cfcfc4cfcfcbcec4cfcfcbce",
-            "主提案": "行政院",
+            "會議日期": "971114",
+            "立法紀錄": "97卷65期3676號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecd81c6c8c9cacfcfc4cfcfcfcec4cfcfcfcd",
+            "主提案": "管碧玲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecfcfcec5cdcacdd2cdc9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc6cfcec5cecacad2cecac8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971203",
-            "立法紀錄": "97卷72期3683號二冊 408-424頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c8c8cdcfcdc4cfcbcfc7c4cfcbcdcb",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "980604",
-            "立法紀錄": "98卷55期3741號 569-572頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c7cacacfcfc4cfcac9c6c4cfcac8cd",
+            "會議日期": "981209",
+            "立法紀錄": "98卷78期3764號 138-176頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecd81c6c7c8c7cfcfc4cfceccc7c4cfcec8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "971219",
-            "立法紀錄": "97卷75期3686號 32-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c8c8cacfcfc4cfcfcccdc4cfcfcbcc",
+            "會議日期": "981222",
+            "立法紀錄": "98卷77期3763號 140-144頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecd81c6c7c8c8cfcfc4cfcecbcfc4cfcecbcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecccfcec5c9caced2c9c9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecbcfcbc5ccd2c8"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "971230",
-            "立法紀錄": "98卷3期3689號一冊 145-145頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c7cfcccfcec4cfcecbcac4cfcecbca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980106",
-            "立法紀錄": "98卷3期3689號二冊 227-227頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c7cfcccfcdc4cfcdcdc8c4cfcdcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980109",
-            "立法紀錄": "98卷5期3691號一冊 173-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c7cfcacfcec4cfcec8ccc4cfcec8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 251-254頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c7cacacfcfc4cfcdcacec4cfcdcacb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 255-255頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecf81c6c7cacacfcfc4cfcdcacac4cfcdcaca",
+            "會議日期": "981222",
+            "立法紀錄": "98卷77期3763號 144-144頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccecd81c6c7c8c8cfcfc4cfcecbcbc4cfcecbcb",
             "關係文書": []
         }
     ]
