@@ -1,8 +1,8 @@
 {
     "title": "國民教育法",
     "versions": [
-        "中華民國98年6月2日修正",
-        "中華民國98年6月17日公布"
+        "中華民國99年1月7日修正",
+        "中華民國99年1月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "(國民教育辦理之原則與學區)",
             "rule_no": "第四條",
-            "content": "　　國民教育，以由政府辦理為原則，並鼓勵私人興辦。\n　　公立國民小學及國民中學，由直轄市或縣（市）政府依據人口、交通、社區、文化環境、行政區域及學校分布情形，劃分學區，分區設置；其學區劃分原則及分發入學規定，由直轄市、縣（市）政府定之。\n　　前項國民小學及國民中學，得委由私人辦理，其辦法，由直轄市或縣（市）政府定之。\n　　為保障學生學習權，國民教育階段得辦理非學校型態之實驗教育，其辦法，由直轄市或縣（市）政府定之。\n　　補習及進修教育法所定之短期補習教育，不得視為前項非學校型態之實驗教育。",
+            "content": "　　國民教育，以由政府辦理為原則，並鼓勵私人興辦。\n　　公立國民小學及國民中學，由直轄市或縣（市）政府依據人口、交通、社區、文化環境、行政區域及學校分布情形，劃分學區，分區設置；其學區劃分原則及分發入學規定，由直轄市、縣（市）政府定之。\n　　前項國民小學及國民中學，得委由私人辦理，其辦法，由直轄市或縣（市）政府定之。\n　　為保障學生學習權及家長教育選擇權，國民教育階段得辦理非學校型態實驗教育，其實驗內容、期程、範圍、申請條件與程序及其他相關事項之準則，由教育部會商直轄市、縣（市）政府後定之。\n　　補習及進修教育法所定之短期補習教育，不得視為前項非學校型態之實驗教育。",
             "relates": {}
         },
         {
@@ -203,66 +203,59 @@
         }
     ],
     "law_reasons": {
-        "第五條 之一": "　　一、第一項酌作文字修正。\n　　二、增訂第二項。學生申請理賠時，學校應主動協助辦理。\n　　三、增訂第三項。各級主管教育行政機關應為所轄之公私立國民中小學場所投保公共意外責任保險。\n　　四、增訂第四項，明定前項投保經費來源，以落實公私立學校均能同步實施。"
+        "第四條": "　　一、修正第四項。\n　　二、比照先進國家，明文保障家長之教育選擇權。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷16期3627號 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c8cec9cfcfc4cfcfceccc4cfcfcecc",
-            "主提案": "黃志雄",
+            "會議日期": "980508",
+            "立法紀錄": "98卷28期3714號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c7cdc7cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "林淑芬",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcdc5ceccccd2cecccb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5c6c6d2cecfce"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "971014",
-            "立法紀錄": "97卷53期3664號一冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c8cacccfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "陳亭妃",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 14-14頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c7cbcdcfcec4cfcfcecbc4cfcfcecb",
+            "主提案": "黃志雄",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbcfcec5cdcdced2cdcdcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecccfcec5cec8cfd2cec8cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970519",
-            "立法紀錄": "97卷32期3643號 252-275頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c8cccdcfcfc4cfcdcacdc4cfcdc8ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980513",
-            "立法紀錄": "98卷33期3719號 330-343頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c7cccccfcfc4cfcccccfc4cfcccbcc",
+            "會議日期": "981224",
+            "立法紀錄": "99卷4期3769號 18-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbcf81cfc6c6cfcfcbcfcec4cfcfcec7c4cfcfcac9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980602",
-            "立法紀錄": "98卷37期3723號 152-160頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c7ccc8cfcfc4cfcecacdc4cfcec9cf",
+            "會議日期": "990107",
+            "立法紀錄": "99卷5期3770號一冊 309-315頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbcf81cfc6c6cfcfcacfcec4cfcccfc6c4cfccceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfccc5cecfcad2cececb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcec8cfc6c5cdccc7d2cdcbcb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "980602",
-            "立法紀錄": "98卷37期3723號 160-160頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c7ccc8cfcfc4cfcec9cfc4cfcec9cf",
+            "會議日期": "990107",
+            "立法紀錄": "99卷5期3770號一冊 315-315頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbcf81cfc6c6cfcfcacfcec4cfcccecac4cfccceca",
             "關係文書": []
         }
     ]
