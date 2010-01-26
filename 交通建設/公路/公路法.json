@@ -1,8 +1,8 @@
 {
     "title": "公路法",
     "versions": [
-        "中華民國96年12月19日修正",
-        "中華民國97年1月9日公布"
+        "中華民國99年1月5日修正",
+        "中華民國99年1月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -542,7 +542,7 @@
         {
             "note": "(不依規定繳納汽車燃料使用費之處罰)",
             "rule_no": "第七十五條",
-            "content": "　　汽車所有人不依規定繳納汽車燃料使用費者，公路主管機關應限期通知其繳納，屆期不繳納者，處新臺幣三百元以上三千元以下罰鍰，並停止其辦理車輛異動或檢驗。",
+            "content": "　　汽車所有人不依規定繳納汽車燃料使用費者，公路主管機關應限期通知其繳納，屆期不繳納者，處新臺幣三百元以上三千元以下罰鍰，並停止其辦理車輛異動或換發牌照。",
             "relates": {}
         },
         {
@@ -605,71 +605,46 @@
         }
     ],
     "law_reasons": {
-        "第五十八條": "　　增列第二項「公路主管機關得依自行車與行人之需求，於既有路面內，或另以替代道路方式，設置可供自行車及行人安全通行之專用道。」以建立法源，維護自行車及行人通行安全空間，以符合現代社會的環境保護與永續發展之潮流。",
-        "第六十五條": "　　一、基於責任保險費率宜回歸市場機制決定，爰修訂第二項，刪除由交通部會同財政部另定保險費率之規定。\n　　二、為全面保障大客車乘客權益，能於發生交通事故後獲得合理理賠，一勞永逸解決理賠爭議，避免車禍家屬求償無門的事件再次發生，增列第三項投保乘客責任保險之規定。"
+        "第七十五條": "　　條文末「。」前增列「，並停止其辦理車輛異動或換發牌照。」等文字。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "960518",
-            "立法紀錄": "96卷43期3566號 1-1頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc8cf81c6c9cbcccfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "王拓",
+            "會議日期": "980605",
+            "立法紀錄": "98卷39期3725號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc8ce81c6c7ccc6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "李鴻鈞",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecccfcec5cecfc9d2cecfc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "960911",
-            "立法紀錄": "96卷61期3854號 7-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc8cf81c6c9c9cecfcfc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "李昆澤",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cfcdcfcec5cdcbcbd2cdcbca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec9cfcec5cec9ccd2cec9c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "961206",
-            "立法紀錄": "96卷84期3607號 437-454頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc8cf81c6c9c7cbcfcfc4cfcbccc8c4cfcbcacb",
+            "會議日期": "981209",
+            "立法紀錄": "98卷76期3762號 404-438頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc8ce81c6c7c8c9cfcfc4cfcbcfcbc4cfcbccc7",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "961219",
-            "立法紀錄": "96卷88期3611號一冊 163-165,173-177頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc8cf81c6c9c7c7cfcec4cfcec9ccc4cfcec9cad9c6c9c7c7cfcec4cfcec8ccc4cfcec8c8",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990105",
+            "立法紀錄": "99卷3期3768號一冊 76-80頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec6cbc8ce81cfc6c6cfcfcccfcec4cfcfc8c9c4cfcfc7cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cec9cfcdc5ccc6cdd2ccc6cb"
-                ],
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfc9cec9cfcdc5cbcfc9d2cbcece"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecacfcbc5cec8d2cdcd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "961219",
-            "立法紀錄": "96卷88期3611號一冊 165-166,177-177頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc8cf81c6c9c7c7cfcec4cfcec9cac4cfcec9c9d9c6c9c7c7cfcec4cfcec8c8c4cfcec8c8",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "961219",
-            "立法紀錄": "96卷88期3611號一冊 166-166,177-177頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cbc8cf81c6c9c7c7cfcec4cfcec9c9c4cfcec9c9d9c6c9c7c7cfcec4cfcec8c8c4cfcec8c8",
+            "會議日期": "990105",
+            "立法紀錄": "99卷3期3768號一冊 80-80頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec6cbc8ce81cfc6c6cfcfcccfcec4cfcfc7cfc4cfcfc7cf",
             "關係文書": []
         }
     ]
