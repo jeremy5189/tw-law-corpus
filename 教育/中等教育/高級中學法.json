@@ -1,8 +1,8 @@
 {
     "title": "高級中學法",
     "versions": [
-        "中華民國98年11月6日修正",
-        "中華民國98年11月25日公布"
+        "中華民國99年1月7日修正",
+        "中華民國99年1月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -100,9 +100,9 @@
             "relates": {}
         },
         {
-            "note": "(校長之遴用)",
+            "note": "(校長之遴用與兼課之範圍)",
             "rule_no": "第十二條",
-            "content": "　　高級中學置校長一人，專任，綜理校務，除擔任本校教課外，不得兼任他職。\n　　高級中學校長，國立、直轄市立、縣（市）立者，由各該主管教育行政機關就合格人員中，遴選聘任之；私立者，由董事會就合格人選中，遴選聘任之。\n　　前項遴選，應由各該主管教育行政機關或董事會組織遴選委員會辦理；其遴選聘任辦法，由中央主管教育行政機關定之。\n　　依師資培育法規定所設之附屬高級中學，其校長由各該大學校長，就該校教師中遴聘合格人員擔任之，並報請主管教育行政機關備查。\n　　高級中學校長應採任期制；其任期及考評辦法，由中央主管教育行政機關定之。",
+            "content": "　　高級中學置校長一人，專任，綜理校務，並得經主管教育行政機關許可後，於本校或他校兼課。\n　　高級中學校長，國立、直轄市立、縣（市）立者，由各該主管教育行政機關就合格人員中，遴選聘任之；私立者，由董事會就合格人選中，遴選聘任之。\n　　前項遴選，應由各該主管教育行政機關或董事會組織遴選委員會辦理；其遴選聘任辦法，由中央主管教育行政機關定之。\n　　依師資培育法規定所設之附屬高級中學，其校長由各該大學校長，就該校教師中遴聘合格人員擔任之，並報請主管教育行政機關備查。\n　　高級中學校長應採任期制；其任期及考評辦法，由中央主管教育行政機關定之。",
             "relates": {}
         },
         {
@@ -251,53 +251,46 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　一、第一項，採原條文，句末增列「；其同等學力之標準，由中央主管教育行政機關定之」。\n　　二、第二項維持原條文。\n　　三、鑑於高中與職業學校同屬後期中等教育，招生入學相關規範宜取一致；另顧及各縣市教育資源狀況不同，避免中央或地方主管教育機關專斷，爰修正提案第三項，除參照職業學校法第四條入學招生相關規定，明定高中多元入學相關事務，並由中央主管教育機關邀集地方主管教育機關會商訂定，以資周延。"
+        "第十二條": "　　依職業學校法第十條第一項「職業學校置校長一人，專任，綜理校務，除擔任本校教課外，不得兼任校外專職。」是職業學校之校長得在校外兼職；又公私立國民中小學校長依教育部函令，得在不影響校（課）務之原則下，事先徵得主管教育行政機關或服務學校同意，至大專院校兼課；然同樣擔任校長職務之高級中等學校校長，卻受限於法律規定，縱有豐富的教學實務經驗或碩博士以上學歷，仍不得至大專院校兼課，如此之規定，除使優秀校長無法發揮經驗傳承之功用外，亦有違平等原則之嫌，故修正本條第一項，放寬高級中學校長得兼職之範圍。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971226",
-            "立法紀錄": "98卷3期3689號一冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbceca81c6c7cfcccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "洪秀柱",
+            "會議日期": "980410",
+            "立法紀錄": "98卷19期3705號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcec981c6c7cec6cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "江義雄",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecacfcec5cecec7d2cecec6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc7cfcec5ceccc7d2cecbcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980416",
-            "立法紀錄": "98卷23期3709號 430-465頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbceca81c6c7cdcccfcfc4cfcbcccfc4cfcbc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "980525",
-            "立法紀錄": "98卷62期3748號 555-556頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbceca81c6c7c9cdcfcfc4cfcacacac4cfcacac9",
+            "會議日期": "981224",
+            "立法紀錄": "99卷4期3769號 18-56頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcec981cfc6c6cfcfcbcfcec4cfcfcec7c4cfcfcac9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "981106",
-            "立法紀錄": "98卷62期3748號 42-47頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbceca81c6c7c9cdcfcfc4cfcfcbcdc4cfcfcbc8",
+            "會議日期": "990107",
+            "立法紀錄": "99卷5期3770號一冊 318-321頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcec981cfc6c6cfcfcacfcec4cfcccec7c4cfcccdce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfccc5cdcdc6d2cdcccb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcec8cfc6c5cdcac9d2cdcac6"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "981106",
-            "立法紀錄": "98卷62期3748號 47-48頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbceca81c6c7c9cdcfcfc4cfcfcbc8c4cfcfcbc7",
+            "會議日期": "990107",
+            "立法紀錄": "99卷5期3770號一冊 321-321頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcec981cfc6c6cfcfcacfcec4cfcccdcec4cfcccdce",
             "關係文書": []
         }
     ]
