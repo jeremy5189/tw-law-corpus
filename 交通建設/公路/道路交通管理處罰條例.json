@@ -1,8 +1,8 @@
 {
     "title": "道路交通管理處罰條例",
     "versions": [
-        "中華民國97年5月9日修正",
-        "中華民國97年5月28日公布"
+        "中華民國99年4月20日修正",
+        "中華民國99年5月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -506,7 +506,7 @@
         {
             "note": "",
             "rule_no": "第六十八條",
-            "content": "　　汽車駕駛人，因違反本條例及道路交通安全規則之規定，受吊銷駕駛執照處分時，吊銷其持有各級車類之駕駛執照。",
+            "content": "　　汽車駕駛人，因違反本條例及道路交通安全規則之規定，受吊銷駕駛執照處分時，吊銷其執有各級車類之駕駛執照。\n　　領有汽車駕駛執照之汽車駕駛人，除駕駛聯結車、大客車、大貨車外之非其駕駛執照種類之車輛，違反本條例及道路交通安全規則之規定，應受吊扣駕駛執照情形時，無因而肇事致人受傷或重傷者，記違規點數五點。但一年內違規點數共達六點以上或再次應受吊扣駕駛執照情形者，併依原違反本條例應受吊扣駕駛執照處分規定，吊扣其駕駛執照。",
             "relates": {}
         },
         {
@@ -743,46 +743,59 @@
         }
     ],
     "law_reasons": {
-        "第六十五條": "　　一、罰鍰不繳納涉及者，為行政秩序罰之執行問題，汽車所有人違規罰鍰未清繳，欠缺實質上之關聯，故二者不得相互聯結。\n　　二、按法治國原則為憲法之基本原則，首重人民權利之維護、法秩序之安定及信賴保護原則之遵守。因此，法律一旦發生變動，除法律有溯及適用之特別規定者外，原則上係自法律公布生效日起，向將來發生效力，迭經司法院大法官解釋在案（釋字六二九號解釋理由書參照）。\n　　三、法律不宜溯及既往而違反法律安定性及處分確定性，故宜賦予其權利，使其得申請回復，而在申請回復前之權利義務關係仍屬確定，不因其申請回復而受影響。"
+        "第六十八條": "　　鑑於本條例前已修正刪除受吊扣駕駛執照處分，吊扣各級駕駛執照之規定，為利明確汽車駕駛人駕駛非其駕駛執照種類之車輛，違反應受吊扣駕駛執照之處分處理，並在兼顧本條例立法意旨下，增訂第二項得緩即予吊扣而採記違規點數及駕駛人仍無改正仍再犯違規之應併原吊扣處罰之規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970408",
-            "立法紀錄": "97卷011期3622號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdcf81c6c8cececfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "980327",
+            "立法紀錄": "98卷14期3700號一冊 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdce81c6c7cecbcfcec4cfcfcfcec4cfcfcfcd",
             "主提案": "陳根德",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9c8cdc5cecdc8d2cecccf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfcec5c8c7d2c7cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdce81c6c7cbcdcfcec4cfcfcecbc4cfcfcecb",
+            "主提案": "楊麗環",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5cecacad2cecac8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970428",
-            "立法紀錄": "97卷024期3635號 27-45頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdcf81c6c8cdcbcfcfc4cfcfcdc8c4cfcfcbca",
+            "會議日期": "990311",
+            "立法紀錄": "99卷15期3780號 184-199頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdce81cfc6c6cfcecacfcec4cfcec7cbc4cfcec6c6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970509",
-            "立法紀錄": "97卷025期3636號 40-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdcf81c6c8cdcacfcfc4cfcfcbcfc4cfcfcbc9",
+            "會議日期": "990420",
+            "立法紀錄": "99卷26期3791號二冊 383-390頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdce81cfc6c6cfcdc9cfcdc4cfccc7ccc4cfccc6cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececfcfcdc5cccbc6d2cccaca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc9cfcdc5ccc9c6d2ccc8c9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "970509",
-            "立法紀錄": "97卷025期3636號 46-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdcf81c6c8cdcacfcfc4cfcfcbc9c4cfcfcbc9",
+            "會議日期": "990420",
+            "立法紀錄": "99卷26期3791號二冊 390-391頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdce81cfc6c6cfcdc9cfcdc4cfccc6cfc4cfccc6ce",
             "關係文書": []
         }
     ]
