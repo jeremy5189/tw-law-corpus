@@ -1,8 +1,8 @@
 {
     "title": "兒童及少年福利與權益保障法",
     "versions": [
-        "中華民國97年7月18日修正",
-        "中華民國97年8月6日公布"
+        "中華民國99年4月27日修正",
+        "中華民國99年5月12日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -331,6 +331,12 @@
         },
         {
             "note": "",
+            "rule_no": "第五十條 之一",
+            "content": "　　托育機構應為其收托之國民小學學齡前兒童辦理團體保險。\n　　前項團體保險，其範圍、金額、繳費方式、期程、給付標準、權利與義務、辦理方式及其他相關事項之辦法，由直轄市、縣（市）主管機關定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第五十一條",
             "content": "　　兒童及少年福利機構之業務，應遴用專業人員辦理；其專業人員之類別、資格、訓練及課程等之辦法，由中央主管機關定之。",
             "relates": {}
@@ -489,55 +495,80 @@
         }
     ],
     "law_reasons": {
-        "第二十條": "　　照黨團協商條文通過。"
+        "第五十條 之一": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970708",
-            "立法紀錄": "97卷047期3658號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc8cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "國民黨黨團",
+            "會議日期": "990409",
+            "立法紀錄": "99卷23期3788號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ceccc881cfc6c6cfcdcccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "王進士",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec7c8cdc5ccccd2cccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5c6cad2c6c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "970717",
-            "立法紀錄": "97卷048期3659號一冊 111-111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcec4cfcececec4cfcecece",
-            "關係文書": []
+            "進度": "一讀",
+            "會議日期": "990409",
+            "立法紀錄": "99卷23期3788號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ceccc881cfc6c6cfcdcccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "黃淑英",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5c6c8d2cecfcf"
+                ]
+            ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "970718",
-            "立法紀錄": "97卷048期3659號一冊 483-485頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcec4cfcbc7ccc4cfcbc7ca",
-            "關係文書": []
+            "進度": "一讀",
+            "會議日期": "990409",
+            "立法紀錄": "99卷23期3788號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ceccc881cfc6c6cfcdcccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "國民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5cecfced2cecfcb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "990409",
+            "立法紀錄": "99卷23期3788號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ceccc881cfc6c6cfcdcccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "吳育昇",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5cecfcad2cecfc7"
+                ]
+            ]
         },
         {
             "進度": "黨團協商",
-            "會議日期": "970715",
-            "立法紀錄": "97卷048期3659號二冊 391-396頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcdc4cfccc6cec4cfccc6c9",
+            "會議日期": "990416",
+            "立法紀錄": "99卷29期3794號三冊 403-405頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ceccc881cfc6c6cfcdc6cfccc4cfcbcfccc4cfcbcfca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970718",
-            "立法紀錄": "97卷048期3659號一冊 485-485頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcec4cfcbc7cac4cfcbc7ca",
+            "會議日期": "990427",
+            "立法紀錄": "99卷29期3794號一冊 201-208頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ceccc881cfc6c6cfcdc6cfcec4cfcdcfcec4cfcdcfc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "970718",
-            "立法紀錄": "97卷048期3659號一冊 485-485頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9ceccc981c6c8cbc7cfcec4cfcbc7cac4cfcbc7ca",
+            "會議日期": "990427",
+            "立法紀錄": "99卷29期3794號一冊 208-209頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ceccc881cfc6c6cfcdc6cfcec4cfcdcfc7c4cfcdcfc6",
             "關係文書": []
         }
     ]
