@@ -1,11 +1,11 @@
 {
     "title": "促進產業升級條例",
     "versions": [
-        "中華民國98年1月13日修正",
-        "中華民國98年1月23日公布"
+        "中華民國99年4月16日廢止",
+        "中華民國99年5月12日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -546,61 +546,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第九條 之二": "　　一、為鼓勵企業投資，提振國內景氣，爰於第一項增列於九十七年七月一日起至九十八年十二月三十一日止新投資創立或增資擴展之製造業及其相關技術服務業，得享有連續五年內免稅之獎勵。\n　　二、第二項酌作文字修正。\n　　三、為避免個別投資案件租稅利益過大，爰增訂第三項，明定九十七年七月一日起至九十八年十二月三十一日止，投資計畫所產生之免稅利益，不得超過該投資計畫之投資總金額。\n　　四、原條文第三項移列為修正條文第四項，並酌作文字修正。行政院除已依據原條文第三項授權就九十一年一月一日起至九十二年十二月三十一日止之投資案件另定獎勵辦法外，另將依據修正條文第四項之授權，就九十七年七月一日起至九十八年十二月三十一日止之投資案件另定獎勵辦法，以資規範。\n　　五、原條文第四項移列為修正條文第五項。考量本條係屬短期之獎勵措施，為避免增加行政作業成本，爰於第五項後段增訂，於九十七年七月一日至九十八年十二月三十一日所為之新投資創立或增資擴展者，其申請適用連續五年內免稅，以一次為限。"
-    },
+    "deprecated_reason": "　　一、為促進產業升級，健全經濟發展，「促進產業升級條例」自80年1月1日公布施行，並於89年延長施行，經10多年來之執行，對協助國內廠商升級轉型有重大助益。\n　　二、鑒於「促進產業升級條例」第2章租稅減免及第70條之1營運總部租稅優惠條文，將於98年12月31日施行屆滿；另為因應全球化之經濟競爭及我國產業即將邁向知識經濟時代，爰將「促進產業升級條例」章節及條文作全面檢討調整，並配合未來產業發展之需要，研擬「產業創新條例」草案作為接續。俟創新條例於99年1月1日公布施行後，因有關租稅優惠、補助、技術輔導、產業園區管理設置之法源依據，將改適用「產業創新條例」，爰予廢止「促進產業升級條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971121",
-            "立法紀錄": "97卷67期3678號 44-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc881c6c8c9c8cfcfc4cfcfcbcbc4cfcfcbcb",
-            "主提案": "行政院",
+            "會議日期": "980918",
+            "立法紀錄": "98卷46期3732號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc681c6c7cbc9cfcec4cfcfcfcac4cfcfcfca",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc6c8cdc5ceccc6d2cecbcd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "971208",
-            "立法紀錄": "98卷1期3687號 149-182頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc881c6c7cfcecfcfc4cfcecbc6c4cfcec7cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980106",
-            "立法紀錄": "98卷3期3689號二冊 280-287頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc881c6c7cfcccfcdc4cfcdc7cfc4cfcdc7c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec9cfcdc5cdcacad2cdc9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcec8cdc5cdc9c6d2cdc6cd"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "980109",
-            "立法紀錄": "98卷5期3691號一冊 173-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc881c6c7cfcacfcec4cfcec8ccc4cfcec8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980113",
-            "立法紀錄": "98卷5期3691號二冊 210-214頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc881c6c7cfcacfcdc4cfcdcecfc4cfcdcecb",
+            "會議日期": "990105",
+            "立法紀錄": "99卷3期3768號一冊 50-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8ccc7ccc681cfc6c6cfcfcccfcec4cfcfcacfc4cfcfc9c6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "980113",
-            "立法紀錄": "98卷5期3691號二冊 214-215頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8ccc7ccc881c6c7cfcacfcdc4cfcdcecbc4cfcdceca",
+            "會議日期": "990416",
+            "立法紀錄": "99卷26期3791號一冊 180-181頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8ccc7ccc681cfc6c6cfcdc9cfcec4cfcec7cfc4cfcec7ce",
             "關係文書": []
         }
     ]
