@@ -1,8 +1,8 @@
 {
     "title": "都市計畫法",
     "versions": [
-        "中華民國97年12月19日修正",
-        "中華民國98年1月7日公布"
+        "中華民國99年5月4日修正",
+        "中華民國99年5月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -576,7 +576,7 @@
         {
             "note": "",
             "rule_no": "第八十四條",
-            "content": "　　依本法規定所為區段徵收之土地，於開發整理後，依其核准之計畫再行出售時，得不受土地法第二十五條及第二百十八條規定之限制。但原土地所有權人得依實施都市平均地權條例之規定，於標售前買回其規定比率之土地。",
+            "content": "　　依本法規定所為區段徵收之土地，於開發整理後，依其核准之計畫再行出售時，得不受土地法第二十五條規定之限制。但原土地所有權人得依實施都市平均地權條例之規定，於標售前買回其規定比率之土地。",
             "relates": {}
         },
         {
@@ -599,46 +599,46 @@
         }
     ],
     "law_reasons": {
-        "第八十三條 之一": "　　為提升政府都市計畫進度，促進地方繁榮發展，使都市計畫容積移轉實施辦法中「送出基地」之規定，得自由選擇採用捐贈公共設施保留地方式，或以「接受基地」移入容積之公告現值總值，折算捐獻代金繳納，增加兩者媒合度。"
+        "第八十四條": "　　因土地法第二百十八條已於民國九十年十月十二日刪除，故修正本條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970716",
-            "立法紀錄": "97卷48期3659號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7ccce81c6c8cbc7cfcec4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "980320",
+            "立法紀錄": "98卷12期3698號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cccd81c6c7cecdcfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "林德福",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec6cfcec5cdc7c7d2cdc6cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5cecec9d2cecec8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971208",
-            "立法紀錄": "97卷74期3685號 312-353頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7ccce81c6c8c8cbcfcfc4cfcccecdc4cfcccacc",
+            "會議日期": "980527",
+            "立法紀錄": "98卷38期3724號 436-458頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cccd81c6c7ccc7cfcfc4cfcbccc9c4cfcbcac7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "971219",
-            "立法紀錄": "97卷75期3686號 49-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7ccce81c6c8c8cacfcfc4cfcfcbc6c4cfcfcacd",
+            "會議日期": "990504",
+            "立法紀錄": "99卷31期3796號一冊 301-302頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccd81cfc6c6cfcccecfcec4cfcccfcec4cfcccfcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecbcfcec5cbcdcbd2cbcdc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacececfcbc5c8cb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "971219",
-            "立法紀錄": "97卷75期3686號 52-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7ccce81c6c8c8cacfcfc4cfcfcacdc4cfcfcacd",
+            "會議日期": "990504",
+            "立法紀錄": "99卷31期3796號一冊 303-303頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccd81cfc6c6cfcccecfcec4cfcccfccc4cfcccfcc",
             "關係文書": []
         }
     ]
