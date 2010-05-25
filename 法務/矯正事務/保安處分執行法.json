@@ -1,8 +1,8 @@
 {
     "title": "保安處分執行法",
     "versions": [
-        "中華民國95年5月5日修正",
-        "中華民國95年5月30日公布"
+        "中華民國99年5月4日修正",
+        "中華民國99年5月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -52,7 +52,7 @@
         {
             "note": "(解送之例外及免除執行原因)",
             "rule_no": "第六條",
-            "content": "　　受處分人經檢查後，罹有急性傳染病或重大疾病者，檢察官不得命令解送，並應斟酌情形，先送醫院治療或責付於相當之人。但發見受處分人身體有畸形、殘廢或痼疾不適於強制工作者，檢察官得聲請法院裁定免其處分之執行。\n　　懷胎五月以上或分娩未滿二月者，得準用前項前段之規定。",
+            "content": "　　受處分人經檢查後，罹有急性傳染病或重大疾病者，檢察官不得命令解送，並應斟酌情形，先送醫院治療或責付於相當之人。但發見受處分人身體有畸形、身心障礙或痼疾不適於強制工作者，檢察官得聲請法院裁定免其處分之執行。\n　　懷胎五月以上或分娩未滿二月者，得準用前項前段之規定。",
             "relates": {}
         },
         {
@@ -647,40 +647,34 @@
         }
     ],
     "law_reasons": {
-        "第四十六條": "　　配合刑法之修正，爰修正心神喪失、精神耗弱之責任能力規定。",
-        "第四十七條": "　　配合刑法之修正，爰修正心神喪失、精神耗弱之責任能力規定。"
+        "第六條": "　　將「殘廢」修正為「身心障礙」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950111",
-            "立法紀錄": "95卷5期3466號一冊 6-7頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7ccccc9cc81c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "981023",
+            "立法紀錄": "98卷55期3741號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7ccccc9cb81c6c7cacacfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "高志鵬",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc9cfcec5cecdcad2cecdc8"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 133-182頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7ccccc9cc81c6cacdcacfcec4cfceccccc4cfcec7cd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
-                ]
-            ]
+            "會議日期": "990504",
+            "立法紀錄": "99卷31期3796號一冊 323-325頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7ccccc9cb81cfc6c6cfcccecfcec4cfcccdccc4cfcccdca",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 182-182頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7ccccc9cc81c6cacdcacfcec4cfcec7cdc4cfcec7cd",
+            "會議日期": "990504",
+            "立法紀錄": "99卷31期3796號一冊 325-325頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7ccccc9cb81cfc6c6cfcccecfcec4cfcccdcac4cfcccdca",
             "關係文書": []
         }
     ]
