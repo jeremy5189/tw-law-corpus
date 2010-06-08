@@ -1,8 +1,8 @@
 {
     "title": "漁會法",
     "versions": [
-        "中華民國98年5月5日修正",
-        "中華民國98年5月27日公布"
+        "中華民國99年5月18日修正",
+        "中華民國99年6月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -148,7 +148,7 @@
         {
             "note": "(出會)",
             "rule_no": "第十九條",
-            "content": "　　漁會會員有左列情形之一者為出會：\n　　一、死亡。\n　　二、有第十七條第一款至第三款情形之一者。\n　　三、喪失中華民國國籍者。\n　　四、住址或船籍遷離原漁會組織區域者。\n　　五、除名。",
+            "content": "　　漁會會員除第二項規定外，有下列情形之一者為出會：\n　　一、死亡。\n　　二、有第十七條第一款至第三款情形之一。\n　　三、喪失中華民國國籍。\n　　四、住址或船籍遷離原漁會組織區域。\n　　五、除名。\n　　符合下列條件致有前項第四款所定住址遷離原漁會組織區域情形者，視為未出會。但住址再次遷離者，依前項規定出會：\n　　一、經行政院核定之重大計畫。\n　　二、原住所因徵收而拆除，且經政府列冊有案。\n　　前項規定，自中華民國九十四年九月二十二日施行。",
             "relates": {}
         },
         {
@@ -477,58 +477,46 @@
         }
     ],
     "law_reasons": {
-        "第十七條": "　　配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」，修正為「監護宣告」，爰將原條文第三款之「受禁治產宣告」修正為「受監護宣告」；其餘各款未修正。",
-        "第五十三條": "　　一、第一項未修正。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日施行，本法本次修正之條文亦定自同日施行，爰增訂第二項。"
+        "第十九條": "　　一、按高雄市紅毛港配合推動高雄港洲際貨櫃中心第一期工程（高雄港第六貨櫃中心）計畫而遷村，該村漁民原屬小港區漁會會員，遷村後，戶籍遷往高雄市前鎮區（屬高雄區漁會轄區）及高雄縣鳳山市（目前無漁會）安置。依本條第四款規定該遷村漁民應予出會，惟查該非自願性戶籍異動係配合政府重大計畫，為維護該些遷村村民之權益，爰增列第二項排除因配合行政院核定之重大計畫遷村而致住址遷離原漁會組織區域者，視為未出會，另第一項序言酌作文字修正。\n　　二、重大計畫：凡行政院列管或全年度可支用預算在十億元以上之計畫，且其計畫由經各部會初核後，並送行政院審核小組複核通過者。\n　　三、依高雄市政府九十四年九月九日以高市府都住字第○九四○○四四六一六號公告受理紅毛港遷村集合住宅登記等候申購本遷村專案興建之集合住宅之申請時間為九十四年九月二十二日爰增列第三項回朔該公告申請時間為施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971226",
-            "立法紀錄": "98卷3期3689號一冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cfcccfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 16-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c881c6c7cbcdcfcec4cfcfcec9c4cfcfcec9",
+            "主提案": "黃昭順",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecacfcec5cecdcfd2cecdce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 4-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecccfcec5cdcbcdd2cdcbcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980415",
-            "立法紀錄": "98卷22期3708號 413-434頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cdcdcfcfc4cfcbceccc4cfcbcccb",
+            "會議日期": "990428",
+            "立法紀錄": "99卷33期3798號 316-346頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec6cfc7c881cfc6c6cfcccccfcec4cfcccec9c4cfcccbc9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980505",
-            "立法紀錄": "98卷26期3712號 149-168頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cdc9cfcfc4cfcecbc6c4cfcec9c7",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 97-101頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec6cfc7c881cfc6c6cfccc9cfcec4cfcfc6c8c4cfcecfce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccececfccc5cdcdc8d2cdcbca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfccc5cec8c8d2cec7ce"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "980505",
-            "立法紀錄": "98卷26期3712號 168-168頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec6cfc7c981c6c7cdc9cfcfc4cfcec9c7c4cfcec9c7",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 101-101頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec6cfc7c881cfc6c6cfccc9cfcec4cfcecfcec4cfcecfce",
             "關係文書": []
         }
     ]
