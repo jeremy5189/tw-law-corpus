@@ -1,8 +1,8 @@
 {
     "title": "大學法",
     "versions": [
-        "中華民國98年10月23日修正",
-        "中華民國98年11月18日公布"
+        "中華民國99年5月18日修正",
+        "中華民國99年6月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -236,7 +236,7 @@
         {
             "note": "(收費項目用途及學生就學貸款)",
             "rule_no": "第三十五條",
-            "content": "　　大學向學生收取費用之項目、用途及數額，不得逾教育部之規定。\n　　政府為協助學生就讀大學，得辦理學生就學貸款；其貸款條件、額度、項目、權利義務及其他應遵行事項之辦法，由教育部定之。",
+            "content": "　　大學向學生收取費用之項目、用途及數額，不得逾教育部之規定。\n政府為協助學生就讀大學，應辦理學生就學貸款；貸款項目包括學雜費、實習費、書籍費、住宿費、生活費、學生團體保險費及海外研修費等相關費用；其貸款條件、額度、權利義務及其他應遵行事項之辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -287,60 +287,61 @@
         }
     ],
     "law_reasons": {
-        "第二十六條": "　　一、第一項至第三項未修正。\n　　二、為保障女性學生就學權益及性別平等待遇，爰增訂第四項，明定懷孕或分娩之學生得申請提出延長修業年限，育有三歲以下子女之男女學生亦同。至其延長期限，由大學依第二項規定訂定之。\n　　三、原條文第四項移列為第五項。"
+        "第三十五條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980410",
-            "立法紀錄": "98卷19期3705號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cec6cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": false,
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c881c6c7ccc8cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "余政道",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc7c8cdc5cacad2cac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfcec5ceccccd2ceccca"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "980430",
-            "立法紀錄": "98卷29期3715號 249-257頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cdc6cfcfc4cfcdcbc6c4cfcdcac8",
-            "關係文書": []
+            "進度": "一讀",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c881c6c7cbcdcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "王進士",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfcec5cecacdd2cecacc"
+                ]
+            ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "980603",
-            "立法紀錄": "98卷40期3726號 335-346頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cbcfcfcfc4cfcccccac4cfcccbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980610",
-            "立法紀錄": "98卷44期3730號一冊 60-104頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cbcbcfcec4cfcfc9cfc4cfcecfcb",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990504",
+            "立法紀錄": "99卷31期3796號一冊 306-308頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c881cfc6c6cfcccecfcec4cfcccfc9c4cfcccfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 219-223頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cacacfcfc4cfcdcec6c4cfcdcdcc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc9cfcdc5cbcac9d2cbcac6"
-                ]
-            ]
+            "會議日期": "990511",
+            "立法紀錄": "99卷34期3799號 67-67頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c881cfc6c6cfcccbcfcec4cfcfc9c8c4cfcfc9c8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 96-97頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c881cfc6c6cfccc9cfcec4cfcfc6c9c4cfcfc6c8",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 223-223頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c981c6c7cacacfcfc4cfcdcdccc4cfcdcdcc",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 97-97頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c881cfc6c6cfccc9cfcec4cfcfc6c8c4cfcfc6c8",
             "關係文書": []
         }
     ]
