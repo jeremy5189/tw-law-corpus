@@ -1,8 +1,8 @@
 {
     "title": "票券金融管理法",
     "versions": [
-        "中華民國95年5月5日修正",
-        "中華民國95年5月30日公布"
+        "中華民國99年5月18日修正",
+        "中華民國99年6月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,7 +28,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本法以銀行法之主管機關為主管機關。",
+            "content": "　　本法所稱主管機關，為行政院金融監督管理委員會。",
             "relates": {}
         },
         {
@@ -529,40 +529,46 @@
         }
     ],
     "law_reasons": {
-        "第五十八條 之二": "　　一、刑法第四章章名已由「共犯」修正為「正犯與共犯」，爰修正第一項及第二項。\n　　二、第三項未修正。",
-        "第七十四條": "　　一、原條文未修正，列為第一項。\n　　二、配合刑法修正條文自九十五年七月一日施行，增列第二項，規定修正條文之施行日期。"
+        "第三條": "　　一、為配合我國金融監理架構調整，健全我國票券金融監理管理與貨幣市場之發展，基於金融監理業務一元化模式，明定本法之主管機關。\n　　二、行政院金融監督管理委員會組織法已於民國九十三年七月一日實施，並為「銀行法」明定之主管機關。「銀行法」之主管機關為本法所依據，故明定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950111",
-            "立法紀錄": "95卷5期3466號一冊 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c7c9c681c6cacfcacfcec4cfcfcfc9c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "980320",
+            "立法紀錄": "98卷12期3698號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c7c8cf81c6c7cecdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "高志鵬",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcec5cdcbccd2cccdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5c6cfd2c6ce"
                 ]
             ]
         },
         {
+            "進度": "委員會審查",
+            "會議日期": "990429",
+            "立法紀錄": "99卷33期3798號 459-492頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7c8cf81cfc6c6cfcccccfcec4cfcbcac6c4cfcbc6cd",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 133-196頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c7c9c681c6cacdcacfcec4cfceccccc4cfcec6c9",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 107-110頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7c8cf81cfc6c6cfccc9cfcec4cfcecfc8c4cfcececf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecdcfcdc5cecfc8d2cec6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfccc5cec7c6d2cec6cd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "950505",
-            "立法紀錄": "95卷25期3486號一冊 196-197頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c7c9c681c6cacdcacfcec4cfcec6c9c4cfcec6c8",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 110-110頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7c8cf81cfc6c6cfccc9cfcec4cfcececfc4cfcececf",
             "關係文書": []
         }
     ]
