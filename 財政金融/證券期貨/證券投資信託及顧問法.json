@@ -1,8 +1,8 @@
 {
     "title": "證券投資信託及顧問法",
     "versions": [
-        "中華民國98年12月22日修正",
-        "中華民國99年1月13日公布"
+        "中華民國99年5月18日修正",
+        "中華民國99年6月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,7 +22,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第二條",
-            "content": "　　本法所稱主管機關，為財政部證券暨期貨管理委員會。",
+            "content": "　　本法所稱主管機關，為行政院金融監督管理委員會。",
             "relates": {}
         },
         {
@@ -831,47 +831,46 @@
         }
     ],
     "law_reasons": {
-        "第六十八條": "　　一、九十七年五月二十三日修正公布之民法總則第十五條之一、第十五條之二增訂「輔助宣告」制度，所稱「受輔助宣告之人」之精神狀況為「因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其意思表示效果之能力，顯有不足」，其為重要之法律行為（例如為法人之負責人、消費借貸、訴訟行為、和解、重要財產處分等）時，應經輔助人同意，考量從事證券投資信託事業與證券投資顧問事業之人員，其執行業務須運用諸多專業判斷，並負有相當之業務職責，為免影響投資人權益，爰於第一項第九款增訂受輔助宣告尚未撤銷者，不得充任證券投資信託事業與證券投資顧問事業之發起人、負責人及業務人員。\n　　二、第二項未修正。",
-        "第一百二十四條": "　　一、原條文未修正，列為修正條文第一項。\n　　二、因民法監護宣告及輔助宣告制度已於九十八年十一月二十三日施行，故本次修正之第六十八條第一項第九款規定之施行日期，為免產生溯及既往之效力爭議，第二項乃自公布日施行。"
+        "第二條": "　　為配合我國金融監理架構調整，原隸屬於「財政部」之「證券暨期貨管理委員會」已於民國九十三年七月一日行政院金融監督管理委員會組織法實施後，改隸屬於「行政院金融監督管理委員會」，並更名為「證券期貨局」，基於落實我國採取一元化之跨業合併監理模式，修正本法之主管機關。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "981120",
-            "立法紀錄": "98卷68期3754號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec7cfc681c6c7c9c7cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "980320",
+            "立法紀錄": "98卷12期3698號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec7cecf81c6c7cecdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "高志鵬",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecfc8cdc5c9ccd2c8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5c6cdd2c6cc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "981202",
-            "立法紀錄": "98卷74期3760號 420-446頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec7cfc681c6c7c8cbcfcfc4cfcbcdcfc4cfcbcbc9",
+            "會議日期": "990429",
+            "立法紀錄": "99卷33期3798號 459-492頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec7cecf81cfc6c6cfcccccfcec4cfcbcac6c4cfcbc6cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "981222",
-            "立法紀錄": "98卷77期3763號 155-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec7cfc681c6c7c8c8cfcfc4cfcecacac4cfcec9ca",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 113-116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec7cecf81cfc6c6cfccc9cfcec4cfcececcc4cfcecec9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecbcfcbc5cdced2ccce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfccc5cec6c8d2cdcfcf"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "981222",
-            "立法紀錄": "98卷77期3763號 165-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec7cfc681c6c7c8c8cfcfc4cfcec9cac4cfcec9ca",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 116-116頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec7cecf81cfc6c6cfccc9cfcec4cfcecec9c4cfcecec9",
             "關係文書": []
         }
     ]
