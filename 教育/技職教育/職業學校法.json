@@ -1,8 +1,8 @@
 {
     "title": "職業學校法",
     "versions": [
-        "中華民國98年11月6日修正",
-        "中華民國98年11月25日公布"
+        "中華民國99年5月18日修正",
+        "中華民國99年6月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -150,7 +150,7 @@
         {
             "note": "(學生就學貸款)",
             "rule_no": "第十五條 之一",
-            "content": "　　政府為協助學生就讀職業學校，得辦理學生就學貸款；其貸款條件、額度、項目、權利義務及其他應遵行事項之辦法，由教育部定之。",
+            "content": "　　政府為協助學生就讀職業學校，應辦理學生就學貸款；貸款項目包括學雜費、實習費、書籍費、住宿費、生活費、學生團體保險費及海外研修費等相關費用；其貸款條件、額度、權利義務及其他應遵行事項之辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -173,73 +173,61 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　教育部訂定高中職多元入學方案，在兼顧全國一致性及考量地方個別差異和需求下，將第二項末句文字修正為「由教育部會商直轄市、縣（市）主管教育行政機關後定之」。"
+        "第十五條 之一": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970408",
-            "立法紀錄": "97卷11期3622號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c8cececfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "黃志雄",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7ccc8cfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "余政道",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9cfcec5c8c8d2c8c6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfccc5cdc7c7d2cdc6cf"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "971226",
-            "立法紀錄": "98卷3期3689號一冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7cfcccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "洪秀柱",
+            "會議日期": "980612",
+            "立法紀錄": "98卷42期3728號一冊 1-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7cbcdcfcec4cfcfcfcec4cfcfcfcd",
+            "主提案": "王進士",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecacfcec5cecec9d2cecec8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfcec5cecac7d2cecac6"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "971224",
-            "立法紀錄": "98卷4期3690號一冊 136-178頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7cfcbcfcec4cfceccc9c4cfcec8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980416",
-            "立法紀錄": "98卷23期3709號 430-465頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7cdcccfcfc4cfcbcccfc4cfcbc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "980525",
-            "立法紀錄": "98卷62期3748號 555-556頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7c9cdcfcfc4cfcacacac4cfcacac9",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990504",
+            "立法紀錄": "99卷31期3796號一冊 303-304頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdccc7cc81cfc6c6cfcccecfcec4cfcccfccc4cfcccfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "981106",
-            "立法紀錄": "98卷62期3748號 48-54頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7c9cdcfcfc4cfcfcbc7c4cfcfcacb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfccc5cdcccad2cdcbce"
-                ]
-            ]
+            "會議日期": "990511",
+            "立法紀錄": "99卷34期3799號 67-67頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdccc7cc81cfc6c6cfcccbcfcec4cfcfc9c8c4cfcfc9c8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 94-95頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdccc7cc81cfc6c6cfccc9cfcec4cfcfc6cbc4cfcfc6ca",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "981106",
-            "立法紀錄": "98卷62期3748號 54-55頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdccc7cc81c6c7c9cdcfcfc4cfcfcacbc4cfcfcaca",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 95-95頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdccc7cc81cfc6c6cfccc9cfcec4cfcfc6cac4cfcfc6ca",
             "關係文書": []
         }
     ]
