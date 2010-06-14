@@ -1,8 +1,8 @@
 {
     "title": "臺灣地區與大陸地區人民關係條例",
     "versions": [
-        "中華民國98年6月9日修正",
-        "中華民國98年7月1日公布"
+        "中華民國99年5月28日修正",
+        "中華民國99年6月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -279,6 +279,12 @@
             "note": "(限制區域)",
             "rule_no": "第二十九條",
             "content": "　　大陸船舶、民用航空器及其他運輸工具，非經主管機關許可，不得進入臺灣地區限制或禁止水域、臺北飛航情報區限制區域。\n　　前項限制或禁止水域及限制區域，由國防部公告之。\n　　第一項許可辦法，由交通部會同有關機關擬訂，報請行政院核定之。",
+            "relates": {}
+        },
+        {
+            "note": "(營業稅及所得稅之減免)",
+            "rule_no": "第二十九條 之一",
+            "content": "　　臺灣地區及大陸地區之海運、空運公司，參與兩岸船舶運輸及航空運輸，在對方取得之運輸收入，得依第四條之二規定訂定之臺灣地區與大陸地區協議事項，於互惠原則下，相互減免應納之營業稅及所得稅。\n　　前項減免稅捐之範圍、方法、適用程序及其他相關事項之辦法，由財政部擬訂，報請行政院核定。",
             "relates": {}
         },
         {
@@ -827,157 +833,34 @@
         }
     ],
     "law_reasons": {
-        "第十二條": "　　一、本條刪除。\n　　二、本條規範對象為依本條例第十一條經許可受僱之大陸勞工，而目前並未開放大陸勞工可在臺工作，因此本條自公布施行後迄今，實務上均未適用。\n　　三、本條原係參照就業服務法第四十三條有關外國人之規定所訂定，惟就業服務法業刪除上開規定，回歸適用勞工保險條例，本條爰配合刪除。",
-        "第十七條": "　　照黨團協商條文通過。",
-        "第十七條 之一": "　　一、依現行規定，大陸配偶結婚滿二年或已生產子女，得申請依親居留，經獲准在臺依親居留期間，尚需符合大陸地區配偶在臺灣地區依親居留期間工作許可及管理辦法所定之條件，經向行政院勞工委員會申請許可後，始得工作。亦即大陸配偶於「團聚」期間無工作權，於「依親居留」期間，如不符合特定條件，亦無法享有工作權，因而影響大陸配偶家庭之經濟生活。\n　　二、大陸配偶與外籍勞工不同，其為家庭成員之一，而工作權係其生活之基本權利。因此，基於人道及家庭經濟考量，爰有進一步放寬工作權之必要。\n　　三、復經評估，放寬大陸配偶工作權符合國際人權基準、對就業市場無明顯排擠效應、不影響職業訓練及就業服務資源、有助社會公益展現、可改善兩岸婚姻家庭經濟及穩定婚姻關係。因此，配合前條將「團聚」調整為大陸配偶申請來臺之過渡階段，同時全面放寬大陸配偶工作權。亦即大陸配偶通過面談來臺，在臺換發依親居留證件後，於在臺依親居留期間無須申請許可，即可工作。爰刪除原條文第一項及第二項規定，並修正原條文第三項規定。",
-        "第十八條": "　　一、大陸地區人民經獲准居留者，如因從事與許可目的不符之活動或工作，或有事實足認有犯罪行為，或有事實足認為有危害國家安全或社會安定之虞而強制出境，為保障當事人之權益，爰參照入出國及移民法之規定，增訂第二項，規定內政部入出國及移民署於強制其出境前，得召開審查會，並給予當事人陳述意見之機會。\n　　二、原條文第二項至第六項，移列為第三項至第七項。\n　　三、配合修正條文第二項增列有關審查會之規定，刪除原條文第四項所定「由治安機關逕行強制出境」之規定。\n　　四、刑法第四十二條有關折算罰金額數規定，已修正調整為該條第三項及第六項，爰配合修正本條第五項規定。\n　　五、配合修正條文第二項增列有關審查會之規定，爰增訂第八項，就審查會之組成、審查要件、程序等事宜，授權由內政部定之。",
-        "第五十七條": "　　關於父母與子女間之法律關係，原條文係參考涉外民事法律適用法第十九條，以依父之設籍地區之規定為原則，其與現行男女平權思潮有所違背，且參諸一九八九年聯合國兒童權利保護公約及一九九六年海牙關於父母保護子女之責任及措施之管轄權、準據法、承認、執行及合作公約所揭示之原則，已非適宜。爰針對父母與子女間之法律關係，修正為「依子女設籍地區之規定」，以符合保護子女最大權益之原則。",
-        "第六十七條": "　　一、大陸配偶基於婚姻關係與臺灣配偶共營生活，與臺灣社會及家庭建立緊密連帶關係，有別於一般大陸地區人民。為維護大陸配偶本於婚姻關係之生活及財產權益，其繼承權應進一步予以保障，爰增列第五項，明定大陸配偶繼承或受遺贈，不適用有關總額不得逾新臺幣二百萬元之限制；經許可長期居留之大陸配偶，得繼承不動產；所繼承之不動產，為土地法第十七條第一項各款所列土地者，並準用同條第二項但書應於三年內出售之相關規定。\n　　二、至原條文第四項但書有關國人賴以居住之不動產，大陸地區繼承人不得繼承之規定，考量應優先兼顧臺灣地區繼承人繼承權益，對於大陸配偶之繼承，仍應予適用。"
+        "第二十九條 之一": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970408",
-            "立法紀錄": "97卷11期3622號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c8cececfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "990521",
+            "立法紀錄": "99卷39期3804號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8ceccc781cfc6c6cfccc6cfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9cfcec5cec6c6d2cdcfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecbc8cdc5cecbcad2cecbc7"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c8c9cccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "孫大千",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7cfcec5cececcd2cecec9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971121",
-            "立法紀錄": "97卷67期3678號 10-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c8c9c8cfcfc4cfcfcecfc4cfcfcecd",
-            "主提案": "張顯耀",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecececfcbc5cdcac6d2cdc9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971121",
-            "立法紀錄": "97卷67期3678號 12-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c8c9c8cfcfc4cfcfcecdc4cfcfcecc",
-            "主提案": "江義雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececdcfcec5cdcfc9d2cdcfc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971121",
-            "立法紀錄": "97卷67期3678號 17-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c8c9c8cfcfc4cfcfcec8c4cfcfcec6",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec6cfcec5cec6c9d2cec6c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971121",
-            "立法紀錄": "97卷67期3678號 21-23頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c8c9c8cfcfc4cfcfcdcec4cfcfcdcc",
-            "主提案": "張顯耀",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcccfcfc5cdcfced2cdcfcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980320",
-            "立法紀錄": "98卷12期3698號 20-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c7cecdcfcfc4cfcfcdcfc4cfcfcdce",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecbcfcec5cec7c7d2cec6ca"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980423",
-            "立法紀錄": "98卷26期3712號 420-495頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c7cdc9cfcfc4cfcbcdcfc4cfcbc6ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980526",
-            "立法紀錄": "98卷34期3720號 241-288頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c7cccbcfcfc4cfcdcbcec4cfcdc7c7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecccfccc5ccc6d2c7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980602",
-            "立法紀錄": "98卷37期3723號 142-142頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c7ccc8cfcfc4cfcecbcdc4cfcecbcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980609",
-            "立法紀錄": "98卷39期3725號 290-292頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c7ccc6cfcfc4cfcdc6cfc4cfcdc6cd",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "980608",
-            "立法紀錄": "98卷41期3727號 407-409頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c7cbcecfcfc4cfcbcfc8c4cfcbcfc6",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980609",
-            "立法紀錄": "98卷39期3725號 292-295頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c7ccc6cfcfc4cfcdc6cdc4cfcdc6ca",
+            "會議日期": "990528",
+            "立法紀錄": "99卷41期3806號 35-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8ceccc781cfc6c6cfcbcecfcec4cfcfcccac4cfcfccc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "980609",
-            "立法紀錄": "98卷39期3725號 295-295頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8ceccc881c6c7ccc6cfcfc4cfcdc6cac4cfcdc6ca",
+            "會議日期": "990528",
+            "立法紀錄": "99卷41期3806號 38-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8ceccc781cfc6c6cfcbcecfcec4cfcfccc7c4cfcfcbce",
             "關係文書": []
         }
     ]
