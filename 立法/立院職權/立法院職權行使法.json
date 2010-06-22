@@ -1,8 +1,8 @@
 {
     "title": "立法院職權行使法",
     "versions": [
-        "中華民國97年5月9日修正",
-        "中華民國97年5月28日公布"
+        "中華民國99年5月18日修正",
+        "中華民國99年6月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -326,7 +326,7 @@
         {
             "note": "(彈劾案)",
             "rule_no": "第四十二條",
-            "content": "　　立法院依憲法增修條文第四條第五項之規定，對總統、副總統犯內亂或外患罪，得提出彈劾案。",
+            "content": "　　立法院依憲法增修條文第四條第七項之規定，對總統、副總統得提出彈劾案。",
             "relates": {}
         },
         {
@@ -338,7 +338,7 @@
         {
             "note": "(提出彈劾案之表決)",
             "rule_no": "第四十四條",
-            "content": "　　全院委員會審查後，提出院會以無記名投票表決，如經全體立法委員三分之二以上贊成，向國民大會提出彈劾案。",
+            "content": "　　全院委員會審查後，提出院會以無記名投票表決，如經全體立法委員三分之二以上贊成，向司法院大法官提出彈劾案。",
             "relates": {}
         },
         {
@@ -524,7 +524,7 @@
         {
             "note": "(指派參加黨團協商代表)",
             "rule_no": "第七十條",
-            "content": "　　議案交由黨團協商時，由該議案之院會說明人所屬黨團負責召集，通知各黨團書面簽名指派代表二人參加，該院會說明人為當然代表，並由其擔任協商主席。\n　　各黨團指派之代表，其中一人應為審查會委員。但黨團所屬委員均非審查會委員時，不在此限。\n　　依第六十八條第二項提出異議之委員，得向負責召集之黨團，以書面簽名推派二人列席協商說明。\n　　議案進行協商時，由秘書長派員支援，全程錄影、錄音、記錄，併同協商結論，刊登公報。\n　　協商結論如與審查會之決議或原提案條文有明顯差異時，應由提出修正之黨團或提案委員，以書面附具條文及立法理由，併同協商結論，刊登公報。",
+            "content": "　　議案交由黨團協商時，由該議案之院會說明人所屬黨團負責召集，通知各黨團書面簽名指派代表二人參加，該院會說明人為當然代表，並由其擔任協商主席。但院會說明人更換黨團時，則由原所屬黨團另指派協商主席。\n　　各黨團指派之代表，其中一人應為審查會委員。但黨團所屬委員均非審查會委員時，不在此限。\n　　依第六十八條第二項提出異議之委員，得向負責召集之黨團，以書面簽名推派二人列席協商說明。\n　　議案進行協商時，由秘書長派員支援，全程錄影、錄音、記錄，併同協商結論，刊登公報。\n　　協商結論如與審查會之決議或原提案條文有明顯差異時，應由提出修正之黨團或提案委員，以書面附具條文及立法理由，併同協商結論，刊登公報。",
             "relates": {}
         },
         {
@@ -581,50 +581,114 @@
         }
     ],
     "law_reasons": {
-        "第十五條 之一": "　　一、本條新增。\n　　二、明訂法源依據。",
-        "第十五條 之二": "　　一、本條新增。\n　　二、明訂總統赴立法院做國情報告之要件。",
-        "第十五條 之三": "　　一、本條新增。\n　　二、參照立法院職權行使法第十六條第一項第三款之立法體例，增訂本條。",
-        "第十五條 之四": "　　一、本條新增。\n　　二、第一項明訂立法委員提供國是建言之相關程序。\n　　三、為兼顧憲政精神，引入總統自行同意（非憲法義務）之設計，爰為第二項規定。",
-        "第十五條 之五": "　　一、本條新增。\n　　二、明訂立法委員對國情報告所提問題之發言紀錄，於彙整後送請總統參考，以符憲法規定之精神；並達到間接溝通的效果。"
+        "第四十二條": "　　一、總統、副總統彈劾案之規定，憲法增修條文條次變更，本條配合修正。\n　　二、憲法增修條文對總統、副總統之彈劾不以犯內亂或外患罪為限，本條亦配合修正。",
+        "第四十四條": "　　配合民國九十四年修訂之中華民國憲法第二條第十項條文而作修改，彈劾案改由向司法院大法官提出。",
+        "第七十條": "　　針對原條文當中並未規範院會說明人更換黨團時之相關爭議情形，於第一項後增列但書文字：「但院會說明人更換黨團時，則由原所屬黨團另指派協商主席。」其餘各項均照原法通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
             "會議日期": "970422",
-            "立法紀錄": "97卷016期3627號 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c681c6c8cec9cfcfc4cfcfcfcac4cfcfcfc9",
+            "立法紀錄": "97卷16期3627號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacfcf81c6c8cec9cfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": false,
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcec5cdc7ccd2cdc7cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "971205",
+            "立法紀錄": "97卷71期3682號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacfcf81c6c8c8cecfcfc4cfcfcfccc4cfcfcfcc",
+            "主提案": "蔣孝嚴",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecdcfcbc5cdc6ced2cdc6cc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980106",
+            "立法紀錄": "98卷3期3689號二冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cacfcf81c6c7cfcccfcdc4cfcfcfcac4cfcfcfca",
             "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8c8cdc5cec7c8d2cec6cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec9cfcec5cecdc7d2cecccf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970501",
-            "立法紀錄": "97卷026期3637號 134-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c681c6c8cdc9cfcfc4cfcecccbc4cfcecacc",
+            "會議日期": "990503",
+            "立法紀錄": "99卷35期3800號 322-346頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7cacfcf81cfc6c6cfcccacfcec4cfcccdcdc4cfcccbc9",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "970509",
-            "立法紀錄": "97卷025期3636號 126-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c681c6c8cdcacfcfc4cfcecdc9c4cfcecccf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 127-132頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7cacfcf81cfc6c6cfccc9cfcec4cfcecdc8c4cfcecccd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececfcfcdc5cbcdc6d2cbcccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfccc5cdceccd2cdcec8"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 127-132頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7cacfcf81cfc6c6cfccc9cfcec4cfcecdc8c4cfcecccd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfcbc5cec8cfd2cec8cc"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 132-136頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7cacfcf81cfc6c6cfccc9cfcec4cfcecccdc4cfceccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 132-132頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7cacfcf81cfc6c6cfccc9cfcec4cfcecccdc4cfcecccd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 136-136頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7cacfcf81cfc6c6cfccc9cfcec4cfceccc9c4cfceccc9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "970509",
-            "立法紀錄": "97卷025期3636號 131-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec7cbc6c681c6c8cdcacfcfc4cfcecccec4cfceccce",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 132-132頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7cacfcf81cfc6c6cfccc9cfcec4cfcecccdc4cfcecccd",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "990518",
+            "立法紀錄": "99卷36期3801號 136-136頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7cacfcf81cfc6c6cfccc9cfcec4cfceccc9c4cfceccc9",
             "關係文書": []
         }
     ]
