@@ -1,8 +1,8 @@
 {
     "title": "公務人員任用法",
     "versions": [
-        "中華民國98年12月15日修正",
-        "中華民國99年1月6日公布"
+        "中華民國99年7月13日修正",
+        "中華民國99年7月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -214,9 +214,9 @@
             "relates": {}
         },
         {
-            "note": "(資遣)",
+            "note": "(刪除)",
             "rule_no": "第二十九條",
-            "content": "　　各機關公務人員，具有左列情形之一者，得由機關長官考核，報經上級主管機關核准，予以資遣：\n　　一、因機關裁撤、組織變更或業務緊縮而須裁減人員者。\n　　二、現職工作不適任或現職已無工作又無其他適當工作可以調任者。\n　　三、經公立醫院證明身體衰弱不能勝任工作者。\n　　前項第一款因機關裁撤、組織變更或業務緊縮須裁減人員時，應按其未經或具有考試及格或銓敘合格之順序，予以資遣；同一順序人員，應再按其考績成績，依次資遣。\n　　資遣人員之給與，準用公務人員退休之規定；其辦法由考試院會同行政院定之。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -288,52 +288,73 @@
         {
             "note": "(施行日)",
             "rule_no": "第四十條",
-            "content": "　　本法施行日期，由考試院以命令定之。\n　　本法修正條文，自公布日施行。\n　　本法中華民國九十八年十二月十五日修正之條文，自九十八年十一月二十三日施行。",
+            "content": "　　本法施行日期，由考試院以命令定之。\n　　本法修正條文，自公布日施行。\n　　本法中華民國九十八年十二月十五日修正之條文，自九十八年十一月二十三日施行。\n　　本法中華民國九十九年七月十三日修正之第二十九條條文，自一百年一月一日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第二十八條": "　　一、本條係依原條文修正。\n　　二、查九十七年五月二十三日修正公布並自九十八年十一月二十三日施行之民法總則編業將原第十四條及第十五條之「禁治產」及「禁治產人」，分別修正為「監護」及「受監護宣告之人」，爰將第一項第八款「禁治產」之用語，配合修正為「監護」。\n　　三、另前開修正之民法總則編，於「監護宣告」之外，另增訂「輔助宣告」之機制。茲以受輔助宣告之人，係指其精神障礙或其他心智缺陷，致為意思表示或受意思表示，或辨識其意思表示效果之能力，顯有不足；且審酌公務人員係代表國家執行公權力，所為之行政行為，與國家安全、公共利益或人民之生命、身體及財產等權益息息相關，故基於國家利益與確保公共福祉，受輔助宣告尚未撤銷者亦不宜擔任公務人員，爰於第一項第八款予以增列，俾資妥適。",
-        "第四十條": "　　一、本條增訂第三項。\n　　二、茲考量本法第二十八條係配合九十七年五月二十三日修正公布之民法總則編作修正，又依同日修正公布之民法總則施行法第四條之二規定，係自九十八年十一月二十三日施行，故為期與修正後之民法總則編同時施行，爰於第三項增訂日出條款。"
+        "第二十九條": "　　一、本條刪除，並保留條次。\n　　二、因本條有關公務人員資遣之規定，業移列至公務人員退休法修正條文中規範，已無存在必要，爰予刪除。",
+        "第四十條": "　　一、本條增訂第三項。\n　　二、茲審酌本法第二十九條係配合公務人員退休法修正條文予以刪除，而該修正條文第三十七條第二項係明定自中華民國一百年一月一日施行，故為期與公務人員退休法修正條文同時施行，爰增訂第三項規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980501",
-            "立法紀錄": "98卷26期3712號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c9ce81c6c7cdc9cfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "980508",
+            "立法紀錄": "98卷28期3714號 12-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c9cc81c6c7cdc7cfcfc4cfcfcecdc4cfcfcecc",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccececfcec5ccccc6d2cccbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6cfcec5cccacad2cbcecd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "981126",
-            "立法紀錄": "98卷74期3760號 107-160頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c9ce81c6c7c8cbcfcfc4cfcecfc8c4cfcec9cf",
+            "會議日期": "981231",
+            "立法紀錄": "99卷7期3772號 95-143頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcfc8cfcec4cfcfc6cac4cfcecbcc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "981215",
-            "立法紀錄": "98卷75期3761號二冊 251-255頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c9ce81c6c7c8cacfcdc4cfcdcacec4cfcdcaca",
+            "會議日期": "990427",
+            "立法紀錄": "99卷29期3794號二冊 211-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcdc6cfcdc4cfcdcecec4cfcdceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcbc5ceced2ceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecacfcbc5cdcfc8d2cdceca"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990511",
+            "立法紀錄": "99卷34期3799號 70-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcccbcfcec4cfcfc8cfc4cfcfc8cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990601",
+            "立法紀錄": "99卷41期3806號 59-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcbcecfcec4cfcfcac6c4cfcfcac6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990713",
+            "立法紀錄": "99卷49期3814號 60-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcbc6cfcec4cfcfc9cfc4cfcfc9ce",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "981215",
-            "立法紀錄": "98卷75期3761號二冊 255-255頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c9ce81c6c7c8cacfcdc4cfcdcacac4cfcdcaca",
+            "會議日期": "990713",
+            "立法紀錄": "99卷49期3814號 61-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcbc6cfcec4cfcfc9cec4cfcfc9ce",
             "關係文書": []
         }
     ]
