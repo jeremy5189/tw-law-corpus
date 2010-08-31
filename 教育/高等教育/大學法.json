@@ -1,8 +1,8 @@
 {
     "title": "大學法",
     "versions": [
-        "中華民國99年5月18日修正",
-        "中華民國99年6月9日公布"
+        "中華民國99年8月19日修正",
+        "中華民國99年9月1日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -176,7 +176,7 @@
         {
             "note": "(特殊身分學生之就學)",
             "rule_no": "第二十五條",
-            "content": "　　重大災害地區學生、政府派赴國外工作人員子女、參加國際性學科或術科競賽成績優良學生、運動成績優良學生、退伍軍人、僑生、蒙藏學生及外國學生進入大學修讀學位，不受前條公開名額、方式之限制；其名額、方式、資格、辦理時程、招生委員會組成方式、錄取原則及其他有關考生權利義務事項之辦法，由教育部定之。",
+            "content": "　　重大災害地區學生、政府派赴國外工作人員子女、參加國際性學科或術科競賽成績優良學生、運動成績優良學生、退伍軍人、蒙藏學生、僑生、大陸地區學生及外國學生進入大學修讀學位，不受前條公開名額、方式之限制。\n　　前項大陸地區學生，不得進入經教育部會商各有關機關認定公告涉及國家安全、機密之院、系、所及學位學程修讀。\n　　第一項學生進入大學修讀學位之名額、方式、資格、辦理時程、招生委員會組成方式、錄取原則及其他有關考生權利義務事項之辦法，除大陸地區學生部分由教育部擬訂，報請行政院核定外，其餘由教育部定之。",
             "relates": {}
         },
         {
@@ -282,66 +282,86 @@
         {
             "note": "(施行日)",
             "rule_no": "第四十二條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國九十九年八月十九日修正之第二十五條，其施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第三十五條": "　　照黨團協商條文通過。"
+        "第二十五條": "　　照黨團協商條文通過。",
+        "第四十二條": "　　一、第一項未修正。\n　　二、為配合「臺灣地區與大陸地區人民關係條例」第二十二條、第二十二條之一修正草案，有關大陸地區學生來臺就學規定之施行日期，係由行政院定之，爰增訂第二項規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980602",
-            "立法紀錄": "98卷37期3723號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c881c6c7ccc8cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "余政道",
+            "會議日期": "990507",
+            "立法紀錄": "99卷34期3799號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c781cfc6c6cfcccbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfcec5ceccccd2ceccca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecdc8cdc5cac8d2c9cf"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc9c7c7c881c6c7cbcdcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "王進士",
+            "會議日期": "990507",
+            "立法紀錄": "99卷34期3799號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c781cfc6c6cfcccbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "鄭金玲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfcec5cecacdd2cecacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecdc8cdc5c9ced2c9cb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990504",
-            "立法紀錄": "99卷31期3796號一冊 306-308頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c881cfc6c6cfcccecfcec4cfcccfc9c4cfcccfc7",
+            "進度": "委員會審查",
+            "會議日期": "990512",
+            "立法紀錄": "99卷38期3803號 346-423頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c781cfc6c6cfccc7cfcec4cfcccbc9c4cfcbcdcc",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990511",
-            "立法紀錄": "99卷34期3799號 67-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c881cfc6c6cfcccbcfcec4cfcfc9c8c4cfcfc9c8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
+            "進度": "二讀(廣泛討論)",
             "會議日期": "990518",
-            "立法紀錄": "99卷36期3801號 96-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c881cfc6c6cfccc9cfcec4cfcfc6c9c4cfcfc6c8",
+            "立法紀錄": "99卷36期3801號 51-73頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c781cfc6c6cfccc9cfcec4cfcfcacec4cfcfc8cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecbcfcdc5cccfcbd2cccdc8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "990525",
+            "立法紀錄": "99卷39期3804號一冊 55-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c781cfc6c6cfccc6cfcec4cfcfcacac4cfcfcaca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "990601",
+            "立法紀錄": "99卷41期3806號 60-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c781cfc6c6cfcbcecfcec4cfcfc9cfc4cfcfc9cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990819",
+            "立法紀錄": "99卷50期3815號 392-395頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c781cfc6c6cfcacfcfcec4cfccc6cdc4cfccc6ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "990518",
-            "立法紀錄": "99卷36期3801號 97-97頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c881cfc6c6cfccc9cfcec4cfcfc6c8c4cfcfc6c8",
+            "會議日期": "990819",
+            "立法紀錄": "99卷50期3815號 395-401頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc9c7c7c781cfc6c6cfcacfcfcec4cfccc6cac4cfcbcfce",
             "關係文書": []
         }
     ]
