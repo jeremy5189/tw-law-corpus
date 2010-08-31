@@ -1,8 +1,8 @@
 {
     "title": "中華民國總統府組織法",
     "versions": [
-        "中華民國96年3月2日修正",
-        "中華民國96年3月21日公布"
+        "中華民國99年8月19日修正",
+        "中華民國99年9月1日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -67,36 +67,102 @@
             "note": "",
             "rule_no": "第十條",
             "content": "　　總統府文職人員置局長三人，職務列簡任第十四職等；秘書六人至八人，職務列簡任第十二職等至第十四職等；主任二人，職務列簡任第十三職等；副局長三人，副主任二人，參事四人至六人，職務均列簡任第十二職等至第十三職等；參議十四人至十六人，職務列簡任第十職等至第十二職等；專門委員十六人至二十人，高級分析師一人，職務均列簡任第十職等至第十一職等；科長三十二人至三十六人，職務列薦任第九職等；編審十五人至二十一人，分析師二人，職務均列薦任第八職等至第九職等；專員三十六人至四十四人，管理師三人，職務均列薦任第七職等至第九職等；設計師二人至四人，職務列薦任第六職等至第七職等；科員七十九人至八十九人，職務列委任第五職等，其中五十一人至五十五人得列薦任第六職等至第七職等；助理管理師二人，職務列委任第三職等至第五職等；辦事員三十九人至四十五人，職務列委任第三職等至第四職等；書記十六人至二十人，職務列委任第一職等至第三職等。本法修正施行前僱用之現職雇員十六人，其未具公務人員任用資格者，得占用書記職缺，繼續僱用至離職時為止。\n　　總統府軍職人員置侍衛長一人，中將；副侍衛長一人，警衛主任三人，少將；組長四人，主任醫官一人，副組長四人，侍從武官四人，參謀官七人至十人，均上校；侍衛官三十四人，其中上校十六人，中校十八人；參謀十五人至二十五人，其中中校十五人，少校十人；侍衛二十二人至二十七人，其中少校十人至十五人，上尉十二人；醫官二人，其中中校一人，少校一人；藥劑官二人，其中中校一人，少校一人；護理參謀官一人，少校；護理官二人，上尉。\n　　本法修正施行前，第一項職務由現職軍職人員擔任者，得留任至離職時為止。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04301",
+                        "law_name": "中華民國總統府組織法",
+                        "numbers": [
+                            "第十四條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十一條",
             "content": "　　總統府設人事處，置處長一人，職務列簡任第十二職等至第十三職等，依法辦理人事管理事項；所需工作人員，就本法所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04301",
+                        "law_name": "中華民國總統府組織法",
+                        "numbers": [
+                            "第十四條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十二條",
             "content": "　　總統府設會計處，置會計長一人，職務列簡任第十二職等至第十三職等，依法辦理歲計、會計事項，並兼辦統計事項；所需工作人員，就本法所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04301",
+                        "law_name": "中華民國總統府組織法",
+                        "numbers": [
+                            "第十四條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十三條",
             "content": "　　總統府設政風處，置處長一人，職務列簡任第十二職等至第十三職等，依法辦理政風事項；所需工作人員，就本法所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04301",
+                        "law_name": "中華民國總統府組織法",
+                        "numbers": [
+                            "第十四條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十四條",
             "content": "　　第十條至第十三條所定列有官等職等人員，其職務所適用之職系，依公務人員任用法第八條之規定，就有關職系選用之。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04301",
+                        "law_name": "中華民國總統府組織法",
+                        "numbers": [
+                            "第十條",
+                            "第十一條",
+                            "第十二條",
+                            "第十三條"
+                        ]
+                    },
+                    {
+                        "law_no": "04617",
+                        "law_name": "公務人員任用法",
+                        "numbers": [
+                            "第八條"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "note": "",
+            "rule_no": "第十四條 之一",
+            "content": "　　總統府設法規委員會，辦理法制業務，所需工作人員就本法所定員額內派充之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　總統府置資政、國策顧問，由總統遴聘之，聘期不得逾越總統任期，對國家大計，得向總統提供意見，並備諮詢。\n　　前項資政，有給職者不得逾十五人，無給職者不得逾十五人；國策顧問有給職者不得逾三十人，無給職者不得逾六十人。",
+            "content": "　　總統府置資政、國策顧問，由總統遴聘之，均為無給職，聘期不得逾越總統任期，對於國家大計，得向總統提供意見，並備諮詢。\n　　前項資政不得逾三十人，國策顧問不得逾九十人。\n　　資政、國策顧問之遴聘辦法，由總統府定之。",
             "relates": {}
         },
         {
@@ -109,7 +175,17 @@
             "note": "",
             "rule_no": "第十七條",
             "content": "　　中央研究院、國史館、國父陵園管理委員會隸屬於總統府，其組織均另以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "04306",
+                        "law_name": "中央研究院組織法",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -125,46 +201,128 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　為配合國民大會廢止，爰刪除第三、四款「國民大會」文字。另國防部參謀本部為配合採行軍政軍令一元化體制，於89年1月29日修正公布國防法及國防部組織法，將之定位為國防部長之軍令幕僚及三軍聯合作戰指揮機構，承部長之命負責軍令事項指揮軍隊，爰刪除第四款「國防部參謀本部」文字。"
+        "第十四條 之一": "　　一、本條新增。\n　　二、鑒於行政院各部會大多設有法規委員會，負責機關主管法規之研討、審議及處理各種法制問題，惟總統府作為總統幕僚機關，卻未設有法制專責單位。為處理總統府事務所涉及之各種法制問題，強化依法行政功能，並協助總統行使憲法、憲法增修條文與其他相關法律所賦予之行政權限及提昇總統府法制效能，實有必要設置法規諮詢、研議及審議之專責單位，爰增訂本條文。",
+        "第十五條": "　　一、總統府有給職資政、國策顧問之待遇支給標準，因乏相關法令明確規範，迭受立法委員及社會輿情詰責，為符社會民意之期，有必要推動改革，同時考量總統政務碁重，仍有遴聘國政諮詢人才之必要，爰刪除有給職資政、國策顧問之設置，將資政、國策顧問定為無給榮譽職。\n　　二、資政、國策顧問之總員額，仍維持原組織法所定額度，資政不得逾三十人，國策顧問不得逾九十人。\n　　三、增訂第三項， 明定資政、國策顧問遴聘辦法，由本府定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950317",
-            "立法紀錄": "95卷10期3471號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9ca81c6cacecfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "親民黨黨團",
+            "會議日期": "970523",
+            "立法紀錄": "97卷31期3642號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c8cccecfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "蔡正元",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfcacfcec5cecdc7d2cecdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececdcfcec5cecacbd2cecaca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "970523",
+            "立法紀錄": "97卷31期3642號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c8cccecfcfc4cfcfcfcdc4cfcfcfcc",
+            "主提案": "呂學樟",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececdcfccc5cac7c6d2cac6ce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "970612",
+            "立法紀錄": "97卷39期3650號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c8ccc6cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "江連福",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececacfcec5cecac7d2cecac6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "980320",
+            "立法紀錄": "98卷12期3698號 15-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c7cecdcfcfc4cfcfcecac4cfcfcec9",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5cdccc9d2cdccc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960103",
-            "立法紀錄": "96卷12期3535號 229-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9ca81c6c9cecdcfcfc4cfcdcdc6c4cfcdcbcc",
+            "會議日期": "980423",
+            "立法紀錄": "98卷27期3713號 69-102頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c7cdc8cfcfc4cfcfc9c6c4cfcecfcd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960302",
-            "立法紀錄": "96卷20期3543號一冊 69-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9ca81c6c9cdcfcfcec4cfcfc9c6c4cfcfc8cd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980508",
+            "立法紀錄": "98卷28期3714號 42-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c7cdc7cfcfc4cfcfcbcdc4cfcfcacc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcec8cfccc5cbced2cbcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccececfccc5cec7cad2cec6c9"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980526",
+            "立法紀錄": "98卷34期3720號 236-236頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c7cccbcfcfc4cfcdccc9c4cfcdccc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980602",
+            "立法紀錄": "98卷37期3723號 141-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c7ccc8cfcfc4cfcecbcec4cfcecbce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980609",
+            "立法紀錄": "98卷39期3725號 274-275頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9c881c6c7ccc6cfcfc4cfcdc8cbc4cfcdc8ca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "990427",
+            "立法紀錄": "99卷29期3794號二冊 83-83頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9c9c881cfc6c6cfcdc6cfcdc4cfcfc7ccc4cfcfc7cc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "990511",
+            "立法紀錄": "99卷34期3799號 68-69頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9c9c881cfc6c6cfcccbcfcec4cfcfc9c7c4cfcfc9c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "990819",
+            "立法紀錄": "99卷50期3815號 414-416頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9c9c881cfc6c6cfcacfcfcec4cfcbcecbc4cfcbcec9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "960302",
-            "立法紀錄": "96卷20期3543號一冊 72-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9c9ca81c6c9cdcfcfcec4cfcfc8cdc4cfcfc8cd",
+            "會議日期": "990819",
+            "立法紀錄": "99卷50期3815號 416-417頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9c9c881cfc6c6cfcacfcfcec4cfcbcec9c4cfcbcec8",
             "關係文書": []
         }
     ]
