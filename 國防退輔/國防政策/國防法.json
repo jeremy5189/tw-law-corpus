@@ -1,8 +1,8 @@
 {
     "title": "國防法",
     "versions": [
-        "中華民國97年7月17日修正",
-        "中華民國97年8月6日公布"
+        "中華民國99年11月5日修正",
+        "中華民國99年11月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,13 +22,13 @@
         {
             "note": "(國防武力之目的)",
             "rule_no": "第二條",
-            "content": "　　中華民國之國防，以發揮整體國力，建立國防武力，達成保衛國家安全，維護世界和平之目的。",
+            "content": "　　中華民國之國防，以發揮整體國力，建立國防武力，協助災害防救，達成保衛國家與人民安全及維護世界和平之目的。",
             "relates": {}
         },
         {
             "note": "(全民國防)",
             "rule_no": "第三條",
-            "content": "　　中華民國之國防，為全民國防，包含國防軍事、全民防衛及與國防有關之政治、經濟、心理、科技等直接、間接有助於達成國防目的之事務。",
+            "content": "　　中華民國之國防，為全民國防，包含國防軍事、全民防衛、執行災害防救及與國防有關之政治、社會、經濟、心理、科技等直接、間接有助於達成國防目的之事務。",
             "relates": {}
         },
         {
@@ -98,7 +98,7 @@
         {
             "note": "(軍隊指揮事項)",
             "rule_no": "第十四條",
-            "content": "　　軍隊指揮事項如下：\n　　一、軍隊人事管理與勤務。\n　　二、軍事情報之蒐集及研判。\n　　三、作戰序列、作戰計畫之策定及執行。\n　　四、軍隊之部署運用及訓練。\n　　五、軍隊動員整備及執行。\n　　六、軍事準則之制頒及作戰研究發展。\n　　七、獲得人員、裝備與補給品之分配及運用。\n　　八、通信、資訊與電子戰之策劃及執行。\n　　九、政治作戰之執行。\n　　十、戰術及技術督察。\n　　十一、其他有關軍隊指揮事項。",
+            "content": "　　軍隊指揮事項如下：\n　　一、軍隊人事管理與勤務。\n　　二、軍事情報之蒐集及研判。\n　　三、作戰序列、作戰計畫之策定及執行。\n　　四、軍隊之部署運用及訓練。\n　　五、軍隊動員整備及執行。\n　　六、軍事準則之制頒及作戰研究發展。\n　　七、獲得人員、裝備與補給品之分配及運用。\n　　八、通信、資訊與電子戰之策劃及執行。\n　　九、政治作戰之執行。\n　　十、戰術及技術督察。\n　　十一、災害防救之執行。\n　　十二、其他有關軍隊指揮事項。",
             "relates": {}
         },
         {
@@ -249,46 +249,106 @@
         }
     ],
     "law_reasons": {
-        "第三十一條": "　　一、第一至三項未修正。\n　　二、為使總統就職後，能重新審視既有的國防政策，並使國防部文人部長能將其國防政策和戰略構想，挹注到國防部的施政中，故增訂第四項，要求國防部應在每屆總統就職後十個月內，向立法院公開提出「四年期國防總檢討」。"
+        "第二條": "　　一、由過去重大天災和各國救災經驗，可知建立一個專業且動員迅速的救難軍隊絕對是必須且重要的。然而，我們的國軍從未將「救災、防災、備災」列為國軍的主要任務之一。而國防法現行條文僅於第二十八條提及「成立民防組織」，但救災如作戰，救災更不能只依賴民防組織和消防警力，尤其，台灣每年飽受颱風、土石流肆虐，或是不定期強震的威脅，更需認真思考應儘速建立一個專業的救災部隊。\n　　二、再者，一個沒有救災能力的部隊，理論上也不可能是具有戰力的部隊。現在全世界的軍隊訓練都將人道救援和救災訓練納入作戰任務中；美國企業研究所（American Enterprise Institute）出版的《台灣應有的國防戰略》報告中，即建議台灣軍方應把「非傳統的安全威脅」，如天然災害、傳染病和恐怖主義等列為軍方的主要任務之一。該報告指出「以天然災害來說，台灣是地球上最危險的地方之一。世界銀行2005年的報告就指出台灣被地震、熱帶氣旋和土石流所苦。……這些災害都需要政府快速反應，立刻採取行動阻止狀況惡化。這和戰爭時期所需要的預警能力和反應能力沒有什麼不同」。這份報告實值國人警惕與深思！\n　　三、另中華民國紅十字會總會會長陳長文律師亦於媒體投書呼籲儘速「將救災防災列為國軍的主要任務」，文中並分析因應氣候極化、時代變遷和兩岸局勢丕變「政府要將國防的定義做出更符合實際的調整，把國防從狹隘的『戰爭』範疇，擴延到人民生命財產的守衛。」爰此，修正國防法第二條將「協助災害防救」列為我國國防武力之目的。",
+        "第三條": "　　原條文中「全民防衛及與國防有關之政治、經濟」等字樣，修正為「全民防衛、執行災害防救及與國防有關之政治、社會、經濟」。",
+        "第十四條": "　　一、當代的國家安全研究著重於綜合性安全，氣候變異等非傳統安全威脅亦是關注焦點。由於我國位處自然氣候與地殼變動頻繁的地理位置，國防事務應納入這樣的思維，因此將災害防救納入本條事項中。\n　　二、原第一項第十一款變更為第十二款。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970619",
-            "立法紀錄": "97卷042期3653號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6c8cbcdcfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "林郁方",
+            "會議日期": "980918",
+            "立法紀錄": "98卷46期3732號一冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc681c6c7cbc9cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "洪秀柱",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec9c8cdc5cecccad2ceccc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcecfcbc5cccec8d2cccdcf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "981016",
+            "立法紀錄": "98卷53期3739號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc681c6c7cacccfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "盧秀燕",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcacfcec5c9ccd2c9ca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "981211",
+            "立法紀錄": "98卷75期3761號一冊 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc681c6c7c8cacfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "張顯耀",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcec5c7c6d2c6cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970714",
-            "立法紀錄": "97卷047期3658號 340-352頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6c8cbc8cfcfc4cfcccbcfc4cfcccacd",
+            "會議日期": "990527",
+            "立法紀錄": "99卷45期3810號 326-379頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cecfcbc681cfc6c6cfcbcacfcec4cfcccdc9c4cfccc8c6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "970717",
-            "立法紀錄": "97卷048期3659號一冊 111-114頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6c8cbc7cfcec4cfcececec4cfcececb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "991105",
+            "立法紀錄": "99卷61期3826號 207-213頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cecfcbc681cfc6c6cfc9cecfcec4cfcdcfc8c4cfcdcecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec6cfccc5c9cec6d2c9cdcd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacec9cfccc5cececfd2cececa"
+                ],
+                [
+                    "審查報告",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacec9cfccc5cecfcdd2cecfc7"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "991105",
+            "立法紀錄": "99卷61期3826號 213-221頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cecfcbc681cfc6c6cfc9cecfcec4cfcdceccc4cfcdcdce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "991105",
+            "立法紀錄": "99卷61期3826號 213-213頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cecfcbc681cfc6c6cfc9cecfcec4cfcdceccc4cfcdcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "991105",
+            "立法紀錄": "99卷61期3826號 221-221頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cecfcbc681cfc6c6cfc9cecfcec4cfcdcdcec4cfcdcdce",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "970717",
-            "立法紀錄": "97卷048期3659號一冊 114-114頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cecfcbc781c6c8cbc7cfcec4cfcececbc4cfcececb",
+            "會議日期": "991105",
+            "立法紀錄": "99卷61期3826號 213-213頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cecfcbc681cfc6c6cfc9cecfcec4cfcdceccc4cfcdcecc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "991105",
+            "立法紀錄": "99卷61期3826號 221-222頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cecfcbc681cfc6c6cfc9cecfcec4cfcdcdcec4cfcdcdcd",
             "關係文書": []
         }
     ]
