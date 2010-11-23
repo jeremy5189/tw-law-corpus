@@ -1,8 +1,8 @@
 {
     "title": "教師法",
     "versions": [
-        "中華民國98年11月6日修正",
-        "中華民國98年11月25日公布"
+        "中華民國99年11月5日修正",
+        "中華民國99年11月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -120,7 +120,7 @@
         {
             "note": "(停聘期間之薪資)",
             "rule_no": "第十四條 之三",
-            "content": "　　依第十四條規定停聘之教師，停聘期間應發給半數本薪（年功薪）；停聘原因消滅後回復聘任者，其本薪（年功薪）應予補發。但教師係因受有期徒刑或拘役之執行或受罰金之判決而易服勞役者，其停聘期間之薪資，不得依本條規定發給。",
+            "content": "　　依第十四條規定停聘之教師，停聘期間應發給半數本薪（年功薪）；停聘原因消滅後回復聘任者，其本薪（年功薪）應予補發。但有下列情形之一者，不在此限：\n　　一、教師受有期徒刑或拘役之執行或受罰金之判決而易服勞役者，其停聘期間不發給本薪（年功薪）。\n　　二、教師依第十四條第四項規定停聘者，其停聘期間不發給本薪（年功薪），俟調查結果無此事實並回復聘任者，補發全部本薪（年功薪）。",
             "relates": {}
         },
         {
@@ -327,67 +327,46 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　照黨團協商條文通過。",
-        "第三十九條": "　　配合民法及其施行法修正條文自九十八年十一月二十三日施行，本法本次修正之條文亦定自同日施行，爰修正本條。"
+        "第十四條 之三": "　　一、現行教師法第十四條第四項已明定，涉及性侵害行為教師，其服務學校應於知悉之日起一個月內經教師評審委員會審議通過後予以停聘，並靜候學校性別平等委員會調查。但由於同法第十四條之三規定，教師停聘期間仍應發給半數本薪（年功薪），顯然有失社會公義，業已引發諸多輿論之批評，係因涉及性侵行為而被停聘調查之教師惡行重大，且可能涉及犯罪對象是同校中絕對弱勢之學生，該類教師停聘調查期間若仍支予薪給，不僅受害學生及其家長情何以堪，亦有變相支持該等教師之虞，而有礙社會觀瞻。爰修正為該類教師停聘期間不發給半數本薪（年功薪）。惟若案經調查後無此事實並依法回復聘任者，則予補發全部本薪（年功薪）。\n　　二、至於教師因受有期徒刑或拘役之執行或受罰金之判決而易服勞役者，應非停聘原因消滅後復聘及補發本薪之對象，爰依立法旨意，將條文內容酌作修正，以求明確並符法制體例。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c9cfcf81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "981211",
+            "立法紀錄": "98卷75期3761號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c9cfce81c6c7c8cacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "趙麗雲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdcfcec5cecdc9d2cdcacf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980417",
-            "立法紀錄": "98卷22期3708號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c9cfcf81c6c7cdcdcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃昭順",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6c8cdc5cecdc8d2cecccf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcec5cececad2cecec9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980525",
-            "立法紀錄": "98卷38期3724號 178-227頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c9cfcf81c6c7ccc7cfcfc4cfcec8c7c4cfcdcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "980610",
-            "立法紀錄": "98卷62期3748號 557-559頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c9cfcf81c6c7c9cdcfcfc4cfcacac8c4cfcacac6",
+            "會議日期": "990519",
+            "立法紀錄": "99卷41期3806號 408-452頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfce81cfc6c6cfcbcecfcec4cfcbcfc7c4cfcbcacd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "981106",
-            "立法紀錄": "98卷62期3748號 28-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c9cfcf81c6c7c9cdcfcfc4cfcfcdc7c4cfcfccc8",
+            "會議日期": "991105",
+            "立法紀錄": "99卷61期3826號 181-186頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfce81cfc6c6cfc9cecfcec4cfcec7cec4cfcec7c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfccc5cdcbccd2cdcace"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacec9cfccc5c8c7d2c7cc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "981106",
-            "立法紀錄": "98卷62期3748號 37-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c9cfcf81c6c7c9cdcfcfc4cfcfccc8c4cfcfccc8",
+            "會議日期": "991105",
+            "立法紀錄": "99卷61期3826號 186-186頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfce81cfc6c6cfc9cecfcec4cfcec7c9c4cfcec7c9",
             "關係文書": []
         }
     ]
