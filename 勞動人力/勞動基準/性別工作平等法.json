@@ -1,8 +1,8 @@
 {
     "title": "性別工作平等法",
     "versions": [
-        "中華民國97年11月7日修正",
-        "中華民國97年11月26日公布"
+        "中華民國99年12月21日修正",
+        "中華民國100年1月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -116,9 +116,9 @@
             "relates": {}
         },
         {
-            "note": "(產假、陪產假)",
+            "note": "(產假、陪產假 、安胎假)",
             "rule_no": "第十五條",
-            "content": "　　雇主於女性受僱者分娩前後，應使其停止工作，給予產假八星期；妊娠三個月以上流產者，應使其停止工作，給予產假四星期；妊娠二個月以上未滿三個月流產者，應使其停止工作，給予產假一星期；妊娠未滿二個月流產者，應使其停止工作，給予產假五日。\n　　產假期間薪資之計算，依相關法令之規定。\n　　受僱者於其配偶分娩時，雇主應給予陪產假三日。\n　　陪產假期間工資照給。",
+            "content": "　　雇主於女性受僱者分娩前後，應使其停止工作，給予產假八星期；妊娠三個月以上流產者，應使其停止工作，給予產假四星期；妊娠二個月以上未滿三個月流產者，應使其停止工作，給予產假一星期；妊娠未滿二個月流產者，應使其停止工作，給予產假五日。\n　　產假期間薪資之計算，依相關法令之規定。\n　　受僱者經醫師診斷需安胎休養者，其治療、照護或休養期間之請假及薪資計算，依相關法令之規定。\n　　受僱者於其配偶分娩時，雇主應給予陪產假三日。\n　　陪產假期間工資照給。",
             "relates": {}
         },
         {
@@ -148,7 +148,7 @@
         {
             "note": "(家庭照顧假)",
             "rule_no": "第二十條",
-            "content": "　　受僱於僱用五人以上雇主之受僱者，於其家庭成員預防接種、發生嚴重之疾病或其他重大事故須親自照顧時，得請家庭照顧假；其請假日數併入事假計算，全年以七日為限。\n　　家庭照顧假薪資之計算，依各該事假規定辦理。",
+            "content": "　　受僱者於其家庭成員預防接種、發生嚴重之疾病或其他重大事故須親自照顧時，得請家庭照顧假；其請假日數併入事假計算，全年以七日為限。\n　　家庭照顧假薪資之計算，依各該事假規定辦理。",
             "relates": {}
         },
         {
@@ -291,47 +291,60 @@
         }
     ],
     "law_reasons": {
-        "第三十八條": "　　刪除「第十三條第一項後段、第二項」，即雇主事前預防與事後補救等防治性騷擾之義務。",
-        "第三十八條 之一": "　　新增雇主違反本法第十三條第一項後段、第二項規定時，處新臺幣十萬元以上五十萬元以下罰鍰，將雇主違反所有性別歧視類型之事件（含職場性騷擾之防治）科處罰鍰數額提高，以落實本法保障勞動者（特別是女性與少數性傾向者）工作權益之宗旨。"
+        "第十五條": "　　一、新增安胎假規定。\n　　二、為保障在懷孕期間有安胎需求的女性勞工，勞委會於99年5月4日修改勞工請假規則，將懷孕期間需安胎休養者，其休養期間，併入住院傷病假計算。然而，生育乃國家的大事，並非個人的事，其所帶來的成本亦應由社會共同承擔。尤其在現今面臨少子女化的情況下更是如此，此亦是婦女團體多年來提倡「生育責任公共化」的主張。鑑於「生育」與「生病」不同，若僅於勞工請假規則中納入病假計算，則懷孕勞工一旦有安胎需求請病假，將影響其考績、全勤或受其他不利處分等。為使安胎假得以適用本法第二十一條第二項「受僱者為前項請求時，雇主不得視為缺勤而影響其全勤獎金、考績或為其他不利之處分。」，爰修訂本條文。\n　　三、增列第三項文字：「受僱者經醫師診斷需安胎休養者，其治療、照護或休養期間之請假及薪資計算，依相關法令之規定。」\n　　四、原第三項及第四項遞改為第四項及第五項。",
+        "第二十條": "　　將原條文第一項首句中「受僱於僱用五人以上雇主之受僱者，於其家庭」等字修正為「受僱者於其家庭」，餘未作修正。\n　　"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷16期3627號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cfcacd81c6c8cec9cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "潘維剛",
+            "會議日期": "0991022",
+            "立法紀錄": "99卷55期3820號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcacb81cfc6c6cfcacacfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "黃淑英",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcec5cec7ccd2cec7ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcac8cdc5cececed2cececd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "0981211",
+            "立法紀錄": "98卷75期3761號一冊 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cfcacb81c6c7c8cacfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "周守訓",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcec5c6c8d2c6c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971006",
-            "立法紀錄": "97卷53期3664號一冊 435-470頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cfcacd81c6c8cacccfcec4cfcbcccac4cfcbc8cf",
+            "會議日期": "0991202",
+            "立法紀錄": "99卷83期384號 4-31頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcacb81cfc6c6cfc7cccfcec4cfcfcfcbc4cfcfccce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 72-76頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cfcacd81c6c8c9cccfcfc4cfcfc8cdc4cfcfc8c9",
+            "會議日期": "0991221",
+            "立法紀錄": "99卷84期3849號 55-60頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcacb81cfc6c6cfc7cbcfcec4cfcfcacac4cfcfc9cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7cfcdc5cbcad2cbc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecdcfcac5cecfc8d2cececd"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 76-76頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cfcacd81c6c8c9cccfcfc4cfcfc8c9c4cfcfc8c9",
+            "會議日期": "0991221",
+            "立法紀錄": "99卷84期3849號 60-60頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcacb81cfc6c6cfc7cbcfcec4cfcfc9cfc4cfcfc9cf",
             "關係文書": []
         }
     ]
