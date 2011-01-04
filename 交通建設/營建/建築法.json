@@ -1,8 +1,8 @@
 {
     "title": "建築法",
     "versions": [
-        "中華民國98年5月12日修正",
-        "中華民國98年5月27日公布"
+        "中華民國99年12月21日修正",
+        "中華民國100年1月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -702,7 +702,7 @@
         {
             "note": "",
             "rule_no": "第九十七條",
-            "content": "　　有關建築規劃、設計、施工、構造、設備之建築技術規則，由中央主管建築機關定之。",
+            "content": "　　有關建築規劃、設計、施工、構造、設備之建築技術規則，由中央主管建築機關定之，並應落實建構兩性平權環境之政策。",
             "relates": {}
         },
         {
@@ -785,47 +785,53 @@
         }
     ],
     "law_reasons": {
-        "第十二條": "　　一、九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產人」修正為「受監護宣告之人」，爰將第一項之「禁治產者」修正為「受監護宣告之人」。\n　　二、第二項未修正。",
-        "第一百零五條": "　　一、第一項未修正。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日修正施行，本法本次修正之條文亦定自同日施行，爰增訂第二項。"
+        "第九十七條": "　　一、為促進兩性地位之實質平權，全面落實建立性別平等之公共環境，特修正本條。\n　　二、基於保障女性在衛生福祉方面最為基本而迫切之需求，本法主管機關業於民國95年11月30日修正建築技術規則建築設備編第三十七條條文。衛生設備若屬同時使用類型（如學校、車站、電影院等），其女用大便器數與男用大便器數之比例增為五比一；屬分散使用類型者（如辦公廳、工廠、商場等），其比例修正為三比一以上。\n　　三、然而上開新修正施行之建築技術法規，並無溯及效力，僅適用於修正後之新建建築物。不僅在既有私人建築物方面欠缺變更改善衛生設備之誘因；既有公用建築物方面因政府僅以消極宣導方式，而未以積極手段強制要求各機關逐年編列經費全面落實改善。換言之，全國絕大多數之舊有建築物其衛生設備女廁數量仍然嚴重不足。\n　　四、因此為加速舊有建築物改善男女衛生設備數量比例，本條修正通過之後，全國各公有建築物，應由各機關及地方政府參照修正後之「建築技術規則」，於其年度預算項下逐年編列經費改善之，最遲於五年內須全面改善完成；至於既有之私有供公眾使用達一定程度規\n模建築物部分，主管機關應提供改善費用補助之正面誘因；並斟酌其空間結構、使用特性、設備狀況、人潮流量等因素，提出適當可行之分級改善實施方案。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecd81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "991022",
+            "立法紀錄": "99卷55期3820號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cecc81cfc6c6cfcacacfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "黃義交",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcac8cdc5ccd2c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980427",
-            "立法紀錄": "98卷27期3713號 254-276頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecd81c6c7cdc8cfcfc4cfcdcacbc4cfcdc8c9",
+            "會議日期": "991206",
+            "立法紀錄": "99卷83期3848號 152-163頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cecc81cfc6c6cfc7cccfcec4cfcecacdc4cfcec9cc",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980512",
-            "立法紀錄": "98卷28期3714號 109-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecd81c6c7cdc7cfcfc4cfcecfc6c4cfcececd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "991221",
+            "立法紀錄": "99卷84期3849號 40-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cecc81cfc6c6cfc7cbcfcec4cfcfcbcfc4cfcfcbca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcdc5cec8c7d2cec7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecdcfcac5c6ced2c6ca"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "991221",
+            "立法紀錄": "99卷84期3849號 45-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cecc81cfc6c6cfc7cbcfcec4cfcfcbcac4cfcfcbca",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "980512",
-            "立法紀錄": "98卷28期3714號 112-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cecd81c6c7cdc7cfcfc4cfcececdc4cfcececd",
+            "會議日期": "991221",
+            "立法紀錄": "99卷84期3849號 45-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cecc81cfc6c6cfc7cbcfcec4cfcfcbcac4cfcfcbca",
             "關係文書": []
         }
     ]
