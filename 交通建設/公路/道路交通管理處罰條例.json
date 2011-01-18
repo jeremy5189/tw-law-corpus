@@ -1,8 +1,8 @@
 {
     "title": "道路交通管理處罰條例",
     "versions": [
-        "中華民國99年4月20日修正",
-        "中華民國99年5月5日公布"
+        "中華民國100年1月7日修正",
+        "中華民國100年1月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -296,7 +296,7 @@
         {
             "note": "",
             "rule_no": "第三十五條",
-            "content": "　　汽車駕駛人，駕駛汽車經測試檢定有下列情形之一者，處新臺幣一萬五千元以上六萬元以下罰鍰，並當場移置保管該汽車及吊扣其駕駛執照一年；因而肇事致人受傷者，並吊扣其駕駛執照二年；致人重傷或死亡者，吊銷其駕駛執照，並不得再考領：\n　　一、酒精濃度超過規定標準。\n　　二、吸食毒品、迷幻藥、麻醉藥品及其相類似之管制藥品。\n　　汽車駕駛人駕駛營業大客車有前項應受吊扣情形者，吊銷其駕駛執照。\n　　汽車駕駛人經依第一項規定吊扣駕駛執照，並於吊扣期間再有第一項情形者，處新臺幣六萬元罰鍰，並當場移置保管該汽車及吊銷其駕駛執照；如肇事致人重傷或死亡者，吊銷其駕駛執照，並不得再考領。\n　　汽車駕駛人拒絕接受第一項測試之檢定者，處新臺幣六萬元罰鍰，並當場移置保管該汽車及吊銷該駕駛執照；如肇事致人重傷或死亡者，吊銷該駕駛執照，並不得再考領。\n　　汽車駕駛人肇事拒絕接受或肇事無法實施第一項測試之檢定者，應由交通勤務警察或依法令執行交通稽查任務人員，將其強制移由受委託醫療或檢驗機構對其實施血液或其他檢體之採樣及測試檢定。\n　　汽車所有人，明知汽車駕駛人有第一項各款情形，而不予禁止駕駛者，依第一項規定之罰鍰處罰，並吊扣該汽車牌照三個月。\n　　汽車駕駛人有第一項、第三項或第四項之情形，同時違反刑事法律者，經移置保管汽車之領回，不受第八十五條之二第二項，應同時檢附繳納罰鍰收據之限制。\n　　前項汽車駕駛人，經裁判確定處以罰金低於本條例第九十二條第三項所訂最低罰鍰基準規定者，應依本條例裁決繳納不足最低罰鍰之部分。",
+            "content": "　　汽車駕駛人，駕駛汽車經測試檢定有下列情形之一者，處新臺幣一萬五千元以上六萬元以下罰鍰，並當場移置保管該汽車及吊扣其駕駛執照一年；因而肇事致人受傷者，並吊扣其駕駛執照二年；致人重傷或死亡者，吊銷其駕駛執照，並不得再考領：\n　　一、酒精濃度超過規定標準。\n　　二、吸食毒品、迷幻藥、麻醉藥品及其相類似之管制藥品。\n　　汽車駕駛人有前項應受吊扣情形時，駕駛營業大客車者，吊銷其駕駛執照；因而肇事且附載有未滿十四歲之人者，按其吊扣駕駛執照期間加倍處分。\n　　汽車駕駛人經依第一項規定吊扣駕駛執照，並於吊扣期間再有第一項情形者，處新臺幣六萬元罰鍰，並當場移置保管該汽車及吊銷其駕駛執照；如肇事致人重傷或死亡者，吊銷其駕駛執照，並不得再考領。\n　　汽車駕駛人拒絕接受第一項測試之檢定者，處新臺幣六萬元罰鍰，並當場移置保管該汽車及吊銷該駕駛執照；如肇事致人重傷或死亡者，吊銷該駕駛執照，並不得再考領。\n　　汽車駕駛人肇事拒絕接受或肇事無法實施第一項測試之檢定者，應由交通勤務警察或依法令執行交通稽查任務人員，將其強制移由受委託醫療或檢驗機構對其實施血液或其他檢體之採樣及測試檢定。\n　　汽車所有人，明知汽車駕駛人有第一項各款情形，而不予禁止駕駛者，依第一項規定之罰鍰處罰，並吊扣該汽車牌照三個月。\n　　汽車駕駛人有第一項、第三項或第四項之情形，同時違反刑事法律者，經移置保管汽車之領回，不受第八十五條之二第二項，應同時檢附繳納罰鍰收據之限制。\n　　前項汽車駕駛人，經裁判確定處以罰金低於本條例第九十二條第四項所訂最低罰鍰基準規定者，應依本條例裁決繳納不足最低罰鍰之部分。",
             "relates": {}
         },
         {
@@ -743,59 +743,111 @@
         }
     ],
     "law_reasons": {
-        "第六十八條": "　　鑑於本條例前已修正刪除受吊扣駕駛執照處分，吊扣各級駕駛執照之規定，為利明確汽車駕駛人駕駛非其駕駛執照種類之車輛，違反應受吊扣駕駛執照之處分處理，並在兼顧本條例立法意旨下，增訂第二項得緩即予吊扣而採記違規點數及駕駛人仍無改正仍再犯違規之應併原吊扣處罰之規定。"
+        "第三十五條": "　　一、第二項條文：「汽車駕駛人駕駛營業大客車有前項應受吊扣情形者，吊銷其駕駛執照。」，修正為「汽車駕駛人有前項應受吊扣情形時，駕駛營業大客車者，吊銷其駕駛執照；因而肇事且附載有未滿十四歲之人者，按其吊扣駕駛執照期間加倍處分。」。\n　　二、第八項條文中「第九十二條第三項」等文字，修正為「第九十二條第四項」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdce81c6c7cecbcfcec4cfcfcfcec4cfcfcfcd",
-            "主提案": "陳根德",
+            "會議日期": "981103",
+            "立法紀錄": "98卷59期3745號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdcc81c6c7cac6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "孫大千",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfcec5c8c7d2c7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc8cfcfc5cecfcdd2cecfc9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdce81c6c7cbcdcfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "楊麗環",
+            "會議日期": "981218",
+            "立法紀錄": "98卷77期3763號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdcc81c6c7c8c8cfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "羅明才",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5cecacad2cecac8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecbcfcec5cdcec9d2cdcec6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "990223",
+            "立法紀錄": "99卷9期3774號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcc81cfc6c6cfcfc6cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "丁守中",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfcecfcec5c7cdd2c7cc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "990409",
+            "立法紀錄": "99卷23期3788號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcc81cfc6c6cfcdcccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "李鴻鈞",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc7cfcec5cecfcfd2cecfcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "990416",
+            "立法紀錄": "99卷26期3791號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcc81cfc6c6cfcdc9cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "廖國棟",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc6cfcec5cecfc7d2cecece"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "990514",
+            "立法紀錄": "99卷36期3801號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcc81cfc6c6cfccc9cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "李鴻鈞",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfcec5cecec8d2cecec6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "990311",
-            "立法紀錄": "99卷15期3780號 184-199頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdce81cfc6c6cfcecacfcec4cfcec7cbc4cfcec6c6",
+            "會議日期": "991215",
+            "立法紀錄": "100卷2期3854號 397-447頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcc81cecfcfcfcfcdcfcec4cfccc6c8c4cfcbcbc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "990420",
-            "立法紀錄": "99卷26期3791號二冊 383-390頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdce81cfc6c6cfcdc9cfcdc4cfccc7ccc4cfccc6cf",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷8期3860號一冊 104-126頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcc81cecfcfcfcfc7cfcec4cfcecfcbc4cfcecdc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc9cfcdc5ccc9c6d2ccc8c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbcfcac5cccac9d2ccc8c7"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "990420",
-            "立法紀錄": "99卷26期3791號二冊 390-391頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdce81cfc6c6cfcdc9cfcdc4cfccc6cfc4cfccc6ce",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷8期3860號一冊 126-126頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcc81cecfcfcfcfc7cfcec4cfcecdc9c4cfcecdc9",
             "關係文書": []
         }
     ]
