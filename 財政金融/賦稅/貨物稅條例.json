@@ -1,8 +1,8 @@
 {
     "title": "貨物稅條例",
     "versions": [
-        "中華民國98年12月11日修正",
-        "中華民國98年12月30日公布"
+        "中華民國100年1月10日修正",
+        "中華民國100年1月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -99,6 +99,12 @@
             "note": "",
             "rule_no": "第十二條 之二",
             "content": "　　於本條文生效日起五年內購買低底盤公共汽車、天然氣公共汽車、油電混合動力公共汽車、電動公共汽車、身心障礙者復康巴士並完成登記者，免徵該等汽車應徵之貨物稅。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十二條 之三",
+            "content": "　　第十二條第一項第一款第一目之1所定汽缸排氣量在二千立方公分以下之小客車，包括馬達最大馬力在二百零八．七英制馬力以下或二百十一．八公制馬力以下完全以電能為動力之電動小客車；同目之2所定汽缸排氣量在二千零一立方公分以上之小客車，包括馬達最大馬力在二百零八．八英制馬力以上或二百十一．九公制馬力以上完全以電能為動力之電動小客車。\n　　於本條文生效日起三年內購買完全以電能為動力之電動車輛並完成登記者，免徵該等車輛應徵之貨物稅。\n　　前項減免年限屆期前半年，行政院得視實際推展情況決定是否延長減免年限。",
             "relates": {}
         },
         {
@@ -269,59 +275,60 @@
         }
     ],
     "law_reasons": {
-        "第三十二條": "　　第一項揭文修正為「納稅義務人有下列情形之一者，除補徵稅款外，按補徵稅額處一倍至三倍罰鍰：」，其餘內容維持原條文。"
+        "第十二條 之三": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac6cf81c6c7cbcdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "蔡錦隆",
+            "會議日期": "0980925",
+            "立法紀錄": "098卷047期3733號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac6cd81c6c7cbc8cfcfc4cfcfcfcec4cfcfcfce",
+            "主提案": "孫大千",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfcec5cdc9c9d2cdc9c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac6cf81c6c7cbcdcfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "羅淑蕾",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfcec5cccfc8d2cccfc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcdcfcec5c6cfd2c6cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "981111",
-            "立法紀錄": "98卷67期3753號 387-410頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac6cf81c6c7c9c8cfcfc4cfccc7c8c4cfcbcecf",
+            "會議日期": "0981111",
+            "立法紀錄": "098卷067期3753號 387-410頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac6cd81c6c7c9c8cfcfc4cfccc7c8c4cfcbcecf",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "981211",
-            "立法紀錄": "98卷75期3761號一冊 369-379頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac6cf81c6c7c8cacfcec4cfccc9c6c4cfccc8c6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000110",
+            "立法紀錄": "100卷008期3860號一冊 488-499頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6cd81cecfcfcfcfc7cfcec4cfcbc7c7c4cfcbc6c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecfcfcdc5c9cac9d2c9c9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacec9cfcac5c6d2cdcf"
                 ]
             ]
         },
         {
+            "進度": "黨團協商",
+            "會議日期": "0991220",
+            "立法紀錄": "100卷008期3860號四冊 303-304頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6cd81cecfcfcfcfc7cfcbc4cfcccfccc4cfcccfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000110",
+            "立法紀錄": "100卷008期3860號一冊 499-500頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6cd81cecfcfcfcfc7cfcec4cfcbc6c6c4cfcacfcf",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "981211",
-            "立法紀錄": "98卷75期3761號一冊 379-379頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cac6cf81c6c7c8cacfcec4cfccc8c6c4cfccc8c6",
+            "會議日期": "1000110",
+            "立法紀錄": "100卷008期3860號一冊 500-500頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6cd81cecfcfcfcfc7cfcec4cfcacfcfc4cfcacfcf",
             "關係文書": []
         }
     ]
