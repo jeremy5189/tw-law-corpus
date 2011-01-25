@@ -1,7 +1,7 @@
 {
     "title": "電業法",
     "versions": [
-        "中華民國100年1月10日修正",
+        "中華民國100年1月7日修正",
         "中華民國100年1月26日公布"
     ],
     "types": [
@@ -400,19 +400,19 @@
         {
             "note": "(電費—計算方法)",
             "rule_no": "第六十二條",
-            "content": "　　電業向用戶收取電費，除包制用電外，應裝置電度表，以度數計算。\n　　前項每度收費之金額，應報請中央主管機關核准。",
+            "content": "　　電業向用戶收取電費，應儘量裝置電度表，以度數計算。",
             "relates": {}
         },
         {
-            "note": "(電表保證金或租金之收取)",
+            "note": "(電度表保證金或租金之收取)",
             "rule_no": "第六十三條",
-            "content": "　　用戶電度表由電業置備，得向用戶酌收電表保證金，不收保證金者，得酌收租金，其保證金或租金金額合計不得超過其裝置時之市價。",
+            "content": "　　用戶電度表由電業置備。但得向用戶酌收電表保證金，其金額不得超過其裝置時之市價，不收保證金者，得酌收租金。",
             "relates": {}
         },
         {
             "note": "(電費—每月底度及最低電費)",
             "rule_no": "第六十四條",
-            "content": "　　電業向用戶收取電費，得規定每月底度。但不得逾下列之限制：\n　　一、電燈：用單相電度表者，一級二級電業每安培二度，三級電業每安培三度，四級電業每安培四度。用三相電度表者，照單相電度表三倍計算，不滿三安培電度表，得酌量提高底度。\n　　二、電力：一級二級電業每裝見馬力二十五度，三級電業每裝見馬力三十五度，四級電業每裝見馬力四十五度。\n　　三、電熱：工業用者，準用電力之規定；家庭用者，準用電燈之規定。\n　　電業收取電費不規定底度者，得規定每月最低電費。\n　　電業定有第一項每月底度者，其用戶每月實際用電度數超過每月底度時，以實際用電度數計收。",
+            "content": "　　電業向用戶收取電費，得規定每月底度。但不得逾左列之限制：\n　　一、電燈：用單相電度表者，一級二級電業每安培二度，三級電業每安培三度，四級電業每安培四度。用三相電度表者，照單相電度表三倍計算，不滿三安培電度表，得酌量提高底度。\n　　二、電力：一級二級電業每裝見馬力二十五度，三級電業每裝見馬力三十五度，四級電業每裝見馬力四十五度。\n　　三、電熱：工業用者，準用電力之規定；家庭用者，準用電燈之規定。\n　　電業收取電費不規定底度者，得規定每月最低電費。",
             "relates": {}
         },
         {
@@ -755,74 +755,93 @@
         }
     ],
     "law_reasons": {
-        "第六十二條": "　　一、第一項增列包制用電，所稱包制用電係指路燈、交通指揮燈、交通監控設備、公車候車亭、警報器等用電器具容量小且固定、用電時間穩定及不易覓得適當裝表位置之用電。另要求電業應為用戶裝置電度表，以精確計算用電度數。\n　　二、新增第二項，規定電業每度電費之計算方式應報中央主管機關核准，避免市場獨占造成不合理剝削。",
-        "第六十三條": "　　文字酌作修正，不論收取保證金或租金其總額不應超過裝置時之市價。",
-        "第六十四條": "　　一、第一項酌作文字修正及增訂第三項。\n　　二、針對電費之計收，現已採行一般家庭每月實際用電度數超過底度者，則以實際用電度數計收電費，不另加計底度費，為符法律明確化原則，爰增訂第三項。"
+        "第六十五條": "　　一、現行的學校用電優惠措施雖已行之有年，最近卻被檢討以不具法源依據而有被取消之虞。僉以我國教育預算原已捉襟見肘，如取消電價優惠，勢將排擠原定教育計劃施政經費，且恐加深城鄉學校環境之差距，礙及學生受教權益及其健康與安全等。爰提案修正電業法第65 條，比照公用事業將各級公私立學校納入用電優惠對象，俾保障學校基本用電之需求，維護學生受教權益。\n　　二、增列第二項為：「前項收費辦法，由中央主管機關定之。」。",
+        "第一百零六條": "　　一、第一項將「左列」文字修正為「下列」。\n　　二、第六款改列為第二項，文字修正為：「電力用戶在原申請馬力數、瓩數或仟伏安數以外，未申請而增加馬力數、瓩數或仟伏安數者，準用第七十三條規定求償電費。」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980605",
-            "立法紀錄": "98卷39期3725號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c7cbca81c6c7ccc6cfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "薛凌",
+            "會議日期": "0981225",
+            "立法紀錄": "099卷001期3766號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbcb81cfc6c6cfcfcecfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "趙麗雲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec9cfcec5cecec8d2cecec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecacfcec5cecec8d2cecec6"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "981009",
-            "立法紀錄": "98卷51期3737號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c7cbca81c6c7cacecfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "民進黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcbcfcec5cecaccd2cecacb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "990528",
-            "立法紀錄": "99卷41期3806號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbca81cfc6c6cfcbcecfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "0980327",
+            "立法紀錄": "098卷014期3700號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c7cbcb81c6c7cecbcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "潘孟安",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecacfcec5cecbcfd2cecbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfcec5cecacdd2cecacc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "991229",
-            "立法紀錄": "100卷9期3861號 411-446頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbca81cecfcfcfcfc6cfcec4cfcbcecec4cfcbcbc9",
+            "會議日期": "0991213",
+            "立法紀錄": "100卷002期3854號 306-351頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbcb81cecfcfcfcfcdcfcec4cfcccfc9c4cfcccace",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷8期3860號一冊 416-422頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbca81cecfcfcfcfc7cfcec4cfcbcec9c4cfcbcdcd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 126-128頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbcb81cecfcfcfcfc7cfcec4cfcecdc9c4cfcecdc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecacfc8c5cdcccad2cdcbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbcfcac5ccc7cfd2ccc7cd"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 129-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbcb81cecfcfcfcfc7cfcec4cfcecdc6c4cfceccce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbcfcac5ccc7cbd2ccc7c8"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 128-129頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbcb81cecfcfcfcfc7cfcec4cfcecdc7c4cfcecdc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 131-132頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbcb81cecfcfcfcfc7cfcec4cfcecccec4cfcecccd",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷8期3860號一冊 422-422頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbca81cecfcfcfcfc7cfcec4cfcbcdcdc4cfcbcdcd",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 129-129頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbcb81cecfcfcfcfc7cfcec4cfcecdc6c4cfcecdc6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 132-132頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cbcb81cecfcfcfcfc7cfcec4cfcecccdc4cfcecccd",
             "關係文書": []
         }
     ]
