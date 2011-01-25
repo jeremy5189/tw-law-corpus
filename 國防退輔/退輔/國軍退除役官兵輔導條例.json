@@ -1,8 +1,8 @@
 {
     "title": "國軍退除役官兵輔導條例",
     "versions": [
-        "中華民國91年11月26日修正",
-        "中華民國91年12月18日公布"
+        "中華民國100年1月10日修正",
+        "中華民國100年1月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -112,14 +112,14 @@
             "relates": {}
         },
         {
-            "note": "",
-            "section_name": "第四章  就養"
+            "note": "(身心障礙或年老之安置就養)",
+            "rule_no": "第十六條",
+            "content": "　　退除役官兵身心障礙或年老，無工作能力者，應專設機構，採全部供給制或部分供給制安置就養；其就養標準，由輔導會擬訂，報請行政院核定之。\n　　前項採全部供給制就養之身心障礙人員，輔導會應酌予身心障礙重建。\n　　採全部供給制就養人員發給之就養給付，不得作為扣押、抵銷、供擔保或強制執行之標的。但溢領或誤領部分之就養給付，輔導會得自其發給之就養給付中扣抵。",
+            "relates": {}
         },
         {
-            "note": "(傷殘及年老之安置)",
-            "rule_no": "第十六條",
-            "content": "　　退除役官兵身心障礙或年老，無工作能力者，應專設機構，採全部供給制或部分供給制安置就養；其就養標準，由輔導會擬訂，報請行政院核定之。\n　　前項採全部供給制就養之身心障礙人員，輔導會應酌予身心障礙重建。",
-            "relates": {}
+            "note": "",
+            "section_name": "第四章  就養"
         },
         {
             "note": "(榮譽國民之家)",
@@ -247,56 +247,60 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、原條文第一項第二款所指依兵役法第四十九條志願在營服役之士官，經查該條文中並無有關「士官」服役之規定，僅律定常備兵轉服「志願士兵」之要件，且該條已於八十九年二月二日修正為第四十七條；為使本條例所稱「退除役官兵」意義範圍具體明確。避免爾後因所引法律條文修正，而須配合修正之繁鎖程序，爰將同項第一款、第二款合併修正如修正條文第一項第一款。\n　　二、依現行「陸海空軍軍官士官服役條例」第二十三條第三款及「常備兵補充兵服役規則」第二十一條均規定因作戰或因公致病、傷或殘廢，合於就養標準者，給予贍養金終身，並依志願安置榮家就養，爰將原條文第一項第三款配合修正之，並調整為第二款。\n　　三、因「陸海空軍軍官士官服役條例」及「志願士兵服役條例」中規定常備軍官、士官、預備軍官、士官及志願士兵服現役年限長短各異，惟軍官、士官及士兵所服役期需達一定年限，始給予輔導安置，其服現役年限授權由輔導會擬訂，並報請本院核定之。",
-        "第十六條": "　　一、現行榮民就養安置，有全部供給制及部分供給制，故有榮譽國民之家及自費安置中心之設置。茲因部分供給制，於原條文中，並未明確授權設立，為符合現況需要，予以修正增列，俾符依法行政。\n　　二、將原條文第十七條後段「並對傷殘人員酌予傷殘重建」移列新增為第二項，並配合第一項酌作文字修正。",
-        "第十七條": "　　一、目前安置榮家之就養榮民，如有配偶，而無法共同生活，勢必造成諸多困擾，基於人道立場，為使彼此共同攜手安享晚年，並符現況，爰增訂第二項，其配偶可以自費方式併予安置。\n　　二、原條文後段移列於修正條文第十六條第二項規範。",
-        "第十九條": "　　一、現行所定退除役官兵就學補助之「生活費」一項迄未實施，爰予刪除，以符實務現況。\n　　二、退除役官兵就學獎助部分，國軍退除役官兵就學實施辦法業已有所規定，為符授權明確之要求，爰酌作文字修正。"
+        "第十六條": "　　新增第三項。就養給付係為社會福利給付，具有社會安全制度性質，該給付之請領，不應因其他債權執行而影響榮民生活；並與其他社福、保險給付具有一致性。從而落實榮民權益保障並賦予該給付正當之法源依據。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": " ",
-            "立法紀錄": "91卷20期3216號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbce81c6cecdcfcfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "沈智慧",
+            "會議日期": "981103",
+            "立法紀錄": "98卷59期3745號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbcd81c6c7cac6cfcfc4cfcfcfcbc4cfcfcfcb",
+            "主提案": "潘孟安",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcbcfcec5cecbc9d2cecbc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc8cfcfc5cec9c9d2cec9c7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": " ",
-            "立法紀錄": "91卷40期3236號一冊 9-9頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbce81c6cecbcfcfcec4cfcfcfc6c4cfcfcfc6",
-            "主提案": "行政院",
+            "會議日期": "991022",
+            "立法紀錄": "99卷55期3820號 2-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcd81cfc6c6cfcacacfcec4cfcfcfcdc4cfcfcfcc",
+            "主提案": "張顯耀",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5cdcdced2cdcdc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcac8cdc5c6ced2c6cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": " ",
-            "立法紀錄": "91卷54期3250號下冊 37-59頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbce81c6cecacbcfccc4cfcfccc8c4cfcfcac6",
+            "會議日期": "991223",
+            "立法紀錄": "100卷6期3858號 370-375頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcd81cecfcfcfcfc9cfcec4cfccc8cfc4cfccc8ca",
             "關係文書": []
         },
         {
-            "進度": "三讀",
-            "會議日期": " ",
-            "立法紀錄": "91卷70期3266號上冊 182-195頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbce81c6cec8cfcfcec4cfcec7cdc4cfcec6ca",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000110",
+            "立法紀錄": "100卷8期3860號一冊 217-221頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcd81cecfcfcfcfc7cfcec4cfcdcec8c4cfcdcdce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcececfcdc5cbd2cec6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecacfc8c5ccc9d2ccc6"
                 ]
             ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1000110",
+            "立法紀錄": "100卷8期3860號一冊 221-221頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcd81cecfcfcfcfc7cfcec4cfcdcdcec4cfcdcdce",
+            "關係文書": []
         }
     ]
 }
