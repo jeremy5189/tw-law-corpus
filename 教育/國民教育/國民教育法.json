@@ -1,8 +1,8 @@
 {
     "title": "國民教育法",
     "versions": [
-        "中華民國99年1月7日修正",
-        "中華民國99年1月27日公布"
+        "中華民國100年1月12日修正",
+        "中華民國100年1月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -120,7 +120,7 @@
         {
             "note": "(學校組織編制)",
             "rule_no": "第十條",
-            "content": "　　國民小學與國民中學設校務會議，議決校務重大事項，由校長召集主持。校務會議以校長、全體專任教師或教師代表、家長會代表、職工代表組成之。其成員比例由設立學校之各級主管教育行政機關定之。\n　　國民小學及國民中學，視規模大小，酌設教務處、訓導處、總務處或教導處、總務處，各置主任一人及職員若干人。主任由校長就專任教師中聘兼之，職員由校長遴用，均應報直轄市或縣（市）主管教育行政機關核備。\n　　國民小學及國民中學應設輔導室或輔導教師。輔導室置主任一人及輔導教師若干人，由校長遴選具有教育熱忱與專業知能教師任之。輔導主任及輔導教師以專任為原則。\n　　輔導室得另置具有專業知能之專任輔導人員及義務輔導人員若干人。\n　　國民小學及國民中學應設人事及主計單位，學校規模較小者，得由其他機關或學校專任人事及主計人員兼任；其員額編制標準，依有關法令之規定。",
+            "content": "　　國民小學與國民中學設校務會議，議決校務重大事項，由校長召集主持。校務會議以校長、全體專任教師或教師代表、家長會代表、職工代表組成之。其成員比例由設立學校之各級主管教育行政機關定之。\n　　國民小學及國民中學，視規模大小，酌設教務處、學生事務處、總務處或教導處、總務處，各置主任一人及職員若干人。主任由校長就專任教師中聘兼之，職員由校長遴用，均應報直轄市或縣（市）主管教育行政機關核備。\n　　國民小學及國民中學應設輔導室或輔導教師。輔導室置主任一人及輔導教師若干人，由校長遴選具有教育熱忱與專業知能教師任之。輔導主任及輔導教師以專任為原則。\n　　前項專任輔導教師員額編制如下：\n　　一、國民小學二十四班以上者，置一人。\n　　二、國民中學每校置一人，二十一班以上者，增置一人。\n　　前項規定自中華民國一百零一年八月一日施行，於五年內逐年完成設置。\n　　國民小學及國民中學得視實際需要另置專任專業輔導人員及義務輔導人員若干人，其班級數達五十五班以上者，應至少置專任專業輔導人員一人。\n　　直轄市、縣（市）政府應置專任專業輔導人員，視實際需要統籌調派之；其所屬國民小學及國民中學校數合計二十校以下者，置一人，二十一校至四十校者，置二人，四十一校以上者以此類推。\n　　前二項專任專業輔導人員設置所需經費，由教育部視實際需要補助之；其人員之資格、設置、實施方式、期程及其他相關事項之辦法，由教育部會商直轄市、縣（市）政府後定之。\n　　國民小學及國民中學應設人事及主計單位，學校規模較小者，得由其他機關或學校專任人事及主計人員兼任；其員額編制標準，依有關法令之規定。",
             "relates": {}
         },
         {
@@ -203,59 +203,41 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、修正第四項。\n　　二、比照先進國家，明文保障家長之教育選擇權。"
+        "第十條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980508",
-            "立法紀錄": "98卷28期3714號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c7cdc7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "林淑芬",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷8期3860號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbce81cecfcfcfcfc7cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "管碧玲",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5c6c6d2cecfce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecac8cdc5cececcd2cececb"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 14-14頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcbcbcf81c6c7cbcdcfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "黃志雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecccfcec5cec8cfd2cec8cd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "981224",
-            "立法紀錄": "99卷4期3769號 18-56頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbcf81cfc6c6cfcfcbcfcec4cfcfcec7c4cfcfcac9",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000112",
+            "立法紀錄": "100卷8期3860號三冊 374-377頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbce81cecfcfcfcfc7cfccc4cfccc8cbc4cfccc8c8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "990107",
-            "立法紀錄": "99卷5期3770號一冊 309-315頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbcf81cfc6c6cfcfcacfcec4cfcccfc6c4cfccceca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcec8cfc6c5cdccc7d2cdcbcb"
-                ]
-            ]
+            "會議日期": "1000112",
+            "立法紀錄": "100卷8期3860號三冊 378-378頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbce81cecfcfcfcfc7cfccc4cfccc8c7c4cfccc8c7",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "990107",
-            "立法紀錄": "99卷5期3770號一冊 315-315頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbcf81cfc6c6cfcfcacfcec4cfcccecac4cfccceca",
+            "會議日期": "1000112",
+            "立法紀錄": "100卷8期3860號三冊 378-380頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcbcbce81cecfcfcfcfc7cfccc4cfccc8c7c4cfccc7cf",
             "關係文書": []
         }
     ]
