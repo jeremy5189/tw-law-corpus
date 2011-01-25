@@ -1,8 +1,8 @@
 {
     "title": "預算法",
     "versions": [
-        "中華民國97年5月2日修正",
-        "中華民國97年5月14日公布"
+        "中華民國100年1月12日修正",
+        "中華民國100年1月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -398,6 +398,12 @@
             "relates": {}
         },
         {
+            "note": "(不得以置入性行銷方式執行政策宣傳預算)",
+            "rule_no": "第六十二條 之一",
+            "content": "　　基於行政中立、維護新聞自由及人民權益，政府各機關暨公營事業、政府捐助基金百分之五十以上成立之財團法人及政府轉投資資本百分之五十以上事業，編列預算辦理政策宣導，應明確標示其為廣告且揭示辦理或贊助機關、單位名稱，並不得以置入性行銷方式進行。",
+            "relates": {}
+        },
+        {
             "note": "(各機關之歲出分配預算)",
             "rule_no": "第六十三條",
             "content": "　　各機關之歲出分配預算，其計畫或業務科目之各用途別科目中有一科目之經費不足，而他科目有賸餘時，應按中央主計機關之規定流用之。但不得流用為用人經費。",
@@ -639,46 +645,34 @@
         }
     ],
     "law_reasons": {
-        "第四十一條": "　　增訂第四項，政府捐助基金累計超過百分之五十之財團法人及日本撤退臺灣接收其所遺留財產而成立之財團法人，每年應由各該主管機關將其年度預算書，送立法院審議。"
+        "第六十二條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970307",
-            "立法紀錄": "97卷003期3614號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcd81c6c8cfcccfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "賴士葆",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷8期3860號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcc81cecfcfcfcfc7cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfccc8cdc5c8c6d2c7cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecac8cdc5c8ccd2c8c9"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "970415",
-            "立法紀錄": "97卷017期3628號 199-248頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcd81c6c8cec8cfcfc4cfcec6c6c4cfcdcbc7",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "970502",
-            "立法紀錄": "97卷023期3634號 39-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcd81c6c8cdcccfcfc4cfcfccc6c4cfcfcbcc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc6cfcbc5cdc6c8d2cccfce"
-                ]
-            ]
+            "會議日期": "1000112",
+            "立法紀錄": "100卷8期3860號三冊 373-374頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcc81cecfcfcfcfc7cfccc4cfccc8ccc4cfccc8cb",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "970502",
-            "立法紀錄": "97卷023期3634號 43-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcd81c6c8cdcccfcfc4cfcfcbccc4cfcfcbcb",
+            "會議日期": "1000112",
+            "立法紀錄": "100卷8期3860號三冊 374-374頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcc81cecfcfcfcfc7cfccc4cfccc8cbc4cfccc8cb",
             "關係文書": []
         }
     ]
