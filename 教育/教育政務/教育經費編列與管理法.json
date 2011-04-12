@@ -1,8 +1,8 @@
 {
     "title": "教育經費編列與管理法",
     "versions": [
-        "中華民國89年11月28日制定",
-        "中華民國89年12月13日公布"
+        "中華民國100年3月29日修正",
+        "中華民國100年4月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -25,6 +25,12 @@
             "note": "(政府之教育支付責任)",
             "rule_no": "第三條",
             "content": "　　中央、直轄市及縣（市）政府（以下簡稱各級政府）應於國家財政能力範圍內，充實、保障並致力推動全國教育經費之穩定成長。\n　　各級政府教育經費預算合計應不低於該年度預算籌編時之前三年度決算歲入淨額平均值之百分之二十一點五。\n　　前項所稱歲入淨額為各級政府決算及特別決算中，不含舉債及移用以前年度歲計賸餘，扣除重複列計部分。\n　　直轄市及縣（市）政府以其歲入總預算扣除上級政府補助為自有財源，並依教育基本需求，衡量財政狀況，優先支應教育經費，除自有財源減少外，其自行負擔之教育經費，應逐年成長。",
+            "relates": {}
+        },
+        {
+            "note": "(課稅收入之專款專用)",
+            "rule_no": "第三條 之一",
+            "content": "　　中央政府就公、私立幼稚園、國民小學及國民中學教職員之薪資依法課徵所得稅所增收入額度，不計入前條第二項百分之二十一點五算定之金額，並以外加方式編列專款，專用於提升幼稚教育及國民教育品質。",
             "relates": {}
         },
         {
@@ -116,168 +122,63 @@
             "rule_no": "第十八條",
             "content": "　　本法自公布後一年內施行。",
             "relates": {}
+        },
+        {
+            "note": "(施行日)",
+            "rule_no": "第十八條",
+            "content": "　　本法自公布後一年內施行。\n　　本法中華民國一百年三月二十九日修正之條文，其施行日期由行政院定之。",
+            "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條": "　　揭示本法制定之法源依據及立法宗旨。",
-        "第二條": "　　明定教育經費之定義與範圍。",
-        "第三條": "　　照黨團協商條文通過。",
-        "第四條": "　　照黨團協商條文通過。",
-        "第五條": "　　由於偏遠及特殊地區之教育條件有其先天上不利之處，故對於偏遠及特殊地區教育經費之編列與補助，各級政府應依照教育基本法第五條第一項之規定與精神，優先編列預算。",
-        "第六條": "　　依據教育基本法第四條之精神。對於原住民、特殊教育及其他弱勢族群之教育，為扶助其發展以維護其自主性，各級政府應依據本法、原住民族教育法、特殊教育法及其他相關法令之規定。從寬編列預算。",
-        "第七條": "　　由於政府財力有限，加上教育之責任與參與不應全由公部門負擔，因此為促進公、私立教育之均衡發展，應鼓勵私人興學，政府對於私人興學，則予以適當之經費補助與獎勵。",
-        "第八條": "　　一、明定教育經費補助類別與支用方式。\n　　二、一般教育補助以整筆補助、不限定其特定用途為原則，以賦予地方政府及學校較大之自主與彈性空間。\n　　三、特定用途補助，應考量國家財政、地方教育特色等因素，限定其用途與支出。",
-        "第九條": "　　照黨團協商條文通過。",
-        "第十條": "　　照黨團協商條文通過。",
-        "第十一條": "　　照黨團協商條文通過。",
-        "第十二條": "　　照黨團協商條文通過。",
-        "第十三條": "　　照黨團協商條文通過。",
-        "第十四條": "　　照黨團協商條文通過。",
-        "第十五條": "　　一、明定各級主管教育行政機關對於公私立學校及其他教育機構應進行財務監督。\n　　二、公私立學校及其他教育機構之收支應秉持公開化與透明化之原則，定期送請主管教育行政機關備查並公告。",
-        "第十六條": "　　一、第一項明定各級主管教育行政機關應建立評鑑制度。\n　　二、第二項考量為使評鑑工作更具專業性及客觀性，主管教育行政機關得委託學術團體辦理，評鑑結果可作為教育工作人員和社會大眾對教育建設的瞭解。",
-        "第十七條": "　　照黨團協商條文通過。",
-        "第十八條": "　　明定本法之施行日期。"
+        "第三條 之一": "　　一、本條新增。\n　　二、配合「所得稅法」第四條、第十七條、第一百二十六條修正草案，將公私立國中小及幼稚園教職員之薪資依法課徵所得稅所增課稅收入，用於整體教育環境之改善，爰增訂本條。\n　　三、有關對公私立國民中小學及幼稚園之教職員薪資課稅所增收入，依本法第三條第二項規定，雖納入各級政府前三年度決算歲入淨額計算，但為維持教育經費編列之穩定，並保障所增課稅收入能專款運用，該項規定之百分之二十一點五下限不予修正，另採外加方式編列，不計入百分之二十一點五算定之金額，並專用於提升幼稚教育及國民教育品質。\n　　四、軍教課稅收入如未來高於預期，優先用於補助經濟弱勢學生",
+        "第十八條": "　　一、第一項未修正。\n　　二、增訂第二項，明定本次修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881116",
-            "立法紀錄": "88卷48期3048號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c7cbc7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林政則",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc8cfcfc5ccccc8d2cccbcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "881217",
-            "立法紀錄": "88卷58期3058號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c7cac7cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcececfccc5cbc6c8d2cacfc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "881217",
-            "立法紀錄": "88卷58期3058號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c7cac7cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "李慶安",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcececfcfc5cccdc6d2cccbcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "890718",
-            "立法紀錄": "89卷45期3104號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6cbcacfcec4cfcfcfcac4cfcfcfca",
+            "會議日期": "0980918",
+            "立法紀錄": "098卷046期3732號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c881c6c7cbc9cfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccccecfcec5cdcdc9d2cdccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcecfcec5cdc8ccd2cdc7c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "881229",
-            "立法紀錄": "89卷7期3066號下冊 67-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6cfc8cfccc4cfcfc9c8c4cfcecfce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "890426",
-            "立法紀錄": "89卷23期3082號 279-303頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6cdcccfcfc4cfcdc8c6c4cfcccfcc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "890607",
-            "立法紀錄": "89卷37期3096號下冊 1-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6ccc8cfccc4cfcfcfcec4cfcfcdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "890608",
-            "立法紀錄": "89卷38期3097號下冊 1-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6ccc7cfccc4cfcfcfcec4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "890626",
-            "立法紀錄": "89卷42期3101號下冊 53-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6cbcdcfccc4cfcfcaccc4cfcfc9c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "890628",
-            "立法紀錄": "89卷43期3102號下冊 467-468頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6cbcccfccc4cfcbc9c8c4cfcbc9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "890712",
-            "立法紀錄": "89卷46期3105號 67-81頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6cbc9cfcfc4cfcfc9c8c4cfcfc7ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "890717",
-            "立法紀錄": "89卷47期3106號 73-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6cbc8cfcfc4cfcfc8ccc4cfcfc8c7",
+            "會議日期": "1000317",
+            "立法紀錄": "100卷020期3872號 158-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc8c881cecfcfcfcdcfcfcec4cfcecac7c4cfcdceca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "891124",
-            "立法紀錄": "89卷66期3125號上冊 38-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6c9c9cfcec4cfcfccc7c4cfcfc7ca",
+            "會議日期": "1000329",
+            "立法紀錄": "100卷021期3873號一冊 202-206頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc8c881cecfcfcfcdcecfcec4cfcdcfcdc4cfcdcfc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcbcecfcfcec5cac8ced2c9cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcbc5cacfcbd2cacfc6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "891128",
-            "立法紀錄": "89卷67期3126號上冊 34-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6c9c8cfcec4cfcfcccbc4cfcfcace",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "891128",
-            "立法紀錄": "89卷67期3126號上冊 51-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6c9c8cfcec4cfcfcacec4cfcfcacb",
+            "會議日期": "1000329",
+            "立法紀錄": "100卷021期3873號一冊 206-206頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc8c881cecfcfcfcdcecfcec4cfcdcfc9c4cfcdcfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "891128",
-            "立法紀錄": "89卷67期3126號上冊 54-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9ccc8c981c7c6c9c8cfcec4cfcfcacbc4cfcfcac7",
+            "會議日期": "1000329",
+            "立法紀錄": "100卷021期3873號一冊 206-206頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc8c881cecfcfcfcdcecfcec4cfcdcfc9c4cfcdcfc9",
             "關係文書": []
         }
     ]
