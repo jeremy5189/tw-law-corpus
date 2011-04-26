@@ -1,8 +1,8 @@
 {
     "title": "發展觀光條例",
     "versions": [
-        "中華民國98年10月23日修正",
-        "中華民國98年11月18日公布"
+        "中華民國100年3月29日修正",
+        "中華民國100年4月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -180,7 +180,7 @@
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　旅行業業務範圍如下：\n　　一、接受委託代售海、陸、空運輸事業之客票或代旅客購買客票。\n　　二、接受旅客委託代辦出、入國境及簽證手續。\n　　三、招攬或接待觀光旅客，並安排旅遊、食宿及交通。\n　　四、設計旅程、安排導遊人員或領隊人員。\n　　五、提供旅遊諮詢服務。\n　　六、其他經中央主管機關核定與國內外觀光旅客旅遊有關之事項。\n　　前項業務範圍，中央主管機關得按其性質，區分為綜合、甲種、乙種旅行業核定之。\n　　非旅行業者不得經營旅行業業務。但代售日常生活所需陸上運輸事業之客票，不在此限。",
+            "content": "　　旅行業業務範圍如下：\n　　一、接受委託代售海、陸、空運輸事業之客票或代旅客購買客票。\n　　二、接受旅客委託代辦出、入國境及簽證手續。\n　　三、招攬或接待觀光旅客，並安排旅遊、食宿及交通。\n　　四、設計旅程、安排導遊人員或領隊人員。\n　　五、提供旅遊諮詢服務。\n　　六、其他經中央主管機關核定與國內外觀光旅客旅遊有關之事項。\n　　前項業務範圍，中央主管機關得按其性質，區分為綜合、甲種、乙種旅行業核定之。\n　　非旅行業者不得經營旅行業業務。但代售日常生活所需國內海、陸、空運輸事業之客票，不在此限。",
             "relates": {}
         },
         {
@@ -469,46 +469,46 @@
         }
     ],
     "law_reasons": {
-        "第七十條 之一": "　　依據該條例第七十條之一，於中華民國九十年十一月十四日前已依相關法令核准經營觀光遊樂場業業務而非公司組織者，應於中華民國一百年三月二十一日前，向該管主管機關申請觀光遊樂業執照，始得繼續營業。"
+        "第二十七條": "　　一、依發展觀光條例第二十七條：「旅行業業務規範如下：一、接受委託代售海、陸、空運輸事業之客票或代旅客購買客票。……非旅行業者不得經營旅行業業務。但代售日常生活所需陸上運輸事業之客票，不在此限」，因此，立法精神已排除日常生活所需的陸上運輸事業之客票，非旅行業所專賣。\n　　二、而日常生活所需的運輸事業之客票，應不僅限於陸上而已，尚包含海上、空中，顯為立法上之疏漏。基於便民及推廣大眾運輸原則，修正非旅行業者亦得代售日常生活所需國內海、陸、空運輸事業之客票。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980410",
-            "立法紀錄": "98卷19期3705號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdc781c6c7cec6cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "蕭景田",
+            "會議日期": "991231",
+            "立法紀錄": "100卷4期3856號 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcacdc681cecfcfcfcfcbcfcec4cfcfcfccc4cfcfcfcb",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc7c8cdc5c8d2c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbc8cdc5c6ced2c6cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980610",
-            "立法紀錄": "98卷44期3730號一冊 6-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdc781c6c7cbcbcfcec4cfcfcfc9c4cfcfcac7",
+            "會議日期": "1000309",
+            "立法紀錄": "100卷18期3870號 254-283頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcacdc681cecfcfcfcec7cfcec4cfcdcacbc4cfcdc7cc",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 237-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdc781c6c7cacacfcfc4cfcdccc8c4cfcdcbcf",
+            "會議日期": "1000329",
+            "立法紀錄": "100卷21期3873號一冊 101-104頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcacdc681cecfcfcfcdcecfcec4cfcecfcec4cfcecfcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc9cfcdc5cbc8c7d2cbc7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcbc5cbcecfd2cbcecc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 240-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcacdc781c6c7cacacfcfc4cfcdcbcfc4cfcdcbcf",
+            "會議日期": "1000329",
+            "立法紀錄": "100卷21期3873號一冊 104-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcacdc681cecfcfcfcdcecfcec4cfcecfcbc4cfcecfca",
             "關係文書": []
         }
     ]
