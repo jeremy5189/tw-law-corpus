@@ -1,8 +1,8 @@
 {
     "title": "道路交通管理處罰條例",
     "versions": [
-        "中華民國100年4月22日修正",
-        "中華民國100年5月11日公布"
+        "中華民國100年5月3日修正",
+        "中華民國100年5月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -356,7 +356,7 @@
         {
             "note": "",
             "rule_no": "第四十五條",
-            "content": "　　汽車駕駛人，爭道行駛有下列情形之一者，處新臺幣六百元以上一千八百元以下罰鍰：\n　　一、不按遵行之方向行駛。\n　　二、在單車道駕車與他車並行。\n　　三、不依規定駛入來車道。\n　　四、在多車道不依規定駕車。\n　　五、插入正在連貫行駛汽車之中間。\n　　六、駕車行駛人行道。\n　　七、行至無號誌之圓環路口，不讓已進入圓環之車輛先行。\n　　八、行經多車道之圓環，不讓內側車道之車輛先行。\n　　九、支線道車不讓幹線道車先行。少線道車不讓多線道車先行。車道數相同時，左方車不讓右方車先行。\n　　十、起駛前，不讓行進中之車輛、行人優先通行。\n　　十一、聞消防車、救護車、警備車、工程救險車之警號，不立即避讓或在後跟隨急駛，或駛過在救火時放置於路上之消防水帶。\n　　十二、任意駛出邊線，或任意跨越兩條車道行駛。\n　　十三、機器腳踏車，不在規定車道行駛。\n　　十四、遇幼童專用車、校車不依規定禮讓，或減速慢行。\n　　十五、行經無號誌交叉路口及巷道不依規定或標誌、標線指示。",
+            "content": "　　汽車駕駛人，爭道行駛有下列情形之一者，處新臺幣六百元以上一千八百元以下罰鍰：\n　　一、不按遵行之方向行駛。\n　　二、在單車道駕車與他車並行。\n　　三、不依規定駛入來車道。\n　　四、在多車道不依規定駕車。\n　　五、插入正在連貫行駛汽車之中間。\n　　六、駕車行駛人行道。\n　　七、行至無號誌之圓環路口，不讓已進入圓環之車輛先行。\n　　八、行經多車道之圓環，不讓內側車道之車輛先行。\n　　九、支線道車不讓幹線道車先行。少線道車不讓多線道車先行。車道數相同時，左方車不讓右方車先行。\n　　十、起駛前，不讓行進中之車輛、行人優先通行。\n　　十一、聞消防車、救護車、警備車、工程救險車之警號，不立即避讓或在後跟隨急駛，或駛過在救火時放置於路上之消防水帶。\n　　十二、任意駛出邊線，或任意跨越兩條車道行駛。\n　　十三、機器腳踏車，不在規定車道行駛。\n　　十四、遇幼童專用車、校車不依規定禮讓，或減速慢行。\n　　十五、行經無號誌交叉路口及巷道不依規定或標誌、標線指示。\n　　聞消防車、救護車、警備車、工程救險車之警號，不避讓者，並吊扣駕駛執照三個月。",
             "relates": {}
         },
         {
@@ -416,7 +416,7 @@
         {
             "note": "",
             "rule_no": "第五十五條",
-            "content": "　　汽車駕駛人，臨時停車有下列情形之一者，處新臺幣三百元以上六百元以下罰鍰：\n　　一、在橋樑、隧道、圓環、障礙物對面、人行道、行人穿越道、快車道臨時停車。\n　　二、在交岔路口、公共汽車招呼站十公尺內或消防車出、入口五公尺內臨時停車。\n　　三、在設有禁止臨時停車標誌、標線處所臨時停車。\n　　四、不依順行之方向，或不緊靠道路右側，或單行道不緊靠路邊，或併排臨時停車。\n　　五、在道路交通標誌前臨時停車，遮蔽標誌。",
+            "content": "　　汽車駕駛人，臨時停車有下列情形之一者，處新臺幣三百元以上六百元以下罰鍰：\n　　一、在橋樑、隧道、圓環、障礙物對面、人行道、行人穿越道、快車道臨時停車。\n　　二、在交岔路口、公共汽車招呼站十公尺內或消防車出、入口五公尺內臨時停車。\n　　三、在設有禁止臨時停車標誌、標線處所臨時停車。\n　　四、不依順行之方向，或不緊靠道路右側，或單行道不緊靠路邊，或併排臨時停車。\n　　五、在道路交通標誌前臨時停車，遮蔽標誌。\n　　接送行動不便之人上、下車者，臨時停車不受三分鐘之限制。",
             "relates": {}
         },
         {
@@ -580,7 +580,7 @@
         {
             "note": "",
             "rule_no": "第七十八條",
-            "content": "　　行人在道路上有下列情形之一者，處新臺幣三百元罰鍰：\n　　一、不依標誌、標線、號誌之指示或警察指揮。\n　　二、不在劃設之人行道通行，或無正當理由，在未劃設人行道之道路不靠邊通行。\n　　三、不依規定，擅自穿越車道。\n　　四、於交通頻繁之道路或鐵路平交道附近任意奔跑、追逐、嬉遊或坐、臥、蹲、立，足以阻礙交通。",
+            "content": "　　行人在道路上有下列情形之一者，處新臺幣三百元罰鍰：\n　　一、不依標誌、標線、號誌之指示或警察指揮。\n　　二、不在劃設之人行道通行，或無正當理由，在未劃設人行道之道路不靠邊通行。\n　　三、不依規定，擅自穿越車道。\n　　四、於交通頻繁之道路或鐵路平交道附近任意奔跑、追逐、嬉遊或坐、臥、蹲、立，足以阻礙交通。\n　　使用行動輔具之身心障礙者，因人行道有障礙物致違反前項第二款規定者，不予處罰。",
             "relates": {}
         },
         {
@@ -743,45 +743,86 @@
         }
     ],
     "law_reasons": {
-        "第三十一條": "　　一、鑑於國內屢有小型車後座乘客因未繫安全帶致於發生事故時受到重大傷害或死亡，且國外已普遍規定小型車後座乘客亦應繫安全帶，國內各界亦有共識之情形下，為建立小型車後座乘客繫安全帶之安全習慣及觀念，進而維護其乘車之安全，爰修正第一項規定小型車行駛於道路，其後座乘客亦應繫安全帶。並於第一項及第二項條文，增列「但計程車駕駛人已盡告知義務，乘客仍未繫安全帶時，處罰該乘客」等文字。至如何妥適安全地繫安全帶、兒童、孕婦、醫療特殊情形或計程車搭載兒童乘客等需特別考量相關處理配套及實施方式等事項，一併授權由交通部定之。\n　　二、本條例第三十三條已規定快速公路與高速公路適用相同之特別行車管制，爰修正第二項規定，增列快速道路，俾使相關條文規定一致。\n　　三、第三項適用範圍應包含小型客貨兩用車，爰將「小客車」修正為「小型車」，另酌作文字修正。\n　　四、第四項至第六項維持現行條文未修正。"
+        "第四十五條": "　　第一項未修正，增列第二項條文：「聞消防車、救護車、警備車、工程救險車之警號，不避讓者，並吊扣駕駛執照三個月。」",
+        "第五十五條": "　　第一項未修正，增列第二項條文：「接送行動不便之人上、下車者，臨時停車不受三分鐘之限制。」",
+        "第七十八條": "　　第一項未修正，增列第二項條文：「使用行動輔具之身心障礙者，因人行道有障礙物致違反前項第二款規定者，不予處罰。」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0990423",
-            "立法紀錄": "099卷029期3794號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cfc6c6cfcdc6cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "涂醒哲",
+            "會議日期": "0970708",
+            "立法紀錄": "097卷047期3658號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdc981c6c8cbc8cfcfc4cfcfcfcec4cfcfcfcd",
+            "主提案": "王幸男",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecfcfcec5cecfcad2cecfc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec7cfcec5c6cfd2c6c9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1000304",
-            "立法紀錄": "100卷014期3866號 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cecfcfcfcecbcfcec4cfcfcfcec4cfcfcfcd",
-            "主提案": "黃昭順",
+            "會議日期": "0980106",
+            "立法紀錄": "098卷003期3689號二冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdc981c6c7cfcccfcdc4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳節如",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfccc8cdc5cec6d2cdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec9cfcec5c8c7d2c7cd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1000304",
-            "立法紀錄": "100卷014期3866號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cecfcfcfcecbcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "朱鳳芝",
+            "會議日期": "0981009",
+            "立法紀錄": "098卷051期3737號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdc981c6c7cacecfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "王幸男",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfccc8cdc5cecad2cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcbcfcec5cac6d2c9cd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "0990107",
+            "立法紀錄": "099卷005期3770號一冊 3-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cfc6c6cfcfcacfcec4cfcfcfccc4cfcfcfcb",
+            "主提案": "吳育昇",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcec8cfcec5cdcccfd2cdccc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcfc7cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "羅淑蕾",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecacfcec5cec6c9d2cec6c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000222",
+            "立法紀錄": "100卷012期3864號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcecdcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "薛凌",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcec8cdc5ced2cb"
                 ]
             ]
         },
@@ -789,54 +830,92 @@
             "進度": "一讀",
             "會議日期": "1000311",
             "立法紀錄": "100卷015期3867號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cecfcfcfcecacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "羅明才",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcecacfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "王幸男",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcbc8cdc5c6d2cecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcbc8cdc5ced2cb"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1000325",
-            "立法紀錄": "100卷021期3873號一冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cecfcfcfcdcecfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "1000311",
+            "立法紀錄": "100卷015期3867號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcecacfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "蔡錦隆",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9c8cdc5cec9cad2cec9c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcbc8cdc5cad2c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000318",
+            "立法紀錄": "100卷017期3869號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcec8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "邱毅",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcac8cdc5cad2c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000318",
+            "立法紀錄": "100卷017期3869號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcec8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "陳根德",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcac8cdc5ced2cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000331",
-            "立法紀錄": "100卷027期3879號 239-280頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cecfcfcfcdc8cfcec4cfcdccc6c4cfcdc7cf",
+            "會議日期": "0971224",
+            "立法紀錄": "098卷004期3690號一冊 98-134頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc8cdc981c6c7cfcbcfcec4cfcfc6c7c4cfcecccb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000414",
+            "立法紀錄": "100卷032期3884號 381-436頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcccdcfcec4cfccc7cec4cfcbccc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000422",
-            "立法紀錄": "100卷031期3883號一冊 279-292頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cecfcfcfcccecfcec4cfcdc8c6c4cfcdc6cd",
-            "關係文書": []
+            "會議日期": "1000503",
+            "立法紀錄": "100卷034期3886號 112-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcccbcfcec4cfcececdc4cfcecacd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cececfccc5c6c8d2cecbcf"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1000422",
-            "立法紀錄": "100卷031期3883號一冊 292-293頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cecfcfcfcccecfcec4cfcdc6cdc4cfcdc6cc",
+            "會議日期": "1000503",
+            "立法紀錄": "100卷034期3886號 152-154頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcccbcfcec4cfcecacdc4cfcecacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1000422",
-            "立法紀錄": "100卷031期3883號一冊 293-293頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdcb81cecfcfcfcccecfcec4cfcdc6ccc4cfcdc6cc",
+            "會議日期": "1000503",
+            "立法紀錄": "100卷034期3886號 154-155頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cdc981cecfcfcfcccbcfcec4cfcecacbc4cfcecaca",
             "關係文書": []
         }
     ]
