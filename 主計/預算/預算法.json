@@ -1,8 +1,8 @@
 {
     "title": "預算法",
     "versions": [
-        "中華民國100年1月12日修正",
-        "中華民國100年1月26日公布"
+        "中華民國100年5月6日修正",
+        "中華民國100年5月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -430,7 +430,7 @@
         {
             "note": "(預算重行審查)",
             "rule_no": "第六十七條",
-            "content": "　　各機關重大工程之投資計畫，超過五年未動用預算者，其預算應重行審查。",
+            "content": "　　各機關重大工程之投資計畫，超過四年未動用預算者，其預算應重行審查。",
             "relates": {}
         },
         {
@@ -645,34 +645,46 @@
         }
     ],
     "law_reasons": {
-        "第六十二條 之一": "　　一、本條新增。\n　　二、照黨團協商條文通過。"
+        "第六十七條": "　　一、就責任政治角度論之，第七屆國會起立委任期已修正為四年，行政部門與立法部門一致可充分體現民主政治與責任政治精神。\n　　二、依據預算法第八條，政府機關於未來四個會計年度所需支用之經費，立法機關得為未來承諾之授權。準此，行政機關各部門尤當加強預算籌編前之先期規劃，並強化預算執行之控管；同時歲出預算動用期限亦宜配合立委任期一併規範為四年。如此設計似較符合預算制度與立委任期之一致性，並得彰顯責任政治精神。\n　　"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1000107",
-            "立法紀錄": "100卷8期3860號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcc81cecfcfcfcfc7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "民進黨黨團",
+            "會議日期": "971128",
+            "立法紀錄": "97卷69期3680號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcb81c6c8c9c6cfcfc4cfcfcfc8c4cfcfcfc8",
+            "主提案": "盧秀燕",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecac8cdc5c8ccd2c8c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec6cfcec5cec8c7d2cec7cf"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1000112",
-            "立法紀錄": "100卷8期3860號三冊 373-374頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcc81cecfcfcfcfc7cfccc4cfccc8ccc4cfccc8cb",
+            "進度": "委員會審查",
+            "會議日期": "1000418",
+            "立法紀錄": "100卷33期3885號 389-424頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcb81cecfcfcfcccccfcec4cfccc7c6c4cfcbcdcb",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000506",
+            "立法紀錄": "100卷37期3889號一冊 32-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcb81cecfcfcfccc8cfcec4cfcfcccdc4cfcfccca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecdcfccc5cecdc8d2cecccf"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1000112",
-            "立法紀錄": "100卷8期3860號三冊 374-374頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcc81cecfcfcfcfc7cfccc4cfccc8cbc4cfccc8cb",
+            "會議日期": "1000506",
+            "立法紀錄": "100卷37期3889號一冊 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcb81cecfcfcfccc8cfcec4cfcfcccac4cfcfccca",
             "關係文書": []
         }
     ]
