@@ -1,11 +1,11 @@
 {
     "title": "行政院衛生署藥物食品檢驗局組織條例",
     "versions": [
-        "中華民國84年12月19日全文修正",
-        "中華民國85年1月10日公布"
+        "中華民國100年5月20日廢止",
+        "中華民國100年6月8日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,65 +82,32 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　本條未修正。",
-        "第二條": "　　第四款「暨」字修正為「與」字，其餘各款未修正。",
-        "第三條": "　　文字修正。",
-        "第四條": "　　本條未修正。",
-        "第五條": "　　局長、副局長之官職等，參照行政院衛生署所屬機關職務列等體例予以增列，並酌作文字修正。",
-        "第六條": "　　一、主任秘書、組長官職等參照交通部中央氣象局職務列等體例增列。\n　　二、職稱方面增列「副研究員」及「專員」二職稱，刪除「技佐」職稱。\n　　三、員額方面減少委任職位，增加薦任、簡任之職位。\n　　四、按一般體例將部分職稱順序酌予調整；並將研究員職務修正為「列薦任第九職等或簡任第十職等至第十一職等」，俾符合公務人員任用法第六條之規定；另將副研究員職務修正為「薦任第八職等至第九職等」。\n　　五、將「雇員」修正為「書記」，並增列第二項，以保障現職雇員之權益。",
-        "第七條": "　　一、配合政風室之成立，修正本條文，並將會計室之設置移列於修正條文第八條。刪除置「副主任」規定。\n　　二、增列職務列等。",
-        "第八條": "　　一、配合政風室之成立，修正本條文，並將會計室之設置移列於修正條文第八條。刪除置「副主任」規定。\n　　二、增列職務列等。",
-        "第九條": "　　一、本條新增。\n　　二、配合新制公務人員任用法之規定，並參照一般機關最近制定或修正組織條例之立法體例增訂本條。\n　　三、第二項參照「行政院國家科學委員會組織條例」第十七條體例，增列本局研究員、副研究員，必要時得依聘用人員聘用條例聘用。",
-        "第十條": "　　條次變更，內容未修正。",
-        "第十一條": "　　條次變更，並作文字修正。",
-        "第十二條": "　　條次變更，內容未修正。"
-    },
+    "deprecated_reason": "　　「行政院衛生署藥物食品檢驗局組織條例」及「行政院衛生署管制藥品管理局組織條例」，經提99年3月4日行政院第3185次會議決議通過，送請立法院審議廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830325",
-            "立法紀錄": "83卷19期2693號 221-221頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc8c881c7cccec6cfcfc4cfcdcdcec4cfcdcdce",
-            "主提案": "行政院",
+            "會議日期": "0990514",
+            "立法紀錄": "099卷036期3801號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc8c781cfc6c6cfccc9cfcec4cfcfcfcbc4cfcfcfcb",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccfc6cfcec5c7cbd2c6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfcacfcec5cdcfc6d2cdcecc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "840525",
-            "立法紀錄": "84卷34期2791號 327-335頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc8c881c7cbcccbcfcfc4cfcccdc8c4cfccccca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "841219",
-            "立法紀錄": "84卷63期2820號上冊 173-188頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc8c881c7cbc9cccfcec4cfcec8ccc4cfcec7c7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cecfcfcec5c7cacfd2c7c9ce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "841219",
-            "立法紀錄": "84卷63期2820號上冊 188-194頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc8c881c7cbc9cccfcec4cfcec7c7c4cfcec6cb",
+            "會議日期": "1000428",
+            "立法紀錄": "100卷038期3890號 213-292頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc8c781cecfcfcfccc7cfcec4cfcdceccc4cfcdc6cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "841219",
-            "立法紀錄": "84卷63期2820號上冊 194-194頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc8c881c7cbc9cccfcec4cfcec6cbc4cfcec6cb",
+            "會議日期": "1000520",
+            "立法紀錄": "100卷042期3894號 76-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc8c781cecfcfcfcbcdcfcec4cfcfc8c9c4cfcfc7cf",
             "關係文書": []
         }
     ]
