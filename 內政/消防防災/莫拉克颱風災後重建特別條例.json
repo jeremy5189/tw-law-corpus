@@ -1,8 +1,8 @@
 {
     "title": "莫拉克颱風災後重建特別條例",
     "versions": [
-        "中華民國98年12月15日修正",
-        "中華民國98年12月30日公布"
+        "中華民國100年5月24日修正",
+        "中華民國100年6月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -102,7 +102,7 @@
         {
             "note": "",
             "rule_no": "第十六條",
-            "content": "　　產業或企業因颱風災害影響而發生營運困難者，中央執行機關得予以紓困。\n　　前項發生營運困難產業或企業之認定、紓困措施與基準及其他應遵行事項之辦法，由中央執行機關擬訂，報行政院核定。\n　　營利事業對颱風災民救助及重建之捐贈，得於申報所得稅時，列為當年度費用或損失，不受金額之限制，不適用所得稅法第三十六條之規定。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -186,51 +186,97 @@
         {
             "note": "",
             "rule_no": "第三十條",
-            "content": "　　本條例自公布日施行，適用期間為三年。",
+            "content": "　　本條例自公布日施行，適用期間為三年。\n　　本條例施行期滿未及執行部分，必要時，得經行政院核定酌予延長，延長期間最多以二年為限。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十七條": "　　一、新增第四項。\n　　二、受災民眾領取之救助金或臨時工作津貼，係為扶助重建生活秩序所需，屬社會救助性質自不應作為扣押、抵銷、供擔保或強制執行之標的；乃比照其他社會救助規範進行修正。"
+        "第十六條": "　　一、整條刪除。\n　　二、「莫拉克颱風災後重建特別條例」於98年三讀通過時因立法瑕疵致有關企業紓困部分重複於第十六條與第十九條規範，爰補正刪除之。",
+        "第三十條": "　　莫拉克颱風災後重建工作繁巨，三年期程的規定實不符現行復建工作所需時間，為讓重建工作能持續有效進行，讓受災民眾安心，將莫拉克颱風災後重建期程延長2年。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "981016",
-            "立法紀錄": "98卷53期3739號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbc9cf81c6c7cacccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "潘孟安",
+            "會議日期": "1000408",
+            "立法紀錄": "100卷025期3877號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cecfcfcfcdcacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "管碧玲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcac8cdc5cbc8d2cbc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc7c8cdc5cac8d2c9cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "0990607",
+            "立法紀錄": "099卷046期3811號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cfc6c6cfcbc9cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "簡肇棟",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacec9cfcec5cdcdcbd2cdcdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "981105",
-            "立法紀錄": "98卷67期3753號 1-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbc9cf81c6c7c9c8cfcfc4cfcfcfcec4cfcfccc7",
+            "會議日期": "1000509",
+            "立法紀錄": "100卷042期3894號 296-339頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cecfcfcfcbcdcfcec4cfcdc6c9c4cfccccc6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "981215",
-            "立法紀錄": "98卷75期3761號二冊 241-245頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbc9cf81c6c7c8cacfcdc4cfcdcbcec4cfcdcbca",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000524",
+            "立法紀錄": "100卷042期3894號 100-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cecfcfcfcbcdcfcec4cfcecfcfc4cfcecfc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc6cfccc5c9cbc7d2c9cacd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecbcfcdc5c9cfc7d2c9cec9"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecbcfcdc5c9cec7d2c9cdcf"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000524",
+            "立法紀錄": "100卷042期3894號 110-113頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cecfcfcfcbcdcfcec4cfcececfc4cfcececc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000524",
+            "立法紀錄": "100卷042期3894號 109-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cecfcfcfcbcdcfcec4cfcecfc6c4cfcecfc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000524",
+            "立法紀錄": "100卷042期3894號 113-113頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cecfcfcfcbcdcfcec4cfcececcc4cfcececc",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "981215",
-            "立法紀錄": "98卷75期3761號二冊 245-245頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6cbc9cf81c6c7c8cacfcdc4cfcdcbcac4cfcdcbca",
+            "會議日期": "1000524",
+            "立法紀錄": "100卷042期3894號 109-110頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cecfcfcfcbcdcfcec4cfcecfc6c4cfcececf",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1000524",
+            "立法紀錄": "100卷042期3894號 113-113頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6cbc9ce81cecfcfcfcbcdcfcec4cfcececcc4cfcececc",
             "關係文書": []
         }
     ]
