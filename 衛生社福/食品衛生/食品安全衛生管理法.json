@@ -1,8 +1,8 @@
 {
     "title": "食品安全衛生管理法",
     "versions": [
-        "中華民國99年1月5日修正",
-        "中華民國99年1月27日公布"
+        "中華民國100年6月10日修正",
+        "中華民國100年6月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -232,9 +232,9 @@
             "relates": {}
         },
         {
-            "note": "(廢止營業或工廠登記證照之行為)",
+            "note": "(食品添加物或食品器具有毒及違反食品衛生安全之處罰)",
             "rule_no": "第三十一條",
-            "content": "　　有下列行為之一者，處新臺幣六萬元以上三十萬元以下罰鍰；一年內再次違反者，並得廢止其營業或工廠登記證照：\n　　一、違反第十一條第一項第一款至第七款或第十五條規定。\n　　二、違反依第二十條第一項規定，經令其限期改正，屆期不改正。\n　　三、違反前條之禁止命令。",
+            "content": "　　有下列行為之一者，處新臺幣六萬元以上六百萬元以下罰鍰；情節重大者，並得命其歇業一定期間、停業或廢止其公司、商業或工廠登記：\n　　一、違反第十一條第一項第一款至第七款或第十五條規定。\n　　二、違反第二十條第一項規定，經令其限期改正，屆期不改正。\n　　三、違反前條之禁止命令。",
             "relates": {}
         },
         {
@@ -250,9 +250,9 @@
             "relates": {}
         },
         {
-            "note": "(危害人體健康之處罰)",
+            "note": "(食品添加有毒或有害人體健康物質之處罰)",
             "rule_no": "第三十四條",
-            "content": "　　有第三十一條至前條行為，致危害人體健康者，處三年以下有期徒刑、拘役或科或併科新臺幣十八萬元以上九十萬元以下罰金。\n　　法人之代表人、法人或自然人之代理人、受僱人或其他從業人員，因執行業務犯前項之罪者，除處罰其行為人外，對該法人或自然人科以前項之罰金。\n　　因過失犯第一項之罪者，處六個月以下有期徒刑、拘役或科新臺幣十萬元以下罰金。",
+            "content": "　　有第三十一條至前條行為，致危害人體健康者，處七年以下有期徒刑、拘役或科或併科新臺幣一千萬元以下罰金。\n　　法人之代表人、法人或自然人之代理人、受僱人或其他從業人員，因執行業務犯前項之罪者，除處罰其行為人外，對該法人或自然人科以前項之罰金。\n　　因過失犯第一項之罪者，處一年以下有期徒刑、拘役或科新臺幣六百萬元以下罰金。",
             "relates": {}
         },
         {
@@ -297,80 +297,61 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　一、增訂第三項，將原法第十一條第一項第三款「有害人體健康之物質」之內涵作部分定義。由於原法對違反第十一條第一項第三款者，於第三十一條及第三十四條已有罰則規定，即可適用。\n　　二、規定雖非疫區，而近十年內有發生牛海綿狀腦病或新型庫賈氏症病例之國家或地區（風險可控制之國家或地區），限制其牛隻高風險部位之進口，以維護國人健康。\n　　三、就各界爭議焦點之牛絞肉及內臟部位，規定未經逐箱開箱、解凍、組織查驗確認無害之絞肉及內臟，禁止進口。將來在實際執行面，美國牛隻之絞肉及內臟部位，須經逐箱開箱、解凍、組織全面查驗確認無害後，方得進口。則進口業者須承受牛絞肉及內臟因解凍及組織查驗而品質損壞、程序及時間拖延、倉儲成本增加，致無利可圖之風險，預期其申請輸入該部位之意願將大為降低，則實質上亦達到阻絕於境外之效果。"
+        "第三十一條": "　　一、原罰鍰額度及一年內再次違反始得廢止證照規定，難以遏止重大犯行，爰提高罰鍰上限，並改以情節輕重情形，作為是否命其歇業或廢止相關登記之判準。\n　　二、又依本條處以罰鍰者，得連續為之，併予敘明。",
+        "第三十四條": "　　一、故意於食品中添加有毒或有害人體健康物質之行為，係屬嚴重之犯罪行為，為同時遏阻類此行為，爰修正第一項對於犯罪行為人提高刑度及罰金，以達遏阻不肖廠商之效果。\n　　二、第二項未修正。\n　　三、對於過失犯行者，因其行為對民眾食品衛生安全及消費者權益影響甚鉅，亦應提高刑度及罰金，以為規範，爰修正第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "981103",
-            "立法紀錄": "98卷59期3745號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac8cf81c6c7cac6cfcfc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "1000603",
+            "立法紀錄": "100卷47期3899號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8cac8cd81cecfcfcfcbc8cfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc8c8cdc5cececad2cecec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec9c8cdc5cec8ced2cec8cb"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "981106",
-            "立法紀錄": "98卷62期3748號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac8cf81c6c7c9cdcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "薛凌",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc7c8cdc5cac8d2cac7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981106",
-            "立法紀錄": "98卷62期3748號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac8cf81c6c7c9cdcfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "1000603",
+            "立法紀錄": "100卷47期3899號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8cac8cd81cecfcfcfcbc8cfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "黃義交",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc7c8cdc5cac6d2c9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec9c8cdc5cec8cad2cec8c7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "981218",
-            "立法紀錄": "98卷77期3763號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac8cf81c6c7c8c8cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "國民黨黨團",
+            "會議日期": "1000603",
+            "立法紀錄": "100卷47期3899號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8cac8cd81cecfcfcfcbc8cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "楊麗環",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecbc8cdc5c8ced2c8cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec9c8cdc5cec8c6d2cec7cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "981222",
-            "立法紀錄": "98卷77期3763號 135-140頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8cac8cf81c6c7c8c8cfcfc4cfcecccac4cfcecbcf",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "990105",
-            "立法紀錄": "99卷3期3768號一冊 41-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8cac8cf81cfc6c6cfcfcccfcec4cfcfcbcec4cfcfcbcb",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷49期3901號一冊 58-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8cac8cd81cecfcfcfcbc6cfcec4cfcfcac7c4cfcfc9ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "990105",
-            "立法紀錄": "99卷3期3768號一冊 44-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8cac8cf81cfc6c6cfcfcccfcec4cfcfcbcbc4cfcfcbc6",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷49期3901號一冊 65-65頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8cac8cd81cecfcfcfcbc6cfcec4cfcfc9cac4cfcfc9ca",
             "關係文書": []
         }
     ]
