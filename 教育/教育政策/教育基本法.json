@@ -1,8 +1,8 @@
 {
     "title": "教育基本法",
     "versions": [
-        "中華民國95年12月12日修正",
-        "中華民國95年12月27日公布"
+        "中華民國100年6月14日修正",
+        "中華民國100年6月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -66,7 +66,7 @@
         {
             "note": "(教育審議委員會)",
             "rule_no": "第十條",
-            "content": "　　直轄市及縣（市）政府應設立教育審議委員會，定期召開會議，負責主管教育事務之審議、諮詢、協調及評鑑等事宜。\n　　前項委員會之組成，由直轄市及縣（市）政府首長或教育局局長為召集人，成員應包含教育學者專家、家長會、教師會、教師、社區、弱勢族群、教育及學校行政人員等代表；其設置辦法由直轄市、縣（市）政府定之。",
+            "content": "　　直轄市及縣（市）政府應設立教育審議委員會，定期召開會議，負責主管教育事務之審議、諮詢、協調及評鑑等事宜。\n　　前項委員會之組成，由直轄市及縣（市）政府首長或教育局局長為召集人，成員應包含教育學者專家、家長會、教師會、教師工會、教師、社區、弱勢族群、教育及學校行政人員等代表；其設置辦法由直轄市、縣（市）政府定之。",
             "relates": {}
         },
         {
@@ -108,80 +108,73 @@
         {
             "note": "(公布日)",
             "rule_no": "第十七條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法除中華民國一百年六月十四日修正之條文，其施行日期由行政院定之外，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第八條": "　　參酌聯合國兒童權利公約前言、第十九條第一項以及第二十八條第二項，肯定教育過程中，學生之身體完整性及人性尊嚴應受尊重，並且不受照護者之暴力對待。（註：兒童權利公約定義之「兒童」乃十八歲以下之自然人）爰予以修正之。",
-        "第十五條": "　　配合本法第八條第二項之修正，第十五條規範之救濟範圍自納入學生受教育權、身體自主權及人格發展權。"
+        "第十條": "　　照黨團協商條文通過。",
+        "第十七條": "　　配合「教師法」部分條文修正案之施行日期，由行政院定之，爰明定本法本次修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941014",
-            "立法紀錄": "94卷52期3434號一冊 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cbcacdcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "管碧玲",
+            "會議日期": "0980612",
+            "立法紀錄": "098卷042期3728號一冊 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cb81c6c7cbcdcfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5c7c9d2c7c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5cec7cad2cec6c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "941123",
-            "立法紀錄": "94卷74期3456號二冊 155-168頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cbc8cbcfcdc4cfcecacac4cfcec9c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "941228",
-            "立法紀錄": "95卷3期3464號 205-206頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacfcccfcfc4cfcdcfcac4cfcdcfc9",
+            "會議日期": "1000314",
+            "立法紀錄": "100卷020期3872號 2-57頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcdcfcfcec4cfcfcfcdc4cfcfcac8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "950106",
-            "立法紀錄": "95卷4期3465號一冊 52-56頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacfcbcfcec4cfcfcacdc4cfcfcac9",
+            "會議日期": "1000329",
+            "立法紀錄": "100卷021期3873號一冊 199-227頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcdcecfcec4cfcec6c6c4cfcdcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec7cfcdc5cdccd2cdc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcbc5cacfcfd2cacfcc"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "950526",
-            "立法紀錄": "95卷32期3493號一冊 289-289頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacccdcfcec4cfcdc7c6c4cfcdc7c6",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷049期3901號一冊 136-136頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcbc6cfcec4cfceccc9c4cfceccc9",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 208-209頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacac6cfcfc4cfcdcfc7c4cfcdcfc6",
+            "進度": "黨團協商",
+            "會議日期": "1000520",
+            "立法紀錄": "100卷049期3901號六冊 2623-2624頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcbc6cfc9c4cdc9cdccc4cdc9cdcb",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 209-209頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacac6cfcfc4cfcdcfc6c4cfcdcfc6",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷049期3901號五冊 2158-2159頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcbc6cfcac4cdcecac7c4cdcecac6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 209-210頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cc81c6cacac6cfcfc4cfcdcfc6c4cfcdcecf",
+            "會議日期": "1000614",
+            "立法紀錄": "100卷049期3901號五冊 2159-2159頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcbc6cfcac4cdcecac6c4cdcecac6",
             "關係文書": []
         }
     ]
