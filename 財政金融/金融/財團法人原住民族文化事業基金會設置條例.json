@@ -1,8 +1,8 @@
 {
     "title": "財團法人原住民族文化事業基金會設置條例",
     "versions": [
-        "中華民國98年5月12日修正",
-        "中華民國98年5月27日公布"
+        "中華民國100年6月10日修正",
+        "中華民國100年6月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本基金會之創立基金為新臺幣二千萬元，由主管機關編列預算捐助。",
+            "content": "　　本基金會之創立基金為新臺幣五千萬元，由主管機關編列預算捐助。",
             "relates": {}
         },
         {
@@ -60,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　董事、監察人人選由主管機關就原住民族代表、學者專家及社會公正人士中遴聘。\n　　前項原住民族代表，各不得少於董事、監察人人數之二分之一。\n　　董事之選任，除顧及原住民族之代表性，並應考量教育、藝文、傳播、民族之專業性。\n　　監察人應具有傳播、法律、會計或財務等相關經驗或學識。\n　　董事、監察人中屬同一政黨之人數各不得逾董事、監察人總額三分之一；董事、監察人於任期中不得參與政黨活動。",
+            "content": "　　董事、監察人人選之遴聘，依下列程序產生之：\n　　一、由立法院推舉十一至十三名原住民族代表及社會公正人士組成董事、監察人審查委員會（以下簡稱審查委員會）。\n　　二、由行政院提名董事、監察人候選人，提交審查委員會以三分之二以上之多數同意後，送請行政院院長聘任之。\n　　前項原住民族代表，不得少於審查會人數之二分之一。\n　　審查委員會委員不得為政黨黨務工作人員、政務人員及選任公職人員。審查委員會委員應親自出席，不得委託他人代理出席。\n　　董事之選任，除顧及原住民族之代表性，並應考量教育、藝文、傳播、民族之專業性。\n　　監察人應具有傳播、法律、會計或財務等相關經驗或學識。\n　　前二項之董事、監察人，原住民族代表不得少於二分之一。\n　　董事、監察人中屬同一政黨之人數各不得逾董事、監察人總額四分之一；董事、監察人於任期中不得參與政黨活動。",
             "relates": {}
         },
         {
@@ -161,48 +161,99 @@
         }
     ],
     "law_reasons": {
-        "第十六條": "　　配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產」修正為「監護」，並增訂「受輔助宣告」之相關規定，爰配合將原第四款之「禁治產」修正為「監護」，並考量本基金會之董事、監察人須具備經營管理、財務業務審核之能力，以受輔助宣告之人依民法第十五條之一規定，係指因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其意思表示效果之能力，顯有不足者，由其擔任本基金會董事、監察人有所不宜，爰增訂受輔助宣告之規定；其餘各款未修正。",
-        "第十八條": "　　執行長、副執行長分別負有受董事會監督執行本基金會業務、襄助執行長處理業務之責，其需具有相關業務執行能力，爰參照修正條文第十六條規定，將原第二款之「禁治產」修正為「監護」，並增訂受輔助宣告之規定；其餘各款未修正。",
-        "第二十五條": "　　一、原條文列為第一項。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日施行，本條例本次修正之條文亦定自同日施行，爰增訂第二項。"
+        "第五條": "　　為落實原住民族基本法、原住民族教育法及財團法人原住民族文化事業基金會（以下簡稱原文會）設置條例之規定，保障原住民傳播權益，行政院原住民族委員會應編足基金會之創立基金至5千萬元（根據財團法人原住民族文化事業基金會設置條例第五條規定原文會創立基金為2千萬元），以符合衛星廣電法之基本規定，申請頻道執照，始能獨立自主營運原住民族電視台。",
+        "第九條": "　　本法所稱原住民族文化傳播媒體事業係屬政府預算支應之公共媒體，唯原條文第九條董事、監察人之遴聘方式並未考慮杜絕黨政軍介入之機制，為落實原住民族文化傳播媒體事業成為公共媒體，爰提修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c9c8c681c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "0991224",
+            "立法紀錄": "100卷001期3853號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcfcecfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "孔文吉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecccfcec5cdcecbd2cdceca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "0970619",
+            "立法紀錄": "097卷042期3653號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c9c7cf81c6c8cbcdcfcfc4cfcfcfcac4cfcfcfca",
+            "主提案": "無黨團結聯盟",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec9cfcec5cdcfc9d2cdcfc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980427",
-            "立法紀錄": "98卷27期3713號 254-276頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c9c8c681c6c7cdc8cfcfc4cfcdcacbc4cfcdc8c9",
+            "會議日期": "1000105",
+            "立法紀錄": "100卷011期3863號二冊 128-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcececfcdc4cfcecdc7c4cfcecbce",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980512",
-            "立法紀錄": "98卷28期3714號 145-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c9c8c681c6c7cdc7cfcfc4cfcecbcac4cfcecbc6",
+            "進度": "委員會審查",
+            "會議日期": "1000530",
+            "立法紀錄": "100卷051期3903號 393-419頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcacecfcec4cfccc6ccc4cfcbcec6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷049期3901號一冊 75-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcbc6cfcec4cfcfc8cac4cfcfc8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcdc5cdcfcec9d2cdcec6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec8cfcac5cdc6d2cccd"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec8cfcac5ccccd2ccc8"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷049期3901號一冊 79-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcbc6cfcec4cfcfc8c6c4cfcfc7cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷049期3901號一冊 79-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcbc6cfcec4cfcfc8c6c4cfcfc8c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷049期3901號一冊 84-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcbc6cfcec4cfcfc7cbc4cfcfc7cb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "980512",
-            "立法紀錄": "98卷28期3714號 149-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c9c8c681c6c7cdc7cfcfc4cfcecbc6c4cfcecbc6",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷049期3901號一冊 79-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcbc6cfcec4cfcfc8c6c4cfcfc8c6",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷049期3901號一冊 84-84頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cf81cecfcfcfcbc6cfcec4cfcfc7cbc4cfcfc7cb",
             "關係文書": []
         }
     ]
