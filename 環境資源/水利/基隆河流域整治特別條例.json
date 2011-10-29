@@ -1,12 +1,10 @@
 {
     "title": "基隆河流域整治特別條例",
     "versions": [
-        "中華民國99年11月16日修正",
-        "中華民國99年12月8日公布"
+        "中華民國100年10月30日期滿廢止"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "廢止理由"
     ],
     "law_data": [
         {
@@ -58,49 +56,5 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第四條": "　　配合九十九年十二月二十五日臺北縣改制為「新北市」，爰將基隆河及基隆河流域所指「台北縣」行政區域內之河段及地區修正為「新北市」，並酌作文字修正。",
-        "第八條": "　　配合九十九年十二月二十五日臺北縣改制為「新北市」，爰增訂第二項，明定本條例本次修正之條文，自該日施行。"
-    },
-    "law_history": [
-        {
-            "進度": "一讀",
-            "會議日期": "0991001",
-            "立法紀錄": "99卷52期3817號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7cec8c781cfc6c6cfcacdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcdc8cdc5c6ced2c6cb"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "0991104",
-            "立法紀錄": "99卷69期3834號 84-102頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7cec8c781cfc6c6cfc9c6cfcec4cfcfc7cbc4cfcecfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "0991116",
-            "立法紀錄": "99卷66期3831號 190-192頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7cec8c781cfc6c6cfc9c9cfcec4cfcec6cfc4cfcec6cd",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfc7cfcdc5cbcfcad2cbcfc8"
-                ]
-            ]
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "0991116",
-            "立法紀錄": "99卷66期3831號 192-192頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7cec8c781cfc6c6cfc9c9cfcec4cfcec6cdc4cfcec6cd",
-            "關係文書": []
-        }
-    ]
+    "deprecated_reason": "　　施行期間屆滿，當然廢止。"
 }
