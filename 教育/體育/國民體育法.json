@@ -1,8 +1,8 @@
 {
     "title": "國民體育法",
     "versions": [
-        "中華民國96年6月15日修正",
-        "中華民國96年7月11日公布"
+        "中華民國100年10月25日修正",
+        "中華民國100年11月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -82,9 +82,9 @@
             "relates": {}
         },
         {
-            "note": "(優秀選手之培養)",
+            "note": "(優秀選手之培養制度)",
             "rule_no": "第十三條",
-            "content": "　　政府應建立優秀運動選手之培養制度；其辦法，由中央主管機關定之。\n　　各級學校得遴選優秀運動人才擔任專任運動教練；其任用依教育人員任用條例之規定；其資格，由中央主管機關定之；其待遇、服勤、職責、解聘、停聘、不續聘、申訴、福利、進修、成績考核、獎懲、年資晉薪及其他權益事項，由教育部定之。\n　　專任運動教練任用滿三年，經專任運動教練績效評量委員會評量其服務成績不通過者，不予續聘。專任運動教練之退休、撫卹、離職、資遣等事項，依教育人員相關規定辦理。\n　　前項專任運動教練績效評量委員會之組成及審核相關規定，由教育部定之。\n　　本法修正前經教育部、省市教育主管機關甄選、儲訓合格已受聘之現職專任運動教練任職年資及退休年資，於本法修正後應合併計算。\n　　本法修正前取得教育部或各級政府招考、儲訓合格聘用之專任運動教練，於本法修正施行後仍未取得前項聘任者，其輔導與管理辦法，由中央主管機關定之。\n　　第二項所稱專任運動教練，指各級學校專門從事運動團隊之訓練或比賽指導工作之人。",
+            "content": "　　政府應建立優秀運動選手之培養制度；其辦法，由中央主管機關定之。\n　　高級中等以下學校為培育優秀運動人才，得提出計畫報經該主管教育行政機關核定後設體育班；其設班基準、員額編制、入學測驗、編班方式、課程教學、訪視評鑑、停辦及其他相關事項之辦法，由教育部定之。\n　　前項學校設體育班者，每校至少置專任運動教練一人；其每年級均設體育班二班以上者，至少置專任運動教練二人。\n　　各級學校未設體育班者，得遴選專任運動教練，從事運動訓練或比賽指導工作。\n　　直轄市、縣（市）政府所屬學校設體育班者，每滿六班，直轄市、縣（市）政府得就中央主管機關指定之運動重點種類或項目，指定所屬學校增聘專任運動教練一人，巡迴各校從事運動訓練或比賽指導工作；其計畫報經中央主管機關核准，且員額總數在五人以下者，由中央主管機關全額補助其經費。\n　　專任運動教練之任用依教育人員任用條例之規定；其資格，由中央主管機關定之；其待遇、服勤、職責、解聘、停聘、不續聘、申訴、福利、進修、成績考核、獎懲、年資晉薪及其他權益事項，由教育部定之。\n　　專任運動教練任用滿三年，經專任運動教練績效評量委員會評量其服務成績不通過者，不予續聘。專任運動教練之退休、撫卹、離職、資遣等事項，依教育人員相關規定辦理。績效評量委員會之組成及審核相關規定，由教育部定之。\n　　本法中華民國九十六年七月十一日修正施行前經教育部、省市教育主管機關甄選、儲訓合格已受聘之現職專任運動教練任職年資及退休年資，於本法修正施行後應合併計算。\n　　本法中華民國九十二年二月六日修正施行前取得教育部或各級政府招考、儲訓合格聘用之專任運動教練，於本法修正施行後仍未取得前項聘任者，其輔導與管理辦法，由中央主管機關定之。\n　　本條中華民國一百年十月二十五日修正增訂之第五項，其實施日期，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -148,76 +148,69 @@
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941118",
-            "立法紀錄": "94卷70期3452號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6cbc8cfcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "洪秀柱",
+            "會議日期": "990528",
+            "立法紀錄": "99卷41期3806號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cfc6c6cfcbcecfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "王幸男",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcececfccc5cdc9c9d2cdc9c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecacfcec5cecbc9d2cecacb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "941214",
-            "立法紀錄": "94卷79期3461號一冊 137-161頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6cbc8c6cfcec4cfceccc8c4cfcec9ce",
+            "會議日期": "1000504",
+            "立法紀錄": "100卷40期3892號 1-74頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfcbcfcfcec4cfcfcfcec4cfcfc8cb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000519",
+            "立法紀錄": "100卷46期6898號 93-110頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfcbc9cfcec4cfcfc6ccc4cfcececf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 49-56頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6cacac6cfcfc4cfcfcbc6c4cfcfcac9",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷49期3901號三冊 1099-1107頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfcbc6cfccc4cecfc6c6c4cececfc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecfcfccc5ccceced2cccec7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec8cfcac5cecac6d2cec9c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "951219",
-            "立法紀錄": "96卷1期3524號 247-247頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cfcecfcfc4cfcdcbc8c4cfcdcbc8",
+            "進度": "黨團協商",
+            "會議日期": "1000601",
+            "立法紀錄": "100卷63期3915號 409-414頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfc9cccfcec4cfcbcfc6c4cfcbcecb",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "951226",
-            "立法紀錄": "96卷4期3527號 82-82頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cfcbcfcfc4cfcfc7cdc4cfcfc7cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960109",
-            "立法紀錄": "96卷10期3533號二冊 538-538頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cecfcfcdc4cfcaccc7c4cfcaccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "960116",
-            "立法紀錄": "96卷13期3536號一冊 267-267頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cecccfcec4cfcdc9c8c4cfcdc9c8",
+            "進度": "黨團協商",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷63期3915號 415-419頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfc9cccfcec4cfcbcecac4cfcbcec6",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "960615",
-            "立法紀錄": "96卷56期3579號一冊 431-432頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cac9cfcec4cfcbcccec4cfcbcccd",
+            "會議日期": "1001025",
+            "立法紀錄": "100卷63期3915號 148-153頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfc9cccfcec4cfcecbc7c4cfcecacc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "960615",
-            "立法紀錄": "96卷56期3579號一冊 432-432頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec9c6c9c981c6c9cac9cfcec4cfcbcccdc4cfcbcccd",
+            "會議日期": "1001025",
+            "立法紀錄": "100卷63期3915號 154-154頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfc9cccfcec4cfcecacbc4cfcecacb",
             "關係文書": []
         }
     ]
