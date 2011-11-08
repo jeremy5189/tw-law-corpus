@@ -1,8 +1,8 @@
 {
     "title": "教育基本法",
     "versions": [
-        "中華民國100年6月14日修正",
-        "中華民國100年6月29日公布"
+        "中華民國100年10月25日修正",
+        "中華民國100年11月9日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -52,9 +52,9 @@
             "relates": {}
         },
         {
-            "note": "(教師、學生、家長及學校之教育權責)",
+            "note": "(教師、學生、家長及學校之教育權責及霸凌防制)",
             "rule_no": "第八條",
-            "content": "　　教育人員之工作、待遇及進修等權利義務，應以法律定之，教師之專業自主應予尊重。\n　　學生之學習權、受教育權、身體自主權及人格發展權，國家應予保障，並使學生不受任何體罰，造成身心之侵害。\n　　國民教育階段內，家長負有輔導子女之責任；並得為其子女之最佳福祉，依法律選擇受教育之方式、內容及參與學校教育事務之權利。\n　　學校應在各級政府依法監督下，配合社區發展需要，提供良好學習環境。",
+            "content": "　　教育人員之工作、待遇及進修等權利義務，應以法律定之，教師之專業自主應予尊重。\n　　學生之學習權、受教育權、身體自主權及人格發展權，國家應予保障，並使學生不受任何體罰及霸凌行為，造成身心之侵害。\n　　國民教育階段內，家長負有輔導子女之責任，並得為其子女之最佳福祉，依法律選擇受教育之方式、內容及參與學校教育事務之權利。\n　　學校應在各級政府依法監督下，配合社區發展需要，提供良好學習環境。\n　　第二項霸凌行為防制機制、處理程序及其他應遵行事項之準則，由中央主管教育行政機關定之。",
             "relates": {}
         },
         {
@@ -113,68 +113,92 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　照黨團協商條文通過。",
-        "第十七條": "　　配合「教師法」部分條文修正案之施行日期，由行政院定之，爰明定本法本次修正條文之施行日期。"
+        "第八條": "　　一、原條文第二項業規定， 學生在校園學習時， 其身體自主權及人格發展權應受尊重與保障， 鑑於霸凌行為對學生人格發展影響甚鉅， 為維護學生基本人權， 各級學校防制霸凌行為之工作刻不容緩， 爰增列使學生不受任何霸凌行為侵害之規定。\n　　二、體罰與霸凌同屬侵害學生身心之行為，前者性質與輔導或管教學生事項相關， 教師法第十七條第二項業規定， 其辦法由各校校務會議定之； 為完善霸凌事件之處理及輔導， 爰增列第五項， 授權中央主管教育行政機關訂定霸凌行為防制機制等相關事項之準則，其防制機制將納入家長代表及教育、法律、社會工作專業人員， 與教育、警政、社政、法務等機關代表。\n　　三、第一項及第四項未修正。第三項酌作標點符號修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0980612",
-            "立法紀錄": "098卷042期3728號一冊 4-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacbc7cec9c9c6c6cb81c6c7cbcdcfcec4cfcfcfcbc4cfcfcfca",
+            "會議日期": "1000304",
+            "立法紀錄": "100卷014期3866號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6ca81cecfcfcfcecbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "蔣乃辛",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfccc8cdc5cecbc8d2cecacf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000325",
+            "立法紀錄": "100卷021期3873號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6ca81cecfcfcfcdcecfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": false,
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9c8cdc5cecdcad2cecdc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000520",
+            "立法紀錄": "100卷042期3894號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6ca81cecfcfcfcbcdcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "黃昭順",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecbcfcec5cececed2cececc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000610",
+            "立法紀錄": "100卷049期3901號一冊 11-12頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6ca81cecfcfcfcbc6cfcec4cfcfcecec4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecdcfcec5cec7cad2cec6c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec8c8cdc5cbceccd2cbceca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000314",
-            "立法紀錄": "100卷020期3872號 2-57頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcdcfcfcec4cfcfcfcdc4cfcfcac8",
+            "會議日期": "1001003",
+            "立法紀錄": "100卷061期3913號 4-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6ca81cecfcfcfc9cecfcec4cfcfcfcbc4cfcecfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000329",
-            "立法紀錄": "100卷021期3873號一冊 199-227頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcdcecfcec4cfcec6c6c4cfcdcdc8",
+            "會議日期": "1001025",
+            "立法紀錄": "100卷063期3915號 136-148頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6ca81cecfcfcfc9cccfcec4cfceccc9c4cfcecbc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcbc5cacfcfd2cacfcc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc9c8c9c5cececed2cecdcd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1000610",
-            "立法紀錄": "100卷049期3901號一冊 136-136頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcbc6cfcec4cfceccc9c4cfceccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1000520",
-            "立法紀錄": "100卷049期3901號六冊 2623-2624頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcbc6cfc9c4cdc9cdccc4cdc9cdcb",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1000614",
-            "立法紀錄": "100卷049期3901號五冊 2158-2159頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcbc6cfcac4cdcecac7c4cdcecac6",
+            "會議日期": "1001025",
+            "立法紀錄": "100卷063期3915號 148-148頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6ca81cecfcfcfc9cccfcec4cfcecbc7c4cfcecbc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1000614",
-            "立法紀錄": "100卷049期3901號五冊 2159-2159頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6cb81cecfcfcfcbc6cfcac4cdcecac6c4cdcecac6",
+            "會議日期": "1001025",
+            "立法紀錄": "100卷063期3915號 148-148頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbc7cec9c9c6c6ca81cecfcfcfc9cccfcec4cfcecbc7c4cfcecbc7",
             "關係文書": []
         }
     ]
