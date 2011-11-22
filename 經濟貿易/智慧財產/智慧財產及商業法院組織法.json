@@ -1,8 +1,8 @@
 {
     "title": "智慧財產及商業法院組織法",
     "versions": [
-        "中華民國99年4月27日修正",
-        "中華民國99年5月12日公布"
+        "中華民國100年11月4日修正",
+        "中華民國100年11月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -46,7 +46,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　智慧財產法院審判案件，民事第一審訴訟程序及行政訴訟簡易程序，以法官一人獨任行之；民事、刑事第二審上訴、抗告程序及行政訴訟通常程序，以法官三人合議行之。\n　　合議審判，以庭長充審判長；無庭長或庭長有事故時，以庭員中資深者充之，資同以年長者充之。\n　　獨任審判，即以該法官行審判長之職權。",
+            "content": "　　智慧財產法院審判案件，民事第一審訴訟程序，以法官一人獨任行之；民事、刑事第二審上訴、抗告程序及行政訴訟程序，以法官三人合議行之。\n　　合議審判，以庭長充審判長；無庭長或庭長有事故時，以庭員中資深者充之，資同以年長者充之。\n　　獨任審判，即以該法官行審判長之職權。",
             "relates": {}
         },
         {
@@ -313,66 +313,74 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　一、增列第二項。\n　　二、明確規定各地方法院及其分院檢察署辦理相關案件之直接上級法院檢察署檢察長為高等法院檢察署智慧財產分署檢察長。"
+        "第六條": "　　一、按智慧財產案件審理法修正增訂第三十條之一規定，行政訴訟法第二編第二章簡易訴訟程序之規定，於智慧財產行政訴訟不適用之。上開規定修正後，智慧財產法院辦理行政訴訟事件，均屬通常訴訟程序事件，並無簡易訴訟程序事件，爰現行第一項有關智慧財產法院辦理行政訴訟簡易程序及通常程序，分別以法官一人獨任、三人合議行之等相關文字配合刪除。\n　　二、第二項、第三項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980918",
-            "立法紀錄": "98卷46期3732號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cec7cd81c6c7cbc9cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "呂學樟",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcec8cdc5c8d2cecf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981120",
-            "立法紀錄": "98卷68期3754號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cec7cd81c6c7c9c7cfcfc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "991112",
+            "立法紀錄": "99卷66期3831號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cc81cfc6c6cfc9c9cfcec4cfcfcfcbc4cfcfcfcb",
             "主提案": "司法院、行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecfc8cdc5cecec6d2cecdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfc7cfcec5cdc7cbd2cdc7c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "990317",
-            "立法紀錄": "99卷17期3782號 402-443頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cd81cfc6c6cfcec8cfcec4cfcbcfcdc4cfcbcbcc",
+            "會議日期": "1000314",
+            "立法紀錄": "100卷19期3871號 391-432頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cc81cecfcfcfcec6cfcec4cfccc6cec4cfcbcccd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "990414",
-            "立法紀錄": "99卷28期3793號 313-329頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cd81cfc6c6cfcdc7cfcec4cfccceccc4cfcccdc6",
+            "會議日期": "1000316",
+            "立法紀錄": "100卷19期3871號 433-449頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cc81cecfcfcfcec6cfcec4cfcbccccc4cfcbcbc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000408",
+            "立法紀錄": "100卷25期3877號二冊 27-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cc81cecfcfcfcdcacfcdc4cfcfcdc8c4cfcfcdc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc7cfcbc5cbcdcdd2cbcdcb"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷49期3901號三冊 1081-1081頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cc81cecfcfcfcbc6cfccc4cecfc7cec4cecfc7ce",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1000504",
+            "立法紀錄": "100卷66期3918號 313-325頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cc81cecfcfcfc9c9cfcec4cfccceccc4cfcccdca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "990427",
-            "立法紀錄": "99卷29期3794號一冊 174-180頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cd81cfc6c6cfcdc6cfcec4cfcec8cbc4cfcec7cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecfcfcbc5c8cfcfd2c8cfca"
-                ]
-            ]
+            "會議日期": "1001104",
+            "立法紀錄": "100卷70期3922號 30-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cc81cecfcfcfc8cfcfcec4cfcfcccfc4cfcfcccf",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "990427",
-            "立法紀錄": "99卷29期3794號一冊 180-180頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cd81cfc6c6cfcdc6cfcec4cfcec7cfc4cfcec7cf",
+            "會議日期": "1001104",
+            "立法紀錄": "100卷70期3922號 30-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cec7cc81cecfcfcfc8cfcfcec4cfcfcccfc4cfcfcccf",
             "關係文書": []
         }
     ]
