@@ -1,8 +1,8 @@
 {
     "title": "社會救助法",
     "versions": [
-        "中華民國99年12月10日修正",
-        "中華民國99年12月29日公布"
+        "中華民國100年11月22日修正",
+        "中華民國100年12月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -164,7 +164,7 @@
         {
             "note": "",
             "rule_no": "第十六條 之二",
-            "content": "　　低收入戶及中低收入戶之家庭成員就讀國內公立或立案之私立高級中等以上學校，並符合第五條之三第一項第一款規定之範圍者，得申請減免學雜費；其減免額度、方式及其他應遵行事項之辦法，由各該主管教育行政機關定之。\n　　其他法令有性質相同之補助規定者，不得重複領取。",
+            "content": "　　低收入戶及中低收入戶之家庭成員就讀國內公立或立案之私立高級中等以上學校者，得申請減免學雜費；其減免額度、方式及其他應遵行事項之辦法，由各該主管教育行政機關定之。\n　　其他法令有性質相同之補助規定者，不得重複領取。\n　　第一項中華民國一百年十一月二十二日修正條文，自一百年八月一日施行。",
             "relates": {}
         },
         {
@@ -401,468 +401,46 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　社會救助之目的在於維護國民生活尊嚴，而原法之適用對象包括低收入家庭、陷入急難狀況家庭及遭受災害家庭；長期以來政府對於落入貧窮帶人口（包含低收入戶及低所得人），大部分資源較著重於最底層之低收入戶，至於因工作能力、家庭財產或扶養親屬等要件而不符合本法救助規定之低所得人口，除特定群體如老人等外，則較少提供協助。考量邇來經濟情勢變遷急速，此等人口一旦個人或家庭遭逢變故，生活將頓陷困境，如未能及時獲得協助，所遭受衝擊並不亞於低收入戶，爰將其納入本法救助對象範圍，以強化社會救助體系，並協助經濟弱勢者維持生計。",
-        "第三條": "　　依原條文增列第二項文字：「本法所定事項，涉及各目的事業主管機關職掌者，由各目的事業主管機關辦理。」，餘未作修正。",
-        "第四條": "　　照黨團協商條文通過。",
-        "第四條 之一": "　　一、本條新增。\n　　二、最低生活費之計算基準修正後，將減少非預期之變化，據此將最低生活費一點五倍以內之低所得家庭納為中低收入戶予以扶助，並於第一項予以定義。又對於目前已接受政府其他相關措施扶助者，如中低收入老人生活津貼、身心障礙者生活托育養護費用、特殊境遇家庭扶助、中低收入兒童及少年生活扶助、長期照顧服務、國民年金保費所得未達一定標準保費補助等審核標準高於最低生活費一點五倍者，仍將續予扶助，以保障其權益，併此敘明。\n　　三、第一項有關最低生活費、申請應檢附之文件及審核認定程序等，於第二項規定依低收入戶相關規定。至於家庭財產之範圍，雖亦包括動產及不動產，惟其金額應與低收入戶有所\n不同，爰於第三項規定之。",
-        "第五條": "　　照黨團協商條文通過。",
-        "第五條 之一": "　　照黨團協商條文通過。",
-        "第五條 之二": "　　照黨團協商條文通過。",
-        "第五條 之三": "　　照黨團協商條文通過。",
-        "第八條": "　　一、依原條文將「領取政府核發之救助金額」修正為「領取政府核發之救助總金額」。\n　　二、為避免社會救助給付過於優渥，造成國人福利依賴問題，影響工作意願，反而不利其自立和脫離貧窮，故明定接受政府核發之每人每月救助金額之總額，不得超過基本工資。",
-        "第九條": "　　一、基於權利義務對等原則，新增第一項規定申請人提供資料之義務。\n　　二、原條文第一項移列至第二項。",
-        "第九條 之一": "　　一、本條新增。\n　　二、為提高社會救助之可近性，確保低收入家庭能充分了解各項社會救助措施，避免其因資訊缺乏而喪失獲得救助機會，於第一項規定教育人員等六類人員因執行業務知悉有接受社會救助需要之個人或家庭時之通報機制。其他任何人知悉前開情形通報主管機關，主管機關亦須受理。\n　　三、第二項明定直轄市、縣(市)政府主管機關應派員調查之義務，俾利適時處理，以達立法目的。\n　　四、第三項授權中央主管機關訂定前二項之通報流程及處理時效。",
-        "第十二條": "　　依原條文將第一項「金額增加百分之二十至四十之補助」修正為「金額增加補助，但最高不得逾百分之四十」及將第一項第二款修正為「懷胎滿三個月。」。",
-        "第十三條": "　　一、配合中低收入戶納為本法救助範圍，修正原條文將其納入直轄市及縣（市）主管機關每年應定期辦理調查之對象，列為第一項。\n　　二、增訂第二項規定經地方政府於低收入戶及中低收入戶調查（總清查）審核未通過者，應主動評估其需求，協助申請其他相關福利補助或津貼，如中低收入老人生活津貼、身心障礙者生活補助、托育養護補助、中低收入兒童及少年生活扶助、特殊境遇單親家庭扶助及急難救助馬上關懷等，以免對其造成生活重大衝擊。又為避免該等甫脫貧之家庭再次落入貧窮困境，協助其穩定就業將有助於其自立，爰併規定地方政府得視需要提供或轉介相關就業服務。\n　　三、為確實掌握低收入戶及中低收入戶之需求及生活狀況，並考量各級政府辦理相關生活狀況調查之實際執行情形，爰參照身心障礙者權益保障法第十一條規定新增第三項，明定中央主管機關至少每五年應定期辦理調查，以蒐集低收入戶及中低收入戶之家庭組成、戶內人口健康狀況、住宅及經濟情況、有工作能力人口與其就業意願，及其對政府辦理社會救助、福利措施之利用、期望等資料，作為規劃救助措施、推行社會救助政策及修訂社會救助等相關法規之參據。",
-        "第十四條": "　　一、強化直轄市及縣（市）主管機關訪視功能，以適時提供必要協助及輔導。\n　　二、考量財稅資料之有限性，為使社會福利資源配置及運用更具效能，對於生活寬裕而與低收入戶、中低收入戶顯不相當者（例如生活浮華或所費不貲等情形），賦予直轄市及縣（市）主管機關調整其扶助等級或停止扶助權限。",
-        "第十五條": "　　一、穩定工作乃脫貧之要件，為鼓勵低收入戶及中低收入戶參與勞動市場，獲得穩定工作，直轄市、縣（市）主管機關應提供或轉介該等家戶中有工作能力者相關就業服務、職業訓練或以工代賑，增進其工作能力，協助其重返職場，爰修正第一項。至於不願接服務措施，或接受後不願工作者，不予扶助之規定則修正移列為第四項。\n　　二、原第二項生活補助費規定，因勞政主管機關已依就業服務法第二十四條規定，對於生活扶助戶即低收入戶有工作能力者提供求職交通補助金、職業訓練生活津貼及創業貸款利息補貼等相關補助，實務上地方主管機關並未依本項提供該等人員參訓期間生活補助費，爰予刪除，改為規定直轄市、縣（市）主管機關得視需要提供創業輔導、創業貸款利息補貼，並於求職期間發給交通補助及臨時托育津貼，以提高就業服務之多元性並降低求職期間所需負擔之額外支出。\n　　三、依據國內相關研究，當部分工作所得不列計家庭總收入時，可有效強化低收入戶之工作誘因，鼓勵失業之低收入者參與勞動市場，獲得穩定之工作習慣及工作所得，以鼓勵低收入者就業。另以香港社會救助制度為例，當每月薪資未達基本薪資之百分之二十時，得全數不列計，而薪資達基本薪資百分之二十以上時，得不列計基本薪資百分之二十之全數及基本薪資百之二十至百分之百部分之半數，以鼓勵低收入者就業。爰此，增訂第三項明定低收入戶因接受地方主管機關就業服務而增加之收入，於一定期間及額度範圍內，放寬免計入家庭總收入，至於其增加收入之認定、免計入期間及額度限制等事項之規定，則授權地方政府定之，惟放寬期間最長以三年為限，經評估有必要者，得延長一年。\n　　四、其他法令有性質相同之補助規定者，基於社會福利資源之有限性，自不應允許重複領取，爰新增第五項。",
-        "第十五條 之一": "　　一、第一項酌作修正，避免招致僅適用於特定方案之誤解。\n　　二、為鼓勵低收入戶參加脫離貧窮相關措施，酌修第二項，定明參加措施者，其於一定期間及額度範圍內因措施所增加之收入及存款，不列入家庭總收入及家庭財產計算，以避免其因此喪失低收入戶資格。至於其增加收入之認定、免計入期間及額度限制等事項之規定，則授權地方政府定之，放寬期間最長以三年為限，經評估有必要者，得延長一年。",
-        "第十五條 之二": "　　一、本條新增。\n　　二、依據研究，貧窮不僅是所得缺乏，同時也無法參與社會生活，即所謂物質剝奪及社會剝奪，稱之為社會排除，指勞動市場之邊陲地位、貧窮及社會孤立現象，而形成多重劣勢之情形。為避免低收入戶及中低收入戶發生社會排除現象，爰增訂直轄市、縣（市）主管機關得擬訂相關教育訓練、社區活動及非營利組織社會服務計畫，協助低收入戶及中低收入戶參與並融入社會，提供個人發揮能力之基本保障及機會。",
-        "第十六條": "　　為照顧近貧人口，增訂地方主管機關得依實際需要與財力提供特殊項目救助與服務。",
-        "第十六條 之一": "　　一、本條新增。\n　　二、為照顧低收入戶得到適宜之居所及居住環境，各級住宅主管機關得提供住宅補貼之措施。",
-        "第十六條 之二": "　　一、本條新增。\n　　二、教育是協助經濟弱勢家庭自立之重要途徑，政府應努力縮短教育資源貧富差距，爰於第一項規定應提供低收入戶及中低收入戶教育補助，使其順利接受高等教育，增加低收入戶及中低收入戶向上流動機會，協助提升其社經地位，脫離世代貧窮之循環。\n　　三、其他法令有性質相同之補助規定者，基於社會福利資源之有限性，自不應允許重複領取，爰為第二項規定。",
-        "第十六條 之三": "　　一、本條新增。\n　　二、如遇國內經濟情形發生重大變化時，為避免部分經濟弱勢家庭可能落入低收入戶，必要時由中央主管機關提供短期生活扶助，爰新增本條。",
-        "第十七條": "　　一、由於遊民人口相當異質性，有各種不同的成因及需求，因此，不同的遊民需要不同的社會服務策略。\n　　二、我國目前對於遊民問題之處理解決，尚處於消極、被動、歸因於個人因素等之被邊緣化階段，爰仿效美國作法，先由中央政府成立聯繫會報，建制一個平台，提供政府、人民、專家學者、公私立機構（團體）、社團等單位之間一個可以作為溝通協調、形成共識之空間。",
-        "第十九條": "　　一、行政院函送立法院審議中之「全民健康保險法」第二十七條、第二十九條、第八十七條之六修正草案，已將低收入戶之全民健康保險保險費修正改由中央社政主管機關全額補助，爰配合修正現行條文，列為第一項。\n　　二、為因應當前社會經濟情勢，推動擴大照顧弱勢社會福利政策中之加強照顧低收入戶邊緣戶，擴大全民健康保險保險費補助對象，爰新增第二項規定，補助中低收入戶應自付部分之半數。\n　　三、其他法令有性質相同之補助規定者，基於社會福利資源之有限性，自不應允許重複補助，爰增訂第三項規定。",
-        "第二十一條": "　　依原條文，除增列第五款：「已申請福利項目或保險給付，尚未核准期間生活陷於困境。」外，原第五款遞改為第六款，餘未作修正。",
-        "第三十條": "　　依原條文，除將第二項修正移為第三十一條第二項外，餘未作修正。",
-        "第三十一條": "　　依原條文，除增列第二項文字「社會救助機構之獎勵辦法，由主管機關定之。」；將原第二項遞改為第三項，並將句中「前項」修正為「第一項」。",
-        "第三十二條": "　　為衡平雙方權利義務，並維護民眾權益，規定與政府簽約，接受委託安置之社會救助機構，非有正當理由，不得拒絕依本法之委託安置，酌作文字修正。",
-        "第三十六條": "　　依原條文，除修正第一項句中「直轄市、縣（市）主管機關」為「直轄市、縣（市）主管機關及各目的事業主管機關」外，餘未作修正。",
-        "第三十七條": "　　一、本條刪除。\n　　二、公益勸募條例公布施行後，基於公益目的，募集財物或接受捐贈之勸募行為及管理相關事宜，應依該條例規定辦理，爰刪除本條。",
-        "第三十八條": "　　一、未依規定申請設立社會救助機構或辦理財團法人登記係屬二事，爰修正第一項分予列明；另鑒於現行罰鍰額度與其他社會福利法規有異，且有限期令其改善必要，併予酌修。\n至於未依限改善時之處罰，則移列第三項規定，並酌作修正。\n　　二、考量未立案機構或未辦理財團法人登記者，於改善期間可能有公共安全及財務等顧慮，爰增列第二項規定，於改善期間不得新增安置受救助者；違反者，處其負責人之處罰。  \n　　三、原第二項移列為第四項，並提高罰鍰額度及規定按次處罰，以收實效。",
-        "第三十九條": "　　一、為保障機構安置受救助者權益，於第一項增訂私立社會救助機構於限期改善期間不得新增安置受救助者及違反時之處罰規定。至於後段有關令其限期改善而屆期未改善之罰則，則移列為第二項，並參照身心障礙者權益保障法第九十二條第二項規定酌作修正。\n　　二、原第二項移列為第三項，並提高罰鍰額度，以收實效。另酌作文字修正。",
-        "第四十條": "　　本條原規定私立社會救助機構停辦或經撤銷廢止許可時，由主管機關安置收容人，社會救助機構僅有接受義務，並無協力義務，對於違規之社會救助機構有輕縱之虞，而難收遏阻之效，爰參照老人福利法第五十條規定酌作修正。",
-        "第四十一條": "　　依原條文，除修正句首「私立社會救助機構」為「社會救助機構」外，餘未作修正。",
-        "第四十四條 之二": "　　一、本條新增。\n　　二、依本法請領之各項現金給付或補助，係對於無力生活及受非常災害之國民，給予適當扶持與救助，以維持其基本生計，自不應作為抵銷、扣押、供擔保或強制執行之標的。為避免依本法請領之各項現金給付或補助，在匯入申請人存款帳戶後即遭扣押，以致損害其接受救助之權利而與本法第四十四條之立法目的相違背，爰增列本條，規定依本法請領各項現金給付或補助者，得檢具直轄市、縣（市）主管機關出具之證明文件，於金融機構開立專戶，專供主管機關存入本法之各項現金給付或補助之用，不得作為其他用途，亦不得存入非屬本法所定現金給付及補助以外之其他款項；並參照莫拉克颱風災後重建特別條例第十七條第四項規定，專戶內之存款不得作為抵銷、扣押、供擔保或強制執行之標的。",
-        "第四十四條 之三": "　　一、本條新增。\n　　二、主管機關需整合各相關機關持有或保管之資料，以辦理社會救助申請調查及核定程序，爰參照國民年金法第五十六條，於第一項規定各相關機關提供資料之義務，並於第二項規定主管機關應依個人資料保護法規定辦理，並善盡資料保護之義務，以保障當事人之隱私。",
-        "第四十六條": "　　照黨團協商條文通過。"
+        "第十六條 之二": "　　一、教育是協助經濟弱勢家庭自立之重要途徑，政府應努力縮短教育資源貧富差距，爰於第一項規定應提供低收入戶及中低收入戶教育補助，使其順利接受高等教育，增加低收入戶及中低收入戶向上流動機會，協助提升其社經地位，脫離世代貧窮之循環。是以，若已取得低收入戶資格，不應再以其工作能力之有無，作為其申請教育補助與否之標準。爰以刪除視為有工作能力之學生不得領申請教育補助之規定。\n　　二、增列第三項「第一項中華民國一百年十一月二十二日修正條文，自一百年八月一日施行。」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970408",
-            "立法紀錄": "97卷11期3622號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c8cececfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "江義雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9cfcec5cec6ccd2cec6ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷16期3627號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c8cec9cfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "林滄敏",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcec5cdc6ced2cdc6cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970516",
-            "立法紀錄": "97卷29期3640號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c8cdc6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "余政道",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecececfcec5cecbcbd2cecacc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970530",
-            "立法紀錄": "97卷34期3645號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c8cccbcfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "1001028",
+            "立法紀錄": "100卷66期3918號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcb81cecfcfcfc9c9cfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececccfcec5cec8cfd2cec8ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971114",
-            "立法紀錄": "97卷65期3676號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c8c9cacfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "郭素春",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc6cfcec5cec7cad2cec7c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971121",
-            "立法紀錄": "97卷67期3678號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c8c9c8cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "江義雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecfcfcec5cdcecbd2cdceca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971219",
-            "立法紀錄": "97卷75期3686號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c8c8cacfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "蔡錦隆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecbcfcec5c6cbd2c6c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980220",
-            "立法紀錄": "98卷06期3692號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cfc9cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "潘孟安",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcecfcec5c6c9d2c6c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980320",
-            "立法紀錄": "98卷12期3698號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cecdcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "吳敦義",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5cecfcfd2cecfca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980320",
-            "立法紀錄": "98卷12期3698號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cecdcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "孫大千",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5cecfc9d2cecfc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980403",
-            "立法紀錄": "98卷17期3703號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cec8cfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "蘇震清",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc8cfcec5cecec7d2cecdce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980410",
-            "立法紀錄": "98卷19期3705號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cec6cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "徐中雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc7cfcec5cecdcdd2cecccd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980410",
-            "立法紀錄": "98卷19期3705號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cec6cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "江義雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc7cfcec5cecccbd2ceccc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980417",
-            "立法紀錄": "98卷22期3708號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cdcdcfcfc4cfcfcfcbc4cfcfcfca",
-            "主提案": "陳節如",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6cfcbc5cec9c8d2cec6ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981009",
-            "立法紀錄": "98卷51期3737號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cacecfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "張嘉郡",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcbcfcec5c9c8d2c9c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981009",
-            "立法紀錄": "98卷51期3737號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cacecfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcbcfcec5c8ced2c8ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7cacacfcfc4cfcfcfcbc4cfcfcfca",
-            "主提案": "盧秀燕",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc9cfcec5cec7ced2cec7cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981120",
-            "立法紀錄": "98卷68期3754號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7c9c7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecfcfcec5cecdc8d2cecccc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981120",
-            "立法紀錄": "98卷68期3754號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7c9c7cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "郭素春",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecfcfcec5cecccad2ceccc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981127",
-            "立法紀錄": "98卷70期3756號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7c8cfcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "蘇震清",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc6cfcec5c7c9d2c7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981127",
-            "立法紀錄": "98卷70期3756號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c7c8cfcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "孫大千",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc6cfcec5c6cfd2c6cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "990409",
-            "立法紀錄": "99卷023期3788號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfcdcccfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "劉建國",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc7cfcec5c8cfd2c8cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "990430",
-            "立法紀錄": "99卷031期3796號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfcccecfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "陳亭妃",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacececfcec5cecfc7d2cececd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "990507",
-            "立法紀錄": "99卷34期3799號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfcccbcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "黃淑英",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecdcfcec5cececad2cecdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "990521",
-            "立法紀錄": "99卷39期3804號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfccc6cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "劉建國",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecbcfcec5cdcfc8d2cdcec9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "991001",
-            "立法紀錄": "99卷52期3817號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfcacdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcdc8cdc5c9cad2c7cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "991008",
-            "立法紀錄": "99卷53期3818號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfcacccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "楊麗環",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfccc8cdc5c6ccd2c6cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc8c8cdc5cdced2cdcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "970507",
-            "立法紀錄": "97卷28期3639號 185-210頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec6cfcc81c6c8cdc7cfcfc4cfcec7cac4cfcdcecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "991021",
-            "立法紀錄": "99卷58期3823號 447-507頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfcac7cfcec4cfcbcbc8c4cfcacfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "991027",
-            "立法紀錄": "99卷65期3830號 116-215頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfc9cacfcec4cfcecec9c4cfcdceca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "991028",
-            "立法紀錄": "99卷65期3830號 216-292頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfc9cacfcec4cfcdcec9c4cfcdc6cd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "991101",
-            "立法紀錄": "99卷69期3834號 108-175頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfc9c6cfcec4cfcecfc7c4cfcec8ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "991103",
-            "立法紀錄": "99卷69期3834號 176-226頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfc9c6cfcec4cfcec8c9c4cfcdcdc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "991210",
-            "立法紀錄": "99卷80期3845號一冊 47-281頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfc7cfcfcec4cfcfcbc8c4cfcdc7ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecfcfcac5c9c8d2cccfcb"
-                ]
-            ]
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "991119",
-            "立法紀錄": "99卷80期3845號四冊 403-410頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfc7cfcfcbc4cfcbcfccc4cfcbcecf",
+            "會議日期": "1001110",
+            "立法紀錄": "100卷79期3931號 354-392頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcb81cecfcfcfc8c6cfcec4cfcccacbc4cfccc6cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "991210",
-            "立法紀錄": "99卷80期3845號一冊 281-293頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfc7cfcfcec4cfcdc7cec4cfcdc6cc",
-            "關係文書": []
+            "會議日期": "1001122",
+            "立法紀錄": "100卷78期3930號二冊 617-620頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcb81cecfcfcfc8c7cfcdc4cfc9cec8c4cfc9cdcf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cecfc8c8c5cdcbc8d2cdcacf"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "991210",
-            "立法紀錄": "99卷80期3845號一冊 293-298頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcc81cfc6c6cfc7cfcfcec4cfcdc6ccc4cfcdc6c7",
+            "會議日期": "1001122",
+            "立法紀錄": "100卷78期3930號二冊 620-620頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcb81cecfcfcfc8c7cfcdc4cfc9cdcfc4cfc9cdcf",
             "關係文書": []
         }
     ]
