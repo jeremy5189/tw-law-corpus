@@ -1,8 +1,8 @@
 {
     "title": "臺灣地區與大陸地區人民關係條例",
     "versions": [
-        "中華民國99年8月19日修正",
-        "中華民國99年9月1日公布"
+        "中華民國100年12月6日修正",
+        "中華民國100年12月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -673,6 +673,12 @@
         },
         {
             "note": "(罰則)",
+            "rule_no": "第八十條 之一",
+            "content": "　　大陸船舶違反第三十二條第一項規定，經主管機關扣留者，得處該船舶所有人、營運人或船長、駕駛人新臺幣一百萬元以上一千萬元以下罰鍰。\n　　前項船舶為漁船者，得處其所有人、營運人或船長、駕駛人新臺幣五萬元以上五十萬元以下罰鍰。\n　　前二項所定之罰鍰，由海岸巡防機關執行處罰。",
+            "relates": {}
+        },
+        {
+            "note": "(罰則)",
             "rule_no": "第八十一條",
             "content": "　　違反第三十六條第一項或第二項規定者，處新臺幣二百萬元以上一千萬元以下罰鍰，並得限期命其停止或改正；屆期不停止或改正，或停止後再為相同違反行為者，處行為負責人三年以下有期徒刑、拘役或科或併科新臺幣一千五百萬元以下罰金。\n　　臺灣地區金融保險證券期貨機構及其在臺灣地區以外之國家或地區設立之分支機構，違反財政部依第三十六條第四項規定報請行政院核定之限制或禁止命令者，處行為負責人三年以下有期徒刑、拘役或科或併科新臺幣一百萬元以上一千五百萬元以下罰金。\n　　前二項情形，除處罰其行為負責人外，對該金融保險證券期貨機構，並科以前二項所定之罰金。\n　　第一項及第二項之規定，於在中華民國領域外犯罪者，適用之。",
             "relates": {}
@@ -833,74 +839,53 @@
         }
     ],
     "law_reasons": {
-        "第二十二條": "　　一、鑑於國內醫事人員養成涉及教、考、用三階段，加上各類醫事人員養成尚涉及實習場所醫院容額之限制，為避免本國生受教權益受損，及保障國人健康安全等因素，現階段尚不宜開放採認大陸醫事類科學歷，並於法條中增訂。\n　　二、增訂大陸地區人民未在臺設有戶籍者，不得參加公務人員考試、專門職業及技術人員考試。",
-        "第二十二條 之一": "　　一、本條刪除。\n　　二、原條文業經九十七年一月十六日修正公布之私立學校法第八十六條納入規範，爰配合予以刪除。"
+        "第八十條 之一": "　　一、本條增訂。\n　　二、本法對於大陸船舶違反第三十二條規定而進入台灣地區或水域者，並無行政罰之規定，為有效執行法律，爰增訂本條。\n　　三、考量漁船越界捕魚違法情節及不法獲利通常輕於一般商船，另從輕規定其罰鍰數額。\n　　四、依實務情況，區別船舶為漁船及漁船以外船舶，分別規定罰鍰額度。並明定本條執行處罰機關，庶免爭議。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980320",
-            "立法紀錄": "98卷12期3698號 19-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecbcf81c6c7cecdcfcfc4cfcfcec6c4cfcfcdcf",
-            "主提案": "行政院",
+            "會議日期": "1001028",
+            "立法紀錄": "100卷066期3918號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc9c9cfcec4cfcfcfcec4cfcfcfcd",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecbcfcec5cec7cbd2cec7c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "990507",
-            "立法紀錄": "99卷34期3799號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcf81cfc6c6cfcccbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "管碧玲",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc7c8cdc5c8d2cecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc8c8cdc5ceccd2cecb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980504",
-            "立法紀錄": "98卷29期3715號 289-294頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac7c7cbcfc8cecbcf81c6c7cdc6cfcfc4cfcdc7c6c4cfcdc6cb",
+            "會議日期": "1001128",
+            "立法紀錄": "100卷085期3937號 331-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc7cacfcec4cfcccccec4cfcccacb",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "990510",
-            "立法紀錄": "99卷38期3803號 159-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcf81cfc6c6cfccc7cfcec4cfcecac6c4cfcdcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "990602",
-            "立法紀錄": "99卷48期3813號 243-252頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcf81cfc6c6cfcbc7cfcec4cfcdcbccc4cfcdcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990819",
-            "立法紀錄": "99卷50期3815號 372-384頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcf81cfc6c6cfcacfcfcec4cfccc8cdc4cfccc7cb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1001206",
+            "立法紀錄": "100卷084期3936號 152-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc7cbcfcec4cfcecacdc4cfcecac9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacec9cfc8c5cecfced2cececd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cecdc8c9c5cecad2cec7"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1001206",
+            "立法紀錄": "100卷084期3936號 156-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc7cbcfcec4cfcecac9c4cfcecac9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "990819",
-            "立法紀錄": "99卷50期3815號 384-389頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcf81cfc6c6cfcacfcfcec4cfccc7cbc4cfccc7c6",
+            "會議日期": "1001206",
+            "立法紀錄": "100卷084期3936號 156-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc7cbcfcec4cfcecac9c4cfcecac9",
             "關係文書": []
         }
     ]
