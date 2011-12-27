@@ -1,8 +1,8 @@
 {
     "title": "教師法",
     "versions": [
-        "中華民國99年11月5日修正",
-        "中華民國99年11月24日公布"
+        "中華民國100年12月9日修正",
+        "中華民國100年12月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -290,9 +290,9 @@
             "relates": {}
         },
         {
-            "note": "(護理教師之介聘及準用規定)",
+            "note": "(護理教師之介聘及權益保障)",
             "rule_no": "第三十五條 之一",
-            "content": "　　前條第三項之護理教師，其解職、申訴、進修、待遇、福利、資遣事項，準用教師相關法令規定。\n　　經主管教育行政機關介派之護理教師具有健康與護理科合格教師資格者，自本法中華民國九十五年修正施行之日起至中華民國九十七年七月三十一日止，因軍訓護理課程調整致無法繼續任教時，主管教育行政機關得辦理介聘為健康與護理科教師；其介聘辦法，由教育部定之。",
+            "content": "　　前條第三項之護理教師，其解職、申訴、進修、待遇、福利、資遣事項，準用教師相關法令規定。\n　　經主管教育行政機關介派之護理教師具有健康與護理科合格教師資格者，自本法中華民國九十五年修正施行之日起至中華民國九十七年七月三十一日止，因軍訓護理課程調整致無法繼續任教時，主管教育行政機關得辦理介聘為健康與護理科教師；其介聘辦法，由教育部定之。\n　　依前項規定期限取得健康與護理科合格教師資格之護理教師，尚未在期限內經主管教育行政機關介聘為健康與護理科教師者，自本法中華民國一百年十二月九日修正之條文施行後二年內，主管教育行政機關得繼續辦理介聘。",
             "relates": {}
         },
         {
@@ -327,46 +327,53 @@
         }
     ],
     "law_reasons": {
-        "第十四條 之三": "　　一、現行教師法第十四條第四項已明定，涉及性侵害行為教師，其服務學校應於知悉之日起一個月內經教師評審委員會審議通過後予以停聘，並靜候學校性別平等委員會調查。但由於同法第十四條之三規定，教師停聘期間仍應發給半數本薪（年功薪），顯然有失社會公義，業已引發諸多輿論之批評，係因涉及性侵行為而被停聘調查之教師惡行重大，且可能涉及犯罪對象是同校中絕對弱勢之學生，該類教師停聘調查期間若仍支予薪給，不僅受害學生及其家長情何以堪，亦有變相支持該等教師之虞，而有礙社會觀瞻。爰修正為該類教師停聘期間不發給半數本薪（年功薪）。惟若案經調查後無此事實並依法回復聘任者，則予補發全部本薪（年功薪）。\n　　二、至於教師因受有期徒刑或拘役之執行或受罰金之判決而易服勞役者，應非停聘原因消滅後復聘及補發本薪之對象，爰依立法旨意，將條文內容酌作修正，以求明確並符法制體例。"
+        "第三十五條 之一": "　　考量政府對於依規定取得資格之護理教師權益應予公平合理之保障，爰照原條文另增列第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "981211",
-            "立法紀錄": "98卷75期3761號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c9cfce81c6c7c8cacfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "趙麗雲",
+            "會議日期": "0991105",
+            "立法紀錄": "099卷061期3826號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcc81cfc6c6cfc9cecfcec4cfcfcfcec4cfcfcfcd",
+            "主提案": "呂學樟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcec5cececad2cecec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfc8cfcec5cecbcdd2cecbcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "990519",
-            "立法紀錄": "99卷41期3806號 408-452頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfce81cfc6c6cfcbcecfcec4cfcbcfc7c4cfcbcacd",
+            "會議日期": "1001130",
+            "立法紀錄": "100卷087期3939號 88-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcc81cecfcfcfc7c8cfcec4cfcfc7c7c4cfcecac9",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "991105",
-            "立法紀錄": "99卷61期3826號 181-186頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfce81cfc6c6cfc9cecfcec4cfcec7cec4cfcec7c9",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1001209",
+            "立法紀錄": "100卷086期3938號 173-178頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcc81cecfcfcfc7c9cfcec4cfcec8ccc4cfcec8c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacec9cfccc5c8c7d2c7cc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7ceccc8c9c5ced2c9"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1001209",
+            "立法紀錄": "100卷086期3938號 178-178頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcc81cecfcfcfc7c9cfcec4cfcec8c7c4cfcec8c7",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "991105",
-            "立法紀錄": "99卷61期3826號 186-186頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfce81cfc6c6cfc9cecfcec4cfcec7c9c4cfcec7c9",
+            "會議日期": "1001209",
+            "立法紀錄": "100卷086期3938號 178-178頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcc81cecfcfcfc7c9cfcec4cfcec8c7c4cfcec8c7",
             "關係文書": []
         }
     ]
