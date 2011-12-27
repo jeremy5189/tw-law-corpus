@@ -1,8 +1,8 @@
 {
     "title": "社會教育法",
     "versions": [
-        "中華民國91年12月24日修正",
-        "中華民國92年1月15日公布"
+        "中華民國100年12月9日修正",
+        "中華民國100年12月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　社會教育之任務如左：\n　　一、發揚民族精神及國民道德。\n　　二、推行文化建設及心理建設。\n　　三、訓練公民自治及四權行使。\n　　四、普及科技智能及國防常識。\n　　五、培養禮樂風尚及藝術興趣。\n　　六、保護歷史文物及名勝古蹟。\n　　七、輔導家庭教育及親職教育。\n　　八、加強國語教育，增進語文能力。\n　　九、提高生活智能，實施技藝訓練。\n　　十、推廣法令知識，培養守法習慣。\n　　十一、輔助社團活動，改善社會風氣。\n　　十二、推展體育活動，養成衛生習慣。\n　　十三、改進通俗讀物，推行休閒活動。\n　　十四、改善人際關係，促進社會和諧。\n　　十五、其他有關社會教育事項。",
+            "content": "　　社會教育之任務如下：\n　　一、發揚民族精神及國民道德。\n　　二、推行文化建設及心理建設。\n　　三、訓練公民自治及四權行使。\n　　四、普及科技智能及國防常識。\n　　五、培養禮樂風尚及藝術興趣。\n　　六、保護歷史文物及名勝古蹟。\n　　七、輔導家庭教育及親職教育。\n　　八、加強國語教育，增進語文能力。\n　　九、提高生活智能，實施技藝訓練。\n　　十、推廣法令知識，培養守法習慣。\n　　十一、輔助社團活動，改善社會風氣。\n　　十二、推展體育活動，養成衛生習慣。\n　　十三、改進通俗讀物，推行休閒活動。\n　　十四、改善人際關係，促進社會和諧。\n　　十五、強化情緒管理，珍愛生命價值。\n　　十六、重視社會關懷，鼓勵參與志願服務，建立支持系統。\n　　十七、培育公民素養，維護民主精神。\n　　十八、其他有關社會教育事項。",
             "relates": {}
         },
         {
@@ -107,54 +107,86 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　一、私立社會教育機構應依本法第七條規定核准立案後，並辦理財團法人登記，爰予增訂。\n　　二、配合行政程序法之施行，對於法規命令中限制人民權利或課予人民義務或其他重要事項之規定，必須有法律授權，且授權目的、內容及範圍必須具體明確，爰修正為私立社會教育機構設立、變更、停辦、督導、獎勵及其他應遵行事項之辦法，由教育部定之。",
-        "第十四條": "　　一、配合臺灣省政府功能業務與組織調整，爰修正第一項。\n　　二、因應國人終身學習需求，教材、教具及通俗讀物，免予審定，爰刪除第二項規定。"
+        "第二條": "　　一、修正社會教育任務之內容。\n　　二、在景氣有待回春、失業、貧窮、考試落敗等諸多現象中，社會到處充斥家庭衝突、離婚率提高、家庭關係疏離、青少年犯罪年齡下降、以及沉迷電玩、吸毒、濫用藥物等自我麻痺行為。有自殺傾向者受到內在精神疾病、人格違常等因素，或者外在環境感染性作用影響，相關的防治支援工作除了醫藥、社工與諮商協談外，更需要透過正式與非正式團體積極推廣公益性的志工運動等，因此本法有必要修正，透過社會教育強化社會關懷系統和降低弱勢族群自殺危機。\n　　三、品格教育和公民素質影響社會風氣甚鉅，惟有鼓勵審議式民主架構，展現國人德行風範，使緊張對立的社會衝突降低，拓展多元寬容精神，從宏觀視野建立相互尊重的民主政治，乃責無旁貸的任務。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910423",
-            "立法紀錄": "91卷28期3224號上冊 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cecdc7cfcec4cfcfcecfc4cfcfcecf",
-            "主提案": "行政院",
+            "會議日期": "0980612",
+            "立法紀錄": "098卷042期3728號一冊 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc881c6c7cbcdcfcec4cfcfcecec4cfcfcece",
+            "主提案": "郭素春",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc7cfcfc5cac6cad2cac6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfcec5cccfccd2cccfc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "0991231",
+            "立法紀錄": "100卷004期3856號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfcfcbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "孫大千",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbcfc9c5cdc8ced2cdc8cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000107",
+            "立法紀錄": "100卷008期3860號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfcfc7cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "陳淑慧",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecacfcec5cec8cbd2cec8c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "911209",
-            "立法紀錄": "92卷2期3276號上冊 239-269頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cdcfcdcfcec4cfcdccc6c4cfcdc9c6",
+            "會議日期": "0981111",
+            "立法紀錄": "098卷068期3754號 369-406頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc881c6c7c9c7cfcfc4cfccc9c6c4cfcbcfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1001130",
+            "立法紀錄": "100卷087期3939號 88-156頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfc7c8cfcec4cfcfc7c7c4cfcecac9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "911224",
-            "立法紀錄": "92卷1期3275號一冊 84-88頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cdcfcecfcec4cfcfc7cbc4cfcfc7c7",
+            "會議日期": "1001209",
+            "立法紀錄": "100卷086期3938號 178-189頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfc7c9cfcec4cfcec8c7c4cfcec7c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcdcecbcfcdc5c8c6ccd2c7ccca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7ceccc8c9c5c8d2cec7"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "911224",
-            "立法紀錄": "92卷1期3275號一冊 92-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cdcfcecfcec4cfcfc6cdc4cfcfc6cc",
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1001209",
+            "立法紀錄": "100卷086期3938號 189-189頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfc7c9cfcec4cfcec7c6c4cfcec7c6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "911224",
-            "立法紀錄": "92卷1期3275號一冊 124-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc981c6cdcfcecfcec4cfcecdcbc4cfcecccf",
+            "會議日期": "1001209",
+            "立法紀錄": "100卷086期3938號 189-190頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfc7c9cfcec4cfcec7c6c4cfcec6cf",
             "關係文書": []
         }
     ]
