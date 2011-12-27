@@ -1,8 +1,8 @@
 {
     "title": "公司法",
     "versions": [
-        "中華民國100年10月25日修正",
-        "中華民國100年11月9日公布"
+        "中華民國100年12月13日修正",
+        "中華民國100年12月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -1368,7 +1368,7 @@
         {
             "note": "",
             "rule_no": "第一百九十八條",
-            "content": "　　股東會選任董事時，除公司章程另有規定外，每一股份有與應選出董事人數相同之選舉權，得集中選舉一人，或分配選舉數人，由所得選票代表選舉權較多者，當選為董事。\n　　第一百七十八條之規定，對於前項選舉權，不適用之。",
+            "content": "　　股東會選任董事時，每一股份有與應選出董事人數相同之選舉權，得集中選舉一人，或分配選舉數人，由所得選票代表選舉權較多者，當選為董事。\n　　第一百七十八條之規定，對於前項選舉權，不適用之。",
             "relates": {}
         },
         {
@@ -3133,53 +3133,130 @@
         }
     ],
     "law_reasons": {
-        "第一百九十七條 之一": "　　一、本條第二項係屬增訂。\n　　二、發生財務困難之上市、上櫃公司，其董監事多將持股質押以求護盤，使持股質押比例往往較一般公司高；但股價下跌時，為免遭銀行催補擔保品，又再大肆借貸力守股價，惡性循環之結果導致公司財務急遽惡化，損害投資大眾權益。為健全資本市場與強化公司治理，實有必要對設質比重過高之董事、監察人加強控管。特修正「公司法」第一百九十七條之一，若公開發行股票之公司董事以股份設定質權超過選任當時所持有之公司股份數額二分之一時，其超過之股份不得行使表決權，不算入已出席股東之表決權數。藉此杜絕企業主炒作股票之動機與歪風，及防止董監事信用過度膨脹、避免多重授信。"
+        "第一百九十八條": "　　現行公司法第一百九十八條將公司選任董事之選舉方法授權予公司章程規定，但部分公司經營者以及股權相對多數者，利用修改公司章程之方式，將選任公司董事之選舉法，變更為「全額連記法」，不僅違反「股東平等原則」，影響股東投資意願，更使公司失去制衡的力量變成一言堂，變成萬年董事會、萬年董事長，讓公司治理徹底崩盤，因此提出修法，以匡正弊端。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0991231",
-            "立法紀錄": "100卷004期3856號 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cf81cecfcfcfcfcbcfcec4cfcfcfcec4cfcfcfcd",
+            "會議日期": "970229",
+            "立法紀錄": "97卷2期3613號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8cfcdcfcfc4cfcfcfccc4cfcfcfcc",
             "主提案": "丁守中",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbcfcec5ceccc6d2cecbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcdcfcec5cec6ccd2cec6ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000608",
-            "立法紀錄": "100卷052期3904號 437-474頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cf81cecfcfcfcacdcfcec4cfcbccc8c4cfcbc8cb",
+            "會議日期": "970402",
+            "立法紀錄": "97卷12期3623號 26-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8cecdcfcfc4cfcfcdc9c4cfcfcbce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1001025",
-            "立法紀錄": "100卷063期3915號 132-135頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cf81cecfcfcfc9cccfcec4cfcecccdc4cfceccca",
+            "會議日期": "970422",
+            "立法紀錄": "97卷16期3627號 59-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8cec9cfcfc4cfcfcac6c4cfcfc9ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc9c8c9c5cecfc8d2cececf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfccc5cbc6cbd2cbc6c8"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970619",
+            "立法紀錄": "97卷42期3653號 93-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8cbcdcfcfc4cfcfc6ccc4cfcfc6cc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970627",
+            "立法紀錄": "97卷45期3656號 60-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8cbcacfcfc4cfcfc9cfc4cfcfc9cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970708",
+            "立法紀錄": "97卷47期3658號 91-91頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8cbc8cfcfc4cfcfc6cec4cfcfc6ce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "970716",
+            "立法紀錄": "97卷48期3659號一冊 73-73頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8cbc7cfcec4cfcfc8ccc4cfcfc8cc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "971209",
+            "立法紀錄": "97卷71期3682號 246-246頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8c8cecfcfc4cfcdcbc9c4cfcdcbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "971223",
+            "立法紀錄": "97卷75期3686號 196-196頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c8c8cacfcfc4cfcec6c9c4cfcec6c9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "971230",
+            "立法紀錄": "98卷3期3689號一冊 146-146頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c7cfcccfcec4cfcecbc9c4cfcecbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980106",
+            "立法紀錄": "98卷3期3689號二冊 228-228頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c7cfcccfcdc4cfcdcdc7c4cfcdcdc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "980109",
+            "立法紀錄": "98卷5期3691號一冊 170-171頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfceccc7cd81c6c7cfcacfcec4cfcec8cfc4cfcec8ce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000112",
+            "立法紀錄": "100卷8期3860號三冊 224-224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cd81cecfcfcfcfc7cfccc4cfcdcdcbc4cfcdcdcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1000613",
+            "立法紀錄": "100卷49期3901號四冊 1834-1834頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cd81cecfcfcfcbc6cfcbc4cec7cccbc4cec7cccb",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001025",
-            "立法紀錄": "100卷063期3915號 135-135頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cf81cecfcfcfc9cccfcec4cfcecccac4cfceccca",
+            "會議日期": "1001213",
+            "立法紀錄": "100卷88期3940號二冊 856-856頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cd81cecfcfcfc7c7cfcdc4cfc7cac9c4cfc7cac9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001025",
-            "立法紀錄": "100卷063期3915號 135-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cf81cecfcfcfc9cccfcec4cfcecccac4cfceccc9",
+            "會議日期": "1001213",
+            "立法紀錄": "100卷88期3940號二冊 858-859頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7cd81cecfcfcfc7c7cfcdc4cfc7cac7c4cfc7cac6",
             "關係文書": []
         }
     ]
