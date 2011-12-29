@@ -1,8 +1,8 @@
 {
     "title": "地政士法",
     "versions": [
-        "中華民國100年5月27日修正",
-        "中華民國100年6月15日公布"
+        "中華民國100年12月13日修正",
+        "中華民國100年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -178,6 +178,12 @@
             "relates": {}
         },
         {
+            "note": "(不動產交易實價資訊之登錄)",
+            "rule_no": "第二十六條 之一",
+            "content": "　　地政士應於買賣受託案件辦竣所有權移轉登記三十日內，向主管機關申報登錄土地及建物成交案件實際資訊。\n　　前項申報受理登錄成交案件實際資訊，主管機關得委任所屬機關辦理。\n　　前二項登錄之資訊，除涉及個人資料外，得供政府機關利用並以區段化、去識別化方式提供查詢。\n　　已登錄之不動產交易價格資訊，在相關配套措施完全建立並完成立法後，始得為課稅依據。\n　　第一項登錄資訊類別、內容與第三項提供之內容、方式、收費費額及其他應遵行事項之辦法，由中央主管機關定之。",
+            "relates": {}
+        },
+        {
             "note": "(執業之禁止行為)",
             "rule_no": "第二十七條",
             "content": "　　地政士不得有下列行為：\n　　一、違反法令執行業務。\n　　二、允諾他人假藉其名義執行業務。\n　　三、以不正當方法招攬業務。\n　　四、為開業、遷移或業務範圍以外之宣傳性廣告。\n　　五、要求、期約或收受規定外之任何酬金。\n　　六、明知為不實之權利書狀、印鑑證明或其他證明文件而向登記機關申辦登記。",
@@ -336,9 +342,15 @@
             "relates": {}
         },
         {
-            "note": "(強制執行)",
+            "note": "(罰則)",
+            "rule_no": "第五十一條 之一",
+            "content": "　　地政士違反第二十六條之一第一項規定者，處新臺幣三萬元以上十五萬元以下罰鍰，並限期改正；屆期未改正者，應按次處罰。",
+            "relates": {}
+        },
+        {
+            "note": "(刪除)",
             "rule_no": "第五十二條",
-            "content": "　　依前三條規定所處之罰鍰，經限期繳納，屆期不繳納者，依法移送強制執行。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -384,58 +396,134 @@
         {
             "note": "(施行日)",
             "rule_no": "第五十九條",
-            "content": "　　本法自公布後六個月施行。\n　　本法中華民國九十八年五月十二日修正之條文，自九十八年十一月二十三日施行。",
+            "content": "　　本法自公布後六個月施行。\n　　本法中華民國九十八年五月十二日修正之條文，自九十八年十一月二十三日施行。\n　　本法中華民國一百年十二月十三日修正之第二十六條之一、第五十一條之一及第五十二條之施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第三十條": "　　一、因應「公民與政治權利國際公約及經濟社會文化權利國際公約施行法」施行，第二項限制在同一區域內同級地政士公會以一個為限，有過度限制人民結社自由之虞，未符公民與政治權利國際公約第二十二條自由結社權利之規定。爰將第二項「以一個為限」修正為「以一個為原則」。\n　　二、另為避免日後有二個以上同級公會同名之困擾，爰增訂但書規定，二個以上之同級公會，其名稱不得相同。"
+        "第二十六條 之一": "　　本條新增，並照黨團協商條文通過。",
+        "第五十一條 之一": "　　本條新增，並照黨團協商條文通過。",
+        "第五十二條": "　　照黨團協商條文通過。",
+        "第五十九條": "　　照黨團協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1000318",
-            "立法紀錄": "100卷017期3869號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdce81cecfcfcfcec8cfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "0970422",
+            "立法紀錄": "097卷016期3627號 15-15頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccaccccc6cccdcc81c6c8cec9cfcfc4cfcfcecac4cfcfceca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcac8cdc5cbc8d2cacf"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcdc5ccceccd2ccccca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "0971031",
+            "立法紀錄": "097卷059期3670號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccaccccc6cccdcc81c6c8cac6cfcfc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "吳敦義",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc8cfcec5c6c9d2c6c8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "0991008",
+            "立法紀錄": "099卷053期3818號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cfc6c6cfcacccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "賴士葆",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcccfcec5cecfc7d2cececd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000916",
+            "立法紀錄": "100卷053期3905號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfcacccfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "民進黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcec8cdc5cecfcad2cecfc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1000923",
+            "立法紀錄": "100卷054期3906號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfcacbcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcdc8cdc5c9cad2c9c7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000516",
-            "立法紀錄": "100卷044期3896號 173-217頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdce81cecfcfcfcbcbcfcec4cfcec8ccc4cfcdcec8",
+            "會議日期": "0970528",
+            "立法紀錄": "097卷035期3646號 268-310頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccaccccc6cccdcc81c6c8cccacfcfc4cfcdc9c7c4cfcccecf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1000425",
+            "立法紀錄": "100卷036期3888號 85-124頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfccc9cfcec4cfcfc7cac4cfcecdcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000527",
-            "立法紀錄": "100卷045期3897號一冊 55-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdce81cecfcfcfcbcacfcec4cfcfcacac4cfcfcac7",
+            "會議日期": "0970612",
+            "立法紀錄": "097卷039期3650號一冊 99-142頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccaccccc6cccdcc81c6c8ccc6cfcec4cfcfc6c6c4cfcecbcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecacfcdc5cdcbc9d2cdcbc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececacfccc5cccfc6d2cccacd"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1001213",
+            "立法紀錄": "100卷088期3940號二冊 676-692頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfc7c7cfcdc4cfc9c8c9c4cfc9c6cd",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1001212",
+            "立法紀錄": "100卷088期3940號一冊 24-25頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfc7c7cfcec4cfcfcdcbc4cfcfcdca",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1000527",
-            "立法紀錄": "100卷045期3897號一冊 58-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdce81cecfcfcfcbcacfcec4cfcfcac7c4cfcfcac7",
+            "會議日期": "1001213",
+            "立法紀錄": "100卷088期3940號二冊 692-698頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfc7c7cfcdc4cfc9c6cdc4cfc9c6c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1000527",
-            "立法紀錄": "100卷045期3897號一冊 58-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdce81cecfcfcfcbcacfcec4cfcfcac7c4cfcfcac7",
+            "會議日期": "1001213",
+            "立法紀錄": "100卷088期3940號二冊 698-698頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfc7c7cfcdc4cfc9c6c7c4cfc9c6c7",
             "關係文書": []
         }
     ]
