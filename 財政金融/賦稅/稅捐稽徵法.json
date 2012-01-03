@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國100年11月8日修正",
-        "中華民國100年11月23日公布"
+        "中華民國100年12月14日修正",
+        "中華民國101年1月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -406,7 +406,7 @@
         {
             "note": "",
             "rule_no": "第四十七條",
-            "content": "　　本法關於納稅義務人、扣繳義務人及代徵人應處徒刑之規定，於下列之人適用之：\n　　一、公司法規定之公司負責人。\n　　二、民法或其他法律規定對外代表法人之董事或理事。\n　　三、商業登記法規定之商業負責人。\n　　四、其他非法人團體之代表人或管理人。\n　　前項規定之人與實際負責業務之人不同時，以實際負責業務之人為準。",
+            "content": "　　本法關於納稅義務人、扣繳義務人及代徵人應處刑罰之規定，於下列之人適用之：\n　　一、公司法規定之公司負責人。\n　　二、民法或其他法律規定對外代表法人之董事或理事。\n　　三、商業登記法規定之商業負責人。\n　　四、其他非法人團體之代表人或管理人。\n　　前項規定之人與實際負責業務之人不同時，以實際負責業務之人為準。",
             "relates": {}
         },
         {
@@ -487,127 +487,34 @@
         }
     ],
     "law_reasons": {
-        "第一條 之一": "　　一、第一項，內容維持原法條文，不予修正。\n　　二、第二項，內容修正為：「財政部發布解釋函令，變更已發布解釋函令之法令見解，如不利於納稅義務人者，自發布日起或財政部指定之將來一定期日起，發生效力；於發布日或財政部指定之將來一定期日前，應核課而未核課之稅捐及未確定案件，不適用該變更後之解釋函令。」。\n　　三、增訂第三項，內容為：「本條中華民國一百年十一月八日修正施行前，財政部發布解釋函令，變更已發布解釋函令之法令見解且不利於納稅義務人，經稅捐稽徵機關依財政部變更法令見解後之解釋函令核課稅捐，於本條中華民國一百年十一月八日修正施行日尚未確定案件，適用前項規定。」。\n　　四、增訂第四項，內容為：「財政部發布之稅務違章案件裁罰金額或倍數參考表變更時，有利於納稅義務人者，對於尚未核課確定之案件適用之。」。",
-        "第六條": "　　一、第一項，內容維持原法條文，不予修正。\n　　二、第二項，內容修正為：「土地增值稅、地價稅、房屋稅之徵收，及法院、行政執行處執行拍賣或變賣貨物應課徵之營業稅，優先於一切債權及抵押權。」。\n　　三、第三項，內容修正為：「經法院、行政執行處執行拍賣或交債權人承受之土地、房屋及貨物，執行法院或行政執行處應於拍定或承受五日內，將拍定或承受價額通知當地主管稅捐稽徵機關，依法核課土地增值稅、地價稅、房屋稅及營業稅，並由執行法院或行政執行處代為扣繳。」。",
-        "第二十三條": "　　照黨團協商條文通過。"
+        "第四十七條": "　　一、依司法院釋字第六八七號解釋意旨，原條文第一項第一款規定，係使公司負責人因自己之刑事違法且有責之行為，承擔刑事責任，與無責任即無處罰之罪責原則並無牴觸，又依該規定處罰公司負責人時，其具體構成要件行為及法定刑，均規定於本法第四十一條，該條處罰納稅義務人以詐術或其他不正當方法逃漏稅捐之行為，所設定之法定刑種類包括有期徒刑、拘役及罰金，原條文第一項第一款規定既根據同一逃漏稅捐之構成要件行為，處罰公司負責人，該項序文「應處徒刑之規定」部分，限定僅適用有期徒刑之規定，係對同一逃漏稅捐之構成要件行為，無正當理由為差別之不法評價，有違憲法第七條之平等原則，自該解釋公布日起，至遲於屆滿一年時，失其效力。\n　　二、按本法第四十一條與第四十二條關於納稅義務人、扣繳義務人及代徵人應處刑罰之規定，其法定刑種類包含有期徒刑、拘役及罰金，均屬刑罰中之主刑，為符合上開司法院解釋意旨，使第一項各款所定法人或非法人團體組織之負責人、代表人或管理人就同一犯罪構成要件行為，所科予之刑罰種類相同，爰將第一項序文所定本法關於納稅義務人、扣繳義務人及代徵人應處「徒刑」之規定，修正為應處「刑罰」。\n　　三、第二項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "990924",
-            "立法紀錄": "99卷51期3816號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cfc6c6cfcacecfcec4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "1001212",
+            "立法紀錄": "100卷088期3940號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecaca81cecfcfcfc7c7cfcec4cfcfcfcec4cfcfcfce",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcecfcdc5cbd2c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cecbc8cdc5ced2cb"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1000325",
-            "立法紀錄": "100卷21期3873號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfcdcecfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcec5cec8cbd2cec8c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1000930",
-            "立法紀錄": "100卷55期3907號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfcacacfcec4cfcfcfcdc4cfcfcfcc",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfccc8cdc5cbc8d2cacf"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1000321",
-            "立法紀錄": "100卷24期3876號 84-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfcdcbcfcec4cfcfc7cbc4cfcfc7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1001020",
-            "立法紀錄": "100卷67期3919號二冊 167-214頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfc9c8cfcdc4cfcec9c8c4cfcdcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1000613",
-            "立法紀錄": "100卷49期3901號二冊 571-575頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfcbc6cfcdc4cfcac8cec4cfcac8ca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec9cfcdc5cacccdd2caccc9"
-                ],
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec9cfcdc5cfc8cfc7cfc7cfccc5cccdcdd2cccccd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷70期3922號 45-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfc8cfcfcec4cfcfcbcac4cfcfcbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷70期3922號 139-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfc8cfcfcec4cfceccc6c4cfcecacf",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1000610",
-            "立法紀錄": "100卷70期3922號 363-364頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfc8cfcfcec4cfccc9ccc4cfccc9cb",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷70期3922號 46-46頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfc8cfcfcec4cfcfcbc9c4cfcfcbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷70期3922號 150-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfc8cfcfcec4cfcecacfc4cfcecacf",
+            "會議日期": "1001214",
+            "立法紀錄": "100卷088期3940號三冊 972-974頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecaca81cecfcfcfc7c7cfccc4cfc6c8cdc4cfc6c8cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷70期3922號 46-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfc8cfcfcec4cfcfcbc9c4cfcfcbc8",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷70期3922號 150-151頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecacc81cecfcfcfc8cfcfcec4cfcecacfc4cfcecace",
+            "會議日期": "1001214",
+            "立法紀錄": "100卷088期3940號三冊 974-975頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecaca81cecfcfcfc7c7cfccc4cfc6c8cbc4cfc6c8ca",
             "關係文書": []
         }
     ]
