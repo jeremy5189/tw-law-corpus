@@ -1,8 +1,8 @@
 {
     "title": "保險法",
     "versions": [
-        "中華民國100年11月15日修正",
-        "中華民國100年11月30日公布"
+        "中華民國101年5月22日修正",
+        "中華民國101年6月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -1590,7 +1590,7 @@
         {
             "note": "",
             "rule_no": "第一百七十二條 之一",
-            "content": "　　保險業於主管機關監管、接管或勒令停業清理時，其董（理）事、監察人（監事）、經理人或其他職員有下列情形之一者，處一年以上七年以下有期徒刑，得併科新臺幣二千萬元以下罰金：\n　　一、拒絕將保險業業務財務有關之帳冊、文件、印章及財產等列表移交予監管人、接管人或清理人或不為全部移交。\n　　二、隱匿或毀損與業務有關之帳冊、隱匿或毀棄該保險業之財產，或為其他不利於債權人之處分。\n　　三、捏造債務，或承認不真實之債務。\n　　四、無故拒絕監管人、接管人或清理人之詢問，或對其詢問為虛偽之答覆，致影響被保險人或受益人之權益者。",
+            "content": "　　保險業於主管機關監管、接管或勒令停業清理時，其董（理）事、監察人（監事）、經理人或其他職員有下列情形之一者，處一年以上七年以下有期徒刑，得併科新臺幣二千萬元以下罰金：\n　　一、拒絕將保險業業務財務有關之帳冊、文件、印章及財產等列表移交予監管人、接管人或清理人或不為全部移交。\n　　二、隱匿或毀損與業務有關之帳冊、隱匿或毀棄該保險業之財產，或為其他不利於債權人之處分。\n　　三、捏造債務，或承認不真實之債務。\n　　四、無故拒絕監管人、接管人或清理人之詢問，或對其詢問為虛偽之答復，致影響被保險人或受益人之權益者。",
             "relates": {}
         },
         {
@@ -1659,46 +1659,53 @@
         }
     ],
     "law_reasons": {
-        "第一百四十六條 之四": "　　一、金管會業於九十六年八月開放壽險業得辦理以外幣收付之非投資型人身保險業務（以下稱外幣保單），惟該項業務資金運用規定其各種準備金提列所對應之一般帳簿資產不得兌換為新臺幣，且其投資金額需納入國外投資額度計算，致新臺幣保險商品之國外投資額度受到排擠，除影響外幣保單業務之推展外，且不利保險業者提升資金運用效率及收益。\n　　二、外幣保單原係提供保戶另一投保選擇，亦可降低民眾購買地下保單的誘因，具有導正壽險市場的正面效果，惟若因國外投資之限額計算未排除外幣保單資產，將會限縮此業務之推展，進而影響其遏阻地下保單猖獗之效果。爰提議增定經主管機關核准銷售外幣保單，並符合一定條件者，得向主管機關申請核給不計入國外投資總額之額度。\n　　三、考量各保險業者之財務業務情況及風險管理能力並不相同，為落實差異化管理之精神，併提議俟本條條文修正通過後，主管機關應於「保險業辦理國外投資管理辦法」內就第二項但書所定不計入國外投資總額之額度，依申請額度之不同，分別訂定應符合之財業務條件等相關規範。"
+        "第一百七十二條 之一": "　　一、查保險法現行條文第一百四十九條之一、第一百六十八條之一，及修正中之保險法第一百六十七條之四，皆訂有相關「答復義務」之規定。\n　　二、為求法律用語前後一致，僅作文字修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1001017",
-            "立法紀錄": "100卷56期3908號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccf81cecfcfcfcac9cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "許舒博",
+            "會議日期": "1010316",
+            "立法紀錄": "101卷007期3948號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfcfc8cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "羅明才",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcbc8cdc5ced2cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbcfcec5cacbcbd2cacbca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1001024",
-            "立法紀錄": "100卷72期3924號 12-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccf81cecfcfcfc8cdcfcec4cfcfcecdc4cfcfcaca",
+            "會議日期": "1010502",
+            "立法紀錄": "101卷031期3972號 89-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfcccecfcec4cfcfc7c6c4cfceccc7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1001115",
-            "立法紀錄": "100卷75期3927號 121-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccf81cecfcfcfc8cacfcec4cfcecdcec4cfcecdc9",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1010522",
+            "立法紀錄": "101卷036期3977號 59-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfccc9cfcec4cfcfcac6c4cfcfc9cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc6c8c6c5cbced2cbc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdc8c6c5cec6d2cdcd"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1010522",
+            "立法紀錄": "101卷036期3977號 62-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfccc9cfcec4cfcfc9cdc4cfcfc9cd",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1001115",
-            "立法紀錄": "100卷75期3927號 126-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccf81cecfcfcfc8cacfcec4cfcecdc9c4cfcecdc9",
+            "會議日期": "1010522",
+            "立法紀錄": "101卷036期3977號 62-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfccc9cfcec4cfcfc9cdc4cfcfc9cd",
             "關係文書": []
         }
     ]
