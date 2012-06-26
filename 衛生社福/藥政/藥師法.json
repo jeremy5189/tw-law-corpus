@@ -1,8 +1,8 @@
 {
     "title": "藥師法",
     "versions": [
-        "中華民國100年1月10日修正",
-        "中華民國100年1月26日公布"
+        "中華民國101年6月5日修正",
+        "中華民國101年6月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,7 +22,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　（刪除）",
+            "content": "　　具有下列資格之一，得應藥師考試：\n　　一、公立或立案之私立大學、獨立學院或符合教育部採認規定之國外大學、獨立學院藥學系畢業，並經實習期滿成績及格，領有畢業證書者。\n　　二、本法中華民國一百零一年六月五日修正施行前，於專科學校藥學科畢業，並經實習期滿成績及格，領有畢業證書者。",
             "relates": {}
         },
         {
@@ -335,87 +335,53 @@
         }
     ],
     "law_reasons": {
-        "第十九條": "　　一、為求法律用語之明確性，明訂用語為「交付藥劑時」，以資明確。\n　　二、將第一項第一款句中「及藥品名稱、劑量、數量、用法」等字刪除。\n　　三、為確保民眾瞭解所服用藥物之作用及適應症，參照醫師法第十四條及醫療法第六十六條之規定，藥師於交付藥劑時，其容器或包裝應載明事項爰增列第二款「作用或適應症」。\n　　四、原第二款至第五款遞改為第三款至第六款。",
-        "第四十三條": "　　照黨團協商條文通過。"
+        "第二條": "　　一、有鑑藥師所具有之教育背景與專業智能，與民眾用藥安全關聯甚密，關於藥師應考試資格之限制，自應參酌藥師之社會需求與藥學教育之目的定之。又藥師之應考試資格與藥師之養成教育息息相關，屬藥師身分及執行業務之重要事項而影響藥師權益至鉅，且應考試資格涉及人民工作權之基本權限制，自應於法律中明確規範為宜。現行制度將藥師應考試資格之限制，將藥師法第二條之規定予以刪除，並透過「專門職業及技術人員考試法」第十四條之授權規定，制定「專門職業及技術人員高等暨普通考試醫事人員考試規則」，於該規則第 14 條第1 項中，將原於母法（藥師法）法律位階規定之藥師應考試資格，改以僅為行政命令之附表中訂定，顯有逾越「專門職業及技術人員考試法」第十四條之授權，而違反中央法規標準法第五條、第六條以及法律保留原則之旨趣。參諸我國於專門職業及技術人員考試中，針對醫師、中醫師、牙醫師、心理師、呼吸治療師、語言治療師、牙體技術師法、聽力師等之應考資格，均分別明確規範於醫師法第二條、第三條、第四條、第四條之一、心理師法第二條、呼吸治療師法第二條、語言治療師法第二條、牙體技術師法第四條、聽力師法第二條等規定，是對於藥師應考試資格之規範，自應於藥師法中明確規定為宜，爰予修正藥師法，增列第二條之規定。\n　　二、依藥師之社會需求及藥學教育之目的，藥師之應考資格，應限由公立或立案之私立大學藥學科系畢業，並經實習期滿成績及格，領有畢業證書者。如係符合教育部採認規定之國外大學、獨立學院藥學系畢業，或在外國政府領有藥師證書者，自應經教育部學力甄試通過，並於國內實習期滿成績及格，始具有考試資格。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0980918",
-            "立法紀錄": "098卷046期3732號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccc681c6c7cbc9cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "1010420",
+            "立法紀錄": "101卷022期3963號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbce81cecfcecfcdcdcfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "劉建國",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcecfcec5cdcacad2cdcac8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "0981023",
-            "立法紀錄": "098卷055期3741號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cfccc681c6c7cacacfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "黃淑英",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc9cfcec5cec7cad2cec7c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "0991210",
-            "立法紀錄": "099卷080期3845號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfccc681cfc6c6cfc7cfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "管碧玲",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecec8cdc5cecdc6d2cecccf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7c8cdc5cdcbccd2cdcbc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "0990322",
-            "立法紀錄": "099卷021期3786號 3-51頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfccc681cfc6c6cfcdcecfcec4cfcfcfccc4cfcfcace",
+            "會議日期": "1010517",
+            "立法紀錄": "101卷040期3981號 170-174頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbce81cecfcecfcbcfcfcec4cfcec8cfc4cfcec8cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "0991228",
-            "立法紀錄": "100卷001期3853號 126-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfccc681cecfcfcfcfcecfcec4cfcecdc9c4cfcecccf",
+            "會議日期": "1010605",
+            "立法紀錄": "101卷043期3984號 46-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbce81cecfcecfcbcccfcec4cfcfcbc9c4cfcfcacd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacec9cfccc5cccecfd2ccceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbc8cbc5ceccd2cdcf"
                 ]
             ]
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "0991224",
-            "立法紀錄": "100卷008期3860號四冊 305-306頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfccc681cecfcfcfcfc7cfcbc4cfcccfcac4cfcccfc9",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷008期3860號一冊 482-483頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfccc681cecfcfcfcfc7cfcec4cfcbc7cdc4cfcbc7cc",
+            "會議日期": "1010605",
+            "立法紀錄": "101卷043期3984號 52-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbce81cecfcecfcbcccfcec4cfcfcacdc4cfcfcacd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷008期3860號一冊 483-484頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfccc681cecfcfcfcfc7cfcec4cfcbc7ccc4cfcbc7cb",
+            "會議日期": "1010605",
+            "立法紀錄": "101卷043期3984號 52-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbce81cecfcecfcbcccfcec4cfcfcacdc4cfcfcacd",
             "關係文書": []
         }
     ]
