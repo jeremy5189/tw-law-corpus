@@ -1,8 +1,8 @@
 {
     "title": "菸酒管理法",
     "versions": [
-        "中華民國98年5月26日修正",
-        "中華民國98年6月10日公布"
+        "中華民國101年7月26日修正",
+        "中華民國101年8月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -310,7 +310,7 @@
         {
             "note": "(罰則)",
             "rule_no": "第四十六條",
-            "content": "　　產製私菸、私酒者，處新臺幣十萬元以上一百萬元以下罰鍰。但查獲物查獲時現值超過新臺幣一百萬元者，處查獲物查獲時現值一倍以上五倍以下罰鍰。\n　　產製私菸、私酒未逾一定數量且供自用者，不罰。\n　　前項所稱之一定數量，由中央主管機關公告之。\n　　輸入私菸、私酒者，處二年以下有期徒刑、拘役或科或併科新臺幣二十萬元以上二百萬元以下罰金。",
+            "content": "　　產製私菸、私酒者，處新臺幣五萬元以上一百萬元以下罰鍰。但查獲物查獲時現值超過新臺幣一百萬元者，處查獲物查獲時現值一倍以上五倍以下罰鍰，最高以新臺幣一千萬元為限。\n　　輸入私菸、私酒者，處三年以下有期徒刑，得併科新臺幣二十萬元以上一千萬元以下罰金。\n　　產製或輸入私菸、私酒未逾一定數量且供自用，或入境旅客隨身攜帶菸酒，不適用前二項之規定。\n　　入境旅客隨身攜帶菸酒超過免稅數量，未依規定向海關申報者，超過免稅數量之菸酒由海關沒入，並由海關分別按每條捲菸、每磅菸絲、每二十五支雪茄或每公升酒處新臺幣五百元以上五千元以下罰鍰，不適用海關緝私條例之處罰規定。\n　　第三項所稱之一定數量，由中央主管機關公告之。\n　　本條中華民國一○一年七月二十六日修正之規定，其施行日期，由行政院定之。",
             "relates": {}
         },
         {
@@ -421,49 +421,60 @@
         }
     ],
     "law_reasons": {
-        "第十二條": "　　九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產人」修正為「受監護宣告之人」，並增訂「受輔助宣告之人」之相關規定，爰配合將第一款之「禁治產人」修正為「受監護宣告之人」，另考量受輔助宣告之人係因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其意思表示效果之能力，顯有不足，不宜為菸酒製造業者，爰於同款增列「受輔助宣告之人」不得為菸酒製造業者之規定；其餘各款未修正。",
-        "第十九條": "　　第一款修正理由同本法修正條文第十二條說明，其餘各款未修正。",
-        "第二十五條": "　　第一款修正理由同本法修正條文第十二條說明，第二款未修正。",
-        "第六十三條": "　　一、第一項未修正。\n　　二、配合九十七年五月二十三日修正公布之民法及其施行法修正條文自九十八年十一月二十三日施行，增訂第二項將本法本次修正條文之施行日期亦定自同日施行。"
+        "第四十六條": "　　為考量海關人力及司法資源不必要之浪費，但又必須防堵大量走私之弊端，爰提案修正菸酒管理法第四十六條條文，增訂走私菸酒刑罰處罰範圍，同時將刑罰範圍外，輸入超過一定數量之私菸私酒以行政罰代替刑罰，其具體數量授權主管機關公告之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbc7ce81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "1010406",
+            "立法紀錄": "101卷017期3958號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccbc7cc81cecfcecfcec8cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "盧秀燕",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc9c8cdc5cec9ccd2cec9c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980506",
-            "立法紀錄": "98卷30期3716號 212-246頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbc7ce81c6c7cccfcfcfc4cfcdcecdc4cfcdcbc9",
+            "會議日期": "1010502",
+            "立法紀錄": "101卷031期3972號 89-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccbc7cc81cecfcecfcccecfcec4cfcfc7c6c4cfceccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "980526",
-            "立法紀錄": "98卷34期3720號 211-227頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbc7ce81c6c7cccbcfcfc4cfcdcecec4cfcdcdc8",
+            "會議日期": "1010726",
+            "立法紀錄": "101卷050期3991號 451-455頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccbc7cc81cecfcecfcacfcfcec4cfcbcacec4cfcbcaca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecbcfccc5cecec6d2cecccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecec8c8ccc5cac6ced2cac6cb"
                 ]
             ]
         },
         {
+            "進度": "黨團協商",
+            "會議日期": "1010525",
+            "立法紀錄": "101卷050期3991號 501-508頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccbc7cc81cecfcecfcacfcfcec4cfcacfcec4cfcacfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1010726",
+            "立法紀錄": "101卷050期3991號 455-456頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccbc7cc81cecfcecfcacfcfcec4cfcbcacac4cfcbcac9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "980526",
-            "立法紀錄": "98卷34期3720號 227-227頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cccbc7ce81c6c7cccbcfcfc4cfcdcdc8c4cfcdcdc8",
+            "會議日期": "1010726",
+            "立法紀錄": "101卷050期3991號 456-456頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccbc7cc81cecfcecfcacfcfcec4cfcbcac9c4cfcbcac9",
             "關係文書": []
         }
     ]
