@@ -1,8 +1,8 @@
 {
     "title": "農產品市場交易法",
     "versions": [
-        "中華民國95年5月23日修正",
-        "中華民國95年6月14日公布"
+        "中華民國101年11月13日修正",
+        "中華民國101年11月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -96,7 +96,7 @@
         {
             "note": "",
             "rule_no": "第十三條",
-            "content": "　　農產品批發市場經營主體，以合於左列規定之一者為限：\n　　一、農民團體。\n　　二、農民團體共同出資組織之法人。\n　　三、政府機關或鄉（鎮、市）公所及農民團體共同出資組織之法人。\n　　四、農民及農產品販運商共同出資組織之法人。\n　　五、政府機關或鄉（鎮、市）公所出資組織之法人。\n　　六、政府機關或鄉（鎮、市）公所、農民團體及農產品販運商共同出資組織之法人。\n　　農產品批發市場，經營主體均不得以營利為目的；其組織除前項第一款外，準用公司法股份有限公司之規定。但第二款、第三款、第五款、第六款之法人，發起人人數及資格不受公司法第一百二十八條之限制。\n　　農產品批發市場之經營，以合於第一項第一款、第二款規定者為優先；合於第一項第四款規定者，不得享有本法第十二條、第十五條、第十七條所定之補助、土地取得及稅捐減徵等優待。",
+            "content": "　　農產品批發市場經營主體，以合於下列規定之一者為限：\n　　一、農民團體。\n　　二、農民團體共同出資組織之法人。\n　　三、政府機關或鄉（鎮、市）公所及農民團體共同出資組織之法人。\n　　四、農民及農產品販運商共同出資組織之法人。\n　　五、政府機關或鄉（鎮、市）公所出資組織之法人。\n　　六、政府機關或鄉（鎮、市）公所、農民團體或農民，及農產品販運商共同出資組織之法人。\n　　農產品批發市場，經營主體均不得以營利為目的；其組織除前項第一款外，準用公司法股份有限公司之規定。但第二款、第三款、第五款、第六款之法人，發起人人數及資格不受公司法第一百二十八條之限制。\n　　農產品批發市場之經營，以合於第一項第一款、第二款規定者為優先；合於第一項第四款規定者，不得享有本法第十二條、第十五條、第十七條所定之補助、土地取得及稅捐減徵等優待。",
             "relates": {}
         },
         {
@@ -293,73 +293,53 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　第二段後段「得由農民自行辦理」修正為「由農民或農業產銷班自行辦理，政府應積極輔導之。」",
-        "第十九條": "　　一、修正第一項關於核發農產品承銷許可證之規定，以減少農產品層層剝削，造成產地價與市場價差距過大，利潤均集中在中間承銷人手中，而農漁民及消費者雙輸之局面。\n　　二、增訂保證金的規定，以防止不肖商人企圖癱瘓承銷市場，在交易市場中胡亂喊價後卻不交貨之情事發生。\n　　三、關於保證金金額多寡，則由批發市場訂定報地方主管機關核備。"
+        "第十三條": "　　一、本條第一項修正第六款。\n　　二、為因應我國農產運銷多元發展，提昇農產品批發市場運銷職能，加強市場經營主體組成結構多元化以保障農民權益，爰於第一項農產品批發市場經營主體資格條件，修正第六款「政府機關或鄉（鎮、市）公所、農民團體或農民及農產品販運商共同出資組織之法人」規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940923",
-            "立法紀錄": "94卷45期3427號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c7ce81c6cbcbcacfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "蔡啟芳",
+            "會議日期": "1010504",
+            "立法紀錄": "101卷028期3969號 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec9c7cc81cecfcecfcdc7cfcec4cfcfcfcec4cfcfcfcd",
+            "主提案": "丁守中",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcec5cecbcad2cecbc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "950106",
-            "立法紀錄": "95卷4期3465號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c7ce81c6cacfcbcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "謝欣霓",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec7cfcec5c7c8d2c7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "950324",
-            "立法紀錄": "95卷12期3473號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c7ce81c6cacecdcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "蔡啟芳",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc9cfcec5c6c9d2c6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececfc8cdc5cec6d2cdcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950515",
-            "立法紀錄": "95卷30期3491號 163-171頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c7ce81c6cacccfcfcfc4cfcec9ccc4cfcec8ce",
+            "會議日期": "1010524",
+            "立法紀錄": "101卷042期3983號 157-191頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec9c7cc81cecfcecfcbcdcfcec4cfcecac8c4cfcec6ce",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950523",
-            "立法紀錄": "95卷29期3490號一冊 87-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c7ce81c6cacdc6cfcec4cfcfc7c8c4cfcfc6cb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1011113",
+            "立法紀錄": "101卷068期4009號一冊 363-368頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec9c7cc81cecfcecfc9c7cfcec4cfccc9ccc4cfccc9c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcdc5cdc9cdd2cdc8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecec8c8ccc5cccdc6d2cccccb"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1011113",
+            "立法紀錄": "101卷068期4009號一冊 368-368頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec9c7cc81cecfcecfc9c7cfcec4cfccc9c7c4cfccc9c7",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "950523",
-            "立法紀錄": "95卷29期3490號一冊 94-94頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcec9c7ce81c6cacdc6cfcec4cfcfc6cbc4cfcfc6cb",
+            "會議日期": "101113",
+            "立法紀錄": "101卷068期4009號一冊 368-368頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec9c7cc81cecfcecfc9c7cfcec4cfccc9c7c4cfccc9c7",
             "關係文書": []
         }
     ]
