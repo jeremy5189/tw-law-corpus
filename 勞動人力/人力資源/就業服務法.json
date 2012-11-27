@@ -1,8 +1,8 @@
 {
     "title": "就業服務法",
     "versions": [
-        "中華民國101年1月19日修正",
-        "中華民國101年1月30日公布"
+        "中華民國101年11月13日修正",
+        "中華民國101年11月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -40,7 +40,7 @@
         {
             "note": "(國民就業機會之保障)",
             "rule_no": "第五條",
-            "content": "　　為保障國民就業機會平等，雇主對求職人或所僱用員工，不得以種族、階級、語言、思想、宗教、黨派、籍貫、出生地、性別、性傾向、年齡、婚姻、容貌、五官、身心障礙或以往工會會員身分為由，予以歧視；其他法律有明文規定者，從其規定。\n　　雇主招募或僱用員工，不得有下列情事：\n　　一、為不實之廣告或揭示。\n　　二、違反求職人或員工之意思，留置其國民身分證、工作憑證或其他證明文件。\n　　三、扣留求職人或員工財物或收取保證金。\n　　四、指派求職人或員工從事違背公共秩序或善良風俗之工作。\n　　五、辦理聘僱外國人之申請許可、招募、引進或管理事項，提供不實資料或健康檢查檢體。",
+            "content": "　　為保障國民就業機會平等，雇主對求職人或所僱用員工，不得以種族、階級、語言、思想、宗教、黨派、籍貫、出生地、性別、性傾向、年齡、婚姻、容貌、五官、身心障礙或以往工會會員身分為由，予以歧視；其他法律有明文規定者，從其規定。\n　　雇主招募或僱用員工，不得有下列情事：\n　　一、為不實之廣告或揭示。\n　　二、違反求職人或員工之意思，留置其國民身分證、工作憑證或其他證明文件，或要求提供非屬就業所需之隱私資料。\n　　三、扣留求職人或員工財物或收取保證金。\n　　四、指派求職人或員工從事違背公共秩序或善良風俗之工作。\n　　五、辦理聘僱外國人之申請許可、招募、引進或管理事項，提供不實資料或健康檢查檢體。",
             "relates": {}
         },
         {
@@ -543,107 +543,53 @@
         }
     ],
     "law_reasons": {
-        "第五十二條": "　　一、第一項及第三項未修正。\n　　二、歷來如須調整或緊縮外國人在臺灣工作人數，均以限制開放業別及核配比例作為執行之工具，並未以限制雇主申請展延聘僱許可作為管制手段。實務上，經書面審查雇主申請文件後，幾均予核發展延聘僱許可，少數不予許可案件則多因逾期申請之故。爰於不影響國人就業權益及社會安定之前提，基於簡政便民考量，將第二項聘僱許可期間由二年修正為三年，並刪除雇主得申請展延聘僱許可一次、期間最長一年之規定，並酌作文字修正。\n　　三、由於就業服務法明訂外勞在臺工作最長年限九年，形成部分優秀外勞期滿不能繼續在臺工作，反成韓、星等國等著挖角的對象。再者，外勞因曾在臺工作，不僅與雇主比較容易配合，技術也頗專精，不僅臺商愛找臺灣工作期滿的外勞，韓國、新加坡也樂於承接，讓臺灣訓練出的勞動力成為外國挖角對象。\n　　四、現行國籍法已將藍領外勞工作期限排除在居留期限認定範圍外，因此延長外勞工作期限並不會影響本國勞工權益。外勞在臺工作年限延長，可減少訓練成本，避免空窗期，可以降低仲介費用。爰於不影響國人就業權益及社會安定之前提，修正將其在中華民國境內工作期間，累計不得逾十二年。",
-        "第五十五條": "　　第五十五條，綜合各委員提案，照原條文，修正第四項句中「每逾一日加徵其未繳就業安定費百分之一滯納金。但以其未繳之就業安定費一倍為限。」為「每逾一日加徵其未繳就業安定費百分之零點三滯納金。但以其未繳之就業安定費百分之三十為限。」。"
+        "第五條": "　　一、本國失業率居高不下，工作難尋，致使求職者與受雇者常須配合雇主無理之對待與要求，當前雖已有相關法律命令得以保障求職者與受雇員工之工作權利，然面對許多不肖雇主之「新型態」不合理之規定與要求，仍略顯有所不足。\n　　二、另，近年來各式詐騙案頻傳，而起因往往是個人資料外洩，為使求職者與受雇員工之工作權利及個人隱私得以獲得保障，爰提案修正本條條文，於第二項增列第五款，明定雇主不得要求員工或求職人提供與工作內容無關之隱私資料。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0970408",
-            "立法紀錄": "097卷011期3622號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbcd81c6c8cececfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "張嘉郡",
+            "會議日期": "1010406",
+            "立法紀錄": "101卷017期3958號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcb81cecfcecfcec8cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "江惠貞",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc9cfcec5cbc6d2cacc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "0970422",
-            "立法紀錄": "097卷016期3627號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbcd81c6c8cec9cfcfc4cfcfcfc7c4cfcfcfc7",
-            "主提案": "江義雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcec5cccbc8d2cccbc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "0971219",
-            "立法紀錄": "097卷075期3686號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cacfcbcd81c6c8c8cacfcfc4cfcfcfcbc4cfcfcfca",
-            "主提案": "侯彩鳳",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecbcfcec5cecec7d2cecdcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "0991022",
-            "立法紀錄": "099卷055期3820號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcd81cfc6c6cfcacacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "鄭麗文",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcacfcec5c8ced2c8cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc9c8cdc5cecaccd2cecac9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "0991208",
-            "立法紀錄": "099卷086期3851號 354-402頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcd81cfc6c6cfc7c9cfcec4cfcccacbc4cfcbcfcd",
+            "會議日期": "1010606",
+            "立法紀錄": "101卷048期3989號 84-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcb81cecfcecfcbc7cfcec4cfcfc7cbc4cfcecacf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000111",
-            "立法紀錄": "100卷008期3860號二冊 54-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcd81cecfcfcfcfc7cfcdc4cfcfcacbc4cfcfc8cd",
+            "會議日期": "1011113",
+            "立法紀錄": "101卷068期4009號一冊 384-389頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcb81cecfcecfc9c7cfcec4cfccc7cbc4cfccc7c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecccfc9c5c7c8d2cecfcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecec8c8ccc5cbcccad2cbcbcf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1000613",
-            "立法紀錄": "100卷049期3901號五冊 2107-2107頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcd81cecfcfcfcbc6cfcac4cdcecfc8c4cdcecfc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1001214",
-            "立法紀錄": "100卷088期3940號三冊 1108-1108頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcd81cecfcfcfc7c7cfccc4cececfc7c4cececfc7",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1010119",
-            "立法紀錄": "101卷001期3942號 68-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcd81cecfcecfcfcecfcec4cfcfc9c7c4cfcfc8cd",
+            "會議日期": "1011113",
+            "立法紀錄": "101卷068期4009號一冊 389-389頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcb81cecfcecfc9c7cfcec4cfccc7c6c4cfccc7c6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1010119",
-            "立法紀錄": "101卷001期3942號 72-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcd81cecfcecfcfcecfcec4cfcfc8cdc4cfcfc8cd",
+            "會議日期": "1011113",
+            "立法紀錄": "101卷068期4009號一冊 389-389頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cacfcbcb81cecfcecfc9c7cfcec4cfccc7c6c4cfccc7c6",
             "關係文書": []
         }
     ]
