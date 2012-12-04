@@ -1,8 +1,8 @@
 {
     "title": "法醫師法",
     "versions": [
-        "中華民國98年12月15日修正",
-        "中華民國98年12月30日公布"
+        "中華民國101年11月20日修正",
+        "中華民國101年12月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -322,7 +322,7 @@
         {
             "note": "",
             "rule_no": "第四十八條",
-            "content": "　　醫師自本法施行屆滿六年起，不得執行刑事訴訟法規定之檢驗、解剖屍體業務。",
+            "content": "　　醫師自本法施行屆滿九年起，不得執行刑事訴訟法規定之檢驗、解剖屍體業務。",
             "relates": {}
         },
         {
@@ -357,47 +357,66 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　一、配合九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」修正為「監護宣告」，並增訂「受輔助宣告」之規定，爰配合將第一項第六款之「受禁治產宣告」修正為「受監護宣告」，另考量受輔助宣告之人係因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其意思表示效果之能力，顯有不足，不宜擔任法醫師，爰於同款增列「受輔助宣告」不得充任法醫師之規定；其餘各款未修正。\n　　二、第二項未修正。",
-        "第五十三條": "　　一、原條文列為第一項。\n　　二、配合民法及其施行法修正條文自九十八年十一月二十三日施行，本法本次修正之條文亦定自同日施行，爰增訂第二項。"
+        "第四十八條": "　　一、修正通過。\n　　二、針對短期二至三年內法醫人力青黃不接之際，為使法醫鑑定工作能夠順利執行，爰將原期限六年，延長三年修正為九年使開業醫師可以繼續執行法醫業務，以待新培育之法醫人力得以銜接。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcfc7cd81c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷025期3966號 18-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfcdcacfcec4cfcfcec7c4cfcfcec7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdcfcec5cecdc9d2cdcacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc6c8ccc5c9cbc6d2c9cacb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010511",
+            "立法紀錄": "101卷032期3973號 16-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfcccdcfcec4cfcfcec9c4cfcfcec8",
+            "主提案": "蘇清泉",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececec8cdc5cdcfced2cdcfcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "981126",
-            "立法紀錄": "98卷74期3760號 107-160頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcfc7cd81c6c7c8cbcfcfc4cfcecfc8c4cfcec9cf",
+            "會議日期": "1010604",
+            "立法紀錄": "101卷046期3987號 429-506頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfcbc9cfcec4cfcbcdc6c4cfcacfc9",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "981215",
-            "立法紀錄": "98卷75期3761號二冊 258-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcfc7cd81c6c7c8cacfcdc4cfcdcac7c4cfcdc9cd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1011120",
+            "立法紀錄": "101卷071期4012號一冊 62-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfc8cecfcec4cfcfc9cdc4cfcfc8ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcbc5cdced2cdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecec8c8ccc5ccc6c8d2cbcecf"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1011120",
+            "立法紀錄": "101卷071期4012號一冊 75-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfc8cecfcec4cfcfc8cac4cfcfc8ca",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "981215",
-            "立法紀錄": "98卷75期3761號二冊 262-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdcfc7cd81c6c7c8cacfcdc4cfcdc9cdc4cfcdc9cd",
+            "會議日期": "1011120",
+            "立法紀錄": "101卷071期4012號一冊 75-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfc8cecfcec4cfcfc8cac4cfcfc8c9",
             "關係文書": []
         }
     ]
