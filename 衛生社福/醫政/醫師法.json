@@ -1,8 +1,8 @@
 {
     "title": "醫師法",
     "versions": [
-        "中華民國98年4月21日修正",
-        "中華民國98年5月13日公布"
+        "中華民國101年12月4日修正",
+        "中華民國101年12月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -326,7 +326,7 @@
         {
             "note": "",
             "rule_no": "第三十二條",
-            "content": "　　醫師公會之區域，依現有之行政區域，在同一區域內同級之公會，以一個為限。但醫師、中醫師及牙醫師應分別組織公會。",
+            "content": "　　醫師公會之區域，依現有之行政區域，在同一區域內同級之公會，以一個為限。但於行政區域調整變更前已成立者，不在此限。\n　　醫師、中醫師及牙醫師應分別組織公會。",
             "relates": {}
         },
         {
@@ -437,46 +437,79 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　為保障病人知的權益及用藥安全，爰規定交付藥劑時，其容器或包裝載明事項參照藥師法之規定，增列用法、作用或適應症、警語或副作用、調劑者姓名及調劑年、月、日等事項。"
+        "第三十二條": "　　一、因五都合併後，原有之人民團體如醫師公會等組織，如無合併意願，應可維持現狀分立。\n　　二、各職業公、工會成立在先，多數團體都已經營數十年，且擁有自由資產、文化與共識，而行政區域調整變更在後，若依原條文斷然強制其合併或解散，有違信賴保護原則。\n　　三、內政部101年2月7日函覆高雄市商業會（文號：內授中社字10150505899號），文中也針對商業會因縣市合併案是否應合併為一會之案，並無強制合併之訴求。\n　　四、查我國於99年調整行政區域劃分後，部分縣市合併改制或與原有直轄市合併改制為新直轄市，而合併前行政區域內既有之縣市醫師公會，於合併後依醫師法原條文「同一區域內同級之公會以一個為限之規定」而必須整併為一個同級公會。惟依據憲法第十四條及公民與政治權利國際公約第二十二條規範意旨，人民有結社之自由，政府不應限制其數量；爰此將第一項後段修訂為「但於行政區域調整變更前已存在者，不在此限」，使各醫師公會組織不因行政區域調整而被迫改制，進而影響行之有年之健全體制，俾保障醫師會員權益。\n　　五、原條文但書酌為文字修正，並列為第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971205",
-            "立法紀錄": "97卷71期3682號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac681c6c8c8cecfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "1010918",
+            "立法紀錄": "101卷051期3992號一冊 18-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7c9cf81cecfcecfcacecfcec4cfcfcec7c4cfcfcec7",
+            "主提案": "趙天麟",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecdc8cdc5cecdc6d2cecccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcec8ccc5cbc9ccd2cbc9cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011005",
+            "立法紀錄": "101卷055期3996號一冊 39-39頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7c9cf81cecfcecfcacacfcec4cfcfccc6c4cfcfccc6",
+            "主提案": "江啟臣",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfccc8c7c5cec6d2cdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011026",
+            "立法紀錄": "101卷063期4004號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7c9cf81cecfcecfc9cccfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "吳育仁",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc9c8cdc5cdcccad2cdccc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980406",
-            "立法紀錄": "98卷20期3706號 177-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac681c6c7cdcfcfcfc4cfcec8c8c4cfcdcbcf",
+            "會議日期": "1011108",
+            "立法紀錄": "101卷073期4014號二冊 198-228頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7c9cf81cecfcecfc8cccfcdc4cfcec6c7c4cfcdcdc7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980421",
-            "立法紀錄": "98卷22期3708號 62-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac681c6c7cdcdcfcfc4cfcfc9cdc4cfcfc9ca",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1011204",
+            "立法紀錄": "101卷077期4018號一冊 119-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7c9cf81cecfcecfc8c8cfcec4cfcecec6c4cfcecdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6cfccc5cdccc6d2cdcbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecec8c7c5ced2cecf"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1011204",
+            "立法紀錄": "101卷077期4018號一冊 127-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7c9cf81cecfcecfc8c8cfcec4cfcecdc8c4cfcecdc8",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "980421",
-            "立法紀錄": "98卷22期3708號 65-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cac681c6c7cdcdcfcfc4cfcfc9cac4cfcfc9ca",
+            "會議日期": "1011204",
+            "立法紀錄": "101卷077期4018號一冊 127-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7c9cf81cecfcecfc8c8cfcec4cfcecdc8c4cfcecdc8",
             "關係文書": []
         }
     ]
