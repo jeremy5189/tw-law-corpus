@@ -1,8 +1,8 @@
 {
     "title": "自來水法",
     "versions": [
-        "中華民國99年5月25日修正",
-        "中華民國99年6月15日公布"
+        "中華民國101年12月4日修正",
+        "中華民國101年12月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -418,7 +418,7 @@
         {
             "note": "(供水義務)",
             "rule_no": "第六十一條",
-            "content": "　　自來水事業在其供水區域內，對於請求供水者，非有正當理由，不得拒絕。\n　　前項請求供水者，對拒絕供水如有異議，得申請主管機關核定之。",
+            "content": "　　自來水事業在其供水區域內，對於申請供水者，非有正當理由，不得拒絕。\n　　無自來水地區居民，申請自來水供水之用戶設備外線費用，得由政府逐年編列預算補助，並應優先補助低收入戶；其施設簡易自來水者，亦同。\n　　前項補助辦法，由中央主管機關定之。\n　　第一項申請供水者，對拒絕供水如有異議，得申請主管機關核定之。",
             "relates": {}
         },
         {
@@ -799,72 +799,73 @@
         }
     ],
     "law_reasons": {
-        "第十二條 之二": "　　一、本條第三項規定：「水源保育與回饋費得納入中央主管機關水資源相關基金管理運用，專供水質水量保護區內辦理水資源保育與環境生態保育基礎設施、居民公共福利回饋及受限土地補償之用。」\n　　二、有關居民公共福利回饋及受限土地補償方式，以自來水水費補貼，最符合公平受益原則，並能具體實現回饋居民之宗旨。\n　　三、為解決原住民部落供水問題，行政院原住民委員會已依據年度預算程序，編列預算辦理「原住民族部落水資源規劃及供水計畫」，因此保護區內原住民地區供水系統，應依據該項計畫加速辦理之。\n　　四、增訂第六項，明訂：「水質水量保護區內非營利之家用自來水水費減半收取。保護區內原住民地區非屬自來水供水系統之簡易供水設施，應加速辦理」。\n　　五、為免同一鄉（鎮、市、區）公所跨二以上保護區者，其水源保育與回饋費有所差異，爰增列第七項，得經各該保護區之運用小組協調及審議通過後運用之。"
+        "第六十一條": "　　一、由於社會的發展，「請求供水」一語，不合時宜，爰修正為「申請供水」。\n　　二、用戶設備外線依現行規定，原係由用戶委託自來水事業代辦（費用由用戶負擔，並於繳交費用予自來水事業後辦理），惟考量無自來水地區低收入戶之財力，避免因經濟弱勢而影響用水，爰於第二項訂定得予以補助之規定，並於第三項授權補助辦法由中央主管機關定之。\n　　三、配合增列第二、三項，原條文第二項遞改為第四項修正用語。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "990423",
-            "立法紀錄": "99卷29期3794號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfcf81cfc6c6cfcdc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "黃偉哲",
+            "會議日期": "1010316",
+            "立法紀錄": "101卷007期3948號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfce81cecfcecfcfc8cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "羅明才",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecfc8cdc5c6ccd2c6c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbcfcec5cacbc9d2cacbc7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "990423",
-            "立法紀錄": "99卷29期3794號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfcf81cfc6c6cfcdc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "陳淑慧",
+            "會議日期": "1010406",
+            "立法紀錄": "101卷017期3958號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfce81cecfcecfcec8cfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "李應元",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecfc8cdc5c6c8d2cecfcd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "990423",
-            "立法紀錄": "99卷29期3794號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfcf81cfc6c6cfcdc6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "鍾紹和",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecfc8cdc5cecfccd2cecfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcdc8cdc5cbced2cbcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "990512",
-            "立法紀錄": "99卷39期3804號二冊 262-288頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfcf81cfc6c6cfccc6cfcdc4cfcdc9cdc4cfcdc7c7",
+            "會議日期": "1010606",
+            "立法紀錄": "101卷048期3989號 33-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfce81cecfcecfcbc7cfcec4cfcfccccc4cfcfc8c8",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990525",
-            "立法紀錄": "99卷39期3804號一冊 55-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfcf81cfc6c6cfccc6cfcec4cfcfcacac4cfcfc9c6",
+            "進度": "委員會審查",
+            "會議日期": "1011107",
+            "立法紀錄": "101卷073期4014號一冊 278-306頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfce81cecfcecfc8cccfcec4cfcdc8c7c4cfcccfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1011204",
+            "立法紀錄": "101卷077期4018號一冊 127-134頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfce81cecfcecfc8c8cfcec4cfcecdc8c4cfcecccb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecbcfcdc5cccacdd2ccc9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcececfcac5cecccdd2ceccc7"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1011204",
+            "立法紀錄": "101卷077期4018號一冊 134-134頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfce81cecfcecfc8c8cfcec4cfcecccbc4cfcecccb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "990525",
-            "立法紀錄": "99卷39期3804號一冊 69-69頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfcf81cfc6c6cfccc6cfcec4cfcfc9c6c4cfcfc9c6",
+            "會議日期": "1011204",
+            "立法紀錄": "101卷077期4018號一冊 134-134頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcfce81cecfcecfc8c8cfcec4cfcecccbc4cfcecccb",
             "關係文書": []
         }
     ]
