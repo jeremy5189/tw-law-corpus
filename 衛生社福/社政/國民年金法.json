@@ -1,8 +1,8 @@
 {
     "title": "國民年金法",
     "versions": [
-        "中華民國100年12月14日修正",
-        "中華民國100年12月28日公布"
+        "中華民國101年12月7日修正",
+        "中華民國101年12月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -228,7 +228,7 @@
         {
             "note": "",
             "rule_no": "第三十一條",
-            "content": "　　本法施行時年滿六十五歲國民，在國內設有戶籍，且於最近三年內每年居住超過一百八十三日，而無下列各款情事之一者，視同本法被保險人，得請領老年基本保證年金，每人每月新臺幣三千元至死亡為止，不適用本章第三節至第五節有關保險給付之規定，亦不受第二章被保險人及保險效力及第三章保險費規定之限制：\n　　一、經政府全額補助收容安置。\n　　二、領取軍人退休俸（終身生活補助費）、政務人員、公教人員、公營事業人員月退休（職）金或一次退休（職、伍）金。但有下列情形之一者，不在此限：\n　　　(一)軍人、政務人員、公教人員、公營事業人員領取一次退休（職、伍）金且未辦理政府優惠存款者，未領取公教人員保險養老給付或軍人保險退伍給付，或所領取公教人員保險養老給付、軍人保險退伍給付之總額，自年滿六十五歲當月起以新臺幣三千元按月累計達原領取總額。\n　　　(二)原住民領取一次退休（職、伍）金。\n　　三、領取社會福利津貼。\n　　四、財稅機關提供保險人公告年度之個人綜合所得稅各類所得總額合計新臺幣五十萬元以上。\n　　五、個人所有之土地及房屋價值合計新臺幣五百萬元以上。\n　　六、入獄服刑、因案羈押或拘禁。\n　　前項第五款土地之價值，以公告土地現值計算；房屋之價值，以評定標準價格計算。但有下列情形之一者，應扣除之：\n　　一、土地之部分或全部被依法編為公共設施保留地，且因政府財務或其他不可歸責於地主之因素而尚未徵收及補償者。\n　　二、屬個人所有之唯一房屋且實際居住者。但其土地公告現值及房屋評定標準價格合計得扣除額度以新臺幣四百萬元為限。\n　　三、未產生經濟效益之原住民保留地。\n　　於本條中華民國一百年六月十三日修正之條文施行前，依第一項第二款第一目規定累計已達原領取總額者，不予補發老年基本保證年金。",
+            "content": "　　本法施行時年滿六十五歲國民，在國內設有戶籍，且於最近三年內每年居住超過一百八十三日，而無下列各款情事之一者，視同本法被保險人，得請領老年基本保證年金，每人每月新臺幣三千元至死亡為止，不適用本章第三節至第五節有關保險給付之規定，亦不受第二章被保險人及保險效力及第三章保險費規定之限制：\n　　一、經政府全額補助收容安置。\n　　二、領取軍人退休俸（終身生活補助費）、政務人員、公教人員、公營事業人員月退休（職）金或一次退休（職、伍）金。但有下列情形之一者，不在此限：\n　　　(一)軍人、政務人員、公教人員、公營事業人員領取一次退休（職、伍）金且未辦理政府優惠存款者，未領取公教人員保險養老給付或軍人保險退伍給付，或所領取公教人員保險養老給付、軍人保險退伍給付之總額，自年滿六十五歲當月起以新臺幣三千元按月累計達原領取總額。\n　　　(二)原住民領取一次退休（職、伍）金。\n　　三、領取社會福利津貼。\n　　四、財稅機關提供保險人公告年度之個人綜合所得稅各類所得總額合計新臺幣五十萬元以上。\n　　五、個人所有之土地及房屋價值合計新臺幣五百萬元以上。\n　　六、入獄服刑、因案羈押或拘禁。\n　　前項第五款土地之價值，以公告土地現值計算；房屋之價值，以評定標準價格計算。但有下列情形之一者，應扣除之：\n　　一、土地之部分或全部被依法編為公共設施保留地，且因政府財務或其他不可歸責於地主之因素而尚未徵收及補償者。\n　　二、屬個人所有之唯一房屋且實際居住者。但其土地公告現值及房屋評定標準價格合計得扣除額度以新臺幣四百萬元為限。\n　　三、未產生經濟效益之原住民保留地。\n　　於本條中華民國一百年六月十三日修正之條文施行前，依第一項第二款第一目規定累計已達原領取總額者，不予補發老年基本保證年金。\n　　中華民國一百零一年一月一日起，原已領取老年基本保證年金者，於各地方政府調整土地公告現值後，仍符合第一項第一款至第四款規定及第六款規定，且其個人所有之土地及房屋未新增時，不受第一項第五款規定之限制。身心障礙基本保證年金及第五十三條所定原住民給付，亦同。",
             "relates": {}
         },
         {
@@ -437,41 +437,118 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　照國民黨黨團提案條文通過。"
+        "第三十一條": "　　照原條文，增列第四項文字：「中華民國一百零一年一月一日起，原已領取老年基本保證年金者，於各地方政府調整土地公告現值後，仍符合第一項第一款至第四款規定及第六款規定，且其個人所有之土地及房屋未新增時，不受第一項第五款規定之限制。身心障礙基本保證年金及第五十三條所定原住民給付，亦同。」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1001028",
-            "立法紀錄": "100卷66期3918號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc881cecfcfcfc9c9cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "國民黨黨團",
+            "會議日期": "1010413",
+            "立法紀錄": "101卷021期3962號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfcdcecfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "姚文智",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc8c8cdc5cdccd2cdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8cfccc5cec8ccd2cec8c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1001214",
-            "立法紀錄": "100卷88期3940號三冊 996-996頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc881cecfcfcfc7c7cfccc4cfc6c6c9c4cfc6c6c9",
+            "進度": "一讀",
+            "會議日期": "1010413",
+            "立法紀錄": "101卷021期3962號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfcdcecfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "姚文智",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8c8cdc5cdcdccd2cdcdc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010504",
+            "立法紀錄": "101卷028期3969號 8-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfcdc7cfcec4cfcfcfc7c4cfcfcfc6",
+            "主提案": "吳育昇",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececfc8cdc5cdccc8d2cdcbcf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010518",
+            "立法紀錄": "101卷036期3977號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfccc9cfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "楊麗環",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdc8ccc5cec6c6d2cdcfcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010918",
+            "立法紀錄": "101卷51期3992號一冊 16-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfcacecfcec4cfcfcec9c4cfcfcec9",
+            "主提案": "國民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcec8cdc5ccc8ced2ccc8cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011026",
+            "立法紀錄": "101卷063期4004號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfc9cccfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "江惠貞",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc9c8cdc5cdcdc8d2cdcccf"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1011126",
+            "立法紀錄": "101卷080期4021號二冊 154-199頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfc7cfcfcdc4cfcecacbc4cfcec6c6",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1011207",
+            "立法紀錄": "101卷081期4022號一冊 53-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfc7cecfcec4cfcfcaccc4cfcfc8c8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdc8c6c5cec8d2cbcd"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001214",
-            "立法紀錄": "100卷88期3940號四冊 1707-1708頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc881cecfcfcfc7c7cfcbc4cec8cfc8c4cec8cfc7",
+            "會議日期": "1011207",
+            "立法紀錄": "101卷081期4022號一冊 77-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfc7cecfcec4cfcfc8c8c4cfcfc8c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001214",
-            "立法紀錄": "100卷88期3940號四冊 1708-1708頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc881cecfcfcfc7c7cfcbc4cec8cfc7c4cec8cfc7",
+            "會議日期": "1011207",
+            "立法紀錄": "101卷081期4022號一冊 78-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cdc781cecfcecfc7cecfcec4cfcfc8c7c4cfcfc8c7",
             "關係文書": []
         }
     ]
