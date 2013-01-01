@@ -1,8 +1,8 @@
 {
     "title": "特殊境遇家庭扶助條例",
     "versions": [
-        "中華民國100年11月22日修正",
-        "中華民國100年12月7日公布"
+        "中華民國101年12月18日修正",
+        "中華民國102年1月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -60,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　符合第四條規定，且其子女或孫子女就讀國內公立或立案之私立高級中等以上學校並符合社會救助法第五條之三第一項第一款規定之範圍，得申請教育補助：\n　　一、就讀高中高職減免學雜費百分之六十。\n　　二、就讀大專院校減免學雜費百分之六十。\n　　前項學雜費減免，應於註冊時檢附相關證明文件，經學校審核確認後逕予減免，私立學校由學校逕予減免後，報請主管教育行政機關補助之。",
+            "content": "　　符合第四條規定，且其子女或孫子女就讀國內公立或立案之私立高級中等以上學校，得申請教育補助。但其他法令有性質相同之補助規定者，不得重複領取：\n　　一、就讀高中高職減免學雜費百分之六十。\n　　二、就讀大專院校減免學雜費百分之六十。\n　　前項學雜費減免，應於註冊時檢附相關證明文件，經學校審核確認後逕予減免，私立學校由學校逕予減免後，報請主管教育行政機關補助之。\n　　第一項教育補助之申請程序、方式及其他應遵行事項之辦法，由各該主管教育行政機關定之。\n　　第一項中華民國一百零一年十二月十八日修正條文，自一百零一年八月一日施行。",
             "relates": {}
         },
         {
@@ -119,67 +119,105 @@
         },
         {
             "note": "",
+            "rule_no": "第十五條 之一",
+            "content": "　　為辦理本條例扶助業務所需之必要資料，主管機關得洽請相關機關（構）、團體、法人或個人提供之，受請求者不得拒絕。\n　　主管機關依前項規定所取得之資料，應盡善良管理人之注意義務，確實辦理資訊安全稽核作業；其保有、處理及利用，並應遵循個人資料保護法之規定。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第十六條",
             "content": "　　本條例自公布日施行。\n　　本條例九十八年一月十二日修正條文施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第四條": "　　除修正第一項第五款為「因離婚、喪偶、未婚生子獨自扶養十八歲以下子女或祖父母扶養十八歲以下父母無力扶養之孫子女，其無工作能力，或雖有工作能力，因遭遇重大傷病或照顧六歲以下子女或孫子女致不能工作。」外，其餘未修正。",
-        "第九條": "　　將申請傷病醫療補助資格之已自行負擔醫療費用額度由五萬元下修為三萬元，有助民眾申請補助，其餘未修正。",
-        "第十三條 之一": "　　一、本條新增。\n　　二、本條例所發放之各項津貼其目的即在於保障特殊遇境家庭基本生活，不因經濟沈重之負擔而失去求生之意志。避免被補助人及家庭，因債權人之申請假扣押、抵銷、擔保或因其他因素使其資產受到法院強制執行，無法達到本條例扶助之功能及目的。"
+        "第八條": "　　一、原條文第一項後段修正為：「，得申請教育補助。但其他法令有性質相同之補助規定者，不得重複領取：」。\n　　二、增列第三項及第四項規定。",
+        "第十五條 之一": "　　一、本條新增。\n　　二、主管機關需整合各相關機關持有或保管之資料，以辦理特殊境遇家庭扶助申請調查及核定程序，爰參照全民健康保險法第七十九條，社會救助法第四十四條之三，國民年金法第五十六條之概念，於第一項規定各相關機關提供資料之義務，並於第二項規定主管機關應依個人資料保護法規定辦理，並善盡資料保護之義務，以保障當事人之隱私。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "981127",
-            "立法紀錄": "98卷70期3756號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cecdcf81c6c7c8cfcfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "郭素春",
+            "會議日期": "1010323",
+            "立法紀錄": "101卷010期3951號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdce81cecfcecfcecfcfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "親民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc6cfcec5cecacdd2cecacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcac8cdc5cdc8ced2cdc8cb"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1000610",
-            "立法紀錄": "100卷49期3901號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdcf81cecfcfcfcbc6cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "劉建國",
+            "會議日期": "1011005",
+            "立法紀錄": "101卷055期3996號一冊 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdce81cecfcecfcacacfcec4cfcfcecac4cfcfceca",
+            "主提案": "楊麗環",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec8cfcec5cec6c8d2cdcfcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfccc8cdc5cdc6d2cccf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011019",
+            "立法紀錄": "101卷060期4001號一冊 38-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdce81cecfcecfc9cfcfcec4cfcfccc7c4cfcfccc7",
+            "主提案": "吳育昇",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcac8c7c5ced2cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011109",
+            "立法紀錄": "101卷068期4009號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdce81cecfcecfc9c7cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "台灣團結聯盟黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc7c8cdc5cecdc8d2cecccf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1001110",
-            "立法紀錄": "100卷79期3931號 354-392頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdcf81cecfcfcfc8c6cfcec4cfcccacbc4cfccc6cd",
+            "會議日期": "1011126",
+            "立法紀錄": "101卷080期4021號二冊 154-199頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdce81cecfcecfc7cfcfcdc4cfcecacbc4cfcec6c6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1001122",
-            "立法紀錄": "100卷78期3930號二冊 620-630頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdcf81cecfcfcfc8c7cfcdc4cfc9cdcfc4cfc9cccf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1011218",
+            "立法紀錄": "101卷083期4024號二冊 20-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdce81cecfcecfc7cccfcdc4cfcfcdcfc4cfcfccce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cecfc8c8c5cdcaced2cdc9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdc8c6c5cbc6d2c9cf"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1011218",
+            "立法紀錄": "101卷083期4024號二冊 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdce81cecfcecfc7cccfcdc4cfcfcccec4cfcfccce",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1001122",
-            "立法紀錄": "100卷78期3930號二冊 630-631頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdcf81cecfcfcfc8c7cfcdc4cfc9cccfc4cfc9ccce",
+            "會議日期": "1011218",
+            "立法紀錄": "101卷083期4024號二冊 31-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdce81cecfcecfc7cccfcdc4cfcfcccec4cfcfcccd",
             "關係文書": []
         }
     ]
