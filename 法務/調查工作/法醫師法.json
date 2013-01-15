@@ -1,8 +1,8 @@
 {
     "title": "法醫師法",
     "versions": [
-        "中華民國101年11月20日修正",
-        "中華民國101年12月5日公布"
+        "中華民國101年12月28日修正",
+        "中華民國102年1月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -352,71 +352,39 @@
         {
             "note": "",
             "rule_no": "第五十三條",
-            "content": "　　本法自公布後一年施行。\n　　本法中華民國九十八年十二月十五日修正之條文，自九十八年十一月二十三日施行。",
+            "content": "　　本法自公布後一年施行。\n　　本法中華民國九十八年十二月十五日修正之條文，自九十八年十一月二十三日施行。\n　　本法中華民國一百零一年十二月五日修正公布之條文，自一百零一年十二月二十八日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第四十八條": "　　一、修正通過。\n　　二、針對短期二至三年內法醫人力青黃不接之際，為使法醫鑑定工作能夠順利執行，爰將原期限六年，延長三年修正為九年使開業醫師可以繼續執行法醫業務，以待新培育之法醫人力得以銜接。"
+        "第五十三條": "　　為配合本法中華民國一百零一年十二月五日修正公布之第四十八條規定，爰增訂第三項規定，明定上開修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010427",
-            "立法紀錄": "101卷025期3966號 18-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfcdcacfcec4cfcfcec7c4cfcfcec7",
-            "主提案": "行政院",
+            "會議日期": "1011214",
+            "立法紀錄": "101卷083期4024號一冊 43-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7ca81cecfcecfc7cccfcec4cfcfcbccc4cfcfcbcc",
+            "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc6c8ccc5c9cbc6d2c9cacb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010511",
-            "立法紀錄": "101卷032期3973號 16-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfcccdcfcec4cfcfcec9c4cfcfcec8",
-            "主提案": "蘇清泉",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececec8cdc5cdcfced2cdcfcb"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1010604",
-            "立法紀錄": "101卷046期3987號 429-506頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfcbc9cfcec4cfcbcdc6c4cfcacfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1011120",
-            "立法紀錄": "101卷071期4012號一冊 62-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfc8cecfcec4cfcfc9cdc4cfcfc8ca",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecec8c8ccc5ccc6c8d2cbcecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdceccc8c9c5ceced2cecd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1011120",
-            "立法紀錄": "101卷071期4012號一冊 75-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfc8cecfcec4cfcfc8cac4cfcfc8ca",
+            "會議日期": "1011228",
+            "立法紀錄": "102卷002期4027號一冊 187-187頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7ca81cecfcdcfcfcdcfcec4cfcec7c8c4cfcec7c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1011120",
-            "立法紀錄": "101卷071期4012號一冊 75-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7cb81cecfcecfc8cecfcec4cfcfc8cac4cfcfc8c9",
+            "會議日期": "1011228",
+            "立法紀錄": "102卷002期4027號一冊 187-187頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7ca81cecfcdcfcfcdcfcec4cfcec7c8c4cfcec7c8",
             "關係文書": []
         }
     ]
