@@ -1,8 +1,8 @@
 {
     "title": "離島建設條例",
     "versions": [
-        "中華民國101年12月21日修正",
-        "中華民國102年1月9日公布"
+        "中華民國102年1月11日修正",
+        "中華民國102年1月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -120,7 +120,7 @@
         {
             "note": "(醫療補助與健保補助對象)",
             "rule_no": "第十三條",
-            "content": "　　為維護離島居民之生命安全及身體健康，行政院應編列預算，補助在離島開業之醫療機構、護理機構及其他醫事機構，並訂定特別獎勵及輔導辦法。\n　　六十五歲以上離島地區居民全民健康保險保險對象應自付之保險費，由中央政府編列預算支應。\n　　對於應由離島緊急送往臺灣本島就醫之急、重症病人，其往返交通費用，由行政院衛生署補助之。",
+            "content": "　　為維護離島居民之生命安全及身體健康，行政院應編列預算，補助在離島開業之醫療機構、護理機構、長期照顧機構及其他醫事機構與該離島地區所缺乏之專科醫師，並訂定特別獎勵及輔導辦法。\n　　六十五歲以上離島地區居民全民健康保險保險對象應自付之保險費，由中央政府編列預算支應。\n　　對於應由離島緊急送往臺灣本島就醫之急、重症病人暨陪同之醫護人員，其往返交通費用，由中央目的事業主管機關補助之。\n　　對於有接受長期照顧服務必要之身心障礙者及老人，中央目的事業主管機關應編列經費補助。\n　　為維護離島老人尊嚴與健康，中央目的事業主管機關應提供老人每二年一次比照公務人員健康檢查項目之體檢，其與老人福利法由直轄市、縣（市）主管機關當年提供之老人健康檢查之差額，由中央目的事業主管機關編列預算補助。",
             "relates": {}
         },
         {
@@ -173,53 +173,41 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　一、多年來，我國離島地區因地處偏遠交通不便，且只有地區醫院，醫療資源長期短缺，居民重大傷、病均依賴後送至台灣本島，屢屢延誤就醫黃金時機，但政府對離島地區居民卻課以等同於台灣本島居民的昂貴健保費，明顯違反憲法第七條所揭櫫的平等原則。\n　　二、為考量離島居民人口老化嚴重，就醫條件不佳，增訂本條例第十三條第二項，離島地區六十五歲以上居民應自付之全民健康保險費，應由中央政府編列預算全額補助。"
+        "第十三條": "為補正立法疏漏，爰修正本條。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010511",
-            "立法紀錄": "101卷032期3973號 16-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6cc81cecfcecfcccdcfcec4cfcfcec9c4cfcfcec9",
-            "主提案": "楊曜",
+            "會議日期": "1020104",
+            "立法紀錄": "102卷004期4029號一冊 29-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6ca81cecfcdcfcfcbcfcec4cfcfcdc6c4cfcfcccf",
+            "主提案": "民進黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececec8cdc5cec6ced2cec6cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec8c8cdc5ced2cd"
                 ]
             ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1010530",
-            "立法紀錄": "101卷045期3986號 446-452頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6cc81cecfcecfcbcacfcec4cfcbcbc9c4cfcbcacd",
-            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1011113",
-            "立法紀錄": "101卷068期4009號一冊 382-384頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6cc81cecfcecfc9c7cfcec4cfccc7cdc4cfccc7cb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc7c8c6c5c6d2cece"
-                ]
-            ]
+            "會議日期": "1020111",
+            "立法紀錄": "102卷005期4030號一冊 73-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6ca81cecfcdcfcfcacfcec4cfcfc8ccc4cfcfc8cb",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1011221",
-            "立法紀錄": "102卷001期4026號一冊 64-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6cc81cecfcdcfcfcecfcec4cfcfc9cbc4cfcfc9ca",
+            "會議日期": "1020111",
+            "立法紀錄": "102卷005期4030號一冊 74-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6ca81cecfcdcfcfcacfcec4cfcfc8cbc4cfcfc8ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1011221",
-            "立法紀錄": "102卷001期4026號一冊 65-66頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6cc81cecfcdcfcfcecfcec4cfcfc9cac4cfcfc9c9",
+            "會議日期": "1020111",
+            "立法紀錄": "102卷005期4030號一冊 75-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6ca81cecfcdcfcfcacfcec4cfcfc8cac4cfcfc8ca",
             "關係文書": []
         }
     ]
