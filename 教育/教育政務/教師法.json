@@ -1,8 +1,8 @@
 {
     "title": "教師法",
     "versions": [
-        "中華民國100年12月14日修正",
-        "中華民國101年1月4日公布"
+        "中華民國102年1月4日修正",
+        "中華民國102年1月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -160,7 +160,7 @@
         {
             "note": "(教師請假規則)",
             "rule_no": "第十八條 之一",
-            "content": "　　教師因婚、喪、疾病、分娩或其他正當事由，得依教師請假規則請假。\n　　前項教師請假規則，應包括教師請假假別、日數、請假程序、核定權責與違反之處理及其他相關事項，並由教育部定之。",
+            "content": "　　教師因婚、喪、疾病、分娩或其他正當事由，得依教師請假規則請假；其基於法定義務出席作證性侵害、性騷擾及霸凌事件，應給予公假。\n　　前項教師請假規則，應包括教師請假假別、日數、請假程序、核定權責與違反之處理及其他相關事項，並由教育部定之。",
             "relates": {}
         },
         {
@@ -327,48 +327,53 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　照黨團協商條文通過。"
+        "第十八條 之一": "　　增列以現行教師身分者，如基於性侵害、性騷擾及霸凌之出席作證，應給予公假。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1000506",
-            "立法紀錄": "100卷37期3889號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcb81cecfcfcfccc8cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "1010316",
+            "立法紀錄": "101卷007期3948號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfca81cecfcecfcfc8cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "蔣乃辛",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecdcfcec5cdcdcbd2cdcdc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbc8cdc5cec8c8d2cec8c7"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "1001118",
-            "立法紀錄": "100卷78期3930號一冊 36-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcb81cecfcfcfc8c7cfcec4cfcfccc9c4cfcfccc9",
+            "進度": "委員會審查",
+            "會議日期": "1011213",
+            "立法紀錄": "102卷002期4027號二冊 341-413頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfca81cecfcdcfcfcdcfcdc4cfcccbcec4cfcbcecc",
             "關係文書": []
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "1001124",
-            "立法紀錄": "100卷88期3940號五冊 2091-2096頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcb81cecfcfcfc7c7cfcac4cdcfc6cec4cdcfc6c9",
-            "關係文書": []
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020108",
+            "立法紀錄": "102卷004期4029號一冊 63-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfca81cecfcdcfcfcbcfcec4cfcfc9ccc4cfcfc9c9",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec9c8c9c5c6d2cecd"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001214",
-            "立法紀錄": "100卷88期3940號三冊 988-990頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcb81cecfcfcfc7c7cfccc4cfc6c7c7c4cfc6c6cf",
+            "會議日期": "1020108",
+            "立法紀錄": "102卷004期4029號一冊 66-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfca81cecfcdcfcfcbcfcec4cfcfc9c9c4cfcfc9c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001214",
-            "立法紀錄": "100卷88期3940號三冊 990-991頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfcb81cecfcfcfc7c7cfccc4cfc6c6cfc4cfc6c6ce",
+            "會議日期": "1020108",
+            "立法紀錄": "102卷004期4029號一冊 66-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfca81cecfcdcfcfcbcfcec4cfcfc9c9c4cfcfc9c9",
             "關係文書": []
         }
     ]
