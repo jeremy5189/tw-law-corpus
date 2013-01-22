@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法",
     "versions": [
-        "中華民國101年11月20日修正",
-        "中華民國101年12月5日公布"
+        "中華民國102年1月8日修正",
+        "中華民國102年1月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -350,7 +350,7 @@
         {
             "note": "",
             "rule_no": "第五十條",
-            "content": "　　裁判確定前犯數罪者，併合處罰之。",
+            "content": "　　裁判確定前犯數罪者，併合處罰之。但有下列情形之一者，不在此限：\n　　一、得易科罰金之罪與不得易科罰金之罪。\n　　二、得易科罰金之罪與不得易服社會勞動之罪。\n　　三、得易服社會勞動之罪與不得易科罰金之罪。\n　　四、得易服社會勞動之罪與不得易服社會勞動之罪。\n　　前項但書情形，受刑人請求檢察官聲請定應執行刑者，依第五十一條規定定之。",
             "relates": {}
         },
         {
@@ -2603,86 +2603,67 @@
         }
     ],
     "law_reasons": {
-        "第二百八十六條": "　　一、修改本罪構成要件，將行為客體由「男女」修正為「人」，可以避免生理特徵無法確定為男或女而產生規範上之漏洞。\n　　二、將妨害身心之健全或發育之行為納入本罪之處罰態樣，同時修正本罪法定刑下限，刪除拘役及罰金刑，以達到處罰凌虐幼童少年行為人之目的。\n　　三、另第二項規定係「處五年以上有期徒刑」，依法務部刑法研究修正小組100年3月20日第135次會議中，就五年以上有期徒刑之罪，決議罰金刑均配合修正為300萬元以下罰金，爰將第二項罰金刑修正為300萬元，以符合罰金刑級距之配置。"
+        "第五十條": "　　一、現行數罪併罰規定未設限制，造成併罰範圍於事後不斷擴大有違法安定性，為明確數罪併罰適用範圍，爰增訂但書規定。\n　　二、因不得易科罰金之罪與得易科罰金之罪合併，造成得易科罰金之罪無法單獨易科罰金，故宜將兩者分開條列。故於第一項將易科罰金與易服社會勞動之罪，分別列舉得易科、不得易科、得易服與不得易服等不同情形之合併，以作為數罪併合處罰之依據。\n　　三、增列第二項，規範第一項但書情形，受刑人請求檢察官聲請定應執行刑者，依第五十一條有關數罪併罰之方法所規定之情形，以作為定執行刑之準則。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010309",
-            "立法紀錄": "101卷004期3945號 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cf81cecfcecfcfcbcfcec4cfcfcfc6c4cfcfcfc6",
-            "主提案": "謝國樑",
+            "會議日期": "1011019",
+            "立法紀錄": "101卷060期4001號一冊 17-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cd81cecfcecfc9cfcfcec4cfcfcec8c4cfcfcec8",
+            "主提案": "廖正井",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfccc8cdc5ccc6ccd2ccc6c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010420",
-            "立法紀錄": "101卷022期3963號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cf81cecfcecfcdcdcfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "尤美女",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7c8cdc5cdc9ccd2cdc9c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010420",
-            "立法紀錄": "101卷022期3963號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cf81cecfcecfcdcdcfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "吳宜臻",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7c8cdc5cdcac6d2cdc9cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcac8cdc5cec6d2cdcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1010326",
-            "立法紀錄": "101卷015期3956號 236-276頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cf81cecfcecfcecacfcec4cfcdccc9c4cfcdc8c9",
+            "會議日期": "1011203",
+            "立法紀錄": "101卷082期4023號二冊 359-397頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cd81cecfcecfc7cdcfcdc4cfcccac6c4cfccc6c8",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1011018",
-            "立法紀錄": "101卷062期4003號二冊 173-181頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cf81cecfcecfc9cdcfcdc4cfcec8ccc4cfcec7ce",
+            "會議日期": "1011217",
+            "立法紀錄": "102卷003期4028號一冊 9-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cd81cecfcdcfcfcccfcec4cfcfcfc6c4cfcfcace",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1011219",
+            "立法紀錄": "102卷003期4028號一冊 333-336頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cd81cecfcdcfcfcccfcec4cfccccccc4cfccccc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1011120",
-            "立法紀錄": "101卷071期4012號一冊 356-371頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cf81cecfcecfc8cecfcec4cfcccac9c4cfccc8ce",
+            "會議日期": "1020108",
+            "立法紀錄": "102卷004期4029號一冊 222-233頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cd81cecfcdcfcfcbcfcec4cfcdcdcdc4cfcdcccc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc7c8c6c5cecacad2cec8cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec9c8c9c5cec9ccd2cec8cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1011120",
-            "立法紀錄": "101卷071期4012號一冊 371-371頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cf81cecfcecfc8cecfcec4cfccc8cec4cfccc8ce",
+            "會議日期": "1020108",
+            "立法紀錄": "102卷004期4029號一冊 233-233頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cd81cecfcdcfcfcbcfcec4cfcdccccc4cfcdcccc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1011120",
-            "立法紀錄": "101卷071期4012號一冊 371-371頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cf81cecfcecfc8cecfcec4cfccc8cec4cfccc8ce",
+            "會議日期": "1020108",
+            "立法紀錄": "102卷004期4029號一冊 233-233頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9c9cd81cecfcdcfcfcbcfcec4cfcdccccc4cfcdcccc",
             "關係文書": []
         }
     ]
