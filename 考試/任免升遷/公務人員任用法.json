@@ -1,8 +1,8 @@
 {
     "title": "公務人員任用法",
     "versions": [
-        "中華民國99年7月13日修正",
-        "中華民國99年7月28日公布"
+        "中華民國102年1月4日修正",
+        "中華民國102年1月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -204,7 +204,7 @@
         {
             "note": "(公務人員之消極資格)",
             "rule_no": "第二十八條",
-            "content": "　　有下列情事之一者，不得任用為公務人員：\n　　一、未具或喪失中華民國國籍。\n　　二、具中華民國國籍兼具外國國籍。但其他法律另有規定者，不在此限。\n　　三、動員戡亂時期終止後，曾犯內亂罪、外患罪，經判刑確定或通緝有案尚未結案。\n　　四、曾服公務有貪污行為，經判刑確定或通緝有案尚未結案。\n　　五、犯前二款以外之罪，判處有期徒刑以上之刑確定，尚未執行或執行未畢。但受緩刑宣告者，不在此限。\n　　六、依法停止任用。\n　　七、褫奪公權尚未復權。\n　　八、受監護或輔助宣告，尚未撤銷。\n　　九、經合格醫師證明有精神病。\n　　公務人員於任用後，有前項第一款至第七款情事之一者，應予免職；有第八款及第九款情事之一者，應依規定辦理退休或資遣。任用後發現其於任用時有前項各款情事之一者，應撤銷任用。\n　　前項撤銷任用人員，其任職期間之職務行為，不失其效力；業已依規定支付之俸給及其他給付，不予追還。",
+            "content": "　　有下列情事之一者，不得任用為公務人員：\n　　一、未具或喪失中華民國國籍。\n　　二、具中華民國國籍兼具外國國籍。但其他法律另有規定者，不在此限。\n　　三、動員戡亂時期終止後，曾犯內亂罪、外患罪，經有罪判決確定或通緝有案尚未結案。\n　　四、曾服公務有貪污行為，經有罪判決確定或通緝有案尚未結案。\n　　五、犯前二款以外之罪，判處有期徒刑以上之刑確定，尚未執行或執行未畢。但受緩刑宣告者，不在此限。\n　　六、依法停止任用。\n　　七、褫奪公權尚未復權。\n　　八、經原住民族特種考試及格，而未具或喪失原住民身分。\n　　九、受監護或輔助宣告，尚未撤銷。\n　　公務人員於任用後，有前項第一款至第八款情事之一者，應予免職；有第九款情事者，應依規定辦理退休或資遣。任用後發現其於任用時有前項各款情事之一者，應撤銷任用。\n　　前項撤銷任用人員，其任職期間之職務行為，不失其效力；業已依規定支付之俸給及其他給付，不予追還。但經依第一項第二款情事撤銷任用者，應予追還。",
             "relates": {}
         },
         {
@@ -293,68 +293,92 @@
         }
     ],
     "law_reasons": {
-        "第二十九條": "　　一、本條刪除，並保留條次。\n　　二、因本條有關公務人員資遣之規定，業移列至公務人員退休法修正條文中規範，已無存在必要，爰予刪除。",
-        "第四十條": "　　一、本條增訂第三項。\n　　二、茲審酌本法第二十九條係配合公務人員退休法修正條文予以刪除，而該修正條文第三十七條第二項係明定自中華民國一百年一月一日施行，故為期與公務人員退休法修正條文同時施行，爰增訂第三項規定。"
+        "第二十八條": "　　一、第一項第三款及第四款中之「判刑確定」均修正為「有罪判決確定」以使法律用語更為明確。\n　　二、另為避免有人利用原住民身分，取得原住民特考及格後拋棄原住民身分投機取巧作法，爰增列第八款，並將原條文第八款改列為第九款。此外為重視身心障礙者之人格及合法權益，尊重及保障對其進用、就業，不得有歧視之對待，將原條文第九款予以刪除。\n　　三、第二項之文字中，因有涉及第一項款次之變更，故有須配合調整修正。\n　　四、為杜絕雙重國籍者隱匿其情事而擔任公務人員，於被查獲後僅撤銷公務員資格，並未追還所得，爰增列但書「但經依第一項第二款情事撤銷任用者，應予追還。」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980508",
-            "立法紀錄": "98卷28期3714號 12-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7c9c9cc81c6c7cdc7cfcfc4cfcfcecdc4cfcfcecc",
+            "會議日期": "1010316",
+            "立法紀錄": "101卷007期3948號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cb81cecfcecfcfc8cfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "陳節如",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbc8cdc5cdcbced2cdcbcb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010918",
+            "立法紀錄": "101卷051期3992號一冊 21-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cb81cecfcecfcacecfcec4cfcfcdcec4cfcfcdce",
             "主提案": "考試院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc6cfcec5cccacad2cbcecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcec8cbc5cbcdccd2cbcdc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011026",
+            "立法紀錄": "101卷063期4004號一冊 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cb81cecfcecfc9cccfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "邱志偉",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc9c8cdc5cccdccd2cccdc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011123",
+            "立法紀錄": "101卷074期4015號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cb81cecfcecfc8cbcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "鄭天財",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecfc8cdc5cecaccd2cecac9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "981231",
-            "立法紀錄": "99卷7期3772號 95-143頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcfc8cfcec4cfcfc6cac4cfcecbcc",
+            "會議日期": "1011213",
+            "立法紀錄": "102卷002期4027號三冊 183-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cb81cecfcdcfcfcdcfccc4cfcec7ccc4cfcdcdcc",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990427",
-            "立法紀錄": "99卷29期3794號二冊 211-215頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcdc6cfcdc4cfcdcecec4cfcdceca",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020104",
+            "立法紀錄": "102卷004期4029號一冊 66-96頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cb81cecfcdcfcfcbcfcec4cfcfc9c9c4cfcfc6c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecacfcbc5cdcfc8d2cdceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec9c8c9c5ceccd2cbcd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "990511",
-            "立法紀錄": "99卷34期3799號 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcccbcfcec4cfcfc8cfc4cfcfc8cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990601",
-            "立法紀錄": "99卷41期3806號 59-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcbcecfcec4cfcfcac6c4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990713",
-            "立法紀錄": "99卷49期3814號 60-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcbc6cfcec4cfcfc9cfc4cfcfc9ce",
+            "會議日期": "1020104",
+            "立法紀錄": "102卷004期4029號一冊 96-96頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cb81cecfcdcfcfcbcfcec4cfcfc6c9c4cfcfc6c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "990713",
-            "立法紀錄": "99卷49期3814號 61-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cc81cfc6c6cfcbc6cfcec4cfcfc9cec4cfcfc9ce",
+            "會議日期": "1020104",
+            "立法紀錄": "102卷004期4029號一冊 96-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7c9c9cb81cecfcdcfcfcbcfcec4cfcfc6c9c4cfcecfcc",
             "關係文書": []
         }
     ]
