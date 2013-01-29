@@ -1,8 +1,8 @@
 {
     "title": "公司法",
     "versions": [
-        "中華民國101年12月25日修正",
-        "中華民國102年1月16日公布"
+        "中華民國102年1月14日修正",
+        "中華民國102年1月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -1008,7 +1008,7 @@
         {
             "note": "",
             "rule_no": "第一百五十四條",
-            "content": "　　股東對於公司之責任，以繳清其股份之金額為限。",
+            "content": "　　股東對於公司之責任，除第二項規定外，以繳清其股份之金額為限。\n　　股東濫用公司之法人地位，致公司負擔特定債務且清償顯有困難，其情節重大而有必要者，該股東應負清償之責。",
             "relates": {}
         },
         {
@@ -3139,73 +3139,60 @@
         }
     ],
     "law_reasons": {
-        "第一百九十七條": "　　一、由本法前次修正理由，可知前次之修正目的在於防免選任時至就任時兩時點間大量股份轉讓，而使同條第一項的管制存有漏洞，是故新增規定以彌補之。\n　　二、第三項酌作文字調整。"
+        "第一百五十四條": "　　一、配合第二項之增訂，爰修正第一項。\n　　二、增訂第二項。按揭穿公司面紗之原則，係源於英、美等國判例法，其目的在防免股東濫用公司之法人地位而脫免責任導致債權人之權利落空，求償無門。為保障債權人權益，我國亦有引進揭穿公司面紗原則之必要。爰明定倘股東有濫用公司之法人地位之情形，導致公司負擔特定債務而清償有顯著困難，且其情節重大而有必要者，該股東仍應負擔清償債務之責任。法院適用揭穿公司面紗之原則時，其審酌之因素，例如審酌該公司之股東人數與股權集中程度；系爭債務是否係源於該股東之詐欺行偽；公司資本是否顯著不足承擔其所營事業可能生成之債務等情形。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010413",
-            "立法紀錄": "101卷021期3962號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7c781cecfcecfcdcecfcec4cfcfcfc7c4cfcfcfc7",
+            "會議日期": "1010601",
+            "立法紀錄": "101卷043期3984號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc6ce81cecfcecfcbcccfcec4cfcfcfc7c4cfcfcfc7",
             "主提案": "許忠信",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8c8cdc5cec7ced2cec7cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbcfcec5cccacdd2cccac6"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011019",
-            "立法紀錄": "101卷060期4001號一冊 19-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7c781cecfcecfc9cfcfcec4cfcfcec6c4cfcfcec6",
-            "主提案": "許忠信",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcac8cdc5cecfced2cecfcd"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1010524",
-            "立法紀錄": "101卷042期3983號 157-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7c781cecfcecfcbcdcfcec4cfcecac8c4cfcec6ce",
-            "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "1011128",
             "立法紀錄": "101卷081期4022號二冊 183-206頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7c781cecfcecfc7cecfcdc4cfcec7ccc4cfcdcfc9",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc6ce81cecfcecfc7cecfcdc4cfcec7ccc4cfcdcfc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1011225",
-            "立法紀錄": "102卷001期4026號一冊 126-132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7c781cecfcdcfcfcecfcec4cfcecdc9c4cfcecccd",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 895-905頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc6ce81cecfcdcfcfcacfccc4cfc7c6cac4cfc6cfca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecbc8c8c5c8cad2c7cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec8cfc8c5ccc9d2cbc9"
                 ]
             ]
         },
         {
+            "進度": "黨團協商",
+            "會議日期": "1020107",
+            "立法紀錄": "102卷005期4030號六冊 2509-2511頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc6ce81cecfcdcfcfcacfc9c4cdcacfc6c4cdcacece",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1011225",
-            "立法紀錄": "102卷001期4026號一冊 132-132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7c781cecfcdcfcfcecfcec4cfcecccdc4cfcecccd",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 906-906頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc6ce81cecfcdcfcfcacfccc4cfc6cfc9c4cfc6cfc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1011225",
-            "立法紀錄": "102卷001期4026號一冊 132-132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc7c781cecfcdcfcfcecfcec4cfcecccdc4cfcecccd",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 906-906頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfceccc6ce81cecfcdcfcfcacfccc4cfc6cfc9c4cfc6cfc9",
             "關係文書": []
         }
     ]
