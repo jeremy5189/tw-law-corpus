@@ -1,8 +1,8 @@
 {
     "title": "社會救助法",
     "versions": [
-        "中華民國100年11月22日修正",
-        "中華民國100年12月7日公布"
+        "中華民國102年1月14日修正",
+        "中華民國102年1月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -52,7 +52,7 @@
         {
             "note": "",
             "rule_no": "第五條 之一",
-            "content": "　　第四條第一項及第四條之一第一項第一款所稱家庭總收入，指下列各款之總額：\n　　一、工作收入，依下列規定計算：\n　　　(一)已就業者，依序核算：\n　　　　1.依全家人口當年度實際工作收入並提供薪資證明核算。無法提出薪資證明者，依最近一年度之財稅資料所列工作收入核算。\n　　　　2.最近一年度之財稅資料查無工作收入，且未能提出薪資證明者，依臺灣地區職類別薪資調查報告各職類每人月平均經常性薪資核算。\n　　　　3.未列入臺灣地區職類別薪資調查報告各職類者，依中央勞工主管機關公布之最近一次各業初任人員每月平均經常性薪資核算。\n　　　(二)有工作能力未就業者，依基本工資核算。但經公立就業服務機構認定失業者或五十五歲以上經公立就業服務機構媒介工作三次以上未媒合成功、參加政府主辦或委辦全日制職業訓練，其失業或參加職業訓練期間得不計算工作收入，所領取之失業給付或職業訓練生活津貼，仍應併入其他收入計算。\n　　二、動產及不動產之收益。\n　　三、其他收入：前二款以外非屬社會救助給付之收入。\n　　前項第一款第一目之二及第一目之三工作收入之計算，原住民應依中央原住民族事務主管機關公布之原住民就業狀況調查報告，按一般民眾主要工作所得與原住民主要工作所得之比例核算。但核算結果未達基本工資者，依基本工資核算。\n　　第一項第一款第一目之二、第一目之三及第二目工作收入之計算，十六歲以上未滿二十歲或六十歲以上未滿六十五歲者，依其核算收入百分之七十計算；身心障礙者，依其核算收入百分之五十五計算。\n　　第一項第三款收入，由直轄市、縣（市）主管機關認定之。\n　　申請人家庭總收入及家庭財產之申報，直轄市、縣（市）主管機關得予訪查；其有虛偽不實之情形者，除撤銷低收入戶或中低收入戶資格外，並應以書面限期命其返還已領之補助。",
+            "content": "　　第四條第一項及第四條之一第一項第一款所稱家庭總收入，指下列各款之總額：\n　　一、工作收入，依下列規定計算：\n　　　(一)已就業者，依序核算：\n　　　　1.依全家人口當年度實際工作收入並提供薪資證明核算。無法提出薪資證明者，依最近一年度之財稅資料所列工作收入核算。\n　　　　2.最近一年度之財稅資料查無工作收入，且未能提出薪資證明者，依臺灣地區職類別薪資調查報告各職類每人月平均經常性薪資核算。\n　　　　3.未列入臺灣地區職類別薪資調查報告各職類者，依中央勞工主管機關公布之最近一次各業初任人員每月平均經常性薪資核算。\n　　　(二)有工作能力未就業者，依基本工資核算。但經公立就業服務機構認定失業者或五十五歲以上經公立就業服務機構媒介工作三次以上未媒合成功、參加政府主辦或委辦全日制職業訓練，其失業或參加職業訓練期間得不計算工作收入，所領取之失業給付或職業訓練生活津貼，仍應併入其他收入計算。但依高級中等學校建教合作實施及建教生權益保障法規定參加建教合作計畫所領取之職業技能訓練生活津貼不予列計。\n　　二、動產及不動產之收益。\n　　三、其他收入：前二款以外非屬社會救助給付之收入。\n　　前項第一款第一目之二及第一目之三工作收入之計算，原住民應依中央原住民族事務主管機關公布之原住民就業狀況調查報告，按一般民眾主要工作所得與原住民主要工作所得之比例核算。但核算結果未達基本工資者，依基本工資核算。\n　　第一項第一款第一目之二、第一目之三及第二目工作收入之計算，十六歲以上未滿二十歲或六十歲以上未滿六十五歲者，依其核算收入百分之七十計算；身心障礙者，依其核算收入百分之五十五計算。\n　　第一項第三款收入，由直轄市、縣（市）主管機關認定之。\n　　申請人家庭總收入及家庭財產之申報，直轄市、縣（市）主管機關得予訪查；其有虛偽不實之情形者，除撤銷低收入戶或中低收入戶資格外，並應以書面限期命其返還已領之補助。　",
             "relates": {}
         },
         {
@@ -158,7 +158,7 @@
         {
             "note": "",
             "rule_no": "第十六條 之一",
-            "content": "　　為照顧低收入戶得到適宜之居所及居住環境，各級住宅主管機關得提供下列住宅補貼措施：\n　　一、優先入住由政府興辦或獎勵民間興辦，用以出租予經濟或社會弱勢者居住之住宅。\n　　二、承租住宅租金費用。\n　　三、簡易修繕住宅費用。\n　　四、自購住宅貸款利息。\n　　五、自建住宅貸款利息。\n　　六、其他必要之住宅補貼。\n　　前項各款補貼資格、補貼基準及其他應遵行事項之辦法，由中央住宅主管機關會同中央主管機關定之。",
+            "content": "　　為照顧低收入戶及中低收入戶得到適宜之居所及居住環境，各級住宅主管機關得提供下列住宅補貼措施：\n　　一、優先入住由政府興辦或獎勵民間興辦，用以出租予經濟或社會弱勢者居住之住宅。\n　　二、承租住宅租金費用。\n　　三、簡易修繕住宅費用。\n　　四、自購住宅貸款利息。\n　　五、自建住宅貸款利息。\n　　六、其他必要之住宅補貼。\n　　前項各款補貼資格、補貼基準及其他應遵行事項之辦法，由中央住宅主管機關會同中央主管機關定之。",
             "relates": {}
         },
         {
@@ -401,46 +401,171 @@
         }
     ],
     "law_reasons": {
-        "第十六條 之二": "　　一、教育是協助經濟弱勢家庭自立之重要途徑，政府應努力縮短教育資源貧富差距，爰於第一項規定應提供低收入戶及中低收入戶教育補助，使其順利接受高等教育，增加低收入戶及中低收入戶向上流動機會，協助提升其社經地位，脫離世代貧窮之循環。是以，若已取得低收入戶資格，不應再以其工作能力之有無，作為其申請教育補助與否之標準。爰以刪除視為有工作能力之學生不得領申請教育補助之規定。\n　　二、增列第三項「第一項中華民國一百年十一月二十二日修正條文，自一百年八月一日施行。」"
+        "第五條 之一": "　　一、針對建教生於參與建教合作計畫期間，依據建教生訓練契約應領取之生活津貼，是否應計入本法之家庭總收入，目前僅由各地方政府自行認定，導致各地認定標準不一。\n　　二、實務上發現，許多經濟弱勢實務上發現，許多經濟弱勢家庭的孩子，因擔心微薄的生活津貼加計於家庭總收入中，而喪失低收入戶資格，因此未敢選擇建教合作班就讀，而影響其就學選擇，亦使其未能獲得就業準備的職前訓練機會，不利於畢業後投入職場，進而協助家庭脫貧。爰此，第一項第一款第二目增列建教生參加建教合作計畫所領取之職業技能訓練生活津貼，應排除於本法所定家庭總收入之計算。",
+        "第十六條 之一": "　　為達社會救助法照顧低收入戶、中低收入戶之立法意旨，使其得到適宜之居所及居住環境，爰修正第一項，將中低收入戶納入各級住宅主管機關提供住宅補貼措施之對象。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1001028",
-            "立法紀錄": "100卷66期3918號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcb81cecfcfcfc9c9cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "民進黨黨團",
+            "會議日期": "1010406",
+            "立法紀錄": "101卷017期3958號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcec8cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "邱志偉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc8c8cdc5cdced2cdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc9cfcec5cdc9cbd2cdc9c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010413",
+            "立法紀錄": "101卷021期3962號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcdcecfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "盧秀燕",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8cfcec5cdc9cdd2cdc9cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010413",
+            "立法紀錄": "101卷021期3962號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcdcecfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "蔡其昌",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8cfcec5cdcac7d2cdc9ce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010420",
+            "立法紀錄": "101卷022期3963號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcdcdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "楊瓊瓔",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cec6c7d2cec6c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷025期3966號 16-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcdcacfcec4cfcfcec9c4cfcfcec9",
+            "主提案": "吳宜臻",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc6cfcdc5cecccfd2cecccc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010511",
+            "立法紀錄": "101卷032期3973號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcccdcfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "姚文智",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecececfcec5c7cdd2c7cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010511",
+            "立法紀錄": "101卷032期3973號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcccdcfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "何純欣",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecececfcec5c8c7d2c7cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010518",
+            "立法紀錄": "101卷036期3977號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfccc9cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "林佳龍",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdcfcec5c7cad2c7c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011012",
+            "立法紀錄": "101卷057期3998號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcac8cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "何純欣",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcbc8cdc5cec6c8d2cec6c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011012",
+            "立法紀錄": "101卷057期3998號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcecfcac8cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "鄭天財",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcbc8cdc5cec6cad2cec6c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1001110",
-            "立法紀錄": "100卷79期3931號 354-392頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcb81cecfcfcfc8c6cfcec4cfcccacbc4cfccc6cd",
+            "會議日期": "1020102",
+            "立法紀錄": "102卷004期4029號四冊 325-367頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcdcfcfcbcfcbc4cfcccdcac4cfccc9c8",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1001122",
-            "立法紀錄": "100卷78期3930號二冊 617-620頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcb81cecfcfcfc8c7cfcdc4cfc9cec8c4cfc9cdcf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 867-893頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcdcfcfcacfccc4cfc7c9c8c4cfc7c6cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cecfc8c8c5cdcbc8d2cdcacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec8cfc8c5c7d2ccca"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 893-895頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcdcfcfcacfccc4cfc7c6ccc4cfc7c6ca",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1001122",
-            "立法紀錄": "100卷78期3930號二冊 620-620頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfcb81cecfcfcfc8c7cfcdc4cfc9cdcfc4cfc9cdcf",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 895-895頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec6cfca81cecfcdcfcfcacfccc4cfc7c6cac4cfc7c6ca",
             "關係文書": []
         }
     ]
