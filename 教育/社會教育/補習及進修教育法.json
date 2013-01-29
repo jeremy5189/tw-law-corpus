@@ -1,8 +1,8 @@
 {
     "title": "補習及進修教育法",
     "versions": [
-        "中華民國93年6月4日修正",
-        "中華民國93年6月23日公布"
+        "中華民國102年1月11日修正",
+        "中華民國102年1月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -60,7 +60,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　國民補習學校、進修學校及短期補習班之設立、變更或停辦，依下列各款之規定：\n　　一、國民小學及國民中學補習學校，由各級主管教育行政機關核准。\n　　二、高級中學及職業進修學校，由各級主管教育行政機關核准。\n　　三、專科以上進修學校，由中央主管教育行政機關核准。\n　　四、短期補習班，由直轄市、縣（市）主管教育行政機關核准；其設立及立案之條件與程序、設備與管理、師資、費用之收繳方式、班級人數及學生權益之保障、檢查、獎勵、註銷與撤銷立案之條件及其他應遵行事項之管理規則，由直轄市、縣（市）主管教育行政機關定之。",
+            "content": "　　國民補習學校、進修學校及短期補習班之設立、變更或停辦，依下列各款之規定：\n　　一、國民小學及國民中學補習學校，由各級主管教育行政機關核准。\n　　二、高級中學及職業進修學校，由各級主管教育行政機關核准。\n　　三、專科以上進修學校，由中央主管教育行政機關核准。\n　　四、短期補習班，由直轄市、縣（市）主管教育行政機關核准；其設立、變更、停辦及立案之條件與程序、名稱、類科與課程、修業期間、設備與管理、負責人與教職員工之條件、收費、退費方式、基準、班級人數與學生權益之保障、檢查、評鑑、輔導、獎勵、廢止設立之條件及其他應遵行事項，由中央主管教育行政機關為準則規定；其相關管理規則，並由直轄市、縣（市）主管教育行政機關依上開準則定之。\n　　前項第四款之負責人與教職員工，有下列情形之一者不得擔任：\n　　一、有性侵害、性騷擾或虐待兒童行為，經判刑確定或通緝有案尚未結案。\n　　二、對他人為性騷擾，經依性騷擾防治法第二十條科處罰鍰確定。\n　　三、行為不檢損害兒童權益，其情節重大，經有關機關查證屬實。\n　　四、經學校性別平等教育委員會調查確認有性侵害行為屬實。\n　　短期補習班負責人有前項情形者，應廢止其設立許可，教職員工有前項情形者，應予解聘或解僱。\n　　短期補習班聘用、僱用之教職員工有第二項規定之情形，或聘用教職員工前，應準用不適任教育人員之通報與資訊蒐集及查詢辦法之規定，辦理通報、資訊蒐集及查詢事項。\n　　第一項第四款所定學生權益之保障，包括短期補習班應與學生訂定書面契約，明訂其權利義務關係，其書面契約之格式、內容，中央主管教育行政機關應訂定定型化契約範本及其應記載及不得記載事項。",
             "relates": {}
         },
         {
@@ -179,105 +179,93 @@
         }
     ],
     "law_reasons": {
-        "第十七條": "　　增訂第三項明定各級國民補習學校及進修學校其員額編制之訂定及其主管機關。"
+        "第九條": "　　一、有鑒於各縣市對短期補習班之規範標準不一，致使管理紊亂，影響學生權益，爰修正第一項第四款以明確規範短期補習班設立管理等相關事宜。\n　　二、為落實性侵害防治及學生權益保障，爰參酌教師法、幼兒教育及照顧法、性別平等教育法及消費者保護法等規定，於本條中增訂第二項至第五項，以求周延。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920321",
-            "立法紀錄": "92卷14期3288號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcecbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "郭添財",
+            "會議日期": "1010309",
+            "立法紀錄": "101卷004期3945號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcecfcfcbcfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "邱志偉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cececed2cececc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcec5cbcbced2cbcbcd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "920328",
-            "立法紀錄": "92卷15期3289號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcecacfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "趙良燕",
+            "會議日期": "1010928",
+            "立法紀錄": "101卷052期3993號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcecfcacdcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "蔣乃辛",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcacfcec5cdc6c9d2cdc6c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcdc8cdc5cdcac6d2cdc9cd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "921024",
-            "立法紀錄": "92卷45期3319號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcbcacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "沈智慧",
+            "會議日期": "1010928",
+            "立法紀錄": "101卷052期3993號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcecfcacdcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "陳淑慧",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6ced2cec6cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "921024",
-            "立法紀錄": "92卷45期3319號上冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcbcacfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "羅世雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6cad2cec6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "921024",
-            "立法紀錄": "92卷45期3319號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cdcbcacfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "王淑慧",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcfc8cfcfc5cec6c6d2cdcfce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcdc8cdc5cdcac8d2cdcac7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "921222",
-            "立法紀錄": "93卷3期3337號下冊 73-88頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cccfcccfccc4cfcfc8ccc4cfcfc7c7",
+            "會議日期": "1011129",
+            "立法紀錄": "101卷082期4023號一冊 144-202頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcecfc7cdcfcec4cfcecbcbc4cfcdcfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 44-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cccccccfcec4cfcfcbcbc4cfcfcac9",
+            "會議日期": "1011218",
+            "立法紀錄": "101卷083期4024號二冊 495-504頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcecfc7cccfcdc4cfcbc6cac4cfcacfcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcacecccfcdc5ceced2cdce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecbc8c8c5cdcac8d2cdc9c9"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020111",
+            "立法紀錄": "102卷005期4030號二冊 639-640頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcdcfcfcacfcdc4cfc9ccc6c4cfc9cbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1011227",
+            "立法紀錄": "102卷005期4030號六冊 2495-2496頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcdcfcfcacfc9c4cdcbc6cac4cdcbc6c9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cccccccfcec4cfcfcac9c4cfcfcac9",
+            "會議日期": "1020111",
+            "立法紀錄": "102卷005期4030號二冊 640-641頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcdcfcfcacfcdc4cfc9cbcfc4cfc9cbce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "930604",
-            "立法紀錄": "93卷33期3367號一冊 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfcecec681c6cccccccfcec4cfcfcac9c4cfcfcac9",
+            "會議日期": "1020111",
+            "立法紀錄": "102卷005期4030號二冊 641-641頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcecdcf81cecfcdcfcfcacfcdc4cfc9cbcec4cfc9cbce",
             "關係文書": []
         }
     ]
