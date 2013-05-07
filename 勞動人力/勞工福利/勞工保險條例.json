@@ -1,8 +1,8 @@
 {
     "title": "勞工保險條例",
     "versions": [
-        "中華民國101年12月4日修正",
-        "中華民國101年12月19日公布"
+        "中華民國102年4月16日修正",
+        "中華民國102年5月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -418,9 +418,9 @@
             "relates": {}
         },
         {
-            "note": "(職業輔導評量及個別化之專業評估機制)",
+            "note": "(個別化之專業評估機制)",
             "rule_no": "第五十四條 之一",
-            "content": "　　前二條失能種類、狀態、等級、給付額度、開具診斷書醫療機構層級及審核基準等事項之標準，由中央主管機關定之。\n　　前項標準，應由中央主管機關建立職業輔導評量及個別化之專業評估機制，作為失能年金給付之依據。\n　　前項職業輔導評量及個別化之專業評估機制，應於本條例中華民國九十七年七月十七日修正之條文公布後五年施行。",
+            "content": "　　前二條失能種類、狀態、等級、給付額度、開具診斷書醫療機構層級及審核基準等事項之標準，由中央主管機關定之。\n　　前項標準，應由中央主管機關建立個別化之專業評估機制，作為失能年金給付之依據。\n　　前項個別化之專業評估機制，應於本條例中華民國九十七年七月十七日修正之條文公布後五年施行。",
             "relates": {}
         },
         {
@@ -689,131 +689,53 @@
         }
     ],
     "law_reasons": {
-        "第三十條": "　　依據行政程序法第一百三十一條規定：「公法上之請求權，除法律有特別規定外，因五年間不行使而消滅。公法上請求權，因時效完成而當然消滅。前項時效，因行政機關為實現該權利所作成之行政處分而中斷。」行政程序法規定之公法上之請求權，因五年間不行使而消滅之規定，基於行政法與社會保險法制間法律規範之一致，有將本條例請求權時效修正為五年之必要。"
+        "第五十四條 之一": "　　一、個別化專業評估機制主要由專業團隊依被保險人全人損傷百分比、未來賺錢能力減損、職業、年齡等，綜合評估其工作能力，亦即該機制業已可評估勞工是否永久失去工作能力。\n　　二、另，職業輔導評量係指為協助非永久失去工作能力之失能者適性就業，在就業前了解其職業潛能、興趣、技能、工作人格、生理狀況及所需輔具等，以提供具體就業建議，故被保險人若已經專業團隊評估為永久失去工作能力，顯無回歸職場之可能，再對其施以職業輔導評量，毫無實益可言。\n　　三、據上，為避免被保險人因失能給付之審查作業疊床架屋、導致延遲給付時間，而損害其權益，甚者造成其經濟生活之困難；爰修正本條條文，其修正要點為：刪除職業輔導評量機制之相關規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010302",
-            "立法紀錄": "101卷003期3944號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfcfcccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "管碧玲",
+            "會議日期": "1020308",
+            "立法紀錄": "102卷008期4033號一冊 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec881cecfcdcfcfc7cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "陳節如",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcdc8cdc5cecbc8d2cecbc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010309",
-            "立法紀錄": "101卷004期3945號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfcfcbcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfccc8cdc5cdc8d2cccf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010316",
-            "立法紀錄": "101卷007期3948號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfcfc8cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbc8cdc5cecbcad2cecbc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010316",
-            "立法紀錄": "101卷007期3948號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfcfc8cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "廖國棟",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbc8cdc5cecbc8d2cecbc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010316",
-            "立法紀錄": "101卷007期3948號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfcfc8cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "蔣乃辛",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbc8cdc5cecac6d2cec9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010323",
-            "立法紀錄": "101卷010期3951號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfcecfcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "楊麗環",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcac8cdc5cecfc6d2cececd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010413",
-            "立法紀錄": "101卷021期3962號 5-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfcdcecfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "鄭汝芬",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8c8cdc5caced2cacd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfccc8cdc5ced2cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1011101",
-            "立法紀錄": "101卷070期4011號一冊 6-58頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfc8cfcfcec4cfcfcfc9c4cfcfcac7",
+            "會議日期": "1020327",
+            "立法紀錄": "102卷016期4041號 250-336頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec881cecfcdcfcec9cfcec4cfcdcacfc4cfccccc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1011204",
-            "立法紀錄": "101卷077期4018號一冊 75-90頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfc8c8cfcec4cfcfc8cac4cfcfc6cf",
+            "會議日期": "1020416",
+            "立法紀錄": "102卷018期4043號一冊 192-196頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec881cecfcdcfcec7cfcec4cfcec6cdc4cfcec6c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecfc8c9c5cecacac8d2cecac8cd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7c8cac5ced2c9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1011204",
-            "立法紀錄": "101卷077期4018號一冊 90-90頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfc8c8cfcec4cfcfc6cfc4cfcfc6cf",
+            "會議日期": "1020416",
+            "立法紀錄": "102卷018期4043號一冊 196-196頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec881cecfcdcfcec7cfcec4cfcec6c9c4cfcec6c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1011204",
-            "立法紀錄": "101卷077期4018號一冊 90-91頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec981cecfcecfc8c8cfcec4cfcfc6cfc4cfcfc6ce",
+            "會議日期": "1020416",
+            "立法紀錄": "102卷018期4043號一冊 196-197頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec881cecfcdcfcec7cfcec4cfcec6c9c4cfcec6c8",
             "關係文書": []
         }
     ]
