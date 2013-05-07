@@ -1,8 +1,8 @@
 {
     "title": "漁業法",
     "versions": [
-        "中華民國101年11月13日修正",
-        "中華民國101年11月28日公布"
+        "中華民國102年5月3日修正",
+        "中華民國102年5月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -480,6 +480,12 @@
             "relates": {}
         },
         {
+            "note": "(重疊專屬經濟海域漁業作業規定)",
+            "rule_no": "第六十九條 之一",
+            "content": "　　中華民國與鄰近國家就重疊專屬經濟海域簽訂漁業協定（議），該國家之漁船及漁業從業人員在協定（議）海域內作業，依該協定（議）規定辦理。\n　　前項協定（議）規定，由中央主管機關公告，並刊登政府公報。",
+            "relates": {}
+        },
+        {
             "note": "(施行細則)",
             "rule_no": "第七十條",
             "content": "　　本法施行細則，由中央主管機關定之。",
@@ -493,68 +499,41 @@
         }
     ],
     "law_reasons": {
-        "第十一條 之一": "　　一、本條新增。\n　　二、為有效制止利用經撤銷漁業證照或漁業經營核准之漁船，繼續從事海上違規載運、安（留）置外籍漁船船員，及防止經認定屬「非法、未報告、不受規範（IUU）」漁船於撤照後仍出海作業，違反國際規範，致生損害於我國家利益，該等漁船既不得從事漁業，爰於第一項規定該漁船不得出港。另依據漁船建造許可及漁業證照核發準則第四條第一項第七款及第二項規定，除因走私等原因被撤銷漁業證照之漁船外，他人取得該被撤銷漁業證照之漁船，仍可以取得汰建資格之方式，另行申請核發漁業證照。如已取得漁業證照，即得出港，爰為第一項但書規定。\n　　三、漁業人經處分收回漁業證照、限制或停止漁業經營者，於處分期間不得從事漁業，該漁船亦不得出港，惟為免執行限制出港之疑義，亦予明文規定，列為第二項。\n　　四、為落實經處分撤銷漁業證照或漁業經營核准，或收回漁業證照、限制或停止漁業經營之漁船不得出港之立法目的，漁船於處分前已經出港，或受處分後仍擅自出港者，中央主管機關應命漁業人於一定期限內將漁船駛返港內，爰訂為第三項。\n　　五、中央主管機關得委託海岸巡防機關對違反第一項及第二項出港之漁船，於港口檢查時，採取適當措施制止其出港或命其立即返港，如抗拒者，得使用強制力，以達到管制收（撤）照漁船出港之目的。",
-        "第六十四條": "　　照原條文修正罰鍰之金額。",
-        "第六十四條 之一": "　　一、本條新增。\n　　二、配合第十一條之一增訂罰責。經撤銷或處分收回漁業證照之漁船，如違反規定出港係可歸責於漁業人者，則對於漁業人裁處罰鍰。惟係可歸責於漁船所有人者，則對該所有人裁罰，爰訂定第一項。\n　　三、不遵照中央主管機關依第十一條之一第三項所定期限返港者，處以罰鍰，並得按日連續處罰，以達到使漁船返港之目的，爰訂定第二項。"
+        "第六十九條 之一": "　　一、本條新增。\n　　二、鑑於一百零二年四月十日臺日雙方分別由亞東關係協會及公益財團法人交流協會簽署漁業協議，雙方同意臺日重疊經濟海域中劃設協議適用海域，依協議規定管理該海域漁業作業，為妥適因應，爰參照所得稅法第一二四條規定，增列第一項，外籍漁船及從業人員在我國專屬經濟海域經營漁業，依該漁業協定（議）規定辦理。\n　　三、有關協定（議）規定內容，予以公告並刊登政府公報，以利民眾知悉，訂定第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010406",
-            "立法紀錄": "101卷017期3958號一冊 18-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7cb81cecfcecfcec8cfcec4cfcfcec7c4cfcfcec7",
+            "會議日期": "1020503",
+            "立法紀錄": "102卷026期4051號一冊 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7c981cecfcdcfcdc9cfcec4cfcfcccac4cfcfccca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcdc8cbc5c9c9ced2c9c9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecec8cac5cdccccd2cdccc9"
                 ]
             ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010413",
-            "立法紀錄": "101卷021期3962號 15-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7cb81cecfcecfcdcecfcec4cfcfcecac4cfcfceca",
-            "主提案": "李慶華",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8c8ccc5cbc8cad2cbc8c9"
-                ]
-            ]
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1010604",
-            "立法紀錄": "101卷048期3989號 5-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7cb81cecfcecfcbc7cfcec4cfcfcfcac4cfcfcccc",
-            "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1011113",
-            "立法紀錄": "101卷068期4009號一冊 422-430頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7cb81cecfcecfc9c7cfcec4cfcbcdcdc4cfcbcccf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececacfc7c5cecdc9d2cecccc"
-                ]
-            ]
+            "會議日期": "1020503",
+            "立法紀錄": "102卷026期4051號一冊 63-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7c981cecfcdcfcdc9cfcec4cfcfc9ccc4cfcfc9cc",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1011113",
-            "立法紀錄": "101卷068期4009號一冊 430-430頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7cb81cecfcecfc9c7cfcec4cfcbcccfc4cfcbcccf",
+            "會議日期": "1020503",
+            "立法紀錄": "102卷026期4051號一冊 63-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7c981cecfcdcfcdc9cfcec4cfcfc9ccc4cfcfc9cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1011113",
-            "立法紀錄": "101卷068期4009號一冊 430-431頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7cb81cecfcecfc9c7cfcec4cfcbcccfc4cfcbccce",
+            "會議日期": "1020503",
+            "立法紀錄": "102卷026期4051號一冊 63-63頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec8cec7c981cecfcdcfcdc9cfcec4cfcfc9ccc4cfcfc9cc",
             "關係文書": []
         }
     ]
