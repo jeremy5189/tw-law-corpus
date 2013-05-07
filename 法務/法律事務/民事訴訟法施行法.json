@@ -1,8 +1,8 @@
 {
     "title": "民事訴訟法施行法",
     "versions": [
-        "中華民國98年6月12日修正",
-        "中華民國98年7月8日公布"
+        "中華民國102年4月16日修正",
+        "中華民國102年5月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -102,51 +102,65 @@
         {
             "note": "",
             "rule_no": "第十二條",
-            "content": "　　本法自修正民事訴訟法施行之日施行。\n　　中華民國九十二年一月十四日修正之民事訴訟法，其施行日期由司法院定之。\n　　中華民國九十二年六月六日修正之民事訴訟法，其施行日期由司法院定之。\n　　中華民國九十八年六月十二日修正之民事訴訟法，除修正第五百八十三條、第五百八十五條、第五百八十九條、第五百八十九條之一、第五百九十條及增訂第五百九十條之一於施行之日施行外，於九十八年十一月二十三日施行。",
+            "content": "　　本法自修正民事訴訟法施行之日施行。\n　　中華民國九十二年一月十四日修正之民事訴訟法，其施行日期由司法院定之。\n　　中華民國九十二年六月六日修正之民事訴訟法，其施行日期由司法院定之。\n　　中華民國九十八年六月十二日修正之民事訴訟法，除修正第五百八十三條、第五百八十五條、第五百八十九條、第五百八十九條之一、第五百九十條及增訂第五百九十條之一於施行之日施行外，於九十八年十一月二十三日施行。\n　　中華民國一百零二年四月十六日修正之民事訴訟法，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第十二條": "　　為明確本法本次修正條文之施行日期，爰增訂第三項規定。"
+        "第十二條": "　　一、原條文第一項至第四項未修正。\n　　二、本次民事訴訟法修正，主要係配合家事事件法一百零一年六月一日之施行，故明定本次民事訴訟法修正條文自同日施行，爰增訂第五項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980428",
-            "立法紀錄": "98卷24期3710號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccb81c6c7cdcbcfcfc4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "1010413",
+            "立法紀錄": "101卷021期3962號 16-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfc8ccca81cecfcecfcdcecfcec4cfcfcec9c4cfcfcec9",
             "主提案": "司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecfc8cdc5ccccc8d2ccc9cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8cfcdc5c6ccd2cecacf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980610",
-            "立法紀錄": "98卷44期3730號一冊 107-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccb81c6c7cbcbcfcec4cfcecfc8c4cfcecdc8",
+            "會議日期": "1010426",
+            "立法紀錄": "101卷029期3970號 2-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfc8ccca81cecfcecfcdc6cfcec4cfcfcfcdc4cfcfcacd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 334-381頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccb81c6c7cbcdcfcec4cfcccccbc4cfccc7ce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 912-994頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfc8ccca81cecfcdcfcfcacfccc4cfc6cecdc4cfc6c6cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfcbc5caccc7d2cac8c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7c8cac5cec9ced2cdcbcb"
                 ]
             ]
         },
         {
+            "進度": "黨團協商",
+            "會議日期": "1011218",
+            "立法紀錄": "102卷018期4043號二冊 349-353頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfc8ccca81cecfcdcfcec7cfcdc4cfcccbc6c4cfcccacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1020416",
+            "立法紀錄": "102卷018期4043號一冊 160-160頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfc8ccca81cecfcdcfcec7cfcec4cfcec9cfc4cfcec9cf",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 381-381頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfc8cccb81c6c7cbcdcfcec4cfccc7cec4cfccc7ce",
+            "會議日期": "1020416",
+            "立法紀錄": "102卷018期4043號一冊 160-161頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfc8ccca81cecfcdcfcec7cfcec4cfcec9cfc4cfcec9ce",
             "關係文書": []
         }
     ]
