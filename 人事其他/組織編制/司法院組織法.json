@@ -1,8 +1,8 @@
 {
     "title": "司法院組織法",
     "versions": [
-        "中華民國98年1月9日修正",
-        "中華民國98年1月21日公布"
+        "中華民國102年4月30日修正",
+        "中華民國102年5月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -180,57 +180,86 @@
         {
             "note": "",
             "rule_no": "第二十二條 之一",
-            "content": "　　司法院設司法人員研習所；其組織以法律定之。",
+            "content": "　　司法院設法官學院；其組織另以法律定之。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　本法自公布日施行。",
+            "content": "　　本法自公布日施行。\n　　本法中華民國一百零二年四月三十日修正之第二十二條之一之施行日期，由司法院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第八條": "　　配合修憲，爰將第三項、第四項、第五項之「國民大會」修正為「立法院」。"
+        "第二十二條 之一": "　　鑑於各界要求法官加強研習、進修之聲日益殷切，各國紛設法官學院以為法官研習進修之專責機構之趨勢，並配合法官法第八條第三項規定經遴選為法官者，應經研習；第八十一條規定法官每年度應從事在職進修；第八十二條規定實任法官每連續服務滿七年，得申請帶職帶薪國內外進修一年等規定，就我國法官之研習、進修之相關事宜，自應重新全面規劃，且因應研習、進修之人數、課程大幅增加，以及國際化潮流，自有調整職掌、組織，將原重在研習、進修計畫研擬及執行之司法人員研習所，提升為具有獨立研究、發展有關研習、進修業務及與國際、國內學術、研究機構或司法機關進行交流能力之法官學院之必要，爰將條文內容「司法院設司法人員研習所；其組織以法律定之。」修正為「司法院設法官學院；其組織另以法律定之。」",
+        "第二十三條": "　　為配合司法人員研習所改制為法官學院之進程，爰增訂第二項，明定本次修正第二十二條之一之施行日期，由司法院另定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971014",
-            "立法紀錄": "97卷53期3664號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacbca81c6c8cacccfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "呂學樟",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷025期3966號 18-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc981cecfcecfcdcacfcec4cfcfcec7c4cfcfcec7",
+            "主提案": "司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbc8cdc5cecdced2cecdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc6cfcdc5cdc9cdd2cdc9ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971218",
-            "立法紀錄": "98卷3期3689號四冊 5-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacbca81c6c7cfcccfcbc4cfcfcfcac4cfcfcec8",
+            "會議日期": "1010510",
+            "立法紀錄": "101卷036期3977號 298-348頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc981cecfcecfccc9cfcec4cfcdc6c7c4cfcccbc7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980109",
-            "立法紀錄": "98卷5期3691號一冊 187-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacbca81c6c7cfcacfcec4cfcec7c8c4cfcec7c6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1011113",
+            "立法紀錄": "101卷068期4009號一冊 297-300頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc981cecfcecfc9c7cfcec4cfcdc6c8c4cfcccfcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec8cfcdc5cac7c6d2cac6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececacfc8c5c9cdcdd2c9cdca"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷005期4030號三冊 1008-1008頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc981cecfcdcfcfcacfccc4cecfcfc7c4cecfcfc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020430",
+            "立法紀錄": "102卷023期4048號一冊 118-118頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc981cecfcdcfcdcccfcec4cfcecec7c4cfcecec7",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1020104",
+            "立法紀錄": "102卷023期4048號三冊 377-378頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc981cecfcdcfcdcccfccc4cfccc8c8c4cfccc8c7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1020430",
+            "立法紀錄": "102卷023期4048號一冊 118-118頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc981cecfcdcfcdcccfcec4cfcecec7c4cfcecec7",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "980109",
-            "立法紀錄": "98卷5期3691號一冊 189-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacbca81c6c7cfcacfcec4cfcec7c6c4cfcec7c6",
+            "會議日期": "1020430",
+            "立法紀錄": "102卷023期4048號一冊 118-119頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc981cecfcdcfcdcccfcec4cfcecec7c4cfcecec6",
             "關係文書": []
         }
     ]
