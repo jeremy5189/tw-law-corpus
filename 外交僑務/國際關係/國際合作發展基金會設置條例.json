@@ -1,8 +1,8 @@
 {
     "title": "國際合作發展基金會設置條例",
     "versions": [
-        "中華民國99年5月18日修正",
-        "中華民國99年6月15日公布"
+        "中華民國102年4月30日修正",
+        "中華民國102年5月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -147,6 +147,12 @@
         },
         {
             "note": "",
+            "rule_no": "第十八條 之一",
+            "content": "　　本條例公布施行前已從事海外技術服務之人員，由主管機關編列預算予以照顧之。但其他法律另有規定者，不在此限。\n　　前項應予照顧之人員，發放標準、項目、金額及其他有關事項之辦法，由主管機關定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第十九條",
             "content": "　　本基金會因情事變更，不能達到本條例設置目的時得解散之；解散後，應依法，清算其剩餘財產歸屬國庫。",
             "relates": {}
@@ -159,70 +165,53 @@
         }
     ],
     "law_reasons": {
-        "第五條 之一": "　　一、本條新增。\n　　二、為配合「國際合作發展法」第五條規定，爰增訂本基金會辦理國際合作發展事務之目標。",
-        "第五條 之二": "　　一、本條新增。\n　　二、為配合「國際合作發展法」第六條規定，爰增訂本基金會辦理國際合作發展事務之原則。",
-        "第六條": "　　配合「國際合作發展法」第十條第一項之內容予以修訂。",
-        "第七條": "　　一、修正原條文第一項序言。\n　　二、配合「國際合作發展法」第七條內容，將國合會之業務範圍依「經濟合作暨發展組織」（OECD）有關政府開發援助之統計分類項目酌作修正。\n　　三、原條文第二項內容已列「國際合作發展法」第十一條第二項，爰予刪除。",
-        "第十三條": "　　配合「國際合作發展法」第八條之內容修正。"
+        "第十八條 之一": "　　一、本條新增。\n　　二、數十年來，我國海外工作服務團成員兢兢業業地透過自身之專才，將台灣之各項農業技術落實至所合作國家之發展中，分享台灣寶貴的經驗，友邦人民的感謝與肯定不知凡幾，但此眾多援外人員於海外貢獻自身心力數十年後，返回台灣時皆多已屆晚年，為對其提供應有之關懷及撫卹之照顧，爰增訂本條。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980320",
-            "立法紀錄": "98卷12期3698號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c8cfcb81c6c7cecdcfcfc4cfcfcfcec4cfcfcfce",
-            "主提案": "廖國棟",
+            "會議日期": "1011102",
+            "立法紀錄": "101卷065期4006號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfca81cecfcecfc9cacfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "蕭美琴",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5c8c9d2c8c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "981204",
-            "立法紀錄": "98卷73期3759號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6c6c6c8cfcb81c6c7c8cccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecdcfcec5cecdcad2cecccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc8c8cdc5cecdced2cecdcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "990505",
-            "立法紀錄": "99卷37期3802號 270-317頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfcb81cfc6c6cfccc8cfcec4cfcdc8cfc4cfcccec8",
+            "會議日期": "1020403",
+            "立法紀錄": "102卷020期4045號 195-215頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfca81cecfcdcfcdcfcfcec4cfcec6cac4cfcdceca",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "990506",
-            "立法紀錄": "99卷37期3802號 318-336頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfcb81cfc6c6cfccc8cfcec4cfcccec7c4cfccccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990518",
-            "立法紀錄": "99卷36期3801號 150-172頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfcb81cfc6c6cfccc9cfcec4cfcecacfc4cfcec8cd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020430",
+            "立法紀錄": "102卷023期4048號一冊 181-187頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfca81cecfcdcfcdcccfcec4cfcec7cec4cfcec7c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfccc5cdccc6d2cdcac8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecfc8cac5c8d2cecb"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1020430",
+            "立法紀錄": "102卷023期4048號一冊 187-187頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfca81cecfcdcfcdcccfcec4cfcec7c8c4cfcec7c8",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "990518",
-            "立法紀錄": "99卷36期3801號 172-172頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfcb81cfc6c6cfccc9cfcec4cfcec8cdc4cfcec8cd",
+            "會議日期": "1020430",
+            "立法紀錄": "102卷023期4048號一冊 187-188頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c8cfca81cecfcdcfcdcccfcec4cfcec7c8c4cfcec7c7",
             "關係文書": []
         }
     ]
