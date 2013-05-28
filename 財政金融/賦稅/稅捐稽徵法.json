@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國100年12月14日修正",
-        "中華民國101年1月4日公布"
+        "中華民國102年5月14日修正",
+        "中華民國102年5月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -144,7 +144,7 @@
         {
             "note": "",
             "rule_no": "第十二條 之一",
-            "content": "　　涉及租稅事項之法律，其解釋應本於租稅法律主義之精神，依各該法律之立法目的，衡酌經濟上之意義及實質課稅之公平原則為之。\n　　稅捐稽徵機關認定課徵租稅之構成要件事實時，應以實質經濟事實關係及其所生實質經濟利益之歸屬與享有為依據。\n　　前項課徵租稅構成要件事實之認定，稅捐稽徵機關就其事實有舉證之責任。\n　　納稅義務人依本法及稅法規定所負之協力義務，不因前項規定而免除。",
+            "content": "　　涉及租稅事項之法律，其解釋應本於租稅法律主義之精神，依各該法律之立法目的，衡酌經濟上之意義及實質課稅之公平原則為之。\n　　稅捐稽徵機關認定課徵租稅之構成要件事實時，應以實質經濟事實關係及其所生實質經濟利益之歸屬與享有為依據。\n　　納稅義務人基於獲得租稅利益，違背稅法之立法目的，濫用法律形式，規避租稅構成要件之該當，以達成與交易常規相當之經濟效果，為租稅規避。\n　　前項租稅規避及第二項課徵租稅構成要件事實之認定，稅捐稽徵機關就其事實有舉證之責任。\n　　納稅義務人依本法及稅法規定所負之協力義務，不因前項規定而免除。\n　　稅捐稽徵機關查明納稅義務人及交易之相對人或關係人有第二項或第三項之情事者，為正確計算應納稅額，得按交易常規或依查得資料依各稅法規定予以調整。\n　　納稅義務人得在從事特定交易行為前，提供相關證明文件，向稅捐稽徵機關申請諮詢，稅捐稽徵機關應於六個月內答覆。",
             "relates": {}
         },
         {
@@ -244,7 +244,7 @@
         {
             "note": "",
             "rule_no": "第二十五條 之一",
-            "content": "　　依本法或稅法規定應補、應退或應移送強制執行之稅捐在一定金額以下者，財政部得視實際需要，報請行政院核定免徵、免退或免予移送強制執行。",
+            "content": "　　依本法或稅法規定應補或應移送強制執行之稅捐在一定金額以下者，財政部得視實際需要，報請行政院核定免徵或免予移送強制執行。",
             "relates": {}
         },
         {
@@ -354,7 +354,7 @@
         {
             "note": "",
             "rule_no": "第三十九條",
-            "content": "　　納稅義務人應納稅捐，於繳納期間屆滿三十日後仍未繳納者，由稅捐稽徵機關移送法院強制執行。但納稅義務人已依第三十五條規定申請復查者，暫緩移送法院強制執行。\n　　前項暫緩執行之案件，除有左列情形之一者外，稽徵機關應移送法院強制執行：\n　　一、納稅義務人對復查決定之應納稅額繳納半數，並依法提起訴願者。\n　　二、納稅義務人依前款規定繳納半數稅額確有困難，經稽徵機關核准，提供相當擔保者。",
+            "content": "　　納稅義務人應納稅捐，於繳納期間屆滿三十日後仍未繳納者，由稅捐稽徵機關移送強制執行。但納稅義務人已依第三十五條規定申請復查者，暫緩移送強制執行。\n　　前項暫緩執行之案件，除有下列情形之一者外，稅捐稽徵機關應移送強制執行：\n　　一、納稅義務人對復查決定之應納稅額繳納半數，並依法提起訴願者。\n　　二、納稅義務人依前款規定繳納半數稅額確有困難，經稅捐稽徵機關核准，提供相當擔保者。\n　　三、納稅義務人依前二款規定繳納半數稅額及提供相當擔保確有困難，經稅捐稽徵機關依第二十四條第一項規定，已就納稅義務人相當於復查決定應納稅額之財產，通知有關機關，不得為移轉或設定他項權利者。\n　　本條中華民國一百零二年五月十四日修正施行前，經依復查決定應補繳稅款，納稅義務人未依前項第一款或第二款規定繳納或提供相當擔保，稅捐稽徵機關尚未移送強制執行者，適用修正後之規定。",
             "relates": {}
         },
         {
@@ -487,34 +487,159 @@
         }
     ],
     "law_reasons": {
-        "第四十七條": "　　一、依司法院釋字第六八七號解釋意旨，原條文第一項第一款規定，係使公司負責人因自己之刑事違法且有責之行為，承擔刑事責任，與無責任即無處罰之罪責原則並無牴觸，又依該規定處罰公司負責人時，其具體構成要件行為及法定刑，均規定於本法第四十一條，該條處罰納稅義務人以詐術或其他不正當方法逃漏稅捐之行為，所設定之法定刑種類包括有期徒刑、拘役及罰金，原條文第一項第一款規定既根據同一逃漏稅捐之構成要件行為，處罰公司負責人，該項序文「應處徒刑之規定」部分，限定僅適用有期徒刑之規定，係對同一逃漏稅捐之構成要件行為，無正當理由為差別之不法評價，有違憲法第七條之平等原則，自該解釋公布日起，至遲於屆滿一年時，失其效力。\n　　二、按本法第四十一條與第四十二條關於納稅義務人、扣繳義務人及代徵人應處刑罰之規定，其法定刑種類包含有期徒刑、拘役及罰金，均屬刑罰中之主刑，為符合上開司法院解釋意旨，使第一項各款所定法人或非法人團體組織之負責人、代表人或管理人就同一犯罪構成要件行為，所科予之刑罰種類相同，爰將第一項序文所定本法關於納稅義務人、扣繳義務人及代徵人應處「徒刑」之規定，修正為應處「刑罰」。\n　　三、第二項未修正。"
+        "第十二條 之一": "　　一、第一項及第二項均維持原條文，不予修正。\n　　二、稅捐規避行為之認定，除在各別稅法已有部分明文規定外，應作一般性之法律規範，始能避免實質課稅原則與租稅法律主義之衝突。爰增訂第三項。\n　　三、原條文第三項移列第四項，並配合第三項作文字修正。\n　　四、原條文第四項移列第五項，並增列第六項。\n　　五、納稅義務人從事特定之租稅規劃，往往須耗費相當的時間、金錢的成本，如動輒因稅捐稽徵機關的認知不同，而被認定為稅捐規避行為，將欠缺預測可能性而影響其交易活動，爰增訂第七項，提供納稅義務人在從事特定交易行為之前，得向稅捐稽徵機關提出諮詢之機制，且捐稽徵機關應於期限內答覆。",
+        "第二十五條 之一": "　　納稅是人民的義務，退稅是人民的權利，財政部不應以減少人力或金錢成本為由，被動退還溢繳小額退稅款，造成人民權利、義務不對等，有違社會觀感亦不符合公平正義原則，爰修正本條，取消財政部得針對退稅訂出免退限額之規定。",
+        "第三十九條": "　　一、為維護納稅義務人權益及兼顧確保稅收之徵起，納稅義務人如無繳現困難情形或有易於變價及保管且無產權糾紛之財產可提供相當擔保者，仍應於繳納現金或提供擔保後，始暫緩移送強制執行，以符公允，爰增列第二項第三款。\n　　二、增訂第三項過渡條款。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1001212",
-            "立法紀錄": "100卷088期3940號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecaca81cecfcfcfc7c7cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "行政院",
+            "會議日期": "1010316",
+            "立法紀錄": "101卷007期3948號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcecfcfc8cfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cecbc8cdc5ced2cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbcfcec5cdc6c8d2cdc6c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010420",
+            "立法紀錄": "101卷022期3963號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcecfcdcdcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "楊瓊瓔",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cdcecfd2cdcece"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011116",
+            "立法紀錄": "101卷071期4012號一冊 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcecfc8cecfcec4cfcfcdc9c4cfcfcdc9",
+            "主提案": "楊瓊瓔",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc6c8cdc5cecfc6d2cececd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010420",
+            "立法紀錄": "101卷022期3963號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcecfcdcdcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "賴士葆",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cdcecdd2cdcec7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020308",
+            "立法紀錄": "102卷008期4033號一冊 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcfc7cfcec4cfcfcfcec4cfcfcfcd",
+            "主提案": "陳亭妃",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfccc8cdc5cec6d2cdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020329",
+            "立法紀錄": "102卷012期4037號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcecdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "台灣團結聯盟黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc9c8cdc5c9c6d2c8cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020315",
+            "立法紀錄": "102卷008期4033號二冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcfc7cfcdc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "黃偉哲",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcbc8cdc5ccced2cccd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020315",
+            "立法紀錄": "102卷008期4033號二冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcfc7cfcdc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "黃偉哲",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcbc8cdc5ccccd2cccb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020329",
+            "立法紀錄": "102卷012期4037號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcecdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "親民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc9c8cdc5c9c8d2c9c7"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1020425",
+            "立法紀錄": "102卷027期4052號 391-442頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcdc8cfcec4cfccc6cec4cfcbcbcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020514",
+            "立法紀錄": "102卷029期4054號一冊 109-134頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcdc6cfcec4cfcecfc6c4cfcecccb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecdc8cbc5cbc8d2c8cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001214",
-            "立法紀錄": "100卷088期3940號三冊 972-974頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecaca81cecfcfcfc7c7cfccc4cfc6c8cdc4cfc6c8cb",
+            "會議日期": "1020514",
+            "立法紀錄": "102卷029期4054號一冊 134-135頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcdc6cfcec4cfcecccbc4cfceccca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001214",
-            "立法紀錄": "100卷088期3940號三冊 974-975頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecaca81cecfcfcfc7c7cfccc4cfc6c8cbc4cfc6c8ca",
+            "會議日期": "1020514",
+            "立法紀錄": "102卷029期4054號一冊 135-136頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac981cecfcdcfcdc6cfcec4cfcecccac4cfceccc9",
             "關係文書": []
         }
     ]
