@@ -1,8 +1,8 @@
 {
     "title": "軍事審判法",
     "versions": [
-        "中華民國95年5月19日修正",
-        "中華民國95年6月14日公布"
+        "中華民國102年8月6日修正",
+        "中華民國102年8月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -20,7 +20,7 @@
         {
             "note": "(適用範圍)",
             "rule_no": "第一條",
-            "content": "　　現役軍人犯陸海空軍刑法或其特別法之罪，依本法之規定追訴審判之，其在戰時犯陸海空軍刑法或其特別法以外之罪者，亦同。\n　　非現役軍人不受軍事審判。但戒嚴法有特別規定者，從其規定。",
+            "content": "　　現役軍人戰時犯陸海空軍刑法或其特別法之罪，依本法追訴、處罰。\n　　現役軍人非戰時犯下列之罪者，依刑事訴訟法追訴、處罰：\n　　一、陸海空軍刑法第四十四條至第四十六條及第七十六條第一項。\n　　二、前款以外陸海空軍刑法或其特別法之罪。\n　　非現役軍人不受軍事審判。",
             "relates": {}
         },
         {
@@ -232,9 +232,9 @@
             "relates": {}
         },
         {
-            "note": "(犯罪事實之一部，全部依本法審判)",
+            "note": "(犯罪事實之一部，全部依刑事訴訟法追訴、審判)",
             "rule_no": "第三十四條",
-            "content": "　　犯罪事實之一部應依本法審判時，全部依本法審判之。",
+            "content": "　　犯罪事實之一部應依刑事訴訟法追訴、審判時，全部依刑事訴訟法追訴、審判之。",
             "relates": {}
         },
         {
@@ -1554,9 +1554,9 @@
             "section_name": "第八編  附則"
         },
         {
-            "note": "(國安法停止適用日)",
+            "note": "(軍事刑事案件之移送)",
             "rule_no": "第二百三十七條",
-            "content": "　　國家安全法第八條第二項自中華民國九十年十月二日停止適用。",
+            "content": "　　本法中華民國一百零二年八月六日修正之條文施行前，已依本法開始偵查、審判或執行之第一條第二項案件，依下列規定處理之：\n　　一、偵查、審判程序尚未終結者，偵查中案件移送該管檢察官偵查，審判中案件移送該管法院審判。但本法修正施行前已依法定程序進行之訴訟程序，其效力不受影響。\n　　二、裁判確定之案件，不得向該管法院上訴或抗告。但有再審或非常上訴之事由者，得依刑事訴訟法聲請再審或非常上訴。\n　　三、刑事裁判尚未執行或在執行中者，移送該管檢察官指揮執行。\n　　本法中華民國一百零二年八月六日修正之條文，除第一條第二項第二款自公布後五個月施行外，自公布日施行。",
             "relates": {}
         },
         {
@@ -1567,50 +1567,95 @@
         }
     ],
     "law_reasons": {
-        "第八十條": "　　刑法第四章章名已由「共犯」修正為「正犯與共犯」，爰將本條之「共犯」修正為「其他正犯、共犯」。",
-        "第八十九條": "　　刑法第四章章名已由「共犯」修正為「正犯與共犯」，爰將本條第三款之「共犯」修正為「其他正犯、共犯」。",
-        "第一百零二條": "　　一、刑法第四章章名已由「共犯」修正為「正犯與共犯」，爰將第一項第二款之「共犯」修正為「其他正犯、共犯」。\n　　二、第二項及第三項未修正。",
-        "第一百零三條": "　　一、因應九十四年二月二日修正公布，九十五年七月一日施行之刑法已刪除常業犯之規定，回歸普通犯罪類型之一罪一罰，本條第一項第四款之刑法第三百二十二條常業竊盜罪、第五款之刑法第三百二十七條常業搶奪罪，已失依據，自應配合刪除。爰於第一項第四款刪除常業竊盜罪名之同時，增列刑法第三百二十條之普通竊盜罪，以發揮預防性羈押之功能。\n　　二、現役軍人犯刑法第三百四十條之常業詐欺罪，已不在陸海空軍刑法規範範圍，並無本法之適用，爰刪除第一項第七款。\n　　三、第二項未修正。",
-        "第二百三十八條": "　　配合刑法修正條文自九十五年七月一日施行，酌修本次修正條文施行日期。"
+        "第一條": "　　依黨團協商結論。",
+        "第三十四條": "　　依黨團協商結論。",
+        "第二百三十七條": "　　依黨團協商結論。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950414",
-            "立法紀錄": "95卷17期3478號一冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9cac6cb81c6cacec8cfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "1020730",
+            "立法紀錄": "102卷47期4072號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "國民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc6cfcec5cececdd2cecec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccec6c8cdc5ced2c9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020730",
+            "立法紀錄": "102卷47期4072號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "民進黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccec6c8cdc5c8d2cecf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020730",
+            "立法紀錄": "102卷47期4072號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "林佳龍",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccec6c8cdc5ceced2cecb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950503",
-            "立法紀錄": "95卷27期3488號 353-363頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9cac6cb81c6cacdc8cfcfc4cfcccaccc4cfccc9cc",
+            "會議日期": "1020731",
+            "立法紀錄": "102卷47期4072號 169-236頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcec9c6c4cfcdccc9",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950519",
-            "立法紀錄": "95卷29期3490號一冊 51-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9cac6cb81c6cacdc6cfcec4cfcfcacec4cfcfcac7",
+            "進度": "委員會審查",
+            "會議日期": "1020801",
+            "立法紀錄": "102卷47期4072號 237-260頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcdccc8c4cfcdc9cf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020806",
+            "立法紀錄": "102卷47期4072號 17-41頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcfcec8c4cfcfcbce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecccfcdc5c9cad2c8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccec9cfc9c5cac8cdd2cac6c9"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020806",
+            "立法紀錄": "102卷47期4072號 45-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcfcbcac4cfcfcbc9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1020806",
+            "立法紀錄": "102卷47期4072號 46-47頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcfcbc9c4cfcfcbc8",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "950519",
-            "立法紀錄": "95卷29期3490號一冊 58-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9cac6cb81c6cacdc6cfcec4cfcfcac7c4cfcfcac7",
+            "會議日期": "1020806",
+            "立法紀錄": "102卷47期4072號 47-54頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9cac6c981cecfcdcfcbc8cfcec4cfcfcbc8c4cfcfcacb",
             "關係文書": []
         }
     ]
