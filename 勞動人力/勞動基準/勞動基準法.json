@@ -1,8 +1,8 @@
 {
     "title": "勞動基準法",
     "versions": [
-        "中華民國100年6月13日修正",
-        "中華民國100年6月29日公布"
+        "中華民國102年11月26日修正",
+        "中華民國102年12月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -302,7 +302,7 @@
         {
             "note": "",
             "rule_no": "第四十五條",
-            "content": "　　雇主不得僱用未滿十五歲之人從事工作。但國民中學畢業或經主管機關認定其工作性質及環境無礙其身心健康者，不在此限。\n　　前項受僱之人，準用童工保護之規定。",
+            "content": "　　雇主不得僱用未滿十五歲之人從事工作。但國民中學畢業或經主管機關認定其工作性質及環境無礙其身心健康而許可者，不在此限。\n　　前項受僱之人，準用童工保護之規定。\n　　第一項工作性質及環境無礙其身心健康之認定基準、審查程序及其他應遵行事項之辦法，由中央主管機關依勞工年齡、工作性質及受國民義務教育之時間等因素定之。\n　　未滿十五歲之人透過他人取得工作為第三人提供勞務，或直接為他人提供勞務取得報酬未具勞僱關係者，準用前項及童工保護之規定。",
             "relates": {}
         },
         {
@@ -314,7 +314,7 @@
         {
             "note": "",
             "rule_no": "第四十七條",
-            "content": "　　童工每日工作時間不得超過八小時，例假日不得工作。",
+            "content": "　　童工每日之工作時間不得超過八小時，每週之工作時間不得超過四十小時，例假日不得工作。",
             "relates": {}
         },
         {
@@ -518,7 +518,7 @@
         {
             "note": "",
             "rule_no": "第七十七條",
-            "content": "　　違反第四十二條、第四十四條第二項、第四十五條、第四十七條、第四十八條、第四十九條第三項或第六十四條第一項規定者，處六個月以下有期徒刑、拘役或科或併科新臺幣三十萬元以下罰金。",
+            "content": "　　違反第四十二條、第四十四條第二項、第四十五條第一項、第四十七條、第四十八條、第四十九條第三項或第六十四條第一項規定者，處六個月以下有期徒刑、拘役或科或併科新臺幣三十萬元以下罰金。",
             "relates": {}
         },
         {
@@ -536,7 +536,7 @@
         {
             "note": "",
             "rule_no": "第七十九條 之一",
-            "content": "　　違反第六十四條第三項及第六十九條第一項準用規定之處罰，適用本法罰則章規定。",
+            "content": "　　違反第四十五條第二項、第四項、第六十四條第三項及第六十九條第一項準用規定之處罰，適用本法罰則章規定。",
             "relates": {}
         },
         {
@@ -599,106 +599,83 @@
         }
     ],
     "law_reasons": {
-        "第七十五條": "　　一、鑑於新臺幣係臺灣地區流通之貨幣，現行法規所定金額之貨幣單位為元者，應依「現行法規所定貨幣單位折算新臺幣條例」規定，修正貨幣單位之法規使之一致性。\n　　二、原定處罰數額稍嫌過低，顯不足以達成法律上之目的。為遏止雇主違法強迫勞動行為，確保勞工人身自由，參酌人口販運防制法中使勞工從事勞動與報酬顯不相當之工作者之處罰規定，爰提高為本條原規定罰金之五倍。",
-        "第七十六條": "　　一、修正貨幣單位為新臺幣及提高處罰額度。鑑於新臺幣係臺灣地區流通之貨幣，現行法規所定金額之貨幣單位為元者，應依「現行法規所定貨幣單位折算新臺幣條例」規定，修正貨幣單位之法規使之一致性。\n　　二、為防止中間剝削行為，保障勞工基本生活，爰提高為本條原規定罰金之五倍。",
-        "第七十七條": "　　一、修正貨幣單位為新臺幣及提高處罰額度。鑑於新臺幣係臺灣地區流通之貨幣，現行法規所定金額之貨幣單位為元者，應依「現行法規所定貨幣單位折算新臺幣條例」規定，修正貨幣單位之法規使之一致性。\n　　二、為確保勞工之生命健康及落實童工、女工及技術生等之特別保護目的，爰維持原行政刑罰之規定，並提高為原定罰金之五倍。",
-        "第七十八條": "　　參酌微罪行政刑罰除罪化趨勢，及現行勞工退休金條例對於「未依法發給保留年資之資遣費或退休金」之行為已採行政罰鍰方式處罰，檢討將違法終止契約、預扣工資、懷孕女性保護及未依規定給付資遣費或退休金等違法情事，予以除罪化。爰將本條文規定改採行政罰鍰方式處罰，提高處罰額度並修正貨幣單位。",
-        "第七十九條": "　　一、依社會及經濟變遷之實際情況，衡量當前國民所得、經濟成長均較民國七十三年立法當時大幅成長，原處罰額度過低，恐使雇主寧可繳交罰鍰，不願意依法辦理，無法落實本法保護勞工之目的，爰將第一項及第二項處罰額度提高。\n　　二、增訂第三項。",
-        "第七十九條 之一": "　　一、本條新增。\n　　二、由於現行法規罰則過低，完全無法嚇阻雇主濫用責任制之解釋，致使部分勞工即便提出申訴，但雇主因勞工超時加班所減少給付之工資遠高於相關罰則，根本無法對雇主濫用責任制解釋之行為有所嚇阻。爰提高違反相關規定之罰則，以有效嚇阻部分惡質企業對濫用責任制解釋之行為，確實保障勞工權益。",
-        "第八十條": "　　各縣〈市〉政府遴派檢查員依本法實施勞動條件檢查業務時，常遭遇事業單位以非勞動檢查機構之勞動檢查員而拒絕進入檢查。為明確計算，配合勞動檢查法第三十五條處罰額度及修正貨幣單位，爰將本條文予以修正，以利各縣〈市〉政府實施勞動條件檢查業務。"
+        "第四十五條": "　　一、依原條文之規定，僱用未滿十五歲之人從事工作究屬報備制、許可制抑或僅能透過主管機關事後裁處，未臻明確。爰修正本條第一項但書之規定，明文規定僱用十五歲以下之人，須得主管機關之許可，以確實保障童工之權益。\n　　二、原條文第二項未修正。\n　　三、原條文第一項所稱「工作性質及環境無礙其身心健康」，目前地方主管機關於審核時並無一致之認定基準，為使該等認定有明確之依據，爰增訂第三項規定，授權由中央主管機關依勞工年齡、工作性質及受國民義務教育之時間等因素定之。\n　　四、依王委員育敏等所提修正動議，增訂第四項。",
+        "第四十七條": "　　原條文規定童工每日之工作時間不得超過八小時，例假日不得工作。惟此規定並未顧及童工受教育之權利，造成童工於平日放學後仍可長時間工作，爰此修正原條文，明定童工每週工作時間之上限為四十小時。",
+        "第七十七條": "　　第四十五條規定，包含第二項準用童工保護之規定，該條第二項之處罰已移列第七十九條之一，爰配合修正。",
+        "第七十九條 之一": "　　為使違反之法律效果臻於明確，爰予明定適用本法罰則章規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "991119",
-            "立法紀錄": "99卷74期3839號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cfc6c6cfc8cbcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "江玲君",
+            "會議日期": "1010511",
+            "立法紀錄": "101卷32期3973號 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8c981cecfcecfcccdcfcec4cfcfcecac4cfcfceca",
+            "主提案": "王育敏",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfc6cfcec5c7ced2c7ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecececfcec5cdcdc9d2cdcdc6"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1000318",
-            "立法紀錄": "100卷17期3869號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfcec8cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "侯彩鳳",
+            "會議日期": "1020510",
+            "立法紀錄": "102卷29期4054號一冊 13-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8c981cecfcdcfcdc6cfcec4cfcfceccc4cfcfcecc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcac8cdc5c6d2cecd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1000401",
-            "立法紀錄": "100卷23期3875號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfcdcccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃淑英",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc8c8cdc5c6ccd2c6c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecdc8cdc5ccccced2cccccb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000421",
-            "立法紀錄": "100卷35期3887號 321-378頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfcccacfcec4cfcccdcec4cfccc8c7",
+            "會議日期": "1010606",
+            "立法紀錄": "101卷48期3989號 84-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8c981cecfcecfcbc7cfcec4cfcfc7cbc4cfcecacf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1021017",
+            "立法紀錄": "102卷60期4085號 128-128頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8c981cecfcdcfc9cfcfcec4cfcecdc7c4cfcecdc7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1021017",
+            "立法紀錄": "102卷60期4085號 144-185頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8c981cecfcdcfc9cfcfcec4cfcecbcbc4cfcec7ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000503",
-            "立法紀錄": "100卷34期3886號 155-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfcccbcfcec4cfcecacac4cfcec8cf",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 307-315頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8c981cecfcdcfc8cecfcec4cfcccfc8c4cfccceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cececfccc5cecbced2cecac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cec8ccd2cec7cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1000517",
-            "立法紀錄": "100卷39期3891號二冊 836-836頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfccc6cfcdc4cfc7ccc9c4cfc7ccc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1000613",
-            "立法紀錄": "100卷49期3901號三冊 1088-1088頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfcbc6cfccc4cecfc7c7c4cecfc7c7",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1000505",
-            "立法紀錄": "100卷49期3901號六冊 2613-2615頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfcbc6cfc9c4cdc9ceccc4cdc9ceca",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1000613",
-            "立法紀錄": "100卷49期3901號五冊 2130-2132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfcbc6cfcac4cdcecccfc4cdcecccd",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 315-315頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8c981cecfcdcfc8cecfcec4cfcccecac4cfccceca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1000613",
-            "立法紀錄": "100卷49期3901號五冊 2132-2132頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8ca81cecfcfcfcbc6cfcac4cdcecccdc4cdcecccd",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 316-316頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c8c981cecfcdcfc8cecfcec4cfcccec9c4cfcccec9",
             "關係文書": []
         }
     ]
