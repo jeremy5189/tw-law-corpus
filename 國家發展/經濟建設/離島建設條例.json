@@ -1,8 +1,8 @@
 {
     "title": "離島建設條例",
     "versions": [
-        "中華民國102年1月11日修正",
-        "中華民國102年1月23日公布"
+        "中華民國102年11月26日修正",
+        "中華民國102年12月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -114,7 +114,7 @@
         {
             "note": "(離島教師申請介聘之規定)",
             "rule_no": "第十二條 之一",
-            "content": "　　為保障離島地區學生之受教權，離島地區國民教育階段初聘教師應服務四年以上，始得提出申請介聘至台灣本島地區學校。",
+            "content": "　　為保障離島地區學生之受教權，離島地區國民教育階段初聘教師應服務六年以上，始得提出申請介聘至台灣本島地區學校。",
             "relates": {}
         },
         {
@@ -173,41 +173,53 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "為補正立法疏漏，爰修正本條。"
+        "第十二條 之一": "　　一、離島地區所面臨之產業建設、教育、文化、交通、醫療及觀光、社會福利等措施，在在不足，因應當前時代所需，其中人才嚴重不足。\n　　二、為健全地方教育資源與人力，維護離島學生受教權益，促使教師留任離島地區，爰修正原條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020104",
-            "立法紀錄": "102卷004期4029號一冊 29-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6ca81cecfcdcfcfcbcfcec4cfcfcdc6c4cfcfcccf",
-            "主提案": "民進黨黨團",
+            "會議日期": "1020510",
+            "立法紀錄": "102卷29期4054號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfcdc6cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "陳雪生",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec8c8cdc5ced2cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecdc8cdc5ceccced2cecccd"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1020111",
-            "立法紀錄": "102卷005期4030號一冊 73-74頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6ca81cecfcdcfcfcacfcec4cfcfc8ccc4cfcfc8cb",
+            "進度": "委員會審查",
+            "會議日期": "1021016",
+            "立法紀錄": "102卷59期4084號 267-303頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfcac6cfcec4cfcdc9c8c4cfcccfcc",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 302-304頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfc8cecfcec4cfcccfcdc4cfcccfcb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cec9cad2cec9c7"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1020111",
-            "立法紀錄": "102卷005期4030號一冊 74-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6ca81cecfcdcfcfcacfcec4cfcfc8cbc4cfcfc8ca",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 304-304頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfc8cecfcec4cfcccfcbc4cfcccfcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1020111",
-            "立法紀錄": "102卷005期4030號一冊 75-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6ca81cecfcdcfcfcacfcec4cfcfc8cac4cfcfc8ca",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 304-304頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfc8cecfcec4cfcccfcbc4cfcccfcb",
             "關係文書": []
         }
     ]
