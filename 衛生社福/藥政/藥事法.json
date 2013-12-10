@@ -1,8 +1,8 @@
 {
     "title": "藥事法",
     "versions": [
-        "中華民國102年4月16日修正",
-        "中華民國102年5月8日公布"
+        "中華民國102年11月26日修正",
+        "中華民國102年12月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -566,7 +566,7 @@
         {
             "note": "",
             "rule_no": "第八十條",
-            "content": "　　藥物有下列情形之一者，其製造或輸入之業者，應即通知醫療機構、藥局及藥商，並依規定期限回收市售品，連同庫存品一併依本法有關規定處理：\n　　一、原領有許可證，經公告禁止製造或輸入。\n　　二、經依法認定為偽藥、劣藥或禁藥。\n　　三、經依法認定為不良醫療器材或未經核准而製造、輸入之醫療器材。\n　　四、藥物製造工廠，經檢查發現其藥物確有損害使用者生命、身體或健康之事實，或有損害之虞。\n　　五、製造、輸入藥物許可證未申請展延或不准展延。\n　　六、包裝、標籤、仿單經核准變更登記。\n　　七、其他經中央衛生主管機關公告應回收。\n　　製造、輸入業者回收前項各款藥物時，醫療機構、藥局及藥商應予配合。",
+            "content": "　　藥物有下列情形之一，其製造或輸入之業者，應即通知醫療機構、藥局及藥商，並依規定期限收回市售品，連同庫存品一併依本法有關規定處理：\n　　一、原領有許可證，經公告禁止製造或輸入。\n　　二、經依法認定為偽藥、劣藥或禁藥。\n　　三、經依法認定為不良醫療器材或未經核准而製造、輸入之醫療器材。\n　　四、藥物製造工廠，經檢查發現其藥物確有損害使用者生命、身體或健康之事實，或有損害之虞。\n　　五、製造、輸入藥物許可證未申請展延或不准展延。\n　　六、包裝、標籤、仿單經核准變更登記。\n　　七、其他經中央衛生主管機關公告應回收。\n　　製造、輸入業者回收前項各款藥物時，醫療機構、藥局及藥商應予配合。\n　　第一項應回收之藥物，其分級、處置方法、回收作業實施方式及其他應遵循事項之辦法，由中央衛生福利主管機關定之。",
             "relates": {}
         },
         {
@@ -777,53 +777,53 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　一、本條文新增文字。\n　　二、本條文修正係參考：\n　　　(一)衛生署於98年間委託台灣大學法學院以製藥先進之美國、歐盟及英國立法例及其法律制度、文化背景與我國較為接近之日本所作『各國藥事法之比較研究』。\n　　　(二)參照國際醫療器材法規調和化組織所研擬之立法指引及先進國家立法例。\n　　　(三)蒐集及彙整國內產業實務界建議，以作為研擬修正草案之檢討參考與依據。"
+        "第八十條": "　　一、應回收之藥物，其分級、處置方法、回收作業實施方式及其他應遵循事項等相關規定，宜授權訂定之。爰增列第三項。\n　　二、其餘各項維持原條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
             "會議日期": "1011207",
-            "立法紀錄": "101卷081期4022號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccacb81cecfcecfc7cecfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "劉建國",
+            "立法紀錄": "101卷81期4022號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccac981cecfcecfc7cecfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "何欣純",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdc8cdc5c8cad2c8c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdcfcec5cecac7d2cec9cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1020328",
-            "立法紀錄": "102卷017期4042號 114-199頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccacb81cecfcdcfcec8cfcec4cfcececbc4cfcec6c6",
+            "會議日期": "1021007",
+            "立法紀錄": "102卷54期4079號 342-477頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccac981cecfcdcfcacbcfcec4cfcccbcdc4cfcbc8c8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1020416",
-            "立法紀錄": "102卷018期4043號一冊 214-219頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccacb81cecfcdcfcec7cfcec4cfcdcecbc4cfcdcec6",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 225-231頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccac981cecfcdcfc8cecfcec4cfcdcdcac4cfcdccce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7c8cac5cdc6d2cccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5c8c6d2c7cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1020416",
-            "立法紀錄": "102卷018期4043號一冊 219-219頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccacb81cecfcdcfcec7cfcec4cfcdcec6c4cfcdcec6",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 231-231頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccac981cecfcdcfc8cecfcec4cfcdcccec4cfcdccce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1020416",
-            "立法紀錄": "102卷018期4043號一冊 219-219頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccacb81cecfcdcfcec7cfcec4cfcdcec6c4cfcdcec6",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 231-231頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcccac981cecfcdcfc8cecfcec4cfcdcccec4cfcdccce",
             "關係文書": []
         }
     ]
