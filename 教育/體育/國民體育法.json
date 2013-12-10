@@ -1,8 +1,8 @@
 {
     "title": "國民體育法",
     "versions": [
-        "中華民國100年10月25日修正",
-        "中華民國100年11月9日公布"
+        "中華民國102年11月26日修正",
+        "中華民國102年12月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,7 +24,7 @@
         {
             "note": "(固有優良體育活動之倡導及推廣)",
             "rule_no": "第三條",
-            "content": "　　國民體育，對我國固有之優良體育活動，應加以倡導及推廣。",
+            "content": "　　國民體育，對我國固有之優良體育活動，應加以倡導及推廣，並明定每年九月九日為國民體育日。\n　　各級政府應在國民體育日加強全民健身宣傳。\n　　各機關、團體及企業機構應在國民體育日規劃推動組織內員工全民健身活動。\n　　各級政府之公共運動設施應在國民體育日免費開放供民眾使用；並鼓勵其他各類運動設施在國民體育日免費開放供民眾使用。",
             "relates": {}
         },
         {
@@ -40,9 +40,9 @@
             "relates": {}
         },
         {
-            "note": "(各機關及學校體育教學活動之訂定)",
+            "note": "(各機關及各級學校體育活動之訂定)",
             "rule_no": "第六條",
-            "content": "　　各機關及各級學校應依有關法令規定，配合國家體育政策，切實推動體育活動。\n　　前項各級學校體育之目標、教學、活動、選手培訓及其他相關事項之實施辦法，由教育部定之。",
+            "content": "　　各機關及各級學校應依有關法令規定，配合國家體育政策，切實推動體育活動；高級中等以下學校及專科學校五年制前三年並應安排學生在校期間，除體育課程時數外，每日參與體育活動之時間，每週應達一百五十分鐘以上。\n　　前項各級學校體育之目標、教學、活動、選手培訓及其他相關事項之實施辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -143,74 +143,54 @@
         }
     ],
     "law_reasons": {
-        "第十三條": "　　照黨團協商條文通過。"
+        "第三條": "　　一、為積極鼓勵民眾參與各種健身活動，爰修正第一項，明定每年9月9日定為國民體育日。\n　　二、各級政府應在國民體育日加強全民健身宣傳，並開放公共運動設施及鼓勵其他各類運動設施應在國民體育日免費開放供民眾使用，爰增訂第二項至第四項。",
+        "第六條": "　　一、為落實全民運動向下扎根，爰修正第一項，明定高級中等以下學校及專科學校五年制前三年並應安排學生在校期間，除體育課程時數外，每日參與體育活動之時間，每週應達一百五十分鐘以上。\n　　二、原條文第二項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "990528",
-            "立法紀錄": "99卷41期3806號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cfc6c6cfcbcecfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "王幸男",
+            "會議日期": "1011207",
+            "立法紀錄": "101卷81期4022號一冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c781cecfcecfc7cecfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "何欣純",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecacfcec5cecbc9d2cecacb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdcfcec5cecac9d2cecac8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000504",
-            "立法紀錄": "100卷40期3892號 1-74頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfcbcfcfcec4cfcfcfcec4cfcfc8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1000519",
-            "立法紀錄": "100卷46期6898號 93-110頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfcbc9cfcec4cfcfc6ccc4cfcececf",
+            "會議日期": "1021003",
+            "立法紀錄": "102卷53期4078號 275-304頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c781cecfcdcfcacccfcec4cfcdc8cac4cfcccfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000613",
-            "立法紀錄": "100卷49期3901號三冊 1099-1107頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfcbc6cfccc4cecfc6c6c4cececfc8",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 216-221頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c781cecfcdcfc8cecfcec4cfcdcec9c4cfcdcdce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cec8cfcac5cecac6d2cec9c9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5c9c6d2c8cb"
                 ]
             ]
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "1000601",
-            "立法紀錄": "100卷63期3915號 409-414頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfc9cccfcec4cfcbcfc6c4cfcbcecb",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1000610",
-            "立法紀錄": "100卷63期3915號 415-419頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfc9cccfcec4cfcbcecac4cfcbcec6",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001025",
-            "立法紀錄": "100卷63期3915號 148-153頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfc9cccfcec4cfcecbc7c4cfcecacc",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 221-221頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c781cecfcdcfc8cecfcec4cfcdcdcec4cfcdcdce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001025",
-            "立法紀錄": "100卷63期3915號 154-154頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c881cecfcfcfc9cccfcec4cfcecacbc4cfcecacb",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 221-221頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec9c6c9c781cecfcdcfc8cecfcec4cfcdcdcec4cfcdcdce",
             "關係文書": []
         }
     ]
