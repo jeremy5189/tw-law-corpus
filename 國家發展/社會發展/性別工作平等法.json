@@ -1,8 +1,8 @@
 {
     "title": "性別工作平等法",
     "versions": [
-        "中華民國99年12月21日修正",
-        "中華民國100年1月5日公布"
+        "中華民國102年11月26日修正",
+        "中華民國102年12月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -112,7 +112,7 @@
         {
             "note": "(生理假)",
             "rule_no": "第十四條",
-            "content": "　　女性受僱者因生理日致工作有困難者，每月得請生理假一日，其請假日數併入病假計算。\n　　生理假薪資之計算，依各該病假規定辦理。",
+            "content": "　　女性受僱者因生理日致工作有困難者，每月得請生理假一日，全年請假日數未逾三日，不併入病假計算，其餘日數併入病假計算。\n　　前項併入及不併入病假之生理假薪資，依各該病假規定辦理。",
             "relates": {}
         },
         {
@@ -291,60 +291,86 @@
         }
     ],
     "law_reasons": {
-        "第十五條": "　　一、新增安胎假規定。\n　　二、為保障在懷孕期間有安胎需求的女性勞工，勞委會於99年5月4日修改勞工請假規則，將懷孕期間需安胎休養者，其休養期間，併入住院傷病假計算。然而，生育乃國家的大事，並非個人的事，其所帶來的成本亦應由社會共同承擔。尤其在現今面臨少子女化的情況下更是如此，此亦是婦女團體多年來提倡「生育責任公共化」的主張。鑑於「生育」與「生病」不同，若僅於勞工請假規則中納入病假計算，則懷孕勞工一旦有安胎需求請病假，將影響其考績、全勤或受其他不利處分等。為使安胎假得以適用本法第二十一條第二項「受僱者為前項請求時，雇主不得視為缺勤而影響其全勤獎金、考績或為其他不利之處分。」，爰修訂本條文。\n　　三、增列第三項文字：「受僱者經醫師診斷需安胎休養者，其治療、照護或休養期間之請假及薪資計算，依相關法令之規定。」\n　　四、原第三項及第四項遞改為第四項及第五項。",
-        "第二十條": "　　將原條文第一項首句中「受僱於僱用五人以上雇主之受僱者，於其家庭」等字修正為「受僱者於其家庭」，餘未作修正。\n　　"
+        "第十四條": "　　一、原條文規定女性生理假之請假日數需併入病假計算；而依勞工請假規則，勞工普通傷病假一年內未超過三十日部分，工資折半發給。亦即女性受僱者因生理期來臨，工作有困難而需請生理假其年度病假額度將變相減少，嚴重影響到女性受僱者之權益。\n　　二、爰修正原條文第一項，明定女性受僱者因生理日致工作有困難者，每月得請生理假一日，全年請假日數未逾三日，不併入病假計算，其餘日數併入病假計算。\n　　三、修正原條文第二項，明定前項併入及不併入病假之生理假薪資，依各該病假規定辦理。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0991022",
-            "立法紀錄": "99卷55期3820號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcacb81cfc6c6cfcacacfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃淑英",
+            "會議日期": "1011214",
+            "立法紀錄": "101卷83期4024號一冊 27-27頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcaca81cecfcecfc7cccfcec4cfcfcdc8c4cfcfcdc8",
+            "主提案": "蘇震清",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcac8cdc5cececed2cececd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecccfcec5c9c9d2c9c8"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "0981211",
-            "立法紀錄": "98卷75期3761號一冊 1-1頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7c6cfcacb81c6c7c8cacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "周守訓",
+            "會議日期": "1020104",
+            "立法紀錄": "102卷4期4029號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcaca81cecfcdcfcfcbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "江惠貞",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcec5c6c8d2c6c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec9cfcec5cecac7d2cec9cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020503",
+            "立法紀錄": "102卷26期4051號一冊 25-25頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcaca81cecfcdcfcdc9cfcec4cfcfcdcac4cfcfcdca",
+            "主提案": "潘孟安",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecec8cdc5c6cad2c6c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "0991202",
-            "立法紀錄": "99卷83期384號 4-31頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcacb81cfc6c6cfc7cccfcec4cfcfcfcbc4cfcfccce",
+            "會議日期": "1021017",
+            "立法紀錄": "102卷60期4085號 128-128頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcaca81cecfcdcfc9cfcfcec4cfcecdc7c4cfcecdc7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "0991221",
-            "立法紀錄": "99卷84期3849號 55-60頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcacb81cfc6c6cfc7cbcfcec4cfcfcacac4cfcfc9cf",
+            "進度": "委員會審查",
+            "會議日期": "1021017",
+            "立法紀錄": "102卷60期4085號 144-185頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcaca81cecfcdcfc9cfcfcec4cfcecbcbc4cfcec7ca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 253-261頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcaca81cecfcdcfc8cecfcec4cfcdcaccc4cfcdc9ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecdcfcac5cecfc8d2cececd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cecfc8d2cececb"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 261-261頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcaca81cecfcdcfc8cecfcec4cfcdc9cec4cfcdc9ce",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "0991221",
-            "立法紀錄": "99卷84期3849號 60-60頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcacb81cfc6c6cfc7cbcfcec4cfcfc9cfc4cfcfc9cf",
+            "會議日期": "1021126",
+            "立法紀錄": "102卷71期4096號一冊 261-261頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcaca81cecfcdcfc8cecfcec4cfcdc9cec4cfcdc9ce",
             "關係文書": []
         }
     ]
