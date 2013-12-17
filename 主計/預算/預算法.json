@@ -1,8 +1,8 @@
 {
     "title": "預算法",
     "versions": [
-        "中華民國100年5月6日修正",
-        "中華民國100年5月25日公布"
+        "中華民國102年11月29日修正",
+        "中華民國102年12月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -180,9 +180,9 @@
             "section_name": "第二章  預算之籌劃及擬編"
         },
         {
-            "note": "(應送參考資料)",
+            "note": "(應送之參考資料)",
             "rule_no": "第二十八條",
-            "content": "　　中央主計機關、中央經濟建設計畫主管機關、審計機關、中央財政主管機關及其他有關機關應於籌劃擬編概算前，依左列所定範圍，將可供決定下年度施政方針之參考資料送行政院：\n　　一、中央主計機關應供給以前年度財政經濟狀況之會計統計分析資料，及下年度全國總資源供需之趨勢，與增進公務及財務效能之建議。\n　　二、中央經濟建設計畫主管機關應供給以前年度重大經濟建設計畫之檢討意見與未來展望。\n　　三、審計機關應供給審核以前年度預算執行之有關資料，及財務上增進效能與減少不經濟支出之建議。\n　　四、中央財政主管機關應供給以前年度收入狀況，財務上增進效能與減少不經濟支出之建議及下年度財政措施，與最大可能之收入額度。\n　　五、其他有關機關應供給與決定施政方針有關之資料。",
+            "content": "　　中央主計機關、中央經濟建設計畫主管機關、審計機關、中央財政主管機關及其他有關機關應於籌劃擬編概算前，依左列所定範圍，將可供決定下年度施政方針之參考資料送行政院：\n　　一、中央主計機關應供給以前年度財政經濟狀況之會計統計分析資料、國民幸福指數變動趨勢、下年度全國總資源供需之趨勢，及增進公務暨財務效能之建議。\n　　二、中央經濟建設計畫主管機關應供給以前年度重大經濟建設計畫之檢討意見與未來展望。\n　　三、審計機關應供給審核以前年度預算執行之有關資料，及財務上增進效能與減少不經濟支出之建議。\n　　四、中央財政主管機關應供給以前年度收入狀況，財務上增進效能與減少不經濟支出之建議及下年度財政措施，與最大可能之收入額度。\n　　五、其他有關機關應供給與決定施政方針有關之資料。",
             "relates": {}
         },
         {
@@ -406,7 +406,7 @@
         {
             "note": "(各機關之歲出分配預算)",
             "rule_no": "第六十三條",
-            "content": "　　各機關之歲出分配預算，其計畫或業務科目之各用途別科目中有一科目之經費不足，而他科目有賸餘時，應按中央主計機關之規定流用之。但不得流用為用人經費。",
+            "content": "　　各機關之歲出分配預算，其計畫或業務科目之各用途別科目中有一科目之經費不足，而他科目有賸餘時，得辦理流用，流入數額不得超過原預算數額百分之二十，流出數額不得超過原預算數額百分之二十。但不得流用為用人經費，且經立法院審議刪除或刪減之預算項目不得流用。",
             "relates": {}
         },
         {
@@ -645,46 +645,119 @@
         }
     ],
     "law_reasons": {
-        "第六十七條": "　　一、就責任政治角度論之，第七屆國會起立委任期已修正為四年，行政部門與立法部門一致可充分體現民主政治與責任政治精神。\n　　二、依據預算法第八條，政府機關於未來四個會計年度所需支用之經費，立法機關得為未來承諾之授權。準此，行政機關各部門尤當加強預算籌編前之先期規劃，並強化預算執行之控管；同時歲出預算動用期限亦宜配合立委任期一併規範為四年。如此設計似較符合預算制度與立委任期之一致性，並得彰顯責任政治精神。\n　　"
+        "第二十八條": "　　一、長期以來，國家發展偏重經濟成長，國內生產總額（GDP）被視為經濟發展和社會進步的主要指標。然而，近年逐漸發現偏重經濟成長並無法為民眾創造美好生活，更無法改善民眾主觀感受，即忽視所得分配或國民幸福的結果。\n　　二、參考經濟合作暨發展組織建構的美好生活指數，編製預算時應參考主計總處建置之國民幸福指數，根據居住、收入、就業、社群關係、教育、環境、政府治理、健康、生活滿意度、安全、工作與生活平衡等面向變化，作為施政方針、預算配置的依據。藉此促進國民福祉，爰修正原條文第一項第一款。",
+        "第六十三條": "　　一、「中央政府各機關單位預算執行要點」規定，單位預算機關內同一工作計畫之分支計畫或用途別科目經費遇有經費不足，得由其他有賸餘之分支計畫或用途別科目辦理流用，流入數額不得超過原預算數額百分之二十，流出數額不得超過原預算數百分之三十。此設計雖考量到經費使用的彈性，但可流出額度彈性過大，容易產生浮濫弊端，造成預算的實質效益降低。\n　　二、考量國債狀況及財政健全，爰修正原條文，將「中央政府各機關單位預算執行要點」中「科目流用」之規定納入母法，並限制其流出額度最高為百分之二十，但不得流用為用人經費，且經立法院審議刪除或刪減之預算項目不得流用。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971128",
-            "立法紀錄": "97卷69期3680號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c9cbcfcb81c6c8c9c6cfcfc4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "1010309",
+            "立法紀錄": "101卷4期3945號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcecfcfcbcfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "薛凌",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcec5cbcdc8d2cbcdc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010504",
+            "立法紀錄": "101卷28期3969號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcecfcdc7cfcec4cfcfcfc7c4cfcfcfc7",
             "主提案": "盧秀燕",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecec6cfcec5cec8c7d2cec7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececfcfcec5cccdc8d2cccdc6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020315",
+            "立法紀錄": "102卷8期4033號二冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcdcfcfc7cfcdc4cfcfcfc6c4cfcfcfc6",
+            "主提案": "薛凌",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cdccd2cdcb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020322",
+            "立法紀錄": "102卷10期4035號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcdcfcecfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "薛凌",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcac8cdc5ceccd2cec9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020503",
+            "立法紀錄": "102卷26期4051號一冊 23-23頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcdcfcdc9cfcec4cfcfcdccc4cfcfcdcc",
+            "主提案": "親民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecec8cdc5ced2cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020517",
+            "立法紀錄": "102卷32期4057號一冊 25-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcdcfcccdcfcec4cfcfcdcac4cfcfcdca",
+            "主提案": "林佳龍",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfccceccc8cdc5c9ced2c9cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000418",
-            "立法紀錄": "100卷33期3885號 389-424頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcb81cecfcfcfcccccfcec4cfccc7c6c4cfcbcdcb",
+            "會議日期": "1021021",
+            "立法紀錄": "102卷62期4087號一冊 4-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcdcfc9cdcfcec4cfcfcfcbc4cfcfc8cf",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1000506",
-            "立法紀錄": "100卷37期3889號一冊 32-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcb81cecfcfcfccc8cfcec4cfcfcccdc4cfcfccca",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021129",
+            "立法紀錄": "102卷74期4099號一冊 79-95頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcdcfc8cbcfcec4cfcfc8c6c4cfcfc6ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecdcfccc5cecdc8d2cecccf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cdcacad2cdc8cd"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1021129",
+            "立法紀錄": "102卷74期4099號一冊 95-96頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcdcfc8cbcfcec4cfcfc6cac4cfcfc6c9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1000506",
-            "立法紀錄": "100卷37期3889號一冊 35-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfcb81cecfcfcfccc8cfcec4cfcfcccac4cfcfccca",
+            "會議日期": "1021129",
+            "立法紀錄": "102卷74期4099號一冊 96-96頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9cbcfc981cecfcdcfc8cbcfcec4cfcfc6c9c4cfcfc6c9",
             "關係文書": []
         }
     ]
