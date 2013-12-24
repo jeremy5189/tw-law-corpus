@@ -1,8 +1,8 @@
 {
     "title": "教師法",
     "versions": [
-        "中華民國102年6月27日修正",
-        "中華民國102年7月10日公布"
+        "中華民國102年12月10日修正",
+        "中華民國102年12月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -292,7 +292,7 @@
         {
             "note": "(護理教師之介聘及權益保障)",
             "rule_no": "第三十五條 之一",
-            "content": "　　前條第三項之護理教師，其解職、申訴、進修、待遇、福利、資遣事項，準用教師相關法令規定。\n　　經主管教育行政機關介派之護理教師具有健康與護理科合格教師資格者，自本法中華民國九十五年修正施行之日起至中華民國九十七年七月三十一日止，因軍訓護理課程調整致無法繼續任教時，主管教育行政機關得辦理介聘為健康與護理科教師；其介聘辦法，由教育部定之。\n　　依前項規定期限取得健康與護理科合格教師資格之護理教師，尚未在期限內經主管教育行政機關介聘為健康與護理科教師者，自本法中華民國一百年十二月九日修正之條文施行後二年內，主管教育行政機關得繼續辦理介聘。",
+            "content": "　　前條第三項之護理教師，其解職、申訴、進修、待遇、福利、資遣事項，準用教師相關法令規定。\n　　經主管教育行政機關介派之護理教師具有健康與護理科合格教師資格者，主管教育行政機關得辦理介聘為健康與護理科教師；其介聘辦法，由教育部定之。",
             "relates": {}
         },
         {
@@ -327,55 +327,53 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　照黨團協商條文通過。"
+        "第三十五條 之一": "　　一、因介聘期間之限制、導致一百年修法迄今，仍有117員（私立高中職64員、大專53員）護理教師未能介聘至公立學校，造成同樣教育部招考之護理教師在工作權益上之不同。\n　　二、監察院1000800386號調查報告第八項：教育部對護理教師之介聘應妥為處理，以避免教學人才流失，以具體落實發揮健康與護理科教學成效並使教師專才專用。\n　　三、為責成教育部應妥善辦理護理教師介聘，爰刪除原條文第三項及第二項中段涉及時限之文字，以資明確。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020531",
-            "立法紀錄": "102卷038期4063號一冊 76-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc881cecfcdcfccc7cfcec4cfcfc8c9c4cfcfc8c9",
-            "主提案": "行政院",
+            "會議日期": "1021025",
+            "立法紀錄": "102卷58期4083號一冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc781cecfcdcfcac7cfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "陳淑慧",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecdc8cdc5cccccad2cccbcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc8c8cdc5ceccc8d2cecbcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1020620",
-            "立法紀錄": "102卷046期4071號三冊 945-988頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc881cecfcdcfcbc9cfccc4cfc6cbcac4cfc6c7c7",
+            "會議日期": "1021106",
+            "立法紀錄": "102卷70期4095號二冊 59-132頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc781cecfcdcfc8cfcfcdc4cfcfcac6c4cfcecccd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1020625",
-            "立法紀錄": "102卷046期4071號二冊 441-450頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc881cecfcdcfcbc9cfcdc4cfcbcbcec4cfcbcacf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1020627",
-            "立法紀錄": "102卷046期4071號二冊 592-592頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc881cecfcdcfcbc9cfcdc4cfcac6cdc4cfcac6cd",
-            "關係文書": []
+            "會議日期": "1021210",
+            "立法紀錄": "102卷77期4102號一冊 104-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc781cecfcdcfc8c8cfcec4cfcecfcbc4cfcecfc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cccec8d2cccdcf"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1020627",
-            "立法紀錄": "102卷046期4071號二冊 593-593頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc881cecfcdcfcbc9cfcdc4cfcac6ccc4cfcac6cc",
+            "會議日期": "1021210",
+            "立法紀錄": "102卷77期4102號一冊 107-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc781cecfcdcfc8c8cfcec4cfcecfc8c4cfcecfc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1020627",
-            "立法紀錄": "102卷046期4071號二冊 594-594頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc881cecfcdcfcbc9cfcdc4cfcac6cbc4cfcac6cb",
+            "會議日期": "1021210",
+            "立法紀錄": "102卷77期4102號一冊 107-107頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc781cecfcdcfc8c8cfcec4cfcecfc8c4cfcecfc8",
             "關係文書": []
         }
     ]
