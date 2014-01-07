@@ -1,8 +1,8 @@
 {
     "title": "加值型及非加值型營業稅法",
     "versions": [
-        "中華民國100年11月8日修正",
-        "中華民國100年11月23日公布"
+        "中華民國102年12月24日修正",
+        "中華民國103年1月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -142,9 +142,9 @@
             "relates": {}
         },
         {
-            "note": "(特種飲食業之稅率)",
+            "note": "(特種飲食業之營業稅稅率)",
             "rule_no": "第十二條",
-            "content": "　　特種飲食業之營業稅稅率如左：\n　　一、夜總會、有娛樂節目之餐飲店之營業稅稅率為百分之十五。\n　　二、酒家及有女性陪侍之茶室、咖啡廳、酒吧等之營業稅稅率為百分之二十五。",
+            "content": "　　特種飲食業之營業稅稅率如下：\n　　一、夜總會、有娛樂節目之餐飲店之營業稅稅率為百分之十五。\n　　二、酒家及有陪侍服務之茶室、咖啡廳、酒吧等之營業稅稅率為百分之二十五。",
             "relates": {}
         },
         {
@@ -513,53 +513,53 @@
         }
     ],
     "law_reasons": {
-        "第三十六條 之一": "　　一、本條新增。\n　　二、政府為促進教育及學術發展，對於各公私立各級學校、教育或研究機關進口用於教育、研究或實驗之必需品，訂定關稅法第四十九條及教育研究用品進口免稅辦法規定予以免稅；惟隨著電子資訊發展趨勢，該等教育、研究或實驗之必需品亦可轉換成電子型態儲存並經由網際網路傳輸，基於租稅公平與促進教育及學術發展考量，允宜比照實體貨物免徵營業稅，爰增訂本條，以應時代潮流。\n　　三、本條所稱「勞務買受人免依前條第一項規定辦理」係指比照實體貨物免徵營業稅，且不必辦理營業稅之申報手續，併此敘明。"
+        "第十二條": "　　一、依照我國社會現況，有陪侍服務之特種行業不僅女性陪侍，亦有男性陪侍，然綜觀我國稅制規定，在規範上不僅有違性別平等原則，亦使同為特種飲食業，卻因男或女陪侍而有不同稅制。爰修正原條文第一項第二款，使得有女陪侍或有男陪侍的特種業稅制不再一國兩制。\n　　二、原條文序言句末「稅率如左」修正為「稅率如下」，以符立法體例。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1000222",
-            "立法紀錄": "100卷012期3864號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c981cecfcfcfcecdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "潘孟安",
+            "會議日期": "1021018",
+            "立法紀錄": "102卷56期4081號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c781cecfcdcfcac9cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "盧秀燕",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcecfcec5cecac7d2cecac6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc9c8cdc5cecdcad2cecdc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1001020",
-            "立法紀錄": "100卷067期3919號二冊 167-214頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c981cecfcfcfc9c8cfcdc4cfcec9c8c4cfcdcecb",
+            "會議日期": "1021125",
+            "立法紀錄": "102卷78期4103號 225-273頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c781cecfcdcfc8c7cfcec4cfcdcdcac4cfcdc8cc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷070期3922號 61-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c981cecfcfcfc8cfcfcec4cfcfc9cec4cfcfc9ca",
+            "會議日期": "1021224",
+            "立法紀錄": "102卷84期4109號一冊 223-227頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c781cecfcdcfc7cbcfcec4cfcdcdccc4cfcdcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc8cfccc5cbcecbd2cbcec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecbc8c9c5cdccd2cdc9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷070期3922號 65-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c981cecfcfcfc8cfcfcec4cfcfc9cac4cfcfc9ca",
+            "會議日期": "1021224",
+            "立法紀錄": "102卷84期4109號一冊 227-227頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c781cecfcdcfc7cbcfcec4cfcdcdc8c4cfcdcdc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001108",
-            "立法紀錄": "100卷070期3922號 65-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c981cecfcfcfc8cfcfcec4cfcfc9cac4cfcfc9ca",
+            "會議日期": "1021224",
+            "立法紀錄": "102卷84期4109號一冊 227-227頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cfcac6c781cecfcdcfc7cbcfcec4cfcdcdc8c4cfcdcdc8",
             "關係文書": []
         }
     ]
