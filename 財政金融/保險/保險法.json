@@ -1,8 +1,8 @@
 {
     "title": "保險法",
     "versions": [
-        "中華民國101年5月22日修正",
-        "中華民國101年6月6日公布"
+        "中華民國102年12月24日修正",
+        "中華民國103年1月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -160,7 +160,7 @@
         {
             "note": "",
             "rule_no": "第二十二條",
-            "content": "　　保險費應由要保人依契約規定交付。信託業依信託契約有交付保險費義務者，保險費應由信託業代為交付之。\n　　要保人為他人利益訂立之保險契約，保險人對於要保人所得為之抗辯，亦得以之對抗受益人。",
+            "content": "　　保險費應由要保人依契約規定交付。信託業依信託契約有交付保險費義務者，保險費應由信託業代為交付之。\n　　前項信託契約，保險人依保險契約應給付之保險金額，屬該信託契約之信託財產。\n　　要保人為他人利益訂立之保險契約，保險人對於要保人所得為之抗辯，亦得以之對抗受益人。",
             "relates": {}
         },
         {
@@ -1659,53 +1659,53 @@
         }
     ],
     "law_reasons": {
-        "第一百七十二條 之一": "　　一、查保險法現行條文第一百四十九條之一、第一百六十八條之一，及修正中之保險法第一百六十七條之四，皆訂有相關「答復義務」之規定。\n　　二、為求法律用語前後一致，僅作文字修正。"
+        "第二十二條": "　　一、原條文第一項未修正。。\n　　二、為使國外行之多年結合信託與保險之制度得受法律保障，爰增訂第二項，明定「前項信託契約，保險人依保險契約應給付之保險金額，屬該信託契約之信託財產。」，原條文第二項移列第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010316",
-            "立法紀錄": "101卷007期3948號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfcfc8cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "羅明才",
+            "會議日期": "1020924",
+            "立法紀錄": "102卷48期4073號二冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccb81cecfcdcfcbc7cfcdc4cfcfcfc9c4cfcfcfc9",
+            "主提案": "賴士葆",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbcfcec5cacbcbd2cacbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcdc8cdc5cdcbc6d2cdcacd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1010502",
-            "立法紀錄": "101卷031期3972號 89-138頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfcccecfcec4cfcfc7c6c4cfceccc7",
+            "會議日期": "1021127",
+            "立法紀錄": "102卷78期4103號 275-315頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccb81cecfcdcfc8c7cfcec4cfcdc8cac4cfccceca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1010522",
-            "立法紀錄": "101卷036期3977號 59-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfccc9cfcec4cfcfcac6c4cfcfc9cd",
+            "會議日期": "1021224",
+            "立法紀錄": "102卷84期4109號一冊 216-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccb81cecfcdcfc7cbcfcec4cfcdcec9c4cfcdcdcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdc8c6c5cec6d2cdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecbc8c9c5cecad2cdcd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1010522",
-            "立法紀錄": "101卷036期3977號 62-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfccc9cfcec4cfcfc9cdc4cfcfc9cd",
+            "會議日期": "1021224",
+            "立法紀錄": "102卷84期4109號一冊 223-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccb81cecfcdcfc7cbcfcec4cfcdcdccc4cfcdcdcc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1010522",
-            "立法紀錄": "101卷036期3977號 62-62頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccd81cecfcecfccc9cfcec4cfcfc9cdc4cfcfc9cd",
+            "會議日期": "1021224",
+            "立法紀錄": "102卷84期4109號一冊 223-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc9cccb81cecfcdcfc7cbcfcec4cfcdcdccc4cfcdcdcc",
             "關係文書": []
         }
     ]
