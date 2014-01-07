@@ -1,8 +1,8 @@
 {
     "title": "私立學校法",
     "versions": [
-        "中華民國102年1月11日修正",
-        "中華民國102年1月30日公布"
+        "中華民國102年12月20日修正",
+        "中華民國103年1月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -250,7 +250,7 @@
         {
             "note": "(籌設學校計畫應載事項)",
             "rule_no": "第三十六條",
-            "content": "　　籌設學校計畫，應載明下列事項：\n　　一、興學目的。\n　　二、學校名稱。\n　　三、學校位置、校地面積、校舍、設備及相關資料。\n　　四、擬設學院、系、所、學程、科、組、班、級及附屬機構。\n　　五、學校經費概算。\n　　六、設校資金及財產之數額、種類、價值及相關證明文件。\n　　七、學校法人相關資料。\n　　前項校地應於申請籌設學校時，取得捐贈土地或租用公有、公營事業、財團法人土地相關證明文件；校舍、設備等，得配合擬設學院、系、所、學程、科、組、班、級及附屬機構之計畫分年完成；所需經費得分年估算之。\n　　前項之租用土地，自學校立案起，應至少承租二十年，不受民法、國有財產法及地方公有財產管理法規關於租期之限制。",
+            "content": "　　籌設學校計畫，應載明下列事項：\n　　一、興學目的。\n　　二、學校名稱。\n　　三、學校位置、校地面積、校舍、設備及相關資料。\n　　四、擬設學院、系、所、學程、科、組、班、級及附屬機構。\n　　五、學校經費概算。\n　　六、設校資金及財產之數額、種類、價值及相關證明文件。\n　　七、學校法人相關資料。\n　　前項校地應於申請籌設學校時，取得捐贈土地或租用土地相關證明文件；校舍、設備等，得配合擬設學院、系、所、學程、科、組、班、級及附屬機構之計畫分年完成；所需經費得分年估算之。\n　　前項之租用土地，自學校立案或變更校地範圍起，應至少承租三十年，不受民法、國有財產法及地方公有財產管理法規關於租期之限制。\n　　前項非租用公有、公營事業或政府捐助設立之財團法人土地者，其租金應比照國有財產法出租基地租金之規定計收，並設定與租期相同期限之地上權，以作學校使用為限，經依法公證後，依前條規定完成審查。",
             "relates": {}
         },
         {
@@ -605,67 +605,60 @@
         }
     ],
     "law_reasons": {
-        "第四十一條": "　　考量目前私立國中小學員額編制需依國民教育法第九條及國民小學與國民中學班級編制及教職員員額編制準則規定辦理，為賦予私立學校適度彈性因應經營管理需求，爰維持現行法第一項至第四項條文外，另增訂第五項，以利施行。"
+        "第三十六條": "　　一、原條文第一項未修正。\n　　二、為協助私校辦學，私校租用土地來源將全面開放，爰修正原條文第二項，刪除租用公有、公營事業、財團法人土地等規定。\n　　三、修正原條文第三項，明定租用土地，自學校立案或變更校地範圍起，應至少承租三十年，不受民法、國有財產法及地方公有財產管理法規關於租期之限制。\n　　四、增訂第四項，明定非租用公有、公營事業或政府捐助設立之財團法人土地者，其租金應比照國有財產法出租基地租金之規定計收，並設定與租期相同期限之地上權，以作學校使用為限，並依法公證後，依前條規定完成審查。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010406",
-            "立法紀錄": "101卷017期3958號一冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cd81cecfcecfcec8cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "蔣乃辛",
+            "會議日期": "1010601",
+            "立法紀錄": "101卷43期3984號 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cc81cecfcecfcbcccfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "陳淑慧",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc9cfcec5cec7cdd2cec7cc"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbcfcec5cccec9d2cccec7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1010606",
-            "立法紀錄": "101卷048期3989號 154-295頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cd81cecfcecfcbc7cfcec4cfcecacbc4cfcdc6ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
             "會議日期": "1011017",
-            "立法紀錄": "101卷062期4003號一冊 61-92頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cd81cecfcecfc9cdcfcec4cfcfc9cec4cfcfc6cd",
+            "立法紀錄": "101卷62期4003號一冊 61-92頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cc81cecfcecfc9cdcfcec4cfcfc9cec4cfcfc6cd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "1011227",
-            "立法紀錄": "102卷004期4029號三冊 411-485頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cd81cecfcdcfcfcbcfccc4cfcbcecec4cfcbc7ca",
+            "立法紀錄": "102卷4期4029號三冊 411-485頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cc81cecfcdcfcfcbcfccc4cfcbcecec4cfcbc7ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "1020111",
-            "立法紀錄": "102卷05期4030號二冊 661-665頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cd81cecfcdcfcfcacfcdc4cfc9c9cec4cfc9c9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1020111",
-            "立法紀錄": "102卷05期4030號二冊 665-665頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cd81cecfcdcfcfcacfcdc4cfc9c9cac4cfc9c9ca",
+            "立法紀錄": "102卷5期4030號二冊 657-661頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cc81cecfcdcfcfcacfcdc4cfc9cac8c4cfc9c9ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec8cfc9c5cccbcdd2cccbca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7c8c8c5cececec8d2cececdcd"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1021220",
+            "立法紀錄": "102卷84期4109號一冊 48-50頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cc81cecfcdcfc7cbcfcec4cfcfcbc7c4cfcfcacf",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1020111",
-            "立法紀錄": "102卷05期4030號二冊 665-665頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cd81cecfcdcfcfcacfcdc4cfc9c9cac4cfc9c9ca",
+            "會議日期": "1021220",
+            "立法紀錄": "102卷84期4109號一冊 50-50頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacbcbcec6c9cac8cc81cecfcdcfc7cbcfcec4cfcfcacfc4cfcfcacf",
             "關係文書": []
         }
     ]
