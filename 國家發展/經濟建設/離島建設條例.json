@@ -1,8 +1,8 @@
 {
     "title": "離島建設條例",
     "versions": [
-        "中華民國102年11月26日修正",
-        "中華民國102年12月11日公布"
+        "中華民國102年12月20日修正",
+        "中華民國103年1月8日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -58,9 +58,9 @@
             "relates": {}
         },
         {
-            "note": "(實施戰地政務終止前因土地徵收、價購、徵購、占用之返還申請)",
+            "note": "(適用之地區及相關應配合之事項)",
             "rule_no": "第九條",
-            "content": "　　本條例適用之地區，於實施戰地政務終止前，因徵收、價購或徵購後登記為公有之土地，土地管理機關已無使用或事實已廢棄使用者，原土地所有權人或其繼承人得於本條例中華民國九十八年一月十二日修正施行之日起五年內，向該管土地管理機關申請按收件日當年度公告地價計算之地價購回其土地。但徵收、價購或徵購之價額超出該計算所得之地價時，應照原徵收、價購或徵購之價額購回。\n　　土地管理機關接受申請後，應於三十日內答覆申請人；其經審查合於規定者，應通知該申請人於三十日內繳價，屆期不繳價者，視為放棄；不合規定者，駁回其申請，申請人如有不服，得向土地所在地縣（市）政府申請調處。\n　　縣（市）政府為前項調處時，得準用土地法第五十九條規定處理。\n　　金門、馬祖地區私有土地，若為政府機關於戰地政務終止前，未經原土地所有權人同意而占用或逕行登記為國有者，應於本條例一百年六月三日修正之日起算一年內，依原土地所有權人之申請依法返還。但依金門馬祖東沙南沙地區安全及輔導條例提出請求經確定者，不得再提出申請。\n　　前項返還人民土地之實施辦法由行政院定之。\n　　澎湖地區之土地，凡未經政府機關依法定程序徵收、價購或徵購者，應比照辦理。",
+            "content": "　　本條例適用之地區，於實施戰地政務終止前，或實施戰地政務期間被占用於終止後，因徵收、價購或徵購後登記為公有之土地，土地管理機關已無使用或事實已廢棄使用者，最遲應於本條例中華民國一百零二年十二月二十日修正施行之日起二年內全數公告；原土地所有人或其繼承人並得於公告之日起五年內，向該管土地管理機關申請按收件日當年度公告地價計算之地價購回其土地。但徵收、價購或徵購之價額超出該計算所得之地價時，應照原徵收、價購或徵購之價額購回。\n　　土地管理機關接受申請後，應於三十日內答覆申請人；其經審查合於規定者，應通知該申請人於三十日內繳價，屆期不繳價者，註銷其申請；不合規定者，駁回其申請，申請人如有不服，得向土地所在地縣（市）政府申請調處。\n　　前項期間於必要時得延長一個月。\n　　縣（市）政府為第二項調處時，得準用土地法第五十九條規定處理。\n　　金門地區土地，非經有償徵收或價購等程序登記為公有，於實施戰地政務終止前，其地上已有建物或墳墓等足資證明其所有者，原土地所有人或其繼承人或占有人得於本條例中華民國一百零二年十二月二十日修正施行之日起五年內檢附相關證明文件申請土地管理機關會同地政機關勘查，經確認屬實且無公用之情形者，得就其建物、墳墓所在位置核算面積，並按申請收件日當年度公告地價計價讓售其土地。\n　　馬祖地區之土地，自民國三十八年起，非經有償徵收或價購等程序登記為公有，致原土地所有人或合於民法物權編施行法第九條規定之視為所有人或其繼承人喪失其所有權，土地管理機關已無使用土地之必要者，應自本條例中華民國一百零二年十二月二十日修正施行之日起五年內，依原土地所有人、視為所有人或其繼承人之申請返還土地；土地管理機關有繼續使用土地之必要者，應依法向原土地所有人、視為所有人或其繼承人辦理徵收、價購或租用。其已依金門馬祖東沙南沙地區安全及輔導條例提出請求經駁回者，得再依本條例之規定提出申請。\n　　前項返還土地實施辦法由行政院定之。\n　　第一項申請購回、第五項申請讓售及第六項申請返還土地，不受都市計畫法第五十二條、第五十三條、土地法第二十五條、國有財產法第二十八條、第三十三條、第三十五條或地方政府公產管理法令之限制。\n　　澎湖地區之土地，凡未經政府機關依法定程序徵收、價購或徵購者，應比照辦理。",
             "relates": {}
         },
         {
@@ -173,19 +173,71 @@
         }
     ],
     "law_reasons": {
-        "第十二條 之一": "　　一、離島地區所面臨之產業建設、教育、文化、交通、醫療及觀光、社會福利等措施，在在不足，因應當前時代所需，其中人才嚴重不足。\n　　二、為健全地方教育資源與人力，維護離島學生受教權益，促使教師留任離島地區，爰修正原條文。"
+        "第九條": "　　依朝野協商結論。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020510",
-            "立法紀錄": "102卷29期4054號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfcdc6cfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "1010918",
+            "立法紀錄": "101卷51期3992號一冊 19-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcecfcacecfcec4cfcfcec6c4cfcfcec6",
+            "主提案": "蔡煌瑯",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcecfcdc5cecec8d2cecec6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010918",
+            "立法紀錄": "101卷51期3992號一冊 19-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcecfcacecfcec4cfcfcec6c4cfcfcec6",
+            "主提案": "李應元",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcecfcdc5cecdced2cecdcb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011214",
+            "立法紀錄": "101卷83期4024號一冊 29-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcecfc7cccfcec4cfcfcdc6c4cfcfcdc6",
+            "主提案": "楊應雄",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecccfcec5cdcfcdd2cdcfca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011221",
+            "立法紀錄": "102卷1期4026號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcdcfcfcecfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "楊曜",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecbcfcec5cecfcad2cecfc8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020329",
+            "立法紀錄": "102卷12期4037號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcdcfcecdcfcec4cfcfcfcec4cfcfcfce",
             "主提案": "陳雪生",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecdc8cdc5ceccced2cecccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc9c8cdc5cad2cecf"
                 ]
             ]
         },
@@ -193,33 +245,47 @@
             "進度": "委員會審查",
             "會議日期": "1021016",
             "立法紀錄": "102卷59期4084號 267-303頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfcac6cfcec4cfcdc9c8c4cfcccfcc",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcdcfcac6cfcec4cfcdc9c8c4cfcccfcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 302-304頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfc8cecfcec4cfcccfcdc4cfcccfcb",
+            "立法紀錄": "102卷71期4096號一冊 282-299頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcdcfc8cecfcec4cfcdc7cdc4cfcdc6c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cec9cad2cec9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcececfcbc5cec9c6d2cec7c7"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021220",
+            "立法紀錄": "102卷84期4109號一冊 143-145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcdcfc7cbcfcec4cfcecbccc4cfcecbca",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1021204",
+            "立法紀錄": "102卷84期4109號二冊 315-318頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcdcfc7cbcfcdc4cfcccecac4cfcccec7",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 304-304頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfc8cecfcec4cfcccfcbc4cfcccfcb",
+            "會議日期": "1021220",
+            "立法紀錄": "102卷84期4109號一冊 145-146頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcdcfc7cbcfcec4cfcecbcac4cfcecbc9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 304-304頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c981cecfcdcfc8cecfcec4cfcccfcbc4cfcccfcb",
+            "會議日期": "1021220",
+            "立法紀錄": "102卷84期4109號一冊 146-146頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cfc6c6c881cecfcdcfc7cbcfcec4cfcecbc9c4cfcecbc9",
             "關係文書": []
         }
     ]
