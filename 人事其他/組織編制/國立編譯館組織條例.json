@@ -1,11 +1,12 @@
 {
     "title": "國立編譯館組織條例",
     "versions": [
-        "中華民國36年5月15日全文修正",
-        "中華民國36年5月29日公布"
+        "中華民國102年12月31日廢止",
+        "中華民國103年1月15日公布"
     ],
     "types": [
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -91,6 +92,62 @@
             "rule_no": "第十四條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
+        }
+    ],
+    "deprecated_reason": "　　國家教育研究院組織法已於100年3月30日施行，該院係由國立教育資料館、國立編譯館及國家教育研究院籌備處整併而成，爰將國立編譯館組織條例予以廢止。",
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1010309",
+            "立法紀錄": "101卷4期3945號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc9c981cecfcecfcfcbcfcec4cfcfcecfc4cfcfcecf",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcdc5cec6"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcdc5cdced2cdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1021205",
+            "立法紀錄": "102卷83期4108號 173-204頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc9c981cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 348-353頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc9c981cecfcccfcfcccfcec4cfcccbc7c4cfcccacc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8ccd2c8ca"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c8d2c8c7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 353-353頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc9c981cecfcccfcfcccfcec4cfcccaccc4cfcccacc",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 353-353頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc9c981cecfcccfcfcccfcec4cfcccaccc4cfcccacc",
+            "關係文書": []
         }
     ]
 }
