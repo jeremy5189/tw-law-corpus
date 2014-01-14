@@ -1,11 +1,11 @@
 {
     "title": "國家圖書館組織條例",
     "versions": [
-        "中華民國85年1月9日全文修正",
-        "中華民國85年1月31日公布"
+        "中華民國102年12月31日廢止",
+        "中華民國103年1月15日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -94,67 +94,59 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　本館因應社會發展及學術研究之需要修正職掌，以強化圖書資料之利用與服務，並彰顯國家圖書館之功能。",
-        "第二條": "　　一、為應業務需要，本館增設「參考組」、「資訊組」、「輔導組」、「研究組」，並明定各組業務職掌。\n　　二、參考諮詢為現代圖書館主要服務項目之一，為提升服務品質，增設參考組，掌理參考諮詢及專題目錄索引編製等事項，並運用本館參考室、期刊官書室提供特種閱覽服務。以配合學術研究發展之需要。\n　　三、為提高服務效率，增設資訊組，以利用電子計算機處理圖書資料，並推展全國各大圖書館合作編目及與國內外資料庫合作，提供圖書資訊服務。",
-        "第三條": "　　一、本條係由原第三條前段及第四條前段合併修正並增列副館長一人，襄助館務。\n　　二、為羅致專業人才，增訂館長必要時得依教育人員任用條例，比照專科以上學校校長之資格聘任，及副館長必要時得由編纂兼任等彈性規定。",
-        "第四條": "　　本條係由原條例第三條、第四條後段及第七條改列，並調整職稱、職等及員額。",
-        "第五條": "　　一、本條係由原第六條移列修正。\n　　二、依行政院所屬各機關人事機構設置標準表員額100人以上設人事室之規定，將原人事管理員改設人事室，並定其職稱、職等及員額。",
-        "第六條": "　　本條係由原第五條移列，並刪除會計佐理員職稱及調整職等及員額。",
-        "第七條": "　　一、本條新增。\n　　二、明定政風室之設置及其職稱、員額。",
-        "第八條": "　　本條新增。明定各職稱、人員適用之職系。",
-        "第九條": "　　文字修正。",
-        "第十條": "　　文字修正並明定其職稱及員額。",
-        "第十一條": "　　一、本條新增。\n　　二、明定國際標準書號中心、書目資訊中心之設置及其職稱、員額。",
-        "第十二條": "　　將原條文第十條及第十一條條文合併修正為一條。並酌作文字修正。",
-        "第十三條": "　　一、條次變更。\n　　二、文字修正。",
-        "第十四條": "　　本條未修正。"
-    },
+    "deprecated_reason": "　　配合行政院組織改造作業，國家圖書館組織法業於101年2月3日公布，102年1月1日施行，爰將國家圖書館組織條例予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "771129",
-            "立法紀錄": "77卷96期2207號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccfcc81c8c8cfc6c9cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "1020226",
+            "立法紀錄": "102卷7期4032號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcccfcb81cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7cdcec9cfcfc5cdcdc9d2cdcccd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecdcbd2cecdca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "801016",
-            "立法紀錄": "80卷85期2509號 410-435頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccfcc81c7cfcfc7cacfcfc4cfcbcecfc4cfcbccca",
+            "會議日期": "1021205",
+            "立法紀錄": "102卷83期4108號 173-204頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcccfcb81cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "850105",
-            "立法紀錄": "85卷4期2826號 22-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccfcc81c7cacfcbcfcfc4cfcfcdcdc4cfcfcbcb",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 353-378頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcccfcb81cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cecbcfcfc5c9cfcad2c9cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c6c6d2cecfcf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "850105",
-            "立法紀錄": "85卷4期2826號 44-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccfcc81c7cacfcbcfcfc4cfcfcbcbc4cfcfc9cf",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 378-378頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcccfcb81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "850109",
-            "立法紀錄": "85卷4期2826號 60-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccfcc81c7cacfcbcfcfc4cfcfc9cfc4cfcfc9ce",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 378-378頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcccfcb81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
             "關係文書": []
         }
     ]
