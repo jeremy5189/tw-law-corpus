@@ -1,8 +1,8 @@
 {
     "title": "陸海空軍刑法",
     "versions": [
-        "中華民國102年5月7日修正",
-        "中華民國102年5月22日公布"
+        "中華民國102年12月31日修正",
+        "中華民國103年1月15日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -290,7 +290,7 @@
         {
             "note": "(凌虐部屬罪)",
             "rule_no": "第四十四條",
-            "content": "　　長官凌虐部屬者，處三年以上十年以下有期徒刑。致人於死者，處無期徒刑或七年以上有期徒刑；致重傷者，處五年以上十二年以下有期徒刑。\n　　上官或資深士兵藉勢或藉端凌虐軍人者，處五年以下有期徒刑。致人於死者，處無期徒刑或七年以上有期徒刑；致重傷者，處三年以上十年以下有期徒刑。\n　　長官明知軍人犯前二項之罪，而包庇、縱容或不為舉發者，處三年以下有期徒刑、拘役或新臺幣三十萬元以下罰金。",
+            "content": "　　長官凌虐部屬者，處三年以上十年以下有期徒刑。致人於死者，處無期徒刑或七年以上有期徒刑；致重傷者，處五年以上十二年以下有期徒刑。\n　　上官或資深士兵藉勢或藉端凌虐軍人者，處五年以下有期徒刑。致人於死者，處無期徒刑或七年以上有期徒刑；致重傷者，處三年以上十年以下有期徒刑。\n　　前二項所稱凌虐，指逾越教育、訓練、勤務、作戰或其他軍事之必要，使軍人受凌辱虐待之非人道待遇行為。\n　　前項教育、訓練、勤務、作戰或其他軍事必要之實施範圍及應遵行事項，由國防部以準則定之。\n　　長官明知軍人犯第一項、第二項之罪，而包庇、縱容或不為舉發者，處三年以下有期徒刑、拘役或新臺幣三十萬元以下罰金。",
             "relates": {}
         },
         {
@@ -517,118 +517,66 @@
         }
     ],
     "law_reasons": {
-        "第五十四條": "　　一、為能遏止酒後駕車犯行，保障國人用路安全，並強化國軍戰力，期能與中華民國刑法第一百八十五條之三同步施行，爰將第一項第一款修正為「一、吐氣所含酒精濃度達每公升零點二五毫克或血液中酒精濃度達百分之零點零五以上。」\n　　二、第一項區分為三款，於第一款定明駕駛動力交通工具，其吐氣或血液中「酒精濃度值」達一定客觀標準之處罰規定，以明確「不能安全駕駛」之判斷標準，並杜絕僥倖心理；第二款、第三款則規範其他客觀情事足認服用酒類、毒品、麻醉藥品或其他相類之物致不能安全駕駛者，亦同其罪刑，處二年以下有期徒刑，得併科新臺幣三十萬元以下罰金。另為遏止酒駕，刪除原條文得處拘役或單科罰金之規定。\n　　三、第二項衡酌加重結果犯對社會所造成之實害，酌予提高刑度，因而致人於死者之刑度，由原條文之「一年以上七年以下有期徒刑」提高至「三年以上十年以下有期徒刑」；致重傷者，則由「六月以上五年以下有期徒刑」提高至「一年以上七年以下有期徒刑」。"
+        "第四十四條": "　　一、司法實務對於凌虐行為之定義，係認以強暴、脅迫或其他方法違反人道之凌辱虐待方法，加諸於人，使人在肉體或精神上不堪忍受而有殘酷感者，均屬之；而凌辱虐待除重視被凌虐者之身心有無受創傷感受外，就凌虐者所施以之凌虐行為，客觀上亦須達於使人無法容忍之不人道程度。考量國軍部隊負有保國衛民之重大使命，而軍事教育（例如各梯次基礎、深造教育班隊）、訓練（例如寒暑訓、山訓、傘訓、基地訓練）、勤務（例如特戰、空勤、水下作業）及作戰（例如艱鉅作戰指令）勢必講求從嚴從難，作戰時更需克敵制勝，使命必達，復以國防事務多元化，類如災害防救法明定國防部主動協助救災、預置兵力等軍事任務，亦屬具高強度之軍事行動需求，倘若凌虐之構成要件不明，或以普通刑法相關條文中一般凌虐之解釋加以檢視，則各項軍事作為恐將動輒涉及刑責，使幹部不敢亦不願意施以訓練、派遣勤務，導致部隊訓練鬆散敷衍，執行任務怠忽散漫，軍紀蕩然無存，平時恐將引發危安事故頻仍，戰時必然臨陣慌亂無章，戰力低落，非但危及部隊官兵生命，惟為兼及人權保障，尚非得假藉教育訓練等名義而對軍人施以任何非人道負擔，仍應考量正當合理關聯性及比例原則，爰修正原條文，增訂第三項就第一項及第二項所稱之『凌虐』為定義。。\n　　二、國軍各部隊因任務性質不同，應實施之教育內容、訓練科目及勤務種類各異，例如海軍陸戰隊兩棲偵搜大隊實施所謂「天堂路」之訓練測驗，學員於石礫堆上打赤膊攀爬、翻滾及施作蛙人操等動作，幹部時而在旁施以嚴厲訓斥或喝令反覆實施，目的在於激勵學員展現榮譽心及意志力，且此等嚴訓苦練亦為該特種部隊必要之訓練項目，惟在社會一般概念，該等行為恐已符合凌虐之要件，為避免審判者適用，有因個人心證之不同，衍生條文解釋歧異之虞，爰增訂第四項。\n　　三、本法授權國防部訂定有關教育、訓練、勤務、作戰或其他軍事必要之實施範圍及應遵行事項，宜以『準則』定之，以符合中央法規標準法第三條命令之名稱用語並接受立法監督外，應特別注意法律保留原則、正當法律程序原則及比例原則之規定。\n　　四、原條文第三項移列至第五項，並酌作文字修正。\n　　五、原條文第一項及第二項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010525",
-            "立法紀錄": "101卷039期3980號 30-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcecfccc6cfcec4cfcfcccfc4cfcfcccf",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececccfcbc5cdcfc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010601",
-            "立法紀錄": "101卷043期3984號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcecfcbcccfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "黃文玲",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbcfcec5c7c9d2c7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010918",
-            "立法紀錄": "101卷051期3992號一冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcecfcacecfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "蔡其昌",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcec8cdc5c9c6d2c8cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010918",
-            "立法紀錄": "101卷051期3992號一冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcecfcacecfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "李昆澤",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcec8cdc5c8ccd2c8c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011214",
-            "立法紀錄": "101卷083期4024號一冊 30-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcecfc7cccfcec4cfcfcccfc4cfcfccce",
+            "會議日期": "1021108",
+            "立法紀錄": "102卷65期4090號一冊 17-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdc981cecfcdcfc9cacfcec4cfcfcec8c4cfcfcec7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdceccc8cdc5cdcbc8d2cdcacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc6c8cdc5cdc9c8d2cdc8cf"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1020322",
-            "立法紀錄": "102卷010期4035號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcdcfcecfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "謝國樑",
+            "會議日期": "1021108",
+            "立法紀錄": "102卷65期4090號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdc981cecfcdcfc9cacfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "蕭美琴",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcac8cdc5c8c8d2c7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc6c8cdc5c6d2cecf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1020403",
-            "立法紀錄": "102卷020期4045號 1-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcdcfcdcfcfcec4cfcfcfcec4cfcfcbc7",
+            "會議日期": "1021212",
+            "立法紀錄": "103卷2期4111號 115-161頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdc981cecfcccfcfcdcfcec4cfcececac4cfcec9ce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1020507",
-            "立法紀錄": "102卷026期4051號一冊 126-141頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcdcfcdc9cfcec4cfcecdc9c4cfcecbce",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 308-316頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdc981cecfcccfcfcccfcec4cfcccfc7c4cfcccec9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccececfccc5cec9c6d2cec7ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5cdc6d2ccc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1020507",
-            "立法紀錄": "102卷026期4051號一冊 141-141頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcdcfcdc9cfcec4cfcecbcec4cfcecbce",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 316-316頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdc981cecfcccfcfcccfcec4cfcccec9c4cfcccec9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1020507",
-            "立法紀錄": "102卷026期4051號一冊 141-141頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdca81cecfcdcfcdc9cfcec4cfcecbcec4cfcecbce",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 316-316頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cfcdc981cecfcccfcfcccfcec4cfcccec9c4cfcccec9",
             "關係文書": []
         }
     ]
