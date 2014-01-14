@@ -1,11 +1,11 @@
 {
     "title": "行政院體育委員會組織條例",
     "versions": [
-        "中華民國86年12月30日制定",
-        "中華民國87年1月12日公布"
+        "中華民國102年12月31日廢止",
+        "中華民國103年1月15日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -142,128 +142,59 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　明定本條例之設立宗旨。",
-        "第二條": "　　明定中央與地方政府對體育事務權限之劃分。",
-        "第三條": "　　明定本會設五處一室。",
-        "第四條": "　　明定綜合計畫處掌理事項。",
-        "第五條": "　　明定全民體育處掌理事項。",
-        "第六條": "　　明定競技運動處掌理事項。",
-        "第七條": "　　明定國際體育處掌理事項。",
-        "第八條": "　　明定運動設施處掌理事項。",
-        "第九條": "　　明定秘書室掌理事項。",
-        "第十條": "　　明定主任委員及副主任委員之人數及其職權。",
-        "第十一條": "　　明定委員之人數、派兼或聘兼方式及任期。",
-        "第十二條": "　　明定委員會議之主席及召開時機。",
-        "第十三條": "　　明定本會之員額編制。",
-        "第十四條": "　　明定人事室掌理事項。",
-        "第十五條": "　　明定會計室掌理事項。",
-        "第十六條": "　　明定本條所列官等、職等人員，其職系依公務人員任用法相關規定辦理。",
-        "第十七條": "　　照黨團協商條文通過。",
-        "第十八條": "　　明定本會得視業務需要，依規定聘用研究人員。",
-        "第十九條": "　　經審查會與會委員協商條文通過。",
-        "第二十條": "　　明定本會得視業務需要設各種委員會。",
-        "第二十一條": "　　明定本會辦事細則之訂定。",
-        "第二十二條": "　　明定本條例之施行日期。"
-    },
+    "deprecated_reason": "　　配合行政院組織改造作業，教育部體育署組織法業於101年2月3日公布，102年1月1日施行，爰將行政院體育委員會組織條例予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "860925",
-            "立法紀錄": "86卷35期2927號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c9cccacfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "1020226",
+            "立法紀錄": "102卷7期4032號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc7ce81cecfcdcfcfc8cfcec4cfcfcfcac4cfcfcfca",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcfcdcfcdc5cecacdd2cec9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "861023",
-            "立法紀錄": "86卷43期2935號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c9cbcccfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "鄭龍水",
-            "關係文書": [
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecfc6d2cececf"
+                ],
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcfc8cfcdc5c6c9c8d2c6c8cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "861023",
-            "立法紀錄": "86卷47期2939號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c9cbc8cfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "林明義",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcecdcfcec5c9ccccd2c9cbcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "861212",
-            "立法紀錄": "86卷53期2945號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c9cacccfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "李慶華",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcec7cfcfc5c8cacfd2c8c9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cecec8d2cecdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "861013",
-            "立法紀錄": "86卷41期2933號 227-274頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c9cbcecfcfc4cfcdcdc8c4cfcdc8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "861215",
-            "立法紀錄": "86卷55期2947號下冊 413-447頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c9cacacfccc4cfcbceccc4cfcbcbc8",
+            "會議日期": "1021205",
+            "立法紀錄": "102卷83期4108號 173-204頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc7ce81cecfcdcfc7cccfcec4cfcec8ccc4cfcdcfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "861226",
-            "立法紀錄": "86卷57期2949號上冊 111-142頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c9cac8cfcec4cfcececec4cfcecbcd",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 353-378頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc7ce81cecfcccfcfcccfcec4cfcccaccc4cfccc8c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcbcdcecfcfc5cdc6cfd2cccdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c8c6d2c7ca"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5c6cdd2c6ca"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "861230",
-            "立法紀錄": "87卷1期2950號上冊 23-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c8cfcecfcec4cfcfcdccc4cfcfcdca",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "861230",
-            "立法紀錄": "87卷1期2950號上冊 26-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c8cfcecfcec4cfcfcdc9c4cfcfcccf",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 378-378頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc7ce81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "861230",
-            "立法紀錄": "87卷1期2950號上冊 30-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfc7cf81c7c8cfcecfcec4cfcfcccfc4cfcfccce",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 378-378頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc7ce81cecfcccfcfcccfcec4cfccc8c7c4cfccc8c7",
             "關係文書": []
         }
     ]
