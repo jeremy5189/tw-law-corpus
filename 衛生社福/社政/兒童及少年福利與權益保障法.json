@@ -1,8 +1,8 @@
 {
     "title": "兒童及少年福利與權益保障法",
     "versions": [
-        "中華民國101年7月26日修正",
-        "中華民國101年8月8日公布"
+        "中華民國103年1月3日修正",
+        "中華民國103年1月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -216,7 +216,7 @@
         {
             "note": "",
             "rule_no": "第三十三條",
-            "content": "　　兒童及孕婦應優先獲得照顧。\n　　交通及醫療等公、民營事業應提供兒童及孕婦優先照顧措施。",
+            "content": "　　兒童及孕婦應優先獲得照顧。\n　　交通及醫療等公、民營事業應提供兒童及孕婦優先照顧措施。\n　　國內大眾交通運輸、文教設施、風景區與康樂場所等公營、公辦民營及民營事業，應以年齡為標準，提供兒童優惠措施，並應提供未滿一定年齡之兒童免費優惠。\n　　前項兒童優惠措施之適用範圍及一定年齡，由各目的事業主管機關定之。",
             "relates": {}
         },
         {
@@ -488,7 +488,7 @@
         {
             "note": "",
             "rule_no": "第七十六條",
-            "content": "　　第二十三條第一項第十一款所稱兒童課後照顧服務，指招收國民小學階段學童，於學校上課以外時間，所提供之照顧服務。\n　　前項兒童課後照顧服務，得由各該教育主管機關指定國民小學辦理兒童課後照顧服務班；或由鄉（鎮、市、區）公所、私人、團體申請設立兒童課後照顧服務中心辦理之。\n　　前項兒童課後照顧服務班與兒童課後照顧服務中心之申請、設立、管理、人員資格、設施設備、改制及其他應遵行事項之辦法，由中央教育主管機關定之。\n　　直轄市、縣（市）主管機關為辦理兒童課後照顧服務班及中心，應召開審議會，由機關首長或指定之代理人為召集人，成員應包含教育學者專家、家長團體代表、婦女團體代表、公益教保團體代表等。",
+            "content": "　　第二十三條第一項第十一款所稱兒童課後照顧服務，指招收國民小學階段學童，於學校上課以外時間，所提供之照顧服務。\n　　前項兒童課後照顧服務，得由各該教育主管機關指定國民小學辦理兒童課後照顧服務班；或由鄉（鎮、市、區）公所、私人、團體申請設立兒童課後照顧服務中心辦理之。\n　　前項兒童課後照顧服務班與兒童課後照顧服務中心之申請、設立、收費項目、用途及基準、管理、人員資格、設施設備、改制及其他應遵行事項之辦法，由中央教育主管機關定之。\n　　直轄市、縣（市）主管機關為辦理兒童課後照顧服務班及中心，應召開審議會，由機關首長或指定之代理人為召集人，成員應包含教育學者專家、家長團體代表、婦女團體代表、公益教保團體代表等。",
             "relates": {}
         },
         {
@@ -577,6 +577,12 @@
             "note": "",
             "rule_no": "第九十條",
             "content": "　　違反第二十六條第一項規定者，處新臺幣六千元以上三萬元以下罰鍰，並命其限期改善，屆期仍未改善者，得按次處罰。\n　　違反第二十六條第四項所定辦法有關收托人數、登記及輔導結果列入應改善而逾期未改善之規定，應令其限期改善，屆期仍未改善者，處新臺幣六千元以上三萬元以下罰鍰，並得按次處罰；其情節重大或經處罰三次後仍未改善者，得廢止其登記。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第九十條 之一",
+            "content": "　　違反第三十三條第三項及第四項所定適用範圍及一定年齡者，各目的事業主管機關得處新臺幣六千元以上三萬元以下罰鍰，並命其限期改善，屆期仍未改善者，得按次處罰。",
             "relates": {}
         },
         {
@@ -753,53 +759,108 @@
         }
     ],
     "law_reasons": {
-        "第五十四條 之一": "　　一、經查法務部雖已訂定「受刑人、在押人或受保安處分人有子女需照顧之通知處遇流程」，協助受刑人、在押人等之未成年子女於其服監、在押期間避免受到不當之照顧，然而該處遇流程係採被動書面詢問，而非主動查訪，一旦受刑人等認為無受助必要，或擔心兒童會被帶離，而謊稱不需要協助，即易產生兒少保護之漏洞。因此，兒童遭受父母之吸毒友人或同居人虐待之社會案件，已不勝枚舉。\n　　二、為及早預防因藥物濫用而虐待兒童之悲劇發生，兒童之父母、監護人或其他實際照顧兒童之人有違反毒品危害防制條例者，於受通緝、羈押、觀察、勒戒、強制戒治或入獄服刑時，刑事訴訟法所定義之司法警察官、司法警察、檢察官或法院應查訪其十二歲以下兒童之生活與照顧狀況。"
+        "第三十三條": "　　依協商條文通過。",
+        "第七十六條": "　　參考「專科以上學校學雜費收取辦法」第三條、第七條及第十三條條文，當中「公開透明」與「照顧弱勢學生」之精神，規範公私立兒童課後照顧服務班與兒童課後照顧服務中心之收費項目、用途及基準，以照顧低收入戶、身心障礙、原住民及其他情況特殊之兒童。",
+        "第九十條 之一": "　　依協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010525",
-            "立法紀錄": "101卷039期3980號 17-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcf81cecfcecfccc6cfcec4cfcfcec8c4cfcfcec8",
+            "會議日期": "1010601",
+            "立法紀錄": "101卷43期3984號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcecfcbcccfcec4cfcfcfc7c4cfcfcfc7",
             "主提案": "王育敏",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececcc8cdc5cdcec8d2cdcdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbcfcec5ccc9c9d2ccc9c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011026",
+            "立法紀錄": "101卷63期4004號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcecfc9cccfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "江惠貞",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc9cfcec5cdc6cdd2cdc6cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011102",
+            "立法紀錄": "101卷65期4006號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcecfc9cacfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "王育敏",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc8cfcec5cdc6c7d2cccfce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011123",
+            "立法紀錄": "101卷74期4015號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcecfc8cbcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "台灣團結聯盟黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecfcfcec5cecfc8d2cecfc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1010607",
-            "立法紀錄": "101卷049期3990號二冊 4-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcf81cecfcecfcbc6cfcdc4cfcfcfcbc4cfcfcbcb",
+            "會議日期": "1011224",
+            "立法紀錄": "102卷3期4028號四冊 70-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcdcfcfcccfcbc4cfcfc8cfc4cfcecfce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1010726",
-            "立法紀錄": "101卷050期3991號 343-350頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcf81cecfcecfcacfcfcec4cfcccbccc4cfcccacf",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷5期4030號二冊 683-696頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcdcfcfcacfcdc4cfc9c7ccc4cfc9c6c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecec8c8cdc5cdcac6d2cdc9ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7c8c8c5c7cdced2c7ccc9"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 252-253頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcccfcfcacfcec4cfcdcacdc4cfcdcacc",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1021218",
+            "立法紀錄": "103卷5期4114號二冊 339-342頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcccfcfcacfcdc4cfccccc6c4cfcccbcd",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1010726",
-            "立法紀錄": "101卷050期3991號 350-350頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcf81cecfcecfcacfcfcec4cfcccacfc4cfcccacf",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 253-254頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcccfcfcacfcec4cfcdcaccc4cfcdcacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1010726",
-            "立法紀錄": "101卷050期3991號 350-350頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcf81cecfcecfcacfcfcec4cfcccacfc4cfcccacf",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 254-255頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecbcd81cecfcccfcfcacfcec4cfcdcacbc4cfcdcaca",
             "關係文書": []
         }
     ]
