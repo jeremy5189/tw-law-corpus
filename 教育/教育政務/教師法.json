@@ -1,8 +1,8 @@
 {
     "title": "教師法",
     "versions": [
-        "中華民國102年12月24日修正",
-        "中華民國103年1月8日公布"
+        "中華民國103年1月3日修正",
+        "中華民國103年1月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -148,7 +148,7 @@
         {
             "note": "(教師之義務)",
             "rule_no": "第十七條",
-            "content": "　　教師除應遵守法令履行聘約外，並負有下列義務：\n　　一、遵守聘約規定，維護校譽。\n　　二、積極維護學生受教之權益。\n　　三、依有關法令及學校安排之課程，實施教學活動。\n　　四、輔導或管教學生，導引其適性發展，並培養其健全人格。\n　　五、從事與教學有關之研究、進修。\n　　六、嚴守職分，本於良知，發揚師道及專業精神。\n　　七、依有關法令參與學校學術、行政工作及社會教育活動。\n　　八、非依法律規定不得洩漏學生個人或其家庭資料。\n　　九、擔任導師。\n　　十、其他依本法或其他法律規定應盡之義務。\n　　前項第四款及第九款之辦法，由各校校務會議定之。",
+            "content": "　　教師除應遵守法令履行聘約外，並負有下列義務：\n　　一、遵守聘約規定，維護校譽。\n　　二、積極維護學生受教之權益。\n　　三、依有關法令及學校安排之課程，實施適性教學活動。\n　　四、輔導或管教學生，導引其適性發展，並培養其健全人格。\n　　五、從事與教學有關之研究、進修。\n　　六、嚴守職分，本於良知，發揚師道及專業精神。\n　　七、依有關法令參與學校學術、行政工作及社會教育活動。\n　　八、非依法律規定不得洩漏學生個人或其家庭資料。\n　　九、擔任導師。\n　　十、其他依本法或其他法律規定應盡之義務。\n　　前項第四款及第九款之辦法，由各校校務會議定之。",
             "relates": {}
         },
         {
@@ -327,46 +327,19 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　一、為加強校園毒害防治，第一項爰增訂第十一款規定，原條文第一項第十一款以下款次依序調整移列。\n　　二、原條文第二項、第三項及第五項中援引第一項之款次配合修正，以資明確。",
-        "第十六條": "　　一、為保障教師權益及釐清權利義務關係，第一項爰增訂第八款，明訂學校應提供因公涉訟教師法律協助。原條文第八款移列第九款。\n　　二、增訂第二項，授權教育部訂定輔助辦法，並增列「因教師之故意或重大過失所致者，教師應繳還涉訟輔助費用」等規定，以求周延。"
+        "第十七條": "　　一、適性教學的教材與教法具有多元性，教師勢必在課前準備更豐富的資料，才能滿足不同學生的不同需求。\n　　二、少子化的結果，可為優質適性教育的最佳時機，讓每位學生均能享受學習的喜悅，得學習的效果，使學習不利或有學習障礙的學生，均能得到必要且充分的協助，爰修正原條文第一項第三款規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020226",
-            "立法紀錄": "102卷7期4032號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfcfc8cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "薛凌",
+            "會議日期": "1020503",
+            "立法紀錄": "102卷26期4051號一冊 27-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cece81cecfcdcfcdc9cfcec4cfcfcdc8c4cfcfcdc8",
+            "主提案": "許智傑",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcec8cdc5cdc6d2cccd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020412",
-            "立法紀錄": "102卷18期4043號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfcec7cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "李俊俋",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7c8cdc5cdccd2cdc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020426",
-            "立法紀錄": "102卷23期4048號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfcdcccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecfc8cdc5c8c6d2c7cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecec8cdc5cdcdc8d2cdcdc7"
                 ]
             ]
         },
@@ -374,59 +347,47 @@
             "進度": "委員會審查",
             "會議日期": "1021111",
             "立法紀錄": "102卷72期4097號二冊 14-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfc8cdcfcdc4cfcfcecbc4cfcfc8c8",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cece81cecfcdcfc8cdcfcdc4cfcfcecbc4cfcfc8c8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 147-155頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfc7cbcfcec4cfcecbc8c4cfcecaca",
+            "立法紀錄": "102卷84期4109號一冊 162-166頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cece81cecfcdcfc7cbcfcec4cfcec9cdc4cfcec9c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecdc8c8c5cecfd2cdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 156-161頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfc7cbcfcec4cfcecac9c4cfcec9ce",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecdc8c8c5cdced2cdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecdc8c8c5cdc8d2cccf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
             "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 155-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfc7cbcfcec4cfcecacac4cfcecac9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 161-161頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfc7cbcfcec4cfcec9cec4cfcec9ce",
+            "立法紀錄": "102卷84期4109號一冊 166-166頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cece81cecfcdcfc7cbcfcec4cfcec9c9c4cfcec9c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
             "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 156-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfc7cbcfcec4cfcecac9c4cfcecac9",
+            "立法紀錄": "102卷84期4109號一冊 166-166頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cece81cecfcdcfc7cbcfcec4cfcec9c9c4cfcec9c9",
+            "關係文書": []
+        },
+        {
+            "進度": "復議",
+            "會議日期": "1021231",
+            "立法紀錄": "103卷3期4112號一冊 418-418頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cece81cecfcccfcfcccfcec4cfcbcec7c4cfcbcec7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 161-162頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cfc681cecfcdcfc7cbcfcec4cfcec9cec4cfcec9cd",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 51-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cece81cecfcccfcfcacfcec4cfcfcacec4cfcfcacd",
             "關係文書": []
         }
     ]
