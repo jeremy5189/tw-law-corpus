@@ -1,8 +1,8 @@
 {
     "title": "老年農民福利津貼暫行條例",
     "versions": [
-        "中華民國100年12月2日修正",
-        "中華民國100年12月21日公布"
+        "中華民國103年1月14日修正",
+        "中華民國103年1月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,7 +36,7 @@
         {
             "note": "",
             "rule_no": "第四條 之一",
-            "content": "　　請領老年農民福利津貼之權利，不得作為扣押、讓與、抵銷或供擔保之標的。",
+            "content": "　　老年農民福利津貼及請領該津貼之權利，不得作為扣押、讓與、抵銷或供擔保之標的。\n　　依本條例規定請領福利津貼者，得檢具中央主管機關出具之證明文件，於金融機構開立專戶，專供存入本津貼之用。",
             "relates": {}
         },
         {
@@ -59,114 +59,62 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、為因應物價調漲，並落實政府照顯老年農民之政策目標，爰修正第一項規定，自一百零一年一月一日起，調高福利津貼金額為每月七千元。又為建立津貼金額之調整機制，於第一項後段增列，一百零一年後每四年配合消費者物價指數漲幅，由中央主管機關參照中央主計機關發布之最近一年消費者物價指數較前次調整之前一年消費者物價指數成長率公告調整之；其後每四年調整一次，但最近一年消費者物價指數較前次調整之前一年消費者物價指數成長率為零或負數時，不予調整。\n　　二、原條文第一項後段，有關九十六年七月一日起增加之經費由中央全額負擔之規定，依法制體例移列於第六條但書併同規範。\n　　三、第二項未修正。\n　　四、原老年農民福利津貼申領資格條件無申領人財產及所得條件規定，造成經濟狀況甚佳之農民仍享有福利津貼照顯，基於國家資源之有效利用，參酌國民年金法第三十一條規定，請領老年基本保證年金應有所得及不動產之消極條件，以照顧真正經濟弱勢的老年農民，並符合杜會公平正義之期待，爰增列第三項，並明定自一百零二年一月一日起適用。至農民之所得條件，比照國民年金法第三十一條第一項第四歉規定，最近一年度農業所得以外之個人綜合所得總額新臺幣五十萬元以上，不得領取福利津貼。至所稱農業所得，指所得稅法第十四條所定第六類；自力耕作、漁、牧、林、礦之所得。有關土地及房屋，則以個人土地及房屋價值合計新臺幣五百萬元以上，不得領取福利津貼，分列第三項各款。\n　　五、有關第三項第二款土地及房屋價值之計算比照國民年金法第三十一條第二項，以公告土地現值及評定標準價格計算，另考魚農業用地與農舍是農民從事農業生產與生活所需，爰扣除其從事農業之農業用地及農舍，對於無農舍者，得扣除其個人所有實際居住之唯一房屋，該房屋評定標準價格及其土地公告現值合計未超過新臺幣四百萬元者；超過者，以扣除新臺幣四百萬元為限，爰增列第四項。\n　　六、原條文第三項至第六項移列第五項至第八項，文字未修正。",
-        "第六條": "　　原條文第四條第一項後段，有關九十六年七月一日起增加之新臺幣一千元所需經費移列，並定明本次修正之條文施行後所增加之福利津貼經費，由中央全額負擔。"
+        "第四條 之一": "　　一、原條文雖就扣押，讓與抵銷或擔保標的之禁止訂有明文規定「請領老年農民福利津貼之權利，不得作為扣押、讓與、抵消或供擔保之標的。」然實務上、請領權利人之津貼匯入金融行庫帳戶之內，卻逕遭扣押或行使抵押權，至老農領取之津貼屢遭抵押，更陷經濟困境。\n　　二、本條例性質屬社會救濟，為達扶助目的，明定老年農民福利津貼及請領該津貼之權利，不得作扣押、讓與、抵銷供擔保或強制執行之標的，已確立並落實照顧弱勢之立法目的。\n　　三、增訂第二項，明定請領福利津貼者，得檢具中央主管機關出具之證明文件，於金融機構開立專戶，專供存入本津貼之用。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1000923",
-            "立法紀錄": "100卷054期3906號 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfcacbcfcec4cfcfcfcec4cfcfcfcd",
-            "主提案": "民進黨黨團",
+            "會議日期": "1011109",
+            "立法紀錄": "101卷68期4009號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcecfc9c7cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "潘孟安",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcdc8cdc5cecad2cdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc7cfcec5cec7c6d2cec6cf"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1000923",
-            "立法紀錄": "100卷054期3906號 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfcacbcfcec4cfcfcfcec4cfcfcfcd",
-            "主提案": "邱議瑩",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcdc8cdc5cdced2cdcb"
-                ]
-            ]
+            "會議日期": "1021220",
+            "立法紀錄": "102卷84期4109號一冊 30-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcdcfc7cbcfcec4cfcfcccfc4cfcfcccf",
+            "關係文書": []
         },
         {
             "進度": "一讀",
-            "會議日期": "1001014",
-            "立法紀錄": "100卷059期3911號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfcac6cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "無黨團結聯盟黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcac8cdc5cdccd2cdcb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1001028",
-            "立法紀錄": "100卷066期3918號 36-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfc9c9cfcec4cfcfccc9c4cfcfccc9",
-            "主提案": "無黨團結聯盟黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcac8cdc5cdccd2cdcb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1001028",
-            "立法紀錄": "100卷066期3918號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfc9c9cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc8c8cdc5cbcad2cbc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1001125",
-            "立法紀錄": "100卷081期3933號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfc7cecfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cecec8cdc5c6d2cecd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1001125",
-            "立法紀錄": "100卷081期3933號一冊 40-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfc7cecfcec4cfcfcbcfc4cfcfcbcc",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 49-49頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfcacfcec4cfcfcbc6c4cfcfcbc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1001202",
-            "立法紀錄": "100卷084期3936號 23-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfc7cbcfcec4cfcfcdccc4cfcfccc9",
+            "會議日期": "1030114",
+            "立法紀錄": "103卷8期4117號七冊 352-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfc7cfc8c4cfcccacdc4cfcccacb",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1030109",
+            "立法紀錄": "103卷8期4117號八冊 343-382頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfc7cfc7c4cfcccbccc4cfccc7cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001202",
-            "立法紀錄": "100卷084期3936號 37-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfc7cbcfcec4cfcfccc8c4cfcfcbcc",
+            "會議日期": "1030114",
+            "立法紀錄": "103卷8期4117號七冊 354-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfc7cfc8c4cfcccacbc4cfcccacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001202",
-            "立法紀錄": "100卷084期3936號 43-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8ce81cecfcfcfc7cbcfcec4cfcfcbccc4cfcfcbcc",
+            "會議日期": "1030114",
+            "立法紀錄": "103卷8期4117號七冊 354-355頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfc7cfc8c4cfcccacbc4cfcccaca",
             "關係文書": []
         }
     ]
