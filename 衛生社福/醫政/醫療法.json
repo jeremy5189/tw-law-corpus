@@ -1,8 +1,8 @@
 {
     "title": "醫療法",
     "versions": [
-        "中華民國102年12月31日修正",
-        "中華民國103年1月15日公布"
+        "中華民國103年1月14日修正",
+        "中華民國103年1月29日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -158,7 +158,7 @@
         {
             "note": "",
             "rule_no": "第二十四條",
-            "content": "　　醫療機構應保持環境整潔、秩序安寧，不得妨礙公共衛生及安全。\n　　為保障病人就醫安全，任何人不得以強暴、脅迫、恐嚇或其他非法之方法，滋擾醫療機構秩序或妨礙醫療業務之執行。\n　　違反前項規定者，警察機關應協助排除或制止之。",
+            "content": "　　醫療機構應保持環境整潔、秩序安寧，不得妨礙公共衛生及安全。\n　　為保障病人就醫安全，任何人不得以強暴、脅迫、恐嚇或其他非法之方法，妨礙醫療業務之執行，致生危害醫療安全或其設施。\n　　醫療機構應採必要措施，以確保醫事人員執行醫療業務時之安全。\n　　違反第二項規定者，警察機關應協助排除或制止之；如涉及刑事責任者，應移送該管檢察官偵辦。",
             "relates": {}
         },
         {
@@ -714,7 +714,7 @@
         {
             "note": "",
             "rule_no": "第一百零六條",
-            "content": "　　違反第二十四條第二項規定者，處新臺幣三萬元以上五萬元以下罰鍰。其觸犯刑法者，應移送司法機關辦理。",
+            "content": "　　違反第二十四條第二項規定者，處新臺幣三萬元以上五萬元以下罰鍰。如觸犯刑事責任者，應移送司法機關辦理。\n　　毀損醫療機構或其他相類場所內關於保護生命之設備，致生危險於他人之生命、身體或健康者，處三年以下有期徒刑、拘役或新臺幣三十萬元以下罰金。\n　　對於醫事人員執行醫療業務時，施強暴、脅迫，足以妨害醫事人員執行醫療業務者，處三年以下有期徒刑、拘役或新臺幣三十萬元以下罰金。\n　　犯前項之罪，因而致醫事人員於死者，處無期徒刑或七年以上有期徒刑；致重傷者，處三年以上十年以下有期徒刑。",
             "relates": {}
         },
         {
@@ -825,53 +825,152 @@
         }
     ],
     "law_reasons": {
-        "第六十條": "　　一、本條第二項所稱「依法」，係指社會救助法。社會救助法第一條開宗明義即宣示，本法目的在於照顧低收入戶、「中低收入戶」及救助遭受急難或災害者，並協助其自立；且同法第二十條授權訂立之子法即縣（市）醫療補助辦法第二條以下規定，「中低收入戶」患嚴重傷、病，所需醫療費用非其本人或扶養義務人所能負擔者，可逕行依法申請補助。由此可知，原條文第二項漏未規範「中低收入」將產生法律漏洞。為避免適用造成疑義，應在立法技術層次予以填補為是。\n　　二、綜上，爰修正原條文第二項，增訂「中低收入」等字。"
+        "第二十四條": "　　為維護醫療環境與醫護人員執業安全，惟若未積極改善醫病關係不對等，恐致醫病關係更加緊張。鑑於「滋擾醫療機構秩序部分」涵括於「妨礙醫療業務之執行」，如未涵括部分，回歸社會秩序維護法第64條之規範，爰予刪除。並將第二項改為結果犯。另於第四項明定行為人如涉及刑責，警察機關應主動移送檢察官偵辦。",
+        "第一百零六條": "　　為維護醫療環境與醫護人員執業安全，期能改善醫病關係，爰參酌刑法第135條第1項妨害公務罪及第304條強制罪之法定刑，增訂第三項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020524",
-            "立法紀錄": "102卷34期4059號一冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecf81cecfcdcfcccbcfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "楊玉欣",
+            "會議日期": "1010504",
+            "立法紀錄": "101卷28期3969號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcecfcdc7cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "蔡正元",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbc8cdc5cdcfc6d2cdcecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececfcfcec5cdcec6d2cdcdcf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010918",
+            "立法紀錄": "101卷51期3992號一冊 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcecfcacecfcec4cfcfcecec4cfcfcece",
+            "主提案": "王育敏",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcecfcec5cccbc6d2cccacf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1010918",
+            "立法紀錄": "101卷51期3992號一冊 20-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcecfcacecfcec4cfcfcdcfc4cfcfcdcf",
+            "主提案": "親民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcecfcdc5cecac8d2cecac6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020524",
+            "立法紀錄": "102卷34期4059號一冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcdcfcccbcfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "李鴻鈞",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbcfcec5ccccc9d2ccccc6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020524",
+            "立法紀錄": "102卷34期4059號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcdcfcccbcfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "劉建國",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbcfcec5cccdc9d2cccdc8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020531",
+            "立法紀錄": "102卷38期4063號一冊 72-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcdcfccc7cfcec4cfcfc8cdc4cfcfc8cd",
+            "主提案": "姚文智",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecacfcec5ccc6cdd2ccc6ca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1021101",
+            "立法紀錄": "102卷61期4086號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcdcfc9cecfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "田秋堇",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc7c8cdc5ceccc6d2cecbcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1021108",
+            "立法紀錄": "102卷65期4090號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcdcfc9cacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "趙天麟",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc6c8cdc5cdcad2cdc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1021212",
-            "立法紀錄": "103卷2期4111號 192-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecf81cecfcccfcfcdcfcec4cfcec6cdc4cfcdcbcb",
+            "會議日期": "1021202",
+            "立法紀錄": "102卷81期4106號 455-530頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcdcfc7cecfcec4cfcbcacac4cfcacccf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 299-303頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecf81cecfcccfcfcccfcec4cfcdc6c6c4cfcccfcc",
+            "會議日期": "1030114",
+            "立法紀錄": "103卷8期4117號六冊 1-19頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcccfcfc7cfc9c4cfcfcfcec4cfcfcec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8c6c5cec8d2cdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecac8c9c5cbc8d2c9c9"
                 ]
             ]
         },
         {
+            "進度": "黨團協商",
+            "會議日期": "1030109",
+            "立法紀錄": "103卷8期4117號八冊 384-385頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcccfcfc7cfc7c4cfccc7cbc4cfccc7ca",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 303-303頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecf81cecfcccfcfcccfcec4cfcccfccc4cfcccfcc",
+            "會議日期": "1030114",
+            "立法紀錄": "103卷8期4117號六冊 19-20頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcccfcfc7cfc9c4cfcfcec6c4cfcfcdcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021231",
-            "立法紀錄": "103卷3期4112號一冊 303-303頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecf81cecfcccfcfcccfcec4cfcccfccc4cfcccfcc",
+            "會議日期": "1030114",
+            "立法紀錄": "103卷8期4117號六冊 20-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecd81cecfcccfcfc7cfc9c4cfcfcdcfc4cfcfcdce",
             "關係文書": []
         }
     ]
