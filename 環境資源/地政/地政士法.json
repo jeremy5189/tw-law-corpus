@@ -1,8 +1,8 @@
 {
     "title": "地政士法",
     "versions": [
-        "中華民國100年12月13日修正",
-        "中華民國100年12月30日公布"
+        "中華民國103年1月3日修正",
+        "中華民國103年2月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -80,7 +80,7 @@
         {
             "note": "(撤銷或廢止開業執照)",
             "rule_no": "第十一條",
-            "content": "　　有下列情事之一，不發給開業執照；已領者，撤銷或廢止之：\n　　一、經撤銷或廢止地政士證書者。\n　　二、經公立醫院或教學醫院證明有精神病者。\n　　三、受監護或輔助宣告尚未撤銷者。\n　　四、受破產宣告尚未復權者。\n　　直轄市或縣（市）主管機關為前項之撤銷或廢止時，應公告並通知他直轄市、縣（市）主管機關及地政士公會，並報請中央主管機關備查。\n　　依第一項第二款至第四款規定撤銷或廢止開業執照者，於原因消滅後，仍得依本法之規定，請領開業執照。",
+            "content": "　　有下列情事之一者，不發給開業執照；已領者，撤銷或廢止之：\n　　一、經撤銷或廢止地政士證書。\n　　二、罹患精神疾病或身心狀況違常，經直轄市或縣（市）主管機關委請二位以上相關專科醫師諮詢，並經直轄市或縣（市）主管機關認定不能執行業務。\n　　三、受監護或輔助宣告尚未撤銷。\n　　四、受破產宣告尚未復權。\n　　直轄市或縣（市）主管機關為前項之撤銷或廢止時，應公告並通知他直轄市、縣（市）主管機關及地政士公會，並報請中央主管機關備查。\n　　依第一項第二款至第四款規定不發、撤銷或廢止開業執照者，於原因消滅後，仍得依本法之規定，請領開業執照。",
             "relates": {}
         },
         {
@@ -396,134 +396,98 @@
         {
             "note": "(施行日)",
             "rule_no": "第五十九條",
-            "content": "　　本法自公布後六個月施行。\n　　本法中華民國九十八年五月十二日修正之條文，自九十八年十一月二十三日施行。\n　　本法中華民國一百年十二月十三日修正之第二十六條之一、第五十一條之一及第五十二條之施行日期，由行政院定之。",
+            "content": "　　本法自公布後六個月施行。\n　　本法中華民國九十八年五月十二日修正之條文，自九十八年十一月二十三日施行。\n　　本法中華民國一百年十二月十三日修正之第二十六條之一、第五十一條之一及第五十二條之施行日期，由行政院定之。\n　　本法中華民國一百零三年一月三日修正之第十一條，自公布日施行；第五十一條之一，自公布後三個月施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第二十六條 之一": "　　本條新增，並照黨團協商條文通過。",
-        "第五十一條 之一": "　　本條新增，並照黨團協商條文通過。",
-        "第五十二條": "　　照黨團協商條文通過。",
-        "第五十九條": "　　照黨團協商條文通過。"
+        "第十一條": "　　一、原條文第一項第二款規定不發給開業證書之情事，有過度限制人民職業自由之虞，為保障人權及人民工作權，爰參考精神衛生法第二十二條、技師法第十一條、會計師法第六條及社會工作師法第十條規定修正，明定為罹患精神疾病或身心狀況違常，經認定不能執行業務者，不發給開業執照，另酌作文字修正。\n　　二、原條文第二項未修正。\n　　三、原條文第三項明定，「依第一項第二款至第四款規定撤銷或廢止開業執照者，於原因消滅後，仍得依本法之規定，請領開業執照。」，對自始未發給開業執照之情形未予規定，為免嗣後適用疑義，爰依技師法第十一條之成例，將自始不發開業執照，亦修正列入得請領之列。爰修正原條文第三項。",
+        "第五十九條": "　　增訂第四項明定本次修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0970422",
-            "立法紀錄": "097卷016期3627號 15-15頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccaccccc6cccdcc81c6c8cec9cfcfc4cfcfcecac4cfcfceca",
+            "會議日期": "1020924",
+            "立法紀錄": "102卷48期4073號二冊 9-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcb81cecfcdcfcbc7cfcdc4cfcfcfc6c4cfcfcfc6",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcdc5ccceccd2ccccca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcdc8ccc5cec9ced2cec9cb"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "0971031",
-            "立法紀錄": "097卷059期3670號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccaccccc6cccdcc81c6c8cac6cfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "吳敦義",
+            "會議日期": "1021018",
+            "立法紀錄": "102卷56期4081號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcb81cecfcdcfcac9cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "黃文玲",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc8cfcec5c6c9d2c6c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc9c8cdc5cdccd2cdcb"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "0991008",
-            "立法紀錄": "099卷053期3818號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cfc6c6cfcacccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "賴士葆",
+            "會議日期": "1021025",
+            "立法紀錄": "102卷58期4083號一冊 10-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcb81cecfcdcfcac7cfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "林滄敏",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcccfcec5cecfc7d2cececd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc8c8cdc5cbc8d2cbc7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1000916",
-            "立法紀錄": "100卷053期3905號一冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfcacccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "民進黨黨團",
+            "會議日期": "1021129",
+            "立法紀錄": "102卷74期4099號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcb81cecfcdcfc8cbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "陳其邁",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcec8cdc5cecfcad2cecfc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1000923",
-            "立法紀錄": "100卷054期3906號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfcacbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfcdc8cdc5c9cad2c9c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecdc8cdc5ceced2cecd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "0970528",
-            "立法紀錄": "097卷035期3646號 268-310頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccaccccc6cccdcc81c6c8cccacfcfc4cfcdc9c7c4cfcccecf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1000425",
-            "立法紀錄": "100卷036期3888號 85-124頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfccc9cfcec4cfcfc7cac4cfcecdcb",
+            "會議日期": "1021204",
+            "立法紀錄": "102卷83期4108號 48-100頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcb81cecfcdcfc7cccfcec4cfcfcbc7c4cfcecfcf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "0970612",
-            "立法紀錄": "097卷039期3650號一冊 99-142頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccaccccc6cccdcc81c6c8ccc6cfcec4cfcfc6c6c4cfcecbcd",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 289-299頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcb81cecfcccfcfcacfcec4cfcdc7c6c4cfcdc6c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececacfccc5cccfc6d2cccacd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec8c7ccc5cbcad2cac9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1001213",
-            "立法紀錄": "100卷088期3940號二冊 676-692頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfc7c7cfcdc4cfc9c8c9c4cfc9c6cd",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1001212",
-            "立法紀錄": "100卷088期3940號一冊 24-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfc7c7cfcec4cfcfcdcbc4cfcfcdca",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001213",
-            "立法紀錄": "100卷088期3940號二冊 692-698頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfc7c7cfcdc4cfc9c6cdc4cfc9c6c7",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 299-300頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcb81cecfcccfcfcacfcec4cfcdc6c6c4cfcccfcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001213",
-            "立法紀錄": "100卷088期3940號二冊 698-698頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcc81cecfcfcfc7c7cfcdc4cfc9c6c7c4cfc9c6c7",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 300-300頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccaccccc6cccdcb81cecfcccfcfcacfcec4cfcccfcfc4cfcccfcf",
             "關係文書": []
         }
     ]
