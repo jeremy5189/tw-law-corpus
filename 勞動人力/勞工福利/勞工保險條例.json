@@ -1,8 +1,8 @@
 {
     "title": "勞工保險條例",
     "versions": [
-        "中華民國102年12月24日修正",
-        "中華民國103年1月8日公布"
+        "中華民國103年5月16日修正",
+        "中華民國103年5月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -258,7 +258,7 @@
         {
             "note": "(生育給付之標準)",
             "rule_no": "第三十二條",
-            "content": "　　生育給付標準，依左列各款辦理：\n　　一、被保險人或其配偶分娩或早產者，按被保險人平均月投保薪資一次給與分娩費三十日，流產者減半給付。\n　　二、被保險人分娩或早產者，除給與分娩費外，並按其平均月投保薪資一次給與生育補助費三十日。\n　　三、分娩或早產為雙生以上者，分娩費比例增給。\n　　被保險人難產已申領住院診療給付者，不再給與分娩費。",
+            "content": "　　生育給付標準，依下列各款辦理：\n　　一、被保險人或其配偶分娩或早產者，按被保險人平均月投保薪資一次給與分娩費三十日，流產者減半給付。\n　　二、被保險人分娩或早產者，除給與分娩費外，並按其平均月投保薪資一次給與生育補助費六十日。\n　　三、分娩或早產為雙生以上者，分娩費及生育補助費比例增給。\n　　被保險人難產已申領住院診療給付者，不再給與分娩費。\n　　被保險人同時符合相關社會保險生育給付或因軍公教身分請領國家給與之生育補助請領條件者，僅得擇一請領。但農民健康保險者，不在此限。",
             "relates": {}
         },
         {
@@ -689,79 +689,79 @@
         }
     ],
     "law_reasons": {
-        "第二十九條": "　　一、原條文僅就請領之權利，禁止作為扣押、讓與或供擔保之標的；致實務上仍出現請領權利人之各項年金給付，遭金融行庫扣押或行使抵銷權之情況。\n　　二、為避免上述情況發生，以致損害其權利而與本條例之立法目的相違背，爰增列第二及第三項，明定依本條例請領之年金給付，得檢具保險人出具之證明文件，於金融機構開立專戶，報保險人核可後，專供存入給付之用，不得作為其他用途，且不得存入非屬本條例所定給付以外之其他款項；專戶內之存款亦不得作為抵銷、扣押、供擔保或強制執行之標的，以保障弱勢勞工或遺屬之基本經濟安全。\n　　三、原條文第二至第六項移列第四至第八項；第七項並酌作文字修正。"
+        "第三十二條": "　　照協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010601",
-            "立法紀錄": "101卷43期3984號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec781cecfcecfcbcccfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "潘孟安",
+            "會議日期": "1011207",
+            "立法紀錄": "101卷81期4022號一冊 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cdcf81cecfcecfc7cecfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "何欣純",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbcfcec5cec8c9d2cec8c8"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdcfcec5cecacdd2cecaca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1020531",
-            "立法紀錄": "102卷38期4063號一冊 75-75頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec781cecfcdcfccc7cfcec4cfcfc8cac4cfcfc8ca",
-            "主提案": "吳育昇",
+            "會議日期": "1021227",
+            "立法紀錄": "103卷3期4112號一冊 5-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cdcf81cecfcccfcfcccfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "趙天麟",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecac8cbc5cbccd2cbc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8cdc5cecfced2cecfcd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1021101",
-            "立法紀錄": "102卷61期4086號一冊 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec781cecfcdcfc9cecfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "吳育仁",
+            "會議日期": "1030109",
+            "立法紀錄": "103卷8期4117號一冊 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cdcf81cecfcccfcfc7cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "劉建國",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc7c8cdc5cdccd2cdc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec7c8cdc5cdcdcad2cdcdc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1021125",
-            "立法紀錄": "102卷77期4102號二冊 105-188頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec781cecfcdcfc8c8cfcdc4cfcecfcac4cfcec7c7",
+            "會議日期": "1030312",
+            "立法紀錄": "103卷18期4127號 54-145頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cdcf81cecfcccfcec7cfcec4cfcfcacbc4cfcecbca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 171-179頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec781cecfcdcfc7cbcfcec4cfcec8cec4cfcec8c6",
+            "會議日期": "1030516",
+            "立法紀錄": "103卷37期4146號一冊 263-271頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cdcf81cecfcccfccc8cfcec4cfcdc9ccc4cfcdc8ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecbcfcac5cacfc7d2caceca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8c8c5c8c8d2c7c9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 179-179頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec781cecfcdcfc7cbcfcec4cfcec8c6c4cfcec8c6",
+            "會議日期": "1030516",
+            "立法紀錄": "103卷37期4146號一冊 271-271頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cdcf81cecfcccfccc8cfcec4cfcdc8cec4cfcdc8ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021224",
-            "立法紀錄": "102卷84期4109號一冊 179-180頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cec781cecfcdcfc7cbcfcec4cfcec8c6c4cfcec7cf",
+            "會議日期": "1030516",
+            "立法紀錄": "103卷37期4146號一冊 271-271頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c9c9cdcf81cecfcccfccc8cfcec4cfcdc8cec4cfcdc8ce",
             "關係文書": []
         }
     ]
