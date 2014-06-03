@@ -1,8 +1,8 @@
 {
     "title": "就業保險法",
     "versions": [
-        "中華民國101年12月4日修正",
-        "中華民國101年12月19日公布"
+        "中華民國103年5月20日修正",
+        "中華民國103年6月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -166,7 +166,7 @@
         {
             "note": "",
             "rule_no": "第二十二條",
-            "content": "　　被保險人領取各種保險給付之權利，不得讓與、抵銷、扣押或供擔保。",
+            "content": "　　被保險人領取各種保險給付之權利，不得讓與、抵銷、扣押或供擔保。\n　　被保險人依本法規定請領保險給付者，得檢具保險人出具之證明文件，於金融機構開立專戶，專供存入保險給付之用。\n　　前項專戶內之存款，不得作為抵押、扣押、供擔保或強制執行之標的。",
             "relates": {}
         },
         {
@@ -325,67 +325,53 @@
         }
     ],
     "law_reasons": {
-        "第二十二條 之一": "　　一、本條新增。\n　　二、本法對於被保險人因可歸責於保險人之遲延給付而受有損害時，應如何救濟並無明文規定，爰參酌司法院釋字第六八三號解釋意旨及公教人員保險法第二十二條規定，增訂本條以明確規範保險人給付期間及逾期應加給利息。",
-        "第四十四條": "　　一、第一項及第二項未修正。\n　　二、於第三項明定本次修正條文之施行日期。"
+        "第二十二條": "　　一、依第十一條規定，給付分為失業給付、提早就業獎助津貼、職業訓練生活津貼、育嬰留職停薪津貼及失業之被保險人及眷屬保險費補助；各項給付設計皆係出於被保險人失業、鼓勵再度就業、接受職業訓練、獲准育嬰假時，扶助穩定經濟生活之目的。\n　　二、原條文雖規定，請領給付或津貼之權利「不得作為扣押、讓與、抵銷或供擔保之標的」，但實務上卻有被保險人受領之各項給付或津貼，經主管機關核給匯入金融行庫帳戶後，逕遭債權人聲請扣押之情事，致被保險人更陷經濟困境，明顯違背立法目的，屬立法疏失。故修正原條文，明定已受領之各項給付或津貼亦不得讓與、抵銷、扣押或供擔保，依本法規定請領保險給付、津貼者，得檢具中央主管機關出具之證明文件，於金融機構開立專戶，專供存入本給付、津貼之用，以落實保障被保險人權益。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010316",
-            "立法紀錄": "101卷007期3948號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc9c681cecfcecfcfc8cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "蔣乃辛",
+            "會議日期": "1030304",
+            "立法紀錄": "103卷13期4122號二冊 279-279頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc8cf81cecfcccfcecccfcdc4cfcdc8c6c4cfcdc8c6",
+            "主提案": "潘孟安",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbcfcec5cac9cfd2cac9ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010406",
-            "立法紀錄": "101卷017期3958號一冊 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc9c681cecfcecfcec8cfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcdc8ccc5ccc9ccd2ccc9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcdc8cdc5c8ced2c8cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1011031",
-            "立法紀錄": "101卷067期4008號二冊 297-330頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc9c681cecfcecfc9c8cfcdc4cfcdc6c8c4cfcccccf",
+            "會議日期": "1030421",
+            "立法紀錄": "103卷29期4138號 329-406頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc8cf81cecfcccfcdc6cfcec4cfcccdc6c4cfcbcfc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1011204",
-            "立法紀錄": "101卷077期4018號一冊 71-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc9c681cecfcecfc8c8cfcec4cfcfc8cec4cfcfc8ca",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 138-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc8cf81cecfcccfccc8cfcdc4cfceccc7c4cfcecbce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecfc8c9c5cecacaced2cecacac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8c8c5cbccd2cbc9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1011204",
-            "立法紀錄": "101卷077期4018號一冊 75-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc9c681cecfcecfc8c8cfcec4cfcfc8cac4cfcfc8ca",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 141-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc8cf81cecfcccfccc8cfcdc4cfcecbcec4cfcecbce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1011204",
-            "立法紀錄": "101卷077期4018號一冊 75-75頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc9c681cecfcecfc8c8cfcec4cfcfc8cac4cfcfc8ca",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 141-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc8cf81cecfcccfccc8cfcdc4cfcecbcec4cfcecbce",
             "關係文書": []
         }
     ]
