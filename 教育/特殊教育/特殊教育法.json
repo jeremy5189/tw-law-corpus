@@ -1,8 +1,8 @@
 {
     "title": "特殊教育法",
     "versions": [
-        "中華民國102年1月8日修正",
-        "中華民國102年1月23日公布"
+        "中華民國103年5月20日修正",
+        "中華民國103年6月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -164,9 +164,9 @@
             "relates": {}
         },
         {
-            "note": "(支援服務之協助與專業團隊之設置)",
+            "note": "(支援服務與專業團隊之設置)",
             "rule_no": "第二十四條",
-            "content": "　　各級主管機關應提供學校輔導身心障礙學生有關評量、教學及行政等支援服務，並適用於經主管機關許可在家實施非學校型態實驗教育之身心障礙學生。\n　　各級學校對於身心障礙學生之評量、教學及輔導工作，應以專業團隊合作進行為原則，並得視需要結合衛生醫療、教育、社會工作、獨立生活、職業重建相關等專業人員，共同提供學習、生活、心理、復健訓練、職業輔導評量及轉銜輔導與服務等協助。\n　　前二項之支援服務與專業團隊設置及實施辦法，由中央主管機關定之。",
+            "content": "　　各級主管機關應提供學校輔導身心障礙學生有關評量、教學及行政等支援服務，並適用於經主管機關許可在家及機構實施非學校型態實驗教育之身心障礙學生。\n　　各級學校對於身心障礙學生之評量、教學及輔導工作，應以專業團隊合作進行為原則，並得視需要結合衛生醫療、教育、社會工作、獨立生活、職業重建相關等專業人員，共同提供學習、生活、心理、復健訓練、職業輔導評量及轉銜輔導與服務等協助。\n　　前二項之支援服務與專業團隊設置及實施辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -351,99 +351,53 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　一、增列第六款，為突顯腦性麻痺學生伴隨的各種症狀、身心特質與學習需求，使腦性麻痺學生接受適性教育，充分發展身心潛能,增列「腦性麻痺」一類。\n　　二、原第六款至第十二款移列第七款至第十三款。",
-        "第十四條": "　　原條文僅規定應提供助理人員，且在子法「特殊教育支援服務與專業團隊設置及實施辦法」將本法之「助理人員」限縮為「教師助理員」。然而特教學生需要的助理人員還包括以學生為主體的「特教學生助理人員」，提供課堂參與和校園生活的支持服務，而現有的「教師助理員」乃是配合教師教學需求協助教學評量，二者在工作執掌上有所區隔。故於本條明確規範學校應提供「教師助理員」和「特教學生助理人員」。",
-        "第二十三條": "　　因應「幼兒教育及照顧法」之通過，幼兒從二歲起接受教育及照顧，故將特殊教育實施之年齡下修為自二歲開始。",
-        "第二十四條": "　　明訂各級主管機關應提供在家教育的身心障礙學生，適宜的教學資源，俾使其享有與在校身心障礙學生相同的教育品質。",
-        "第三十條": "　　刪除原條文第一項，有關高等教育階段實施身心障礙教育之規範移列第三十條之一。",
-        "第三十條 之一": "　　一、本條新增。\n　　二、有關高等教育學校辦理身心障礙學生教育之專責單位及人員，目前是由教育部補助學校開辦資源教室和人事，但資源教室組織層級低、人員編制不穩定，難以統整協調全校身心障礙學生的學習業務，故增列本條要求各校設置專責單位及專責人員。另外規範應訂定個別學生的「個別化支持計畫」，了解學生需求、提供適性服務。",
-        "第三十三條": "　　原條文僅規定應提供教育輔助器材及支持服務，卻未明確規範支持服務之項目，使得所有支持服務之規範僅於子法「身心障礙學生教育輔助器材及相關支持服務辦法」規範，為落實相關規定，爰於本條增訂支持服務項目。",
-        "第四十五條": "　　增訂第二項，以明確高等教育階段學校之作為。"
+        "第二十四條": "　　一、第一項明定各級主管機關應提供經主管機關許可在家及機構實施非學校型態實驗教育之身心障礙學生，有關評量、教學及行政等支援服務，使接受機構實驗教育之身心障礙學生，與在家實施非學校型態實驗教育之身心障礙學生，享有相同的服務。\n　　二、機構實驗教育之定義係指由非營利法人設立，以實驗課程為主要目的，在學校以外固定場所實施之實驗教育；以避免爭議。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010918",
-            "立法紀錄": "101卷051期3992號一冊 20-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcecfcacecfcec4cfcfcdcfc4cfcfcdcf",
-            "主提案": "楊麗環",
+            "會議日期": "1020924",
+            "立法紀錄": "102卷48期4073號二冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc6cf81cecfcdcfcbc7cfcdc4cfcfcfcdc4cfcfcfcd",
+            "主提案": "林佳龍",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcec8ccc5cacac8d2cac9cf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011123",
-            "立法紀錄": "101卷074期4015號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcecfc8cbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "鄭麗君",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecfcfc9c5cecfcdd2cecfc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcdc8cdc5c6ccd2c6c9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1011219",
-            "立法紀錄": "102卷003期4028號一冊 184-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcdcfcfcccfcec4cfcec7cbc4cfcdc9cd",
+            "會議日期": "1030414",
+            "立法紀錄": "103卷27期4136號 152-235頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc6cf81cecfcccfcdc8cfcec4cfcecacdc4cfcdccca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1020108",
-            "立法紀錄": "102卷004期4029號一冊 150-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcdcfcfcbcfcec4cfcecacfc4cfcecacc",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 104-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc6cf81cecfcccfccc8cfcdc4cfcecfcbc4cfcecfc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec9c8c9c5c6ced2c6cb"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1020108",
-            "立法紀錄": "102卷004期4029號一冊 158-167頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcdcfcfcbcfcec4cfcecac7c4cfcec9c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec9cfccc5cdcdcfd2cdcdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8c8c5c8d2cecf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1020108",
-            "立法紀錄": "102卷004期4029號一冊 153-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcdcfcfcbcfcec4cfcecaccc4cfcecacc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1020108",
-            "立法紀錄": "102卷004期4029號一冊 167-168頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcdcfcfcbcfcec4cfcec9c8c4cfcec9c7",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 108-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc6cf81cecfcccfccc8cfcdc4cfcecfc7c4cfcecfc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1020108",
-            "立法紀錄": "102卷004期4029號一冊 153-153頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcdcfcfcbcfcec4cfcecaccc4cfcecacc",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1020108",
-            "立法紀錄": "102卷004期4029號一冊 168-169頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc7c781cecfcdcfcfcbcfcec4cfcec9c7c4cfcec9c6",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 108-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cdc6cf81cecfcccfccc8cfcdc4cfcecfc7c4cfcecfc7",
             "關係文書": []
         }
     ]
