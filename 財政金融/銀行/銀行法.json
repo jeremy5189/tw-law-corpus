@@ -1,8 +1,8 @@
 {
     "title": "銀行法",
     "versions": [
-        "中華民國100年10月25日修正",
-        "中華民國100年11月9日公布"
+        "中華民國103年5月20日修正",
+        "中華民國103年6月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -154,7 +154,7 @@
         {
             "note": "",
             "rule_no": "第十九條",
-            "content": "　　本法之主管機關為行政院金融監督管理委員會。",
+            "content": "　　本法之主管機關為金融監督管理委員會。",
             "relates": {}
         },
         {
@@ -1229,54 +1229,118 @@
         }
     ],
     "law_reasons": {
-        "第十二條 之一": "　　一、新增條文第一項。明定銀行辦理自用住宅放款及消費性放款，不得要求借款人提供連帶保證人，但一般保證人不在此限。\n　　二、原條文第一項移列第二項，並修正為「銀行辦理自用住宅放款及消費性放款，已取得前條所定之足額擔保時，不得要求借款人提供保證人（包括連帶保證）」，以使銀行辦理授信徵取保證人之情形，限於對授信條件不足之補強。\n　　三、原條文第二項移列第三項。\n　　四、原條文第三項移列第四項，並修正為「未來求償時，應先就借款人進行求償，其求償不足部分，如保證人有數人者，應先就各該保證人平均求償之。但為取得執行名義或保全程序者，不在此限」，以釐清條文文義。",
-        "第十二條 之二": "　　一、本條新增。\n　　二、實務上借款銀行經常為了降低授信風險，而在締結保證契約之初，即在保證契約中特別約定主債務人延期清償，不需經保證人同意，其結果將無異於剝奪保證人賴以控制保證責任期限的權利（民法第七百五十二條、第七百五十三條），而使保證人的責任期跟隨著主債務人「延期清償」而永無終期。有鑑於此，爰增訂本條規定，明定因自用住宅放款及消費性放款而徵取之保證人，其保證契約自成立之日起，有效期間不得逾十五年，以保障弱勢保證人之合法權益。但經保證人書面同意者，不在此限。"
+        "第十九條": "　　配合行政院金融監督管理委員會組織法於一百年六月二十九日公布更名為金融監督管理委員會組織法，爰修正原條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0990514",
-            "立法紀錄": "099卷036期3801號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6ccc781cfc6c6cfccc9cfcec4cfcfcfcec4cfcfcfce",
+            "會議日期": "1020426",
+            "立法紀錄": "102卷23期4048號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcdcfcdcccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "顏寬恒",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecfcfcec5cdccc9d2cdccc8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1021018",
+            "立法紀錄": "102卷56期4081號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcdcfcac9cfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "賴士葆",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfcec5c6c6d2cecfcc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcac8cdc5ccccd2ccc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1021025",
+            "立法紀錄": "102卷58期4083號一冊 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcdcfcac7cfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "李應元",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc8c8cdc5cac8d2c9cd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1021129",
+            "立法紀錄": "102卷74期4099號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcdcfc8cbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "黃偉哲",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecdc8cdc5cdccd2cdc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1021213",
+            "立法紀錄": "102卷80期4105號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcdcfc7cfcfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "許忠信",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecbc8cdc5cdceccd2cdcec9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcccfcfcacfcec4cfcfcccac4cfcfccca",
+            "主提案": "謝國樑",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec8c7cdc5ced2cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1001006",
-            "立法紀錄": "100卷062期3914號 10-101頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6ccc781cecfcfcfc9cdcfcec4cfcfcecfc4cfcecfce",
+            "會議日期": "1030403",
+            "立法紀錄": "103卷22期4131號 419-460頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcccfcdcdcfcec4cfcbcec6c4cfcbc9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1001025",
-            "立法紀錄": "100卷063期3915號 219-226頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6ccc781cecfcfcfc9cccfcec4cfcdcec6c4cfcdcdc9",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 272-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcccfccc8cfcdc4cfcdc8cdc4cfcdc6c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc9c8c9c5cec7ccd2cec6cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8c8c5cec6c8d2cdcdcb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001025",
-            "立法紀錄": "100卷063期3915號 226-226頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6ccc781cecfcfcfc9cccfcec4cfcdcdc9c4cfcdcdc9",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 298-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcccfccc8cfcdc4cfcdc6c7c4cfcdc6c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001025",
-            "立法紀錄": "100卷063期3915號 226-227頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6ccc781cecfcfcfc9cccfcec4cfcdcdc9c4cfcdcdc8",
+            "會議日期": "1030520",
+            "立法紀錄": "103卷37期4146號二冊 298-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cbcf81cecfcccfccc8cfcdc4cfcdc6c7c4cfcdc6c7",
             "關係文書": []
         }
     ]
