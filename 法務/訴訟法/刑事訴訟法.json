@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法",
     "versions": [
-        "中華民國103年5月20日修正",
-        "中華民國103年6月4日公布"
+        "中華民國103年5月30日修正",
+        "中華民國103年6月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -855,6 +855,12 @@
             "note": "",
             "rule_no": "第一百十九條",
             "content": "　　撤銷羈押、再執行羈押、受不起訴處分、有罪判決確定而入監執行或因裁判而致羈押之效力消滅者，免除具保之責任。\n　　被告及具保證書或繳納保證金之第三人，得聲請退保，法院或檢察官得准其退保。但另有規定者，依其規定。\n　　免除具保之責任或經退保者，應將保證書註銷或將未沒入之保證金發還。\n　　前三項規定，於受責付者準用之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第一百十九條 之一",
+            "content": "　　以現金繳納保證金具保者，保證金應給付利息，並於依前條第三項規定發還時，實收利息併發還之。其應受發還人所在不明，或因其他事故不能發還者，法院或檢察官應公告之；自公告之日起滿十年，無人聲請發還者，歸屬國庫。\n　　依第一百十八條規定沒入保證金時，實收利息併沒入之。\n　　刑事保證金存管、計息及發還作業辦法，由司法院會同行政院定之。",
             "relates": {}
         },
         {
@@ -3881,81 +3887,66 @@
         }
     ],
     "law_reasons": {
-        "第二百五十三條 之二": "　　一、配合預算法，建議收支納入國庫，爰修正原條文第一項第四款，明訂向公庫支付一定金額，並得由該管檢察署視需要提撥一定比率補助相關公益團體或地方自治團體。\n　　二、原條文第二項至第四項未修正。\n　　三、增訂第五項授權行政院會同司法院另訂收支運用及監督管理辦法。",
-        "第三百七十條": "　　一、原條文第一項未修正。\n　　二、增訂第二項、第三項。\n　　三、宣告刑及數罪併罰所定應執行之刑均係於法院作成有罪判決時需依刑事訴訟法第三百零九條所諭知之刑，就文義解釋，本應將原條文規定之「刑」明定為宣告刑及數罪併罰所定應執行之刑。為貫徹刑事訴訟法第三百七十條所揭櫫之不利益變更禁止原則其規範目的，保護被告之上訴權，宣告刑之加重固然對於被告造成不利益之結果，數罪併罰所定應執行之刑之加重對於被告之不利益之結果更是直接而明顯，爰增訂第二項。\n　　四、為保障被告上訴權，於第一審或第二審數罪併罰之判決於另以裁定定其應執行刑時，亦有本條不利益變更禁止之適用，爰增訂第三項。",
-        "第四百五十五條 之二": "　　一、93年度起施行認罪協商制度，其支付對象比照緩起訴處分金之規定，惟目前僅能查知支付國庫之金額，其餘支付情形仍欠缺完整統計資訊，不但支付全貌不明，各檢察署之監督管理成效亦頗質疑。爰參照第二百五十三條之二之修正意旨，修正第一項第四款明定「被告向公庫支付一定金額，並得由該管檢察署依規定提撥一定比率補助相關公益團體或地方自治團體。」\n　　二、增訂第四項「第一項第四款提撥比率、收支運用及監督管理辦法，由行政院會同司法院另定之。」"
+        "第一百十九條 之一": "　　一、本條新增。\n　　二、刑事保證金，係具保人為被告免予或停止羈押之目的而繳納，具保人繳納後，在未經依法沒入前，國家委由代理國庫之銀行加以保管，保證金仍屬具保人所有，於代理國庫之銀行保管期間，自得生有利息，且屬具保人所有，參照提存法第十二條之立法例，該保證金自應給付利息。於發還保證金時，應連同實收利息一併發還。惟應受發還人所在不明或因其他事故不能發還時，其通知之程序及歸屬，應明文規定，以杜爭議，爰增訂第一項。\n　　三、具保乃為確保被告不致逃匿，若具保之被告逃匿而予以沒保，自不宜因代理國庫支付之利息而獲有利得，明定實收利息併沒入之，方符事理之平，爰增訂列為第二項。\n　　四、偵查中經檢察官命具保而繳納之刑事保證金，係由各檢察機關依「檢察機關財務收支處理要點」之規定暫收並存放於國庫保管，有關開立機關專戶計息之細節，則涉及財政部主管之公庫法、國庫法、「財政部委託中央銀行代理國庫契約」及「中央銀行委託金融機構辦理國庫事務要點」等相關法令之規定，宜由司法院會同本部、財政部、中央銀行及行政院主計總處等行政院所屬機關就刑事保證金之存管、計息及發還等等細節性事項共同研商訂定法規命令供各法院及檢察機關共同遵循，爰增訂第三項「刑事保證金存管、計息及發還作業辦法，由司法院會同行政院定之。」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020412",
-            "立法紀錄": "102卷18期4043號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9cb81cecfcdcfcec7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "李應元",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9c981cecfcccfcdcacfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "廖正井",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7cfcec5cdcaced2cdcac9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8cdc5cecbccd2cecbcb"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1021108",
-            "立法紀錄": "102卷65期4090號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9cb81cecfcdcfc9cacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "廖正井",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 13-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9c981cecfcccfcdcacfcec4cfcfceccc4cfcfcecc",
+            "主提案": "薛凌",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfc6cfccc5ccc9c7d2ccc8cf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1021115",
-            "立法紀錄": "102卷68期4093號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9cb81cecfcdcfc9c7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "廖正井",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecfc8cdc5c9cad2c9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8ccc5cbcec6d2cbcdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1030414",
-            "立法紀錄": "103卷27期4136號 237-282頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9cb81cecfcccfcdc8cfcec4cfcdccc8c4cfcdc7cd",
+            "會議日期": "1030519",
+            "立法紀錄": "103卷41期4150號 357-395頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9c981cecfcccfcbcecfcec4cfcccac8c4cfccc6ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號二冊 304-324頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9cb81cecfcccfccc8cfcdc4cfcccfcbc4cfcccdcb",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 147-157頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9c981cecfcccfcbcccfccc4cfcecbc8c4cfcecac8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8c8c5cdccccd2cdcacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c6c5cecec6d2cecccf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號二冊 324-325頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9cb81cecfcccfccc8cfcdc4cfcccdcbc4cfcccdca",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 157-157頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9c981cecfcccfcbcccfccc4cfcecac8c4cfcecac8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號二冊 325-325頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9cb81cecfcccfccc8cfcdc4cfcccdcac4cfcccdca",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 157-157頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc9c981cecfcccfcbcccfccc4cfcecac8c4cfcecac8",
             "關係文書": []
         }
     ]
