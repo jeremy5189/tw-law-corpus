@@ -1,8 +1,8 @@
 {
     "title": "家庭教育法",
     "versions": [
-        "中華民國102年11月26日修正",
-        "中華民國102年12月11日公布"
+        "中華民國103年5月30日修正",
+        "中華民國103年6月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -90,7 +90,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　直轄市、縣（市）主管教育行政機關應針對適婚男女及未成年之懷孕婦女，提供四小時以上家庭教育課程，以培養正確之婚姻觀念，促進家庭美滿；必要時，得研訂獎勵措施，鼓勵前揭人員參加。",
+            "content": "　　直轄市、縣（市）主管機關應結合政府及民間資源，提供民眾四小時以上家庭教育課程，以培養正確之婚姻觀念，促進家庭美滿；必要時，得研訂獎勵措施，鼓勵民眾參加。",
             "relates": {}
         },
         {
@@ -131,19 +131,32 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、跨國婚姻常面臨家庭文化的隔閡與種族的成見，家庭教育範圍應包括多元文化教育，以增進跨國婚姻家人關係與促進其家庭功能，爰此增列第七款。\n　　二、原條文第六款以下依序遞移。"
+        "第十四條": "　　一、為結合教育、文化、衛生、社政、戶政、民政、勞工、新聞等政府機關、單位及民間資源，使家庭教育服務之提供管道更為豐富與多元，並為符合消除對婦女一切形式歧視公約相關規範意旨，鼓勵更多民眾參與家庭教育課程，爰修正原條文。\n　　二、鑒於家庭是個人社會化最基本之單位，家庭教育推展工作，應根據家庭生命週期發展需求規劃辦理，為發揮預防性教育功能，對民眾提供之家庭教育課程，以組成家庭所需知能為主要內涵，藉此促使民眾了解婚姻之意義、願景與承諾、經營婚姻及家庭生活之資源，提升其經營家庭生活之能力。另為使課程發揮教育效果，爰定明四小時以上之基本時數要求。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1011221",
-            "立法紀錄": "102卷1期4026號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7ca81cecfcdcfcfcecfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "李昆澤",
+            "會議日期": "1021220",
+            "立法紀錄": "102卷84期4109號一冊 16-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7c981cecfcdcfc7cbcfcec4cfcfcec9c4cfcfcec9",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecbcfcec5cdceccd2cdceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecac8cdc5cec6c8d2cdcfcf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011116",
+            "立法紀錄": "101卷71期4012號一冊 23-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7c981cecfcecfc8cecfcec4cfcfcdccc4cfcfcdcb",
+            "主提案": "馬文君",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc6cfcec5c6cdd2c6cc"
                 ]
             ]
         },
@@ -151,33 +164,47 @@
             "進度": "委員會審查",
             "會議日期": "1021003",
             "立法紀錄": "102卷53期4078號 275-304頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7ca81cecfcdcfcacccfcec4cfcdc8cac4cfcccfcb",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7c981cecfcdcfcacccfcec4cfcdc8cac4cfcccfcb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1030423",
+            "立法紀錄": "103卷30期4139號 240-285頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7c981cecfcccfcccfcfcec4cfcdcbcfc4cfcdc7ca",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1030507",
+            "立法紀錄": "103卷36期4145號 151-178頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7c981cecfcccfccc9cfcec4cfcecacec4cfcec8c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 222-225頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7ca81cecfcdcfc8cecfcec4cfcdcdcdc4cfcdcdca",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號一冊 272-278頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7c981cecfcccfcbcccfcec4cfcdc8cdc4cfcdc8c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5c8cad2c8c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c8c5cecec6d2cecdcb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 225-225頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7ca81cecfcdcfc8cecfcec4cfcdcdcac4cfcdcdca",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號一冊 278-278頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7c981cecfcccfcbcccfcec4cfcdc8c7c4cfcdc8c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 225-225頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7ca81cecfcdcfc8cecfcec4cfcdcdcac4cfcdcdca",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號一冊 278-278頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcfc7c981cecfcccfcbcccfcec4cfcdc8c7c4cfcdc8c7",
             "關係文書": []
         }
     ]
