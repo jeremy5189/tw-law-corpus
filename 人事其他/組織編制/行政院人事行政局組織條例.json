@@ -1,11 +1,11 @@
 {
     "title": "行政院人事行政局組織條例",
     "versions": [
-        "中華民國91年6月4日修正",
-        "中華民國91年6月26日公布"
+        "中華民國103年5月30日廢止",
+        "中華民國103年6月18日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -136,39 +136,44 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　增訂第五款，增設地方人事行政處，其後款次遞移。",
-        "第六條 之一": "　　一、本條新增。\n　　二、配合修正條文第二條增訂第五款「地方人事行政處」，爰增列該處職掌。",
-        "第十條": "　　一、配合地方人事行政處之增設，增列參事二人、處長、副處長各一人、專門委員三人、科長五人、視察九人、專員二一人、分析師一人、管理師一人、科員二七人、助理員二人、辦事員一人及書記五人，總計增列七九人。\n　　二、增訂第二項。",
-        "第十八條": "　　原台灣省所屬公務人力培訓處自八十八年七月一日起改隸行政院人事行政局，並更名為地方行政研習中心，爰予增列。",
-        "第二十條": "　　一、增訂第二項。\n　　二、本條例修正條文施行日期，由行政院以命令定之。"
-    },
+    "deprecated_reason": "　　配合組織改造作業，原行政院人事行政局改制為行政院人事行政總處，公務人員住宅及福利委員會予以裁併。行政院人事行政總處及所屬組織法業於101年2月6日施行，依據「中央法規標準法」第21條第1、4款規定，旨揭組織條例已無適用之必要，應配合辦理廢止，俾完備法制作業。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 229-234頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cace81c6cecbcfcfcec4cfcdcdc6c4cfcdcccb",
-            "主提案": "行政院",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷25期3966號 33-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cacd81cecfcecfcdcacfcec4cfcfccccc4cfcfcccc",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5c9c8c9d2c9c7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cbcdcbd2cbcdc7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 234-234頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cace81c6cecbcfcfcec4cfcdcccbc4cfcdcccb",
+            "進度": "委員會審查",
+            "會議日期": "1030514",
+            "立法紀錄": "103卷39期4148號 151-199頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cacd81cecfcccfccc6cfcec4cfcecacec4cfcec6c6",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 1-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cacd81cecfcccfcbcccfccc4cfcfcfcec4cfcfcfc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5c9cfced2c9cfca"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 234-235頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cace81c6cecbcfcfcec4cfcdcccbc4cfcdccca",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cacd81cecfcccfcbcccfccc4cfcfcfc6c4cfcfcfc6",
             "關係文書": []
         }
     ]
