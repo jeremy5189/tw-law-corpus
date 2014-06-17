@@ -1,8 +1,8 @@
 {
     "title": "志願服務法",
     "versions": [
-        "中華民國102年5月31日修正",
-        "中華民國102年6月11日公布"
+        "中華民國103年5月30日修正",
+        "中華民國103年6月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -118,7 +118,7 @@
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　志工應有以下之義務：\n　　一、遵守倫理守則之規定。\n　　二、遵守志願服務運用單位訂定之規章。\n　　三、參與志願服務運用單位所提供之教育訓練。\n　　四、妥善使用志工服務證。\n　　五、服務時，應尊重受服務者之權利。\n　　六、對因服務而取得或獲知之訊息，保守秘密。\n　　七、拒絕向受服務者收取報酬。\n　　八、妥善保管志願服務運用單位所提供之可利用資源。\n　　前項所規定之倫理守則，由中央主管機關會商有關機關定之。",
+            "content": "　　志工應有以下之義務：\n　　一、遵守倫理守則之規定。\n　　二、遵守志願服務運用單位訂定之規章。\n　　三、參與志願服務運用單位所提供之教育訓練。\n　　四、妥善使用志願服務證。\n　　五、服務時，應尊重受服務者之權利。\n　　六、對因服務而取得或獲知之訊息，保守秘密。\n　　七、拒絕向受服務者收取報酬。\n　　八、妥善保管志願服務運用單位所提供之可利用資源。\n　　前項所規定之倫理守則，由中央主管機關會商有關機關定之。",
             "relates": {}
         },
         {
@@ -199,95 +199,66 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　一、為達到整合轄內志願服務之人力、財力及物力等資源，及其業務協調與意見溝通，主管機關及各目的事業主管機關每年應定期召開聯繫會報，以加強聯繫與溝通，爰修正原條文第一項規定。\n　　二、原條文第二項未修正。",
-        "第五條 之一": "　　一、本條新增。\n　　二、基於各個部會、直轄市及縣市政府業務繁瑣，而且性質不一，對於推動志願服務業務係採取因地制宜的作法，如果有全國調查統計及研究資料，能讓主管機關及各目的事業主管機關及社會各界瞭解國內志願服務發展狀況。\n　　三、為掌握志願服務發展現況及各項統計資料，作為推動及決策之重要參據，爰增列本條，以資明確。",
-        "第十八條": "　　刪除有關汰舊車輛無償移交之規定，以保障志工從事志願服務之安全。",
-        "第二十條": "　　一、原條文第一項及第二項未修正。\n　　二、增訂第三項，擴大適用範圍，將義警、義交、義消、守望相助及災害防救、民防組織等團體成員，納入適用範圍。"
+        "第十五條": "　　一、按志願服務運用單位對其志工應發給「志願服務證」及服務紀錄冊。前項「志願服務證」及服務紀錄冊之管理辦法，由中央主管機關定之。本法第十二條著有明文。\n　　二、又原條文第一項第四款復規定，志工應有妥善使用「志工服務證」之義務。\n　　三、然查，所謂「志願服務證」與「志工服務證」顯係同一證件，法文割裂成二，恐造成混淆；況本法名為志願服務法，依該法對志工發給之證件，也應稱之以「志願服務證」較妥。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010406",
-            "立法紀錄": "101卷017期3958號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc781cecfcecfcec8cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "林郁方",
+            "會議日期": "1030502",
+            "立法紀錄": "103卷31期4140號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc681cecfcccfcccecfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "陳亭妃",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc9cfcec5cdcbc7d2cdcbc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc7c8cdc5cecfcad2cecfc7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1010427",
-            "立法紀錄": "101卷025期3966號 15-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc781cecfcecfcdcacfcec4cfcfcecac4cfcfcec9",
-            "主提案": "呂玉玲",
+            "會議日期": "1030509",
+            "立法紀錄": "103卷34期4143號 28-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc681cecfcccfcccbcfcec4cfcfcdc7c4cfcfcdc7",
+            "主提案": "徐少萍",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc6cfcdc5cecdc7d2cecdc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010511",
-            "立法紀錄": "101卷032期3973號 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc781cecfcecfcccdcfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "李昆澤",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecececfcec5cec8c9d2cec8c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020111",
-            "立法紀錄": "102卷005期4030號一冊 56-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc781cecfcdcfcfcacfcec4cfcfcac9c4cfcfcac9",
-            "主提案": "翁重鈞",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec8c6cdc5cbc8d2cacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8cdc5ceccd2cecb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1020516",
-            "立法紀錄": "102卷037期4062號 436-474頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc781cecfcdcfccc8cfcec4cfcbccc9c4cfcbc8cb",
+            "會議日期": "1030526",
+            "立法紀錄": "103卷45期4154號 394-441頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc681cecfcccfcbcacfcec4cfccc6cbc4cfcbcbce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1020531",
-            "立法紀錄": "102卷038期4063號二冊 863-876頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc781cecfcdcfccc7cfcdc4cfc7c9ccc4cfc7c8c9",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 171-177頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc681cecfcccfcbcccfccc4cfcec8cec4cfcec8c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecacdc9c5cccfced2cccecb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c6c5cecbc8d2cecacd"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1020531",
-            "立法紀錄": "102卷038期4063號二冊 876-876頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc781cecfcdcfccc7cfcdc4cfc7c8c9c4cfc7c8c9",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 177-177頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc681cecfcccfcbcccfccc4cfcec8c8c4cfcec8c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1020531",
-            "立法紀錄": "102卷038期4063號二冊 877-877頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc781cecfcdcfccc7cfcdc4cfc7c8c8c4cfc7c8c8",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 177-177頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cecdc681cecfcccfcbcccfccc4cfcec8c8c4cfcec8c8",
             "關係文書": []
         }
     ]
