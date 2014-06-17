@@ -1,11 +1,11 @@
 {
     "title": "幼稚教育法",
     "versions": [
-        "中華民國100年3月29日修正",
-        "中華民國100年4月13日公布"
+        "中華民國103年5月30日廢止",
+        "中華民國103年6月18日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -202,69 +202,44 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第八條": "　　一、配合「所得稅法」第四條、第十七條、第一百二十六條修正草案，將公私立國中小及幼稚園教職員取消免稅之課稅收入依「課稅收入運用計畫」辦理，爰將原第二項由「每班置教師二人，其中一人為導師」修正為「每班置教師二人，均兼任導師」。\n　　二、另考量幼稚園班級人數十五人以下時置二名導師之經濟效益，爰增列但書規定，班級人數十五人以下者，僅其中一人為導師部分，未來政府財政寬裕時，得調整為班級人數十人以下者，僅其中一人為導師。\n　　三、第一項及第三項未修正。",
-        "第十二條": "　　一、第一項係配合師資培育法之修正，修正幼稚園教師之資格。\n　　二、師資培育法業規範幼稚園教師資格取得之規定，原第二項授權訂定「幼稚園園長教師登記檢定及遴用辦法」無規定必要，爰予刪除。另將該辦法有關園長遴用之規定納入，移列為第二項，並配合九十六年大學法第十二條規定修正。",
-        "第二十五條": "　　明定本次修正條文之施行日期。"
-    },
+    "deprecated_reason": "　　為解決學前階段幼托體系分流問題，推動幼托整合政策，「幼兒教育及照顧法」業經立法院三讀通過，並自101年1月1日施行之。茲以「幼稚教育法」規範4歲至入國民小學前之兒童在幼稚園所受教育之相關規定，業可由「幼兒教育及照顧法」之相關規定予以取代；復查全國公私立幼稚園已依「幼兒教育及照顧法」第55條第1項規定，全數改制為幼兒園，故已無「幼稚教育法」適用之情形，爰廢止「幼稚教育法」，符合中央法規標準法第21條第4款規定，法規規定之同一事項已定有新法規，並公布或發布施行者，廢止之。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0980918",
-            "立法紀錄": "098卷046期3732號一冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cdcacac881c6c7cbc9cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "1020924",
+            "立法紀錄": "102卷48期4073號二冊 8-9頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac781cecfcdcfcbc7cfcdc4cfcfcfc7c4cfcfcfc6",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfcecfcec5cdc8ccd2cdc7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "0991029",
-            "立法紀錄": "099卷057期3822號 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac881cfc6c6cfcac8cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "陳淑慧",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfc9c8cdc5cbced2cbcb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcdc8ccc5cecbcad2cecacd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000317",
-            "立法紀錄": "100卷020期3872號 158-215頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac881cecfcfcfcdcfcfcec4cfcecac7c4cfcdceca",
+            "會議日期": "1030522",
+            "立法紀錄": "103卷44期4153號 83-164頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac781cecfcccfcbcbcfcec4cfcfc7ccc4cfcec9cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000329",
-            "立法紀錄": "100卷021期3873號一冊 206-213頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac881cecfcfcfcdcecfcec4cfcdcfc9c4cfcdcecc",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 96-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac781cecfcccfcbcccfccc4cfcfc6c9c4cfcecfcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcbc5cacecfd2cacec9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c6c5c9c6d2c8c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1000329",
-            "立法紀錄": "100卷021期3873號一冊 213-213頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac881cecfcfcfcdcecfcec4cfcdceccc4cfcdcecc",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "1000329",
-            "立法紀錄": "100卷021期3873號一冊 213-213頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac881cecfcfcfcdcecfcec4cfcdceccc4cfcdcecc",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 102-102頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7cdcacac781cecfcccfcbcccfccc4cfcecfcdc4cfcecfcd",
             "關係文書": []
         }
     ]
