@@ -1,11 +1,11 @@
 {
     "title": "行政院人事行政局地方行政研習中心組織條例",
     "versions": [
-        "中華民國91年6月4日制定",
-        "中華民國91年6月26日公布"
+        "中華民國103年5月30日廢止",
+        "中華民國103年6月18日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,46 +82,52 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　明定本條例制定之法源依據。",
-        "第二條": "　　鑒於為建構行政院完整之公務人力培訓體系，衡酌原台灣省政府公務人力培訓處組織調整方向，應定位仍賡續負責各省及縣市基層人員訓練，並成為省屬及地方機關公務人員培育工作之重心，以統籌規劃辦理有關地方公務人力培訓工作為主要職掌，且以地方行政管理事務、專業知能與培育訓練、各項研習為未來發展重點，明定本中心掌理事項。",
-        "第三條": "　　明定本中心依掌理業務性質，分設四組。",
-        "第四條": "　　明定本中心秘書室之掌理事項。",
-        "第五條": "　　明定本中心置主任一人、副主任一人及其所列官等、職等及職掌。",
-        "第六條": "　　明定本中心所置人員之職稱、官等、職等及員額。",
-        "第七條": "　　明定本中心人事室所置人員職稱、官等、職等及職掌。",
-        "第八條": "　　明定本中心會計室所置人員職稱、官等、職等及職掌。",
-        "第九條": "　　明定本中心政風室所置人員職稱、官等、職等及職掌。",
-        "第十條": "　　明定本中心列有官等、職等人員，其職務所適用職系之法律依據。",
-        "第十一條": "　　明定得聘兼任講座，擔任教學工作。",
-        "第十二條": "　　明定本條例之施行日期。"
-    },
+    "deprecated_reason": "　　配合組織改造作業，原行政院人事行政局改制為行政院人事行政總處，公務人員住宅及福利委員會予以裁併。行政院人事行政總處及所屬組織法業於101年2月6日施行，依據「中央法規標準法」第21條第1、4款規定，旨揭組織條例已無適用之必要，應配合辦理廢止，俾完備法制作業。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 229-234頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cbc881c6cecbcfcfcec4cfcdcdc6c4cfcdcccb",
-            "主提案": "行政院",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷25期3966號 33-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cbc781cecfcecfcdcacfcec4cfcfccccc4cfcfcccc",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcececacfcec5c9c8c9d2c9c7c8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cbcdcbd2cbcdca"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cbcccdd2cbcccc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 235-236頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cbc881c6cecbcfcfcec4cfcdcccac4cfcdccc9",
+            "進度": "委員會審查",
+            "會議日期": "1030514",
+            "立法紀錄": "103卷39期4148號 151-199頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cbc781cecfcccfccc6cfcec4cfcecacec4cfcec6c6",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 1-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cbc781cecfcccfcbcccfccc4cfcfcfcec4cfcfcfc6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5c9cfced2c9cfcd"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5c9cfc6d2c9cecf"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "910604",
-            "立法紀錄": "91卷40期3236號一冊 236-236頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cbc881c6cecbcfcfcec4cfcdccc9c4cfcdccc9",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cbc781cecfcccfcbcccfccc4cfcfcfc6c4cfcfcfc6",
             "關係文書": []
         }
     ]
