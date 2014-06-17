@@ -1,11 +1,11 @@
 {
     "title": "公務人員住宅及福利委員會組織條例",
     "versions": [
-        "中華民國86年3月21日制定",
-        "中華民國86年4月9日公布"
+        "中華民國103年5月30日廢止",
+        "中華民國103年6月18日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -118,64 +118,52 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　一、明定制定本條例之依據。\n　　二、依行政院人事行政局組織條例第十八條規定：公務人員住宅及福利委員會之組織，應以法律定之。",
-        "第二條": "　　明定委員會成立宗旨及適用對象。",
-        "第三條": "　　一、明定公務人員住宅及福利委員會應設單位之名稱。\n　　二、原中央公教人員住宅輔建及福利互助委員會組織規程第三條規定，僅設四組，未設室。本條文規定仍設四組，但增加一室（秘書室），以符實際（原有主任秘書室之編組）。\n　　三、為期與其主管業務配合，爰為各組名稱。",
-        "第四條": "　　一、明定企劃組掌理事項，其中包括現行財務組辦理事項。\n　　二、本會業務對象涵蓋總統府、國民大會、五院暨所屬之各中央機關學校員工，故於各組掌理事項條文內均冠以「公教人員」或「中央公教人員」，以明示業務對象。\n　　三、明確規定不屬於其他組、室事項，均由企劃組辦理。",
-        "第五條": "　　明定工程管理組掌理事項。",
-        "第六條": "　　明定配售組掌理事項。",
-        "第七條": "　　明定福利組掌理事項。",
-        "第八條": "　　明定秘書室掌理事項。",
-        "第九條": "　　一、明定主任委員、副主任委員之員額數、官等、職等及其職掌。\n　　二、本會因業務擴增，主任委員職責程度加重其所具資格條件相對提高，且須具有相當法學素養，爰規定主任委員職務列「簡任第十二職等至第十三職等」。",
-        "第十條": "　　明定委員之人數。",
-        "第十一條": "　　照盧委員修一等所提修正條文通過。",
-        "第十二條": "　　明定人事室及其編制與掌理事項。",
-        "第十三條": "　　明定會計室及其編制與掌理事項。",
-        "第十四條": "　　明定人員之進用依有關法規規定辦理。",
-        "第十五條": "　　明定原依派用人員派用條例審定准予登記有案之現職人員，未具法定任用資格者，得繼續任原職至離職為止。",
-        "第十六條": "　　明定對外行文權責範圍。",
-        "第十七條": "　　明定會議規則及辦事細則之擬訂，及核定權責。",
-        "第十八條": "　　明定本條例施行日期。"
-    },
+    "deprecated_reason": "　　配合組織改造作業，原行政院人事行政局改制為行政院人事行政總處，公務人員住宅及福利委員會予以裁併。行政院人事行政總處及所屬組織法業於101年2月6日施行，依據「中央法規標準法」第21條第1、4款規定，旨揭組織條例已無適用之必要，應配合辦理廢止，俾完備法制作業。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830520",
-            "立法紀錄": "83卷35期2709號 12-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c8c981c7cccccacfcfc4cfcfcecdc4cfcfcecb",
-            "主提案": "行政院",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷25期3966號 33-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7c8c781cecfcecfcdcacfcec4cfcfccccc4cfcfcccc",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccec8cfcdc5ccc9ccd2ccc8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cbcdcbd2cbcdca"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cbcdc6d2cbcccf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "850115",
-            "立法紀錄": "85卷7期2829號 283-299頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c8c981c7cacfc8cfcfc4cfcdc7ccc4cfcdc6c6",
+            "會議日期": "1030514",
+            "立法紀錄": "103卷39期4148號 151-199頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7c8c781cecfcccfccc6cfcec4cfcecacec4cfcec6c6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "860321",
-            "立法紀錄": "86卷10期2902號上冊 103-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c8c981c7c9cecfcfcec4cfcecfccc4cfcecec8",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 1-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7c8c781cecfcccfcbcccfccc4cfcfcfcec4cfcfcfc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcececccfcec5cccbc6d2ccc9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5c9cfced2c9cfcd"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5c9cfc9d2c9cfc8"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860321",
-            "立法紀錄": "86卷10期2902號上冊 117-117頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c8c981c7c9cecfcfcec4cfcecec8c4cfcecec8",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號三冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7c8c781cecfcccfcbcccfccc4cfcfcfc6c4cfcfcfc6",
             "關係文書": []
         }
     ]
