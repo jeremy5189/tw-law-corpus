@@ -1,8 +1,8 @@
 {
     "title": "老年農民福利津貼暫行條例",
     "versions": [
-        "中華民國103年1月14日修正",
-        "中華民國103年1月29日公布"
+        "中華民國103年6月27日修正",
+        "中華民國103年7月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -24,7 +24,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本條例所稱老年農民，應符合下列各款資格條件：\n　　一、年滿六十五歲。\n　　二、申領時參加農民健康保險之農民且加保年資合計六個月以上者或已領取勞工保險老年給付之漁會甲類會員，且會員年資合計六個月以上者。",
+            "content": "　　本條例所稱老年農民，應符合下列各款資格條件：\n　　一、年滿六十五歲國民，在國內設有戶籍，且於最近三年內每年居住超過一百八十三日者。\n　　二、申領時參加農民健康保險之農民且加保年資合計十五年以上者，或已領取勞工保險老年給付之漁會甲類會員且會員年資合計十五年以上者。\n　　於本條例中華民國一百零三年六月二十七日修正之本條文施行前已參加農民健康保險，且持續加保，於申領時加保年資合計六個月以上未滿十五年者，其老年農民之資格條件不受前項第二款限制，並依第四條第一項規定金額減半發給福利津貼。\n　　已領取福利津貼之老年農民，於本條例中華民國一百零三年六月二十七日修正之本條文施行後，未符第一項第一款所定條件之一者，停止發給福利津貼至其原因消失之當月止。",
             "relates": {}
         },
         {
@@ -59,62 +59,67 @@
         }
     ],
     "law_reasons": {
-        "第四條 之一": "　　一、原條文雖就扣押，讓與抵銷或擔保標的之禁止訂有明文規定「請領老年農民福利津貼之權利，不得作為扣押、讓與、抵消或供擔保之標的。」然實務上、請領權利人之津貼匯入金融行庫帳戶之內，卻逕遭扣押或行使抵押權，至老農領取之津貼屢遭抵押，更陷經濟困境。\n　　二、本條例性質屬社會救濟，為達扶助目的，明定老年農民福利津貼及請領該津貼之權利，不得作扣押、讓與、抵銷供擔保或強制執行之標的，已確立並落實照顧弱勢之立法目的。\n　　三、增訂第二項，明定請領福利津貼者，得檢具中央主管機關出具之證明文件，於金融機構開立專戶，專供存入本津貼之用。"
+        "第三條": "　　一、老年農民福利津貼係為照顧我國老年農民之老年生活，對於已喪失國籍者，實不應再予照顧，且為避免老年農民領取福利津貼後，長期旅居國外，亦可領取津貼之不合理情形，爰參照國民年金法第三十一條第一項規定，修正原條文第一款規定，對於津貼之請領資格增列須在國內設有戶籍且於最近三年內每年居住應超過一百八十三日。\n　　二、現行老年農民福利津貼之請領資格僅須參加農民健康保險六個月以上，即得申領福利津貼，造成短暫從事農業者即得申領老年農民福利津貼之現象。為照顧真正對農業有長期貢獻之農民生活，並參酌勞工保險條例第五十八條第一項第一款規定，勞工參加勞工保險須加保十五年以上始得領取老年年金給付，對於申領老年農民福利津貼者參加農民健康保險年資，應予適度延長，爰修正原條文第二款。又本條例八十七年十一月十一日修正施行時始將本條例修正前已參加漁會甲類會員納入發放對象，該等漁會甲類會員年資迄今已近十五年，爰本次修正對該等漁民並無影響，併此說明。\n　　三、增訂第二項，考量本次修正施行前已參加農民健康保險，但尚未成就請領老年農民福利津貼資格條件者，須退農民健康保險再轉參加國民年金保險以領取老年年金給付之行政成本，並衡酌國民年金法之老年年金給付金額，對該等於本次修正施行前已參加農民健康保險，且持續加保者，於申領時加保年資合計六個月以上，未滿十五年者，依第四條第一項規定金額減半發給。又因第一項第二款規定僅限於「申領時」農民健康保險加保年資須達十五年以上，對於本次修正施行前已領取本津貼之老年農民，雖其加保年資未達十五年，仍得繼續依第四條第一項規定金額領取本津貼，以保障目前已領取本津貼者之權益。\n　　四、增訂第三項，定明本次修正施行前已領取本津貼者，有未符第一項第一款所定條件之一者，停止發給福利津貼至其原因消失之當月止。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1011109",
-            "立法紀錄": "101卷68期4009號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcecfc9c7cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "潘孟安",
+            "會議日期": "1021220",
+            "立法紀錄": "102卷84期4109號一冊 30-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cc81cecfcdcfc7cbcfcec4cfcfcccfc4cfcfcccf",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc7cfcec5cec7c6d2cec6cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8cdc5c7ced2c7cb"
                 ]
             ]
         },
         {
-            "進度": "一讀",
-            "會議日期": "1021220",
-            "立法紀錄": "102卷84期4109號一冊 30-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcdcfc7cbcfcec4cfcfcccfc4cfcfcccf",
+            "進度": "委員會審查",
+            "會議日期": "1030108",
+            "立法紀錄": "103卷11期4120號 143-218頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cc81cecfcccfcececfcec4cfcecbccc4cfcdcec7",
             "關係文書": []
         },
         {
-            "進度": "一讀",
-            "會議日期": "1030103",
-            "立法紀錄": "103卷5期4114號一冊 49-49頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfcacfcec4cfcfcbc6c4cfcfcbc6",
+            "進度": "委員會審查",
+            "會議日期": "1030526",
+            "立法紀錄": "103卷45期4154號 377-384頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cc81cecfcccfcbcacfcec4cfccc8c8c4cfccc7cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1030114",
-            "立法紀錄": "103卷8期4117號七冊 352-354頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfc7cfc8c4cfcccacdc4cfcccacb",
-            "關係文書": []
+            "會議日期": "1030627",
+            "立法紀錄": "103卷49期4158號一冊 21-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cc81cecfcccfcbc6cfcec4cfcfcdcec4cfcfcdc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5c9cec8d2c9cdcb"
+                ]
+            ]
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "1030109",
-            "立法紀錄": "103卷8期4117號八冊 343-382頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfc7cfc7c4cfcccbccc4cfccc7cd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1030627",
+            "立法紀錄": "103卷49期4158號一冊 262-262頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cc81cecfcccfcbc6cfcec4cfcdc9cdc4cfcdc9cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1030114",
-            "立法紀錄": "103卷8期4117號七冊 354-354頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfc7cfc8c4cfcccacbc4cfcccacb",
+            "會議日期": "1030627",
+            "立法紀錄": "103卷49期4158號一冊 262-265頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cc81cecfcccfcbc6cfcec4cfcdc9cdc4cfcdc9ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1030114",
-            "立法紀錄": "103卷8期4117號七冊 354-355頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cd81cecfcccfcfc7cfc8c4cfcccacbc4cfcccaca",
+            "會議日期": "1030627",
+            "立法紀錄": "103卷49期4158號一冊 265-268頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcec7c8cc81cecfcccfcbc6cfcec4cfcdc9cac4cfcdc9c7",
             "關係文書": []
         }
     ]
