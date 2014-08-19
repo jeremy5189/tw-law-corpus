@@ -1,8 +1,8 @@
 {
     "title": "護理人員法",
     "versions": [
-        "中華民國102年11月26日修正",
-        "中華民國102年12月11日公布"
+        "中華民國103年8月5日修正",
+        "中華民國103年8月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -196,7 +196,7 @@
         {
             "note": "",
             "rule_no": "第二十四條",
-            "content": "　　護理人員之業務如左：\n　　一、健康問題之護理評估。\n　　二、預防保健之護理措施。\n　　三、護理指導及諮詢。\n　　四、醫療輔助行為。\n　　前項第四款醫療輔助行為應在醫師之指示下行之。",
+            "content": "　　護理人員之業務如下：\n　　一、健康問題之護理評估。\n　　二、預防保健之護理措施。\n　　三、護理指導及諮詢。\n　　四、醫療輔助行為。\n　　前項第四款醫療輔助行為應在醫師之指示下行之。\n　　專科護理師及依第七條之一接受專科護理師訓練期間之護理師，除得執行第一項業務外，並得於醫師監督下執行醫療業務。\n　　前項所定於醫師監督下得執行醫療業務之辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -447,146 +447,53 @@
         }
     ],
     "law_reasons": {
-        "第二十五條": "　　一、原條文規定，護理人員執行業務時，應製作紀錄，該紀錄應由執業之機構保存十年。然而，民眾就醫病歷的保存期限，主要依醫療法第七十條所規範，現已由過去保存十年改為七年，兩法規範並不一致，造成護理工作的困擾。\n　　二、醫療法為各類醫療機構、醫療專業人員執業的主要規範，爰修正原條文第二項，將護理紀錄保存期限依醫療法病歷保存規範為依歸。",
-        "第四十四條": "　　鑑於民國九十九年我國行政區域調整劃分後，部分縣市合併改制或直轄市改制為新直轄市，原行政區域內已設立之護理人員公會依原條文規定，應整併為一個同級公會；惟各縣市公會存在已久，強制要求合併或解散，有違政府對人民的信賴保護原則，爰增訂但書規定。",
-        "第四十七條": "　　一、原條文第一項未修正。\n　　二、有鑑於人民團體法第四十條刪除，護理人員為專門執業人員，所從事之業務與公共利益甚密，具較高之社會義務，故應受公會自律，且俾利相關主管機關之政令宣導、組織及管理，為明確規範下級團體之義務，於符合憲法第二十三條之情形下，爰增訂第二項。"
+        "第二十四條": "　　一、現行專科護理師執業範圍並無相關法規之依據，僅有衛生福利部之行政函釋，在現行臨床實務上，有許多情況是在醫師指示下執行之醫療業務，在無法將其明確化的環境下，恐使專科護理師日常執業遊走於密醫罪之法律邊緣。為避免觸法，應賦於專科護理師在醫師指示下可執行的醫療業務之法源依據。\n　　二、因專科護理師必定有護理師資格，故其當然可執行護理人員之業務，增訂第三項明訂之。\n　　三、在現行臨床照護實務上，專科護理師在醫師指示下執行醫療業務所在多有，恐使專科護理師執業遊走於密醫罪之法律邊緣，宜由中央主管機關廣納醫護專業團體意見，訂立出可執業之醫療業務，故增訂第四項，讓可執行之醫療業務明確化。\n　　四、依護理人員法第七條之一規定，護理師需完成相關專科護理師訓練（含學科及臨床），而專科護理師訓練期間，仍有於醫師指示及專科護理師指導下執行相關醫療業務實務訓練之需要，以充實及銜接未來專科護理師之執業範疇，爰增「……及依本法第七條之一接受專科護理師訓練期間之護理師」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020517",
-            "立法紀錄": "102卷32期4057號一冊 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfcccdcfcec4cfcfcdcbc4cfcfcdcb",
+            "會議日期": "1030509",
+            "立法紀錄": "103卷34期4143號 29-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcc81cecfcccfcccbcfcec4cfcfcdc6c4cfcfcdc6",
             "主提案": "蘇清泉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfccceccc8cdc5ccccd2cccb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020503",
-            "立法紀錄": "102卷26期4051號一冊 28-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfcdc9cfcec4cfcfcdc7c4cfcfcdc7",
-            "主提案": "蔡錦隆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecec8cdc5cdccc8d2cdcbcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020924",
-            "立法紀錄": "102卷48期4073號二冊 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfcbc7cfcdc4cfcfcfcac4cfcfcfc9",
-            "主提案": "徐少萍",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcdc8cdc5cdcfc8d2cdcfc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011130",
-            "立法紀錄": "101卷77期4018號一冊 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcecfc8c8cfcec4cfcfcdcbc4cfcfcdcb",
-            "主提案": "劉建國",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcececfcec5c8cbd2c8c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8cdc5c8ced2c8cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1021016",
-            "立法紀錄": "102卷57期4082號 220-291頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfcac8cfcec4cfcdcdcfc4cfcdc6ce",
+            "會議日期": "1030528",
+            "立法紀錄": "103卷46期4155號 4-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcc81cecfcccfcbc9cfcec4cfcfcfcbc4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 240-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcbcfc4cfcdcbcc",
+            "會議日期": "1030805",
+            "立法紀錄": "103卷50期4159號 103-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcc81cecfcccfcacfcfcec4cfcecfccc4cfcecfc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5c6ccd2c6c9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 243-249頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcbccc4cfcdcbc6",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5c6c8d2cecfcd"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 249-253頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcbc6c4cfcdcacc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cecfccd2cecfc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacdcfc8cdc5cdccc6d2cdcbcb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 243-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcbccc4cfcdcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 249-249頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcbc6c4cfcdcbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 253-253頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcaccc4cfcdcacc",
+            "會議日期": "1030805",
+            "立法紀錄": "103卷50期4159號 109-109頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcc81cecfcccfcacfcfcec4cfcecfc6c4cfcecfc6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 243-243頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcbccc4cfcdcbcc",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 249-249頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcbc6c4cfcdcbc6",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1021126",
-            "立法紀錄": "102卷71期4096號一冊 253-253頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbce81cecfcdcfc8cecfcec4cfcdcaccc4cfcdcacc",
+            "會議日期": "1030805",
+            "立法紀錄": "103卷50期4159號 109-110頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcc81cecfcccfcacfcfcec4cfcecfc6c4cfcececf",
             "關係文書": []
         }
     ]
