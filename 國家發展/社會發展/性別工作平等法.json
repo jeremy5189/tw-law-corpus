@@ -1,8 +1,8 @@
 {
     "title": "性別工作平等法",
     "versions": [
-        "中華民國103年5月30日修正",
-        "中華民國103年6月18日公布"
+        "中華民國103年11月21日修正",
+        "中華民國103年12月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -34,7 +34,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第四條",
-            "content": "　　本法所稱主管機關：在中央為行政院勞工委員會；在直轄市為直轄市政府；在縣（市）為縣（市）政府。\n　　本法所定事項，涉及各目的事業主管機關職掌者，由各該目的事業主管機關辦理。",
+            "content": "　　本法所稱主管機關：在中央為勞動部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。\n　　本法所定事項，涉及各目的事業主管機關職掌者，由各該目的事業主管機關辦理。",
             "relates": {}
         },
         {
@@ -96,7 +96,7 @@
         {
             "note": "(性騷擾之定義)",
             "rule_no": "第十二條",
-            "content": "　　本法所稱性騷擾，謂下列二款情形之一：\n　　一、受僱者於執行職務時，任何人以性要求、具有性意味或性別歧視之言詞或行為，對其造成敵意性、脅迫性或冒犯性之工作環境，致侵犯或干擾其人格尊嚴、人身自由或影響其工作表現。\n　　二、雇主對受僱者或求職者為明示或暗示之性要求、具有性意味或性別歧視之言詞或行為，作為勞務契約成立、存續、變更或分發、配置、報酬、考績、陞遷、降調、獎懲等之交換條件。",
+            "content": "　　本法所稱性騷擾，謂下列二款情形之一：\n　　一、受僱者於執行職務時，任何人以性要求、具有性意味或性別歧視之言詞或行為，對其造成敵意性、脅迫性或冒犯性之工作環境，致侵犯或干擾其人格尊嚴、人身自由或影響其工作表現。\n　　二、雇主對受僱者或求職者為明示或暗示之性要求、具有性意味或性別歧視之言詞或行為，作為勞務契約成立、存續、變更或分發、配置、報酬、考績、陞遷、降調、獎懲等之交換條件。\n　　前項性騷擾之認定，應就個案審酌事件發生之背景、工作環境、當事人之關係、行為人之言詞、行為及相對人之認知等具體事實為之。",
             "relates": {}
         },
         {
@@ -112,19 +112,19 @@
         {
             "note": "(生理假)",
             "rule_no": "第十四條",
-            "content": "　　女性受僱者因生理日致工作有困難者，每月得請生理假一日，全年請假日數未逾三日，不併入病假計算，其餘日數併入病假計算。\n　　前項併入及不併入病假之生理假薪資，依各該病假規定辦理。",
+            "content": "　　女性受僱者因生理日致工作有困難者，每月得請生理假一日，全年請假日數未逾三日，不併入病假計算，其餘日數併入病假計算。\n　　前項併入及不併入病假之生理假薪資，減半發給。",
             "relates": {}
         },
         {
-            "note": "(產假、陪產假 、安胎假)",
+            "note": "(產假、產檢假、陪產假)",
             "rule_no": "第十五條",
-            "content": "　　雇主於女性受僱者分娩前後，應使其停止工作，給予產假八星期；妊娠三個月以上流產者，應使其停止工作，給予產假四星期；妊娠二個月以上未滿三個月流產者，應使其停止工作，給予產假一星期；妊娠未滿二個月流產者，應使其停止工作，給予產假五日。\n　　產假期間薪資之計算，依相關法令之規定。\n　　受僱者經醫師診斷需安胎休養者，其治療、照護或休養期間之請假及薪資計算，依相關法令之規定。\n　　受僱者於其配偶分娩時，雇主應給予陪產假三日。\n　　陪產假期間工資照給。",
+            "content": "　　雇主於女性受僱者分娩前後，應使其停止工作，給予產假八星期；妊娠三個月以上流產者，應使其停止工作，給予產假四星期；妊娠二個月以上未滿三個月流產者，應使其停止工作，給予產假一星期；妊娠未滿二個月流產者，應使其停止工作，給予產假五日。\n　　產假期間薪資之計算，依相關法令之規定。\n　　受僱者經醫師診斷需安胎休養者，其治療、照護或休養期間之請假及薪資計算，依相關法令之規定。\n　　受僱者妊娠期間，雇主應給予產檢假五日。\n　　受僱者於其配偶分娩時，雇主應給予陪產假五日。\n　　產檢假及陪產假期間，薪資照給。　",
             "relates": {}
         },
         {
             "note": "(育嬰留職停薪)",
             "rule_no": "第十六條",
-            "content": "　　受僱者任職滿一年後，於每一子女滿三歲前，得申請育嬰留職停薪，期間至該子女滿三歲止，但不得逾二年。同時撫育子女二人以上者，其育嬰留職停薪期間應合併計算，最長以最幼子女受撫育二年為限。\n　　受僱者於育嬰留職停薪期間，得繼續參加原有之社會保險，原由雇主負擔之保險費，免予繳納；原由受僱者負擔之保險費，得遞延三年繳納。\n　　育嬰留職停薪津貼之發放，另以法律定之。\n　　育嬰留職停薪實施辦法，由中央主管機關定之。",
+            "content": "　　受僱者任職滿六個月後，於每一子女滿三歲前，得申請育嬰留職停薪，期間至該子女滿三歲止，但不得逾二年。同時撫育子女二人以上者，其育嬰留職停薪期間應合併計算，最長以最幼子女受撫育二年為限。\n　　受僱者於育嬰留職停薪期間，得繼續參加原有之社會保險，原由雇主負擔之保險費，免予繳納；原由受僱者負擔之保險費，得遞延三年繳納。\n　　依家事事件法、兒童及少年福利與權益保障法相關規定與收養兒童先行共同生活之受僱者，其共同生活期間得依第一項規定申請育嬰留職停薪。\n　　育嬰留職停薪津貼之發放，另以法律定之。\n　　育嬰留職停薪實施辦法，由中央主管機關定之。",
             "relates": {}
         },
         {
@@ -164,9 +164,9 @@
             "relates": {}
         },
         {
-            "note": "(托兒設施或措施)",
+            "note": "(哺（集）乳室、托兒設施或措施之提供)",
             "rule_no": "第二十三條",
-            "content": "　　僱用受僱者二百五十人以上之雇主，應設置托兒設施或提供適當之托兒措施。\n　　主管機關對於雇主設置托兒設施或提供托兒措施，應給予經費補助。\n　　有關托兒設施、措施之設置標準及經費補助辦法，由中央主管機關會商有關機關定之。",
+            "content": "　　僱用受僱者二百五十人以上之雇主，應提供下列設施、措施：\n　　一、哺（集）乳室。\n　　二、托兒設施或適當之托兒措施。\n　　主管機關對於雇主設置哺（集）乳室、托兒設施或提供托兒措施，應給予經費補助。\n　　有關哺（集）乳室、托兒設施、措施之設置標準及經費補助辦法，由中央主管機關會商有關機關定之。",
             "relates": {}
         },
         {
@@ -270,7 +270,7 @@
         {
             "note": "(罰鍰)",
             "rule_no": "第三十八條 之一",
-            "content": "　　雇主違反第七條至第十條、第十一條第一項、第二項或第十三條第一項後段、第二項規定者，處新臺幣十萬元以上五十萬元以下罰鍰。\n　　有前項規定行為之一者，應公布其姓名或名稱、負責人姓名，並限期令其改善；屆期未改善者，應按次處罰。",
+            "content": "　　雇主違反第七條至第十條、第十一條第一項、第二項者，處新臺幣三十萬元以上一百五十萬元以下罰鍰。\n　　雇主違反第十三條第一項後段、第二項規定者，處新臺幣十萬元以上五十萬元以下罰鍰。\n　　有前二項規定行為之一者，應公布其姓名或名稱、負責人姓名，並限期令其改善；屆期未改善者，應按次處罰。",
             "relates": {}
         },
         {
@@ -291,218 +291,77 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　照協商條文通過。",
-        "第三條": "　　照協商條文通過。",
-        "第三十八條": "　　照協商條文通過。",
-        "第三十八條 之一": "　　照協商條文通過。",
-        "第四十條": "　　修正第二項，明定本次修正條文自公布日施行。"
+        "第四條": "　　因應政府組織改造，爰將本法之中央主管機關修正為勞動部。",
+        "第十二條": "　　一、增訂本條第二項。\n　　二、鑑於我國民國100年度性騷擾申訴調查成立案件數目較99年度增加三成，對於性騷擾之認定要件卻無具體規範，爰將現行「性別工作平等法施行細則第四條」規定提升至母法位階，俾利明確性騷擾案件應審酌之具體事實項目與內容，以強化我國性騷擾案件之處理作為。",
+        "第十四條": "　　為使不併入病假計算之生理假薪資，也能減半發給，並讓立法意旨更形明確，爰修正原條文第十四條。",
+        "第十五條": "　　一、新增第四項產檢假。\n　　二、有鑒於婦女於妊娠期間，不僅精神、體力多增加負擔，若同時要兼顧工作，則對於孕婦本身及其家庭都是考驗。尤其受孕後至生產前之產前檢查，係為保護胎兒及母體所為之必要醫療行為，故政府應於法令中明訂產檢假，以方便孕婦進行產前檢查。\n　　三、原條文第四項順移為第五項，產婦產後之恢復和新生兒之照顧，均需配偶之陪伴與照料，原條文僅給予三天陪產假，似有所不足，爰修正將陪產假延長至五日。\n　　四、原條文第五項順移為第六項，配合新增第四項條文，文字酌作修正。",
+        "第十六條": "　　一、將原條文第一項「受僱者任職滿一年後，於每一子女滿三歲前，得申請育嬰留職停薪」，修正為「受僱者任職滿六個月後，於每一子女滿三歲前，得申請育嬰留職停薪」。\n　　二、依現行「兒童及少年福利與權益保障法」與「兒童及少年收出養媒合服務者許可及管理辦法」之規定，收養人與兒童及少年可先行共同生活一段期間，俾使兒少儘早適應新環境，並與收養人建立良好依附關係。\n　　三、依原條文規定，受僱者收養兒童，於先行共同生活期間，雖有親自照顧或委由他人照顧之事實，卻無法比照育有親生子女之受僱者，享有申請育嬰留職停薪之權利，此舉與打造友善收養環境之趨勢相違背。\n　　四、爰新增第三項，明定依家事事件法、兒童及少年福利與權益保障法相關規定與收養兒童先行共同生活之受僱者，其共同生活期間得依第一項規定申請育嬰留職停薪，以打造友善育兒及收養環境。\n　　五、原條文第三項及第四項順移為第四項及第五項。",
+        "第二十三條": "　　一、第十八條規定：「子女未滿一歲須受僱者親自哺乳者，除規定之休息時間外，雇主應每日另給哺乳時間二次，每次以三十分鐘為度。」然，該法相關條文並沒有強制雇主須於工作場所設置哺（集）乳室之規定，造成女性勞動者因欠缺隱密安全的哺乳或儲存母乳空間，以致於立法美意，多半徒具形式，爰修正原條文第一項，明定雇主應設置哺（集）乳室，以確保第十八條之立法意旨得以被落實。\n　　二、修正原條文第二項，雇主於工作場所設置哺（集）乳室，比照設置托兒設施，主管機關給予必要協助及補助。\n　　三、修正原條文第三項，明定「有關哺（集）乳室、托兒設施、措施之設置標準及經費補助辦法，由中央主管機關會商有關機關定之」。",
+        "第三十八條 之一": "　　一、性別工作平等法及就業服務法中雇主對於求職或受僱者有性別歧視之行為時，二法對於違法之雇主罰鍰標準規定不一致。\n　　二、當雇主對求職人或受僱者之行為有違反性別工作平等法第七條至第十一條其中之一條規定時，亦同時違反就業服務法第五條第一項規定，按學理而言，主管機關係依性別工作平等法裁罰，如此對於就業上性別歧視罰則較輕情形下，並無法貫徹憲法消除性別歧視等政策，基於考量違反各種就業歧視罰鍰標準之平衡，爰修正原條文第一項規定。\n　　三、原條文第一項有關違反第十三條第一項後段及第二項之處罰，移列為第二項。\n　　四、原條文第二項移列為第三項，條文未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010420",
-            "立法紀錄": "101卷22期3963號 5-5頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfcdcdcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "盧秀燕",
+            "會議日期": "1011207",
+            "立法紀錄": "101卷81期4022號一冊 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcecfc7cecfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "陳亭妃",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc7cfcec5cdc6c9d2cdc6c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdcfcec5cdc8cbd2cdc8c9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1010511",
-            "立法紀錄": "101卷32期3973號 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfcccdcfcec4cfcfceccc4cfcfcecc",
-            "主提案": "蔣乃辛",
+            "會議日期": "1020503",
+            "立法紀錄": "102卷26期4051號一冊 25-25頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcdcfcdc9cfcec4cfcfcdcac4cfcfcdca",
+            "主提案": "李昆澤",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecececfcec5c6cdd2c6cb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccececfcec5cec9c6d2cec8ce"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1010511",
-            "立法紀錄": "101卷32期3973號 13-13頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfcccdcfcec4cfcfceccc4cfcfcecc",
-            "主提案": "馬文君",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcdcacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "楊瓊瓔",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecececfcec5c6cfd2c6ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8cdc5cdcad2cdc9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1010518",
-            "立法紀錄": "101卷36期3977號 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfccc9cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "尤美女",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 10-10頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcdcacfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "魏明谷",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdcfcec5cdcbc9d2cdcbc7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8cdc5ccccc6d2cccbcd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1010918",
-            "立法紀錄": "101卷51期3992號一冊 17-17頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfcacecfcec4cfcfcec8c4cfcfcec8",
-            "主提案": "趙天麟",
+            "會議日期": "1030502",
+            "立法紀錄": "103卷31期4140號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcccecfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "葉津鈴",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcecfcdc5ccd2ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011019",
-            "立法紀錄": "101卷60期4001號一冊 18-18頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfc9cfcfcec4cfcfcec7c4cfcfcec7",
-            "主提案": "李俊俋",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcacfcec5cec9cfd2cec9ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011026",
-            "立法紀錄": "101卷63期4004號一冊 2-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfc9cccfcec4cfcfcfcdc4cfcfcfcc",
-            "主提案": "吳育仁",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc9cfcec5cecdcfd2cecdcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011026",
-            "立法紀錄": "101卷63期4004號一冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfc9cccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "徐欣瑩",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc9cfcec5cecdcbd2cecdc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011026",
-            "立法紀錄": "101卷63期4004號一冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfc9cccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "邱志偉",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc9cfcec5cecdc7d2cecccf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011228",
-            "立法紀錄": "102卷2期4027號一冊 36-36頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfcfcdcfcec4cfcfccc9c4cfcfccc9",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecacfcec5cdc7c6d2cdc6ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020322",
-            "立法紀錄": "102卷10期4035號一冊 28-28頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfcecfcfcec4cfcfcdc7c4cfcfcdc7",
-            "主提案": "江啟臣",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecacfccc5cdcecbd2cdcec9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020517",
-            "立法紀錄": "102卷32期4057號一冊 25-25頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfcccdcfcec4cfcfcdcac4cfcfcdca",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecccfcec5ceccccd2ceccca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020104",
-            "立法紀錄": "102卷4期4029號一冊 2-2頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfcfcbcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "邱志偉",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec9cfcec5cecacbd2cecac9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020329",
-            "立法紀錄": "102卷12期4037號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfcecdcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "王育敏",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc9cfcdc5c6cad2c6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020409",
-            "立法紀錄": "102卷15期4040號 1-1頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfcecacfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "黃偉哲",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc8cfcec5cbcdd2cbcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020524",
-            "立法紀錄": "102卷34期4059號一冊 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfcccbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "陳淑慧",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbcfcec5cdcec9d2cdcec7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc8c8cdc5cecfccd2cecfcb"
                 ]
             ]
         },
@@ -510,118 +369,163 @@
             "進度": "一讀",
             "會議日期": "1020531",
             "立法紀錄": "102卷38期4063號一冊 68-68頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfccc7cfcec4cfcfc9c7c4cfcfc9c7",
-            "主提案": "陳歐珀",
-            "關係文書": [
-                [
-                    "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecacfcec5cec7c7d2cec7c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020531",
-            "立法紀錄": "102卷38期4063號一冊 68-68頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfccc7cfcec4cfcfc9c7c4cfcfc9c7",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcdcfccc7cfcec4cfcfc9c7c4cfcfc9c7",
             "主提案": "何欣純",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecacfcec5cec7cbd2cec7ca"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecacfcec5cec7c9d2cec7c8"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1021220",
-            "立法紀錄": "102卷84期4109號一冊 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcdcfc7cbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": false,
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 23-23頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcfcacfcec4cfcfcdccc4cfcfcdcc",
+            "主提案": "李慶華",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecac8cdc5c8cad2c8c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec8cfcec5cdcfccd2cdcfca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1021227",
-            "立法紀錄": "103卷3期4112號一冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcccfcfcccfcec4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "1030314",
+            "立法紀錄": "103卷16期4125號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcec9cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "王育敏",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcbcfcdc5cbcdc6d2cbccce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcdcacfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "李慶華",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8cdc5cececad2cecec7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 10-11頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcdcacfcec4cfcfcecfc4cfcfcece",
             "主提案": "江惠貞",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9c8cdc5cececed2cececb"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8cdc5cccbccd2cccbcb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030509",
+            "立法紀錄": "103卷34期4143號 54-54頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcccbcfcec4cfcfcacbc4cfcfcacb",
+            "主提案": "蘇清泉",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc7cfcdc5cdcfced2cdcfcd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030912",
+            "立法紀錄": "103卷51期4160號一冊 2-2頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcacecfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "盧秀燕",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcec8cdc5cecad2cec9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030509",
+            "立法紀錄": "103卷34期4143號 29-29頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcccbcfcec4cfcfcdc6c4cfcfcdc6",
+            "主提案": "吳育仁",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8cdc5c9c8d2c8cf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號一冊 16-16頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcbcccfcec4cfcfcec9c4cfcfcec9",
+            "主提案": "楊曜",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8ccc5cbcfcad2cbcfc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031003",
+            "立法紀錄": "103卷56期4165號 4-4頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfcac9cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "王育敏",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcbc8cdc5cecec6d2cecdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1011203",
-            "立法紀錄": "101卷83期4024號三冊 103-229頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcecfc7cccfccc4cfcecfccc4cfcdcdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1030317",
-            "立法紀錄": "103卷20期4129號 8-74頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcccfcdcfcfcec4cfcfcfc7c4cfcfc8cb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1030331",
-            "立法紀錄": "103卷21期4130號 37-47頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcccfcdcecfcec4cfcfccc8c4cfcfcbc8",
+            "會議日期": "1031030",
+            "立法紀錄": "103卷73期4182號 425-478頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfc8cccfcec4cfcbcdcac4cfcbc8c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號一冊 121-148頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcccfcbcccfcec4cfcecdcec4cfcecbc7",
+            "會議日期": "1031121",
+            "立法紀錄": "103卷83期4192號 50-79頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfc7cccfcec4cfcfcacfc4cfcfc8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c8c5ceccd2ccc9"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecfc7cec5ced2cccd"
                 ]
             ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號一冊 148-167頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcccfcbcccfcec4cfcecbc7c4cfcec9c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c8c5cbc6d2c9c7"
-                ]
-            ]
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1030507",
-            "立法紀錄": "103卷43期4152號四冊 273-290頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcccfcbcccfcbc4cfcdc8ccc4cfcdc6cf",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號一冊 167-169頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcccfcbcccfcec4cfcec9c8c4cfcec9c6",
+            "會議日期": "1031121",
+            "立法紀錄": "103卷83期4192號 79-81頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfc7cccfcec4cfcfc8c6c4cfcfc7ce",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號一冊 169-169頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac981cecfcccfcbcccfcec4cfcec9c6c4cfcec9c6",
+            "會議日期": "1031121",
+            "立法紀錄": "103卷83期4192號 81-82頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c6cfcac881cecfcccfc7cccfcec4cfcfc7cec4cfcfc7cd",
             "關係文書": []
         }
     ]
