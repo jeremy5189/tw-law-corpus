@@ -1,11 +1,11 @@
 {
     "title": "中華電信股份有限公司條例",
     "versions": [
-        "中華民國89年11月14日修正",
-        "中華民國89年11月29日公布"
+        "中華民國103年12月9日廢止",
+        "中華民國103年12月24日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -106,50 +106,58 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十二條": "　　為期保障本公司於移轉民營時依聘用人員聘用條例聘用人員之權利，爰將其聘用期間年資，應併計辦理年資結算，以符公平合理，故於第三項增列但書規定。",
-        "第十二條 之一": "　　一、本條新增。\n　　二、為期公平並突破資位職務相當且性質相近之規定，以保障尚未經銓敘部確認該等人員於本公司民營化時之權利，爰增列第十二條之一，俾有所據。"
-    },
+    "deprecated_reason": "　　中華電信股份有限公司條例係為規範本部所屬公營之中華電信股份有限公司而制定，該條例於85年2月5日公布，並於89年11月29日修正公布在案。由於該公司原為政府與人民合資經營，且政府資本超過百分之五十，屬公營事業。為落實公營事業移轉民營化政策，政府持續釋出原持有該公司之股票，至94年8月12日政府持股比例已低於百分之五十，該公司於是日移轉為民營型態。是以，首揭條例已不再適用，爰依中央法規標準法第21條第2款：「法規規定之事項已執行完畢，或因情勢變遷，無繼續施行之必要者。」規定，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890530",
-            "立法紀錄": "89卷30期3089號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c7c681c7c6cccfcfcfc4cfcfcfccc4cfcfcfcb",
-            "主提案": "曾永權",
+            "會議日期": "1010427",
+            "立法紀錄": "101卷25期3966號 17-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cf81cecfcecfcdcacfcec4cfcfcec8c4cfcfcec7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cecac8d2cec9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc6cfcdc5cdcccbd2cdccc8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011130",
+            "立法紀錄": "101卷77期4018號一冊 25-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cf81cecfcecfc8c8cfcec4cfcfcdcac4cfcfcdca",
+            "主提案": "黃偉哲",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcececfcec5cecfcdd2cecfca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "860619",
-            "立法紀錄": "89卷40期3099號下冊 1-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c7c681c7c6cbcfcfccc4cfcfcfcec4cfcfcdca",
+            "會議日期": "1031112",
+            "立法紀錄": "103卷80期4189號 339-431頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cf81cecfcccfc7cfcfcec4cfccccc6c4cfcbccce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "891114",
-            "立法紀錄": "89卷63期3122號上冊 42-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c7c681c7c6c9cccfcec4cfcfcbcdc4cfcfcac6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "891114",
-            "立法紀錄": "89卷63期3122號上冊 59-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c7c681c7c6c9cccfcec4cfcfcac6c4cfcfc9cc",
-            "關係文書": []
+            "會議日期": "1031209",
+            "立法紀錄": "103卷85期4194號 178-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cf81cecfcccfc7cacfcec4cfcec8c7c4cfcec7cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecdc8c6c5caced2cac9"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "891114",
-            "立法紀錄": "89卷63期3122號上冊 63-65頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c7c681c7c6c9cccfcec4cfcfc9ccc4cfcfc9ca",
+            "會議日期": "1031209",
+            "立法紀錄": "103卷85期4194號 183-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cf81cecfcccfc7cacfcec4cfcec7ccc4cfcec7cc",
             "關係文書": []
         }
     ]
