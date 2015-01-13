@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國103年5月30日修正",
-        "中華民國103年6月18日公布"
+        "中華民國103年12月30日修正",
+        "中華民國104年1月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -254,7 +254,7 @@
         {
             "note": "",
             "rule_no": "第二十六條",
-            "content": "　　納稅義務人因天災、事變或遭受重大財產損失，不能於法定期間內繳清稅捐者，得於規定納稅期間內，向稅捐稽徵機關申請延期或分期繳納，其延期或分期繳納之期間，不得逾三年。",
+            "content": "　　納稅義務人因天災、事變、不可抗力之事由或為經濟弱勢者，不能於法定期間內繳清稅捐者，得於規定納稅期間內，向稅捐稽徵機關申請延期或分期繳納，其延期或分期繳納之期間，不得逾三年。\n　　前項天災、事變、不可抗力之事由、經濟弱勢者之認定及實施方式之辦法，由財政部定之。",
             "relates": {}
         },
         {
@@ -304,7 +304,7 @@
         {
             "note": "",
             "rule_no": "第三十三條",
-            "content": "　　稅捐稽徵人員對於納稅義務人之財產、所得、營業、納稅等資料，除對下列人員及機關外，應絕對保守秘密：\n　　一、納稅義務人本人或其繼承人。\n　　二、納稅義務人授權代理人或辯護人。\n　　三、稅捐稽徵機關。\n　　四、監察機關。\n　　五、受理有關稅務訴願、訴訟機關。\n　　六、依法從事調查稅務案件之機關。\n　　七、經財政部核定之機關與人員。\n　　八、債權人已取得民事確定判決或其他執行名義者。\n　　稅捐稽徵機關對其他政府機關為統計目的而供應資料，並不洩漏納稅義務人之姓名或名稱者，不受前項之限制。\n　　第一項第四款至第八款之人員及機關，對稅捐稽徵機關所提供第一項之資料，不得另作其他目的使用；第一項第四款至第七款之機關人員或第八款之人員，如有洩漏情事，準用第四十三條第三項洩漏秘密之規定。",
+            "content": "　　稅捐稽徵人員對於納稅義務人之財產、所得、營業、納稅等資料，除對下列人員及機關外，應絕對保守秘密：\n　　一、納稅義務人本人或其繼承人。\n　　二、納稅義務人授權代理人或辯護人。\n　　三、稅捐稽徵機關。\n　　四、監察機關。\n　　五、受理有關稅務訴願、訴訟機關。\n　　六、依法從事調查稅務案件之機關。\n　　七、經財政部核定之機關與人員。\n　　八、債權人已取得民事確定判決或其他執行名義者。\n　　稅捐稽徵機關對其他政府機關、學校與教研人員、學術研究機構與研究人員、民意機關與民意代表等為統計、教學、研究與監督目的而供應資料，並不洩漏納稅義務人之姓名或名稱，且符合政府資訊公開法規定者，不受前項之限制。\n　　第一項第四款至第八款之人員及機關，對稅捐稽徵機關所提供第一項之資料，不得另作其他目的使用；第一項第四款至第七款之機關人員或第八款之人員，如有洩漏情事，準用第四十三條第三項洩漏秘密之規定。",
             "relates": {}
         },
         {
@@ -487,60 +487,119 @@
         }
     ],
     "law_reasons": {
-        "第四十八條": "　　一、修正原條文第一項後段，明定「財政部應停止並追回其違章行為所屬年度享受租稅優惠之待遇。」。\n　　二、增列第二項，明定「納稅義務人違反環境保護、勞工、食品安全衛生相關法律且情節重大，租稅優惠法律之中央主管機關應通知財政部停止並追回其違章行為所屬年度享受租稅優惠之待遇。」。"
+        "第二十六條": "　　一、基於避免鉅額稅賦反而新增社會問題之風險，民眾長期欠稅亦非財政機關所樂見，故原條文第一項增訂民眾實際經濟需要之規定。\n　　二、增訂第二項「前項天災、事變、不可抗力之事由、經濟弱勢者之認定及實施方式之辦法，由財政部定之。」。",
+        "第三十三條": "　　一、稅捐稽徵機關擁有納稅義務人之相關資料，係珍貴的公共財，政府有必要也有責任促使其做最充分的利用，發揮最大的效益，以符合「Big Data」的施政理念。\n　　二、原條文只允許稅捐稽徵機關對其他政府機關為統計目的而供應資料，可不受保密之限制，此一規定似有過度嚴苛之嫌。\n　　三、為發揮資訊動態與決策功能，在不洩漏納稅義務人之姓名或名稱下，稅捐機關應擴大開放資料運用機會予學術研究單位與民意機關。爰修正原條文第二項為：「稅捐稽徵機關對其他政府機關、學校與教研人員、學術研究機構與研究人員、民意機關與民意代表等為統計、教學、研究與監督目的而供應資料，並不洩漏納稅義務人之姓名或名稱，且符合政府資訊公開法規定者，不受前項之限制。」。\n　　四、原條文第一項及第三項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1021227",
-            "立法紀錄": "103卷3期4112號一冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac681cecfcccfcfcccfcec4cfcfcfc8c4cfcfcfc8",
+            "會議日期": "1031107",
+            "立法紀錄": "103卷72期4181號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfc8cdcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "李應元",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc6c8cdc5cecad2cec7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030502",
+            "立法紀錄": "103卷31期4140號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfcccecfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "薛凌",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc8cfcec5cecbcbd2cecbca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfcdcacfcec4cfcfcecbc4cfcfcecb",
             "主提案": "曾巨威",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9cfc7c5cccdccd2cccdcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9cfc9c5ccc8ced2ccc8cd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030912",
+            "立法紀錄": "103卷51期4160號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfcacecfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "曾巨威",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcec8cdc5cdcac8d2cdcac7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031107",
+            "立法紀錄": "103卷72期4181號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfc8cdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "賴士葆",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc6c8cdc5c9cad2c9c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031017",
+            "立法紀錄": "103卷62期4171號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfc9cdcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "高志鵬",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc9c8cdc5c7c6d2c6cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1030416",
-            "立法紀錄": "103卷28期4137號 290-328頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac681cecfcccfcdc7cfcec4cfcdc6cfc4cfcccdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1030514",
-            "立法紀錄": "103卷40期4149號 312-393頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac681cecfcccfcbcfcfcec4cfcccecdc4cfccc6cc",
+            "會議日期": "1031210",
+            "立法紀錄": "103卷89期4198號 439-473頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfc7c6cfcec4cfcbccc6c4cfcbc8cc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號二冊 173-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac681cecfcccfcbcccfcdc4cfcec8ccc4cfcec8c9",
+            "會議日期": "1031230",
+            "立法紀錄": "104卷2期4201號一冊 236-246頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcbcfcfcdcfcec4cfcdccc9c4cfcdcbc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdc8c7c5cbcac8d2cbc9cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecac8c6c5cacad2c9c9"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號二冊 176-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac681cecfcccfcbcccfcdc4cfcec8c9c4cfcec8c9",
+            "會議日期": "1031230",
+            "立法紀錄": "104卷2期4201號一冊 246-247頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcbcfcfcdcfcec4cfcdcbc9c4cfcdcbc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號二冊 176-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacecac681cecfcccfcbcccfcdc4cfcec8c9c4cfcec8c9",
+            "會議日期": "1031230",
+            "立法紀錄": "104卷2期4201號一冊 247-247頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcbcfcfcdcfcec4cfcdcbc8c4cfcdcbc8",
             "關係文書": []
         }
     ]
