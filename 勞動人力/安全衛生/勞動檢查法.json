@@ -1,8 +1,8 @@
 {
     "title": "勞動檢查法",
     "versions": [
-        "中華民國91年5月14日修正",
-        "中華民國91年5月29日公布"
+        "中華民國104年1月20日修正",
+        "中華民國104年2月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,7 +22,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本法所稱主管機關：在中央為行政院勞工委員會；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱主管機關：在中央為勞動部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -170,7 +170,7 @@
         {
             "note": "",
             "rule_no": "第二十四條",
-            "content": "　　勞動檢查機構辦理職業災害檢查、鑑定、分析等事項，得由中央主管機關所屬勞工安全衛生研究所或其他學術、研究機構提供必要之技術協助。",
+            "content": "　　勞動檢查機構辦理職業災害檢查、鑑定、分析等事項，得由中央主管機關所屬勞動部勞動及職業安全衛生研究所或其他學術、研究機構提供必要之技術協助。",
             "relates": {}
         },
         {
@@ -224,7 +224,7 @@
         {
             "note": "",
             "rule_no": "第三十三條",
-            "content": "　　勞動檢查機構於受理勞工申訴後，應儘速就其申訴內容派勞動檢查員實施檢查，並應於十四日內將檢查結果通知申訴人。\n　　勞工向工會申訴之案件，由工會依申訴內容查證後，提出書面改善建議送事業單位，並副知申訴人及勞動檢查機構。\n　　事業單位拒絕前項之改善建議時，工會得向勞動檢查機構申請實施檢查。",
+            "content": "　　勞動檢查機構於受理勞工申訴後，應儘速就其申訴內容派勞動檢查員實施檢查，並應於十四日內將檢查結果通知申訴人。\n　　勞工向工會申訴之案件，由工會依申訴內容查證後，提出書面改善建議送事業單位，並副知申訴人及勞動檢查機構。\n　　事業單位拒絕前項之改善建議時，工會得向勞動檢查機構申請實施檢查。\n　　事業單位不得對勞工申訴人終止勞動契約或為其他不利勞工之行為。\n　　勞動檢查機構管理勞工申訴必須保持秘密，不得洩漏勞工申訴人身分。",
             "relates": {}
         },
         {
@@ -279,34 +279,81 @@
         }
     ],
     "law_reasons": {
-        "第二十八條": "　　本條文所稱「勞工有立即發生危險之虞」之情事，原於本法施行細則第三十二條中明列，檢查機構檢查員得據以作成停工處分，因事涉人民權利事項，應以法律定之，爰增訂第二項，授權中央主管機關另行訂定。"
+        "第二條": "　　配合「勞動部組織法」組織改造，修正中央主管機關「行政院勞工委員會」為「勞動部」。",
+        "第二十四條": "　　配合行政院組織改造，將「勞工安全衛生研究所」之權責事項，改由「勞動部勞動及職業安全衛生研究所」管轄。",
+        "第三十三條": "　　一、鑒於我國法規雖明訂有關事業單位違反法定應有勞動條件或其工作環境安全衛生有傷害勞工身體之虞，勞工與工會有申訴之權利。然實務上，權益受損害之勞工，常畏懼雇主逕行報復，對勞工申訴人終止勞動契約或為其他不利勞工之行為，寧可選擇默默忍受或自願離職，導致此法對於申訴勞工之保障，形同具文。\n　　二、綜觀歐美先進國對於吹哨者（whistleblower）之保護規定相當周全，有助於主管機關知悉不肖雇主與事業單位，以促有效規勸、督促改善或進行勞動檢查，反觀我國對於申訴勞工，毫無保障。爰此，增訂第四項，事業單位不得對勞工申訴人終止勞動契約或為其他不利勞工之行為。及第五項，勞動檢查機構管理勞工申訴必須保持秘密，不得洩漏勞工申訴人身分。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 152-154頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfc881c6cecccbcfcec4cfcecacdc4cfcecacb",
-            "主提案": "行政院",
+            "會議日期": "1011228",
+            "立法紀錄": "102卷2期4027號一冊 32-32頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cfc781cecfcdcfcfcdcfcec4cfcfcccdc4cfcfcccd",
+            "主提案": "吳育仁",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcac5ced2cacccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecacfcec5c9c6d2c8ce"
                 ]
             ]
         },
         {
+            "進度": "一讀",
+            "會議日期": "1030509",
+            "立法紀錄": "103卷34期4143號 55-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cfc781cecfcccfcccbcfcec4cfcfcacac4cfcfcaca",
+            "主提案": "蘇清泉",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc7cfcec5cccbc9d2cccbc8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號一冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cfc781cecfcccfcbcccfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "江惠貞",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdcfcec5cbccc7d2cbccc6"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1040107",
+            "立法紀錄": "104卷10期4209號一冊 19-19,27-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cfc781cecfcbcfcecfcfcec4cfcfcec6c4cfcfcec6d9cecfcbcfcecfcfcec4cfcfcdc8c4cfcfc8c6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 323-324頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfc881c6cecccbcfcec4cfcccdccc4cfcccdcb",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 101-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cfc781cecfcbcfcfc6cfcdc4cfcecfcec4cfcecfc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec7c8c7c5cdceced2cdcdcf"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 108-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cfc781cecfcbcfcfc6cfcdc4cfcecfc7c4cfcecfc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "910514",
-            "立法紀錄": "91卷34期3230號上冊 350-350頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbc7cfc881c6cecccbcfcec4cfcccacfc4cfcccacf",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 108-108頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cfc781cecfcbcfcfc6cfcdc4cfcecfc7c4cfcecfc7",
             "關係文書": []
         }
     ]
