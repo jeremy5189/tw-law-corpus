@@ -1,8 +1,8 @@
 {
     "title": "期貨交易法",
     "versions": [
-        "中華民國99年5月18日修正",
-        "中華民國99年6月9日公布"
+        "中華民國104年1月20日修正",
+        "中華民國104年2月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -34,7 +34,7 @@
         {
             "note": "(主管機關)",
             "rule_no": "第四條",
-            "content": "　　本法所稱主管機關，為行政院金融監督管理委員會。",
+            "content": "　　本法所稱主管機關，為金融監督管理委員會。",
             "relates": {}
         },
         {
@@ -835,46 +835,53 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　為配合我國金融監理架構調整，原隸屬於「財政部」之「證券暨期貨管理委員會」已於民國九十三年七月一日行政院金融監督管理委員會組織法實施後，改隸屬於「行政院金融監督管理委員會」，並更名為「證券期貨局」，基於落實我國採取一元化之跨業合併監理模式，修正本法之主管機關。"
+        "第四條": "　　為配合行政院組織改造，更正現行機關名稱，實有必要。故將原條文之行政院金融監督管理委員會修正為金融監督管理委員會。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980320",
-            "立法紀錄": "98卷12期3698號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cec8cfcc81c6c7cecdcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "高志鵬",
+            "會議日期": "1030502",
+            "立法紀錄": "103卷31期4140號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfca81cecfcccfcccecfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "林德福",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5c6cbd2c6ca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc8cfcec5cdcccbd2cdccca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "990429",
-            "立法紀錄": "99卷33期3798號 459-492頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfcc81cfc6c6cfcccccfcec4cfcbcac6c4cfcbc6cd",
+            "會議日期": "1040112",
+            "立法紀錄": "104卷12期4211號三冊 415-415,421-422,430-492頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfca81cecfcbcfcecdcfccc4cfcbcecac4cfcbcecad9cecfcbcfcecdcfccc4cfcbcdcec4cfcbcdcdd9cecfcbcfcecdcfccc4cfcbcccfc4cfcbc6cd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990518",
-            "立法紀錄": "99卷36期3801號 110-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfcc81cfc6c6cfccc9cfcec4cfcececfc4cfcececc",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 176-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfca81cecfcbcfcfc6cfcdc4cfcec8c9c4cfcec8c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacecccfccc5cec6ccd2cec6c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec7c8c7c5cdc6ccd2cdc6c9"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 179-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfca81cecfcbcfcfc6cfcdc4cfcec8c6c4cfcec8c6",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "990518",
-            "立法紀錄": "99卷36期3801號 113-113頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfcc81cfc6c6cfccc9cfcec4cfcececcc4cfcececc",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 179-179頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfca81cecfcbcfcfc6cfcdc4cfcec8c6c4cfcec8c6",
             "關係文書": []
         }
     ]
