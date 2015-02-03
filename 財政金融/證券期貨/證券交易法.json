@@ -1,8 +1,8 @@
 {
     "title": "證券交易法",
     "versions": [
-        "中華民國102年5月21日修正",
-        "中華民國102年6月5日公布"
+        "中華民國104年1月20日修正",
+        "中華民國104年2月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,7 +28,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本法所稱主管機關，為行政院金融監督管理委員會。",
+            "content": "　　本法所稱主管機關，為金融監督管理委員會。",
             "relates": {}
         },
         {
@@ -1449,53 +1449,53 @@
         }
     ],
     "law_reasons": {
-        "第十四條 之一": "　　一、證券交易法在民國99年6月2日時修正第三十六條條文，將年度財務報告的申報日期從每會計年度終了後四個月內改為會計年度終了後三個月內。\n　　二、唯規定公司內部控制聲明書申報期限卻未同步修正，導致內部控制聲明書的申報日期有可能晚於財務報告的申報日期。\n　　三、為使內部控制聲明書與財務報告的申報日期同步，因此修正本條。"
+        "第三條": "　　為配合行政院組織改造，更正現行機關名稱，實有必要。故將原條文之行政院金融監督管理委員會修正為金融監督管理委員會。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1011224",
-            "立法紀錄": "102卷018期4043號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfcc81cecfcdcfcec7cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "費鴻泰",
+            "會議日期": "1030502",
+            "立法紀錄": "103卷31期4140號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfca81cecfcccfcccecfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "林德福",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7c8cdc5cdc8d2cdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc8cfcec5cdcdcdd2cdcdcc"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1020501",
-            "立法紀錄": "102卷030期4055號 7-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfcc81cecfcdcfcccfcfcec4cfcfcfc8c4cfcfcbcd",
+            "會議日期": "1040112",
+            "立法紀錄": "104卷12期4211號三冊 415-415,421-422,430-492頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfca81cecfcbcfcecdcfccc4cfcbcecac4cfcbcecad9cecfcbcfcecdcfccc4cfcbcdcec4cfcbcdcdd9cecfcbcfcecdcfccc4cfcbcccfc4cfcbc6cd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1020521",
-            "立法紀錄": "102卷032期4057號一冊 67-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfcc81cecfcdcfcccdcfcec4cfcfc9c8c4cfcfc8cf",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 164-167頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfca81cecfcbcfcfc6cfcdc4cfcec9cbc4cfcec9c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfccceccc8cac5ced2cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec7c8c7c5cdc8c8d2cdc7cf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1020521",
-            "立法紀錄": "102卷032期4057號一冊 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfcc81cecfcdcfcccdcfcec4cfcfc8cfc4cfcfc8cf",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 167-167頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfca81cecfcbcfcfc6cfcdc4cfcec9c8c4cfcec9c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1020521",
-            "立法紀錄": "102卷032期4057號一冊 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfcc81cecfcdcfcccdcfcec4cfcfc8cfc4cfcfc8cf",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 167-167頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfca81cecfcbcfcfc6cfcdc4cfcec9c8c4cfcec9c8",
             "關係文書": []
         }
     ]
