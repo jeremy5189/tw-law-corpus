@@ -1,8 +1,8 @@
 {
     "title": "會計師法",
     "versions": [
-        "中華民國98年5月26日修正",
-        "中華民國98年6月10日公布"
+        "中華民國104年1月20日修正",
+        "中華民國104年2月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,7 +28,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本法之主管機關，為行政院金融監督管理委員會。",
+            "content": "　　本法之主管機關，為金融監督管理委員會。",
             "relates": {}
         },
         {
@@ -541,47 +541,53 @@
         }
     ],
     "law_reasons": {
-        "第六條": "　　一、九十七年五月二十三日修正公布之民法總則編（禁治產部分）、親屬編（監護部分）及其施行法部分條文，已將「禁治產宣告」修正為「監護宣告」，並增訂「受輔助宣告」之相關規定，爰配合將第一項第二款之受「禁治產宣告」修正為受「監護宣告」，另考量受輔助宣告之人係因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其意思表示效果之能力，顯有不足，以會計師業務涉及公眾權益，其執行業務須運用諸多專業判斷，受輔助宣告者不宜充任，爰於同款增列受輔助宣告尚未撤銷者不得充任會計師之規定；其餘各款未修正。\n　　二、第二項未修正。",
-        "第八十一條": "　　一、原條文列為第一項。\n　　二、配合九十七年五月二十三日修正公布之民法及其施行法修正條文自九十八年十一月二十三日施行，增訂第二項將本法本次修正條文之施行日期亦定自同日施行。"
+        "第三條": "　　為配合行政院組織改造，更正現行機關名稱，實有必要。故將原條文之行政院金融監督管理委員會修正為金融監督管理委員會。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期9700號一冊 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfc681c6c7cecbcfcec4cfcfcfcbc4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "1030502",
+            "立法紀錄": "103卷31期4140號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecf81cecfcccfcccecfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "林德福",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcdc8cdc5cac8d2cec7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc8cfcec5cdccc9d2cdccc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980506",
-            "立法紀錄": "98卷30期3716號 212-246頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfc681c6c7cccfcfcfc4cfcdcecdc4cfcdcbc9",
+            "會議日期": "1040112",
+            "立法紀錄": "104卷12期4211號三冊 415-415,421-422,430-492頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecf81cecfcbcfcecdcfccc4cfcbcecac4cfcbcecad9cecfcbcfcecdcfccc4cfcbcdcec4cfcbcdcdd9cecfcbcfcecdcfccc4cfcbcccfc4cfcbc6cd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980526",
-            "立法紀錄": "98卷34期3720號 211-229頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfc681c6c7cccbcfcfc4cfcdcecec4cfcdcdc6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 173-176頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecf81cecfcbcfcfc6cfcdc4cfcec8ccc4cfcec8c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecbcfccc5cecec6d2cecccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec7c8c7c5cdc7c6d2cdc6cd"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 176-176頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecf81cecfcbcfcfc6cfcdc4cfcec8c9c4cfcec8c9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "980526",
-            "立法紀錄": "98卷34期3720號 230-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcdc9cfc681c6c7cccbcfcfc4cfcdcccfc4cfcdcccf",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號二冊 176-176頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecf81cecfcbcfcfc6cfcdc4cfcec8c9c4cfcec8c9",
             "關係文書": []
         }
     ]
