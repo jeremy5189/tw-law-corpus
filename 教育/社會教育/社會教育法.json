@@ -1,11 +1,11 @@
 {
     "title": "社會教育法",
     "versions": [
-        "中華民國100年12月9日修正",
-        "中華民國100年12月28日公布"
+        "中華民國104年4月21日廢止",
+        "中華民國104年5月6日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -106,87 +106,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　一、修正社會教育任務之內容。\n　　二、在景氣有待回春、失業、貧窮、考試落敗等諸多現象中，社會到處充斥家庭衝突、離婚率提高、家庭關係疏離、青少年犯罪年齡下降、以及沉迷電玩、吸毒、濫用藥物等自我麻痺行為。有自殺傾向者受到內在精神疾病、人格違常等因素，或者外在環境感染性作用影響，相關的防治支援工作除了醫藥、社工與諮商協談外，更需要透過正式與非正式團體積極推廣公益性的志工運動等，因此本法有必要修正，透過社會教育強化社會關懷系統和降低弱勢族群自殺危機。\n　　三、品格教育和公民素質影響社會風氣甚鉅，惟有鼓勵審議式民主架構，展現國人德行風範，使緊張對立的社會衝突降低，拓展多元寬容精神，從宏觀視野建立相互尊重的民主政治，乃責無旁貸的任務。"
-    },
+    "deprecated_reason": "　　一、為使終身學習相關事宜之法制規範更臻完善，爰社會教育法所定事項，已納入終身學習法規範；終身學習法修正案已於103年5月30日經立法院三讀通過，奉　總統於同年6月18日以華總一義字第10300093731號令公布，並自公布日施行。\n　　二、審酌100年12月28日修正公布之社會教育法與103年6月18日修正公布之終身學習法，其立法旨意皆為推展終身學習事宜，且社會教育法之相關規範業由終身學習法相關規定取代；因應終身學習法之修正公布施行，社會教育法已無繼續施行之必要，爰依中央法規標準法第21條第4款規定予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0980612",
-            "立法紀錄": "098卷042期3728號一冊 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc881c6c7cbcdcfcec4cfcfcecec4cfcfcece",
-            "主提案": "郭素春",
+            "會議日期": "1030912",
+            "立法紀錄": "103卷51期4160號一冊 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc781cecfcccfcacecfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfcec5cccfccd2cccfc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "0991231",
-            "立法紀錄": "100卷004期3856號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfcfcbcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "孫大千",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecbcfc9c5cdc8ced2cdc8cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1000107",
-            "立法紀錄": "100卷008期3860號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfcfc7cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "陳淑慧",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecacfcec5cec8cbd2cec8c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcec8ccc5cdcfcad2cdcecf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "0981111",
-            "立法紀錄": "098卷068期3754號 369-406頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcfceccc881c6c7c9c7cfcfc4cfccc9c6c4cfcbcfc9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1001130",
-            "立法紀錄": "100卷087期3939號 88-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfc7c8cfcec4cfcfc7c7c4cfcecac9",
+            "會議日期": "1040325",
+            "立法紀錄": "104卷23期4222號 201-238頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc781cecfcbcfcdcccfcec4cfcdcfcec4cfcdccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1001209",
-            "立法紀錄": "100卷086期3938號 178-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfc7c9cfcec4cfcec8c7c4cfcec7c6",
+            "會議日期": "1040421",
+            "立法紀錄": "104卷29期4228號 339-342頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc781cecfcbcfcdc6cfcec4cfccccc6c4cfcccbcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7ceccc8c9c5c8d2cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc7c8c9c5cacad2c9cf"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1001209",
-            "立法紀錄": "100卷086期3938號 189-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfc7c9cfcec4cfcec7c6c4cfcec7c6",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "1001209",
-            "立法紀錄": "100卷086期3938號 189-190頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc881cecfcfcfc7c9cfcec4cfcec7c6c4cfcec6cf",
+            "會議日期": "1040421",
+            "立法紀錄": "104卷29期4228號 342-342頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfceccc781cecfcbcfcdc6cfcec4cfcccbcdc4cfcccbcd",
             "關係文書": []
         }
     ]
