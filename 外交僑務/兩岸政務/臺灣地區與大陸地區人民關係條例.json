@@ -1,8 +1,8 @@
 {
     "title": "臺灣地區與大陸地區人民關係條例",
     "versions": [
-        "中華民國100年12月6日修正",
-        "中華民國100年12月21日公布"
+        "中華民國104年4月21日修正",
+        "中華民國104年5月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -674,7 +674,7 @@
         {
             "note": "(罰則)",
             "rule_no": "第八十條 之一",
-            "content": "　　大陸船舶違反第三十二條第一項規定，經主管機關扣留者，得處該船舶所有人、營運人或船長、駕駛人新臺幣一百萬元以上一千萬元以下罰鍰。\n　　前項船舶為漁船者，得處其所有人、營運人或船長、駕駛人新臺幣五萬元以上五十萬元以下罰鍰。\n　　前二項所定之罰鍰，由海岸巡防機關執行處罰。",
+            "content": "　　大陸船舶違反第三十二條第一項規定，經扣留者，得處該船舶所有人、營運人或船長、駕駛人新臺幣三十萬元以上一千萬元以下罰鍰。\n　　前項所定之罰鍰，由海岸巡防機關訂定裁罰標準，並執行之。",
             "relates": {}
         },
         {
@@ -839,53 +839,112 @@
         }
     ],
     "law_reasons": {
-        "第八十條 之一": "　　一、本條增訂。\n　　二、本法對於大陸船舶違反第三十二條規定而進入台灣地區或水域者，並無行政罰之規定，為有效執行法律，爰增訂本條。\n　　三、考量漁船越界捕魚違法情節及不法獲利通常輕於一般商船，另從輕規定其罰鍰數額。\n　　四、依實務情況，區別船舶為漁船及漁船以外船舶，分別規定罰鍰額度。並明定本條執行處罰機關，庶免爭議。"
+        "第八十條 之一": "　　一、對於大陸漁船非法從事漁撈或非法漁業行為，嚴重危害我漁業資源、侵害我漁民權益，咸認應予適當提高處罰，俾杜絕類此事件之發生。並為符法制，應明確執行機關，以免解釋疑義。爰刪除原條文第一項『主管機關』等4字，另罰鍰金額修正為新臺幣三十萬元以上一千萬元以下。\n　　二、原條文第二項刪除。\n　　三、原條文第三項改列第二項，並修正為「前項所定之罰鍰，由海岸巡防機關訂定罰鍰標準，並執行之。」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1001028",
-            "立法紀錄": "100卷066期3918號 1-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc9c9cfcec4cfcfcfcec4cfcfcfcd",
-            "主提案": false,
+            "會議日期": "1031024",
+            "立法紀錄": "103卷65期4174號一冊 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcccfc9cacfcec4cfcfcfcac4cfcfcfc9",
+            "主提案": "徐欣瑩",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cfc8c8cdc5ceccd2cecb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc8c8cdc5cecbcad2cecbc7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020524",
+            "立法紀錄": "102卷34期4059號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcdcfcccbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "陳雪生",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbcfcec5cec8cfd2cec8ce"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031024",
+            "立法紀錄": "103卷65期4174號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcccfc9cacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "邱議瑩",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc8c8cdc5cbc8d2cacf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031205",
+            "立法紀錄": "103卷85期4194號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcccfc7cacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "姚文智",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecdc8cdc5cec6d2cdcf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1040122",
+            "立法紀錄": "104卷11期4210號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcbcfcececfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "楊曜",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec6c8cdc5c6c6d2cecfcd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1001128",
-            "立法紀錄": "100卷085期3937號 331-354頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc7cacfcec4cfcccccec4cfcccacb",
+            "會議日期": "1040121",
+            "立法紀錄": "104卷12期4211號三冊 325-325,331-363頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcbcfcecdcfccc4cfcccdcac4cfcccdcad9cecfcbcfcecdcfccc4cfcccccec4cfccc9cc",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1040312",
+            "立法紀錄": "104卷16期4215號 307-307,311-330頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcbcfcec9cfcec4cfcccfc8c4cfcccfc8d9cecfcbcfcec9cfcec4cfcccecec4cfcccccf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1001206",
-            "立法紀錄": "100卷084期3936號 152-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc7cbcfcec4cfcecacdc4cfcecac9",
+            "會議日期": "1040421",
+            "立法紀錄": "104卷29期4228號 342-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcbcfcdc6cfcec4cfcccbcdc4cfcccacb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc7cecdc8c9c5cecad2cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc7c8c9c5c9ced2c8cb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1001206",
-            "立法紀錄": "100卷084期3936號 156-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc7cbcfcec4cfcecac9c4cfcecac9",
+            "會議日期": "1040421",
+            "立法紀錄": "104卷29期4228號 354-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcbcfcdc6cfcec4cfcccacbc4cfcccacb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1001206",
-            "立法紀錄": "100卷084期3936號 156-156頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbce81cecfcfcfc7cbcfcec4cfcecac9c4cfcecac9",
+            "會議日期": "1040421",
+            "立法紀錄": "104卷29期4228號 354-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac7c7cbcfc8cecbcc81cecfcbcfcdc6cfcec4cfcccacbc4cfcccacb",
             "關係文書": []
         }
     ]
