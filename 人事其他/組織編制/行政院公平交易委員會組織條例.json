@@ -1,11 +1,11 @@
 {
     "title": "行政院公平交易委員會組織條例",
     "versions": [
-        "中華民國91年5月21日修正",
-        "中華民國91年6月12日公布"
+        "中華民國104年5月5日廢止",
+        "中華民國104年5月20日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -160,46 +160,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十五條 之一": "　　一、本條新增。\n　　二、依據公平交易法第二十八條規定，公平交易委員會依法獨立行使職權，為保障其不受干擾，特將現行行政院公平交易委員會會議規則第十六條，提升位階定於本組織條例，以強化法源依據。"
-    },
+    "deprecated_reason": "　　「行政院公平交易委員會組織條例」於81年1月13日公布施行。為配合行政院組織改造，本會已依中央行政機關組織基準法第4條第1項第2款及第6條第1項第3款規定，完成「公平交易委員會組織法」之訂定，並經總統於100年11月14日公布，嗣由行政院核定自101年2月6日施行。依據中央法規標準法第21條第4款規定，前開「行政院公平交易委員會組織條例」已無適用之必要，應配合辦理廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910510",
-            "立法紀錄": "91卷33期3229號上冊 11-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c9cd81c6cecccccfcec4cfcfcecec4cfcfcecd",
+            "會議日期": "1010309",
+            "立法紀錄": "101卷4期3945號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c9cc81cecfcecfcfcbcfcec4cfcfcecfc4cfcfcecf",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ced2c8"
-                ],
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfcacfcbc5ccccc7d2ccccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcdc5ceccd2cec8"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "910521",
-            "立法紀錄": "91卷36期3232號上冊 52-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c9cd81c6ceccc9cfcec4cfcfcacdc4cfcfcaca",
+            "進度": "委員會審查",
+            "會議日期": "1040413",
+            "立法紀錄": "104卷30期4229號 1-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c9cc81cecfcbcfcccfcfcec4cfcfcfcec4cfcfcec7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "910521",
-            "立法紀錄": "91卷36期3232號上冊 72-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c9cd81c6ceccc9cfcec4cfcfc8cdc4cfcfc8cc",
-            "關係文書": []
+            "會議日期": "1040505",
+            "立法紀錄": "104卷35期4234號 289-293頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c9cc81cecfcbcfcccacfcec4cfcdc7c6c4cfcdc6cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc6c8c9c5c7c8d2c6cb"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "910521",
-            "立法紀錄": "91卷36期3232號上冊 78-78頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c9cd81c6ceccc9cfcec4cfcfc8c7c4cfcfc8c7",
+            "會議日期": "1040505",
+            "立法紀錄": "104卷35期4234號 293-293頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c9cc81cecfcbcfcccacfcec4cfcdc6ccc4cfcdc6cc",
             "關係文書": []
         }
     ]
