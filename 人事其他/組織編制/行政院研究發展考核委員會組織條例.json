@@ -1,11 +1,11 @@
 {
     "title": "行政院研究發展考核委員會組織條例",
     "versions": [
-        "中華民國90年10月4日修正",
-        "中華民國90年10月17日公布"
+        "中華民國104年5月5日廢止",
+        "中華民國104年5月20日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -136,59 +136,53 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　為促進地方均衡發展，加強中央與地方協調聯繫，爰增訂促進地方發展工作，為本會工作職掌。",
-        "第二條": "　　增訂第六款「地方發展處」，其後款次遞移。",
-        "第七條 之一": "　　一、本條新增。\n　　二、配合修正條文第二條增訂第六款「地方發展處」，爰增列該處職掌。",
-        "第七條 之二": "　　一、本條新增。\n　　二、明定「檔案管理局」設立之法源依據。",
-        "第十一條": "　　一、配合地方發展處之增設，增列處長一人、副處長一人，專門委員四人、科長五人、視察四人、專員二十人、分析師五人、設計師七人、科員十九人、助理設計師七人、辦事員二人、書記三人。\n　　二、增列第二、三項。",
-        "第十九條": "　　配合臺灣省政府功能業務與組織調整暫行條例適用期限，增列本次修正條文之施行日期，由行政院以命令定之。"
-    },
+    "deprecated_reason": "　　配合行政院組織改造，國家發展委員會（以下簡稱國發會）係整合行政院經濟建設委員會、行政院研究發展考核委員會、行政院公共工程委員會及原行政院主計處電子處理資料中心部分業務而整併設立，職掌國家發展綜合規劃、經濟發展、社會發展、產業發展、人力發展、國土區域離島發展、管制考核、政府資訊管理等政策之規劃、協調、審議、資源分配。\n　　102年8月6日三讀通過國家發展委員會及所屬檔案管理局組織法。該等組織法業於103年1月22日公布施行。依「中央法規標準法」第21條第1款及第4款規定，「行政院研究發展考核委員會組織條例」已無保留之必要，故廢止之。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "900327",
-            "立法紀錄": "90卷14期3148號上冊 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7ce81c6cfcecbcfcec4cfcfcecdc4cfcfcecd",
+            "會議日期": "1030221",
+            "立法紀錄": "103卷13期4122號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c7cc81cecfcccfcecccfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcdcfcdc5ccc9cad2ccc8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcecfcec5cec9cdd2cec9cd"
+                ],
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcecfcec5cec9c9d2cec9c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900425",
-            "立法紀錄": "90卷29期3163號 179-200頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7ce81c6cfcdc6cfcfc4cfcec8c6c4cfcdcfcf",
+            "會議日期": "1040413",
+            "立法紀錄": "104卷30期4229號 1-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c7cc81cecfcbcfcccfcfcec4cfcfcfcec4cfcfcec7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "901004",
-            "立法紀錄": "90卷46期3180號下冊 458-478頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7ce81c6cfcbc9cfccc4cfcbcac7c4cfcbc8c7",
+            "會議日期": "1040505",
+            "立法紀錄": "104卷35期4234號 293-295,297-300頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c7cc81cecfcbcfcccacfcec4cfcdc6ccc4cfcdc6cad9cecfcbcfcccacfcec4cfcdc6c8c4cfcccfcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc6cfccc5cdcbc8d2cdc9c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc6c8c9c5c6cad2c6c8"
+                ],
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc6c8c9c5cecfced2cecfcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "901004",
-            "立法紀錄": "90卷46期3180號下冊 479-480頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7ce81c6cfcbc9cfccc4cfcbc8c6c4cfcbc7cf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "901004",
-            "立法紀錄": "90卷46期3180號下冊 480-480頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7ce81c6cfcbc9cfccc4cfcbc7cfc4cfcbc7cf",
+            "會議日期": "1040505",
+            "立法紀錄": "104卷35期4234號 302-302頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c7cc81cecfcbcfcccacfcec4cfcccfcdc4cfcccfcd",
             "關係文書": []
         }
     ]
