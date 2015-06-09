@@ -1,8 +1,8 @@
 {
     "title": "學校法人及其所屬私立學校教職員退休撫卹離職資遣條例",
     "versions": [
-        "中華民國102年11月22日修正",
-        "中華民國102年12月11日公布"
+        "中華民國104年5月22日修正",
+        "中華民國104年6月10日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -272,7 +272,7 @@
         {
             "note": "(準用本條例之人員範圍)",
             "rule_no": "第三十九條",
-            "content": "　　下列私立學校編制內專任合格有給人員之退休、資遣、離職及撫卹給與事項，準用本條例之規定辦理：\n　　一、依大學研究人員聘任辦法聘任之研究人員。\n　　二、依大學聘任專業技術人員擔任教學辦法聘任之專業技術人員。\n　　三、依專科學校專業及技術教師遴聘辦法遴用之專業或技術教師。\n　　四、外籍人士擔任各級已立案私立學校編制內專任合格有給教師及前三款人員。\n　　已完成財團法人登記之私立幼稚園園長及其教職員，亦準用本條例相關規定。",
+            "content": "　　下列私立學校編制內專任合格有給人員之退休、資遣、離職及撫卹給與事項，準用本條例之規定辦理：\n　　一、依大學研究人員聘任辦法聘任之研究人員。\n　　二、依大學聘任專業技術人員擔任教學辦法聘任之專業技術人員。\n　　三、依專科學校專業及技術教師遴聘辦法遴用之專業或技術教師。\n　　四、外籍人士擔任各級已立案私立學校編制內專任合格有給教師及前三款人員。\n　　已完成財團法人登記之私立幼兒園園長及其教職員，亦準用本條例相關規定。",
             "relates": {}
         },
         {
@@ -289,54 +289,53 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　一、原條文第一項至第七項未修正。\n　　二、由於立法院審議教育部九十九年度及一百零一年度中央政府總預算時作成決議，要求該部研擬建立退休公務人員轉任受政府獎（補）助私校之薪資規範，俾杜絕爭議，並符社會公平正義。爰增訂第八項，明定私立學校教職員由已領退休（職、伍）金之公務人員、教育人員、政務人員、軍職人員、公營事業人員及其他公職人員轉任者，第四項第四款所定學校主管機關之撥繳責任，由私立學校負擔。原條文第八項以下項次依序遞移。",
-        "第四十一條": "　　一、原條文第一項未修正。\n　　二、增訂第二項，定明本條例修正條文自公布日施行。"
+        "第三十九條": "　　一、原條文第一項未修正。\n　　二、依幼兒教育及照顧法規定，托兒所及幼稚園均應改制為幼兒園，且迄今改制作業均已完成，為配合相關規定及實務，爰將原條文第二項所定「幼稚園」修正為「幼兒園」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010518",
-            "立法紀錄": "101卷36期3977號 10-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecec781cecfcecfccc9cfcec4cfcfcecfc4cfcfcece",
+            "會議日期": "1030314",
+            "立法紀錄": "103卷16期4125號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecdcf81cecfcccfcec9cfcec4cfcfcecbc4cfcfcecb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdcfcec5cbcec7d2cbcdcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcbcfcec5cdcfc6d2cdcece"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1020516",
-            "立法紀錄": "102卷39期4064號 1-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecec781cecfcdcfccc6cfcec4cfcfcfcec4cfcfcbc8",
+            "會議日期": "1040427",
+            "立法紀錄": "104卷37期4236號 1-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecdcf81cecfcbcfccc8cfcec4cfcfcfcec4cfcecfcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 173-179頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecec781cecfcdcfc8cecfcec4cfcec8ccc4cfcec8c6",
+            "會議日期": "1040522",
+            "立法紀錄": "104卷44期4243號一冊 253-256頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecdcf81cecfcbcfcbcbcfcec4cfcdcaccc4cfcdcac9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cdccd2cdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecdc8c7c5cccad2ccc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 179-180頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecec781cecfcdcfc8cecfcec4cfcec8c6c4cfcec7cf",
+            "會議日期": "1040522",
+            "立法紀錄": "104卷44期4243號一冊 256-256頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecdcf81cecfcbcfcbcbcfcec4cfcdcac9c4cfcdcac9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 180-180頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecec781cecfcdcfc8cecfcec4cfcec7cfc4cfcec7cf",
+            "會議日期": "1040522",
+            "立法紀錄": "104卷44期4243號一冊 256-256頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cecdcf81cecfcbcfcbcbcfcec4cfcdcac9c4cfcdcac9",
             "關係文書": []
         }
     ]
