@@ -1,11 +1,11 @@
 {
     "title": "科學工業園區管理局組織條例",
     "versions": [
-        "中華民國92年6月6日修正",
-        "中華民國92年6月25日公布"
+        "中華民國104年5月26日廢止",
+        "中華民國104年6月10日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -100,62 +100,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　配合科學工業園區設置管理條例之修正，修正引用法源之條次。",
-        "第二條": "　　配合科學工業園區設置管理條例之修正，修正引用法源之條次並酌作文字修正。",
-        "第十一條": "　　依九十一年十二月十八日修正公布之科學工業園區設置管理條例第八條第六款規定辦理增列消防單位及消防業務。"
-    },
+    "deprecated_reason": "　　「科技部組織法」、「科技部新竹科學工業園區管理局組織法」、「科技部中部科學工業園區管理局組織法」、「科技部南部科學工業園區管理局組織法」，業經立法院審議完畢並經總統103年1月22日公布，103年3月3日施行，行政院並依「中央行政機關組織基準法」核定科技部及所屬機關組織法規據以銜接適用。依據「中央法規標準法」第21條第4款規定，科學工業園區管理局組織條例已無適用之必要，配合辦理廢止，俾完備法制作業。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "920321",
-            "立法紀錄": "92卷14期3288號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcecbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "呂學樟",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 28-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcec7cf81cecfcccfcdcacfcec4cfcfcdc7c4cfcfcdc7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cec7cad2cec7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "920321",
-            "立法紀錄": "92卷14期3288號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcecbcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "民進黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccfcbcfcec5cec7ced2cec7cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9cfcdc5cdcbcdd2cdcace"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920528",
-            "立法紀錄": "92卷35期3309號下冊 145-166頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcccacfccc4cfcecbcac4cfcec9c9",
+            "會議日期": "1040427",
+            "立法紀錄": "104卷37期4236號 1-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcec7cf81cecfcbcfccc8cfcec4cfcfcfcec4cfcecfcc",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 142-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcccbcfccc4cfcecbcdc4cfcecbc6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040526",
+            "立法紀錄": "104卷44期4243號二冊 253-261頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcec7cf81cecfcbcfcbcbcfcdc4cfcdcaccc4cfcdc9ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccecacfcbc5cbcbc8d2cbcacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecdc8c7c5cccac8d2ccc9cc"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "920606",
-            "立法紀錄": "92卷34期3308號三冊 149-149頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8c781c6cdcccbcfccc4cfcecbc6c4cfcecbc6",
+            "會議日期": "1040526",
+            "立法紀錄": "104卷44期4243號二冊 261-261頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcec7cf81cecfcbcfcbcbcfcdc4cfcdc9cec4cfcdc9ce",
             "關係文書": []
         }
     ]
