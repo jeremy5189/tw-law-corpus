@@ -1,12 +1,12 @@
 {
     "title": "法務部司法官訓練所組織條例",
     "versions": [
-        "中華民國69年7月18日全文修正",
-        "中華民國69年8月1日公布"
+        "中華民國104年5月26日廢止",
+        "中華民國104年6月10日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -88,51 +88,45 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　為配合行政院組織改造，法務部司法官訓練所改制為法務部司法官學院，總統於102年5月22日制定公布「法務部司法官學院組織法」，並自102年7月1日施行。依「法務部司法官學院組織法」第一條規定：「法務部為辦理司法人員之培訓業務及犯罪、刑事政策研究，特設法務部司法官學院（以下簡稱本學院）。」另依中央法規標準法第21條第4款規定：「法規有左列情形之一者，廢止之：……四、同一事項已定有新法規，並公布或發布施行者。」及第22條第1項規定：「法律之廢止，應經立法院通過，總統公布。」爰將「法務部司法官訓練所組織條例」廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "690627",
-            "立法紀錄": "69卷52期1328號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc6c881c9c6c9cacacdcfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "1020924",
+            "立法紀錄": "102卷48期4073號二冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc6c681cecfcdcfcbc7cfcdc4cfcfcfc6c4cfcfcfc6",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5cbcfcbd2cbcece"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcdcfcec5cbcbcfd2cbcbce"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "690707",
-            "立法紀錄": "69卷98期1374號 59-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc6c881c9c6c9c9c6c7cfcfc4cfcfcac6c4cfcfc8cc",
+            "會議日期": "1040430",
+            "立法紀錄": "104卷38期4237號 65-65,67-119頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc6c681cecfcbcfccc7cfcec4cfcfc9cac4cfcfc9cad9cecfcbcfccc7cfcec4cfcfc9c8c4cfcecec6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "690715",
-            "立法紀錄": "69卷57期1333號 5-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc6c881c9c6c9cacac8cfcfc4cfcfcfcac4cfcfcec9",
+            "會議日期": "1040526",
+            "立法紀錄": "104卷44期4243號二冊 268-270頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc6c681cecfcbcfcbcbcfcdc4cfcdc9c7c4cfcdc8cf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9cacfcacfcfc5c9cdc6d2c9ccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8ceccc8c6c5cccad2ccc7"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "690715",
-            "立法紀錄": "69卷57期1333號 16-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc6c881c9c6c9cacac8cfcfc4cfcfcec9c4cfcfcec6",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "690718",
-            "立法紀錄": "69卷58期1334號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcfc6c881c9c6c9cacac7cfcfc4cfcfcfcbc4cfcfcfca",
+            "會議日期": "1040526",
+            "立法紀錄": "104卷44期4243號二冊 270-270頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfc6c681cecfcbcfcbcbcfcdc4cfcdc8cfc4cfcdc8cf",
             "關係文書": []
         }
     ]
