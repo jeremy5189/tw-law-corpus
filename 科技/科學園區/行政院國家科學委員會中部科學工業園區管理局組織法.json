@@ -1,11 +1,11 @@
 {
     "title": "行政院國家科學委員會中部科學工業園區管理局組織法",
     "versions": [
-        "中華民國96年1月9日制定",
-        "中華民國96年1月24日公布"
+        "中華民國104年5月26日廢止",
+        "中華民國104年6月10日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -46,58 +46,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　本局之設立目的及隸屬關係。",
-        "第二條": "　　本局之權限職掌。",
-        "第三條": "　　本局首長、副首長之職稱、官職等及員額。",
-        "第四條": "　　本局幕僚長之職稱及官職等。",
-        "第五條": "　　本局人員之官等職等及人員，授權另定編制表。",
-        "第六條": "　　本法施行日期。"
-    },
+    "deprecated_reason": "　　「科技部組織法」、「科技部新竹科學工業園區管理局組織法」、「科技部中部科學工業園區管理局組織法」、「科技部南部科學工業園區管理局組織法」，業經立法院審議完畢並經總統103年1月22日公布，103年3月3日施行，行政院並依「中央行政機關組織基準法」核定科技部及所屬機關組織法規據以銜接適用。依據「中央法規標準法」第21條第4款規定，行政院國家科學委員會中部科學工業園區管理局組織法已無適用之必要，配合辦理廢止，俾完備法制作業。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "951110",
-            "立法紀錄": "95卷48期3509號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfcd81c6cacbc7cfcec4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 28-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfcfcc81cecfcccfcdcacfcec4cfcfcdc7c4cfcfcdc7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfc8c8cdc5cececcd2cecec9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9cfcdc5cdcbcdd2cdcace"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "951214",
-            "立法紀錄": "96卷5期3528號 37-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfcd81c6c9cfcacfcfc4cfcfccc8c4cfcfcac7",
+            "會議日期": "1040427",
+            "立法紀錄": "104卷37期4236號 1-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfcfcc81cecfcbcfccc8cfcec4cfcfcfcec4cfcecfcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "960109",
-            "立法紀錄": "96卷10期3533號二冊 570-575頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfcd81c6c9cecfcfcdc4cfcac8cfc4cfcac8ca",
+            "會議日期": "1040526",
+            "立法紀錄": "104卷44期4243號二冊 253-261頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfcfcc81cecfcbcfcbcbcfcdc4cfcdcaccc4cfcdc9ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcecbc8cbc5ccc6c8d2cbcfcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecdc8c7c5cccac8d2ccc9cc"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960109",
-            "立法紀錄": "96卷10期3533號二冊 575-576頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfcd81c6c9cecfcfcdc4cfcac8cac4cfcac8c9",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "960109",
-            "立法紀錄": "96卷10期3533號二冊 576-576頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcfcd81c6c9cecfcfcdc4cfcac8c9c4cfcac8c9",
+            "會議日期": "1040526",
+            "立法紀錄": "104卷44期4243號二冊 261-261頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfcfcc81cecfcbcfcbcbcfcdc4cfcdc9cec4cfcdc9ce",
             "關係文書": []
         }
     ]
