@@ -1,11 +1,11 @@
 {
     "title": "國立歷史博物館組織條例",
     "versions": [
-        "中華民國84年12月15日全文修正",
-        "中華民國85年1月3日公布"
+        "中華民國104年5月26日廢止",
+        "中華民國104年6月10日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,65 +82,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　本館因應社會發展及業務實際需要修正職掌，以彰顯國家歷史博物館之功能。",
-        "第二條": "　　一、第一款至第三款配合業務需要酌作修正。\n　　二、國家博物館功能除靜態的保存歷史文物，更需透過推廣手段，使優良的傳統文化宏揚於社會大眾及世界各國，加強社會大眾對文化各層面之深入瞭解，並進而促使其融貫文化傳統於現代生活之中，並以國際性交換展出以增進對當代世界文化發展之認識，進而建立合宜的文化認同，基於以上考慮，增設「推廣教育組」辦理上述工作。\n　　三、將總務組改設為秘書室（詳如修正條文第三條）。",
-        "第三條": "　　一、本條新增。\n　　二、由原條文第二條第四款總務組改設，以期事權統一發揮其應有功能。",
-        "第四條": "　　一、條次變更。\n　　二、增列副館長一人，襄助館務。\n　　三、為羅致專業人才，增列館長，或比照專科以上學校校長之資格聘任。副館長一人必要時得由研究員兼任。",
-        "第五條": "　　一、條次變更。\n　　二、本條由原條文第四條、第五條及第八條改列，並調整所置人員之職稱、職等及員額。\n　　三、為應本館未來業務發展需要，增置技正、專員、技士、組員及辦事員等職務；其中組員係由幹事改設。並作文字修正。\n　　四、增列第三項以保障現職雇員之權益。",
-        "第六條": "　　一、本條新增。\n　　二、為延攬博物館專業學者專家及應業務發展需要，設置研究員、副研究員、編譯、助理研究員、助理編輯等職務，均為聘任。\n　　三、導覽員係為辦理本館歷史文物展覽解說及推廣教育業務而設，為聘任。",
-        "第七條": "　　為應業務需要，將原人事管理員改設人事室，並規定其所置人員之職稱、職等及員額。",
-        "第八條": "　　一、條次變更。\n　　二、文字修正並明定其所置人員之職稱、職等及員額。",
-        "第九條": "　　一、本條新增。\n　　二、明定各職稱、職務之適用職系。",
-        "第十條": "　　一、條次變更。\n　　二、為配合社會教學工作，增列「為應學術研究需要」及「學者」字樣。並將「呈准教育部」等文字刪除。",
-        "第十一條": "　　條次變更，並作文字修正。",
-        "第十二條": "　　條次變更。"
-    },
+    "deprecated_reason": "　　為配合行政院組織改造作業，文化部及所屬組織法業自101年5月20日施行，其中原教育部所屬國立歷史博物館、國立中正紀念堂管理處及國立國父紀念館已於同日改隸文化部，爰依中央法規標準法第21條第4款規定廢止國立歷史博物館組織條例。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "820323",
-            "立法紀錄": "82卷15期2614號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdc9c681c7cdcecacfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "1010928",
+            "立法紀錄": "101卷52期3993號一冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc8cf81cecfcecfcacdcfcec4cfcfcecdc4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcecfc8cfcfc5cac6d2c9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcecfcdc5ccc7c9d2ccc6ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "840622",
-            "立法紀錄": "84卷42期2799號下冊 299-322頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdc9c681c7cbcbcdcfccc4cfcdc6c6c4cfcccdcd",
+            "會議日期": "1040427",
+            "立法紀錄": "104卷37期4236號 1-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc8cf81cecfcbcfccc8cfcec4cfcfcfcec4cfcecfcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "841215",
-            "立法紀錄": "84卷63期2820號上冊 8-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdc9c681c7cbc9cccfcec4cfcfcfc7c4cfcfcdcf",
+            "會議日期": "1040526",
+            "立法紀錄": "104卷44期4243號二冊 261-267頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc8cf81cecfcbcfcbcbcfcdc4cfcdc9cec4cfcdc9c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfc9cfc6cfcfc5c8cec6d2c8cdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecdc8c7c5ccc9c6d2ccc7cf"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "841215",
-            "立法紀錄": "84卷63期2820號上冊 20-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdc9c681c7cbc9cccfcec4cfcfcdcfc4cfcfcdca",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "841215",
-            "立法紀錄": "84卷63期2820號上冊 25-25頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcdc9c681c7cbc9cccfcec4cfcfcdcac4cfcfcdca",
+            "會議日期": "1040526",
+            "立法紀錄": "104卷44期4243號二冊 267-268頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcdc8cf81cecfcbcfcbcbcfcdc4cfcdc9c8c4cfcdc9c7",
             "關係文書": []
         }
     ]
