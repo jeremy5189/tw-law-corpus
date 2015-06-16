@@ -1,8 +1,8 @@
 {
     "title": "地方制度法",
     "versions": [
-        "中華民國104年1月23日修正",
-        "中華民國104年2月4日公布"
+        "中華民國104年5月29日修正",
+        "中華民國104年6月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -34,7 +34,7 @@
         {
             "note": "(直轄市、市及縣轄市設置標準)",
             "rule_no": "第四條",
-            "content": "　　人口聚居達一百二十五萬人以上，且在政治、經濟、文化及都會區域發展上，有特殊需要之地區得設直轄市。\n　　縣人口聚居達二百萬人以上，未改制為直轄市前，於第三十四條、第五十四條、第五十五條、第六十二條、第六十六條、第六十七條及其他法律關於直轄市之規定，準用之。\n　　人口聚居達五十萬人以上未滿一百二十五萬人，且在政治、經濟及文化上地位重要之地區，得設市。\n　　人口聚居達十五萬人以上未滿五十萬人，且工商發達、自治財源充裕、交通便利及公共設施完全之地區，得設縣轄市。\n　　本法施行前已設之直轄市、市及縣轄市，得不適用第一項、第三項及第四項之規定。",
+            "content": "　　人口聚居達一百二十五萬人以上，且在政治、經濟、文化及都會區域發展上，有特殊需要之地區得設直轄市。\n　　縣人口聚居達二百萬人以上，未改制為直轄市前，於第三十四條、第五十四條、第五十五條、第六十二條、第六十六條、第六十七條及其他法律關於直轄市之規定，準用之。\n　　人口聚居達五十萬人以上未滿一百二十五萬人，且在政治、經濟及文化上地位重要之地區，得設市。\n　　人口聚居達十萬人以上未滿五十萬人，且工商發達、自治財源充裕、交通便利及公共設施完全之地區，得設縣轄市。\n　　本法施行前已設之直轄市、市及縣轄市，得不適用第一項、第三項及第四項之規定。",
             "relates": {}
         },
         {
@@ -705,19 +705,71 @@
         }
     ],
     "law_reasons": {
-        "第七十九條": "　　原條文第一項第四款規定直轄市議員……遭法院判刑定讞，「未受緩刑宣告」或「未執行易科罰金者」，由各權責機關解除其公職職務，其立法目的在避免因議員等公職人員涉案入監服刑，其行使職權、職務陷於中斷，致影響人民付託。立法院為符合變遷中社會實際需求，關於刑法第四十一條易科罰金之規定先後於98 年1 月21 日、12月30 日為修正，該條第二項「依前項規定得易科罰金而未聲請易科罰金者，得易服社會勞動。」第三項「受六月以下有期徒刑…宣告，…得易服社會勞動。」可知被告所犯之罪縱使不得易科罰金，其經判決確定之刑罰如為六月以下有期徒刑或拘役，執行時猶有易服社會勞動之可能性。易科罰金，又稱代替刑，將原屬自由刑之刑期，更易為罰金刑之執行，旨在防止短期自由刑流弊及其嚴厲性。易科罰金、易服社會勞動，其立法目的具同質性，故因應刑法修正，原條文第一項第四款亦有修正之必要。"
+        "第四條": "　　民國66年內政部修訂縣轄市人口門檻從10萬人改為15萬人，民國68年1月1日台北縣中和市與永和市為首批改制縣轄市的鄉鎮，但自民國69年開始，國內每年的出生人口數從40餘萬人一路下降，近10年來的少子化情勢更加明確，因為人口成長漸趨緩慢，自民國88年樹林鎮改制後，曾有長達11年無縣轄市改制，直到民國99年8月1日楊梅鎮改制後才結束長達11年的改制空窗。\n　　既然少子化已經成為必然趨勢，如何將國家有序的轉型成為低人口密度的國家則是政府不可迴避的課題，政府在人口高成長時代所制定的地方制度法有必要進行檢討，為了避免鄉鎮間爭取改制縣轄市進行強行整併，導致凝聚鄉親情感的庄頭文化流失及地域分割後，在地產業外移造成公所稅收大幅減少之困境，爰將原條文第四項縣轄市15萬人口門檻下修正至10萬人，以符合台灣現況發展。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010504",
-            "立法紀錄": "101卷28期3969號 3-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c7c6c681cecfcecfcdc7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "吳秉叡",
+            "會議日期": "1010413",
+            "立法紀錄": "101卷21期3962號 6-6頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcecfcdcecfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "魏明谷",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececfcfcec5cec9c6d2cec8ce"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8cfcec5cecacbd2cecac8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1021206",
+            "立法紀錄": "102卷77期4102號一冊 19-19頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcdcfc8c8cfcec4cfcfcec6c4cfcfcec6",
+            "主提案": "黃文玲",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecccfcec5cec6c7d2cec6c6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030103",
+            "立法紀錄": "103卷5期4114號一冊 35-35頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcccfcfcacfcec4cfcfcccac4cfcfccca",
+            "主提案": "鄭汝芬",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec8c7cdc5cecad2cec7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031121",
+            "立法紀錄": "103卷83期4192號 1-1頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcccfc7cccfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "林滄敏",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecec8cdc5ced2cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1040410",
+            "立法紀錄": "104卷25期4224號 4-5頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcbcfcdcacfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "陳素月",
+            "關係文書": [
+                [
+                    "提案",
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc8c8cdc5ceccccd2ceccc9"
                 ]
             ]
         },
@@ -725,47 +777,54 @@
             "進度": "委員會審查",
             "會議日期": "1020418",
             "立法紀錄": "102卷25期4050號 135-142頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c7c6c681cecfcdcfcdcacfcec4cfcecccac4cfcecbcd",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcdcfcdcacfcec4cfcecccac4cfcecbcd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "1020529",
             "立法紀錄": "102卷43期4068號 211-211,213-283頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c7c6c681cecfcdcfcbcccfcec4cfcdcecec4cfcdceced9cecfcdcfcbcccfcec4cfcdceccc4cfcdc7cc",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcdcfcbcccfcec4cfcdcecec4cfcdceced9cecfcdcfcbcccfcec4cfcdceccc4cfcdc7cc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
             "會議日期": "1040105",
-            "立法紀錄": "104卷8期4207號 337-391頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c7c6c681cecfcbcfcfc7cfcec4cfccccc8c4cfccc6ce",
+            "立法紀錄": "104卷8期4207號 337-392頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcbcfcfc7cfcec4cfccccc8c4cfccc6cd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1040518",
+            "立法紀錄": "104卷46期4245號 175-181頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcbcfcbc9cfcec4cfcec8cac4cfcec7ce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號六冊 439-444頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c7c6c681cecfcbcfcececfc9c4cfcbccc6c4cfcbcbcb",
+            "會議日期": "1040529",
+            "立法紀錄": "104卷47期4246號 125-137頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcbcfcbc8cfcec4cfcecdcac4cfceccc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec6c8c8c5c9caccd2c9cac7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecbc8c6c5c6cad2cecfc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號六冊 444-445頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c7c6c681cecfcbcfcececfc9c4cfcbcbcbc4cfcbcbca",
+            "會議日期": "1040529",
+            "立法紀錄": "104卷47期4246號 137-137頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcbcfcbc8cfcec4cfceccc8c4cfceccc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號六冊 445-445頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c7c6c681cecfcbcfcececfc9c4cfcbcbcac4cfcbcbca",
+            "會議日期": "1040529",
+            "立法紀錄": "104卷47期4246號 137-138頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccbcfc7c7c6cfcf81cecfcbcfcbc8cfcec4cfceccc8c4cfceccc7",
             "關係文書": []
         }
     ]
