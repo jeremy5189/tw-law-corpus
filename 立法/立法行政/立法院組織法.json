@@ -1,8 +1,8 @@
 {
     "title": "立法院組織法",
     "versions": [
-        "中華民國101年11月9日修正",
-        "中華民國101年11月14日公布"
+        "中華民國104年6月9日修正",
+        "中華民國104年6月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -114,7 +114,7 @@
         {
             "note": "",
             "rule_no": "第十八條",
-            "content": "　　公報處掌理下列事項：\n　　一、關於本院會議及委員會會議之錄影錄音事項。\n　　二、關於本院會議及委員會會議之速記事項。\n　　三、關於公報編印及發行事項。\n　　四、關於各類文件之印刷事項。\n　　五、關於錄影錄音之複製及發行事項。\n　　六、其他有關公報事項。",
+            "content": "　　公報處掌理下列事項：\n　　一、關於本院會議及委員會會議之錄影錄音及轉播事項。\n　　二、關於本院會議及委員會會議之速記事項。\n　　三、關於公報編印及發行事項。\n　　四、關於各類文件之印刷事項。\n　　五、關於錄影錄音之複製及發行事項。\n　　六、其他有關公報事項。",
             "relates": {}
         },
         {
@@ -263,41 +263,53 @@
         }
     ],
     "law_reasons": {
-        "第三十二條": "　　參考地方制度法第五十二條與地方民意代表費用支給及村里長事務補助費補助條例，爰明定立法委員辦公事務等必要費用之項目及標準。"
+        "第十八條": "　　立法院公報處職掌範圍之一，除「關於本院會議及委員會會議之錄影錄音事項」之外，還包括非常重要之透過網際網路多媒體隨選視訊系統（IVOD）轉播院會及各委員會開會實況。惟現行立法院組織法中卻漏未規定，爰增訂之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1011109",
-            "立法紀錄": "101卷068期4009號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c881cecfcecfc9c7cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "國民黨黨團",
+            "會議日期": "1010601",
+            "立法紀錄": "101卷43期3984號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c681cecfcecfcbcccfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "台灣團結聯盟黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc7c8cdc5ced2cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbcfcec5ccc8c7d2ccc8c6"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1011109",
-            "立法紀錄": "101卷068期4009號一冊 50-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c881cecfcecfc9c7cfcec4cfcfcacfc4cfcfcacd",
+            "進度": "委員會審查",
+            "會議日期": "1040518",
+            "立法紀錄": "104卷46期4245號 75-75,78-114頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c681cecfcbcfcbc9cfcec4cfcfc8cac4cfcfc8cad9cecfcbcfcbc9cfcec4cfcfc8c7c4cfcececb",
             "關係文書": []
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040609",
+            "立法紀錄": "104卷51期4250號二冊 219-222頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c681cecfcbcfcacecfcdc4cfcdcec6c4cfcdcdcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecac8c6c5ceccc8d2cecbcf"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1011109",
-            "立法紀錄": "101卷068期4009號一冊 52-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c881cecfcecfc9c7cfcec4cfcfcacdc4cfcfcacd",
+            "會議日期": "1040609",
+            "立法紀錄": "104卷51期4250號二冊 222-222頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c681cecfcbcfcacecfcdc4cfcdcdcdc4cfcdcdcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1011109",
-            "立法紀錄": "101卷068期4009號一冊 52-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c881cecfcecfc9c7cfcec4cfcfcacdc4cfcfcacc",
+            "會議日期": "1040609",
+            "立法紀錄": "104卷51期4250號二冊 222-223頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc7c6c681cecfcbcfcacecfcdc4cfcdcdcdc4cfcdcdcc",
             "關係文書": []
         }
     ]
