@@ -1,11 +1,11 @@
 {
     "title": "勞工退休基金監理會組織法",
     "versions": [
-        "中華民國96年3月2日制定",
-        "中華民國96年3月21日公布"
+        "中華民國104年6月9日廢止",
+        "中華民國104年6月24日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,166 +82,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　一、設立目的及法源依據。\n　　二、監理會之設立目的為辦理勞工退休基金之審議、監督、考核及有關勞工退休金條例年金保險之實施等事項，故於行使職權時須兼顧基金運用的安全性及獲利性，以及監理公正性、專業性之立場，以確保勞工養老之保障。",
-        "第二條": "　　本會為三級行政機關並規定監督機關。",
-        "第三條": "　　一、本會之掌理事項。\n　　二、本監理會依勞工退休金條例之規定，同時擁有基金運用及監理之業務，即一方面有基金運用業務；另一方面尚須職司基金之監理，因此同時負有基金之安全性及獲利性的雙重責任，爰在業務職掌方面，規定有基金之收支、保管、運用之規劃及基金之運用效益，以及委託經營機構之遴選與合約的簽訂，而在基金的安全性上，有訂定安全準則、經營績效之監督等業務。\n　　三、本會業務並非僅是單純的將勞退基金委託金融機構代為經營，尚有基金之運用配置規劃審議或自行投資於風險性較低而保值性較高的金融商品，因此，仍可決定基金之運用項目及規劃業務。\n　　四、依勞工退休金條例第三十四條規定，勞保局應提出與本基金相關之會計及年度決算，送交本會審核，且依同條例第三十五條規定，本會亦須向勞委會提出收支、運用及基金積存金額，因此，訂有本基金之年度預算及決算報告之編製及覆核業務項目。",
-        "第四條": "　　一、本會委員會之組成及委員人數。\n　　二、本會為三級機關，主任委員之職務列簡任第十三職等。\n　　三、本會之設置依據係來自於勞工退休金條例，該條例係為個人帳戶制之勞工退休制度，個人帳戶制之積累之財產，係屬於勞工個人所有，其經營成敗與勞工息息相關，與雇主較為無關，惟原屬於勞基法之勞退基金併入本會經管之勞退基金運用，爰仍須給予雇主團體推薦代表名額，然為兼顧其基金歸屬之目的，在勞雇雙方推薦代表名額上酌予增減。",
-        "第五條": "　　委員任期及任命程序。",
-        "第六條": "　　委員之選任，應著重其專業性要求，並得規範其應具備之專業資格。爰規定本會委員應具備之專業背景及經驗，以符合委員會著重專業決策及管理之要求。",
-        "第七條": "　　照黨團協商條文通過。",
-        "第八條": "　　主任秘書之設置及其職等。",
-        "第九條": "　　一、本會委員召開會議之時間及其決議方式。\n　　二、有關勞工退休金條例之基金管理運用項目之決議，本屬於個人帳戶制的勞工應行決定事項，因此，雇主團體推薦代表得決定是否參加。\n　　三、為求監理功能，規定得邀請學者、專家及與議決事項有關之機關（構）及單位派員列席，陳述事實或提供意見。\n　　四、本會議紀錄為達資訊透明化，以公開為原則，以保密為例外。",
-        "第十條": "　　明定主任委員出缺或因故不能行使職權時之代理方式及順序。",
-        "第十一條": "　　為使本會各職稱之官等職等及員額，在中央政府機關總員額法未完成立法及公務人員任用法第六條未修正前，有所依據，爰規定應經權責機關訂定編制表施行。",
-        "第十二條": "　　本法之施行日期。"
-    },
+    "deprecated_reason": "　　「勞工退休基金監理會組織法」所規範之組織，既已組織調整並另行制定新法規範，「勞工退休基金監理會組織法」（附編制表）實無繼續施行或適用之必要，依中央法規標準法第21條規定，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940923",
-            "立法紀錄": "94卷45期3427號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cbcbcacfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcec5ccceccd2cccdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940923",
-            "立法紀錄": "94卷45期3427號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cbcbcacfcfc4cfcfcfc9c4cfcfcfc9",
-            "主提案": "國民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfccc5cccdc8d2cccccf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940923",
-            "立法紀錄": "94卷45期3427號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cbcbcacfcfc4cfcfcfc9c4cfcfcfc9",
+            "會議日期": "1030307",
+            "立法紀錄": "103卷14期4123號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbccc9cf81cecfcccfcecbcfcec4cfcfcecdc4cfcfcecd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcec5cccdcad2cccccb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941014",
-            "立法紀錄": "94卷52期3434號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cbcacdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "林惠官",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5cecfcbd2cecfc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "941021",
-            "立法紀錄": "94卷55期3437號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cbcacacfcfc4cfcfcfcbc4cfcfcfca",
-            "主提案": "盧秀燕",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc8cfcec5cdcec9d2cdcdce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcccfcec5cecccbd2cec9ca"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "941006",
-            "立法紀錄": "94卷53期3435號 1-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cbcacccfcfc4cfcfcfcec4cfcfcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "950104",
-            "立法紀錄": "95卷6期3467號一冊 491-536頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cacfc9cfcec4cfcbc6cec4cfcaccc9",
+            "會議日期": "1040520",
+            "立法紀錄": "104卷48期4247號 39-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbccc9cf81cecfcbcfcbc7cfcec4cfcfccc6c4cfcfc8c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 273-355頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cacfcacfcec4cfcdc8ccc4cfcccaca",
+            "會議日期": "1040609",
+            "立法紀錄": "104卷51期4250號二冊 191-219頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbccc9cf81cecfcbcfcacecfcdc4cfcec6cec4cfcdcec6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcec6cfcbc5cecfd2c6cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecac8c6c5cecfccd2ceccc9"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "950509",
-            "立法紀錄": "95卷25期3486號三冊 340-340頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cacdcacfccc4cfcccbcfc4cfcccbcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "950526",
-            "立法紀錄": "95卷32期3493號一冊 70-70頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cacccdcfcec4cfcfc8cfc4cfcfc8cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "951212",
-            "立法紀錄": "95卷59期3520號 40-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6cacac6cfcfc4cfcfcbcfc4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "951219",
-            "立法紀錄": "96卷1期3524號 246-246頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6c9cfcecfcfc4cfcdcbc9c4cfcdcbc9",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960109",
-            "立法紀錄": "96卷10期3533號二冊 536-537頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6c9cecfcfcdc4cfcaccc9c4cfcaccc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960112",
-            "立法紀錄": "96卷13期3536號一冊 48-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6c9cecccfcec4cfcfcbc7c4cfcfcbc7",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960302",
-            "立法紀錄": "96卷20期3543號一冊 30-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6c9cdcfcfcec4cfcfcccfc4cfcfccc8",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "960302",
-            "立法紀錄": "96卷20期3543號一冊 37-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcccac681c6c9cdcfcfcec4cfcfccc8c4cfcfccc6",
+            "會議日期": "1040609",
+            "立法紀錄": "104卷51期4250號二冊 219-219頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbccc9cf81cecfcbcfcacecfcdc4cfcdcec6c4cfcdcec6",
             "關係文書": []
         }
     ]
