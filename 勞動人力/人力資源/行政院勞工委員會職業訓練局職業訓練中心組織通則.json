@@ -1,11 +1,11 @@
 {
     "title": "行政院勞工委員會職業訓練局職業訓練中心組織通則",
     "versions": [
-        "中華民國83年6月21日修正",
-        "中華民國83年7月11日公布"
+        "中華民國104年6月9日廢止",
+        "中華民國104年6月24日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -106,43 +106,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十三條 之一": "　　職訓局人員之任用資格，請考試院限期辦理考試，以定其資格。本條文之增訂，是仿照其他法令之規定，使職訓局中之部分同仁，能得到公平、合理之處理。"
-    },
+    "deprecated_reason": "　　「行政院勞工委員會職業訓練局職業訓練中心組織通則」所規範之組織，既已組織調整並另行制定新法規範，「行政院勞工委員會職業訓練局職業訓練中心組織通則」（附編制表）實無繼續施行或適用之必要，依中央法規標準法第21條規定，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "821012",
-            "立法紀錄": "82卷54期2653號 33-34頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcec681c7cdcacbcfcfc4cfcfccccc4cfcfcccb",
-            "關係文書": []
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "821203",
-            "立法紀錄": "82卷69期2668號下冊 50-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcec681c7cdc9c6cfccc4cfcfcacfc4cfcfcacd",
-            "關係文書": []
+            "會議日期": "1030307",
+            "立法紀錄": "103卷14期4123號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfcdcf81cecfcccfcecbcfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcccfcec5cecccbd2cec9ca"
+                ]
+            ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "830117",
-            "立法紀錄": "83卷9期2683號 120-129頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcec681c7cccfc6cfcfc4cfcecdcfc4cfcecdc6",
+            "會議日期": "1040520",
+            "立法紀錄": "104卷48期4247號 39-78頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfcdcf81cecfcbcfcbc7cfcec4cfcfccc6c4cfcfc8c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "830621",
-            "立法紀錄": "83卷44期2718號 61-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcec681c7cccbcbcfcfc4cfcfc9cec4cfcfc8cc",
-            "關係文書": []
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040609",
+            "立法紀錄": "104卷51期4250號二冊 191-219頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfcdcf81cecfcbcfcacecfcdc4cfcec6cec4cfcdcec6",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecac8c6c5cecfccd2ceccc9"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "830621",
-            "立法紀錄": "83卷44期2718號 73-73頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcfcec681c7cccbcbcfcfc4cfcfc8ccc4cfcfc8cc",
+            "會議日期": "1040609",
+            "立法紀錄": "104卷51期4250號二冊 219-219頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcfcdcf81cecfcbcfcacecfcdc4cfcdcec6c4cfcdcec6",
             "關係文書": []
         }
     ]
