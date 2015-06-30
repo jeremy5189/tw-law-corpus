@@ -1,7 +1,7 @@
 {
     "title": "證券交易法",
     "versions": [
-        "中華民國104年6月16日修正",
+        "中華民國104年6月15日修正",
         "中華民國104年7月1日公布"
     ],
     "types": [
@@ -1186,7 +1186,7 @@
         {
             "note": "",
             "rule_no": "第一百五十五條",
-            "content": "　　對於在證券交易所上市之有價證券，不得有下列各款之行為：\n　　一、在集中交易市場委託買賣或申報買賣，業經成交而不履行交割，足以影響市場秩序。\n　　二、（刪除）\n　　三、意圖抬高或壓低集中交易市場某種有價證券之交易價格，與他人通謀，以約定價格於自己出售，或購買有價證券時，使約定人同時為購買或出售之相對行為。\n　　四、意圖抬高或壓低集中交易市場某種有價證券之交易價格，自行或以他人名義，對該有價證券，連續以高價買入或以低價賣出，而有影響市場價格或市場秩序之虞。\n　　五、意圖造成集中交易市場某種有價證券交易活絡之表象，自行或以他人名義，連續委託買賣或申報買賣而相對成交。\n　　六、意圖影響集中交易市場有價證券交易價格，而散布流言或不實資料。\n　　七、直接或間接從事其他影響集中交易市場有價證券交易價格之操縱行為。\n　　前項規定，於證券商營業處所買賣有價證券準用之。\n　　違反前二項規定者，對於善意買入或賣出有價證券之人所受之損害，應負賠償責任。\n　　第二十條第四項規定，於前項準用之。",
+            "content": "　　對於在證券交易所上市之有價證券，不得有下列各款之行為：\n　　一、在集中交易市場委託買賣或申報買賣，業經成交而不履行交割，足以影響市場秩序。\n　　二、（刪除）\n　　三、意圖抬高或壓低集中交易市場某種有價證券之交易價格，與他人通謀，以約定價格於自己出售，或購買有價證券時，使約定人同時為購買或出售之相對行為。\n　　四、意圖抬高或壓低集中交易市場某種有價證券之交易價格，自行或以他人名義，對該有價證券，連續以高價買入或以低價賣出。\n　　五、意圖造成集中交易市場某種有價證券交易活絡之表象，自行或以他人名義，連續委託買賣或申報買賣而相對成交。\n　　六、意圖影響集中交易市場有價證券交易價格，而散布流言或不實資料。\n　　七、直接或間接從事其他影響集中交易市場有價證券交易價格之操縱行為。\n　　前項規定，於證券商營業處所買賣有價證券準用之。\n　　違反前二項規定者，對於善意買入或賣出有價證券之人所受之損害，應負賠償責任。\n　　第二十條第四項規定，於前項準用之。",
             "relates": {}
         },
         {
@@ -1449,19 +1449,62 @@
         }
     ],
     "law_reasons": {
-        "第一百五十五條": "　　照協商條文通過。"
+        "第二十條 之一": "　　一、刪除原條文第二項及第五項中之「發行人之董事長、總經理」。\n　　二、美國證券交易法第十八條與日本證券交易法第二十四條之四及第二十四條之五對於財務報告之虛偽或隱匿係規定，發行人之董事長與總經理僅負推定過失責任，而非絕對賠償責任。顯見我國證券交易法第二十條之一有關財報不實之規定，對於董事長與總經理之責任顯然過重，而有礙企業之用才。\n　　三、為避免過苛之賠償責任降低優秀人才出任董事長及總經理等高階職位之意願而有礙國家經濟發展，爰提案將董事長與總經理之絕對賠償責任修正為推定過失責任。",
+        "第四十三條 之一": "　　一、原條文第一項未修正。\n　　二、原條文第二項序文「，除左列情形外」修正為「，除下列情形外」。\n　　三、原條文第三項修正為「任何人單獨或與他人共同預定取得公開發行公司已發行股份總額或不動產證券化條例之不動產投資信託受益證券達一定比例者，除符合一定條件外，應採公開收購方式為之。」。\n　　四、原條文第四項修正為「依第二項規定收購有價證券之範圍、條件、期間、關係人及申報公告事項與前項有關取得公開發行公司已發行股份總額達一定比例及條件，由主管機關定之。」。\n　　五、增訂第五項。對非特定人為公開收購不動產證券化條例之不動產投資信託受益證券者，應先向主管機關申報並公告後，始得為之，有關收購不動產證券化之受益證券之範圍、條件、期間、關係人及申報公告事項、第三項有關取得不動產投資信託受益證券達一定比例及條件，由主管機關定之。",
+        "第四十三條 之三": "　　一、配合第四十三條之一修正，增列對應適用之客體。\n　　二、原條文第二項未修正。",
+        "第一百五十六條": "　　一、增訂第一項第五款。\n　　二、企業的營運方式達到或超越道德、法律及公眾要求的標準，而進行商業活動時亦考慮到對各相關利益者造成的影響，企業社會責任的概念是基於商業運作必須符合可持續發展的想法，企業除了考慮自身的財政和經營狀況外，也要加入其對社會和自然環境所造成的影響的考量。\n　　三、以味全食品股份有限公司為例，其為黑心油風暴主角頂新國際集團旗下上市公司，而頂新製油涉嫌以低價添購大統黑心原料油，摻入替味全代工的21款油品中，再重新包裝成味全產品販售，2013年10月16日，大統黑心油事件爆發後，頂新味全隱瞞19天才下架。\n　　四、目前金管會正研議強制推動，上市（櫃）食品業、金融業、化學工業及實收資本額100億元以上的公司明年應編製企業社會責任報告書，金管會主委表示，為強化對食品類股的監管，強制食品類股的CSR報告書要經過會計師第三方認證查核後才能公布。\n　　五、為強化上述企業責任報告書之約束力，修法針對發生重大公害或食安事件之上市公司應停止其有價證券一部或全部之買賣。",
+        "第一百七十八條": "　　配合第四十三條之一修正，爰修正原條文第一項第九款前段為「…或主管機關依第四十三條之一第四項及第五項所定辦法…」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1040522",
-            "立法紀錄": "104卷44期4243號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc781cecfcbcfcbcbcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "呂學樟",
+            "會議日期": "1010511",
+            "立法紀錄": "101卷32期3973號 16-16頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcecfcccdcfcec4cfcfcec9c4cfcfcec9",
+            "主提案": "李貴敏",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8ceccc8cdc5ceccccd2ceccc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecececfcec5cdc8cbd2cdc8c9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031014",
+            "立法紀錄": "103卷59期4168號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcccfcac6cfcec4cfcfcfcdc4cfcfcfcc",
+            "主提案": "孫大千",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcac8cdc5ceccced2ceccc9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031226",
+            "立法紀錄": "104卷2期4201號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcfcdcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "許添財",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecac8cdc5c9c8d2c9c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1040417",
+            "立法紀錄": "104卷29期4228號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcdc6cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "李應元",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc7c8cdc5c7c6d2c6cd"
                 ]
             ]
         },
@@ -1469,40 +1512,78 @@
             "進度": "委員會審查",
             "會議日期": "1040608",
             "立法紀錄": "104卷57期4256號 121-121,124-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc781cecfcbcfcac8cfcec4cfcecdcec4cfcecdced9cecfcbcfcac8cfcec4cfcecdcbc4cfcec6ce",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcac8cfcec4cfcecdcec4cfcecdced9cecfcbcfcac8cfcec4cfcecdcbc4cfcec6ce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "1040615",
-            "立法紀錄": "104卷54期4253號八冊 457-463頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc781cecfcbcfcacbcfc7c4cfcbcac8c4cfcbc9cc",
+            "立法紀錄": "104卷54期4253號七冊 85-89頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcacbcfc8c4cfcfc7cac4cfcfc7c6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cec9c7c6c5cdccd2cdc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cec9c7c6c5ced2cb"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040616",
-            "立法紀錄": "104卷54期4253號十二冊 261-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc781cecfcbcfcacbcecdc4cfcdc9cec4cfcdc9cd",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號七冊 96-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcacbcfc8c4cfcfc6c9c4cfcecfca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cec9c7c6c5ceced2cdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號七冊 105-111頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcacbcfc8c4cfcecfcac4cfcecece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號十二冊 256-258頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcacbcecdc4cfcdcac9c4cfcdcac7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1040616",
-            "立法紀錄": "104卷54期4253號十二冊 262-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc781cecfcbcfcacbcecdc4cfcdc9cdc4cfcdc9cd",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號七冊 89-89,105-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcacbcfc8c4cfcfc7c6c4cfcfc7c6d9cecfcbcfcacbcfc8c4cfcecfcac4cfcecfca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號十二冊 256-260頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcacbcecdc4cfcdcac9c4cfcdc9cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cec9c7c6c5cec6d2cdcd"
+                ]
+            ]
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號七冊 105-105頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcacbcfc8c4cfcecfcac4cfcecfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1040616",
-            "立法紀錄": "104卷54期4253號十二冊 262-263頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc781cecfcbcfcacbcecdc4cfcdc9cdc4cfcdc9cc",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號十二冊 257-257,260-260頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacfcfc981cecfcbcfcacbcecdc4cfcdcac8c4cfcdcac8d9cecfcbcfcacbcecdc4cfcdc9cfc4cfcdc9cf",
             "關係文書": []
         }
     ]
