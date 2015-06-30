@@ -1,8 +1,8 @@
 {
     "title": "遺產及贈與稅法",
     "versions": [
-        "中華民國98年1月12日修正",
-        "中華民國98年1月21日公布"
+        "中華民國104年6月12日修正",
+        "中華民國104年7月1日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -272,7 +272,7 @@
         {
             "note": "(延期或分期繳納)",
             "rule_no": "第三十條",
-            "content": "　　遺產稅及贈與稅納稅義務人，應於稽徵機關送達核定納稅通知書之日起二個月內，繳清應納稅款；必要時，得於限期內申請稽徵機關核准延期二個月。\n　　遺產稅或贈與稅應納稅額在三十萬元以上，納稅義務人確有困難，不能一次繳納現金時，得於納稅期限內，向該管稽徵機關申請，分十八期以內繳納，每期間隔以不超過二個月為限。\n　　經申請分期繳納者，應自繳納期限屆滿之次日起，至納稅義務人繳納之日止，依郵政儲金一年期定期儲金固定利率，分別加計利息；利率有變動時，依變動後利率計算。\n　　遺產稅或贈與稅應納稅額在三十萬元以上，納稅義務人確有困難，不能一次繳納現金時，得於納稅期限內，就現金不足繳納部分申請以在中華民國境內之課徵標的物或納稅義務人所有易於變價及保管之實物一次抵繳。中華民國境內之課徵標的物屬不易變價或保管，或申請抵繳日之時價較死亡或贈與日之時價為低者，其得抵繳之稅額，以該項財產價值占全部課徵標的物價值比例計算之應納稅額為限。\n　　本法中華民國九十八年一月十二日修正之條文施行前所發生未結之案件，適用修正後之前三項規定。但依修正前之規定有利於納稅義務人者，適用修正前之規定。\n　　第四項抵繳財產價值之估定，由財政部定之。",
+            "content": "　　遺產稅及贈與稅納稅義務人，應於稽徵機關送達核定納稅通知書之日起二個月內，繳清應納稅款；必要時，得於限期內申請稽徵機關核准延期二個月。\n　　遺產稅或贈與稅應納稅額在三十萬元以上，納稅義務人確有困難，不能一次繳納現金時，得於納稅期限內，向該管稽徵機關申請，分十八期以內繳納，每期間隔以不超過二個月為限。\n　　經申請分期繳納者，應自繳納期限屆滿之次日起，至納稅義務人繳納之日止，依郵政儲金一年期定期儲金固定利率，分別加計利息；利率有變動時，依變動後利率計算。\n　　遺產稅或贈與稅應納稅額在三十萬元以上，納稅義務人確有困難，不能一次繳納現金時，得於納稅期限內，就現金不足繳納部分申請以在中華民國境內之課徵標的物或納稅義務人所有易於變價及保管之實物一次抵繳。中華民國境內之課徵標的物屬不易變價或保管，或申請抵繳日之時價較死亡或贈與日之時價為低者，其得抵繳之稅額，以該項財產價值占全部課徵標的物價值比例計算之應納稅額為限。\n　　本法中華民國九十八年一月十二日修正之條文施行前所發生未結之案件，適用修正後之前三項規定。但依修正前之規定有利於納稅義務人者，適用修正前之規定。\n　　第四項抵繳財產價值之估定，由財政部定之。\n　　第四項抵繳之財產為繼承人公同共有之遺產且該遺產為被繼承人單獨所有或持分共有者，得由繼承人過半數及其應繼分合計過半數之同意，或繼承人之應繼分合計逾三分之二之同意提出申請，不受民法第八百二十八條第三項限制。",
             "relates": {}
         },
         {
@@ -479,200 +479,145 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　一、因應司法院釋字第六二二號解釋，增訂第一項第三款，規定贈與人生前贈與截至死亡時尚未核課之贈與稅，以受贈人為納稅義務人，序文並酌作文字修正。\n　　二、第二項未修正。",
-        "第十條": "　　一、第一項未修正。\n　　二、原條文第二項所指之本條修正，係指八十四年一月十三日修正公布之本條條文，為避免於條文再修正時滋生混淆，爰修正第二項定明其修正生效日期，以資明確。\n　　三、課稅財產價值之認定，涉及人民之租稅負擔，參照司法院釋字第五三六號解釋意旨，應由法律規定或依法律授權於施行細則訂定，爰修正第三項，就本法未規定之其他財產，其時價之估定，授權由財政部定之。",
-        "第十三條": "　　我國現行遺產稅最高邊際稅率為百分之五十，易產生規避誘因，不利資本累積，鑑於租稅之課徵，應同時兼顧經濟發展、社會公義、國際競爭力及永續環境，為配合我國整體稅制改革輕稅簡政之目標，爰將最高邊際稅率調降為百分之十，並簡化為單一稅率，期能降低租稅規避誘因，提升納稅依從度及資本運用效率，同時配合免稅額之提高，使中小額遺產繼承案件，免除或減輕遺產稅負。另配合第十七條之一之增訂，酌作文字修正。",
-        "第十七條 之一": "　　一、本條新增。\n　　二、被繼承人之配偶依民法第一千零三十條之一規定主張配偶剩餘財產差額分配請求權者，於第一項規定納稅義務人得申報自遺產總額中扣除。\n　　三、為使繼承人有充裕時間辦理給付生存配偶主張之剩餘財產差額分配請求權金額之財產，於第二項規定於稽徵機關核發稅款繳清證明書或免稅證明書之日起一年期間內辦竣。另為防杜生存配偶「假行使真扣除」，爰定明未於上開期間內給付時，應就未給付部分追繳應納稅賦，俾稽徵機關得於期限屆滿翌日起五年之核課期間內追繳遺產稅。",
-        "第十八條": "　　一、我國遺產稅、贈與稅免稅額自八十四年調整迄今已十餘年，其間雖曾於九十五年起按物價指數漲幅百分之十一．三二調整，惟因經濟成長、國民所得提高，各方迭有反映。現行免稅額度過低，使多數因薪資所得累積財富之中產階級亦須負擔遺產稅。為落實遺產稅平均社會財富之目的，並使一般中小額財富者免於遺產稅負擔，爰將遺產稅免稅額提高為一千二百萬元。\n　　二、第二項未修正。",
-        "第十九條": "　　一、贈與稅為遺產稅之補充稅，爰配合遺產稅稅率結構之修正，將最高邊際稅率調降為百分之十，並簡化為為單一稅率。另本法第二十二條係規定贈與稅免稅額，爰將本條「金額」一詞，酌作文字修正為「免稅額」。\n　　二、第二項未修正。",
-        "第二十二條": "　　為減輕小額財產贈與案件之稅負，增加財產運用效率，降低贈與稅課徵對財富移轉時點之干擾，爰將贈與稅免稅額調高為二百二十萬元。",
-        "第三十條": "　　一、第一項未修正。\n　　二、修正第二項。將原實物抵繳規定移列於第四項。另分期繳納之期間，由原十二期延長為十八期，使納稅義務人有較充裕之時間籌措現金繳稅，減輕繳納壓力。\n　　三、修正第三項。將原「郵政儲金匯業局一年期定期存款利率」，配合郵政儲金匯業局改制為公司組織，修正為「郵政儲金一年期定期儲金固定利率」。\n　　四、原第二項後段實物抵繳之規定，修正後移列於第四項。參照司法院釋字第三四三號解釋意旨，原條文所謂「易於變價」，雖與「保管」同列，然非擇一即可，例如非課徵標的之土地，雖非不易保管，惟如不易變價，仍與抵繳要件未符，為使適用上更明確，爰將現行條文「或」字，修正為「及」字。另實物抵繳之目的，原在期待其可變為現金，使之與現金繳納相同，惟依原規定，不易變價之課徵標的物或中華民國境外之課徵標的物，得抵繳全部財產之應納稅款，造成稅課收入無從經由抵稅實物之變現轉為現金供各級政府實際運用，已逾越實物抵繳之本旨。為求公平合理，爰規定課徵標的物得抵繳者，以在中華民國境內為限，並就其中屬不易變價或保管、時價已下跌者，規定其得抵繳之稅額，以該財產之應納稅款為限。至本條所稱課徵標的物，依本法施行細則第43條之1規定，係指依本法規定計入本次遺產總額或贈與總額並經課徵遺產稅之遺產或課徵贈與稅之受贈財產。\n　　五、原條文第四項修正後順移列為第五項，並定明本次本法修正之條文施行前發生未結案件之適用原則，以維護納稅義務人權益。\n　　六、抵繳財產價值之估算，攸關人民權利，爰參照第十條第三項修正意旨，增訂第六項，授權由財政部訂定之。",
-        "第四十四條": "　　原條文科處漏稅額一至二倍之罰鍰，修正為二倍以下，俾使處罰金額得按漏稅情節為更合宜之處理。又未申報經核定無應納稅額者，原稅務違章案件減免處罰標準第十三條第一款已規定免予處罰，後段規定爰予刪除；另酌作文字修正。",
-        "第四十五條": "　　原條文科處漏稅額一至二倍之罰鍰，修正為二倍以下，俾使處罰金額得按漏稅情節為更合宜之處理。",
-        "第五十八條 之一": "　　一、本條新增。\n　　二、本法本次之修正造成直轄市、市及鄉（鎮、市）稅收之減損，爰參照土地稅法第三十三條第二項規定，於第一項定明於修正現行財政收支劃分法擴大中央統籌分配稅款規模之規定施行前，由中央政府補足，以避免影響地方政府財政收入。\n　　三、遺產稅屬機會稅，被繼承人財富多寡，影響稅額甚鉅，有關各直轄市、市及鄉（鎮、市）每年度稅收實質損失之計算，為杜爭議，爰於第二項規定以本次本法修正施行年度前三年平均每年之遺產稅及贈與稅稅收數為準，與修正施行當年度或以後各年度遺產稅及贈與稅稅收數比較，短少部分為損失額，並為簡化手續，定明計算至萬元止。"
+        "第三十條": "　　基於憲法上平等原則之保障與稅賦公平之立法精神，同時增進國家稅收公共利益之考量下，為杜絕繼承人以公同共有遺產申請實物抵繳時，因以不動產申請與以動產申請時，而有是否均適用土地法第三十四條之一規定比例，不同適用標準之爭議，爰增訂第七項規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970328",
-            "立法紀錄": "97卷8期3619號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8cfc7cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "薛凌",
+            "會議日期": "1010413",
+            "立法紀錄": "101卷21期3962號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcecfcdcecfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "江啟臣",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcacfcbc5cccacad2ccc8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8cfcec5cbcccad2cbccc7"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷16期3627號 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8cec9cfcfc4cfcfcecfc4cfcfcecf",
-            "主提案": "楊麗環",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcec5cbc9ccd2cbc9cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970502",
-            "立法紀錄": "97卷23期3634號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8cdcccfcfc4cfcfcfccc4cfcfcfcb",
-            "主提案": "陳亭妃",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc6cfcec5cecbc7d2cecace"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970502",
-            "立法紀錄": "97卷23期3634號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8cdcccfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "陳根德",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc6cfcec5cecacdd2cecacb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970502",
-            "立法紀錄": "97卷23期3634號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8cdcccfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "張嘉郡",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc6cfcec5cecac9d2cecac6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "970926",
-            "立法紀錄": "97卷51期3662號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8cacecfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "王幸男",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcdc8cdc5caced2c9cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971017",
-            "立法紀錄": "97卷54期3665號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8cacbcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "薛凌",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcac8cdc5cec8d2cdcf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971017",
-            "立法紀錄": "97卷54期3665號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8cacbcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "羅淑蕾",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcac8cdc5cdced2cdcb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8c9cccfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "1010601",
+            "立法紀錄": "101卷43期3984號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcecfcbcccfcec4cfcfcfcac4cfcfcfca",
             "主提案": "孫大千",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7c8cdc5ccc6d2cbcd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbcfcec5cdcbcdd2cdcbca"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8c9cccfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "孫大千",
+            "會議日期": "1011116",
+            "立法紀錄": "101卷71期4012號一冊 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcecfc8cecfcec4cfcfcdc9c4cfcfcdc9",
+            "主提案": "楊瓊瓔",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7c8cdc5cbccd2cbc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc6cfcec5cec7cfd2cec7cc"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "971107",
-            "立法紀錄": "97卷63期3674號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8c9cccfcfc4cfcfcfc8c4cfcfcfc8",
-            "主提案": "行政院",
+            "會議日期": "1011214",
+            "立法紀錄": "101卷83期4024號一冊 28-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcecfc7cccfcec4cfcfcdc7c4cfcfcdc7",
+            "主提案": "黃文玲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfc7c8cdc5cecdc8d2ceccc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecccfcec5cecfc7d2cecfc6"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020924",
+            "立法紀錄": "102卷48期4073號二冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcdcfcbc7cfcdc4cfcfcfccc4cfcfcfcc",
+            "主提案": "徐欣瑩",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcdcfcec5cec8ced2cec8cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030516",
+            "立法紀錄": "103卷37期4146號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcccfccc8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "李貴敏",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecfcfcec5cdcfcdd2cdcfca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1040515",
+            "立法紀錄": "104卷41期4240號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcbcfcbcecfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "羅明才",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecdc8cdc5cbc8d2cacd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971203",
-            "立法紀錄": "97卷72期3683號二冊 162-239頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c8c8cdcfcdc4cfcec9cdc4cfcdccc6",
+            "會議日期": "1020424",
+            "立法紀錄": "102卷27期4052號 327-327,338-390頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcdcfcdc8cfcec4cfcccdc8c4cfcccdc8d9cecfcdcfcdc8cfcec4cfccccc7c4cfccc6cf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1030424",
+            "立法紀錄": "103卷30期4139號 465-506頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcccfcccfcfcec4cfcbc9cac4cfcacfc9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1040527",
+            "立法紀錄": "104卷50期4249號 365-448頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcbcfcacfcfcec4cfccc9cac4cfcbcbc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "980106",
-            "立法紀錄": "98卷3期3689號二冊 287-345頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c7cfcccfcdc4cfcdc7c8c4cfcccbca",
+            "會議日期": "1040612",
+            "立法紀錄": "104卷54期4253號六冊 210-227頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcbcfcacbcfc9c4cfcdcecfc4cfcdcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcec9cfcdc5cdc9ccd2cccdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cec9c7ccc5cdcbc6ccd2cdcacecf"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "980109",
-            "立法紀錄": "98卷5期3691號一冊 197-197頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c7cfcacfcec4cfcec6c8c4cfcec6c8",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "980112",
-            "立法紀錄": "98卷5期3691號二冊 137-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c7cfcacfcdc4cfceccc8c4cfcecacf",
+            "會議日期": "1040612",
+            "立法紀錄": "104卷54期4253號六冊 227-228頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcbcfcacbcfc9c4cfcdcdc8c4cfcdcdc7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "980112",
-            "立法紀錄": "98卷5期3691號二冊 150-152頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8cecfcfc881c6c7cfcacfcdc4cfcecacfc4cfcecacd",
+            "會議日期": "1040612",
+            "立法紀錄": "104卷54期4253號六冊 228-228頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cecfcfc681cecfcbcfcacbcfc9c4cfcdcdc7c4cfcdcdc7",
             "關係文書": []
         }
     ]
