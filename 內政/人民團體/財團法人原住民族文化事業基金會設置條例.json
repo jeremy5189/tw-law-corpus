@@ -1,8 +1,8 @@
 {
     "title": "財團法人原住民族文化事業基金會設置條例",
     "versions": [
-        "中華民國104年1月22日修正",
-        "中華民國104年2月4日公布"
+        "中華民國104年6月16日修正",
+        "中華民國104年7月1日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -30,7 +30,7 @@
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　本基金會之業務範圍如下：\n　　一、原住民族廣播、電視專屬頻道之規劃及普及服務。\n　　二、原住民族文化及傳播出版品之發行及推廣。\n　　三、原住民族文化傳播網站之建置及推廣。\n　　四、原住民族文化、語言、藝術、傳播等活動之輔導、辦理及贊助。\n　　五、原住民族文化、語言、藝術及傳播等工作者之培育及獎助。\n　　六、其他與原住民族文化、語言、藝術事業及傳播媒體有關之業務。\n　　前項第一款原住民族電視專屬頻道節目之製播，得交由財團法人公共電視文化事業基金會辦理，不受政府採購法之限制。",
+            "content": "　　本基金會之業務範圍如下：\n　　一、原住民族廣播、電視專屬頻道之規劃、製播、經營及普及服務。\n　　二、原住民族文化及傳播出版品之發行及推廣。\n　　三、原住民族文化傳播網站之建置及推廣。\n　　四、原住民族文化、語言、藝術、傳播等活動之輔導、辦理及贊助。\n　　五、原住民族文化、語言、藝術及傳播等工作者之培育及獎助。\n　　六、其他與原住民族文化、語言、藝術事業及傳播媒體有關之業務。\n　　原住民族廣播、電視專屬頻道所需用之電波頻率，由中央目的事業主管機關會同主管機關規劃分配之。\n　　本基金會得委託經營無線電視之機構播送原住民族電視臺之節目及廣告，不受廣播電視法第四條第二項規定之限制。",
             "relates": {}
         },
         {
@@ -161,33 +161,19 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　為統一中央行政機關名稱，爰修正原條文，將「行政院原住民族委員會」修正為「原住民族委員會」，以符「原住民族委員會組織法」之規定。",
-        "第六條": "　　查財團法人原住民族文化事業基金會與公共電視基金會二者之立法目的、業務職掌、董監事與執行長（總經理）遴聘機制等事項均相同，其經營均屬非營利，其主要經費來源亦同樣來自於政府編列預算，惟公視基金會係明定由政府編列預算以「捐贈」模式供作公共電視基金會的主要經費來源，而財團法人原住民族文化事業基金會設置條例因係以「補助」的方式，為避免財團法人原住民族文化事業基金會經費窘困之處境更為艱辛，爰參照公共電視法第28條規定，將本條文第二款「補助」修正為「捐贈」，並新增第五款受託代製節目之收入，原條文第五款則改為第六款。"
+        "第四條": "　　照協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1030509",
-            "立法紀錄": "103卷34期4143號 28-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcccfcccbcfcec4cfcfcdc7c4cfcfcdc7",
-            "主提案": "鄭天財",
+            "會議日期": "1020510",
+            "立法紀錄": "102卷29期4054號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cd81cecfcdcfcdc6cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "簡東明",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6cfcec5cecbc9d2cecbc8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030509",
-            "立法紀錄": "103卷34期4143號 28-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcccfcccbcfcec4cfcfcdc7c4cfcfcdc6",
-            "主提案": "鄭天財",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6cfc9c5cbccced2cbcccc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecdcfcec5cdc7c6d2cdc6cf"
                 ]
             ]
         },
@@ -195,59 +181,47 @@
             "進度": "委員會審查",
             "會議日期": "1040112",
             "立法紀錄": "104卷12期4211號一冊 45-85頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcbcfcecdcfcec4cfcfcbcac4cfcfc7ca",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cd81cecfcbcfcecdcfcec4cfcfcbcac4cfcfc7ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040122",
-            "立法紀錄": "104卷11期4210號一冊 162-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcbcfcececfcec4cfcec9cdc4cfcec9ca",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號七冊 131-135頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cd81cecfcbcfcacbcfc8c4cfcecccec4cfceccca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec6c8c9c5c8c6d2c7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecac8c6c5cdc7c6d2cdc6cb"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040122",
-            "立法紀錄": "104卷11期4210號一冊 165-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcbcfcececfcec4cfcec9cac4cfcec8cf",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec6c8c9c5c7ccd2c7c8"
-                ]
-            ]
+            "會議日期": "1040616",
+            "立法紀錄": "104卷54期4253號十二冊 279-283頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cd81cecfcbcfcacbcecdc4cfcdc8c6c4cfcdc7cc",
+            "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1040122",
-            "立法紀錄": "104卷11期4210號一冊 165-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcbcfcececfcec4cfcec9cac4cfcec9ca",
+            "進度": "黨團協商",
+            "會議日期": "1040512",
+            "立法紀錄": "104卷54期4253號十四冊 23-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cd81cecfcbcfcacbcecbc4cfcfcdccc4cfcfccc8",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1040122",
-            "立法紀錄": "104卷11期4210號一冊 170-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcbcfcececfcec4cfcec8cfc4cfcec8cf",
+            "會議日期": "1040616",
+            "立法紀錄": "104卷54期4253號十二冊 283-284頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cd81cecfcbcfcacbcecdc4cfcdc7ccc4cfcdc7cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1040122",
-            "立法紀錄": "104卷11期4210號一冊 165-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcbcfcececfcec4cfcec9cac4cfcec9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1040122",
-            "立法紀錄": "104卷11期4210號一冊 170-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7ce81cecfcbcfcececfcec4cfcec8cfc4cfcec8cf",
+            "會議日期": "1040616",
+            "立法紀錄": "104卷54期4253號十二冊 284-286頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c9c7cd81cecfcbcfcacbcecdc4cfcdc7cbc4cfcdc7c9",
             "關係文書": []
         }
     ]
