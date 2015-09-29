@@ -1,8 +1,8 @@
 {
     "title": "金融控股公司法",
     "versions": [
-        "中華民國104年1月20日修正",
-        "中華民國104年2月4日公布"
+        "中華民國104年9月15日修正",
+        "中華民國104年9月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -340,7 +340,7 @@
         {
             "note": "",
             "rule_no": "第五十三條",
-            "content": "　　金融控股公司之銀行子公司、保險子公司或證券子公司所受之增資處分，金融控股公司應於持股比例範圍內為其籌募資金。\n　　金融控股公司之累積虧損逾實收資本額三分之一者，應即召開董事會，並通知監察人列席後，將董事會決議事項、財務報表、虧損原因及改善計畫函報主管機關。\n　　金融控股公司有前項情形時，主管機關得限期令其補足資本。\n　　金融控股公司為辦理前項之補足資本，報經主管機關核准者，得以含當年度虧損之累積虧損，於當年度中辦理減少資本及銷除股份，並就所減資本額辦理現金增資，以補足所銷除之股份。",
+            "content": "　　金融控股公司之銀行子公司、保險子公司或證券子公司所受之增資處分，金融控股公司應於持股比例範圍內為其籌募資金。\n　　金融控股公司之累積虧損逾實收資本額三分之一者，應即召開董事會，並通知監察人列席後，將董事會決議事項、財務報表、虧損原因及改善計畫函報主管機關。\n　　金融控股公司有前項情形時，主管機關應限期令其補足資本。\n　　金融控股公司為辦理前項之補足資本，報經主管機關核准者，得以含當年度虧損之累積虧損，於當年度中辦理減少資本及銷除股份，並就所減資本額辦理現金增資，以補足所銷除之股份。",
             "relates": {}
         },
         {
@@ -491,53 +491,53 @@
         }
     ],
     "law_reasons": {
-        "第三條": "　　為配合行政院組織改造，更正現行機關名稱，實有必要。故將原條文之行政院金融監督管理委員會修正為金融監督管理委員會。"
+        "第五十三條": "　　一、修正第五十三條第三項。\n　　二、參酌銀行法第六十四條第二項。\n　　三、為使主管機關能及時並有效執行金融機構之危機處理，又銀行與金融控股公司於其累積虧損於資本實收額三分之一時，應具同等強制力和必要性處理。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1030418",
-            "立法紀錄": "103卷25期4134號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc881cecfcccfcdcacfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "林德福",
+            "會議日期": "1030530",
+            "立法紀錄": "103卷43期4152號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc781cecfcccfcbcccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "李桐豪",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9cfcec5ccc7c7d2ccc7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdcfcec5cdcac9d2cdcac8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1040112",
-            "立法紀錄": "104卷12期4211號三冊 415-415,421-422,430-492頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc881cecfcbcfcecdcfccc4cfcbcecac4cfcbcecad9cecfcbcfcecdcfccc4cfcbcdcec4cfcbcdcdd9cecfcbcfcecdcfccc4cfcbcccfc4cfcbc6cd",
+            "會議日期": "1040608",
+            "立法紀錄": "104卷57期4256號 121-121,124-191頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc781cecfcbcfcac8cfcec4cfcecdcec4cfcecdced9cecfcbcfcac8cfcec4cfcecdcbc4cfcec6ce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040120",
-            "立法紀錄": "104卷9期4208號二冊 188-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc881cecfcbcfcfc6cfcdc4cfcec7c7c4cfcec6ce",
+            "會議日期": "1040915",
+            "立法紀錄": "104卷58期4257號一冊 155-158頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc781cecfcbcfcac7cfcec4cfcecacac4cfcecac7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec7c8c6c5cccfc6d2cccecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfcec8c9c5caced2cacb"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1040120",
-            "立法紀錄": "104卷9期4208號二冊 191-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc881cecfcbcfcfc6cfcdc4cfcec6cec4cfcec6ce",
+            "會議日期": "1040915",
+            "立法紀錄": "104卷58期4257號一冊 158-158頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc781cecfcbcfcac7cfcec4cfcecac7c4cfcecac7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1040120",
-            "立法紀錄": "104卷9期4208號二冊 191-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc881cecfcbcfcfc6cfcdc4cfcec6cec4cfcec6ce",
+            "會議日期": "1040915",
+            "立法紀錄": "104卷58期4257號一冊 158-158頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c7cfc781cecfcbcfcac7cfcec4cfcecac7c4cfcecac7",
             "關係文書": []
         }
     ]
