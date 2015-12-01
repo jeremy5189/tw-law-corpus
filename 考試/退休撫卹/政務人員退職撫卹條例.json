@@ -1,8 +1,8 @@
 {
     "title": "政務人員退職撫卹條例",
     "versions": [
-        "中華民國95年4月25日修正",
-        "中華民國95年5月17日公布"
+        "中華民國104年11月13日修正",
+        "中華民國104年12月2日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -72,7 +72,7 @@
         {
             "note": "(因公傷病退職加發俸給之情形)",
             "rule_no": "第十一條",
-            "content": "　　政務人員因公傷病致不堪勝任職務而退職者，除依本條例給與公、自提儲金本息外，並按最後在職時之俸給標準，加發五個月之俸給總額。\n　　前項所稱因公傷病，指下列情事之一：\n　　一、因執行職務發生危險，以致傷病者。\n　　二、在辦公場所發生意外，以致傷病者。\n　　三、因辦公往返途中遇意外危險，以致傷病者。\n　　四、因盡力職務積勞過度，以致傷病者。\n　　因公傷病，應提出服務機關證明書，並應繳驗中央衛生主管機關評鑑合格地區醫院以上之醫院證明書。\n　　第一項因公傷病，係指已達公教人員保險殘廢給付標準表所定之半殘廢以上標準。",
+            "content": "　　政務人員因公傷病致不堪勝任職務而退職者，除依本條例給與公、自提儲金本息外，並按最後在職時之俸給標準，加發五個月之俸給總額。\n　　前項所稱因公傷病，指下列情事之一：\n　　一、因執行職務發生危險，以致傷病者。\n　　二、在辦公場所發生意外，以致傷病者。\n　　三、因辦公往返途中遇意外危險，以致傷病者。\n　　四、因盡力職務積勞過度，以致傷病者。\n　　因公傷病，應提出服務機關證明書，並應繳驗中央衛生主管機關評鑑合格地區醫院以上之醫院證明書。\n　　第一項因公傷病，係指已達公教人員保險失能給付標準所定之半失能以上標準。",
             "relates": {}
         },
         {
@@ -132,51 +132,59 @@
         {
             "note": "(施行日)",
             "rule_no": "第二十一條",
-            "content": "　　本條例自中華民國九十三年一月一日施行。",
+            "content": "　　本條例自中華民國九十三年一月一日施行。\n　　本條例中華民國一百零四年十一月十三日修正之條文，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第二條": "　　一、 為配合國民大會廢止，爰刪除第一項第二款「國民大會或」文字。\n　　二、 增列第二項。"
+        "第十一條": "　　一、本條修正第四項，將殘廢用語修正為失能。\n　　二、由於原公教人員保險殘廢給付標準表業於一百零三年六月一日廢止，公教人員保險殘廢給付標準亦於一百零三年六月一日施行，復以公教人員保險殘廢給付標準名稱將修正為公教人員保險失能給付標準，爰配合修正本條第四項規定。",
+        "第二十一條": "　　本條增訂第二項，明定本次修正條文施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941028",
-            "立法紀錄": "94卷59期3441號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc7cc81c6cbcac6cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃偉哲",
+            "會議日期": "1040529",
+            "立法紀錄": "104卷47期4246號 35-35頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7cbc7cb81cecfcbcfcbc8cfcec4cfcfcccac4cfcfccca",
+            "主提案": "考試院,行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc7cfcec5cec9cfd2cec9ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecbc8cdc5cdcaced2cdc9cf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950308",
-            "立法紀錄": "95卷10期3471號一冊 303-314頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc7cc81c6cacecfcfcec4cfcccfccc4cfcccecb",
+            "會議日期": "1041008",
+            "立法紀錄": "104卷66期4265號 343-419頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7cbc7cb81cecfcbcfc9c9cfcec4cfcccbccc4cfcbcec6",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950425",
-            "立法紀錄": "95卷20期3481號 157-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc7cc81c6cacdcfcfcfc4cfcecac8c4cfcec8cf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041113",
+            "立法紀錄": "104卷82期4281號一冊 321-325頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7cbc7cb81cecfcbcfc7cdcfcec4cfcccdcec4cfcccdca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccfc7cfcdc5cdcdcad2cdccc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfc7c8c6c5cecad2cec6"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1041113",
+            "立法紀錄": "104卷82期4281號一冊 325-325頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7cbc7cb81cecfcbcfc7cdcfcec4cfcccdcac4cfcccdca",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "950425",
-            "立法紀錄": "95卷20期3481號 170-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c8c7cbc7cc81c6cacdcfcfcfc4cfcec8cfc4cfcec8cf",
+            "會議日期": "1041113",
+            "立法紀錄": "104卷82期4281號一冊 325-325頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c7cbc7cb81cecfcbcfc7cdcfcec4cfcccdcac4cfcccdca",
             "關係文書": []
         }
     ]
