@@ -1,11 +1,11 @@
 {
     "title": "內政部役政署組織條例",
     "versions": [
-        "中華民國90年10月11日制定",
-        "中華民國91年1月16日公布"
+        "中華民國104年12月1日廢止",
+        "中華民國104年12月16日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -94,81 +94,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　依據「替代役實施條例」第二條第二項規定：「為執行兵役及替代役事務，內政部應成立役政署，……。」，並配合內政部組織法部分條文修正草案修正條文第八條之二：「內政部設役政署，執行有關兵役及替代役行政事務，其組織以法律定之。」之規定，明定本條例之制定依據。",
-        "第二條": "　　役政署係承受內政部部長之命，掌理有關兵役及替代役行政事務；至有關兵役行政事務，依兵役法第三十條第一項規定，係指有關兵源、徵集事項。",
-        "第三條": "　　因應社會需要及役政制度改革，分款明列本署掌理事項，俾資明確。",
-        "第四條": "　　配合第三條有關本署掌理事項，將本署分設五組。",
-        "第五條": "　　本署秘書室業務性質及範圍。",
-        "第六條": "　　一、本署置署長一人、副署長二人，並明定其職務列等。\n　　二、本署掌理兵役及替代役行政事務，業務涉及各相關部會局署，牽涉層面龐雜，署務繁重，需有副署長二人襄理，方能順利有效推動署務責任分工。",
-        "第七條": "　　一、明定本署所進用人員之職稱、職等及人數。\n　　二、第四條所定各組，分置組長一人。\n　　三、有關職務列等，係依據考試院八十五年十一月二十五日修正「職務列等表」之中央機關職務列等表之十二所定職務列等定之。\n　　四、參考警政署編制四一八人、消防署一七八人、漁業署二一一人，營建署一五○人，以未來本署推展業務考量，將本署編制人數定為一百四十人。",
-        "第八條": "　　本署人事室業務職掌及人員任用方式。",
-        "第九條": "　　本署會計室業務職掌及人員任用方式。",
-        "第十條": "　　本署政風室業務職掌及人員任用方式。",
-        "第十一條": "　　本署人員各職務所適用職系之法律依據。",
-        "第十二條": "　　本署視業務需要，得設各種委員會，以利業務推展。",
-        "第十三條": "　　本署辦事細則之擬訂及核定權責。",
-        "第十四條": "　　明定本條例施行日期。"
-    },
+    "deprecated_reason": "　　配合行政院組織改造，內政部役政署組織法業經總統於102年8月21日以華總一義字第10200156161號令公布，行政院於102年8月29日以授研綜字第1022260799號令定自102年9月1日施行；爰依中央法規標準法第21條第4款「同一事項已定有新法規，並公布或發布施行者」規定，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890421",
-            "立法紀錄": "89卷19期3078號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6cd81c7c6cec6cfcfc4cfcfcfcbc4cfcfcfcb",
+            "會議日期": "1021004",
+            "立法紀錄": "102卷50期4075號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cc81cecfcdcfcacfcfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccfc6cfcfc5c6c7d2cececa"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcbcfcec5cdcbccd2cdcbc8"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890426",
-            "立法紀錄": "89卷23期3082號 253-278頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6cd81c7c6cdcccfcfc4cfcdcaccc4cfcdc8c7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "890622",
-            "立法紀錄": "89卷42期3101號上冊 13-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6cd81c7c6cbcdcfcec4cfcfceccc4cfcfcec9",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "900503",
-            "立法紀錄": "90卷33期3167號 91-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6cd81c6cfcccccfcfc4cfcfc6cec4cfcecccf",
+            "會議日期": "1041112",
+            "立法紀錄": "104卷87期4286號 1-1,4-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cc81cecfcbcfc7c8cfcec4cfcfcfcec4cfcfcfced9cecfcbcfc7c8cfcec4cfcfcfcbc4cfcfccce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "900529",
-            "立法紀錄": "90卷30期3164號一冊 305-320頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6cd81c6cfcccfcfcec4cfcccfcac4cfcccdcf",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 497-501頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cc81cecfcbcfc7c6cfcec4cfcbc6c8c4cfcacfce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc6cfccc5cdc7c6d2cccfca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cec7c8d2cec6cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "901011",
-            "立法紀錄": "90卷47期3181號中冊 523-524頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6cd81c6cfcbc8cfcdc4cfcacdccc4cfcacdcb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "901011",
-            "立法紀錄": "90卷47期3181號中冊 525-526頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc8c6cd81c6cfcbc8cfcdc4cfcacdcac4cfcacdc9",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 501-501頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc8c6cc81cecfcbcfc7c6cfcec4cfcacfcec4cfcacfce",
             "關係文書": []
         }
     ]
