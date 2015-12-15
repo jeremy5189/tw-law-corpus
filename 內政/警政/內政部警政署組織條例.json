@@ -1,11 +1,11 @@
 {
     "title": "內政部警政署組織條例",
     "versions": [
-        "中華民國96年6月5日修正",
-        "中華民國96年7月4日公布"
+        "中華民國104年12月1日廢止",
+        "中華民國104年12月16日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -112,47 +112,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第五條": "　　按內政部空中勤務總隊業已整併納編警政署空中警察隊，爰修正本條相關文字。"
-    },
+    "deprecated_reason": "　　配合內政部警政署及所屬機關（構）組織法規已於103年1月1日施行，爰依中央法規標準法第21條第4款「同一事項已定有新法規，並公布或發布施行者」規定，爰廢止「內政部警政署組織條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950421",
-            "立法紀錄": "95卷20期3481號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacc81c6cacdcfcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "民進黨黨團",
+            "會議日期": "1030221",
+            "立法紀錄": "103卷13期4122號一冊 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7cacb81cecfcccfcecccfcec4cfcfcfcdc4cfcfcfcc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecfcfcec5cdcfc9d2cdcfc7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcecfcec5cecfc7d2ceccc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960411",
-            "立法紀錄": "96卷31期3554號 157-180頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacc81c6c9cccecfcfc4cfcecac8c4cfcec7cf",
+            "會議日期": "1041112",
+            "立法紀錄": "104卷87期4286號 1-1,4-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7cacb81cecfcbcfc7c8cfcec4cfcfcfcec4cfcfcfced9cecfcbcfc7c8cfcec4cfcfcfcbc4cfcfccce",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960605",
-            "立法紀錄": "96卷48期3571號二冊 558-561頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacc81c6c9cbc7cfcdc4cfcacac7c4cfcac9ce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 501-522頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7cacb81cecfcbcfc7c6cfcec4cfcacfcec4cfcacdcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcbc5c8cfcdd2c8cfcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cec6ccd2cdcdcb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "960605",
-            "立法紀錄": "96卷48期3571號二冊 561-561頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cacc81c6c9cbc7cfcdc4cfcac9cec4cfcac9ce",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 522-522頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7cacb81cecfcbcfc7c6cfcec4cfcacdcdc4cfcacdcd",
             "關係文書": []
         }
     ]
