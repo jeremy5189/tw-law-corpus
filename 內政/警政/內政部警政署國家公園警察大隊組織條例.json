@@ -1,11 +1,11 @@
 {
     "title": "內政部警政署國家公園警察大隊組織條例",
     "versions": [
-        "中華民國87年5月28日制定",
-        "中華民國87年6月17日公布"
+        "中華民國104年12月1日廢止",
+        "中華民國104年12月16日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,79 +82,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　一、規定本條例制定之依據。\n　　二、內政部警政署組織條例第五條規定：「本署得設....國家公園警察隊...等各種警察機關；其組織以法律定之。」",
-        "第二條": "　　規定該隊組織隸屬系統，以及受指揮監督之單位，俾有所遵循。",
-        "第三條": "　　參照現行內政部警政署國家公園警察隊組織規程掌理事項，規定該隊之掌理事項。",
-        "第四條": "　　為健全組織功能，並應該隊全般勤、業務需要，設二組及勤務指揮中心，分掌前條所列事項。",
-        "第五條": "　　規定該隊隊長、副隊長員額、官等及職等。",
-        "第六條": "　　一、規定該隊置秘書、組長、主任、督察員、組員、技士、辦事員、書記等職務名稱，及其員額、官等、職等。\n　　二、本條所列員額計二十人至二十五人。",
-        "第七條": "　　規定該隊設人事室，置主任，依法辦理人事管理事項。",
-        "第八條": "　　規定該隊設會計室，置會計主任，依法辦理歲計、會計並兼辦統計事項。",
-        "第九條": "　　照黨團協商條文通過。",
-        "第十條": "　　規定本條例所定列有官等職等人員，除警察官外，其職務所適用之職系，並依公務人員任用法第八條規定，就有關職系選用之。",
-        "第十一條": "　　照黨團協商條文通過。",
-        "第十二條": "　　規定本條例之施行日期。"
-    },
+    "deprecated_reason": "　　配合內政部警政署及所屬機關（構）組織法規已於103年1月1日施行，爰依中央法規標準法第21條第4款「同一事項已定有新法規，並公布或發布施行者」規定，爰廢止「內政部警政署國家公園警察大隊組織條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "810103",
-            "立法紀錄": "81卷3期2531號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cccc81c7cecfcfcccfcfc4cfcfcfccc4cfcfcfcc",
+            "會議日期": "1030221",
+            "立法紀錄": "103卷13期4122號一冊 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7cccb81cecfcccfcecccfcec4cfcfcfcdc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec7c7cdc9cfcfc5ccc6d2cbcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcecfcec5cecfc7d2ceccc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "810506",
-            "立法紀錄": "81卷39期2567號 216-226頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cccc81c7cecfccc6cfcfc4cfcdcec9c4cfcdcdc9",
+            "會議日期": "1041112",
+            "立法紀錄": "104卷87期4286號 1-1,4-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7cccb81cecfcbcfc7c8cfcec4cfcfcfcec4cfcfcfced9cecfcbcfc7c8cfcec4cfcfcfcbc4cfcfccce",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "810604",
-            "立法紀錄": "81卷47期2575號 459-500頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cccc81c7cecfcbc8cfcfc4cfcbcac6c4cfcacfcf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "821206",
-            "立法紀錄": "82卷73期2672號下冊 178-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cccc81c7cdc8cccfccc4cfcec8c7c4cfcec6ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "831024",
-            "立法紀錄": "83卷70期2744號 349-389頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cccc81c7ccc8cfcfcfc4cfcccbc6c4cfccc7c6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "870528",
-            "立法紀錄": "87卷31期2980號上冊 83-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cccc81c7c8cccecfcec4cfcfc7ccc4cfcfc6c9",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 501-522頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7cccb81cecfcbcfc7c6cfcec4cfcacfcec4cfcacdcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccfc8cfcec5c9ccc6d2c9cacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cec6ccd2cdcdcb"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "870528",
-            "立法紀錄": "87卷31期2980號上冊 96-96頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7cccc81c7c8cccecfcec4cfcfc6c9c4cfcfc6c9",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 522-522頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7cccb81cecfcbcfc7c6cfcec4cfcacdcdc4cfcacdcd",
             "關係文書": []
         }
     ]
