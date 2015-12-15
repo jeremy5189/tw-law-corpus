@@ -1,11 +1,11 @@
 {
     "title": "行政院原住民族委員會組織條例",
     "versions": [
-        "中華民國95年1月13日修正",
-        "中華民國95年2月3日公布"
+        "中華民國104年12月1日廢止",
+        "中華民國104年12月16日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -142,67 +142,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十條": "　　一、本條文制定時，原住民族僅有九族，為促使各族均有其族群代表，特別規定七人至九人依聘用人員聘用條例聘用。\n　　二、但目前原住民族已調整為十二族，原條文第一項聘用委員人數計七人至九人之規定，已有必要因應原住民族民族數增加之需，將「聘用委員」人數予以調整。\n　　三、為兼顧其他原住民族日後正名所需，建議依聘用人員聘用條例聘用之委員，應依原住民族數聘用，以避免日後修法不便，影響該委員會實際運作。"
-    },
+    "deprecated_reason": "　　為配合行政院組織改造作業，原住民族委員會組織法業於103年3月26日開始施行，「行政院原住民族委員會組織條例」所定各項業務職掌均已移轉原住民族委員會，爰依中央法規標準法第21條第4項規定予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940422",
-            "立法紀錄": "94卷25期3407號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7c881c6cbcdcacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "楊仁福",
+            "會議日期": "1030418",
+            "立法紀錄": "103卷25期4134號 29-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c7c781cecfcccfcdcacfcec4cfcfcdc6c4cfcfcdc6",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcecfc6cfcec5cecac8d2cecac7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "940513",
-            "立法紀錄": "94卷34期3416號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7c881c6cbcccbcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "林春德",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcececdcfcec5cececcd2cececb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9cfcdc5cccec9d2cccdcf"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "940530",
-            "立法紀錄": "94卷43期3425號 167-183頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7c881c6cbcbcccfcfc4cfcec9c8c4cfcec7cc",
+            "會議日期": "1041112",
+            "立法紀錄": "104卷87期4286號 1-1,4-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c7c781cecfcbcfc7c8cfcec4cfcfcfcec4cfcfcfced9cecfcbcfc7c8cfcec4cfcfcfcbc4cfcfccce",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "940927",
-            "立法紀錄": "94卷45期3427號 143-147頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7c881c6cbcbcacfcfc4cfcecbccc4cfcecbc8",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 490-495頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c7c781cecfcbcfc7c6cfcec4cfcbc6cfc4cfcbc6ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcccfcdc5caceced2caceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cec8c8d2cec7cd"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 460-460頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7c881c6cacfcacfcec4cfcbc9cfc4cfcbc9cf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "950113",
-            "立法紀錄": "95卷5期3466號一冊 460-461頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c7c881c6cacfcacfcec4cfcbc9cfc4cfcbc9ce",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 495-495頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c7c781cecfcbcfc7c6cfcec4cfcbc6cac4cfcbc6ca",
             "關係文書": []
         }
     ]
