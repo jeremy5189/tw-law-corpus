@@ -1,11 +1,11 @@
 {
     "title": "內政部警政署臺灣保安警察總隊組織條例",
     "versions": [
-        "中華民國90年10月31日制定",
-        "中華民國90年11月21日公布"
+        "中華民國104年12月1日廢止",
+        "中華民國104年12月16日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -82,65 +82,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　本條例制定之法源依據。",
-        "第二條": "　　本總隊掌理事項及隸屬關係。",
-        "第三條": "　　本總隊依掌理業務性質分設二科﹑二室及一中心。",
-        "第四條": "　　本總隊置總隊長一人﹑副總隊長一人及其所列官等﹑職等及職掌。",
-        "第五條": "　　本總隊所置人員之職稱﹑官等﹑職等及員額。",
-        "第六條": "　　本總隊人事室所置人員之職稱﹑官等﹑職等及職掌。",
-        "第七條": "　　本總隊會計室所置人員之職稱﹑官等﹑職等及職掌。",
-        "第八條": "　　本總隊附屬單位及所屬各項職務之職稱﹑員額及官職等。",
-        "第九條": "　　一﹑第一項訂明本總隊列有官等﹑職等人員﹐其職務所適用職系之法律依據。\n　　二﹑第二項訂明本條例所列警員﹐列警正四階人數依警察官職務等階表之規定﹐以符實際。\n　　三﹑第三項訂明本條例施行前僱用之現職雇員﹐未具公務人員任用資格者﹐得占用書記職缺﹐繼續僱用至離職為止﹐以保障其工作權。",
-        "第十條": "　　本總隊經費預算來源及劃分規定。",
-        "第十一條": "　　本總隊辦事細則之擬訂及核定程序。",
-        "第十二條": "　　本條例施行日期由行政院以命令定之。"
-    },
+    "deprecated_reason": "　　配合內政部警政署及所屬機關（構）組織法規已於103年1月1日施行，爰依中央法規標準法第21條第4款「同一事項已定有新法規，並公布或發布施行者」規定，爰廢止「內政部警政署臺灣保安警察總隊組織條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "900327",
-            "立法紀錄": "90卷14期3148號上冊 8-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c9cf81c6cfcecbcfcec4cfcfcfc7c4cfcfcfc6",
+            "會議日期": "1030221",
+            "立法紀錄": "103卷13期4122號一冊 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7c9ce81cecfcccfcecccfcec4cfcfcfcdc4cfcfcfcc",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcccfccc5c9c8cdd2c7cbcb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcecfcec5cecfc7d2ceccc7"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900503",
-            "立法紀錄": "90卷33期3167號 91-130頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c9cf81c6cfcccccfcfc4cfcfc6cec4cfcecccf",
+            "會議日期": "1041112",
+            "立法紀錄": "104卷87期4286號 1-1,4-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7c9ce81cecfcbcfc7c8cfcec4cfcfcfcec4cfcfcfced9cecfcbcfc7c8cfcec4cfcfcfcbc4cfcfccce",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "901011",
-            "立法紀錄": "90卷47期3181號中冊 526-600頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c9cf81c6cfcbc8cfcdc4cfcacdc9c4cfc9cfcf",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 501-522頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7c9ce81cecfcbcfc7c6cfcec4cfcacfcec4cfcacdcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacecdcfcdc5cdc8ced2cccbce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cec6ccd2cdcdcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "901031",
-            "立法紀錄": "90卷53期3187號一冊 380-393頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c9cf81c6cfcacccfcec4cfccc7cfc4cfccc6cc",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "901031",
-            "立法紀錄": "90卷53期3187號一冊 393-393頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc7c9cf81c6cfcacccfcec4cfccc6ccc4cfccc6cc",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 522-522頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc7c9ce81cecfcbcfc7c6cfcec4cfcacdcdc4cfcacdcd",
             "關係文書": []
         }
     ]
