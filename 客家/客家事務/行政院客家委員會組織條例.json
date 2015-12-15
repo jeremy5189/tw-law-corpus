@@ -1,11 +1,11 @@
 {
     "title": "行政院客家委員會組織條例",
     "versions": [
-        "中華民國90年5月4日制定",
-        "中華民國90年5月16日公布"
+        "中華民國104年12月1日廢止",
+        "中華民國104年12月16日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -94,99 +94,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "明定本會隸屬行政院及其設立宗旨。",
-        "第二條": "明訂本會對於中央政府處理或地方政府執行客家事務有協調及監督之責。",
-        "第三條": "明定本會之職掌。",
-        "第四條": "明定本會內部單位設三處。",
-        "第五條": "明定本會主任委員及副主任委員人數及其職務。",
-        "第六條": "明定本會委員人數、組成及產生方式。",
-        "第七條": "明定本會委員會議之召開方式。",
-        "第八條": "明定本會人員之職稱、編制及官等、職等。",
-        "第九條": "明定人事室掌理事項。",
-        "第十條": "明定會計室掌理事項。",
-        "第十一條": "明定本會人員所適用之職系，依公務人員任用法第八條之規定。",
-        "第十二條": "明定本會因業務需要得設各種諮詢委員會。",
-        "第十三條": "明定本會因業務需要得聘用研究人員。",
-        "第十四條": "明定本條例之施行日期。"
-    },
+    "deprecated_reason": "　　配合組織改造作業，客家委員會組織法業於101年1月1日施行，依據中央法規標準法第21條第4款規定，「行政院客家委員會組織條例」已無適用之必要，爰予以廢止，俾完備法制作業。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890530",
-            "立法紀錄": "89卷30期3089號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c8c981c7c6cccfcfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "1010309",
+            "立法紀錄": "101卷4期3945號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c8c881cecfcecfcfcbcfcec4cfcfcecfc4cfcfcecf",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdcfcfcfc5cdcacad2cdcac6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900417",
-            "立法紀錄": "90卷19期3153號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c8c981c6cfcec6cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcacfcec5cec7cbd2cec7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900417",
-            "立法紀錄": "90卷19期3153號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c8c981c6cfcec6cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "劉光華",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcacfcec5cec6cfd2cec6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "900417",
-            "立法紀錄": "90卷19期3153號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c8c981c6cfcec6cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "劉盛良",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcbcfcdc5cacfced2cacfc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcdc5cbc8d2cbc6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "900418",
-            "立法紀錄": "90卷26期3160號四冊 3-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c8c981c6cfcdc9cfcbc4cfcfcfccc4cfcfcbc7",
+            "會議日期": "1041112",
+            "立法紀錄": "104卷87期4286號 1-3,7-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c8c881cecfcbcfc7c8cfcec4cfcfcfcec4cfcfcfccd9cecfcbcfc7c8cfcec4cfcfcfc8c4cfcfccce",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "900504",
-            "立法紀錄": "90卷24期3158號上冊 25-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c8c981c6cfcdcbcfcec4cfcfcdcac4cfcfcacd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 495-497頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c8c881cecfcbcfc7c6cfcec4cfcbc6cac4cfcbc6c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfc8cfcfc5cdc7cbd2cccecf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cec7ccd2cec7c9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "900504",
-            "立法紀錄": "90卷24期3158號上冊 52-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6c8c981c6cfcdcbcfcec4cfcfcacdc4cfcfcac8",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷89期4288號一冊 497-497頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6c8c881cecfcbcfc7c6cfcec4cfcbc6c8c4cfcbc6c8",
             "關係文書": []
         }
     ]
