@@ -1,8 +1,8 @@
 {
     "title": "國軍退除役官兵輔導條例",
     "versions": [
-        "中華民國100年1月10日修正",
-        "中華民國100年1月26日公布"
+        "中華民國104年12月8日修正",
+        "中華民國104年12月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -22,13 +22,13 @@
         {
             "note": "(退除役官兵之定義)",
             "rule_no": "第二條",
-            "content": "　　本條例所稱退除役官兵如下：\n　　一、志願服一定年限之現役軍官、士官、士兵，依法退伍除役者。\n　　二、服軍官、士官、士兵役，因作戰或因公致病、傷或身心障礙，於退伍除役後，生計艱難需長期醫療或就養者。\n　　三、服軍官、士官、士兵役，曾參加民國四十七年八二三臺海保衛戰役及其他經國防部核定之關係國家安全之重要戰役者。\n　　金門馬祖民防自衛隊，曾參加民國四十七年八二三臺海保衛戰役者，自民國九十年元月一日起視同退除役官兵。\n　　第一項第一款人員所需服現役之年限，由行政院國軍退除役官兵輔導委員會擬訂，報請行政院核定之。",
+            "content": "　　本條例所稱退除役官兵如下：\n　　一、志願服一定年限之現役軍官、士官、士兵，依法退伍除役者。\n　　二、服軍官、士官、士兵役，因作戰或因公致病、傷或身心障礙，於退伍除役後，生計艱難需長期醫療或就養者。\n　　三、服軍官、士官、士兵役，曾參加民國四十七年八二三臺海保衛戰役及其他經國防部核定之關係國家安全之重要戰役者。\n　　金門馬祖民防自衛隊，曾參加前項第三款之重要戰役者，視同退除役官兵，其生效日期由國軍退除役官兵輔導委員會（以下簡稱輔導會）報請行政院核定。但曾參加民國四十七年八二三臺海保衛戰役者，自中華民國九十年一月一日生效。\n　　第一項第一款人員所需服現役之年限，由輔導會擬訂，報請行政院核定之。",
             "relates": {}
         },
         {
             "note": "(主管機關)",
             "rule_no": "第三條",
-            "content": "　　本條例之實施，以行政院國軍退除役官兵輔導委員會（以下簡稱輔導會）為主管機關，各有關部會、直轄市政府及縣（市）政府為協管機關。",
+            "content": "　　本條例之實施，以輔導會為主管機關，各有關部會、直轄市政府及縣（市）政府為協管機關。",
             "relates": {}
         },
         {
@@ -247,59 +247,67 @@
         }
     ],
     "law_reasons": {
-        "第十六條": "　　新增第三項。就養給付係為社會福利給付，具有社會安全制度性質，該給付之請領，不應因其他債權執行而影響榮民生活；並與其他社福、保險給付具有一致性。從而落實榮民權益保障並賦予該給付正當之法源依據。"
+        "第二條": "　　一、鑑於金門馬祖民防自衛隊，為國犧牲奉獻，除參加民國四十七年八二三臺海保衛戰役者視同退除役官兵外，曾參加第一項第三款其他經國防部核定之關係國家安全之重要戰役者，併同納入照顧輔導對象，並定明其生效日期，由輔導會報請行政院核定，爰修正第二項規定。\n　　二、配合行政院組織改造，輔導會之名稱變更，及第二項所定輔導會之簡稱，酌修第三項文字。",
+        "第三條": "　　配合修正條文第二條第二項所定輔導會之簡稱，酌修本條文字。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "981103",
-            "立法紀錄": "98卷59期3745號 4-4頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cecbcd81c6c7cac6cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "潘孟安",
+            "會議日期": "1041110",
+            "立法紀錄": "104卷79期4278號 3-3頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcc81cecfcbcfc8c6cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "楊應雄",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc8cfcfc5cec9c9d2cec9c7"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfc9c8cdc5c6ccd2c6c9"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "991022",
-            "立法紀錄": "99卷55期3820號 2-3頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcd81cfc6c6cfcacacfcec4cfcfcfcdc4cfcfcfcc",
-            "主提案": "張顯耀",
+            "會議日期": "1041110",
+            "立法紀錄": "104卷79期4278號 33-33頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcc81cecfcbcfc8c6cfcec4cfcfccccc4cfcfcccc",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cfcac8cdc5c6ced2c6cd"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfc7c8cdc5cececcd2cecec9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "991223",
-            "立法紀錄": "100卷6期3858號 370-375頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcd81cecfcfcfcfc9cfcec4cfccc8cfc4cfccc8ca",
+            "會議日期": "1041123",
+            "立法紀錄": "104卷91期4290號 43-43,45-60頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcc81cecfcbcfc6cecfcec4cfcfcbccc4cfcfcbccd9cecfcbcfc6cecfcec4cfcfcbcac4cfcfc9cf",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷8期3860號一冊 217-221頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcd81cecfcfcfcfc7cfcec4cfcdcec8c4cfcdcdce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041208",
+            "立法紀錄": "104卷93期4292號二冊 333-338頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcc81cecfcbcfc6cccfcdc4cfccccccc4cfccccc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cecacfc8c5ccc9d2ccc6"
+                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cdc9c8d2cdc8cb"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1041208",
+            "立法紀錄": "104卷93期4292號二冊 338-339頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcc81cecfcbcfc6cccfcdc4cfccccc7c4cfccccc6",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷8期3860號一冊 221-221頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcd81cecfcfcfcfc7cfcec4cfcdcdcec4cfcdcdce",
+            "會議日期": "1041208",
+            "立法紀錄": "104卷93期4292號二冊 339-339頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cecbcc81cecfcbcfc6cccfcdc4cfccccc6c4cfccccc6",
             "關係文書": []
         }
     ]
