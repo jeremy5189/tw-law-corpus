@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法施行法",
     "versions": [
-        "中華民國98年12月15日修正",
-        "中華民國98年12月30日公布"
+        "中華民國104年12月17日修正",
+        "中華民國104年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -146,57 +146,97 @@
             "rule_no": "第十條 之二",
             "content": "　　中華民國九十七年十二月三十日修正之刑法第四十一條，自九十八年九月一日施行。\n　　中華民國九十八年五月十九日修正之刑法第四十二條之一、第四十四條、第七十四條、第七十五條、第七十五條之一，自九十八年九月一日施行。",
             "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十條 之三",
+            "content": "　　中華民國一百零四年十二月十七日修正之刑法，自一百零五年七月一日施行。\n　　施行日前制定之其他法律關於沒收、追徵、追繳、抵償之規定，不再適用。",
+            "relates": {}
         }
     ],
     "law_reasons": {
-        "第三條 之三": "　　一、本條新增。\n　　二、為達新法修正之目的，並解決新舊法律適用疑義，爰增訂本條。",
-        "第十條": "　　一、原條文未修正，列為第一項。\n　　二、中央法規標準法於五十九年制定公布，第一條規定：「中央法規之制定、施行、適用、修正及廢止，除憲法規定外，依本法之規定。」第十二條規定：「法規應規定施行日期，或授權以命令規定施行日期。」第十三條規定：「法規明定自公布或發布日施行者，自公布或發布之日起算至第三日起發生效力。」刑法及本法皆為中央法規，其施行本應依中央法規標準法之規定，惟因二者於二十四年間即已制定公布並施行，故未於本法中規定其施行日期。嗣後修正公布之條文，除本法另定有施行日期者外，即因本法未規定自公布日施行，致無中央法規標準法第十三條之適用，現今司法實務雖採自公布日施行之見解，惟為明確規定刑法及本法修正條文之施行日期，以符合中央法規標準法之規定，避免產生爭議，爰增訂第二項。"
+        "第十條 之三": "　　照協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "981103",
-            "立法紀錄": "98卷59期3745號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfc881c6c7cac6cfcfc4cfcfcfcbc4cfcfcfca",
+            "會議日期": "1041127",
+            "立法紀錄": "104卷89期4288號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc7c6cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "民進黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8cdc5c9cad2c8c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1041211",
+            "立法紀錄": "104卷96期4295號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc6c9cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "國民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7ceccc8cdc5cbc6d2c9cd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1041211",
+            "立法紀錄": "104卷96期4295號一冊 36-36頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc6c9cfcec4cfcfccc9c4cfcfccc9",
             "主提案": "行政院、司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcfc8c8cdc5cec9cbd2cec8ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7ceccc8cdc5cec9c6d2cec7c9"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "981125",
-            "立法紀錄": "98卷72期3758號 64-109頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfc881c6c7c8cdcfcfc4cfcfc9cbc4cfcecfc6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041211",
+            "立法紀錄": "104卷96期4295號一冊 70-70頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc6c9cfcec4cfcfc8cfc4cfcfc8cf",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "981130",
-            "立法紀錄": "98卷74期3760號 332-353頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfc881c6c7c8cbcfcfc4cfcccccdc4cfcccacc",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041215",
+            "立法紀錄": "104卷96期4295號二冊 218-253頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc6c9cfcdc4cfcdcec7c4cfcdcacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 76-77頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc6c7cfcec4cfcfc8c9c4cfcfc8c8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041217",
+            "立法紀錄": "104卷98期4297號二冊 245-258頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc6c7cfcdc4cfcdcbcac4cfcdcac7",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "981215",
-            "立法紀錄": "98卷75期3761號二冊 265-276頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfc881c6c7c8cacfcdc4cfcdc9cac4cfcdc8c9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecccfcbc5cdc6d2ccc7"
-                ]
-            ]
+            "會議日期": "1041217",
+            "立法紀錄": "104卷98期4297號二冊 258-258頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc6c7cfcdc4cfcdcac7c4cfcdcac7",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "981215",
-            "立法紀錄": "98卷75期3761號二冊 276-277頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfc9cacfc881c6c7c8cacfcdc4cfcdc8c9c4cfcdc8c8",
+            "會議日期": "1041217",
+            "立法紀錄": "104卷98期4297號二冊 258-259頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacfc781cecfcbcfc6c7cfcdc4cfcdcac7c4cfcdcac6",
             "關係文書": []
         }
     ]
