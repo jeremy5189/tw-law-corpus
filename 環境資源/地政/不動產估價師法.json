@@ -1,8 +1,8 @@
 {
     "title": "不動產估價師法",
     "versions": [
-        "中華民國100年5月27日修正",
-        "中華民國100年6月15日公布"
+        "中華民國104年12月16日修正",
+        "中華民國104年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -62,7 +62,7 @@
         {
             "note": "(禁止發給開業證書之情形)",
             "rule_no": "第八條",
-            "content": "　　有下列情形之一，不發給開業證書；已領者，撤銷或廢止其開業資格並註銷開業證書：\n　　一、經撤銷或廢止不動產估價師資格並註銷不動產估價師證書者。\n　　二、經公立醫院或教學醫院證明有精神病者。\n　　三、受監護或輔助宣告尚未撤銷者。\n　　四、受破產宣告尚未復權者。\n　　依前項第二款至第四款註銷開業證書者，於原因消滅後，仍得依本法之規定，請領開業證書。",
+            "content": "　　有下列情形之一者，不發給開業證書；已領者，撤銷或廢止其開業資格並註銷開業證書：\n　　一、經撤銷或廢止不動產估價師資格並註銷不動產估價師證書。\n　　二、罹患精神疾病或身心狀況違常，經直轄市或縣（市）主管機關委請二位以上相關專科醫師諮詢，並經直轄市或縣（市）主管機關認定不能執行業務。\n　　三、受監護或輔助宣告尚未撤銷。\n　　四、受破產宣告尚未復權。\n　　依前項第二款至第四款註銷開業證書者，於原因消滅後，仍得依本法之規定，請領開業證書。",
             "relates": {}
         },
         {
@@ -317,46 +317,66 @@
         }
     ],
     "law_reasons": {
-        "第二十四條": "　　一、因應「公民與政治權利國際公約及經濟社會文化權利國際公約施行法」施行，本條限制同級公會及全國聯合會均以一個為限，有過度限制人民結社自由之虞，未符公民與政治權利國際公約第二十二條自由結社權利之規定。爰修正第二項及第三項文字「以一個為限」\n為「以一個為原則」，並將原第二項規範直轄市或縣（市）同級公會及第三項規範公會全國聯合會之規定予以合併，以利簡化。\n　　二、另為避免同級公會不以一個為限，所衍生日後二個以上同級公會同名之困擾，爰增訂但書規定同級公會，有二個以上者，其名稱不得相同。"
+        "第八條": "　　一、原條文第一項第二款規定不發給開業證書之情事，有過度限制人民職業自由之虞，為保障人權及人民工作權，爰參考精神衛生法第二十二條、技師法第十一條、會計師法第六條及社會工作師法第十條規定修正，明定為罹患精神疾病或身心狀況違常，經認定不能執行業務者，不發給開業證書，另酌作文字修正。\n　　二、第二項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1000318",
-            "立法紀錄": "100卷17期3869號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8ce81cecfcfcfcec8cfcec4cfcfcfccc4cfcfcfcc",
+            "會議日期": "1020924",
+            "立法紀錄": "102卷48期4073號二冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8cc81cecfcdcfcbc7cfcdc4cfcfcfc6c4cfcfcfc6",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfcac8cdc5caced2cacb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcfcdcfcec5cbcacdd2cbcacb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030912",
+            "立法紀錄": "103卷51期4160號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8cc81cecfcccfcacecfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林佳龍",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcec8cdc5cbccd2cbc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000516",
-            "立法紀錄": "100卷44期3896號 173-217頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8ce81cecfcfcfcbcbcfcec4cfcec8ccc4cfcdcec8",
+            "會議日期": "1041207",
+            "立法紀錄": "104卷97期4296號 45-45,49-77,79-79,81-82頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8cc81cecfcbcfc6c8cfcec4cfcfcbcac4cfcfcbcad9cecfcbcfc6c8cfcec4cfcfcbc6c4cfcfc8c8d9cecfcbcfc6c8cfcec4cfcfc8c6c4cfcfc8c6d9cecfcbcfc6c8cfcec4cfcfc7cec4cfcfc7cd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1000527",
-            "立法紀錄": "100卷45期3897號一冊 58-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8ce81cecfcfcfcbcacfcec4cfcfcac7c4cfcfc9ce",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 60-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8cc81cecfcbcfc6c7cfcec4cfcfc9cfc4cfcfc9cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecacfcdc5cdcacfd2cdcacc"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecbc8c9c5c6d2cecb"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 64-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8cc81cecfcbcfc6c7cfcec4cfcfc9cbc4cfcfc9cb",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1000527",
-            "立法紀錄": "100卷45期3897號一冊 61-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8ce81cecfcfcfcbcacfcec4cfcfc9cec4cfcfc9ce",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 64-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c8c8cc81cecfcbcfc6c7cfcec4cfcfc9cbc4cfcfc9cb",
             "關係文書": []
         }
     ]
