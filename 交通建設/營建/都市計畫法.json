@@ -1,8 +1,8 @@
 {
     "title": "都市計畫法",
     "versions": [
-        "中華民國99年5月4日修正",
-        "中華民國99年5月19日公布"
+        "中華民國104年12月16日修正",
+        "中華民國104年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -286,7 +286,7 @@
         {
             "note": "",
             "rule_no": "第四十二條",
-            "content": "　　都市計畫地區範圍內，應視實際情況，分別設置左列公共設施用地：\n　　一、道路、公園、綠地、廣場、兒童遊樂場、民用航空站、停車場所、河道及港埠用地。\n　　二、學校、社教機構、體育場所、市場、醫療衛生機構及機關用地。\n　　三、上下水道、郵政、電信、變電所及其他公用事業用地。\n　　四、本章規定之其他公共設施用地。\n　　前項各款公共設施用地應儘先利用適當之公有土地。",
+            "content": "　　都市計畫地區範圍內，應視實際情況，分別設置左列公共設施用地：\n　　一、道路、公園、綠地、廣場、兒童遊樂場、民用航空站、停車場所、河道及港埠用地。\n　　二、學校、社教機構、社會福利設施、體育場所、市場、醫療衛生機構及機關用地。\n　　三、上下水道、郵政、電信、變電所及其他公用事業用地。\n　　四、本章規定之其他公共設施用地。\n　　前項各款公共設施用地應儘先利用適當之公有土地。",
             "relates": {}
         },
         {
@@ -310,7 +310,7 @@
         {
             "note": "",
             "rule_no": "第四十六條",
-            "content": "　　中小學校、社教場所、市場、郵政、電信、變電所、衛生、警所、消防、防空等公共設施，應按閭鄰單位或居民分布情形適當配置之。",
+            "content": "　　中小學校、社教場所、社會福利設施、市場、郵政、電信、變電所、衛生、警所、消防、防空等公共設施，應按閭鄰單位或居民分布情形適當配置之。",
             "relates": {}
         },
         {
@@ -599,46 +599,106 @@
         }
     ],
     "law_reasons": {
-        "第八十四條": "　　因土地法第二百十八條已於民國九十年十月十二日刪除，故修正本條文。"
+        "第四十二條": "　　原條文第一項第二款「社教機構」後，增列「社會福利設施」等字，餘維持原法條文。",
+        "第四十六條": "　　原條文「社教場所」後，增列「社會福利設施」等字，餘維持原法條文。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "980320",
-            "立法紀錄": "98卷12期3698號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cccd81c6c7cecdcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "林德福",
+            "會議日期": "1021227",
+            "立法紀錄": "103卷3期4112號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcccfcfcccfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "謝國樑",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfcacfcec5cecec9d2cecec8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcec9cfcec5cccfc6d2cccecf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030509",
+            "立法紀錄": "103卷34期4143號 55-56頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcccfcccbcfcec4cfcfcacac4cfcfcac9",
+            "主提案": "馬文君",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc7cfcec5cccacbd2cccac8"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030523",
+            "立法紀錄": "103卷41期4150號 40-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcccfcbcecfcec4cfcfcbcfc4cfcfcbcf",
+            "主提案": "楊玉欣",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacececfc9c5cecdd2cecb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030523",
+            "立法紀錄": "103卷41期4150號 40-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcccfcbcecfcec4cfcfcbcfc4cfcfcbcf",
+            "主提案": "許智傑",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacececfcec5cdcecbd2cdcec9"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1031107",
+            "立法紀錄": "103卷72期4181號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcccfc8cdcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "顏寬恒",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc6c8cdc5cccad2ccc9"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980527",
-            "立法紀錄": "98卷38期3724號 436-458頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcac7cccd81c6c7ccc7cfcfc4cfcbccc9c4cfcbcac7",
+            "會議日期": "1041207",
+            "立法紀錄": "104卷97期4296號 45-45,49-82頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcbcfc6c8cfcec4cfcfcbcac4cfcfcbcad9cecfcbcfc6c8cfcec4cfcfcbc6c4cfcfc7cd",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990504",
-            "立法紀錄": "99卷31期3796號一冊 301-302頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccd81cfc6c6cfcccecfcec4cfcccfcec4cfcccfcd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 64-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcbcfc6c7cfcec4cfcfc9cbc4cfcfc8ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacececfcbc5c8cb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecbc8c9c5cecad2cdc9"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 75-75頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcbcfc6c7cfcec4cfcfc8cac4cfcfc8ca",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "990504",
-            "立法紀錄": "99卷31期3796號一冊 303-303頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccd81cfc6c6cfcccecfcec4cfcccfccc4cfcccfcc",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 75-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac7cccb81cecfcbcfc6c7cfcec4cfcfc8cac4cfcfc8c9",
             "關係文書": []
         }
     ]
