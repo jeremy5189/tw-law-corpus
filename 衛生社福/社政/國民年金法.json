@@ -1,8 +1,8 @@
 {
     "title": "國民年金法",
     "versions": [
-        "中華民國104年11月27日修正",
-        "中華民國104年12月16日公布"
+        "中華民國104年12月11日修正",
+        "中華民國104年12月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -146,7 +146,7 @@
         {
             "note": "",
             "rule_no": "第十八條 之一",
-            "content": "　　依本法發給之各項給付為年金者，除老年年金給付自符合條件之當月起按月發給至死亡當月為止外，其他年金給付自提出申請且符合條件之當月起按月發給至應停止發給或死亡之當月止。",
+            "content": "　　依本法發給之各項給付為年金者，除老年年金給付自符合條件之當月起按月發給至死亡當月為止外，其他年金給付自提出申請且符合條件之當月起按月發給至應停止發給或死亡之當月止。\n　　自中華民國一百零五年三月一日起，發生死亡事故，其遺屬年金給付之受益人未於符合請領條件之當月提出申請者，其提出請領之日起前五年得領取之給付，由保險人依法追溯補給之。但已經其他受益人請領之部分，不適用之。",
             "relates": {}
         },
         {
@@ -437,131 +437,53 @@
         }
     ],
     "law_reasons": {
-        "第三十二條 之一": "　　一、第一項第一款將生育給付由1個月提高至2個月。\n　　二、第二項修正為：「同一分娩或早產事故同時符合本保險與相關社會保險生育給付或補助條件者，僅得擇一請領；被保險人申請生育給付，並依本法第十六條但書規定分期或延期繳納保險費及利息者，其已繳納金額不得低於給付總額之半數。」"
+        "第十八條 之一": "　　一、原條文未修正，列為第一項。\n　　二、增訂第二項：「自中華民國一百零五年三月一日起，發生死亡事故，其遺屬年金給付之受益人未於符合請領條件之當月提出申請者，其提出請領之日起前五年得領取之給付，由保險人依法追溯補給之。但已經其他受益人請領之部分，不適用之。」"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1011207",
-            "立法紀錄": "101卷81期4022號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcecfc7cecfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "何欣純",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdcfcec5cecbc9d2cecbc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020322",
-            "立法紀錄": "102卷10期4035號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcdcfcecfcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "劉建國",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfcacfcec5cec7cad2cec7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020524",
-            "立法紀錄": "102卷34期4059號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcdcfcccbcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "蔡其昌",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbcfcec5cdc8cdd2cdc8cc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030418",
-            "立法紀錄": "103卷25期4134號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcccfcdcacfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "李慶華",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9cfcec5cdc9cbd2cdc9ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030418",
-            "立法紀錄": "103卷25期4134號 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcccfcdcacfcec4cfcfcecdc4cfcfcecd",
-            "主提案": "劉建國",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9cfcdc5cdcdd2cdcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1031014",
-            "立法紀錄": "103卷59期4168號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcccfcac6cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "蔣乃辛",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcac8cdc5cec8cad2cec8c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
             "會議日期": "1041016",
-            "立法紀錄": "104卷67期4266號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcbcfc9c8cfcec4cfcfcfccc4cfcfcfcc",
+            "立法紀錄": "104卷67期4266號 2-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cccd81cecfcbcfc9c8cfcec4cfcfcfcdc4cfcfcfcc",
             "主提案": "江惠貞",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfcac8cdc5c9cad2c9c7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfcac8cdc5c9ced2c9cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1041102",
-            "立法紀錄": "104卷81期4280號 213-213,220-220,222-223,225-226,228-229,239-270頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcbcfc7cecfcec4cfcdceccc4cfcdceccd9cecfcbcfc7cecfcec4cfcdcdcfc4cfcdcdcfd9cecfcbcfc7cecfcec4cfcdcdcdc4cfcdcdccd9cecfcbcfc7cecfcec4cfcdcdcac4cfcdcdc9d9cecfcbcfc7cecfcec4cfcdcdc7c4cfcdcdc6d9cecfcbcfc7cecfcec4cfcdccc6c4cfcdc8cf",
+            "會議日期": "1041116",
+            "立法紀錄": "104卷88期4287號 221-221,233-233,238-267,271-271,273-274,277-278頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cccd81cecfcbcfc7c7cfcec4cfcdcdcec4cfcdcdced9cecfcbcfc7c7cfcec4cfcdccccc4cfcdccccd9cecfcbcfc7c7cfcec4cfcdccc7c4cfcdc9c8d9cecfcbcfc7c7cfcec4cfcdc8cec4cfcdc8ced9cecfcbcfc7c7cfcec4cfcdc8ccc4cfcdc8cbd9cecfcbcfc7c7cfcec4cfcdc8c8c4cfcdc8c7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1041127",
-            "立法紀錄": "104卷89期4288號一冊 338-350頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcbcfc7c6cfcec4cfccccc7c4cfcccacf",
+            "會議日期": "1041211",
+            "立法紀錄": "104卷96期4295號一冊 87-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cccd81cecfcbcfc6c9cfcec4cfcfc7c8c4cfcfc6cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cdced2cccb"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecdc8c6c5ccccd2ccc7"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1041127",
-            "立法紀錄": "104卷89期4288號一冊 350-350頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcbcfc7c6cfcec4cfcccacfc4cfcccacf",
+            "會議日期": "1041211",
+            "立法紀錄": "104卷96期4295號一冊 92-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cccd81cecfcbcfc6c9cfcec4cfcfc6cdc4cfcfc6cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1041127",
-            "立法紀錄": "104卷89期4288號一冊 350-350頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6ccce81cecfcbcfc7c6cfcec4cfcccacfc4cfcccacf",
+            "會議日期": "1041211",
+            "立法紀錄": "104卷96期4295號一冊 92-92頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc6cccd81cecfcbcfc6c9cfcec4cfcfc6cdc4cfcfc6cd",
             "關係文書": []
         }
     ]
