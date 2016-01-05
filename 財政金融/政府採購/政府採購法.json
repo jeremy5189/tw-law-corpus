@@ -1,8 +1,8 @@
 {
     "title": "政府採購法",
     "versions": [
-        "中華民國100年1月10日修正",
-        "中華民國100年1月26日公布"
+        "中華民國104年12月18日修正",
+        "中華民國105年1月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -468,6 +468,12 @@
             "relates": {}
         },
         {
+            "note": "(機關工程採購付款及審核程序)",
+            "rule_no": "第七十三條 之一",
+            "content": "　　機關辦理工程採購之付款及審核程序，除契約另有約定外，應依下列規定辦理：\n　　一、定期估驗或分階段付款者，機關應於廠商提出估驗或階段完成之證明文件後，十五日內完成審核程序，並於接到廠商提出之請款單據後，十五日內付款。\n　　二、驗收付款者，機關應於驗收合格後，填具結算驗收證明文件，並於接到廠商請款單據後，十五日內付款。\n　　三、前二款付款期限，應向上級機關申請核撥補助款者，為三十日。\n　　前項各款所稱日數，係指實際工作日，不包括例假日、特定假日及退請受款人補正之日數。\n　　機關辦理付款及審核程序，如發現廠商有文件不符、不足或有疑義而需補正或澄清者，應一次通知澄清或補正，不得分次辦理。\n　　財物及勞務採購之付款及審核程序，準用前三項之規定。",
+            "relates": {}
+        },
+        {
             "note": "",
             "section_name": "第六章  爭議處理"
         },
@@ -544,9 +550,9 @@
             "relates": {}
         },
         {
-            "note": "(履約爭議未能達成協議之處理)",
+            "note": "(履約爭議處理方式)",
             "rule_no": "第八十五條 之一",
-            "content": "　　機關與廠商因履約爭議未能達成協議者，得以下列方式之一處理：\n　　一、向採購申訴審議委員會申請調解。\n　　二、向仲裁機構提付仲裁。\n　　前項調解屬廠商申請者，機關不得拒絕；工程採購經採購申訴審議委員會提出調解建議或調解方案，因機關不同意致調解不成立者，廠商提付仲裁，機關不得拒絕。\n　　採購申訴審議委員會辦理調解之程序及其效力，除本法有特別規定者外，準用民事訴訟法有關調解之規定。\n　　履約爭議調解規則，由主管機關擬訂，報請行政院核定後發布之。",
+            "content": "　　機關與廠商因履約爭議未能達成協議者，得以下列方式之一處理：\n　　一、向採購申訴審議委員會申請調解。\n　　二、向仲裁機構提付仲裁。\n　　前項調解屬廠商申請者，機關不得拒絕。工程及技術服務採購之調解，採購申訴審議委員會應提出調解建議或調解方案；其因機關不同意致調解不成立者，廠商提付仲裁，機關不得拒絕。\n　　採購申訴審議委員會辦理調解之程序及其效力，除本法有特別規定者外，準用民事訴訟法有關調解之規定。\n　　履約爭議調解規則，由主管機關擬訂，報請行政院核定後發布之。",
             "relates": {}
         },
         {
@@ -570,7 +576,7 @@
         {
             "note": "(採購申訴審議委員會之設置)",
             "rule_no": "第八十六條",
-            "content": "　　主管機關及直轄市、縣（市）政府為處理中央及地方機關採購之廠商申訴及機關與廠商間之履約爭議調解，分別設採購申訴審議委員會；置委員七人至二十五人，由主管機關及直轄市、縣（市）政府聘請具有法律或採購相關專門知識之公正人士擔任，其中三人並得由主管機關及直轄市、縣（市）政府高級人員派兼之。但派兼人數不得超過全體委員人數五分之一。\n　　採購申訴審議委員會應公正行使職權。採購申訴審議委員會組織準則，由主管機關擬訂，報請行政院核定後發布之。",
+            "content": "　　主管機關及直轄市、縣（市）政府為處理中央及地方機關採購之廠商申訴及機關與廠商間之履約爭議調解，分別設採購申訴審議委員會；置委員七人至三十五人，由主管機關及直轄市、縣（市）政府聘請具有法律或採購相關專門知識之公正人士擔任，其中三人並得由主管機關及直轄市、縣（市）政府高級人員派兼之。但派兼人數不得超過全體委員人數五分之一。\n　　採購申訴審議委員會應公正行使職權。採購申訴審議委員會組織準則，由主管機關擬訂，報請行政院核定後發布之。",
             "relates": {}
         },
         {
@@ -757,75 +763,190 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　一、第一項工程價格資料庫所蒐集之內容，目前已包括勞務單價，不限於材料、設備，爰刪除原條文「材料、設備之」文字。\n　　二、為利主管機關充實價格資料庫內容，增訂第二項及第三項，明定機關應傳輸相關決標單價至指定之資料庫；並授權主管機關就一定金額、傳輸資料及其他相關事項等，訂定辦法予以規範。\n　　三、增訂第四項，明定可準用工程價格資料庫之模式，建立財物及勞務項目之價格資料庫，例如資訊服務之分類、分級人月之單價資料等。\n　　四、原條文第二項之規定，與其他各項規定性質有別，與修正條文第九十五條採購專業人員相關，爰移列修正條文第九十五條第二項。",
-        "第五十二條": "　　一、第一項第一款及第二款文字中，其中第二個「於」字均改為「在」字。\n　　二、增訂第三項：於本法本條內，明確載明「機關辦理公告金額以上之專業服務、技術服務或資訊服務者，得採不訂底價之最有利標。」\n　　三、原第三項順移為第四項。",
-        "第六十三條": "　　一、第一項增訂各類採購契約以採用主管機關訂定之範本為原則，以降低個案採購契約不完整或未符公平合理原則之情形。\n　　二、第二項「應訂明廠商規劃設計」文字後補漏列「錯誤」二字。"
+        "第七十三條 之一": "　　一、本條新增。\n　　二、參考行政院訂頒之「公款支付時限及處理應行注意事項」第九點及第十點，明定政府採購之付款及審核程序。",
+        "第八十五條 之一": "　　一、原條文第一項、第三項及第四項未修正。\n　　二、第二項明定採購申訴審議委員會應提出調解建議或調解方案，以發揮調解之功能；另先調解後仲裁之規定，考量技術服務常與工程之設計、監造及專案管理事項有關，為儘速處理技術服務案件所衍生之履約爭議，爰增訂技術服務採購亦適用本項規定。",
+        "第八十六條": "　　一、為提升爭議案件處理品質及效率，並減輕委員處理案件之負擔，爰將原條文第一項有關置委員之人數上限，由二十五人修正為三十五人。\n　　二、原條文第二項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0990305",
-            "立法紀錄": "099卷011期3776號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7ceca81cfc6c6cfcececfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "楊麗環",
+            "會議日期": "1010413",
+            "立法紀錄": "101卷21期3962號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcecfcdcecfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "林岱樺",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfcccfcec5c7ccd2c7c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8cfcec5cec9cbd2cec9c8"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "0980327",
-            "立法紀錄": "098卷014期3700號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc8c7ceca81c6c7cecbcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "黃昭順",
+            "會議日期": "1011026",
+            "立法紀錄": "101卷63期4004號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcecfc9cccfcec4cfcfcfcac4cfcfcfca",
+            "主提案": false,
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfcec5cecec7d2cecdce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc9cfcec5cdcccdd2cdccca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011102",
+            "立法紀錄": "101卷65期4006號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcecfc9cacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "陳根德",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc8cfcec5cecfcfd2cecfca"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1011214",
+            "立法紀錄": "101卷83期4024號一冊 28-29頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcecfc7cccfcec4cfcfcdc7c4cfcfcdc6",
+            "主提案": "李昆澤",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecccfcec5cecbc7d2cecace"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "0990322",
-            "立法紀錄": "099卷021期3786號 112-128頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7ceca81cfc6c6cfcdcecfcec4cfcececdc4cfcecdc7",
+            "會議日期": "1011129",
+            "立法紀錄": "101卷82期4023號一冊 314-372頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcecfc7cdcfcec4cfcccecbc4cfccc8cd",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1021121",
+            "立法紀錄": "102卷76期4101號 419-505頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcdcfc8c9cfcec4cfcbcec6c4cfcacfca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷008期3860號一 冊 450-460頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7ceca81cecfcfcfcfc7cfcec4cfcbcacfc4cfcbc9cf",
+            "會議日期": "1020104",
+            "立法紀錄": "102卷4期4029號一冊 103-126頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcdcfcfcbcfcec4cfcecfccc4cfcecdc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cececfcac5cbcfc8d2cbceca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcec9cfccc5cbc9d2c9c6"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1020114",
+            "立法紀錄": "102卷5期4030號三冊 1340-1340頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcdcfcfcacfccc4cecccbcfc4cecccbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1021213",
+            "立法紀錄": "102卷80期4105號 37-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcdcfc7cfcfcec4cfcfccc8c4cfcfccc8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecbcfcbc5cccfcad2cccfc7"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1030114",
+            "立法紀錄": "103卷8期4117號七冊 170-173頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcccfcfc7cfc8c4cfcec8cfc4cfcec8cc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040120",
+            "立法紀錄": "104卷9期4208號四冊 368-369頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfcfc6cfcbc4cfccc9c7c4cfccc9c6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040123",
+            "立法紀錄": "104卷11期4210號四冊 410-410頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfcececfcbc4cfcbcecfc4cfcbcecf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1040615",
+            "立法紀錄": "104卷54期4253號十二冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfcacbcecdc4cfcfcfcdc4cfcfcfcd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 163-164頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfc6c7cfcec4cfcec9ccc4cfcec9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041218",
+            "立法紀錄": "104卷98期4297號三冊 405-406頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfc6c7cfccc4cfcbcfcac4cfcbcfc9",
+            "關係文書": []
+        },
+        {
             "進度": "黨團協商",
-            "會議日期": "0990528",
-            "立法紀錄": "100卷008期3860號四冊 289-289頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7ceca81cecfcfcfcfc7cfcbc4cfcdc7c6c4cfcdc7c6",
+            "會議日期": "1020412",
+            "立法紀錄": "104卷98期4297號五冊 373-376頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfc6c7cfcac4cfccc8ccc4cfccc8c9",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1020426",
+            "立法紀錄": "104卷98期4297號五冊 377-377頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfc6c7cfcac4cfccc8c8c4cfccc8c8",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1040527",
+            "立法紀錄": "104卷98期4297號五冊 379-379頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfc6c7cfcac4cfccc8c6c4cfccc8c6",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1041201",
+            "立法紀錄": "104卷98期4297號五冊 379-380頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfc6c7cfcac4cfccc8c6c4cfccc7cf",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷008期3860號一冊 460-461頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7ceca81cecfcfcfcfc7cfcec4cfcbc9cfc4cfcbc9ce",
+            "會議日期": "1041218",
+            "立法紀錄": "104卷98期4297號三冊 406-407頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfc6c7cfccc4cfcbcfc9c4cfcbcfc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1000110",
-            "立法紀錄": "100卷008期3860號一冊 461-461頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7ceca81cecfcfcfcfc7cfcec4cfcbc9cec4cfcbc9ce",
+            "會議日期": "1041218",
+            "立法紀錄": "104卷98期4297號三冊 407-407頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cec981cecfcbcfc6c7cfccc4cfcbcfc8c4cfcbcfc8",
             "關係文書": []
         }
     ]
