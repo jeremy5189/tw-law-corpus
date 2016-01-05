@@ -1,8 +1,8 @@
 {
     "title": "教育經費編列與管理法",
     "versions": [
-        "中華民國102年11月22日修正",
-        "中華民國102年12月11日公布"
+        "中華民國104年12月18日修正",
+        "中華民國105年1月6日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -13,7 +13,17 @@
             "note": "(立法目的及依據)",
             "rule_no": "第一條",
             "content": "　　為維護教育健全發展之需要，提升教育經費運用績效，特依教育基本法第五條第二項之規定制定本法。\n　　教育經費之編列與管理，依本法之規定。本法未規定者，依其他法律之規定。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01741",
+                        "law_name": "教育基本法",
+                        "numbers": [
+                            "第五條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(教育經費定義及主管機關)",
@@ -24,20 +34,63 @@
         {
             "note": "(各級政府教育經費預算之編列及支付)",
             "rule_no": "第三條",
-            "content": "　　中央及直轄市、縣（市）政府（以下簡稱各級政府）應於國家財政能力範圍內，充實、保障並致力推動全國教育經費之穩定成長。\n　　各級政府教育經費預算合計應不低於該年度預算籌編時之前三年度決算歲入淨額平均值之百分之二十二點五。\n　　中華民國一百零一年一月一日修正施行之前項規定所增加之教育經費預算，應優先用於推動十二年國民基本教育。\n　　第二項所定決算歲入淨額，指各級政府決算及特別決算中，不含舉債及移用以前年度歲計賸餘，扣除重複列計部分。\n　　直轄市、縣（市）政府以其歲入總預算扣除上級政府補助為自有財源，並依教育基本需求，衡量財政狀況，優先支應教育經費，除自有財源減少外，其自行負擔之教育經費，應逐年成長。",
-            "relates": {}
+            "content": "　　中央及直轄市、縣（市）政府（以下簡稱各級政府）應於國家財政能力範圍內，充實、保障並致力推動全國教育經費之穩定成長。\n　　各級政府教育經費預算合計應不低於該年度預算籌編時之前三年度決算歲入淨額平均值之百分之二十三。\n　　中華民國一百零一年一月一日修正施行之前項規定所增加之教育經費預算，應優先用於推動十二年國民基本教育。\n　　第二項所定決算歲入淨額，指各級政府決算及特別決算中，不含舉債及移用以前年度歲計賸餘，扣除重複列計部分。\n　　直轄市、縣（市）政府以其歲入總預算扣除上級政府補助為自有財源，並依教育基本需求，衡量財政狀況，優先支應教育經費，除自有財源減少外，其自行負擔之教育經費，應逐年成長。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01754",
+                        "law_name": "教育經費編列與管理法",
+                        "numbers": [
+                            "第十條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(課稅收入之專款專用)",
             "rule_no": "第三條 之一",
-            "content": "　　中央政府就公、私立幼稚園、國民小學及國民中學教職員之薪資依法課徵所得稅所增收入額度，不計入前條第二項百分之二十二點五算定之金額，並以外加方式編列專款，專用於提升幼稚教育及國民教育品質。",
+            "content": "　　中央政府就公、私立幼兒園、國民小學及國民中學教職員之薪資依法課徵所得稅所增收入額度，不計入前條第二項百分之二十三算定之金額，並以外加方式編列專款，專用於提升學前教育與照顧服務及國民教育品質。",
             "relates": {}
         },
         {
             "note": "(國民教育經費優先編列原則與開徵附加稅捐)",
             "rule_no": "第四條",
             "content": "　　直轄市、縣（市）政府應依憲法增修條文第十條第十項規定，優先編列國民教育經費。\n　　直轄市、縣（市）政府辦理國民教育有下列成效之一者，中央主管教育行政機關應於分配特定教育補助時，提撥相當數額獎勵之：\n　　一、依第十六條規定接受評鑑，績效表現優良者。\n　　二、國民教育經費支出占該直轄市、縣（市）政府決算歲出比重成長較高者。\n　　三、依國民教育法第十六條第一項及財政收支劃分法第十八條第一項之規定開徵附加稅捐，籌措辦理國民教育所需經費者。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01508",
+                        "law_name": "財政收支劃分法",
+                        "numbers": [
+                            "第十八條"
+                        ]
+                    },
+                    {
+                        "law_no": "01754",
+                        "law_name": "教育經費編列與管理法",
+                        "numbers": [
+                            "第十六條"
+                        ]
+                    },
+                    {
+                        "law_no": "04105",
+                        "law_name": "中華民國憲法增修條文",
+                        "numbers": [
+                            "第十條"
+                        ]
+                    }
+                ],
+                "被引用條文": [
+                    {
+                        "law_no": "01754",
+                        "law_name": "教育經費編列與管理法",
+                        "numbers": [
+                            "第十條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(偏遠及特殊地區教育經費優先編列原則)",
@@ -61,19 +114,50 @@
             "note": "(教育補助之種類)",
             "rule_no": "第八條",
             "content": "　　中央政府對地方政府之教育補助分為一般教育補助及特定教育補助：\n　　一、一般教育補助，用於直轄市、縣（市）政府所需之教育經費，不限定其支用方式及項目，並應達成教育資源均衡分配之目的。\n　　二、特定教育補助，依補助目的限定用途。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01754",
+                        "law_name": "教育經費編列與管理法",
+                        "numbers": [
+                            "第十條"
+                        ]
+                    }
+                ]
+            }
         },
         {
-            "note": "(教育經費基準委員會之設置)",
+            "note": "(教育經費基準委員會之設置及其任務)",
             "rule_no": "第九條",
-            "content": "　　行政院應設教育經費基準委員會，其任務如下：\n　　一、教育經費計算基準之研訂。\n　　二、各級政府之教育經費基本需求之計算。\n　　三、各級政府之教育經費應分擔數額之計算。\n　　前項委員會，置委員十三人至十七人，由學者、專家、直轄市政府、縣（市）政府、行政院主計處、財政部、中央主管教育行政機關及相關機關代表組成，其中學者及專家人數不得少於委員總數三分之一；其組織及會議等相關事項，由行政院定之。",
+            "content": "　　行政院應設教育經費基準委員會，其任務如下：\n　　一、教育經費計算基準之研訂。\n　　二、各級政府之教育經費基本需求之計算。\n　　三、各級政府之教育經費應分擔數額之計算。\n　　項委員會，置委員十三人至十七人，由學者、專家、直轄市政府、縣（市）政府、行政院主計總處、財政部、中央主管教育行政機關及相關機關代表組成，其中學者及專家人數不得少於委員總數三分之一；其組織及會議等相關事項，由行政院定之。",
             "relates": {}
         },
         {
             "note": "(教育經費基本需求及預算編列)",
             "rule_no": "第十條",
             "content": "　　行政院教育經費基準委員會應衡酌各地區人口數、學生數、公、私立學校與其他教育機構之層級、類別、規模、所在位置、教育品質指標、學生單位成本或其他影響教育成本之因素，研訂教育經費計算基準，據以計算各級政府年度教育經費基本需求，並參照各級政府財政能力，計算各級政府應分擔數額，報請行政院核定之。\n　　各級主管教育行政機關應依前項核定之基本需求及分擔數額，編列年度預算。各級政府編列之教育預算數額不得低於前項核定之基本需求。\n　　中央政府應就第一項計算之直轄市、縣（市）政府教育經費基本需求，扣除直轄市、縣（市）政府應分擔數額後之差額，編列對於直轄市、縣（市）政府之一般教育補助預算。\n　　直轄市、縣（市）政府於前一年度違反第三條或第八條規定時，應於當年度教育經費計算中，增加其應分擔數額或扣減其一般教育補助。\n　　前項增加或扣減之實際金額，由行政院教育經費基準委員會議決。\n　　直轄市、縣（市）政府依第一項計算之應分擔數額，不得因其依第四條第二項第三款開徵附加稅捐而增加。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01754",
+                        "law_name": "教育經費編列與管理法",
+                        "numbers": [
+                            "第三條",
+                            "第四條",
+                            "第八條"
+                        ]
+                    }
+                ],
+                "被引用條文": [
+                    {
+                        "law_no": "01754",
+                        "law_name": "教育經費編列與管理法",
+                        "numbers": [
+                            "第十二條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(教育經費審議委員會之設置)",
@@ -85,7 +169,24 @@
             "note": "(地方教育經費之編列及審議)",
             "rule_no": "第十二條",
             "content": "　　直轄市、縣（市）主管教育行政機關所屬教育機構、公立學校，應訂定中長程教育發展計畫，報請該管主管教育行政機關審查通過後，提送依教育基本法第十條第一項所設之直轄市、縣（市）政府教育審議委員會審議。\n　　前項委員會審議通過後，應依第十條第一項核定之基本需求及分擔數額，提出直轄市、縣（市）主管教育行政機關所屬教育機構、公立學校之預算數額建議案，作為該管主管教育行政機關編列年度教育預算之依據。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01741",
+                        "law_name": "教育基本法",
+                        "numbers": [
+                            "第十條"
+                        ]
+                    },
+                    {
+                        "law_no": "01754",
+                        "law_name": "教育經費編列與管理法",
+                        "numbers": [
+                            "第十條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(地方教育發展基金之設立及管理)",
@@ -109,7 +210,17 @@
             "note": "(教育評鑑)",
             "rule_no": "第十六條",
             "content": "　　各級主管教育行政機關為提升教育經費使用績效，應建立評鑑制度，對於公、私立學校及其他教育機構進行評鑑。\n　　前項評鑑工作得委託相關學術團體辦理。但應於評鑑前公布評鑑項目，並於評鑑後公布評鑑結果。評鑑工作之進行方式、程序及獎補助等相關事項，由各級主管教育行政機關定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01754",
+                        "law_name": "教育經費編列與管理法",
+                        "numbers": [
+                            "第四條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(資訊公開)",
@@ -120,111 +231,173 @@
         {
             "note": "(施行日)",
             "rule_no": "第十八條",
-            "content": "　　本法自公布後一年內施行。\n　　本法中華民國一百年三月二十九日修正之條文，其施行日期由行政院定之。\n　　本法中華民國一百年十二月九日修正之條文，自一百零一年一月一日施行。",
+            "content": "　　本法自公布後一年內施行。\n　　本法中華民國一百年三月二十九日修正之條文，其施行日期由行政院定之。\n　　本法中華民國一百年十二月九日修正之條文，自一百零一年一月一日施行。\n　　本法中華民國一百零四年十二月十八日修正之條文，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第五條": "　　一、原條文第一項未修正。\n　　二、為兼顧偏遠及特殊地區學童之受教育機會，促進本土語言之保存及延續，並減輕地方政府於發展小型學校永續發展之財政負擔，地方政府得提出相關永續發展之特色計畫，相關經費則由中央政府專案補助，爰增訂第二項。",
-        "第七條": "　　目前教育部相關補助案主要係針對學校，因學校係為學生而設立，其運作與發展本即係以學生為主體規劃，對建立完善學生獎助學金機制之私立學校，政府應優先予以補助與獎勵，爰修正原條文。"
+        "第三條": "　　為確保103年12年國教實施後之教育財源穩定且不排擠其他階段之教育經費，爰修正本條文第二項內之規定各級政府各級政府教育經費預算合計應不低於該年度預算籌編時之前三年度決算歲入淨額平均值之百分比，從原先二十二點五提升至二十三。",
+        "第三條 之一": "　　配合幼兒教育及照顧法施行，托兒所及幼稚園應改制為幼兒園，且改制作業均已完成，爰將所定「幼稚園」修正為「幼兒園」，「幼稚教育」修正為「學前教育與照顧服務」。另配合前條之修正，將文中「百分之二十二點五」修正為「百分之二十三」。",
+        "第九條": "　　一、原條文第一項未修正。\n　　二、配合行政院組織改造，爰將原條文第二項所定「行政院主計處」修正為「行政院主計總處」。",
+        "第十八條": "　　一、原條文第一項至第三項未修正。\n　　二、增列第四項，定明本次修正條文之施行日。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010323",
-            "立法紀錄": "101卷10期3951號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcecfcecfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "許智傑",
+            "會議日期": "1011019",
+            "立法紀錄": "101卷60期4001號一冊 17-17頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcecfc9cfcfcec4cfcfcec8c4cfcfcec8",
+            "主提案": "陳淑慧",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcacfcec5c7c6d2c6ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcacfcec5cecdcfd2cecdcd"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1010427",
-            "立法紀錄": "101卷25期3966號 16-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcecfcdcacfcec4cfcfcec9c4cfcfcec9",
-            "主提案": "吳宜臻",
+            "會議日期": "1020412",
+            "立法紀錄": "102卷18期4043號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcdcfcec7cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "謝國樑",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc6cfcdc5cecccbd2ceccca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccfc7cfcec5cdc9c6d2cdc8cf"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1011228",
-            "立法紀錄": "102卷2期4027號一冊 33-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcdcfcfcdcfcec4cfcfccccc4cfcfcccc",
-            "主提案": "陳亭妃",
+            "會議日期": "1020524",
+            "立法紀錄": "102卷34期4059號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcdcfcccbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "邱志偉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecacfcec5cecdc8d2cecdc6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbcfcec5cecbc7d2cecacf"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1020524",
+            "立法紀錄": "102卷34期4059號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcdcfcccbcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "蔣乃辛",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecbcfcec5cecacdd2cecacb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030314",
+            "立法紀錄": "103卷16期4125號 14-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcccfcec9cfcec4cfcfcecbc4cfcfcecb",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfcbcfcec5cdcfced2cdcfcc"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1030502",
+            "立法紀錄": "103卷31期4140號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcccfcccecfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "陳淑慧",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc7cfcec5cec6c9d2cec6c6"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
             "會議日期": "1021002",
-            "立法紀錄": "102卷51期4076號 333-360頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcdcfcacecfcec4cfccccccc4cfccc9cf",
+            "立法紀錄": "102卷51期4076號 247-247,333-360頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcdcfcacecfcec4cfcdcbc8c4cfcdcbc8d9cecfcdcfcacecfcec4cfccccccc4cfccc9cf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1030522",
+            "立法紀錄": "103卷44期4153號 83-83,109-175頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcccfcbcbcfcec4cfcfc7ccc4cfcfc7ccd9cecfcccfcbcbcfcec4cfcecfc6c4cfcec8ca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
             "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 191-196頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcdcfc8cecfcec4cfcec6cec4cfcec6c9",
+            "立法紀錄": "102卷71期4096號一冊 183-191頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcdcfc8cecfcec4cfcec7ccc4cfcec6ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cbced2cbc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcececfccc5cdc8c6d2cdc7c9"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 196-200頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcdcfc8cecfcec4cfcec6c9c4cfcdcfcf",
+            "會議日期": "1041127",
+            "立法紀錄": "104卷89期4288號一冊 296-296頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcbcfc7c6cfcec4cfcdc6c9c4cfcdc6c9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041208",
+            "立法紀錄": "104卷93期4292號二冊 317-317,320-325頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcbcfc6cccfcdc4cfcccec8c4cfcccec8d9cecfcbcfc6cccfcdc4cfcccdcfc4cfcccdca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecec8c8c5cbc8d2cacf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecdc8c6c5ced2c9"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 196-196頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcdcfc8cecfcec4cfcec6c9c4cfcec6c9",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041211",
+            "立法紀錄": "104卷96期4295號一冊 71-72頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcbcfc6c9cfcec4cfcfc8cec4cfcfc8cd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041216",
+            "立法紀錄": "104卷98期4297號一冊 50-50頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcbcfc6c7cfcec4cfcfcacfc4cfcfcacf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1041218",
+            "立法紀錄": "104卷98期4297號三冊 459-460,461-462頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcbcfc6c7cfccc4cfcbcac6c4cfcbc9cfd9cecfcbcfc6c7cfccc4cfcbc9cec4cfcbc9cd",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 200-200頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcdcfc8cecfcec4cfcdcfcfc4cfcdcfcf",
+            "會議日期": "1041218",
+            "立法紀錄": "104卷98期4297號三冊 460-461,462-462頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcbcfc6c7cfccc4cfcbc9cfc4cfcbc9ced9cecfcbcfc6c7cfccc4cfcbc9cdc4cfcbc9cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 196-196頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcdcfc8cecfcec4cfcec6c9c4cfcec6c9",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1021122",
-            "立法紀錄": "102卷71期4096號一冊 200-200頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cf81cecfcdcfc8cecfcec4cfcdcfcfc4cfcdcfcf",
+            "會議日期": "1041218",
+            "立法紀錄": "104卷98期4297號三冊 461-461,462-465頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8c9ccc7cd81cecfcbcfc6c7cfccc4cfcbc9cec4cfcbc9ced9cecfcbcfc6c7cfccc4cfcbc9cdc4cfcbc9ca",
             "關係文書": []
         }
     ]
