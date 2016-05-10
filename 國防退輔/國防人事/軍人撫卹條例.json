@@ -1,8 +1,8 @@
 {
     "title": "軍人撫卹條例",
     "versions": [
-        "中華民國100年3月29日修正",
-        "中華民國100年4月13日公布"
+        "中華民國105年4月26日修正",
+        "中華民國105年5月11日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -48,7 +48,7 @@
         {
             "note": "(因公死亡、傷殘之定義)",
             "rule_no": "第七條",
-            "content": "　　有下列情形之一者，為因公死亡：\n　　一、執行公務因而死亡者。\n　　二、為保衛公共安全或救護公物，因而死亡者。\n　　三、為救護公共災害，因而死亡者。\n　　四、在營區內發生意外或猝發疾病，因而死亡者。\n　　五、往返營區途中發生意外或猝發疾病，因而死亡，該意外或疾病與服勤具有因果關係者。\n　　六、公差遇險或罹病以致死亡者。\n　　前項各款原因所致之傷殘，為因公傷殘。但第四款、第五款因慢性疾病所致之傷殘，不適用之。",
+            "content": "　　有下列情形之一者，為因公死亡：\n　　一、執行公務因而死亡者。\n　　二、為保衛公共安全或救護公物，因而死亡者。\n　　三、為救護公共災害，因而死亡者。\n　　四、在營區內發生意外或猝發疾病，因而死亡者。\n　　五、往返營區途中發生意外或猝發疾病，因而死亡，該意外或疾病與服勤具有因果關係者。\n　　六、公差遇險或罹病以致死亡者。\n　　七、戮力職務，積勞過度以致死亡者。\n　　前項各款原因所致之傷殘，為因公傷殘。但第四款、第五款因慢性疾病所致之傷殘，不適用之。",
             "relates": {}
         },
         {
@@ -202,9 +202,9 @@
             "relates": {}
         },
         {
-            "note": "(領受撫卹權利之時效消滅)",
+            "note": "(領受撫卹金權利之消滅時效)",
             "rule_no": "第三十三條",
-            "content": "　　申請撫卹及請領各期撫卹金之權利，自各該請求權可行使時起算，因五年間不行使而消滅。但因不可抗力之事由，致不能行使者，自可行使時起算。\n　　前項因不可抗力事由不能請領或續領撫卹金者，除其他法令另有規定者外，得保留其請領及續領撫卹金之權利，並依實際具領時之給與標準發給之。",
+            "content": "　　申請撫卹及請領各期撫卹金之權利，自各該請求權可行使時起算，因十年間不行使而消滅。但因不可抗力之事由，致不能行使者，自可行使時起算。\n　　前項因不可抗力事由不能請領或續領撫卹金者，除其他法令另有規定者外，得保留其請領及續領撫卹金之權利，並依實際具領時之給與標準發給之。",
             "relates": {}
         },
         {
@@ -251,53 +251,67 @@
         }
     ],
     "law_reasons": {
-        "第十七條": "　　一、刪除原條文第二項。\n　　二、增列第三項：「本條例於中華民國100年3月29日修正施行後，傷殘撫卹給與標準依實際具領時之規定辦理。修正施行前，支領贍養金不發撫卹金者，依原傷殘撫卹給與標準補發撫卹金。」。\n　　三、餘維持原條文。"
+        "第七條": "　　考量撫卹實務偶有長期慢性疲勞後，誘發之猝死，其大多有疾病之存在，卻不自知或不以為意，任由疲勞蓄積。俟病發突然死亡，諸如因長期加班過於勞累，猝發急性循環系統疾病（包括急性腦血管疾病及急性心臟疾病二大類，即俗稱「過勞死」）以致死亡者，如非於執行職務或非於營區內發生意外或猝發疾病，則不符辦理因公撫卹，導致所屬單位或遺族均認為不合理，且公務人員撫卹法第五條第一項第五款已定有相關規定，爰參照該規定，將「戮力職務，積勞過度以致死亡」納入因公死亡範圍，增訂第一項第七款。",
+        "第三十三條": "　　配合行政程序法第一百三十一條修正，修正第一項之請求權消滅時效為十年，以維護法律體系之一致性。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "0990409",
-            "立法紀錄": "099卷023期3788號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcc81cfc6c6cfcdcccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "帥化民",
+            "會議日期": "1050311",
+            "立法紀錄": "105卷4期4301號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcb81cecfcacfcfcbcfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "江啟臣",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcacfc7cfcec5cecccbd2ceccc8"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcbc8ccc5cdc6c8d2cdc6c7"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1050311",
+            "立法紀錄": "105卷4期4301號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcb81cecfcacfcfcbcfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "江啟臣",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcbc8ccc5cbceccd2cbcecb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "0991229",
-            "立法紀錄": "100卷007期3859號 327-373頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcc81cecfcfcfcfc8cfcec4cfcccdc8c4cfccc8cc",
+            "會議日期": "1050411",
+            "立法紀錄": "105卷24期4321號 1-1,3-4,6-42,57-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcb81cecfcacfcdcbcfcec4cfcfcfcec4cfcfcfced9cecfcacfcdcbcfcec4cfcfcfccc4cfcfcfcbd9cecfcacfcdcbcfcec4cfcfcfc9c4cfcfcbcdd9cecfcacfcdcbcfcec4cfcfcac8c4cfcfcac6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000329",
-            "立法紀錄": "100卷021期3873號一冊 105-111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcc81cecfcfcfcdcecfcec4cfcecfcac4cfcecece",
+            "會議日期": "1050426",
+            "立法紀錄": "105卷23期4320號一冊 368-373頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcb81cecfcacfcdcccfcec4cfccc9c7c4cfccc8cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cfc9cfcbc5cbcecbd2cbcdcf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcececfc8c7c5cec7cad2cec6cf"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1000329",
-            "立法紀錄": "100卷021期3873號一冊 111-111頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcc81cecfcfcfcdcecfcec4cfcececec4cfcecece",
+            "會議日期": "1050426",
+            "立法紀錄": "105卷23期4320號一冊 373-373頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcb81cecfcacfcdcccfcec4cfccc8ccc4cfccc8cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1000329",
-            "立法紀錄": "100卷021期3873號一冊 111-112頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcc81cecfcfcfcdcecfcec4cfcececec4cfcececd",
+            "會議日期": "1050426",
+            "立法紀錄": "105卷23期4320號一冊 373-374頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c7cfcb81cecfcacfcdcccfcec4cfccc8ccc4cfccc8cb",
             "關係文書": []
         }
     ]
