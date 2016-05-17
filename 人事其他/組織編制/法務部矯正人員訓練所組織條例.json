@@ -1,11 +1,11 @@
 {
     "title": "法務部矯正人員訓練所組織條例",
     "versions": [
-        "中華民國86年4月8日制定",
-        "中華民國86年4月23日公布"
+        "中華民國105年5月3日廢止",
+        "中華民國105年5月18日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -76,57 +76,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　一、本條明定立法之依據。\n　　二、法務部組織法修正草案第八條規定：「法務部設矯正人員訓練所，其組織以法律定之。」該草案業經行政院於八十二年十月二十七日台八十二法字第三七八０號函請立法院審議中。",
-        "第二條": "　　明定矯正人員訓練所之任務。",
-        "第三條": "　　規定矯正人員訓練設三組，分掌應辦事項。",
-        "第四條": "　　明定所長、副所長之職掌及官、職等。",
-        "第五條": "　　「公務人員任用法」第六條修正案，業奉 總統於八十五年十一月十四日公布，「中央機關（構）學校職務列等表」考試院並已配合同時發布實施，是以本條之組員、操作員、辦事員等職稱之列等有配合之必要。",
-        "第六條": "　　為提昇訓練品質，爰設置專任講座及兼任講座，從事教學及研究工作。",
-        "第七條": "　　明定人事人員之官、職等及職掌。",
-        "第八條": "　　明定會計人員之官、職等及職掌。",
-        "第九條": "　　明定本條例各級人員之職系，應依有關規定辦理。",
-        "第十條": "　　明定矯正人員訓練所各項辦事細則，須報請法務部核定。",
-        "第十一條": "　　明定本條例施行之日期。"
-    },
+    "deprecated_reason": "　　為符合先進國家矯正管理趨勢，健全矯正指揮監督體系，落實權責合一制度，以因應未來矯正機關收容質量之變化，與國家整體刑事政策等緊密結合，　總統於99年9月1日制定公布「法務部矯正署組織法」，並自100年1月1日施行。而依「法務部矯正署組織法」第7條規定：「監獄組織通則、看守所組織通則、法務部戒治所組織通則、法務部技能訓練所組織條例、法務部矯正人員訓練所組織條例、少年觀護所設置及實施通則、少年矯正學校設置及教育實施通則、少年輔育院條例於本法施行時，未及配合廢止或修正者，其涉及第5條矯正機關組織事項之規定，於本法施行後，不再適用。」爰將《法務部矯正人員訓練所組織條例》廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "830317",
-            "立法紀錄": "83卷17期2691號上冊 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcececd81c7cccec8cfcec4cfcfcfc6c4cfcfcfc6",
+            "會議日期": "1050219",
+            "立法紀錄": "105卷1期4298號一冊 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcececc81cecfcacfcfcecfcec4cfcfcecac4cfcfceca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcdcfcccfc8cfcec5c7c9d2c7c6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcec8ccc5cdcbccd2cdc9cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "850925",
-            "立法紀錄": "85卷47期2869號下冊 183-195頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcececd81c7cacbc8cfccc4cfcec7ccc4cfcec6ca",
+            "會議日期": "1050420",
+            "立法紀錄": "105卷27期4324號 281-285,340-340頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcececc81cecfcacfcdc8cfcec4cfcdc7cec4cfcdc7cad9cecfcacfcdc8cfcec4cfcccbcfc4cfcccbcf",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 195-212頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcececd81c7c9cecacfcec4cfcec6cac4cfcdcecd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 163-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcececc81cecfcacfcdc9cfcec4cfcec9ccc4cfcec7cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcccfc8cfcec5c8cec6d2c8cdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcececec8c9c5c6cad2cecec9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "860408",
-            "立法紀錄": "86卷15期2907號上冊 212-212頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcececd81c7c9cecacfcec4cfcdcecdc4cfcdcecd",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 183-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcececc81cecfcacfcdc9cfcec4cfcec7ccc4cfcec7cc",
             "關係文書": []
         }
     ]
