@@ -1,8 +1,8 @@
 {
     "title": "動物保護法",
     "versions": [
-        "中華民國104年1月23日修正",
-        "中華民國104年2月4日公布"
+        "中華民國105年5月3日修正",
+        "中華民國105年5月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -262,7 +262,7 @@
         {
             "note": "(罰則)",
             "rule_no": "第二十五條 之一",
-            "content": "　　違反第二十二條第一項規定，未經直轄市或縣（市）主管機關許可，擅自經營第二十二條特定寵物之繁殖場、買賣或寄養業者，處新臺幣五萬元以上二十五萬元以下罰鍰，並限期令其改善；屆期不改善者，應令其停止營業；拒不停止營業者，按次處罰之。",
+            "content": "　　違反第二十二條第一項規定，未經直轄市或縣（市）主管機關許可，擅自經營特定寵物之繁殖場、買賣或寄養業者，處新臺幣十萬元以上三百萬元以下罰鍰，並令其停止營業；拒不停止營業者，按次處罰之。\n　　前項供繁殖、買賣或寄養之特定寵物，直轄市、縣（市）主管機關得沒入之。",
             "relates": {}
         },
         {
@@ -385,301 +385,53 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　增列地方主管機關應設動物保護專責機關，以處理日益複雜、龐大之各項動物保護工作。",
-        "第三條": "　　一、原條文第一款至第五款未修正。\n　　二、增訂第六款定義寵物食品，考量寵物地位提升，國際間普遍以「Pet food」稱之，為符合世界趨勢，並認同寵物之地位，故以寵物食品為名。其中所稱之「均衡營養」為學術專有名詞，係指蛋白質、脂肪、礦物質及維生素等營養成分之含量，符合寵物生命各階段（如幼犬、成犬、懷孕母犬等）所必需；而相關成分之含量標準，國際間多已使用NRC（National Research Council）或AAFCO等規範。\n　　三、參酌日本「寵物食品安全法」，定義寵物食品業者之樣態，增訂第九款，以資明確。\n　　四、原條文第六款至第十款，款次遞移，內容未修正。\n　　五、增訂第十三款：「十三、展演動物：以提供娛樂為目的，在營業場所供展演及騎乘之動物。」。\n　　六、增訂第十四款：「十四、展演動物業：以娛樂為目的，在營業場所以動物供展演及騎乘之業者。」。",
-        "第四條": "　　一、原條文第一項酌作文字修正。\n　　二、增列第二項：「治療動物疾病之藥物不足時，經中央主管機關公告之人用藥物類別，得由獸醫師（佐）填入診療紀錄使用於犬、貓及非經濟動物。」。\n　　三、增列第三項：「前項人用藥物用於犬、貓及非經濟動物之使用、管理及其他應遵行事項之辦法，由中央主管機關會同中央衛生主管機關定之。」。",
-        "第五條": "　　一、參考香港>第八條，就寵物之食物及飲水，修正原條文第二項第一款。\n　　二、參考香港>第五條及第七條，就寵物之生活環境，修正原條文第二項第二款。\n　　三、原條文第四款修正為：「避免其遭受騷擾、虐待或傷害。」。\n　　四、參考Vancouver(The Prevention Of Cruelty To Animals Act)，就寵物籠子之尺寸，增訂第二項第五款。\n　　五、參考Deleware，(Dog Laws)及Maryland，(Cruelty Consolidated Cruelty Statutes)，就寵物繩、鍊及項圈長度與材質等，增訂第二項第六款。\n　　六、考量台灣的地質型態，新增第二項第七款，並應給予寵物逃生之機會。\n　　七、新增第二項第八款，嚴格禁止將寵物留置車內易發生意外致死之情形。應明訂條文要求飼主注意寵物在車內的安全。\n　　八、新增第二項第十款，以維護寵物之生存權，避免其遭施加非節育以外之不必要手術。現下頻傳有飼主非基於節育之目的，動輒為寵物施以割聲帶，剪尾，剪耳，去爪、去牙及各式整形等外科手術，導致動物喪失該器官功能而喪失與其他動物溝通互動及表達情緒之能力，直接造成動物焦慮沮喪或促發暴力攻擊，雙雙導致人畜間之不安與恐懼。是故，參酌德國、芬蘭及瑞典等國簽署之(European Convention for the Protection of Pet Animals：Statute of the Council of Europe)法案，嚴禁飼主將寵物施以節育以外之非必要醫療手術，以避免動物之身心受殘並降低人畜間之衝突與不信任。",
-        "第六條": "　　刪除原條文中「惡意或無故」等字，以禁止任何人騷擾、虐待、或傷害動物。",
-        "第六條 之一": "　　一、本條新增。\n　　二、參酌，增訂本條第一項。\n　　三、增訂第二項，以防杜業者動輒以展演動物作為觀光噱頭，卻施以如餵食、表演、騎乘、觸摸、釣撈及其他非人道展示致生壓榨動物或使其因遊客之反覆逗弄戲耍，而長期處於驚嚇、迫害或過度勞逸之狀態。\n　　四、增訂第三項，明定「本法中華民國一百零四年一月二十三日修正之條文施行前，未依第一項申領執照之展演動物業業者，應於修正施行之日起一年內申領執照。」。\n　　五、第一項所定經營展演動物業之業者，不得利用野生動物進行各種表演。",
-        "第六條 之二": "　　一、本條新增。\n　　二、本條係為保障檢疫犬、緝毒犬、警犬、搜救犬或國防軍犬之福利。",
-        "第十二條": "　　一、查全台灣公立動物收容所之人道處理率偏高，近半數縣市均逾七成以上，顯示人道處理之行為尚未有標準化流程，以致收容所淪為動物墳場。\n　　二、原條文第一項第七款，俗稱「十二夜條款」之規定，顯不合情理，導致現行動物收容處所人道處理率偏高。爰修正第七款，對動物收容安置，新增更細緻、更人道之處理原則，應依動物傷病程度、影響人畜健康或公共安全情形之標準處理，以強化主管機關積極推動以領養代替購買政策，提高收容處所認養率，必要時得增設動物收容處所，改善收容環境。\n　　三、原條文第四項句首引述條文部分修正為「依第十四條第二項規定」。\n　　四、增列第五項，明定「本法中華民國一百零四年一月二十三日修正之條文施行之日起二年內，收容於動物收容處所或直轄市、縣（市）主管機關指定之場所，經通知或公告超過十二日而無人認領、認養或適當處置之動物，得予以宰殺，不適用第一項規定。」。",
-        "第十四條": "　　一、增列第二項，明定「前項收容動物無從辨識身分，或經依寵物登記或其他可資辨識之資料通知原飼主，自通知之日起超過七日未領回者，直轄市、縣（市）主管機關或動物收容處所得公告民眾認養，或予以絕育或其他收容管理之必要措施。」。\n　　二、原條文第二項至第四項依序移列第三項至第五項。\n　　三、原條文第二項納入公立動物收容處所管理作業規範之授權法源。",
-        "第十九條": "　　一、原條文第一項及第三項未修正。\n　　二、寵物如只有登記，而未植入晶片，則無法從棄養動物身上尋找出棄養者，皇論落實保護動物及推動TNR（誘捕、絕育、釋放）制度。故中央主管機關指定公告應辦理登記之寵物，應強制植入晶片。爰將原條文第二項「得植入晶片」文字，修正為「應植入晶片」。",
-        "第二十二條": "　　一、原條文第三項併入第一項，文字修正為「任何人不得販賣特定寵物。但申請經直轄市、縣（市）主管機關許可，並依法領得營業證照之業者，得經營特定寵物之繁殖、買賣或寄養；許可期間，以三年為限。」。\n　　二、增列第四項，明定「直轄市、縣（市）主管機關得要求前項申報飼主，提供特定寵物飼養現況及受轉讓飼主資料。」。\n　　三、原條文第四項項次遞改為第五項。\n　　四、直轄市、縣（市）主管機關辦理民眾申報繁殖與飼養管理說明之作業方式，由中央主管機關定之。",
-        "第二十二條 之二": "　　一、原條文第二項內容與第三十八條之規定相同，毋需重複，爰予刪除。\n　　二、其餘內容未修正。",
-        "第二十二條 之三": "　　一、本條新增。\n　　二、為進行寵物食品之源頭管理，參酌日本「寵物食品安全法」及考量我國民情，規定製造、加工或輸入寵物食品之業者，應就中央主管機關指定之產品（以犬、貓寵物食品為主）進行申報，俾利市售產品發生問題時，可即時回溯，及進行必要之處置，訂定第一項。\n　　三、有關具體之申報及管理內容，於第二項授權訂定辦法。",
-        "第二十二條 之四": "　　一、本條新增。\n　　二、寵物食品之衛生安全直接影響寵物健康及生命安全，參酌日本「寵物食品安全法」，增訂限制寵物食品不得含有對寵物健康有害之病原微生物（如沙門氏菌、病原性大腸桿菌等）及有害寵物健康物質（如黃麴毒素、農藥、重金屬等）種類、安全容許量等相關管理規範之授權依據。",
-        "第二十二條 之五": "　　一、本條新增。\n　　二、「標示」為飼主選購寵物食品之主要依據，雖我國已有商品標示法規範商品應標示事項，惟參酌美國、歐盟及日本等先進國家，針對寵物食品之標示另有規範應標示事項、內容、標示之原則等規範，爰參酌食品衛生管理法第十七條第一項、商品標示法第九條及飼料管理法第十四條等立法例，增訂寵物食品標示等管理依據，訂定第一項。\n　　三、參酌食品衛生管理法第十九條第一項規定，明定寵物食品標示、宣傳或廣告應注意事項，避免造成寵物飼主混淆及誤解，訂定第二項。\n　　四、第三項明定寵物食品容器不得製造、販賣、輸入、輸出或使用之情形。",
-        "第二十三條": "　　一、增列第四項，明定「第二項之稽查，直轄市、縣（市）主管機關得委任、委託或委辦其他機關（構），法人、團體或個人辦理。」。\n　　二、原條文第四項遞移至第五項。\n　　三、為強化地方主管機關之執法能力，增列第六項，明訂直轄市及縣市政府警察局協助動物保護檢查員執行本法有關動物保護之工作，應經相關專業訓練。\n　　四、原條文第五項遞移至第七項。",
-        "第二十三條 之一": "　　一、本條新增。\n　　二、規定主管機關得進入寵物食品業者相關之經營場所執行檢查或抽樣檢驗之法源依據，訂定第一項及第二項。\n　　三、另規範檢查人員依法執行檢查或抽樣檢驗任務時，應出示相關證明文件，以明權責，並規範寵物食品業者接受檢查或檢驗之義務，訂定第三項及第四項。",
-        "第二十三條 之二": "　　一、本條新增。\n　　二、規範寵物食品經檢查或檢驗結果確認含有病原微生物種類或有害寵物健康物質超過安全容許量者，直轄市或縣（市）主管機關所為處置之規定。",
-        "第二十五條": "　　照協商條文通過。",
-        "第二十七條": "　　一、修正原條文第一項序言為「有下列情事之一者，處新臺幣五萬元以上二十五萬元以下罰鍰，並得公布其姓名、照片及違法事實，或限期令其改善；經限期令其改善，屆期未改善者，得按次處罰之：」，以資明確。\n　　二、增訂第九款，明定「違反第二十二條第三項規定，經勸導仍未改善」之罰則。\n　　三、增訂第十款，針對製造、加工、分裝、批發、販賣、輸入、輸出、贈與或意圖販賣而公開陳列有第二十二條之四第一項第一款或第二款情形之一之寵物食品，處以罰鍰，且為增加嚇阻效果及避免危害擴大，並得公布相關違法情節。\n　　四、增訂第十一款，藉由處罰使寵物食品業者重視直轄市或縣（市）主管機關針對問題寵物食品所為之處置。\n　　五、其餘條文未修正。",
-        "第二十九條": "　　照協商條文通過。",
-        "第三十條": "　　照協商條文通過。",
-        "第三十條 之一": "　　照協商條文通過。",
-        "第三十一條": "　　一、修正原條文第一項「拒不改善者」文字，以資明確。\n　　二、原條文第一項第一款以下各款次依序遞移。\n　　三、配合第二十二條之三，增列第一項第十款，針對製造、加工或輸入寵物食品業者未依規定申報或申報不合規定者，處以罰鍰。\n　　四、審酌違法行為與裁處強度之衡平，以二年為期，計算再次違反第一項第四款至第七款之一情事之加重要件，爰修正原條文第二項。",
-        "第三十三條 之一": "　　照協商條文通過。",
-        "第三十三條 之二": "　　一、本條新增。\n　　二、為落實本法相關條文規定，明定各級主管機關應按季彙整違法者資料作為拒絕或同意認養及處罰之依據。\n　　三、對於檢舉查獲違法行為者，直轄市、縣（市）主管機關對於檢舉人身分及有關資料應予保密，並得酌予獎勵。"
+        "第二十五條 之一": "　　一、新北市動物保護防疫處破獲全國首宗大量非法販賣、繁殖場，依法沒入價值逾百萬之犬貓，並勒令歇業，惟依原動保法第二十五條之一規定，該違法行為可處新臺幣五萬元以上二十五萬元以下罰鍰，但新北市政府僅處五萬元罰鍰，對照非法業者動輒獲利高達上百萬元，處罰微不足道，顯有修正必要。\n　　二、農委會已公告「檢舉違反動物保護法案件獎勵辦法」，民眾最高可獲得該案件裁處額度20%之獎金，故透過動保法罰鍰的提高，亦可增加民眾檢舉不法業者的意願。\n　　三、爰此，修正本條規定，將裁處金額調高至新臺幣十萬元以上三百萬元以下罰鍰，以嚇阻不肖業者非法牟利。\n　　四、增列第二項：「前項供繁殖、買賣或寄養之特定寵物，直轄市、縣（市）主管機關得沒入之。」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010406",
-            "立法紀錄": "101卷17期3958號一冊 18-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfcec8cfcec4cfcfcec7c4cfcfcec7",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcdcfcdc5cccfced2cccecd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010316",
-            "立法紀錄": "101卷7期3948號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfcfc8cfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "徐欣瑩",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcbcfcec5cccdcad2cccdc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010406",
-            "立法紀錄": "101卷17期3958號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfcec8cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "黃昭順",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc9cfcdc5cccbcbd2cccbc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010413",
-            "立法紀錄": "101卷21期3962號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfcdcecfcec4cfcfcfc9c4cfcfcfc8",
-            "主提案": "邱議瑩",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc8cfcec5cecac7d2cec9ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010427",
-            "立法紀錄": "101卷25期3966號 16-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfcdcacfcec4cfcfcec9c4cfcfcec8",
-            "主提案": "高志鵬",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfc6cfcdc5cec6cfd2cec6c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010504",
-            "立法紀錄": "101卷28期3969號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfcdc7cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "趙天麟",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececfcfcec5cecdc8d2cecdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010518",
-            "立法紀錄": "101卷36期3977號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfccc9cfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "潘孟安",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdcfcec5cccfcdd2cccfca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010525",
-            "立法紀錄": "101卷39期3980號 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfccc6cfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "黃昭順",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececccfcec5cec7ccd2cec7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011005",
-            "立法紀錄": "101卷55期3996號一冊 15-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfcacacfcec4cfcfcecac4cfcfceca",
-            "主提案": "林岱樺",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcccfcec5cecacfd2cecac7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011019",
-            "立法紀錄": "101卷60期4001號一冊 19-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfc9cfcfcec4cfcfcec6c4cfcfcec6",
-            "主提案": "趙天麟",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfcacfcec5cdcecbd2cdcdce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011109",
-            "立法紀錄": "101卷68期4009號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfc9c7cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "台灣團結聯盟黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcfc7cfcec5cdccc8d2cdcbc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011130",
-            "立法紀錄": "101卷77期4018號一冊 39-39頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfc8c8cfcec4cfcfccc6c4cfcfccc6",
-            "主提案": "呂玉玲",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcececfcac5cbc7d2cacf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011207",
-            "立法紀錄": "101卷81期4022號一冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfc7cecfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "蕭美琴",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecdcfcec5cdc6cfd2cdc6c8"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011221",
-            "立法紀錄": "102卷1期4026號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcdcfcfcecfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "黃志雄",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecbcfcec5cececed2cececc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1011221",
-            "立法紀錄": "102卷1期4026號一冊 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcdcfcfcecfcec4cfcfcfcdc4cfcfcfcc",
-            "主提案": "鄭麗君",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcdcecbcfcec5cececad2cecec9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030509",
-            "立法紀錄": "103卷34期4143號 52-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcccfcccbcfcec4cfcfcacdc4cfcfcacd",
+            "會議日期": "1050311",
+            "立法紀錄": "105卷4期4301號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfcc81cecfcacfcfcbcfcec4cfcfcfc8c4cfcfcfc8",
             "主提案": "王育敏",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc8c8cdc5cecac6d2cec8cd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcbc8ccc5cdc8ced2cdc8cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1010528",
-            "立法紀錄": "101卷44期3985號 169-169,171-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcecfcbcbcfcec4cfcec9c6c4cfcec9c6d9cecfcecfcbcbcfcec4cfcec8cec4cfcdcfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1011226",
-            "立法紀錄": "102卷4期4029號二冊 216-265頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcdcfcfcbcfcdc4cfcdcec9c4cfcdc9ca",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1020109",
-            "立法紀錄": "102卷6期4031號四冊 64-100頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcdcfcfc9cfcbc4cfcfc9cbc4cfcecfcf",
+            "會議日期": "1050414",
+            "立法紀錄": "105卷25期4322號 379-379,383-415,419-444,448-448,462-462,464-464頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfcc81cecfcacfcdcacfcec4cfccc8c6c4cfccc8c6d9cecfcacfcdcacfcec4cfccc7ccc4cfcbcecad9cecfcacfcdcacfcec4cfcbcec6c4cfcbcbcbd9cecfcacfcdcacfcec4cfcbcbc7c4cfcbcbc7d9cecfcacfcdcacfcec4cfcbc9cdc4cfcbc9cdd9cecfcacfcdcacfcec4cfcbc9cbc4cfcbc9cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號三冊 1-125頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcbcfcececfccc4cfcfcfcec4cfcecdca",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 183-187頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfcc81cecfcacfcdc9cfcec4cfcec7ccc4cfcec7c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cec8c8c7c5cecad2cecdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcececec8c9c5cecec8d2cecdcd"
                 ]
             ]
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "1020529",
-            "立法紀錄": "104卷11期4210號七冊 231-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcbcfcececfc8c4cfcdcccec4cfcdcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1031224",
-            "立法紀錄": "104卷11期4210號七冊 245-302頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcbcfcececfc8c4cfcdcbcac4cfcccfcd",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號三冊 125-135頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcbcfcececfccc4cfcecdcac4cfceccca",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 187-187頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfcc81cecfcacfcdc9cfcec4cfcec7c8c4cfcec7c8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號三冊 135-138頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfce81cecfcbcfcececfccc4cfcecccac4cfceccc7",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 187-188頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec6cbcfcc81cecfcacfcdc9cfcec4cfcec7c8c4cfcec7c7",
             "關係文書": []
         }
     ]
