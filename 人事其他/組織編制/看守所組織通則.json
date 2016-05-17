@@ -1,11 +1,11 @@
 {
     "title": "看守所組織通則",
     "versions": [
-        "中華民國96年6月15日修正",
-        "中華民國96年7月11日公布"
+        "中華民國105年5月3日廢止",
+        "中華民國105年5月18日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -106,54 +106,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第九條": "　　一、法務部目前所屬矯正機關計有監獄、看守所、技能訓練所、少年輔育院、戒治所、少年觀護所及少年矯正學校（以下簡稱監、院、所校）等7種類型機關。\n　　二、監獄、技能訓練所、戒治所等3種機關之組織通則之規定，首長職務均列為薦任第九職等或簡任第十職等，監獄容額二千人以上者，首長得列十一職等及十二職等，副首長亦得列簡任十職等。\n　　三、看守所部分除容額在一千人以上者，首長始得列為簡任第十或十一職等（現有台北、台中及台南看守所）外，其餘看守所首長仍均列為薦任第九職等。\n　　四、如以收容人數觀之，部分監獄（如基隆、綠島及台東監獄）或戒治所（新店、台中及高雄戒治所）收容人數均比看守所收容人數少，然因監獄組織通則之規定，致使收容人數少之監獄典獄長得列為簡任第十職等，反之，收容人數動輒七、八百人之看守所（亦有附設分監兼收短期受刑人），因受限看守所組織通則之規定，導致所長無法列簡任第十職等之怪異現象。\n　　五、由於看守所業務複雜，且收容人在進行偵審程序中，尚未判決確定，情緒極為不穩定，囚情不易掌控；較諸監獄、技能訓練所或戒治所已裁判確定者較難以管理，因此以收容人數定列首長職等，就業務實質內容而言似有未妥。\n　　六、監、院、所、校均為法務部所屬機關，每逢機關首長輪調（矯正學校除外）或調整職務時，常有簡任監獄典獄長調至一千人以下之看守所，擔任薦任所長之情形。雖因業務或個人資歷考量，惟尚須簽署「志願降調同意書」之不合宜現象，未來倘有遇調遷者不同意簽署時，將面臨因調動所造成之爭議情事發生。\n　　七、監所首長大部分均由大監獄簡任副典獄長升任，倘調任看守所首長時，亦面臨降職等卻升任首長情事。\n　　八、現行監獄組織通則規定監獄之科長職等均得列為薦任九職等，無論大小監獄之科長均與看守所首長之職等相同，對於責重事繁之看守所首長而言，似有欠公允。\n　　九、綜上所陳，現有法務部矯正機關之監獄，收容人數達二千人以上之副典獄長，均已列為簡任十職等，然負有機關運作責任之看守所機關首長，其職等僅列為薦任九職等，實有違公平正義且影響工作士氣。為求暢通人事並符合公平正義以提振工作士氣，宜將看守所之機關首長職務均改列至簡任第十職等，實有其必要。"
-    },
+    "deprecated_reason": "　　為符合先進國家矯正管理趨勢，健全矯正指揮監督體系，落實權責合一制度，以因應未來矯正機關收容質量之變化，與國家整體刑事政策等緊密結合，　總統於99年9月1日制定公布「法務部矯正署組織法」，並自100年1月1日施行。而依「法務部矯正署組織法」第7條規定：「監獄組織通則、看守所組織通則、法務部戒治所組織通則、法務部技能訓練所組織條例、法務部矯正人員訓練所組織條例、少年觀護所設置及實施通則、少年矯正學校設置及教育實施通則、少年輔育院條例於本法施行時，未及配合廢止或修正者，其涉及第5條矯正機關組織事項之規定，於本法施行後，不再適用。」爰將《看守所組織通則》廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "960316",
-            "立法紀錄": "96卷22期3545號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8cc81c6c9cdcdcfcfc4cfcfcfcdc4cfcfcfcc",
-            "主提案": "蔡啟芳",
+            "會議日期": "1050219",
+            "立法紀錄": "105卷1期4298號一冊 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcec8cb81cecfcacfcfcecfcec4cfcfcecac4cfcfceca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacfcbc8cdc5c9c8d2c8cf"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcec8ccc5cdcbccd2cdc9cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960510",
-            "立法紀錄": "96卷42期3565號 181-192頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8cc81c6c9cbcdcfcfc4cfcec7cec4cfcec6cd",
+            "會議日期": "1050420",
+            "立法紀錄": "105卷27期4324號 281-285,340-340頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcec8cb81cecfcacfcdc8cfcec4cfcdc7cec4cfcdc7cad9cecfcacfcdc8cfcec4cfcccbcfc4cfcccbcf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 118-129頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8cc81c6c9cacbcfcec4cfcecec7c4cfcecdc6",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 163-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcec8cb81cecfcacfcdc9cfcec4cfcec9ccc4cfcec7cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacecccfcdc5cdccccd2cdcbca"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcececec8c9c5c6cad2cecec9"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960615",
-            "立法紀錄": "96卷56期3579號一冊 429-430頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8cc81c6c9cac9cfcec4cfcbcdc6c4cfcbcccf",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "960615",
-            "立法紀錄": "96卷56期3579號一冊 430-430頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcec8cc81c6c9cac9cfcec4cfcbcccfc4cfcbcccf",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 183-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcec8cb81cecfcacfcdc9cfcec4cfcec7ccc4cfcec7cc",
             "關係文書": []
         }
     ]
