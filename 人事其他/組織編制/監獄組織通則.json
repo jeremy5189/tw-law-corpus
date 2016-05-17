@@ -1,11 +1,11 @@
 {
     "title": "監獄組織通則",
     "versions": [
-        "中華民國92年5月13日修正",
-        "中華民國92年5月28日公布"
+        "中華民國105年5月3日廢止",
+        "中華民國105年5月18日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -142,48 +142,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第七條": "　　將第九款文字修正為「監舍、工場之查察及管理事項。」；另增列第十款至第十三款。",
-        "第十四條": "　　一、本條文課員職稱之列等依八十五年十一月二十五日修正發布之職務列等表規定修正為「委任第五職等或薦任第六職等至第七職等」。\n　　二、課員職務列等提高後與課長職務列等相同，對主管課長之領導及業務推行，均不適宜，故建議將課長之職等調整為「薦任第七職等」。"
-    },
+    "deprecated_reason": "　　為符合先進國家矯正管理趨勢，健全矯正指揮監督體系，落實權責合一制度，以因應未來矯正機關收容質量之變化，與國家整體刑事政策等緊密結合，　總統於99年9月1日制定公布「法務部矯正署組織法」，並自100年1月1日施行。而依「法務部矯正署組織法」第7條規定：「監獄組織通則、看守所組織通則、法務部戒治所組織通則、法務部技能訓練所組織條例、法務部矯正人員訓練所組織條例、少年觀護所設置及實施通則、少年矯正學校設置及教育實施通則、少年輔育院條例於本法施行時，未及配合廢止或修正者，其涉及第5條矯正機關組織事項之規定，於本法施行後，不再適用。」爰將《監獄組織通則》廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910423",
-            "立法紀錄": "91卷28期3224號上冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcecb81c6cecdc7cfcec4cfcfcfcac4cfcfcfca",
-            "主提案": false,
+            "會議日期": "1050219",
+            "立法紀錄": "105卷1期4298號一冊 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbceca81cecfcacfcfcecfcec4cfcfcecac4cfcfceca",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc8cfcec5cdcfc9d2cdcec6"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcec8ccc5cdcbccd2cdc9cb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920421",
-            "立法紀錄": "92卷24期3298號下冊 17-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcecb81c6cdcdcbcfccc4cfcfcec8c4cfcfccc9",
+            "會議日期": "1050420",
+            "立法紀錄": "105卷27期4324號 281-285,340-340頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbceca81cecfcacfcdc8cfcec4cfcdc7cec4cfcdc7cad9cecfcacfcdc8cfcec4cfcccbcfc4cfcccbcf",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "920513",
-            "立法紀錄": "92卷27期3301號上冊 117-139頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcecb81c6cdcdc8cfcec4cfcecec8c4cfceccc6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 163-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbceca81cecfcacfcdc9cfcec4cfcec9ccc4cfcec7cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcccececfcdc5cbc9cfd2cbc7ce"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcececec8c9c5c6cad2cecec9"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "920513",
-            "立法紀錄": "92卷27期3301號上冊 139-139頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcbcbcecb81c6cdcdc8cfcec4cfceccc6c4cfceccc6",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 183-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbceca81cecfcacfcdc9cfcec4cfcec7ccc4cfcec7cc",
             "關係文書": []
         }
     ]
