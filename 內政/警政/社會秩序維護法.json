@@ -1,8 +1,8 @@
 {
     "title": "社會秩序維護法",
     "versions": [
-        "中華民國105年5月6日修正",
-        "中華民國105年5月25日公布"
+        "中華民國105年5月13日修正",
+        "中華民國105年6月1日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -582,7 +582,7 @@
         {
             "note": "",
             "rule_no": "第八十五條",
-            "content": "　　有左列各款行為之一者，處三日以下拘留或新臺幣一萬二千元以下罰鍰：\n　　一、於公務員依法執行職務時，以顯然不當之言詞或行動相加，尚未達強暴脅迫或侮辱之程度者。\n　　二、於公務員依法執行職務時，聚眾喧嘩，致礙公務進行者。\n　　三、故意向該公務員謊報災害者。",
+            "content": "　　有左列各款行為之一者，處拘留或新臺幣一萬二千元以下罰鍰：\n　　一、於公務員依法執行職務時，以顯然不當之言詞或行動相加，尚未達強暴脅迫或侮辱之程度者。\n　　二、於公務員依法執行職務時，聚眾喧嘩，致礙公務進行者。\n　　三、故意向該公務員謊報災害者。\n　　四、無故撥打警察機關報案專線，經勸阻不聽者。",
             "relates": {}
         },
         {
@@ -655,61 +655,79 @@
         }
     ],
     "law_reasons": {
-        "第十八條 之一": "　　一、本條新增。\n　　二、公司、有限合夥或商業之負責人、代表人、受雇人或其他從業人員，動輒利用該公司、商業名義犯刑法上妨害風化罪、妨害自由罪、妨害秘密罪，或犯人口販運防制法、通訊保障及監察法之罪，雖經判決有期徒刑以上之刑責，卻仍以原招牌繼續經營，已嚴重影響社會秩序及民眾觀感，必須予以遏止，以避免其死灰復燃。爰增訂本條規定得處該公司、有限合夥或商業勒令歇業之處罰，且不受刑法第七十六條所定之緩刑效力影響。",
-        "第九十一條 之一": "　　一、為配合幼兒教育及照顧法第五十五條自一百零一年一月一日施行，爰修正原條文第二項第三款之「幼稚園」為「幼兒園」。\n　　二、另，原條文第二項第五款中「兒童及少年性交易防制條例第二十三條至第二十七條」修正為「兒童及少年性交易防制條例第二十三條至第二十七條、兒童及少年性剝削防制條例第三十二條至第三十七條」。"
+        "第八十五條": "　　一、現行消防法已有針對無故撥打火警電話（119）者之相關罰則，對於無故撥打報案專線（110）者卻無任何法令有所規範及罰則，造成確有緊急事件之民眾於撥打報案專線時，卻遇到忙線狀況，因此對於濫打報案專線者，實有必要予以裁罰，以達嚇阻之效。\n　　二、綜上所述，爰修正原條文第一項，增訂第四款，無故撥打警察機關報案專線，經勸阻不聽者，處拘留或新臺幣一萬二千元以下罰鍰，以嚇阻惡意濫打報案專線之不肖人士。另為衡平處罰寬嚴，刪除序文中「三日以下」等4字。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050219",
-            "立法紀錄": "105卷1期4298號一冊 19-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c781cecfcacfcfcecfcec4cfcfcec6c4cfcfcec6",
-            "主提案": "行政院",
+            "會議日期": "1050318",
+            "立法紀錄": "105卷6期4303號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c681cecfcacfcfc9cfcec4cfcfcecec4cfcfcece",
+            "主提案": "羅致政",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcec8cbc5c9c6ced2c9c6c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcac8ccc5cbccced2cbcccd"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1050318",
+            "立法紀錄": "105卷6期4303號 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c681cecfcacfcfc9cfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "鍾佳濱",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcac8ccc5cbc8ccd2cbc8cb"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1050415",
+            "立法紀錄": "105卷19期4316號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c681cecfcacfcec6cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "陳怡潔",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfc6c8cdc5cecbced2cecbcb"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1050331",
-            "立法紀錄": "105卷19期4316號二冊 79-79,84-84,87-87,90-157頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c781cecfcacfcec6cfcdc4cfcfc8c6c4cfcfc8c6d9cecfcacfcec6cfcdc4cfcfc7cbc4cfcfc7cbd9cecfcacfcec6cfcdc4cfcfc7c8c4cfcfc7c8d9cecfcacfcec6cfcdc4cfcfc6cfc4cfcecac8",
+            "會議日期": "1050504",
+            "立法紀錄": "105卷35期4332號 3-55頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c681cecfcacfcccacfcec4cfcfcfccc4cfcfcaca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1050408",
-            "立法紀錄": "105卷15期4312號 48-55頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c781cecfcacfcecacfcec4cfcfcbc7c4cfcfcaca",
+            "會議日期": "1050513",
+            "立法紀錄": "105卷33期4330號 143-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c681cecfcacfcccccfcec4cfcecbccc4cfcecacf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfc7c8c6c5ceced2cec7"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcececcc8c6c5cecfcad2cececd"
                 ]
             ]
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "1050428",
-            "立法紀錄": "105卷30期4327號 457-458頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c781cecfcacfcccfcfcec4cfcbcac8c4cfcbcac7",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1050506",
-            "立法紀錄": "105卷30期4327號 200-202頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c781cecfcacfcccfcfcec4cfcdcfcfc4cfcdcfcd",
+            "會議日期": "1050513",
+            "立法紀錄": "105卷33期4330號 150-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c681cecfcacfcccccfcec4cfcecacfc4cfcecacf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1050506",
-            "立法紀錄": "105卷30期4327號 202-202頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c781cecfcacfcccfcfcec4cfcdcfcdc4cfcdcfcd",
+            "會議日期": "1050513",
+            "立法紀錄": "105卷33期4330號 150-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9ccc8c681cecfcacfcccccfcec4cfcecacfc4cfcecacf",
             "關係文書": []
         }
     ]
