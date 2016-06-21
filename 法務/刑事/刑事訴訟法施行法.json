@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法施行法",
     "versions": [
-        "中華民國104年1月23日修正",
-        "中華民國104年2月4日公布"
+        "中華民國105年5月27日修正",
+        "中華民國105年6月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -98,84 +98,104 @@
             "rule_no": "第七條 之八",
             "content": "　　中華民國一百零四年一月二十三日修正通過之刑事訴訟法施行前，以不屬於修正前刑事訴訟法第四百二十條第一項第六款之新事實、新證據，依該規定聲請再審，經聲請人依刑事訴訟法第四百三十一條第一項撤回，或經法院專以非屬事實審法院於判決前因未發現而不及調查斟酌之新證據為由，依刑事訴訟法第四百三十四條第一項裁定駁回，於施行後復以同一事實、證據聲請再審，而該事實、證據符合修正後規定者，不適用刑事訴訟法第四百三十一條第二項、第四百三十四條第二項規定。\n　　前項情形，經聲請人依刑事訴訟法第四百三十一條第一項撤回，或經法院依刑事訴訟法第四百三十四條第一項裁定駁回後，仍適用刑事訴訟法第四百三十一條第二項、第四百三十四條第二項規定。",
             "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第七條 之九",
+            "content": "　　中華民國一百零五年五月二十七日修正通過之刑事訴訟法，自一百零五年七月一日施行。\n　　中華民國一百零五年五月二十七日修正通過之刑事訴訟法施行前，已繫屬於各級法院之案件，其以後之訴訟程序，應依修正刑事訴訟法終結之。但修正刑事訴訟法施行前已依法定程序進行之訴訟程序，其效力不受影響。",
+            "relates": {}
         }
     ],
     "law_reasons": {
-        "第七條 之八": "　　一、本條新增。\n　　二、刑事訴訟法第四百二十條為被告利益聲請再審之條文，明定同條第一項第六款所指新事實、新證據，不以判決確定前已成立而未及調查斟酌者為限，尚包括判決確定後始成立之事實、證據，而放寬再審之限制。為貫徹此次修法發現真實及實現公平正義之意旨，修正前原非屬該規定所指新證據，若依本條文得據以聲請再審者，自不應因曾依修正前規定聲請再審而異其效果。\n　　三、第一項情形，於一百零四年一月二十三日修正通過之刑事訴訟法施行後聲請再審，經聲請人撤回或經法院認為無再審理由而裁定駁回者，既經法院依修正後新法加以審酌，為避免以同一事由重複聲請再審，浪費司法資源，自仍有適用第四百三十一條第二項、第四百三十四條第二項規定之必要，爰增訂本條第二項。"
+        "第七條 之九": "　　一、本條新增。\n　　二、刑法及其施行法業於一百零四年十二月三十日修正公布，刑法修正條文定自一百零五年七月一日施行，為期實體法與程序法施行日期相同，避免法律空窗期，爰修正第一項施行日期為一百零五年七月一日，以配合刑法之施行。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1031017",
-            "立法紀錄": "103卷62期4171號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcccfc9cdcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "廖正井",
+            "會議日期": "1050219",
+            "立法紀錄": "105卷1期4298號一冊 22-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcfcecfcec4cfcfcdcdc4cfcfcdcd",
+            "主提案": "司法院、行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc9c8cdc5ceced2cecd"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcec8cac5cecfcac8d2cecfc7cd"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1031103",
-            "立法紀錄": "103卷74期4183號 1-1,21-44頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcccfc8cbcfcec4cfcfcfcec4cfcfcfced9cecfcccfc8cbcfcec4cfcfcdcec4cfcfcbcb",
+            "會議日期": "1050314",
+            "立法紀錄": "105卷9期4306號 145-145,149-192頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcfc6cfcec4cfcecbcac4cfcecbcad9cecfcacfcfc6cfcec4cfcecbc6c4cfcec6cd",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1031119",
-            "立法紀錄": "103卷83期4192號 225-225,231-259頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcccfc7cccfcec4cfcdcdcac4cfcdcdcad9cecfcccfc7cccfcec4cfcdcccec4cfcdcac6",
+            "會議日期": "1050328",
+            "立法紀錄": "105卷16期4313號 325-325,329-366頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcec9cfcec4cfcccdcac4cfcccdcad9cecfcacfcec9cfcec4cfcccdc6c4cfccc9c9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1050414",
+            "立法紀錄": "105卷25期4322號 281-281,366-377頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcdcacfcec4cfcdc7cec4cfcdc7ced9cecfcacfcdcacfcec4cfccc9c9c4cfccc8c8",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1050428",
+            "立法紀錄": "105卷31期4328號 259-340頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcccecfcec4cfcdcac6c4cfcccbcf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1031209",
-            "立法紀錄": "103卷85期4194號 139-148頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcccfc7cacfcec4cfceccc6c4cfcecbc7",
+            "會議日期": "1050513",
+            "立法紀錄": "105卷33期4330號 150-191頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcccccfcec4cfcecacfc4cfcec6ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecdc8c6c5cec8d2cdc9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcececcc8c6c5cececcd2cecacb"
                 ]
             ]
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040120",
-            "立法紀錄": "104卷9期4208號四冊 369-369頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcbcfcfc6cfcbc4cfccc9c6c4cfccc9c6",
+            "會議日期": "1050524",
+            "立法紀錄": "105卷37期4334號 305-306頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfccc8cfcec4cfcccfcac4cfcccfc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號三冊 274-274頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcbcfcececfccc4cfcdc8cbc4cfcdc8cb",
+            "會議日期": "1050527",
+            "立法紀錄": "105卷40期4337號 44-45頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcbcfcfcec4cfcfcbcbc4cfcfcbca",
             "關係文書": []
         },
         {
             "進度": "黨團協商",
-            "會議日期": "1040112",
-            "立法紀錄": "104卷11期4210號七冊 415-428頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcbcfcececfc8c4cfcbcecac4cfcbcdc7",
+            "會議日期": "1050523",
+            "立法紀錄": "105卷40期4337號 463-501頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcbcfcfcec4cfcbc9ccc4cfcacfce",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號三冊 274-275頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcbcfcececfccc4cfcdc8cbc4cfcdc8ca",
+            "會議日期": "1050527",
+            "立法紀錄": "105卷40期4337號 51-51頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcbcfcfcec4cfcfcacec4cfcfcace",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1040123",
-            "立法紀錄": "104卷11期4210號三冊 275-275頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc981cecfcbcfcececfccc4cfcdc8cac4cfcdc8ca",
+            "會議日期": "1050527",
+            "立法紀錄": "105卷40期4337號 51-52頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cdc781cecfcacfcbcfcfcec4cfcfcacec4cfcfcacd",
             "關係文書": []
         }
     ]
