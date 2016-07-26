@@ -1,11 +1,11 @@
 {
     "title": "中華民國紅十字會法",
     "versions": [
-        "中華民國89年4月7日修正",
-        "中華民國89年4月26日公布"
+        "中華民國105年7月12日廢止",
+        "中華民國105年7月27日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -260,41 +260,40 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第六條": "　　將「官署」修正為「機關」。",
-        "第十條": "　　將「官署」修正為「機關」。",
-        "第十二條": "　　將「官署」修正為「機關」，並酌作文字修正。",
-        "第十五條": "　　配合臺灣省政府功能業務與組織調整，省分會改受內政部監督。至其目的事業受當地主管官署之指導規定，參酌人民團體法第三條但書立法例，將「當地」修正為「各該」，並將「官署」修正為「機關」。",
-        "第二十條": "　　配合臺灣省政府功能業務與組織調整，省分會定期徵求會員之業務，改由內政部協助辦理。",
-        "第三十二條": "　　將「官署」修正為「機關」，並酌作文字修正。",
-        "第三十四條": "　　將「官署」修正為「機關」。"
-    },
+    "deprecated_reason": "　　中華民國紅十字會於1954 年透過特別立法賦予其獨特法律地位，以便在無集會結社自由之戒嚴時期能以人民團體名義勸募賑災，惟礙於我國特殊情勢，迄今未能加入紅十字國際委員會（International Committee of The Red Cross, ICRC），亦不被日內瓦公約所承認，在國際間的重大災害發生時反而因為其在國內的特別地位，僅能以捐款方式提供援助，不如非政府組織靈活。\n　　本法不僅相當多規定明顯與人民團體法賦予人民團體自治之精神相悖，政府介入過深不僅使其無法執行某些國際人道救援工作，其職務易淪為政治酬庸，且在賦予諸多發起勸募之財務特權同時卻欠缺透明公開之相關規範，爰廢除本法使其自訂章程，回歸「人民團體法」及「公益勸募條例」等法令規範，由主管機關監督之。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "881029",
-            "立法紀錄": "88卷46期3046號上冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc6c981c7c7cbc9cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "行政院",
+            "會議日期": "1050304",
+            "立法紀錄": "105卷3期4300號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc6c881cecfcacfcfcccfcec4cfcfcecfc4cfcfcecf",
+            "主提案": "徐永明",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcfc9cfcec5cdc7cdd2cdc7c9"
+                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfccc8ccc5c9ccc8d2c9cbcb"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "890331",
-            "立法紀錄": "89卷14期3073號 37-37頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc6c981c7c6cecbcfcfc4cfcfccc8c4cfcfccc8",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1050503",
+            "立法紀錄": "105卷26期4323號 188-194頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc6c881cecfcacfcdc9cfcec4cfcec7c7c4cfcec6cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1050712",
+            "立法紀錄": "105卷57期4354號一冊 456-460頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc6c881cecfcacfcac8cfcec4cfcbcac9c4cfcbc9cf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "890407",
-            "立法紀錄": "89卷15期3074號 45-48頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cdc6cfcdcfc6c981c7c6cecacfcfc4cfcfcbcac4cfcfcbc7",
+            "會議日期": "1050712",
+            "立法紀錄": "105卷57期4354號一冊 460-461頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6cfcdcfc6c881cecfcacfcac8cfcec4cfcbc9cfc4cfcbc9ce",
             "關係文書": []
         }
     ]
