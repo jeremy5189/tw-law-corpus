@@ -1,8 +1,8 @@
 {
     "title": "勞工退休金條例",
     "versions": [
-        "中華民國104年6月15日修正",
-        "中華民國104年7月1日公布"
+        "中華民國105年11月1日修正",
+        "中華民國105年11月16日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -38,9 +38,9 @@
             "relates": {}
         },
         {
-            "note": "(辦理機關)",
+            "note": "(業務辦理機關)",
             "rule_no": "第五條",
-            "content": "　　勞工退休金之收支、保管、滯納金之加徵及罰鍰處分等業務，由中央主管機關委任勞工保險局（以下稱勞保局）辦理之。",
+            "content": "　　勞工退休金之收支、保管、滯納金之加徵及罰鍰處分等業務，由中央主管機關委任勞動部勞工保險局（以下簡稱勞保局）辦理之。",
             "relates": {}
         },
         {
@@ -168,7 +168,7 @@
         {
             "note": "(領取月退休金或一次退休金之條件及工作年資之採計)",
             "rule_no": "第二十四條",
-            "content": "　　勞工年滿六十歲，工作年資滿十五年以上者，得請領月退休金。但工作年資未滿十五年者，應請領一次退休金。\n　　前項工作年資採計，以實際提繳退休金之年資為準。年資中斷者，其前後提繳年資合併計算。\n　　勞工不適用勞動基準法時，於有第一項規定情形者，始得請領。",
+            "content": "　　勞工年滿六十歲，得依下列規定之方式請領退休金：\n　　一、工作年資滿十五年以上者，選擇請領月退休金或一次退休金。\n　　二、工作年資未滿十五年者，請領一次退休金。\n　　依前項第一款規定選擇請領退休金方式，經勞保局核付後，不得變更。\n　　第一項工作年資採計，以實際提繳退休金之年資為準。年資中斷者，其前後提繳年資合併計算。\n　　勞工不適用勞動基準法時，於有第一項規定情形者，始得請領。",
             "relates": {}
         },
         {
@@ -336,7 +336,7 @@
         {
             "note": "(罰則)",
             "rule_no": "第四十六條",
-            "content": "　　保險人違反第三十六條第二項規定，未於期限內通知勞保局者，處新臺幣六萬元以上三十萬元以下罰鍰，並按月連續處罰至改正為止。",
+            "content": "　　保險人違反第三十六條第二項規定，未於期限內通知勞保局者，處新臺幣六萬元以上三十萬元以下罰鍰，並限期令其改善；屆期未改善者，應按次處罰。",
             "relates": {}
         },
         {
@@ -348,7 +348,7 @@
         {
             "note": "(罰則)",
             "rule_no": "第四十八條",
-            "content": "　　事業單位違反第四十條規定，拒絕提供資料或對提出申訴勞工為不利處分者，處新臺幣三萬元以上十五萬元以下罰鍰。",
+            "content": "　　事業單位違反第四十條規定，拒絕提供資料或對提出申訴勞工為不利處分者，處新臺幣三萬元以上三十萬元以下罰鍰。",
             "relates": {}
         },
         {
@@ -417,93 +417,95 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　配合「勞動部組織法」組織改造，修正中央主管機關「行政院勞工委員會」為「勞動部」。",
-        "第二十九條": "　　我國勞工退休金及請領勞工退休金之權利，於原條文中規定，不得讓與、扣押、抵消或供擔保，然勞工可將退休金匯入勞工指定之戶頭，此戶頭中之存款，將無法受到不得讓與或扣押等法律之保障，亦可能成為強制執行之標的。爰此，為提升我國勞工退休生活之保障，爰增訂第二項及第三項，規定勞工依本條例規定請領月退休金者，得檢具勞保局出具之證明文件，於金融機構開立專戶，專供存入月退休金之用。專戶內之存款不得作為抵銷、扣押、供擔保或強制執行之標的。"
+        "第五條": "　　配合行政院組織改造工程，修正本項條文中主管機關名稱。",
+        "第二十四條": "　　一、為使年滿六十歲且工作年資滿十五年以上之勞工，能靈活運用退休金規劃其退休生活，爰修正原條文第一項，增訂其退休金請領可選擇月領或一次領。\n　　二、另考量勞工退休金支付的安定性，增列第二項，明定請領退休金者，經勞保局核付後，不得變更請領方式。\n　　三、配合第二項之增訂，原條文第二項酌作文字修正，並移列為修正條文第三項。原第三項移列為修正條文第四項。",
+        "第四十六條": "　　原條文中雖訂定「按月連續處罰」，但未有明訂改善期限，容易形成難以有效督促及未能彰顯時效之效果，爰修正限期令其改善並應按次處罰。",
+        "第四十八條": "　　現行勞動基準法第七十四條第二項有關勞工申訴或其他不利之處分罰則上限為三十萬元，應為本條例之參考標準與依循，爰將罰鍰金額上限提高至與勞基法相同，俾利處罰標準之一致性。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1030509",
-            "立法紀錄": "103卷34期4143號 54-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfcac681cecfcccfcccbcfcec4cfcfcacbc4cfcfcacb",
-            "主提案": "蘇清泉",
+            "會議日期": "1050311",
+            "立法紀錄": "105卷4期4301號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfc9cf81cecfcacfcfcbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "蔣乃辛",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc7cfcec5cccccfd2ccccce"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090104:LCEWA01_090104_00027"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號一冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfcac681cecfcccfcbcccfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "江惠貞",
+            "會議日期": "1050325",
+            "立法紀錄": "105卷10期4307號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfc9cf81cecfcacfcecfcfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "陳宜民",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdcfcec5cbcec7d2cbcec6"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090106:LCEWA01_090106_00053"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1030912",
-            "立法紀錄": "103卷51期4160號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfcac681cecfcccfcacecfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "盧秀燕",
+            "會議日期": "1050401",
+            "立法紀錄": "105卷13期4310號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfc9cf81cecfcacfcecccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "張廖萬堅",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcec8cdc5cccad2ccc9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090107:LCEWA01_090107_00017"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1040410",
-            "立法紀錄": "104卷25期4224號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfcac681cecfcbcfcdcacfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "江惠貞",
+            "會議日期": "1050422",
+            "立法紀錄": "105卷23期4320號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfc9cf81cecfcacfcdcccfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "黃秀芳",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc8c8cdc5cec8d2cdcf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090110:LCEWA01_090110_00036"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1040601",
-            "立法紀錄": "104卷56期4225號 167-167,171-230頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfcac681cecfcbcfcac9cfcec4cfcec9c8c4cfcec9c8d9cecfcbcfcac9cfcec4cfcec8cec4cfcdcccf",
+            "會議日期": "1050627",
+            "立法紀錄": "105卷58期4355號 223-309頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfc9cf81cecfcacfcac7cfcec4cfcdcdccc4cfcccfc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1040615",
-            "立法紀錄": "104卷54期4253號七冊 53-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfcac681cecfcbcfcacbcfc8c4cfcfcaccc4cfcfcac6",
+            "會議日期": "1051101",
+            "立法紀錄": "105卷77期4374號 49-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfc9cf81cecfcacfc8c8cfcec4cfcfcbc6c4cfcfcac6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cec9c7cbc5cdc8c9ced2cdc8c9c7"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090120:LCEWA01_090120_00265"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1040615",
-            "立法紀錄": "104卷54期4253號七冊 59-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfcac681cecfcbcfcacbcfc8c4cfcfcac6c4cfcfcac6",
+            "會議日期": "1051101",
+            "立法紀錄": "105卷77期4374號 59-59頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfc9cf81cecfcacfc8c8cfcec4cfcfcac6c4cfcfcac6",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1040615",
-            "立法紀錄": "104卷54期4253號七冊 59-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfcac681cecfcbcfcacbcfc8c4cfcfcac6c4cfcfcac6",
+            "會議日期": "1051101",
+            "立法紀錄": "105卷77期4374號 59-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfc9cf81cecfcacfc8c8cfcec4cfcfcac6c4cfcfc9cf",
             "關係文書": []
         }
     ]
