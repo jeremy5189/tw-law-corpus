@@ -1,8 +1,8 @@
 {
     "title": "山坡地保育利用條例",
     "versions": [
-        "中華民國95年5月23日修正",
-        "中華民國95年6月14日公布"
+        "中華民國105年11月15日修正",
+        "中華民國105年11月30日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -250,7 +250,7 @@
         {
             "note": "(擅自墾殖等之處罰)",
             "rule_no": "第三十四條",
-            "content": "　　違反第十條規定者，處六月以上五年以下有期徒刑，得併科新臺幣六十萬元以下罰金。\n　　前項情形致釀成災害者，加重其刑至二分之一；因而致人於死者，處五年以上十二年以下有期徒刑，得併科新臺幣一百萬元以下罰金；致重傷者，處三年以上十年以下有期徒刑，得併科新臺幣八十萬元以下罰金。\n　　因過失犯第一項之罪致釀成災害者，處一年以下有期徒刑，得併科新臺幣六十萬元以下罰金。\n　　第一項未遂犯罰之。\n　　犯本條之罪者，其墾殖物、工作物、施工材料及所使用之機具沒收之。",
+            "content": "　　違反第十條規定者，處六月以上五年以下有期徒刑，得併科新臺幣六十萬元以下罰金。\n　　前項情形致釀成災害者，加重其刑至二分之一；因而致人於死者，處五年以上十二年以下有期徒刑，得併科新臺幣一百萬元以下罰金；致重傷者，處三年以上十年以下有期徒刑，得併科新臺幣八十萬元以下罰金。\n　　因過失犯第一項之罪致釀成災害者，處一年以下有期徒刑，得併科新臺幣六十萬元以下罰金。\n　　第一項未遂犯罰之。\n　　犯本條之罪者，其墾殖物、工作物、施工材料及所使用之機具，不問屬於犯罪行為人與否，沒收之。",
             "relates": {}
         },
         {
@@ -295,46 +295,53 @@
         }
     ],
     "law_reasons": {
-        "第三十七條": "　　「山胞」名稱早已於八十三年八月一日修憲中正名為原住民，本條文內容仍使用之，明顯違憲，爰予以修正。"
+        "第三十四條": "　　一、第一項至第四項未修正。\n　　二、依一百零四年十二月三十日修正施行之中華民國刑法施行法第十條之三第二項規定，一百零五年七月一日刑法沒收修正之施行日前所制定之其他法律關於沒收之規定，不再適用。其立法意旨在以回歸刑法一體適用；惟經檢視仍應為特別規定者，依刑法第十一條特別法優先於普通法之原則，仍宜定明。\n　　三、考量山坡地因其自然條件特殊，不適當之開發行為易導致災害發生，甚至造成不可逆之損害。為減少違規行為人僥倖心理，避免該等犯罪工具因非屬犯罪行為人所有而無法沒收，致使犯罪成本降低，而無法達到嚇阻之目的，爰修正擴大沒收範圍，將第五項修正為「犯本條之罪者，其墾殖物、工作物、施工材料及所使用之機具，不問屬於犯罪行為人與否，沒收之。」，以為刑法第三十八條第二項之特別規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "940930",
-            "立法紀錄": "94卷46期3428號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccc981c6cbcbc9cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "陳瑩",
+            "會議日期": "1051007",
+            "立法紀錄": "105卷71期4368號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9c6ccc781cecfcacfc8cecfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcbcfcec5cecdced2cecdcd"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090205:LCEWA01_090205_00060"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "950515",
-            "立法紀錄": "95卷30期3491號 163-171頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccc981c6cacccfcfcfc4cfcec9ccc4cfcec8ce",
+            "會議日期": "1051102",
+            "立法紀錄": "105卷83期4380號 389-427頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9c6ccc781cecfcacfc7cccfcec4cfccc7c6c4cfcbcdc8",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "950523",
-            "立法紀錄": "95卷29期3490號一冊 85-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccc981c6cacdc6cfcec4cfcfc7cac4cfcfc7c8",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1051115",
+            "立法紀錄": "105卷82期4379號 210-228頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9c6ccc781cecfcacfc7cdcfcec4cfcdcecfc4cfcdcdc7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecbcfcdc5cdcac7d2cdc9cf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090210:LCEWA01_090210_00214"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1051115",
+            "立法紀錄": "105卷82期4379號 232-232頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9c6ccc781cecfcacfc7cdcfcec4cfcdcccdc4cfcdcccd",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "950523",
-            "立法紀錄": "95卷29期3490號一冊 87-87頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cdcccec9c6ccc981c6cacdc6cfcec4cfcfc7c8c4cfcfc7c8",
+            "會議日期": "1051115",
+            "立法紀錄": "105卷82期4379號 232-233頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec9c6ccc781cecfcacfc7cdcfcec4cfcdcccdc4cfcdcccc",
             "關係文書": []
         }
     ]
