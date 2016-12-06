@@ -1,8 +1,8 @@
 {
     "title": "公職人員選舉罷免法",
     "versions": [
-        "中華民國105年3月25日修正",
-        "中華民國105年4月13日公布"
+        "中華民國105年11月18日修正",
+        "中華民國105年12月7日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -192,7 +192,7 @@
         {
             "note": "",
             "rule_no": "第二十七條",
-            "content": "　　下列人員不得登記為候選人：\n　　一、現役軍人。\n　　二、服替代役之現役役男。\n　　三、軍事學校學生。\n　　四、各級選舉委員會之委員、監察人員、職員、鄉（鎮、市、區）公所辦理選舉事務人員及投票所、開票所工作人員。\n　　五、依其他法律規定不得登記為候選人者。\n　　前項第一款之現役軍人，屬於後備軍人或補充兵應召者，在應召未入營前，或係受教育、勤務及點閱召集，均不受限制。第二款服替代役之現役役男，屬於服役期滿後受召集服勤者，亦同。\n　　當選人因第一百二十條第一項第二款、第三款情事之一，經法院判決當選無效確定者，不得申請登記為該次公職人員補選候選人。",
+            "content": "　　下列人員不得登記為候選人：\n　　一、現役軍人。\n　　二、服替代役之現役役男。\n　　三、軍事學校學生。\n　　四、各級選舉委員會之委員、監察人員、職員、鄉（鎮、市、區）公所辦理選舉事務人員及投票所、開票所工作人員。\n　　五、依其他法律規定不得登記為候選人者。\n　　前項第一款之現役軍人，屬於後備軍人或補充兵應召者，在應召未入營前，或係受教育、勤務及點閱召集，均不受限制。第二款服替代役之現役役男，屬於服役期滿後受召集服勤者，亦同。\n　　當選人就職後辭職或因第一百二十條第一項第二款、第三款情事之一，經法院判決當選無效確定者，不得申請登記為該次公職人員補選候選人。",
             "relates": {}
         },
         {
@@ -893,53 +893,53 @@
         }
     ],
     "law_reasons": {
-        "第四十七條": "　　候選人政見之表現方式與公平使用選舉公報版面，應併同列為修法之內容。爰決議：\n　　一、原條文第三項，刪除「政見內容以六百字為限，同項」等字，餘維持原條文。\n　　二、增訂第四項，「第一項政見內容，得以文字、圖案為之，並應使所有候選人公平使用選舉公報版面；其辦法，由中央選舉委員會定之。」\n　　三、原條文之第四項至第九項，項次順延，其餘維持原條文。"
+        "第二十七條": "　　公職當選人就職後因故辭職者，立法委員依公職人員選舉罷免法第七十三條規定，地方民意代表依地方制度法第八十一條規定，地方首長則應依地方制度法第八十二條規定進行補選作業，惟如該公職人員又再參與補選，出爾反爾，浪費國家資源，顯與誠實信用與禁反言之法律原則有違，爰修正第三項規定當選人就職後辭職者，應不許其申請登記為該次公職人員補選候選人，以維護公職選舉之公正公平。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050226",
-            "立法紀錄": "105卷2期4299號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec881cecfcacfcfcdcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "Kolas Yotaka",
+            "會議日期": "1050513",
+            "立法紀錄": "105卷33期4330號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec681cecfcacfcccccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "段宜康",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcdc8cdc5cec6c6d2cdcfcd"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090113:LCEWA01_090113_00012"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1050316",
-            "立法紀錄": "105卷10期4307號 337-337,345-435頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec881cecfcacfcecfcfcec4cfccccc8c4cfccccc8d9cecfcacfcecfcfcec4cfcccbcac4cfcbccca",
+            "會議日期": "1050622",
+            "立法紀錄": "105卷54期4351號 181-235頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec681cecfcacfcacbcfcec4cfcec7cec4cfcdccca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1050325",
-            "立法紀錄": "105卷10期4307號 130-136頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec881cecfcacfcecfcfcec4cfcecccfc4cfceccc9",
+            "會議日期": "1051118",
+            "立法紀錄": "105卷87期4384號 71-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec681cecfcacfc7c8cfcec4cfcfc8cec4cfcfc8cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfc9c8c7c5c8c8d2c7cd"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090211:LCEWA01_090211_40012"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1050325",
-            "立法紀錄": "105卷10期4307號 136-137頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec881cecfcacfcecfcfcec4cfceccc9c4cfceccc8",
+            "會議日期": "1051118",
+            "立法紀錄": "105卷87期4384號 75-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec681cecfcacfc7c8cfcec4cfcfc8cac4cfcfc8c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1050325",
-            "立法紀錄": "105卷10期4307號 137-138頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec881cecfcacfcecfcfcec4cfceccc8c4cfceccc7",
+            "會議日期": "1051118",
+            "立法紀錄": "105卷87期4384號 76-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacdcec681cecfcacfc7c8cfcec4cfcfc8c9c4cfcfc8c9",
             "關係文書": []
         }
     ]
