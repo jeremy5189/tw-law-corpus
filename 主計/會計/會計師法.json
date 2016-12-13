@@ -1,8 +1,8 @@
 {
     "title": "會計師法",
     "versions": [
-        "中華民國105年4月1日修正",
-        "中華民國105年4月20日公布"
+        "中華民國105年11月25日修正",
+        "中華民國105年12月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -46,7 +46,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　有下列情事之一者，不得充任會計師：\n　　一、曾有詐欺、背信、侵占、偽造文書或因業務上犯罪行為，受一年以上有期徒刑之宣告確定。但執行完畢或一部之執行而赦免已滿三年者，不在此限。\n　　二、受監護或輔助宣告尚未撤銷。\n　　三、受破產宣告尚未復權。\n　　四、罹患精神疾病或身心狀況違常，經主管機關委請二位以上相關專科醫師諮詢，並經主管機關認定不能執行業務。\n　　五、曾任公務員而受撤職處分，其停止任用期間尚未屆滿。\n　　六、受本法所定除名處分。\n　　已充任會計師而有前項各款情事之一者，撤銷或廢止其會計師證書。但因前項第一款至第五款規定撤銷或廢止會計師證書者，於原因消滅後，仍得依本法之規定，請領會計師證書。",
+            "content": "　　有下列情事之一者，不得充任會計師：\n　　一、曾有詐欺、背信、侵占、偽造文書或因業務上犯罪行為，受一年以上有期徒刑之宣告確定。但執行完畢或一部之執行而赦免已滿三年者，不在此限。\n　　二、受監護或輔助宣告尚未撤銷。\n　　三、受破產宣告尚未復權。\n　　四、曾任公務員而受撤職處分，其停止任用期間尚未屆滿。\n　　五、受本法所定除名處分。\n　　已充任會計師而有前項各款情事之一者，撤銷或廢止其會計師證書。但因前項第一款至第四款規定撤銷或廢止會計師證書者，於原因消滅後，仍得依本法之規定，請領會計師證書。",
             "relates": {}
         },
         {
@@ -541,55 +541,53 @@
         }
     ],
     "law_reasons": {
-        "第八條": "　　一、放寬會計師執行業務區域，尚無需依執業區域分別加入省（市）會計師公會，改為加入會計師執業之主（或分）事務所所在地之省（市）會計師公會。另依第五十一條規定，若直轄市會計師公會未成立前，得加入鄰近省（市）會計師公會，即得在全國執業，爰修正第一項文字。\n　　二、配合第一項修正，為發揮會計師公會專業自治功能，以利統一管理會計師加入公會情形，爰新增第二項明定省（市）會計師公會應將所屬會員入會資料，轉送中華民國會計師公會全國聯合會辦理登錄備查。",
-        "第十三條": "　　配合第八條之修正酌修本條第一項文字。",
-        "第八十一條": "　　修正第二項，明定九十八年六月十日修正公布之第六條自九十八年十一月二十三日施行，其餘修正條文自公布日施行。"
+        "第六條": "　　一、刪除原條文第一項第四款。因精神疾病之範圍廣泛，按精神疾病診斷與統計手冊第五版對於精神疾病之類別定義，囤積症（例如捨不得丟棄舊物、過度性地收購或收集物件）或是僅限於表演時的社交焦慮症（例如發表演說之前非常緊張）等病症也視為精神疾病。但有此精神疾病及身心障礙是否影響當事人作為會計師之表現與專業，並無直接關係。因此，並不適宜以罹患精神疾病或身心狀況違常之情事來概括當事人不具備可勝任工作的專業技能。\n　　二、原第一項第六款改列為第五款。\n　　三、原第二項提及之款次改列為第一款至第四款。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050226",
-            "立法紀錄": "105卷2期4299號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecd81cecfcacfcfcdcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "曾銘宗",
+            "會議日期": "1050429",
+            "立法紀錄": "105卷26期4323號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecb81cecfcacfcdc9cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "王榮璋",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcdc8cdc5cececad2cecec7"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090111:LCEWA01_090111_00048"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1050323",
-            "立法紀錄": "105卷14期4311號 371-371,375-413,418-418頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecd81cecfcacfcecbcfcec4cfccc8cec4cfccc8ced9cecfcacfcecbcfcec4cfccc8cac4cfcbceccd9cecfcacfcecbcfcec4cfcbcec7c4cfcbcec7",
+            "會議日期": "1051117",
+            "立法紀錄": "105卷94期4391號二冊 301-355頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecb81cecfcacfc6cbcfcdc4cfcccfcec4cfcccaca",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1050401",
-            "立法紀錄": "105卷13期4310號 227-231頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecd81cecfcacfcecccfcec4cfcdcdc8c4cfcdccce",
+            "會議日期": "1051125",
+            "立法紀錄": "105卷92期4389號 122-126頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecb81cecfcacfc6cdcfcec4cfcecdcdc4cfcecdc9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfc8c8c8c5c6d2cecb"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090212:LCEWA01_090212_40008"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1050401",
-            "立法紀錄": "105卷13期4310號 231-231頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecd81cecfcacfcecccfcec4cfcdcccec4cfcdccce",
+            "會議日期": "1051125",
+            "立法紀錄": "105卷92期4389號 127-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecb81cecfcacfc6cdcfcec4cfcecdc8c4cfcecdc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1050401",
-            "立法紀錄": "105卷13期4310號 231-232頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecd81cecfcacfcecccfcec4cfcdcccec4cfcdcccd",
+            "會議日期": "1051125",
+            "立法紀錄": "105卷92期4389號 127-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc9cecb81cecfcacfc6cdcfcec4cfcecdc8c4cfcecdc8",
             "關係文書": []
         }
     ]
