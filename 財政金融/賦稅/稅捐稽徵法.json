@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國103年12月30日修正",
-        "中華民國104年1月14日公布"
+        "中華民國105年12月30日修正",
+        "中華民國106年1月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -226,7 +226,7 @@
         {
             "note": "",
             "rule_no": "第二十三條",
-            "content": "　　稅捐之徵收期間為五年，自繳納期間屆滿之翌日起算；應徵之稅捐未於徵收期間徵起者，不得再行徵收。但於徵收期間屆滿前，已移送執行，或已依強制執行法規定聲明參與分配，或已依破產法規定申報債權尚未結案者，不在此限。\n　　應徵之稅捐，有第十條、第二十五條、第二十六條或第二十七條規定情事者，前項徵收期間，自各該變更繳納期間屆滿之翌日起算。\n　　依第三十九條暫緩移送執行或其他法律規定停止稅捐之執行者，第一項徵收期間之計算，應扣除暫緩執行或停止執行之期間。\n　　稅捐之徵收，於徵收期間屆滿前已移送執行者，自徵收期間屆滿之翌日起，五年內未經執行者，不再執行，其於五年期間屆滿前已開始執行，仍得繼續執行；但自五年期間屆滿之日起已逾五年尚未執行終結者，不得再執行。\n　　本法中華民國九十六年三月五日修正前已移送執行尚未終結之案件，自修正之日起逾五年尚未執行終結者，不再執行。但有下列情形之一，自九十六年三月五日起逾十年尚未執行終結者，不再執行：\n　　一、截至一百零一年三月四日，納稅義務人欠繳稅捐金額達新臺幣五十萬元以上者。\n　　二、一百零一年三月四日前經法務部行政執行署所屬行政執行處，依行政執行法第十七條規定聲請法院裁定拘提或管收義務人確定者。\n　　三、一百零一年三月四日前經法務部行政執行署所屬行政執行處，依行政執行法第十七條之一第一項規定對義務人核發禁止命令者。",
+            "content": "　　稅捐之徵收期間為五年，自繳納期間屆滿之翌日起算；應徵之稅捐未於徵收期間徵起者，不得再行徵收。但於徵收期間屆滿前，已移送執行，或已依強制執行法規定聲明參與分配，或已依破產法規定申報債權尚未結案者，不在此限。\n　　應徵之稅捐，有第十條、第二十五條、第二十六條或第二十七條規定情事者，前項徵收期間，自各該變更繳納期間屆滿之翌日起算。\n　　依第三十九條暫緩移送執行或其他法律規定停止稅捐之執行者，第一項徵收期間之計算，應扣除暫緩執行或停止執行之期間。\n　　稅捐之徵收，於徵收期間屆滿前已移送執行者，自徵收期間屆滿之翌日起，五年內未經執行者，不再執行，其於五年期間屆滿前已開始執行，仍得繼續執行；但自五年期間屆滿之日起已逾五年尚未執行終結者，不得再執行。\n　　本法中華民國九十六年三月五日修正前已移送執行尚未終結之案件，自修正之日起逾五年尚未執行終結者，不再執行。但截至一百零六年三月四日納稅義務人欠繳稅捐金額達新臺幣一千萬元或執行期間有下列情形之一者，仍得繼續執行，其執行期間不得逾一百十一年三月四日：\n　　一、法務部行政執行署所屬各分署依行政執行法第十七條規定，聲請法院裁定拘提或管收義務人確定。\n　　二、法務部行政執行署所屬各分署依行政執行法第十七條之一第一項規定，對義務人核發禁止命令。\n　　本法中華民國一百零五年十二月三十日修正之條文施行前，有修正施行前第五項第一款情形，於修正施行後欠繳稅捐金額截至一百零六年三月四日未達新臺幣一千萬元者，自一百零六年三月五日起，不再執行。",
             "relates": {}
         },
         {
@@ -487,119 +487,66 @@
         }
     ],
     "law_reasons": {
-        "第二十六條": "　　一、基於避免鉅額稅賦反而新增社會問題之風險，民眾長期欠稅亦非財政機關所樂見，故原條文第一項增訂民眾實際經濟需要之規定。\n　　二、增訂第二項「前項天災、事變、不可抗力之事由、經濟弱勢者之認定及實施方式之辦法，由財政部定之。」。",
-        "第三十三條": "　　一、稅捐稽徵機關擁有納稅義務人之相關資料，係珍貴的公共財，政府有必要也有責任促使其做最充分的利用，發揮最大的效益，以符合「Big Data」的施政理念。\n　　二、原條文只允許稅捐稽徵機關對其他政府機關為統計目的而供應資料，可不受保密之限制，此一規定似有過度嚴苛之嫌。\n　　三、為發揮資訊動態與決策功能，在不洩漏納稅義務人之姓名或名稱下，稅捐機關應擴大開放資料運用機會予學術研究單位與民意機關。爰修正原條文第二項為：「稅捐稽徵機關對其他政府機關、學校與教研人員、學術研究機構與研究人員、民意機關與民意代表等為統計、教學、研究與監督目的而供應資料，並不洩漏納稅義務人之姓名或名稱，且符合政府資訊公開法規定者，不受前項之限制。」。\n　　四、原條文第一項及第三項未修正。"
+        "第二十三條": "　　一、第一項至第四項未修正。\n　　二、第五項修正如下：\n　　　(一)九十六年三月五日前已移送執行尚未終結之欠稅案件，其徵收期間與執行期間合計未達十五年之件數及金額占全部是類欠稅案件半數以上，為與第四項規定，九十六年三月六日以後移送執行欠稅案件之徵收期間與執行期間合計最長近十五年衡平，並考量追回國家租稅債權手段之適當性與必要性及權衡稽徵成本，參酌財政部公告欠稅人資料之範圍、與法務部訂定　　欠稅執行案件合作追查之選案標準，及限制出境條件之金額級距等規定，均以納稅義務人累積欠稅達新臺幣（下同）一千萬元以上為重大欠稅案件，嚴重侵害國家租稅債權，爰修正本項但書規定，將九十六年三月五日起逾十年尚未執行終結者不再執行，延長為十五年（至一百十一年三月四日），另修正原第一款規定，將欠稅金額達五十萬元以上，調高為一千萬元，並移列至序文規範。\n　　　(二)經法院拘提、管收，或經法務部行政執行署所屬各分署核發禁止命令之納稅義務人，審酌其惡性重大，爰修正原第二款及第三款為第一款及第二款，併同再延長五年執行期間至一百十一年三月四日，另配合法務部行政執行署組織調整，酌作文字修正。\n　　三、有原第五項第一款所定情形，於本次修正後欠稅金額未達一千萬元者，其執行期間仍與修正前之規定相同，為資明確，爰增訂第六項，明定有該等情形，而截至一百零六年三月四日欠稅金額未達一千萬元之尚未執行終結案件，自一百零六年三月五日起，不再執行。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1031107",
-            "立法紀錄": "103卷72期4181號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfc8cdcfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "李應元",
+            "會議日期": "1051223",
+            "立法紀錄": "106卷4期4406號一冊 22-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9ce81cecfc9cfcfcbcfcec4cfcfcdcdc4cfcfcdcd",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc6c8cdc5cecad2cec7"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090216:LCEWA01_090216_10167"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1030502",
-            "立法紀錄": "103卷31期4140號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfcccecfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "薛凌",
+            "會議日期": "1051223",
+            "立法紀錄": "106卷4期4406號一冊 22-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9ce81cecfc9cfcfcbcfcec4cfcfcdcdc4cfcfcdcd",
+            "主提案": "邱志偉",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc8cfcec5cecbcbd2cecbca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030418",
-            "立法紀錄": "103卷25期4134號 14-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfcdcacfcec4cfcfcecbc4cfcfcecb",
-            "主提案": "曾巨威",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9cfc9c5ccc8ced2ccc8cd"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030912",
-            "立法紀錄": "103卷51期4160號一冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfcacecfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "曾巨威",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfcec8cdc5cdcac8d2cdcac7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1031107",
-            "立法紀錄": "103卷72期4181號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfc8cdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc6c8cdc5c9cad2c9c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1031017",
-            "立法紀錄": "103卷62期4171號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfc9cdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "高志鵬",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc9c8cdc5c7c6d2c6cf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090216:LCEWA01_090216_10169"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1031210",
-            "立法紀錄": "103卷89期4198號 439-473頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcccfc7c6cfcec4cfcbccc6c4cfcbc8cc",
+            "會議日期": "1051226",
+            "立法紀錄": "106卷12期4414號 141-208頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9ce81cecfc9cfcecdcfcec4cfcecbcec4cfcdcfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 236-246頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcbcfcfcdcfcec4cfcdccc9c4cfcdcbc9",
+            "會議日期": "1051230",
+            "立法紀錄": "106卷5期4407號一冊 157-164頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9ce81cecfc9cfcfcacfcec4cfcecac8c4cfcec9cb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecac8c6c5cacad2c9c9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090217:LCEWA01_090217_40006"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 246-247頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcbcfcfcdcfcec4cfcdcbc9c4cfcdcbc8",
+            "會議日期": "1051230",
+            "立法紀錄": "106卷5期4407號一冊 164-164頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9ce81cecfc9cfcfcacfcec4cfcec9cbc4cfcec9cb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 247-247頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cf81cecfcbcfcfcdcfcec4cfcdcbc8c4cfcdcbc8",
+            "會議日期": "1051230",
+            "立法紀錄": "106卷5期4407號一冊 164-165頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9ce81cecfc9cfcfcacfcec4cfcec9cbc4cfcec9ca",
             "關係文書": []
         }
     ]
