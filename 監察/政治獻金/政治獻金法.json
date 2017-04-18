@@ -1,8 +1,8 @@
 {
     "title": "政治獻金法",
     "versions": [
-        "中華民國103年12月23日修正",
-        "中華民國104年1月7日公布"
+        "中華民國106年3月31日修正",
+        "中華民國106年4月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -156,13 +156,13 @@
         {
             "note": "(擬參選人違法收受、募集政治獻金之處罰)",
             "rule_no": "第二十五條",
-            "content": "　　擬參選人違反第八條規定收受第七條第一項第七款至第九款規定對象之政治獻金，未依第十五條規定之期限繳交受理申報機關辦理繳庫，或違反第十三條規定募集政治獻金者，處五年以下有期徒刑；為擬參選人收受或募集政治獻金之代理人、受雇人亦同。\n　　政黨、政治團體之負責人、代表人或代理人、受雇人犯前項之罪者，依前項之規定處罰。\n　　犯前二項之罪，已依第七條第四項規定盡查詢義務者，不在此限。\n　　犯第一項、第二項之罪者，其收受之政治獻金，沒收之；如全部或一部不能沒收時，追徵其價額。",
+            "content": "　　擬參選人違反第八條規定收受第七條第一項第七款至第九款規定對象之政治獻金，未依第十五條規定之期限繳交受理申報機關辦理繳庫，或違反第十三條規定募集政治獻金者，處五年以下有期徒刑；為擬參選人收受或募集政治獻金之代理人、受雇人亦同。\n　　政黨、政治團體之負責人、代表人或代理人、受雇人犯前項之罪者，依前項之規定處罰。\n　　犯前二項之罪，已依第七條第四項規定盡查詢義務者，不在此限。",
             "relates": {}
         },
         {
             "note": "(擬參選人未經許可設專戶而收受政治獻金之處罰)",
             "rule_no": "第二十六條",
-            "content": "　　擬參選人違反第十條第一項規定未經許可設立專戶而收受政治獻金者，處三年以下有期徒刑，得併科新臺幣二十萬元以上一百萬元以下罰金；為擬參選人收受政治獻金之代理人、受雇人亦同。\n　　政黨、政治團體之負責人、代表人或代理人、受雇人犯前項之罪者，依前項之規定處罰。\n　　犯前二項之罪者，其收受之政治獻金，沒收之；如全部或一部不能沒收時，追徵其價額。",
+            "content": "　　擬參選人違反第十條第一項規定未經許可設立專戶而收受政治獻金者，處三年以下有期徒刑，得併科新臺幣二十萬元以上一百萬元以下罰金；為擬參選人收受政治獻金之代理人、受雇人亦同。\n　　政黨、政治團體之負責人、代表人或代理人、受雇人犯前項之罪者，依前項之規定處罰。",
             "relates": {}
         },
         {
@@ -227,93 +227,54 @@
         }
     ],
     "law_reasons": {
-        "第七條": "　　政府機關（構）之巨額採購或重大公共建設投資契約，事涉政府預算之編列與工程之招標等作業，且行政院公共工程委員會又屬組織再造後之裁撤機關，相關事務如兼由行政院公共工程委員會、財政部辦理，更為周全完備，爰修正原條文第四項第二款。",
-        "第十九條": "　　無法獲得政黨補助款之小黨，主要收入大多來自捐贈收入。對政黨捐贈給予減稅優惠之得票率門檻，自百分之二適度調降至百分之一，有助於小黨生存發展，可促進民主政治。"
+        "第二十五條": "　　一、一百零四年十二月三十日修正施行刑法施行法第十條之三第二項，刑法修正施行日前制定之其他法律關於沒收、追徵、追繳、抵償之規定，不再適用。該規定立法意旨在於此次刑法既已整體修正沒收規定，自應回歸刑法一體適用，一百零五年七月一日刑法沒收修正之施行日前所制定之其他法律關於沒收之規定，已無獨立存在之必要；惟經檢視仍應另為特別規定者，依刑法第十一條特別法優於普通法之原則，仍宜定明。\n　　二、依修正後刑法第三十八條之一第四項規定，犯罪所得包括違法行為所得、其變得之物或財產上利益及其孳息；則原條文第四項規定「其收受之政治獻金，沒收之」，不包括財產上利益，範圍過於狹隘。又刑法修正後，追徵為全部或一部不能沒收之執行方式，爰配合刪除第四項，回歸適用刑法相關規定。\n　　三、第一項至第三項未修正。",
+        "第二十六條": "　　一、一百零四年十二月三十日修正施行刑法施行法第十條之三第二項，刑法修正施行日前制定之其他法律關於沒收、追徵、追繳、抵償之規定，不再適用。該規定立法意旨在於此次刑法既已整體修正沒收規定，自應回歸刑法一體適用，一百零五年七月一日刑法沒收修正之施行日前所制定之其他法律關於沒收之規定，已無獨立存在之必要；惟經檢視仍應另為特別規定者，依刑法第十一條特別法優於普通法之原則，仍宜定明。\n　　二、依修正後刑法第三十八條之一第四項規定，犯罪所得包括違法行為所得、其變得之物或財產上利益及其孳息；則原條文第三項規定「其收受之政治獻金，沒收之」，不包括財產上利益，範圍過於狹隘。又刑法修正後，追徵為全部或一部不能沒收之執行方式，爰配合刪除第三項，回歸適用刑法相關規定。\n　　三、第一項及第二項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1021206",
-            "立法紀錄": "102卷77期4102號一冊 17-17頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcdcfc8c8cfcec4cfcfcec8c4cfcfcec8",
-            "主提案": "廖正井",
+            "會議日期": "1050923",
+            "立法紀錄": "105卷67期4364號 131-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcb81cecfcacfc9c8cfcec4cfcecccec4cfceccce",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecccfcbc5cbcacfd2cbcacc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1020531",
-            "立法紀錄": "102卷38期4063號一冊 72-72頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcdcfccc7cfcec4cfcfc8cdc4cfcfc8cd",
-            "主提案": "姚文智",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecacfcec5ccc7c7d2ccc6cf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090203:LCEWA01_090203_00036_0"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1031210",
-            "立法紀錄": "103卷88期4197號 241-319頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcccfc7c7cfcec4cfcdcbcec4cfcccec6",
+            "會議日期": "1051226",
+            "立法紀錄": "106卷12期4414號 4-76頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcb81cecfc9cfcecdcfcec4cfcfcfcbc4cfcfc8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1031223",
-            "立法紀錄": "103卷89期4198號 194-199頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcccfc7c6cfcec4cfcec6cbc4cfcec6c6",
+            "會議日期": "1060331",
+            "立法紀錄": "106卷29期4431號一冊 96-100頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcb81cecfc9cfcdc6cfcec4cfcfc6c9c4cfcecfcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecbc8c7c5ced2c9"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1031223",
-            "立法紀錄": "103卷89期4198號 200-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcccfc7c6cfcec4cfcdcfcfc4cfcdcfcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecbc8c7c5c8d2cecd"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090307:LCEWA01_090307_00634"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1031223",
-            "立法紀錄": "103卷89期4198號 199-200頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcccfc7c6cfcec4cfcec6c6c4cfcdcfcf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1031223",
-            "立法紀錄": "103卷89期4198號 204-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcccfc7c6cfcec4cfcdcfcbc4cfcdcfcb",
+            "會議日期": "1060331",
+            "立法紀錄": "106卷29期4431號一冊 100-100頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcb81cecfc9cfcdc6cfcec4cfcecfcfc4cfcecfcf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1031223",
-            "立法紀錄": "103卷89期4198號 200-200頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcccfc7c6cfcec4cfcdcfcfc4cfcdcfcf",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1031223",
-            "立法紀錄": "103卷89期4198號 204-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcd81cecfcccfc7c6cfcec4cfcdcfcbc4cfcdcfcb",
+            "會議日期": "1060331",
+            "立法紀錄": "106卷29期4431號一冊 100-101頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c7cfcb81cecfc9cfcdc6cfcec4cfcecfcfc4cfcecfce",
             "關係文書": []
         }
     ]
