@@ -1,11 +1,11 @@
 {
     "title": "公葬條例",
     "versions": [
-        "中華民國89年10月24日修正",
-        "中華民國89年11月8日公布"
+        "中華民國106年4月11日廢止",
+        "中華民國106年4月26日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -94,58 +94,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　配合臺灣省政府功能業務與組織調整，修正第一項將省政府決定公葬之權責，改由縣（市）政府決定。",
-        "第六條": "　　配合臺灣省政府功能業務與組織調整，將省政府設置公葬墓園權責，改由縣（市）政府辦理，並酌作文字修正。",
-        "第九條": "　　配合臺灣省政府功能業務與組織調整，將省政府之相關規定，修正為縣（市）政府，並酌作文字修正。",
-        "第十條": "　　配合臺灣省政府功能業務與組織調整，將省政府於公葬舉行日派員主祭，改由縣（市）政府派員。",
-        "第十二條": "　　配合臺灣省政府功能業務與組織調整，修正第一項，將公葬墓園公祭，由省政府派員主祭，改由縣（市）政府。"
-    },
+    "deprecated_reason": "　　國民政府前為紀念對國家社會著有功勳者，於身故後舉行公葬，以激勵社會大眾見賢思齊，並彰顯亡者榮耀，於三十六年十二月五日制定公布「公葬條例」。惟自政府遷臺以來，未曾依本條例辦理公葬，且公葬功能可由褒揚及入祀忠烈祠等其他國家榮典制度取代，另倘以各直轄市、縣（市）設置公葬墓園，仍有土葬墓地取得困難，土葬亦與當前節葬政策不符等問題，考量本條例涉有各直轄市、縣（市）政府之權責，經內政部於一百零五年二月二十三日函請各該地方政府就本條例之存廢表示意見，並無要求保留者，爰依中央法規標準法第二十一條第二款後段規定，法規因情勢變遷，無繼續施行之必要者，廢止之。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "890328",
-            "立法紀錄": "89卷13期3072號 20-20頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cfc9c681c7c6cecccfcfc4cfcfcdcfc4cfcfcdcf",
+            "會議日期": "1050913",
+            "立法紀錄": "105卷66期4363號一冊 7-7頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cfc8cf81cecfcacfc9c9cfcec4cfcfcfc8c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcdcecccfcfc5cbcacbd2cbcac7"
+                    "http://lis.ly.gov.tw/lylgqrc/mtcdoc?DN090201:LCEWA01_090201_00050"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "890612",
-            "立法紀錄": "89卷39期3098號下冊 173-202頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cfc9c681c7c6ccc6cfccc4cfcec8ccc4cfcdcfcd",
+            "會議日期": "1051226",
+            "立法紀錄": "106卷12期4414號 4-76頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cfc8cf81cecfc9cfcecdcfcec4cfcfcfcbc4cfcfc8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "891024",
-            "立法紀錄": "89卷57期3116號上冊 72-77頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cfc9c681c7c6cac8cfcec4cfcfc8cdc4cfcfc8c8",
+            "會議日期": "1060411",
+            "立法紀錄": "106卷33期4435號二冊 818-820頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cfc8cf81cecfc9cfcccccfcdc4cfc7cec7c4cfc7cdcf",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcccdc8cfcfc5cbcecad2cbcdcf"
+                    "http://lis.ly.gov.tw/lylgqrc/mtcdoc?DN090308:LCEWA01_090308_40014"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "891024",
-            "立法紀錄": "89卷57期3116號上冊 77-77頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cfc9c681c7c6cac8cfcec4cfcfc8c8c4cfcfc8c8",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "891024",
-            "立法紀錄": "89卷57期3116號上冊 77-77頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccacecec7cfc9c681c7c6cac8cfcec4cfcfc8c8c4cfcfc8c8",
+            "會議日期": "1060411",
+            "立法紀錄": "106卷33期4435號二冊 820-820頁",
+            "立法紀錄連結": "http://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecacccacecec7cfc8cf81cecfc9cfcccccfcdc4cfc7cdcfc4cfc7cdcf",
             "關係文書": []
         }
     ]
