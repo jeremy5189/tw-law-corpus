@@ -1,8 +1,8 @@
 {
     "title": "經濟部組織法",
     "versions": [
-        "中華民國93年1月9日修正",
-        "中華民國93年1月20日公布"
+        "中華民國106年5月26日修正",
+        "中華民國106年6月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -43,7 +43,17 @@
             "note": "",
             "rule_no": "第六條",
             "content": "　　經濟部設工業局，掌理工業政策、法規之擬訂及規劃、管理、統籌、協調與發展等事務；其組織以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01903",
+                        "law_name": "經濟部工業局組織條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -55,31 +65,81 @@
             "note": "",
             "rule_no": "第八條",
             "content": "　　經濟部設智慧財產局；其組織以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01977",
+                        "law_name": "經濟部智慧財產局組織條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第九條",
             "content": "　　經濟部設標準檢驗局；其組織以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01978",
+                        "law_name": "經濟部標準檢驗局組織條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十條",
             "content": "　　經濟部設能源局；其組織以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "08106",
+                        "law_name": "經濟部能源局組織條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十一條",
             "content": "　　經濟部設礦務局、商業局及水利署；其組織以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01996",
+                        "law_name": "經濟部水利署組織條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第十二條",
             "content": "　　經濟部設中小企業處，其組織以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01914",
+                        "law_name": "經濟部中小企業處組織條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -91,7 +151,17 @@
             "note": "",
             "rule_no": "第十三條",
             "content": "　　經濟部設加工出口區管理處，其組織以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01905",
+                        "law_name": "經濟部加工出口區管理處組織條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -162,44 +232,126 @@
         {
             "note": "",
             "rule_no": "第二十四條",
-            "content": "　　經濟部置政務次長一人，職務比照簡任第十四職等；常務次長二人，職務列簡任第十四職等，輔助部長處理部務。",
-            "relates": {}
+            "content": "　　經濟部置政務次長二人，職務比照簡任第十四職等；常務次長一人，職務列簡任第十四職等，輔助部長處理部務。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01019",
+                        "law_name": "經濟部組織法",
+                        "numbers": [
+                            "第二十八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第二十五條",
             "content": "　　經濟部置主任秘書一人，參事九人至十二人，技監三人至六人，司長一人，處長二人，職務均列簡任第十二職等；副司長一人，副處長二人，職務均列簡任第十一職等；專門委員二十六人至三十二人，職務列簡任第十職等至第十一職等；秘書十二人至二十人，視察五人至九人，技正一人至十五人，稽核二人至四人，職務均列薦任第八職等至第九職等，其中秘書十人，視察四人，技正七人，職務得列簡任第十職等至第十一職等；科長三十六人至四十八人，職務列薦任第九職等；專員七十人至八十六人，職務列薦任第七職等至第九職等；技士三人至十五人，科員七十四人至一百十人，職務均列委任第五職等或薦任第六職等至第七職等；辦事員十四人至二十四人，職務列委任第三職等至第五職等；書記八人至二十六人，職務列委任第一職等至第三職等。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01019",
+                        "law_name": "經濟部組織法",
+                        "numbers": [
+                            "第二十八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第二十六條",
             "content": "　　經濟部設人事處，置處長一人，職務列簡任第十二職等；副處長一人，職務列簡任第十一職等；依法辦理人事管理事項；所需工作人員，應就本法所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01019",
+                        "law_name": "經濟部組織法",
+                        "numbers": [
+                            "第二十八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第二十七條",
             "content": "　　經濟部設會計處，置會計長一人，職務列簡任第十二職等；副會計長一人，職務列簡任第十一職等，依法辦理歲計、會計事項；所需工作人員，應就本法所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01019",
+                        "law_name": "經濟部組織法",
+                        "numbers": [
+                            "第二十八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第二十七條 之一",
             "content": "　　經濟部設統計處，置統計長一人，職務列簡任第十二職等；副統計長一人，職務列簡任第十一職等，依法辦理統計事項；所需工作人員，應就本法所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01019",
+                        "law_name": "經濟部組織法",
+                        "numbers": [
+                            "第二十八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第二十七條 之二",
             "content": "　　經濟部設政風處，置處長一人，職務列簡任第十二職等；依法辦理政風事項；所需工作人員，應就本法所定員額內派充之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01019",
+                        "law_name": "經濟部組織法",
+                        "numbers": [
+                            "第二十八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第二十八條",
             "content": "　　第二十四條至第二十七條之二所定列有官等職等人員，其職務所適用之職系，依公務人員任用法第八條之規定，就有關職系選用之。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01019",
+                        "law_name": "經濟部組織法",
+                        "numbers": [
+                            "第二十四條",
+                            "第二十五條",
+                            "第二十六條",
+                            "第二十七條",
+                            "第二十七條之一",
+                            "第二十七條之二"
+                        ]
+                    },
+                    {
+                        "law_no": "04617",
+                        "law_name": "公務人員任用法",
+                        "numbers": [
+                            "第八條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -251,53 +403,53 @@
         }
     ],
     "law_reasons": {
-        "第十條": "　　為落實經濟發展諮詢委員會議共同意見，並配合能源事業自由化，積極推動石油、瓦斯及電力等能源政策、法規之研訂與執行及能源事業之管理，參考國內外能源主管機關之組織與定位，考量未來國內能源主管機關扮演之角色及業務量劇增需要，爰成立「經濟部能源局」。"
+        "第二十四條": "　　依中央行政機關組織基準法第十九條第二項規定，爰修正副首長人數，明定政務次長二人，職務比照簡任第十四職等；常務次長一人，職務列簡任第十四職等。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "910409",
-            "立法紀錄": "91卷24期3220號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cecdcbcfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "1051014",
+            "立法紀錄": "105卷73期4370號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccac6cc81cecfcacfc8cccfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "段宜康",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcecfc9cfcec5cdccc7d2cdcbce"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090206:LCEWA01_090206_00043"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "910529",
-            "立法紀錄": "91卷51期3247號上冊 3-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cecacecfcec4cfcfcfccc4cfcfcec9",
+            "會議日期": "1060517",
+            "立法紀錄": "106卷61期4463號 33-61頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccac6cc81cecfc9cfc9cecfcec4cfcfccccc4cfcfc9ce",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "921229",
-            "立法紀錄": "93卷5期3339號 199-202頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cccfcacfcfc4cfcec6c6c4cfcdcfcd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "930109",
-            "立法紀錄": "93卷6期3340號一冊 179-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cccfc9cfcec4cfcec8c6c4cfcec7c6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1060526",
+            "立法紀錄": "106卷60期4462號二冊 887-891頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccac6cc81cecfc9cfc9cfcfcdc4cfc7c7c8c4cfc7c6ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcacfcbcec8cfcec5cbccc6d2cbcacd"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090315:LCEWA01_090315_40045"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1060526",
+            "立法紀錄": "106卷60期4462號二冊 891-891頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccac6cc81cecfc9cfc9cfcfcdc4cfc7c6cec4cfc7c6ce",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "930109",
-            "立法紀錄": "93卷6期3340號一冊 189-189頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccac6ce81c6cccfc9cfcec4cfcec7c6c4cfcec7c6",
+            "會議日期": "1060526",
+            "立法紀錄": "106卷60期4462號二冊 891-891頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccac6cc81cecfc9cfc9cfcfcdc4cfc7c6cec4cfc7c6ce",
             "關係文書": []
         }
     ]
