@@ -1,8 +1,8 @@
 {
     "title": "貨物稅條例",
     "versions": [
-        "中華民國105年12月30日修正",
-        "中華民國106年1月18日公布"
+        "中華民國106年5月26日修正",
+        "中華民國106年6月14日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -242,7 +242,7 @@
         {
             "note": "",
             "rule_no": "第三十一條",
-            "content": "　　納稅義務人逾期繳納稅款或滯報金、怠報金者，應自繳納期限屆滿之次日起，每逾二日按滯納金額加徵百分之一之滯納金；逾三十日仍未繳納者，移送法院強制執行。\n　　前項應納之稅款或滯報金、怠報金，應自滯納期限屆滿之次日起，至納稅義務人自動繳納或法院強制執行徵收繳納之日止，就其應納稅款、滯報金、怠報金及滯納金之金額，自滯納期限屆滿之次日起，依郵政儲金匯業局之一年期定期存款利率，按日計算利息，一併徵收。",
+            "content": "　　納稅義務人逾期繳納稅款者，應自繳納期限屆滿之次日起，每逾二日按滯納金額加徵百分之一滯納金；逾三十日仍未繳納者，移送強制執行。但因不可抗力或不可歸責於納稅義務人之事由，致不能於法定期間內繳清稅捐，得於其原因消滅後十日內，提出具體證明，向稽徵機關申請延期或分期繳納經核准者，免予加徵滯納金。\n　　前項應納稅款，應自滯納期限屆滿之次日起，至納稅義務人自動繳納或強制執行徵收繳納之日止，依郵政儲金一年期定期儲金固定利率，按日計算利息，一併徵收。",
             "relates": {}
         },
         {
@@ -287,157 +287,149 @@
         }
     ],
     "law_reasons": {
-        "第十二條 之三": "　　一、第一項及第三項未修正。\n　　二、為實現政府綠能科技創新產業願景，鼓勵消費者購買綠能電動車輛，參酌國際發展趨勢，修正第二項，明定購買完全以電能為動力之電動車輛並完成登記者，免徵貨物稅期限延長至一百十年十二月三十一日。另現行所定本條文生效日，為資明確，爰定明為一百零六年一月二十八日。"
+        "第三十一條": "　　一、依司法院釋字第三五六號及第六一六號解釋意旨，滯報金及怠報金係對納稅義務人違反作為義務之制裁，乃罰鍰之一種，具行為罰性質，考量現行各稅法對於「罰鍰」並無加徵滯納金及利息之規定，對滯報金及怠報金再加徵滯納金及利息，欠缺合理性，有違比例原則，爰刪除第一項及第二項滯報金及怠報金加徵滯納金及利息之規定，並酌作文字修正。又為配合公法上金錢給付義務逾期不履行者，係移送法務部行政執行署所屬行政執行分署執行，爰將第一項「移送法院強制執行」修正為「移送強制執行」。第一項末句增列「但因不可抗力或不可歸責於納稅義務人之事由，致不能於法定期間內繳清稅捐，得於其原因消滅後十日內，提出具體證明，向稽徵機關申請延期或分期繳納經核准者，免予加徵滯納金。」。\n　　二、依司法院釋字第七四六號解釋意旨，滯納金兼具遲延利息之性質，如再加徵利息，不符憲法比例原則，與憲法保障人民財產權之意旨有違，爰配合刪除第二項滯納金加徵利息規定，並酌作文字修正。另配合郵政儲金匯業局九十二年一月一日改制為中華郵政股份有限公司，爰將「郵政儲金匯業局之一年期定期存款利率」，修正為「郵政儲金一年期定期儲金固定利率」。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1051108",
-            "立法紀錄": "105卷80期4377號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfcacfc7cfcfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "許毓仁",
+            "會議日期": "1060317",
+            "立法紀錄": "106卷23期4425號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdcccfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "江永昌",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090209:LCEWA01_090209_00008"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090305:LCEWA01_090305_00013"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1051111",
-            "立法紀錄": "105卷82期4379號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfcacfc7cdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "羅明才",
+            "會議日期": "1060317",
+            "立法紀錄": "106卷23期4425號 5-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdcccfcec4cfcfcfcac4cfcfcfc9",
+            "主提案": "親民黨黨團",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090210:LCEWA01_090210_00012"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090305:LCEWA01_090305_00042"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1051118",
-            "立法紀錄": "105卷87期4384號 26-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfcacfc7c8cfcec4cfcfcdc9c4cfcfcdc8",
-            "主提案": "管碧玲",
+            "會議日期": "1060317",
+            "立法紀錄": "106卷23期4425號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdcccfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "吳秉叡",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090211:LCEWA01_090211_00007"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090305:LCEWA01_090305_00053"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1051118",
-            "立法紀錄": "105卷87期4384號 27-27頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfcacfc7c8cfcec4cfcfcdc8c4cfcfcdc8",
-            "主提案": "費鴻泰",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090211:LCEWA01_090211_00009"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1051118",
-            "立法紀錄": "105卷87期4384號 31-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfcacfc7c8cfcec4cfcfcccec4cfcfccce",
+            "會議日期": "1060324",
+            "立法紀錄": "106卷27期4429號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdc8cfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "盧秀燕",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090211:LCEWA01_090211_00049"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090306:LCEWA01_090306_00042"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1051118",
-            "立法紀錄": "105卷87期4384號 31-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfcacfc7c8cfcec4cfcfcccec4cfcfccce",
-            "主提案": "邱議瑩",
+            "會議日期": "1060331",
+            "立法紀錄": "106卷29期4431號一冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdc6cfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "蔣乃辛",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090211:LCEWA01_090211_00050"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090307:LCEWA01_090307_00055"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1051118",
-            "立法紀錄": "105卷87期4384號 42-42頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfcacfc7c8cfcec4cfcfcbcdc4cfcfcbcd",
-            "主提案": "余宛如",
+            "會議日期": "1060414",
+            "立法紀錄": "106卷37期4439號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfccc8cfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "賴士葆",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090211:LCEWA01_090211_10175"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090309:LCEWA01_090309_00065"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1051202",
-            "立法紀錄": "105卷96期4393號一冊 31-31頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfcacfc6c9cfcec4cfcfcccec4cfcfccce",
-            "主提案": "趙天麟",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090213:LCEWA01_090213_00040"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1051223",
-            "立法紀錄": "106卷4期4406號一冊 22-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfc9cfcfcbcfcec4cfcfcdcdc4cfcfcdcd",
+            "會議日期": "1060414",
+            "立法紀錄": "106卷37期4439號 10-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfccc8cfcec4cfcfcecfc4cfcfcecf",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090216:LCEWA01_090216_10168"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090309:LCEWA01_090309_00076"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1060421",
+            "立法紀錄": "106卷42期4444號一冊 18-18頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcbcdcfcec4cfcfcec7c4cfcfcec7",
+            "主提案": "劉世芳",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090310:LCEWA01_090310_00020"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1051226",
-            "立法紀錄": "106卷12期4414號 141-208頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfc9cfcecdcfcec4cfcecbcec4cfcdcfc7",
+            "會議日期": "1060510",
+            "立法紀錄": "106卷57期4459號 91-150頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcac8cfcec4cfcfc6cec4cfcecacf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1051230",
-            "立法紀錄": "106卷5期4407號一冊 165-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfc9cfcfcacfcec4cfcec9cac4cfcec6ce",
+            "會議日期": "1060526",
+            "立法紀錄": "106卷60期4462號二冊 660-677頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfc9cfcfcdc4cfc9c9cfc4cfc9c8c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090217:LCEWA01_090217_40007"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090315:LCEWA01_090315_40034"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1051230",
-            "立法紀錄": "106卷5期4407號一冊 191-191頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfc9cfcfcacfcec4cfcec6cec4cfcec6ce",
-            "關係文書": []
+            "會議日期": "1060526",
+            "立法紀錄": "106卷60期4462號二冊 677-677頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfc9cfcfcdc4cfc9c8c8c4cfc9c8c8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090315:LCEWA01_090315_40034_1"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1051230",
-            "立法紀錄": "106卷5期4407號一冊 191-193頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cac6c681cecfc9cfcfcacfcec4cfcec6cec4cfcec6cc",
+            "會議日期": "1060526",
+            "立法紀錄": "106卷60期4462號二冊 677-677頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfc9cfcfcdc4cfc9c8c8c4cfc9c8c8",
             "關係文書": []
         }
     ]
