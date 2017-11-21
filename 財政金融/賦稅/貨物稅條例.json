@@ -1,8 +1,8 @@
 {
     "title": "貨物稅條例",
     "versions": [
-        "中華民國106年5月26日修正",
-        "中華民國106年6月14日公布"
+        "中華民國106年11月7日修正",
+        "中華民國106年11月22日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -73,6 +73,12 @@
         },
         {
             "note": "",
+            "rule_no": "第九條 之一",
+            "content": "　　於本條文生效日起五年內，由國外進口或國內產製專供太陽光電模組用之玻璃，檢具承諾不轉售或移作他用之聲明書及工業主管機關之用途證明文件者，免徵貨物稅。\n　　前項免徵年限屆期前半年，行政院得視實際推展情況決定是否延長免徵年限。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "rule_no": "第十條",
             "content": "　　油氣類之課稅項目及應徵稅額如左：\n　　一、汽油：每公秉徵收新臺幣六千八百三十元。\n　　二、柴油：每公秉徵收新臺幣三千九百九十元。\n　　三、煤油：每公秉徵收新臺幣四千二百五十元。\n　　四、航空燃油：每公秉徵收新臺幣六百十元。\n　　五、燃料油：每公秉徵收新臺幣一百十元。\n　　六、（刪除）。\n　　七、溶劑油：每公秉徵收新臺幣七百二十元。\n　　八、液化石油氣：每公噸徵收新臺幣六百九十元。\n　　前項各款油類摻合變造供不同用途之油品，一律按其所含主要油類之應徵稅額課徵。\n　　行政院得視實際情況，在第一項各款規定之應徵稅額百分之五十以內予以增減。",
             "relates": {}
@@ -117,6 +123,12 @@
             "note": "",
             "rule_no": "第十二條 之五",
             "content": "　　於本條文生效日起五年內報廢或出口登記滿一年之出廠六年以上小客車、小貨車、小客貨兩用車，於報廢或出口前、後六個月內購買上開車輛新車且完成新領牌照登記者，該等新車應徵之貨物稅每輛定額減徵新臺幣五萬元。\n　　於本條文生效日起五年內報廢或出口登記滿一年之出廠四年以上汽缸排氣量一百五十立方公分以下機車，於報廢或出口前、後六個月內購買新機車且完成新領牌照登記者，該新機車應徵之貨物稅每輛定額減徵新臺幣四千元。\n　　自中華民國一百零五年一月八日起配偶或二親等以內親屬購買新小客車、小貨車、小客貨兩用車或機車且完成新領牌照登記者，適用前二項規定。\n　　本條減徵貨物稅案件之申請期限、申請程序、應檢附證明文件及其他相關事項，由財政部會同經濟部定之。",
+            "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第十二條 之六",
+            "content": "　　自本條文生效日起至中華民國一百零八年十二月三十一日止，報廢八十八年六月三十日以前出廠之大貨車並購買新大貨車且完成新領牌照登記者，該等新車應徵之貨物稅每輛定額減徵新臺幣五萬元。\n　　前項減徵貨物稅案件之申請期限、申請程序、應檢附證明文件及其他相關事項，由財政部會同行政院環境保護署定之。",
             "relates": {}
         },
         {
@@ -287,149 +299,54 @@
         }
     ],
     "law_reasons": {
-        "第三十一條": "　　一、依司法院釋字第三五六號及第六一六號解釋意旨，滯報金及怠報金係對納稅義務人違反作為義務之制裁，乃罰鍰之一種，具行為罰性質，考量現行各稅法對於「罰鍰」並無加徵滯納金及利息之規定，對滯報金及怠報金再加徵滯納金及利息，欠缺合理性，有違比例原則，爰刪除第一項及第二項滯報金及怠報金加徵滯納金及利息之規定，並酌作文字修正。又為配合公法上金錢給付義務逾期不履行者，係移送法務部行政執行署所屬行政執行分署執行，爰將第一項「移送法院強制執行」修正為「移送強制執行」。第一項末句增列「但因不可抗力或不可歸責於納稅義務人之事由，致不能於法定期間內繳清稅捐，得於其原因消滅後十日內，提出具體證明，向稽徵機關申請延期或分期繳納經核准者，免予加徵滯納金。」。\n　　二、依司法院釋字第七四六號解釋意旨，滯納金兼具遲延利息之性質，如再加徵利息，不符憲法比例原則，與憲法保障人民財產權之意旨有違，爰配合刪除第二項滯納金加徵利息規定，並酌作文字修正。另配合郵政儲金匯業局九十二年一月一日改制為中華郵政股份有限公司，爰將「郵政儲金匯業局之一年期定期存款利率」，修正為「郵政儲金一年期定期儲金固定利率」。"
+        "第九條 之一": "　　一、本條新增。\n　　二、為強化國內太陽光電產業供應鏈，發展太陽光電能源，以達節能減碳目標，爰訂定第一項。\n　　三、第二項授權行政院得視實際太陽光電產業推展情況，於前項五年期限內，延長租稅免徵年限。",
+        "第十二條 之六": "　　一、本條新增。\n　　二、第一項配合行政院「空氣污染防制策略」期程，定明自本條文生效日起至一百零八年十二月三十一日止，報廢八十八年六月三十日以前出廠之大貨車，並購買新大貨車且完成新領牌照登記該新車應徵之貨物稅每輛減徵新臺幣五萬元，以鼓勵消費者汰舊換新，減少空氣污染，改善空氣品質。\n　　三、第二項授權訂定申請新車減徵貨物稅案件之期限、程序、應檢附證明文件及其他相關事項，以利徵納雙方依循。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1060317",
-            "立法紀錄": "106卷23期4425號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdcccfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "江永昌",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090305:LCEWA01_090305_00013"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1060317",
-            "立法紀錄": "106卷23期4425號 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdcccfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090305:LCEWA01_090305_00042"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1060317",
-            "立法紀錄": "106卷23期4425號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdcccfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "吳秉叡",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090305:LCEWA01_090305_00053"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1060324",
-            "立法紀錄": "106卷27期4429號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdc8cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "盧秀燕",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090306:LCEWA01_090306_00042"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1060331",
-            "立法紀錄": "106卷29期4431號一冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcdc6cfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "蔣乃辛",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090307:LCEWA01_090307_00055"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1060414",
-            "立法紀錄": "106卷37期4439號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfccc8cfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "賴士葆",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090309:LCEWA01_090309_00065"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1060414",
-            "立法紀錄": "106卷37期4439號 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfccc8cfcec4cfcfcecfc4cfcfcecf",
+            "會議日期": "1060922",
+            "立法紀錄": "106卷74期4476號一冊 25-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcd81cecfc9cfc8cbcfcec4cfcfcdcac4cfcfcdca",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090309:LCEWA01_090309_00076"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1060421",
-            "立法紀錄": "106卷42期4444號一冊 18-18頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcbcdcfcec4cfcfcec7c4cfcfcec7",
-            "主提案": "劉世芳",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090310:LCEWA01_090310_00020"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090401:LCEWA01_090401_00190"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1060510",
-            "立法紀錄": "106卷57期4459號 91-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfcac8cfcec4cfcfc6cec4cfcecacf",
+            "會議日期": "1061011",
+            "立法紀錄": "106卷81期4483號 106-106,112-184頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcd81cecfc9cfc7cecfcec4cfcecfc9c4cfcecfc9d9cecfc9cfc7cecfcec4cfcececdc4cfcec7cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號二冊 660-677頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfc9cfcfcdc4cfc9c9cfc4cfc9c8c8",
+            "會議日期": "1061107",
+            "立法紀錄": "106卷90期4492號 90-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcd81cecfc9cfc6cfcfcec4cfcfc6cfc4cfcfc6cc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090315:LCEWA01_090315_40034"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090406:LCEWA01_090406_00234"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號二冊 677-677頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfc9cfcfcdc4cfc9c8c8c4cfc9c8c8",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090315:LCEWA01_090315_40034_1"
-                ]
-            ]
+            "會議日期": "1061107",
+            "立法紀錄": "106卷90期4492號 93-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcd81cecfc9cfc6cfcfcec4cfcfc6ccc4cfcfc6cc",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號二冊 677-677頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcf81cecfc9cfc9cfcfcdc4cfc9c8c8c4cfc9c8c8",
+            "會議日期": "1061107",
+            "立法紀錄": "106卷90期4492號 93-93頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9c9cfcd81cecfc9cfc6cfcfcec4cfcfc6ccc4cfcfc6cc",
             "關係文書": []
         }
     ]
