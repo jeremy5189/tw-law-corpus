@@ -1,11 +1,11 @@
 {
     "title": "交通部花蓮港務局組織條例",
     "versions": [
-        "中華民國90年12月28日制定",
-        "中華民國91年1月30日公布"
+        "中華民國106年11月7日廢止",
+        "中華民國106年11月22日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -106,81 +106,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　本條例制定之法源依據。",
-        "第二條": "　　明定本局業務職掌。",
-        "第三條": "　　本局依掌理業務性質，分設四組，並得分科辦事。",
-        "第四條": "　　本局秘書室之掌理事項。",
-        "第五條": "　　明定本局局長、副局長之設置及權責。",
-        "第六條": "　　明定本局港務長之設置及權責。",
-        "第七條": "　　明定本局總工程司之設置及權責。",
-        "第八條": "　　明定本局人員之職稱及員額。",
-        "第九條": "　　明定本局人事室之設置及職掌。",
-        "第十條": "　　明定本局會計室之設置及職掌。",
-        "第十一條": "　　本局政風室所置人員職稱、資位或官職等及職掌。",
-        "第十二條": "　　本局人員各職稱適用規定。",
-        "第十三條": "　　本局人員任用之規定。",
-        "第十四條": "　　本局各附屬機構之設置。",
-        "第十五條": "　　本局辦事細則之擬訂及核定程序。",
-        "第十六條": "　　本條例施行日期。"
-    },
+    "deprecated_reason": "　　針對100年10月25日商港法第二條修正暨同年12月6日制訂「國營港務股份有限公司設置條例」後，101年3月1日交通部將四港務局體制改為臺灣港務股份有限公司及航港局，交通部原轄屬機關花蓮港務局已不存在。爰予廢止「交通部花蓮港務局組織條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "900327",
-            "立法紀錄": "90卷14期3148號上冊 11-11頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfcc81c6cfcecbcfcec4cfcfcecec4cfcfcece",
-            "主提案": "行政院",
+            "會議日期": "1051202",
+            "立法紀錄": "105卷96期4393號一冊 30-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cfca81cecfcacfc6c9cfcec4cfcfcccfc4cfcfcccf",
+            "主提案": "劉櫂豪",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcccfccc5cacbc6d2c9c8ce"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090213:LCEWA01_090213_00028"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "901022",
-            "立法紀錄": "90卷55期3189號 139-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfcc81c6cfcacacfcfc4cfceccc6c4cfcec8cc",
+            "會議日期": "1060518",
+            "立法紀錄": "106卷62期4464號 141-170頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cfca81cecfc9cfc9cdcfcec4cfcecbcec4cfcec8cf",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "901029",
-            "立法紀錄": "90卷57期3191號 147-185頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfcc81c6cfcac8cfcfc4cfcecbc8c4cfcec7ca",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "901031",
-            "立法紀錄": "91卷2期3198號 166-174頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfcc81c6cecfcdcfcfc4cfcec9c9c4cfcec8cb",
-            "關係文書": [
-                [
-                    "",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cececfccc5cacdc9d2cacbce"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "901225",
-            "立法紀錄": "91卷2期3198號 42-208頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfcc81c6cecfcdcfcfc4cfcfcbcdc4cfcdcfc7",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1061107",
+            "立法紀錄": "106卷90期4492號 221-224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cfca81cecfc9cfc6cfcfcec4cfcdcdcec4cfcdcdcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cfc7cfccc5c6d2cecccc"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090406:LCEWA01_090406_00248"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "901228",
-            "立法紀錄": "91卷2期3198號 208-208頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfcc81c6cecfcdcfcfc4cfcdcfc7c4cfcdcfc7",
+            "會議日期": "1061107",
+            "立法紀錄": "106卷90期4492號 224-224頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cfca81cecfc9cfc6cfcfcec4cfcdcdcbc4cfcdcdcb",
             "關係文書": []
         }
     ]
