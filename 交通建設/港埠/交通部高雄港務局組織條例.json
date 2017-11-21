@@ -1,11 +1,11 @@
 {
     "title": "交通部高雄港務局組織條例",
     "versions": [
-        "中華民國92年6月5日修正",
-        "中華民國92年6月25日公布"
+        "中華民國106年11月7日廢止",
+        "中華民國106年11月22日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -112,47 +112,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第九條": "　　為符實際高雄港務局運作，反映人力需求，基於總員額配置不變原則，書記員額擬以酌減，由三十六人減至三十人；護士員額增加六人，由三人增至九人。"
-    },
+    "deprecated_reason": "　　針對100年10月25日商港法第二條修正暨同年12月6日制訂「國營港務股份有限公司設置條例」後，101年3月1日交通部將四港務局體制改為臺灣港務股份有限公司及航港局，交通部原轄屬機關高雄港務局已不存在。爰予廢止「交通部高雄港務局組織條例」。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "911025",
-            "立法紀錄": "91卷63期3259號上冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfc781c6cec9cccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "行政院",
+            "會議日期": "1051202",
+            "立法紀錄": "105卷96期4393號一冊 30-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cfc681cecfcacfc6c9cfcec4cfcfcccfc4cfcfcccf",
+            "主提案": "劉櫂豪",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfcacfcccfccc5cacbc6d2c9c8ce"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090213:LCEWA01_090213_00027"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "920106",
-            "立法紀錄": "92卷9期3283號下冊 197-218頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfc781c6cdcfc6cfccc4cfcec6c8c4cfcdcec7",
+            "會議日期": "1060518",
+            "立法紀錄": "106卷62期4464號 141-170頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cfc681cecfc9cfc9cdcfcec4cfcecbcec4cfcec8cf",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "920605",
-            "立法紀錄": "92卷34期3308號一冊 235-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfc781c6cdcccbcfcec4cfcdcccac4cfcdcbcb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1061107",
+            "立法紀錄": "106卷90期4492號 218-221頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cfc681cecfc9cfc6cfcfcec4cfcdcec7c4cfcdcdce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcbcfc9cfc7cfccc5c6d2cecccc"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090406:LCEWA01_090406_00247"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "920605",
-            "立法紀錄": "92卷34期3308號一冊 244-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfccc6cfc781c6cdcccbcfcec4cfcdcbcbc4cfcdcbcb",
+            "會議日期": "1061107",
+            "立法紀錄": "106卷90期4492號 221-221頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfccc6cfc681cecfc9cfc6cfcfcec4cfcdcdcec4cfcdcdce",
             "關係文書": []
         }
     ]
