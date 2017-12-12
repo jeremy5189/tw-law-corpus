@@ -1,11 +1,11 @@
 {
     "title": "蒙藏委員會組織法",
     "versions": [
-        "中華民國69年12月26日修正",
-        "中華民國70年1月12日公布"
+        "中華民國106年11月28日廢止",
+        "中華民國106年12月13日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -178,54 +178,98 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　本條依據行政院組織法第三條之規定修正。"
-    },
+    "deprecated_reason": "　　依98年4月9日行政院第3139次院會通過函送立法院完成三讀，並經99年2月3日總統公布之行政院組織法修正條文規定，新的行政院組織架構自101年1月1日起配合立法院立法進程及籌備情形陸續施行，部會數目由37個逐步精簡成29個，其中已無規劃設置蒙藏委員會。\n　　又行政院配合組改進程，考量蒙藏委員會已完成階段性任務，爰依「行政院功能業務及組織調整暫行條例」相關規定及參酌原行政院新聞局等機關裁撤前例，將該會職掌事項併入相關機關，不再設置。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "691017",
-            "立法紀錄": "69卷84期1360號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c9c6c9c9c7cbcfcfc4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "1050226",
+            "立法紀錄": "105卷2期4299號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfcacfcfcdcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "蔡易餘",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcdcfcfc5c9c6cdd2c9c6cb"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090102:LCEWA01_090102_00039"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1050527",
+            "立法紀錄": "105卷40期4337號 38-43頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfcacfcbcfcfcec4cfcfccc7c4cfcfcbcc",
+            "主提案": "時代力量黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090114:LCEWA01_090114_00033"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1050617",
+            "立法紀錄": "105卷48期4345號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfcacfcbc7cfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "KolasYotaka",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090114:LCEWA01_090114_00007"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1060317",
+            "立法紀錄": "106卷23期4425號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfc9cfcdcccfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "賴瑞隆",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090305:LCEWA01_090305_00057"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "691211",
-            "立法紀錄": "70卷37期1418號 63-64頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c8cfc9c8ccc8cfcfc4cfcfc9ccc4cfcfc9cb",
+            "會議日期": "1061011",
+            "立法紀錄": "106卷81期4483號 61-102頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfc9cfc7cecfcec4cfcfc9cec4cfcecfcd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 58-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c9c6c9c9cecfcbcfcfc4cfcfcac7c4cfcfcac6",
+            "會議日期": "1061114",
+            "立法紀錄": "106卷97期4499號一冊 478-482頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfc9cfc6c8cfcec4cfcbc8c7c4cfcbc7cd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5ceccccd2ceccca"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090408:LCEWA01_090408_00379"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 59-59頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c9c6c9c9cecfcbcfcfc4cfcfcac6c4cfcfcac6",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1061128",
+            "立法紀錄": "106卷108期4510號 79-81頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfc9cecfc7cfcec4cfcfc8c6c4cfcfc7ce",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1061122",
+            "立法紀錄": "106卷108期4510號 517-542頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfc9cecfc7cfcec4cfcacec8c4cfcacbcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "691226",
-            "立法紀錄": "69卷104期1380號 60-60頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbccc881c9c6c9c9cecfcbcfcfc4cfcfc9cfc4cfcfc9cf",
+            "會議日期": "1061128",
+            "立法紀錄": "106卷108期4510號 81-82頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbcbccc681cecfc9cecfc7cfcec4cfcfc7cec4cfcfc7cd",
             "關係文書": []
         }
     ]
