@@ -1,8 +1,8 @@
 {
     "title": "勞動基準法",
     "versions": [
-        "中華民國105年12月6日修正",
-        "中華民國105年12月21日公布"
+        "中華民國106年12月8日修正",
+        "中華民國106年12月27日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -424,7 +424,7 @@
         {
             "note": "",
             "rule_no": "第六十一條",
-            "content": "　　第五十九條之受領補償權，自得受領之日起，因二年間不行使而消滅。\n　　受領補償之權利，不因勞工之離職而受影響，且不得讓與、抵銷、扣押或擔保。",
+            "content": "　　第五十九條之受領補償權，自得受領之日起，因二年間不行使而消滅。\n　　受領補償之權利，不因勞工之離職而受影響，且不得讓與、抵銷、扣押或供擔保。\n　　勞工或其遺屬依本法規定受領職業災害補償金者，得檢具證明文件，於金融機構開立專戶，專供存入職業災害補償金之用。\n　　前項專戶內之存款，不得作為抵銷、扣押、供擔保或強制執行之標的。",
             "relates": {}
         },
         {
@@ -623,240 +623,53 @@
         }
     ],
     "law_reasons": {
-        "第二十三條": "　　一、鑑於雇主短付工資等爭議頻仍，為使勞雇雙方權利義務更加明確，並使勞工得以掌握關於工資之完整資訊，爰於第一項增訂雇主應提供各項目計算方式明細之規定，其包含平日每小時工資額、延長工作時間時數之金額、休假、特別休假及其他假別之金額及其計算，及其他法律規定之項目(包含:勞工保險費、全民健康保險費、職工福利金等)，將明定於勞動基準法施行細則予以規範。\n　　二、第二項參照第一項規定修正之。",
-        "第二十四條": "　　一、配合法制體例，第一項酌作文字修正。\n　　二、配合修正條文第三十六條增訂休息日之規定，增訂第二項及第三項，定明休息日出勤之工資給付標準及工作時間計算方式。",
-        "第三十條 之一": "　　一、原第一項第二款酌作文字修正；第三款例假規定移列至修正條文第三十六條第二項第三款規範，爰予刪除，原第四款款次遞減。\n　　二、第二項酌作文字修正。",
-        "第三十四條": "　　一、為使各種型態之輪班勞工均能受到本條規定之保障，將原條文第一項「晝夜」二字刪除。\n　　二、原條文第二項規定「適當」之休息時間，屬不確定之法律概念。為明確相關規定使勞資雙方可資遵循，修正為「至少應有連續十一小時」之休息時間。\n　　三、增列第三項，給予勞方遵循本條規定排班之緩衝時間。",
-        "第三十六條": "　　一、法定正常工作時間自一百零五年一月一日起縮減為每週不得超過四十小時後，為落實週休二日，並考量例假僅限因天災、事變或突發事件等特殊原因始得出勤之嚴格規範，經衡平審酌勞資雙方權益，爰修正第一項規定，定明勞工每七日應有之二日之休息，其中一日為例假，另一日為休息日。\n　　二、配合現行第三十條第二項、第三項及修正條文第三十條之一有關二週、八週及四週彈性工作時間所定各項調整原則，增訂第二項規定，其中第一款與第二款所定二週及八週彈性工作時間之例假仍維持每七日至少一日，僅休息日可彈性調整，惟例假及休息日之總數不減損；至第三款所定四週彈性工作時間之例假與現行第三十條之一第一項第三款規定相同，其例假與休息日亦可於例假及休息日總數不減損之前提下彈性調整。\n　　三、為落實休息日應使勞工休息為原則，工作為例外，另考量休息日出勤之時數性質上屬延長工作時間，爰增訂第三項，定明除受到一日不得超過十二小時之限制外，於核計是否超過一個月延長工作時間上限之四十六小時之時，亦併予列計，以避免勞工過勞（例如：勞工於休息日若僅工作二小時，依修正條文第二十四條第三項規定，應列計延長工作時數為四小時，並併入一個月延長工作時間上限之四十六小時計算）。\n　　四、依現行解釋，現行第三十二條第三項規定延長勞工工作時間者，不受同條第二項所定時數之限制，爰休息日因天災、事變或突發事件等特殊情況使勞工於休息日工作之時數，參照該解釋之意旨，於第三項但書明文規範。",
-        "第三十七條": "　　一、為使本法有關國定假日之規定與中央內政主管機關所定應放假之紀念日及節日一致，並維持對勞工具有特殊意義之勞動節放假規定，酌為修正。\n　　二、另所定其他中央主管機關指定應放假之日，係指各類公職人員選舉罷免投票日，併予說明。\n　　三、增訂第二項，定明中華民國105年12月6日修正之規定，自106年1月1日施行。",
-        "第三十八條": "　　一、特別休假制度有助於勞工恢復工作後所產生的疲勞，亦可維護勞動力，以落實勞工休息權。\n　　二、依據國際勞工組織(International Labour Organization)第132號有薪休假公約(Holidays with Pay Convention）明定有薪休假之最低服務年限資格不得超過六個月。況且，參考亞洲鄰近國家日本，雖未簽署該公約但其勞動基準法仍賦予勞工工作滿六個月即享有有薪休假制度設計。相形之下，我國勞工特別休假門檻過高，爰予以修正。",
-        "第三十九條": "　　配合第三十六條增訂休息日之規定，於本條配合增訂工資照給之規定。至休息日之工作時間依修正條文第三十六條第三項規定，計入每月延長工作時間時數計算。",
-        "第七十四條": "　　一、增訂雇主對「吹哨者」之勞工的解僱、降調、減薪或其他不利之處分者，無效，而公務員對「吹哨者」勞工身分負保密責任。\n　　二、為強化主管機關對違反勞基法案件之受理程序及辦理時程之踐行，並確保檢舉人之身分保密，爰酌修原條文規定，以茲明確。",
-        "第七十九條": "　　有鑑於勞動基準法原第七十九條中，雇主違反工資、工作時間、休息、休假、童工、女工、退休、職業災害補償、吹哨者條款等攸關勞工權益之規定，其罰鍰過輕，爰將雇主違反攸關勞工權益規定之罰鍰提高，主管機關得依事業規模、違反人數或違反情節，加重其罰鍰至法定罰鍰最高額二分之一。"
+        "第六十一條": "　　一、勞工遭遇職業災害而致死亡、殘廢、傷害或疾病，本人及家庭將面臨生計之負擔。原職災勞工或遺屬受領職業災害補償金後，因無禁止扣押之規定，債權人即得聲請法院扣押，職災勞工及家庭生計將陷於困頓，實有立法保障之必要。\n　　二、考量勞動基準法第五十八條第三項及第四項業已增訂退休金得存入專戶，並不得作為抵銷、扣押、供擔保或強制執行之標的規定，勞動基準法對職災勞工之保障，不應較退休勞工為低，爰增訂第三項及第四項之規定，勞工依本法規定請領職業災害補償金者，得於金融機構開立專戶，專供存入勞工職業災害補償金之用。專戶內之存款，不得作為抵銷、扣押、供擔保或強制執行之標的。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050603",
-            "立法紀錄": "105卷44期4341號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfcbcbcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "吳志揚",
+            "會議日期": "1050624",
+            "立法紀錄": "105卷52期4349號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7c981cecfcacfcacdcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "蔣萬安",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090116:LCEWA01_090116_00011"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050701",
-            "立法紀錄": "105卷55期4352號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfcacacfcec4cfcfcfccc4cfcfcfcb",
-            "主提案": "王育敏",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090119:LCEWA01_090119_00027"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050712",
-            "立法紀錄": "105卷57期4354號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfcac8cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "民進黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090120:LCEWA01_090120_00027"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050712",
-            "立法紀錄": "105卷57期4354號一冊 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfcac8cfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090120:LCEWA01_090120_00049"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050715",
-            "立法紀錄": "105卷59期4356號 29-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfcac6cfcec4cfcfcdc6c4cfcfcccd",
-            "主提案": "時代力量黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090121:LCEWA01_090121_00019"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050715",
-            "立法紀錄": "105卷59期4356號 121-121頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfcac6cfcec4cfcecdcec4cfcecdce",
-            "主提案": "親民黨黨團",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090121:LCEWA01_090121_00056"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050913",
-            "立法紀錄": "105卷66期4363號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc9c9cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "鍾孔炤",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090201:LCEWA01_090201_00009"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050923",
-            "立法紀錄": "105卷67期4364號 127-127頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc9c8cfcec4cfcecdc8c4cfcecdc8",
-            "主提案": "林淑芬",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090203:LCEWA01_090203_00008"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090118:LCEWA01_090118_00038"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1050711",
-            "立法紀錄": "105卷62期4359號 181-252頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc9cdcfcec4cfcec7cec4cfcdcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1051005",
-            "立法紀錄": "105卷73期4370號 321-328頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc8cccfcec4cfcccdcec4cfcccdc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1051114",
-            "立法紀錄": "105卷91期4388號 35-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6cecfcec4cfcfcccac4cfcecdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1051117",
-            "立法紀錄": "105卷93期4390號 3-150頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6cccfcec4cfcfcfccc4cfcecacf",
+            "會議日期": "1061116",
+            "立法紀錄": "106卷108期4510號 463-516頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7c981cecfc9cecfc7cfcec4cfcbc9ccc4cfcacec9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1051202",
-            "立法紀錄": "105卷96期4393號一冊 50-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6c9cfcec4cfcfcacfc4cfcecdc9",
+            "會議日期": "1061208",
+            "立法紀錄": "106卷116期4518號二冊 84-88頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7c981cecfc9cecec9cfcdc4cfcfc7cbc4cfcfc7c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090213:LCEWA01_090213_40005_1"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090412:LCEWA01_090412_40010"
                 ]
             ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1051202",
-            "立法紀錄": "105卷96期4393號一冊 50-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6c9cfcec4cfcfcacfc4cfcecdc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090213:LCEWA01_090213_40005_2"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1051202",
-            "立法紀錄": "105卷96期4393號一冊 50-126頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6c9cfcec4cfcfcacfc4cfcecdc9",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090207:LCEWA01_090207_00100"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1051206",
-            "立法紀錄": "105卷96期4393號一冊 128-129頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6c9cfcec4cfcecdc7c4cfcecdc6",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1051007",
-            "立法紀錄": "105卷71期4368號 433-452頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc8cecfcec4cfcbccccc4cfcbcacd",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1051028",
-            "立法紀錄": "105卷77期4374號 389-390頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc8c8cfcec4cfccc7c6c4cfccc6cf",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1051101",
-            "立法紀錄": "105卷77期4374號 391-438頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc8c8cfcec4cfccc6cec4cfcbccc7",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1051108",
-            "立法紀錄": "105卷80期4377號 365-393頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc7cfcfcec4cfccc9cac4cfccc6cc",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1051202",
-            "立法紀錄": "105卷96期4393號二冊 469-482頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6c9cfcdc4cfcbc9c6c4cfcbc7cd",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1051206",
-            "立法紀錄": "105卷96期4393號一冊 129-196頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6c9cfcec4cfcecdc6c4cfcec6c9",
+            "會議日期": "1061208",
+            "立法紀錄": "106卷116期4518號二冊 88-88頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7c981cecfc9cecec9cfcdc4cfcfc7c7c4cfcfc7c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1051206",
-            "立法紀錄": "105卷96期4393號一冊 196-199頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7ca81cecfcacfc6c9cfcec4cfcec6c9c4cfcec6c6",
+            "會議日期": "1061208",
+            "立法紀錄": "106卷116期4518號二冊 88-88頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8c7c981cecfc9cecec9cfcdc4cfcfc7c7c4cfcfc7c7",
             "關係文書": []
         }
     ]
