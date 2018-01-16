@@ -1,8 +1,8 @@
 {
     "title": "證人保護法",
     "versions": [
-        "中華民國105年3月25日修正",
-        "中華民國105年4月13日公布"
+        "中華民國106年12月26日修正",
+        "中華民國107年1月17日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -90,7 +90,7 @@
         {
             "note": "",
             "rule_no": "第十四條",
-            "content": "　　第二條所列刑事案件之被告或犯罪嫌疑人，於偵查中供述與該案案情有重要關係之待證事項或其他正犯或共犯之犯罪事證，因而使檢察官得以追訴該案之其他正犯或共犯者，以經檢察官事先同意者為限，就其因供述所涉之犯罪，減輕或免除其刑。\n　　被告或犯罪嫌疑人雖非前項案件之正犯或共犯，但於偵查中供述其犯罪之前手、後手或相關犯罪之網絡，因而使檢察官得以追訴與該犯罪相關之第二條所列刑事案件之被告者，參酌其犯罪情節之輕重、被害人所受之損害、防止重大犯罪危害社會治安之重要性及公共利益等事項，以其所供述他人之犯罪情節或法定刑較重於其本身所涉之罪且經檢察官事先同意者為限，就其因供述所涉之犯罪，得為不起訴處分。\n　　被告或犯罪嫌疑人非第一項案件之正犯或共犯，於偵查中供述其犯罪之前手、後手或相關犯罪之網絡，因而使檢察官得以追訴與該犯罪相關之第二條所列刑事案件之被告，如其因供述所涉之犯罪經檢察官起訴者，以其所供述他人之犯罪情節或法定刑較重於其本身所涉之罪且曾經檢察官於偵查中為第二項之同意者為限，得減輕或免除其刑。\n　　第二項情形，被告所有因犯罪所得或供犯罪所用之物，檢察官得聲請法院宣告沒收之。\n　　刑事訴訟法第二百五十三條第二項、第三項、第二百五十五條至第二百六十條之規定，於第二項情形準用之。",
+            "content": "　　第二條所列刑事案件之被告或犯罪嫌疑人，於偵查中供述與該案案情有重要關係之待證事項或其他正犯或共犯之犯罪事證，因而使檢察官得以追訴該案之其他正犯或共犯者，以經檢察官事先同意者為限，就其因供述所涉之犯罪，減輕或免除其刑。\n　　被告或犯罪嫌疑人雖非前項案件之正犯或共犯，但於偵查中供述其犯罪之前手、後手或相關犯罪之網絡，因而使檢察官得以追訴與該犯罪相關之第二條所列刑事案件之被告者，參酌其犯罪情節之輕重、被害人所受之損害、防止重大犯罪危害社會治安之重要性及公共利益等事項，以其所供述他人之犯罪情節或法定刑較重於其本身所涉之罪且經檢察官事先同意者為限，就其因供述所涉之犯罪，得為不起訴處分。\n　　被告或犯罪嫌疑人非第一項案件之正犯或共犯，於偵查中供述其犯罪之前手、後手或相關犯罪之網絡，因而使檢察官得以追訴與該犯罪相關之第二條所列刑事案件之被告，如其因供述所涉之犯罪經檢察官起訴者，以其所供述他人之犯罪情節或法定刑較重於其本身所涉之罪且曾經檢察官於偵查中為第二項之同意者為限，得減輕或免除其刑。\n　　刑事訴訟法第二百五十五條至第二百六十條之規定，於第二項情形準用之。",
             "relates": {}
         },
         {
@@ -149,54 +149,74 @@
         }
     ],
     "law_reasons": {
-        "第二條": "　　兒童及少年性交易防制條例業於一百零四年二月四日修正公布，名稱修正為兒童及少年性剝削防制條例並修正全文，其中原第二十三條變更條次為第三十二條，爰配合修正第十三款所引用之法律名稱及條次。",
-        "第二十三條": "　　定明本次修正條文之施行日期由行政院定之，且為期文字精簡，將原條文第一項與第二項予以合併規定。"
+        "第十四條": "　　一、依原第五項規定，檢察官依第二項為不起訴處分時，準用刑事訴訟法第二百五十五條至第二百六十條，其中之第二百五十九條之一，配合一百零四年十二月三十日修正公布刑法沒收新制規定，於一百零五年六月二十二日修正公布為「檢察官依第二百五十三條或第二百五十三條之一為不起訴或緩起訴之處分者，對刑法第三十八條第二項、第三項之物及第三十八條之一第一項、第二項之犯罪所得，得單獨聲請法院宣告沒收」。是準用結果，依本條第二項為不起訴處分者，在上開範圍內即得單獨聲請法院宣告沒收，已涵蓋本條第四項範圍，原第四項已無規定必要，爰予刪除。\n　　二、九十一年二月八日修正公布之刑事訴訟法第二百五十三條業已刪除第二項及第三項，爰配合修正本條第五項，並移列為第四項。\n　　三、第一項至第三項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050219",
-            "立法紀錄": "105卷1期4298號一冊 19-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcece81cecfcacfcfcecfcec4cfcfcec6c4cfcfcec6",
+            "會議日期": "1050913",
+            "立法紀錄": "105卷66期4363號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcecd81cecfcacfc9c9cfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfcec8cbc5c9c9c6d2c9c7cc"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090201:LCEWA01_090201_00042"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1050307",
-            "立法紀錄": "105卷5期4302號 2-42,67-68頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcece81cecfcacfcfcacfcec4cfcfcfcdc4cfcfcbcdd9cecfcacfcfcacfcec4cfcfc9c8c4cfcfc9c7",
+            "會議日期": "1050922",
+            "立法紀錄": "105卷69期4366號 103-138頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcecd81cecfcacfc9c6cfcec4cfcecfccc4cfceccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1050325",
-            "立法紀錄": "105卷10期4307號 43-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcece81cecfcacfcecfcfcec4cfcfcbccc4cfcfcac7",
+            "會議日期": "1051115",
+            "立法紀錄": "105卷82期4379號 269-275頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcecd81cecfcacfc7cdcfcec4cfcdc9c6c4cfcdc8ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc6cfcecfc9c8c7c5ced2cec9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090210:LCEWA01_090210_00220"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1051118",
+            "立法紀錄": "105卷87期4384號 153-153頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcecd81cecfcacfc7c8cfcec4cfcecaccc4cfcecacc",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1051125",
+            "立法紀錄": "105卷92期4389號 129-129頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcecd81cecfcacfc6cdcfcec4cfcecdc6c4cfcecdc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1061226",
+            "立法紀錄": "107卷4期4528號一冊 229-229頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcecd81cecfc8cfcfcbcfcec4cfcdcdc6c4cfcdcdc6",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1050325",
-            "立法紀錄": "105卷10期4307號 62-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcece81cecfcacfcecfcfcec4cfcfc9cdc4cfcfc9cc",
+            "會議日期": "1061226",
+            "立法紀錄": "107卷4期4528號一冊 229-230頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcecd81cecfc8cfcfcbcfcec4cfcdcdc6c4cfcdcccf",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1050325",
-            "立法紀錄": "105卷10期4307號 63-63頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcece81cecfcacfcecfcfcec4cfcfc9ccc4cfcfc9cc",
+            "會議日期": "1061226",
+            "立法紀錄": "107卷4期4528號一冊 230-230頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcfcbcecd81cecfc8cfcfcbcfcec4cfcdcccfc4cfcdcccf",
             "關係文書": []
         }
     ]
