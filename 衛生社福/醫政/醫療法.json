@@ -1,8 +1,8 @@
 {
     "title": "醫療法",
     "versions": [
-        "中華民國106年4月21日修正",
-        "中華民國106年5月10日公布"
+        "中華民國106年12月29日修正",
+        "中華民國107年1月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -550,7 +550,7 @@
         {
             "note": "",
             "rule_no": "第八十二條",
-            "content": "　　醫療業務之施行，應善盡醫療上必要之注意。\n　　醫療機構及其醫事人員因執行業務致生損害於病人，以故意或過失為限，負損害賠償責任。",
+            "content": "　　醫療業務之施行，應善盡醫療上必要之注意。\n　　醫事人員因執行醫療業務致生損害於病人，以故意或違反醫療上必要之注意義務且逾越合理臨床專業裁量所致者為限，負損害賠償責任。\n　　醫事人員執行醫療業務因過失致病人死傷，以違反醫療上必要之注意義務且逾越合理臨床專業裁量所致者為限，負刑事責任。\n　　前二項注意義務之違反及臨床專業裁量之範圍，應以該醫療領域當時當地之醫療常規、醫療水準、醫療設施、工作條件及緊急迫切等客觀情況為斷。\n　　醫療機構因執行醫療業務致生損害於病人，以故意或過失為限，負損害賠償責任。",
             "relates": {}
         },
         {
@@ -825,98 +825,32 @@
         }
     ],
     "law_reasons": {
-        "第二十四條": "　　一、第二項：為增加保障醫護人員或陪病者等之安全，首句刪除「病人」二字；並於次句「…恐嚇」後增加「、公然侮辱」等字，以增加保障之樣態；並刪除末句:「，致生危害醫療安全或其設施」之必要條件規範。\n　　二、第四項：為確保警察機關之處理權責，次句「警察機關應協助排除或制止之」    ，刪除其中「協助」二字；並配合實務作業將末句「應移送該管檢察官偵辦」，修正為「應移送司法機關偵辦。」\n　　三、增列第五項：「中央主管機關應建立通報機制，定期公告醫療機構受有第二項情事之內容及最終結果。」",
-        "第一百零六條": "　　一、第三項：為擴增對醫護人員安全之保障，將條文內之原「醫事人員」，增加「或緊急醫療救護人員」範疇；並將「、恐嚇或其他非法之方法」列入保障處罰要件；以及刪除「拘役」之處罰方式。條文修正為：「對於醫事人員或緊急醫療救護人員以強暴、脅迫、恐嚇或其他非法之方法，妨害其執行醫療或救護業務者，處三年以下有期徒刑，得併科新臺幣三十萬元以下罰金。」。\n　　二、第四項：併同擴大安全之保障，將次句「因而致醫事人員於死者」，修正為：「因而致醫事人員或緊急醫療救護人員於死者」。"
+        "第八十二條": "　　一、醫療行為乃醫事人員出於救死扶傷之初衷，目的為降低病人生命與身體的風險，並對社會具有公共利益。近年醫療爭議事件動輒以刑事方式提起爭訟，不僅無助於民眾釐清真相獲得損害之填補，反而導致醫師採取防禦性醫療措施，甚至導致醫學生不願投入高風險科別。\n　　二、為使醫事人員的醫療疏失責任之判定明確化及合理化，爰修訂本條規定，並說明如下：\n　　　(一)修正第二項，並新增第三項、第四項、第五項規定。\n　　　(二)醫療行為因具專業性、錯綜性及不可預測性，且醫師依法有不得拒絕病人之救治義務，為兼顧醫師專業及病人權益，修正第二項民事損害賠償之要件，即以「違反醫療上必要之注意義務且逾越合理臨床專業裁量」定義原條文所稱之「過失」。\n　　　(三)刑法對於過失是採結果犯，但故意包括預備犯及未遂犯，非以結果犯論斷。為使刑法「過失」之判定明確化及合理化，並為避免將來本條與刑法第12條「行為非出於故意或過失者，不罰。過失行為之處罰，以有特別規定者，為限。」之適用疑慮，爰增訂第三項。至於醫事人員之故意行為，回歸刑法處理。\n　　　(四)參酌衛生福利部醫療糾紛鑑定作業要點第十六條：「醫事鑑定小組委員會及初審醫師，對於鑑定案件，應就委託鑑定機關提供之相關卷證資料，基於醫學知識與醫療常規，並衡酌「當地醫療資源與醫療水準」，提供公正、客觀之意見，不得為虛偽之陳述或鑑定」規定．因人、事、時、地、物之不同，醫療專業裁量因病人而異，在醫學中心、區域醫院、地區醬院、一般診所，亦因設備而有差異；爰增訂第四項，作為醫事人員注意義務的判別標準，以均衡醫療水準提升及保障病人權益。\n　　　(五)新增第五項：考量醫療環境之安全性及完善性，明顯影響醫事人員執行醫療業務之結果；且醫事人員多屬受聘性質，所負之責任應小於醫療機構，故醫療機構之過失責任，不限以「違反機構上必要之注意義務且逾越合理臨床專業裁量」為限。至於醫事人員執行醫療業務致生損害於病人，依本條第2項應負損害賠償責任時，病人除得依本條第5項請求醫療機構負損害賠償責任，仍得依民法第188條第1項規定，請求醫療機構與醫事人員連帶負損害賠償責任，併此敘明。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050318",
-            "立法紀錄": "105卷6期4303號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfcacfcfc9cfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "黃國書",
+            "會議日期": "1051125",
+            "立法紀錄": "105卷92期4389號 38-38頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6ceca81cecfcacfc6cdcfcec4cfcfccc7c4cfcfccc7",
+            "主提案": "邱泰源",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090105:LCEWA01_090105_00031"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090212:LCEWA01_090212_10115"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1050325",
-            "立法紀錄": "105卷10期4307號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfcacfcecfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "李鴻鈞",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090106:LCEWA01_090106_00026"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050913",
-            "立法紀錄": "105卷66期4363號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfcacfc9c9cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "張麗善",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090201:LCEWA01_090201_00011"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1050913",
-            "立法紀錄": "105卷66期4363號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfcacfc9c9cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "陳宜民",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090201:LCEWA01_090201_00012"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1051007",
-            "立法紀錄": "105卷71期4368號 4-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfcacfc8cecfcec4cfcfcfcbc4cfcfcfca",
+            "會議日期": "1051223",
+            "立法紀錄": "106卷4期4406號一冊 21-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6ceca81cecfc9cfcfcbcfcec4cfcfcdcec4cfcfcdce",
             "主提案": "李彥秀",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090205:LCEWA01_090205_00033"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1051014",
-            "立法紀錄": "105卷73期4370號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfcacfc8cccfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "盧秀燕",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090206:LCEWA01_090206_00016"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1051108",
-            "立法紀錄": "105卷80期4377號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfcacfc7cfcfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "林俊憲",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090209:LCEWA01_090209_00033"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090216:LCEWA01_090216_10162"
                 ]
             ]
         },
@@ -924,33 +858,47 @@
             "進度": "委員會審查",
             "會議日期": "1060406",
             "立法紀錄": "106卷41期4443號二冊 217-274頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfc9cfcbcecfcdc4cfcdcec8c4cfcdc8cb",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6ceca81cecfc9cfcbcecfcdc4cfcdcec8c4cfcdc8cb",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1061106",
+            "立法紀錄": "106卷104期4506號一冊 179-237頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6ceca81cecfc9cecfcbcfcec4cfcec8c6c4cfcdccc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1060421",
-            "立法紀錄": "106卷42期4444號一冊 176-204頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfc9cfcbcdcfcec4cfcec8c9c4cfcdcfcb",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號一冊 114-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6ceca81cecfc8cfcfc6cfcec4cfcececbc4cfcecdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090310:discussCorrect09031002xx336"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090415:LCEWA01_090415_00399"
                 ]
             ]
         },
         {
+            "進度": "黨團協商",
+            "會議日期": "1061228",
+            "立法紀錄": "107卷9期4533號三冊 197-256頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6ceca81cecfc8cfcfc6cfccc4cfcec6c8c4cfcdcac9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1060421",
-            "立法紀錄": "106卷42期4444號一冊 204-205頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfc9cfcbcdcfcec4cfcdcfcbc4cfcdcfca",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號一冊 127-137頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6ceca81cecfc8cfcfc6cfcec4cfcecdc8c4cfceccc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1060421",
-            "立法紀錄": "106卷42期4444號一冊 205-207頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cecc81cecfc9cfcbcdcfcec4cfcdcfcac4cfcdcfc8",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號一冊 137-141頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6ceca81cecfc8cfcfc6cfcec4cfceccc8c4cfcecbce",
             "關係文書": []
         }
     ]
