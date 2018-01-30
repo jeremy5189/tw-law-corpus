@@ -1,8 +1,8 @@
 {
     "title": "期貨交易法",
     "versions": [
-        "中華民國106年5月26日修正",
-        "中華民國106年6月14日公布"
+        "中華民國106年12月29日修正",
+        "中華民國107年1月31日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -41,6 +41,12 @@
             "note": "(期貨交易之種類及交易所)",
             "rule_no": "第五條",
             "content": "　　期貨商受託從事之期貨交易，其種類及交易所以主管機關公告者為限。",
+            "relates": {}
+        },
+        {
+            "note": "(促進金融科技創新，推動金融監理沙盒，於核准辦理期間及範圍，得不適用本法之規定)",
+            "rule_no": "第五條 之一",
+            "content": "　　為促進普惠金融及金融科技發展，不限於期貨業，得依金融科技發展與創新實驗條例申請辦理期貨業務創新實驗。\n　　前項之創新實驗，於主管機關核准辦理之期間及範圍內，得不適用本法之規定。\n　　主管機關應參酌第一項創新實驗之辦理情形，檢討本法及相關金融法規之妥適性。",
             "relates": {}
         },
         {
@@ -835,53 +841,113 @@
         }
     ],
     "law_reasons": {
-        "第一百十三條": "　　一、一百零四年十二月三十日修正施行刑法施行法第十條之三第二項規定，刑法修正施行日前制定之其他法律關於沒收、追徵、追繳、抵償之規定，不再適用。該規定立法意旨在於此次刑法既已整體修正沒收規定，自應回歸刑法一體適用，一百零五年七月一日刑法沒收修正之施行日前所制定之其他法律關於沒收之規定，已無獨立存在之必要；惟經檢視仍應另為特別規定者，依刑法第十一條特別法優於普通法之原則，仍宜定明。\n　　二、依修正後刑法第三十八條之一第四項規定，犯罪所得包括違法行為所得、其變得之物或財產上利益及其孳息；則原第三項規定「所收受之財物沒收之」，不包括財產上利益，範圍過於狹隘。又刑法修正後，追徵為全部或一部不能沒收之執行方式，爰配合刪除第三項，回歸適用刑法相關規定。\n　　三、第一項及第二項未修正。"
+        "第五條 之一": "　　一、本條新增。\n　　二、照協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050923",
-            "立法紀錄": "105卷67期4364號 131-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc781cecfcacfc9c8cfcec4cfcecccec4cfceccce",
-            "主提案": "行政院",
+            "會議日期": "1050913",
+            "立法紀錄": "105卷66期4363號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfcacfc9c9cfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "曾銘宗",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090203:LCEWA01_090203_00036_0"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090201:LCEWA01_090201_00026"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1051014",
+            "立法紀錄": "105卷73期4370號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfcacfc8cccfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "余宛如",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090206:LCEWA01_090206_00049"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1051118",
+            "立法紀錄": "105卷87期4384號 40-40頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfcacfc7c8cfcec4cfcfcbcfc4cfcfcbcf",
+            "主提案": "賴士葆",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090211:LCEWA01_090211_10167"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1051223",
+            "立法紀錄": "106卷4期4406號一冊 25-25頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfc9cfcfcbcfcec4cfcfcdcac4cfcfcdca",
+            "主提案": "親民黨黨團",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090216:LCEWA01_090216_00032"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1060508",
-            "立法紀錄": "106卷56期4458號 131-162頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc781cecfc9cfcac9cfcec4cfcecccec4cfcec9cd",
+            "會議日期": "1051208",
+            "立法紀錄": "106卷3期4405號 15-90頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfc9cfcfcccfcec4cfcfcecac4cfcfc6cf",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1051219",
+            "立法紀錄": "105卷10期4412號 28-62頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfcacfcecfcfcec4cfcfcdc7c4cfcfc9cd",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號二冊 614-618頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc781cecfc9cfc9cfcfcdc4cfc9cecbc4cfc9cec7",
+            "會議日期": "1061226",
+            "立法紀錄": "107卷4期4528號一冊 415-431頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfc8cfcfcbcfcec4cfcbcecac4cfcbccce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090314:LCEWA01_090314_00892"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_40030"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號二冊 85-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfc8cfcfc6cfcdc4cfcfc7cac4cfcfc7c9",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1061228",
+            "立法紀錄": "107卷9期4533號三冊 197-256頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfc8cfcfc6cfccc4cfcec6c8c4cfcdcac9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號二冊 618-618頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc781cecfc9cfc9cfcfcdc4cfc9cec7c4cfc9cec7",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號二冊 86-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfc8cfcfc6cfcdc4cfcfc7c9c4cfcfc7c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號二冊 618-618頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc781cecfc9cfc9cfcfcdc4cfc9cec7c4cfc9cec7",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號二冊 86-86頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cec8cfc681cecfc8cfcfc6cfcdc4cfcfc7c9c4cfcfc7c9",
             "關係文書": []
         }
     ]
