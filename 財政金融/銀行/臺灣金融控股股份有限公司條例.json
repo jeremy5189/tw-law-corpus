@@ -1,8 +1,8 @@
 {
     "title": "臺灣金融控股股份有限公司條例",
     "versions": [
-        "中華民國104年12月18日修正",
-        "中華民國105年1月6日公布"
+        "中華民國106年12月29日修正",
+        "中華民國107年1月31日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -37,7 +37,17 @@
             "note": "",
             "rule_no": "第五條",
             "content": "　　本公司設董事會，置董事十三人至十五人，由董事互選一人為董事長。董事中獨立董事人數不得少於二人，且不得少於董事席次五分之一。\n　　董事得由具外國國籍或雙重國籍人士擔任，不受國籍法第二十條及公務人員任用相關規定之限制。但人數不得超過二人。\n　　本公司置監察人三人至五人或設置審計委員會。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01121",
+                        "law_name": "國籍法",
+                        "numbers": [
+                            "第二十條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -84,8 +94,35 @@
         {
             "note": "",
             "rule_no": "第十二條 之一",
-            "content": "　　政府得以原為本公司之銀行子公司所持有，其後以贈與方式繳回國庫之國有不動產抵充增資本公司之股款。本公司增資銀行子公司時，亦同。\n　　本公司之銀行子公司持有之下列不動產，不適用銀行法第七十五條第一項至第三項規定：\n　　一、依前項規定抵充股款而取得者。\n　　二、經指定或登錄為文化資產者。\n　　前項各款不動產進行改良新建、拆除改建、修建等活化措施，亦不適用銀行法第七十五條第一項至第三項規定。",
-            "relates": {}
+            "content": "　　政府得以原為本公司之銀行子公司所持有，其後以贈與方式繳回國庫之國有不動產抵充增資本公司之股款。本公司增資銀行子公司時，亦同。\n　　本公司之銀行子公司持有之下列不動產，不適用銀行法第七十五條第一項至第三項規定：\n　　一、依前項規定抵充股款而取得者。\n　　二、經指定或登錄為文化資產者。\n　　前項各款不動產進行改良新建、拆除改建、修建等活化措施，亦不適用銀行法第七十五條第一項至第三項規定。\n　　自中華民國一百零七年二月一日起至一百十一年一月三十一日止，政府依第一項規定以國有不動產抵充增資本公司股款者，不受預算法第二十五條、第二十六條、第八十六條第一項及國有財產法第七條、第六十六條規定之限制。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01531",
+                        "law_name": "銀行法",
+                        "numbers": [
+                            "第七十五條"
+                        ]
+                    },
+                    {
+                        "law_no": "01583",
+                        "law_name": "國有財產法",
+                        "numbers": [
+                            "第七條",
+                            "第六十六條"
+                        ]
+                    },
+                    {
+                        "law_no": "02301",
+                        "law_name": "預算法",
+                        "numbers": [
+                            "第二十五條",
+                            "第二十六條",
+                            "第八十六條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -95,68 +132,60 @@
         }
     ],
     "law_reasons": {
-        "第十二條 之一": "　　一、本條新增。\n　　二、配合BaselⅢ對於資本定義趨嚴與資本適足標準提高，使本公司之銀行子公司業務拓展面臨自有資本不足之嚴峻挑戰。為利本公司銀行子公司資本之擴增，擬以國有不動產係原為臺灣銀行所持有，其後以贈與方式繳回國庫者抵充資本，爰訂定第一項。\n　　三、訂定第二項及第三項，理由如下：\n　　　(一)本公司之銀行子公司除一般商業銀行之業務外，歷來尚肩負國家賦予之諸多政策性任務，就所有之資產亦應配合政府開闢財源活化收益，且投資收益之結果回歸國庫，與一般商業銀行本有差異。\n　　　(二)為維持銀行子公司之資本適足率，健全銀行體質，並提升經營績效，仍有繼續持有之必要。再者，就該等不動產所為必要改良、修建或依法定義務所為修繕管理維護所需支付經費，亦非經營銀行業務所必需支出之費用，且其金額龐大足以影響銀行非自用資產淨值之比例，基於充分發揮不動產活化效益之目的，明定上開不動產及嗣後經費之挹注部分實不宜受銀行法第七十五條第一項至第三項規定之限制。",
-        "第十三條": "　　配合本條例修正，原條文列為第一項，並增訂第二項，明定修正條文之施行日期。"
+        "第十二條 之一": "　　照協商條文通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1041023",
-            "立法紀錄": "104卷71期4270號一冊 32-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfce81cecfcbcfc8cecfcec4cfcfcccdc4cfcfcccd",
+            "會議日期": "1061013",
+            "立法紀錄": "106卷77期4479號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfcc81cecfc9cfc8c8cfcec4cfcfcfc8c4cfcfcfc8",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfc9c8cdc5cecdced2cecccf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090404:LCEWA01_090404_00053"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1041111",
-            "立法紀錄": "104卷86期4285號 139-139,147-178,201-203頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfce81cecfcbcfc7c9cfcec4cfceccc6c4cfceccc6d9cecfcbcfc7c9cfcec4cfcecbc8c4cfcec8c7d9cecfcbcfc7c9cfcec4cfcdcfcec4cfcdcfcc",
+            "會議日期": "1061122",
+            "立法紀錄": "106卷112期4514號 453-508頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfcc81cecfc9cececdcfcec4cfcbcaccc4cfcacfc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1041216",
-            "立法紀錄": "104卷98期4297號一冊 164-177頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfce81cecfcbcfc6c7cfcec4cfcec9cbc4cfcec8c8",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號二冊 93-96頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfcc81cecfc8cfcfc6cfcdc4cfcfc6ccc4cfcfc6c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecfc7cec5cdccc8d2cdcbc6"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090415:LCEWA01_090415_40026"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1041218",
-            "立法紀錄": "104卷98期4297號三冊 407-408頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfce81cecfcbcfc6c7cfccc4cfcbcfc8c4cfcbcfc7",
-            "關係文書": []
-        },
-        {
             "進度": "黨團協商",
-            "會議日期": "1041125",
-            "立法紀錄": "104卷98期4297號五冊 51-54頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfce81cecfcbcfc6c7cfcac4cfcfcacec4cfcfcacb",
+            "會議日期": "1061227",
+            "立法紀錄": "107卷9期4533號三冊 163-195頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfcc81cecfc8cfcfc6cfccc4cfcec9ccc4cfcec6ca",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1041218",
-            "立法紀錄": "104卷98期4297號三冊 408-409頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfce81cecfcbcfc6c7cfccc4cfcbcfc7c4cfcbcfc6",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號二冊 96-96頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfcc81cecfc8cfcfc6cfcdc4cfcfc6c9c4cfcfc6c9",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1041218",
-            "立法紀錄": "104卷98期4297號三冊 409-409頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfce81cecfcbcfc6c7cfccc4cfcbcfc6c4cfcbcfc6",
+            "會議日期": "1061229",
+            "立法紀錄": "107卷9期4533號二冊 96-97頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cdc6c6c6c6cfcc81cecfc8cfcfc6cfcdc4cfcfc6c9c4cfcfc6c8",
             "關係文書": []
         }
     ]
