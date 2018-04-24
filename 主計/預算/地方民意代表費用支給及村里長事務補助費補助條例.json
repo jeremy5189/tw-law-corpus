@@ -1,8 +1,8 @@
 {
     "title": "地方民意代表費用支給及村里長事務補助費補助條例",
     "versions": [
-        "中華民國98年6月12日修正",
-        "中華民國98年7月8日公布"
+        "中華民國107年4月3日修正",
+        "中華民國107年4月25日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -48,7 +48,7 @@
         {
             "note": "(村里長支領事務補助費項目及健檢等預算編列標準)",
             "rule_no": "第七條",
-            "content": "　　村（里）長由鄉（鎮、市、區）公所編列村（里）長事務補助費，每村（里）每月新臺幣四萬五千元。\n　　前項事務補助費，係指文具費、郵電費、水電費及其他因公支出之費用。\n　　村（里）長因職務關係，得由鄉（鎮、市、區）公所編列預算，支應其健康檢查費、保險費，其最高標準比照鄉（鎮、市）民代表會代表。\n　　第一項及第三項自中華民國九十九年一月一日起施行。",
+            "content": "　　村（里）長由鄉（鎮、市、區）公所編列村（里）長事務補助費，每村（里）每月新臺幣四萬五千元。\n　　前項事務補助費，係指文具費、郵電費、水電費及其他因公支出之費用。\n　　村（里）長因職務關係，應由鄉（鎮、市、區）公所編列預算，支應其保險費，並得編列預算，支應其健康檢查費，其標準均比照地方民意代表。\n　　鄉（鎮、市、區）公所編列前項保險費預算，應包含投保保險金額新臺幣五百萬元以上傷害保險之保險費金額。\n　　村（里）長除有正當理由未能投保或未足額投保傷害保險外，於當年度檢據支領保險費時，其單據應包含投保保險金額新臺幣五百萬元以上傷害保險之保險費。",
             "relates": {}
         },
         {
@@ -66,64 +66,150 @@
         {
             "note": "(施行日)",
             "rule_no": "第十條",
-            "content": "　　本條例自公布日施行。",
+            "content": "　　本條例除中華民國九十八年七月八日公布之第七條第一項及第三項自九十九年一月一日施行，一百零七年四月三日修正之第七條第三項至第五項自一百零七年十二月二十五日施行外，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第七條": "　　一、為一體適用及符公平原則，取消第一項規定原事務補助費之上限，將補助金額定為每村（里）每月新臺幣四萬五千元。\n　　二、村（里）長因職務關係，勤於村（里）事務治理，繁忙與辛勤情況不下於地方或中央民意代表，為使村（里）長們為村里服務之付出，獲得應有之重視與法源，爰增訂第三項得由鄉（鎮、市、區）公所編列預算，支應其健康檢查費、保險費，其最高標準比照鄉（鎮、市）民代表會代表。\n　　三、增訂第四項本條施行日期，以玆明確。"
+        "第七條": "　　一、查現行實務上，有部分鄉（鎮、市、區）公所並未編列保險費預算，為落實第三項村（里）長執行職務時人身安全保障之立法意旨，爰規定鄉（鎮、市、區）公所應編列預算支應其保險費，標準比照地方民意代表，如其鄉（鎮、市、區）內無代表會代表可比照，則比照該市議員；第四項並規定，該保險費預算應包含投保保險金額新臺幣五百萬元以上傷害保險之保險費金額。\n　　二、另現行實務上，村（里）長得檢據請領保險費之保險種類，包括人壽保險、健康保險、傷害保險及年金保險等等，如村（里）長未投保足額之傷害保險，恐致使其執行職務時之人身安全保障不足。為避免村（里）長自行投保之各項人身保險保障不足無法達到上開立法目的，並賦予村（里）長保障自身安全之責任，爰增訂第五項規定，村（里）長除有正當理由未能投保或未足額投保傷害保險外，於當年度檢據支領保險費時，其單據應包含投保保險金額新臺幣五百萬元以上傷害保險之保險費，未包含者不予核銷。",
+        "第十條": "　　本條例施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970328",
-            "立法紀錄": "97卷8期3619號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cfcd81c6c8cfc7cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "楊瓊瓔",
+            "會議日期": "1051118",
+            "立法紀錄": "105卷87期4384號 30-30頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfcacfc7c8cfcec4cfcfcccfc4cfcfcccf",
+            "主提案": "鄭寶清",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcacfcbc5ccc8cdd2ccc8cb"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090211:LCEWA01_090211_00039"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "970509",
-            "立法紀錄": "97卷25期3636號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cfcd81c6c8cdcacfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "盧秀燕",
+            "會議日期": "1051202",
+            "立法紀錄": "105卷96期4393號一冊 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfcacfc6c9cfcec4cfcfcccec4cfcfccce",
+            "主提案": "陳瑩",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcececfcfcec5cdccccd2cdccca"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090213:LCEWA01_090213_00035"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1051216",
+            "立法紀錄": "105卷104期4401號一冊 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfcacecfcbcfcec4cfcfcccec4cfcfccce",
+            "主提案": "陳超明",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090215:LCEWA01_090215_10128"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1060217",
+            "立法紀錄": "106卷17期4419號一冊 9-10頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc9cfcec8cfcec4cfcfcfc6c4cfcfcecf",
+            "主提案": "黃昭順",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090301:LCEWA01_090301_00046"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1060217",
+            "立法紀錄": "106卷17期4419號一冊 13-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc9cfcec8cfcec4cfcfceccc4cfcfcecc",
+            "主提案": "顏寬恒",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090301:LCEWA01_090301_00073"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1060310",
+            "立法紀錄": "106卷21期4423號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc9cfcdcecfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "曾銘宗",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090304:LCEWA01_090304_00015"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1060317",
+            "立法紀錄": "106卷23期4425號 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc9cfcdcccfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "陳超明",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090305:LCEWA01_090305_00052"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1061208",
+            "立法紀錄": "106卷116期4518號一冊 24-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc9cecec9cfcec4cfcfcdcbc4cfcfcdcb",
+            "主提案": "鄭天財Sra Kacaw",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090412:LCEWA01_090412_00016"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980521",
-            "立法紀錄": "98卷36期3722號 260-301頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cfcd81c6c7ccc9cfcfc4cfcdc9cfc4cfcccfce",
+            "會議日期": "1061221",
+            "立法紀錄": "107卷13期4537號二冊 293-461頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc8cfcecccfcdc4cfcdc6ccc4cfcbc9ce",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 234-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cfcd81c6c7cbcdcfcec4cfcdcccbc4cfcdcbcf",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070403",
+            "立法紀錄": "107卷28期4552號二冊 71-87頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc8cfcdc7cfcdc4cfcfc8cec4cfcfc7c8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec9cfcdc5c8cfcad2c8cece"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090506:LCEWA01_090506_00156"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1070403",
+            "立法紀錄": "107卷28期4552號二冊 87-87頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc8cfcdc7cfcdc4cfcfc7c8c4cfcfc7c8",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 240-240頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cfcd81c6c7cbcdcfcec4cfcdcbcfc4cfcdcbcf",
+            "會議日期": "1070403",
+            "立法紀錄": "107卷28期4552號二冊 87-88頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cfcc81cecfc8cfcdc7cfcdc4cfcfc7c8c4cfcfc7c7",
             "關係文書": []
         }
     ]
