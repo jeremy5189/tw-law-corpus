@@ -1,8 +1,8 @@
 {
     "title": "法院組織法",
     "versions": [
-        "中華民國106年5月26日修正",
-        "中華民國106年6月14日公布"
+        "中華民國107年5月8日修正",
+        "中華民國107年5月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -823,6 +823,12 @@
         },
         {
             "note": "",
+            "rule_no": "第一百十四條 之二",
+            "content": "　　本法及其他法律所稱地方法院檢察署、高等法院檢察署、最高法院檢察署、高等法院及其分院檢察署、高等法院檢察署智慧財產分署、高等法院以下各級法院及其分院檢察署、地方法院及其分院檢察署、各級法院及分院檢察署，自本法中華民國一百零七年五月八日修正條文施行之日起，分別改稱為地方檢察署、高等檢察署、最高檢察署、高等檢察署及其檢察分署、高等檢察署智慧財產檢察分署、高等檢察署以下各級檢察署及其檢察分署、地方檢察署及其檢察分署、各級檢察署及檢察分署。",
+            "relates": {}
+        },
+        {
+            "note": "",
             "section_name": "第十二章  附則"
         },
         {
@@ -833,55 +839,88 @@
         }
     ],
     "law_reasons": {
-        "第六十六條 之二": "　　一、原條文第一項有關官職等部分移列第二項，內容未修正。\n　　二、第一類地方法院及分院檢察署之檢察業務及工作內容、質量均較繁重，為提高優秀檢察事務官之職務列等，以拔擢優秀人才，並建立主任檢察事務官之退場機制，活絡人事，爰增訂第二項規定。",
-        "第六十六條 之四": "　　一、第一項未修正。\n　　二、軍事審判法於一百零二年八月十三日修正後，軍法官僅於戰時負責軍法案件之偵查、審判業務，為使軍法官持續累積實務經驗，並考量國防軍事勤務有其特殊性及專業性，檢察機關偵辦軍事案件有借調相當資歷軍法官之必要，爰增訂第二項規定。鑑於檢察事務官與軍法官之借調方式、年資、待遇、給與、考績、獎懲及相關事項均不相同，爰於第二項後段明定該等事項之辦法，由法務部會同國防部定之。\n　　三、原條文第二項及第三項移列第三項及第四項，內容未修正。",
-        "第六十七條": "　　一、近年來有關毒品及性侵害案件之觀護業務，衍生毒癮、酒癮、精神疾病等問題，涉及心理諮商、心理衡鑑等專業處遇，於觀護人室增置臨床心理師，有助於針對特殊個案進行心理諮商輔導，協同鑑定個案之身心狀況，以利保護管束之執行；又考量近十年觀護案件總數增加七萬二千二百五十件，案件量成長百分之二百三十七，亦有增置佐理員之必要，以協助觀護業務及案件之執行，爰修正原條文前段規定並移列為第一項；另增訂觀護人在六人以上者並得分組辦事，組長由觀護人兼任，不另列等。\n　　二、第一類地方法院及分院檢察署之觀護業務較為繁雜，工作相對繁重，有必要於第一類地方法院及分院檢察署增置簡任觀護人，期能襄助主任觀護人辦理觀護業務，活絡人事，爰將原條文後段移列為第二項，並增訂第一類地方法院及分院檢察署觀護人室之觀護人，其中二人得列薦任第九職等或簡任第十職等，另明定臨床心理師及佐理員之官職等。"
+        "第一百十四條 之二": "　　一、本條新增。\n　　二、檢察機關對應法院獨立行使犯罪偵查及訴追職權，與法院間並無隸屬關係，原名稱易生檢察機關隸屬法院之誤解，亦與審檢分隸原則不符，爰予修正，以資明確。\n　　三、本條增訂僅作為組織名稱改稱之用。\n　　四、本條修正施行後，地方法院檢察署改稱為地方檢察署，高等法院檢察署改稱為高等檢察署，高等法院分院檢察署改稱為高等檢察署檢察分署，高等法院檢察署智慧財產分署改稱為高等檢察署智慧財產檢察分署，最高法院檢察署改稱為最高檢察署，併此敘明。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1060331",
-            "立法紀錄": "106卷29期4431號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcdc781cecfc9cfcdc6cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "段宜康",
+            "會議日期": "1061222",
+            "立法紀錄": "107卷4期4528號一冊 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcfcbcfcec4cfcfcdc9c4cfcfcdc9",
+            "主提案": "蔡易餘",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090307:LCEWA01_090307_00007"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_00020"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1060417",
-            "立法紀錄": "106卷46期4448號 233-288頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcdc781cecfc9cfcbc9cfcec4cfcdccccc4cfcdc7c7",
+            "會議日期": "1070312",
+            "立法紀錄": "107卷22期4546號 110-176頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcdcdcfcec4cfcececfc4cfcec8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號一冊 248-256頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcdc781cecfc9cfc9cfcfcec4cfcdcbc7c4cfcdcac9",
+            "會議日期": "1070403",
+            "立法紀錄": "107卷28期4552號二冊 55-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcdc7cfcdc4cfcfcacac4cfcfc9c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090311:LCEWA01_090311_00405"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090506:LCEWA01_090506_00154"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070417",
+            "立法紀錄": "107卷35期4559號 135-135頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcccacfcec4cfcecccac4cfceccca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070424",
+            "立法紀錄": "107卷39期4563號 312-312頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfccc6cfcec4cfcccecdc4cfcccecd",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070501",
+            "立法紀錄": "107卷43期4567號 239-239頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcbcccfcec4cfcdccc6c4cfcdccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 163-163頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcbc7cfcec4cfcec9ccc4cfcec9cc",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1070411",
+            "立法紀錄": "107卷52期4576號二冊 521-526頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcacdcfcdc4cfcacdcec4cfcacdc9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號一冊 256-257頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcdc781cecfc9cfc9cfcfcec4cfcdcac9c4cfcdcac8",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 163-165頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcbc7cfcec4cfcec9ccc4cfcec9ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號一冊 257-257頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcdc781cecfc9cfc9cfcfcec4cfcdcac8c4cfcdcac8",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 165-165頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcbc7cfcec4cfcec9cac4cfcec9ca",
             "關係文書": []
         }
     ]
