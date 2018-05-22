@@ -1,8 +1,8 @@
 {
     "title": "法務部組織法",
     "versions": [
-        "中華民國100年6月14日全文修正",
-        "中華民國100年6月29日公布"
+        "中華民國107年5月8日修正",
+        "中華民國107年5月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -36,8 +36,18 @@
         {
             "note": "",
             "rule_no": "第五條",
-            "content": "　　本部之次級機關及其業務如下：\n　　一、調查局：執行國家安全維護、機關保防、貪瀆、賄選、重大經濟犯罪、毒品犯罪及洗錢等之調查防制事項。\n　　二、行政執行署：規劃及執行公法上金錢給付義務之強制執行事項。\n　　三、廉政署：規劃廉政政策及執行反貪、防貪及肅貪事項。\n　　四、矯正署：規劃矯正政策，指揮、監督所屬矯正機關（構）執行收容人之戒護管理、教化輔導、衛生醫療、假釋審查、作業及技能訓練等事項。\n　　五、最高法院檢察署：提起非常上訴、指揮偵查及辦理其他法令所定職務之執行事項。\n　　六、臺灣高等法院檢察署：辦理與指揮監督所屬各級法院及其分院檢察署實施偵查、實行公訴、刑事執行及其他法令所定職務之執行事項。",
-            "relates": {}
+            "content": "　　本部之次級機關及其業務如下：\n　　一、調查局：執行國家安全維護、機關保防、貪瀆、賄選、重大經濟犯罪、毒品犯罪及洗錢等之調查防制事項。\n　　二、行政執行署：規劃及執行公法上金錢給付義務之強制執行事項。\n　　三、廉政署：規劃廉政政策及執行反貪、防貪及肅貪事項。\n　　四、矯正署：規劃矯正政策，指揮、監督所屬矯正機關（構）執行收容人之戒護管理、教化輔導、衛生醫療、假釋審查、作業及技能訓練等事項。\n　　五、最高檢察署：提起非常上訴、指揮偵查及辦理其他法令所定職務之執行事項。\n　　六、臺灣高等檢察署：辦理與指揮監督所屬各級檢察署及其檢察分署實施偵查、實行公訴、刑事執行及其他法令所定職務之執行事項。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01801",
+                        "law_name": "法務部調查局組織法",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -59,74 +69,88 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　明訂法務部之設立目的及隸屬關係。",
-        "第二條": "　　合併修正原第九條至第十一條、第十三條及第十七條，規定本部之權限職掌，條次並修正為第二條；至於本部內部單位之分工職掌，則另於處務規程定之。",
-        "第三條": "　　合併修正原條文第十八條及第十九條，規定本部首長、副首長之職稱、官職等及員額，條次並修正為第三條。",
-        "第四條": "　　一、修正原條文第二十條第一項前段，規定本部幕僚長之職稱及官職等，條次並修正為第四條。\n　　二、至原條文第二十條第一項後段及二項規定，依中央政府機關總員額法第六條，有關職務列等及員額配置等，以編制表定之，爰予以刪除。",
-        "第五條": "　　合併修正原條文第五條至第六條之一、第八條及第十二條，並新增本條第三款、第五款及第六款，規定本部依職掌所設次級機關之名稱及業務，條次並修正為第五條。",
-        "第六條": "　　法務部除培訓司法人員外，更肩負犯罪、刑事政策研究之職責，為使文義更為周延，爰修正為：「本部設司法人員培訓機關，並辦理犯罪、刑事政策研究，其組織以法律定之。」",
-        "第七條": "　　一、本條新增。\n　　二、中央政府機關總員額法第六條雖已授權各機關訂定編制表，惟考量如僅於第三條及第四條規定首長、副首長及幕僚長之配置，將難窺知機關人員配置及運作之全貌，爰於本條再予重申。",
-        "第八條": "　　修正原條文第二十九條，規定本法之施行日期，條次並修正為第八條。"
+        "第五條": "　　一、第一款至第四款規定未修正。\n　　二、檢察機關對應法院獨立行使犯罪偵查及訴追職權，與法院間並無隸屬關係，原名稱易生檢察機關隸屬法院之誤解，亦與審檢分隸原則不符，配合法院組織法檢察機關名稱修正，將最高法院檢察署、臺灣高等法院檢察署、各級法院及其分院檢察署分別改稱為最高檢察署、臺灣高等檢察署、各級檢察署及其檢察分署，爰修正第五款、第六款規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "991210",
-            "立法紀錄": "99卷80期3845號一冊 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcac681cfc6c6cfc7cfcfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "行政院",
+            "會議日期": "1061222",
+            "立法紀錄": "107卷4期4528號一冊 26-26頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcfcbcfcec4cfcfcdc9c4cfcfcdc9",
+            "主提案": "蔡易餘",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc9cececfcec5cccdcfd2ccccc7"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_00019"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1000309",
-            "立法紀錄": "100卷18期3870號 352-427頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcac681cecfcfcfcec7cfcec4cfcccacdc4cfcbcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1000310",
-            "立法紀錄": "100卷18期3870號 428-448頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcac681cecfcfcfcec7cfcec4cfcbcdc7c4cfcbcbc7",
+            "會議日期": "1070312",
+            "立法紀錄": "107卷22期4546號 110-176頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcdcdcfcec4cfcececfc4cfcec8c9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1000613",
-            "立法紀錄": "100卷49期3901號三冊 1348-1373頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcac681cecfcfcfcbc6cfccc4cecccbc7c4ceccc8cc",
+            "會議日期": "1070403",
+            "立法紀錄": "107卷28期4552號二冊 66-71頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcdc7cfcdc4cfcfc9c9c4cfcfc8ce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfc8cecacfcdc5cac6cdd2c9cec9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090506:LCEWA01_090506_00155"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070417",
+            "立法紀錄": "107卷35期4559號 135-135頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcccacfcec4cfcecccac4cfceccca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070424",
+            "立法紀錄": "107卷39期4563號 311-311頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfccc6cfcec4cfcccecec4cfcccece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070501",
+            "立法紀錄": "107卷43期4567號 239-239頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcbcccfcec4cfcdccc6c4cfcdccc6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 161-162頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcbc7cfcec4cfcec9cec4cfcec9cd",
+            "關係文書": []
+        },
+        {
             "進度": "黨團協商",
-            "會議日期": "1000527",
-            "立法紀錄": "100卷49期3901號六冊 2625-2632頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcac681cecfcfcfcbc6cfc9c4cdc9cdcac4cdc9cccd",
+            "會議日期": "1070411",
+            "立法紀錄": "107卷52期4576號二冊 521-526頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcacdcfcdc4cfcacdcec4cfcacdc9",
             "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1000614",
-            "立法紀錄": "100卷49期3901號五冊 2243-2247頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcac681cecfcfcfcbc6cfcac4cdcdcbccc4cdcdcbc8",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 162-162頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcbc7cfcec4cfcec9cdc4cfcec9cd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1000614",
-            "立法紀錄": "100卷49期3901號五冊 2247-2247頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcac681cecfcfcfcbc6cfcac4cdcdcbc8c4cdcdcbc8",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 162-163頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdc9ce81cecfc8cfcbc7cfcec4cfcec9cdc4cfcec9cc",
             "關係文書": []
         }
     ]
