@@ -1,8 +1,8 @@
 {
     "title": "法醫師法",
     "versions": [
-        "中華民國104年12月11日修正",
-        "中華民國104年12月23日公布"
+        "中華民國107年5月8日修正",
+        "中華民國107年5月23日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -252,7 +252,7 @@
         {
             "note": "",
             "rule_no": "第三十七條",
-            "content": "　　未具法醫師資格，擅自執行本法規定之法醫師業務者，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以上一百五十萬元以下罰金，其所使用之器械沒收之。但有下列情形之一者，不適用之：\n　　一、合於第四條規定之實習。\n　　二、醫師、醫事檢驗師或其他專門職業及技術人員，依其專門職業法律執行業務，而涉及本法所定業務。\n　　三、行政機關及學校從事鑑定之人員，依相關法律、組織法令規定執行職務或業務，而涉及本法所定業務。",
+            "content": "　　未具法醫師資格，擅自執行本法規定之法醫師業務者，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以上一百五十萬元以下罰金。但有下列情形之一者，不適用之：\n　　一、合於第四條規定之實習。\n　　二、醫師、醫事檢驗師或其他專門職業及技術人員，依其專門職業法律執行業務，而涉及本法所定業務。\n　　三、行政機關及學校從事鑑定之人員，依相關法律、組織法令規定執行職務或業務，而涉及本法所定業務。",
             "relates": {}
         },
         {
@@ -352,95 +352,94 @@
         {
             "note": "",
             "rule_no": "第五十三條",
-            "content": "　　本法自公布後一年施行。\n　　本法中華民國九十八年十二月十五日修正之條文，自九十八年十一月二十三日施行。\n　　本法中華民國一百零一年十二月五日修正公布之條文，自一百零一年十二月二十八日施行。\n　　本法中華民國一百零四年十二月十一日修正之條文，自公布日施行。",
+            "content": "　　本法自公布後一年施行。\n　　本法修正條文，除中華民國九十八年十二月十五日修正之條文，自九十八年十一月二十三日施行；一百零一年十二月五日修正公布之條文，自一百零一年十二月二十八日施行外，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第五條": "　　一、緩刑制度，係為促使惡性輕微之被告或偶發犯、初犯改過自新而設（中華民國刑法第七十四條立法理由參照）。偶罹刑章，經法院為緩刑宣告，緩刑期滿而未經撤銷者，倘允其充任法醫師，應無影響執業品質及公益之虞。爰參照律師法第四條第一項第一款但書，修正第一項第一款但書規定，增列受緩刑之宣告，緩刑期滿而未經撤銷者，仍得充任法醫師。\n　　二、為提升鑑驗水準，以落實人權保障並維護司法公信力，罹患精神疾病或身心狀況違常經認定不能執行業務者，應不得充任法醫師，惟應採行嚴謹之認定程序，爰參考精神衛生法第二十二條、技師法第十一條第一項第四款及會計師法第六條第一項第四款之規定，修正第一項第五款。\n　　三、受監護或輔助宣告，尚未撤銷者，始不得充任法醫師，爰第一項第六款酌作文字修正。\n　　四、第二項未修正。",
-        "第九條": "　　一、原第四十九條規定，本法施行屆滿十二年起，檢驗員不得執行刑事訴訟法規定之檢驗屍體業務，惟實務依刑事訴訟法第二百十六條第二項規定由檢驗員檢驗屍體，並無窒礙難行之處，且為保障檢驗員之工作權，爰刪除第四十九條規定，並配合修正本條第一項，檢驗屍體，除本法另有規定外，由法醫師、檢驗員為之。所謂本法另有規定即指第四十八條之但書規定。\n　　二、解剖屍體原則由法醫師為之，惟配合第四十八條增訂但書規定，酌作修正，並移列至第二項，以資明確。",
-        "第四十八條": "　　一、重大災難事故往往造成重大傷亡，檢驗及解剖屍體需要大量人力，法醫師人力顯然不足以應付，為迅速弭平被害家屬之傷痛，亟需立即投入檢驗屍體人力，爰增訂但書規定，醫師於發生重大災難事故時，仍得為刑事訴訟法所定檢驗、解剖屍體業務，以符實際需要。\n　　二、離島、偏遠地區檢驗、解剖屍體案件量不多，以有限之司法資源酌給人力、配置法醫師，恐有配置失當之虞，為充分運用法醫師人力，並兼顧離島、偏遠地區檢驗、解剖屍體案件之需求，爰增訂但書，應優先遴用特約法醫師及榮譽法醫師，如人力仍有不足時，醫師得為刑事訴訟法所定檢驗、解剖屍體業務。",
-        "第四十九條": "　　一、本條刪除。\n　　二、配合第九條第一項之修正，檢驗員得執行刑事訴訟法規定之檢驗屍體業務，主管機關並持續辦理在職訓練，以期持續增進法醫知能，提升相驗品質。",
-        "第五十三條": "　　一、第一項至第三項未修正。\n　　二、增訂第四項，定明本次修正條文自公布日施行。"
+        "第三十七條": "　　一、一百零四年十二月三十日修正施行刑法施行法第十條之三第二項規定，刑法修正施行日前制定之其他法律關於沒收、追徵、追繳、抵償之規定，不再適用。該規定立法意旨在於此次刑法既已整體修正沒收規定，自應回歸刑法一體適用，一百零五年七月一日刑法沒收修正之施行日前所制定之其他法律關於沒收之規定，已無獨立存在之必要；惟經檢視仍應另為特別規定者，依刑法第十一條特別法優於普通法之原則，仍宜定明。\n　　二、依修正後刑法第三十八條第二項及第三項規定，供犯罪所用、犯罪預備之物或犯罪所生之物，屬於犯罪行為人者，得沒收之；屬於犯罪行為人以外之自然人、法人或非法人團體，而無正當理由提供或取得者，得沒收之。則原條文本文規定，未具法醫師資格，擅自執行本法規定之法醫師業務者，其所使用之器械沒收之。其沒收範圍較刑法為大，惟其所使用之器械本身不具社會危害性，其沒收不應與違禁物為相同之處理，應回歸適用刑法之規定，爰刪除「其所使用之器械沒收之」等字。",
+        "第五十三條": "　　一、定明本次修正條文之施行日期自公布日施行，並為期文字精簡，將第二項至第四項予以合併修正，列為修正條文第二項。\n　　二、第一項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010601",
-            "立法紀錄": "101卷43期3984號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c881cecfcecfcbcccfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "林岱樺",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececbcfccc5cccbc8d2cccbc6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1040605",
-            "立法紀錄": "104卷51期4250號一冊 33-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c881cecfcbcfcacecfcec4cfcfccccc4cfcfcccc",
+            "會議日期": "1050923",
+            "立法紀錄": "105卷67期4364號 131-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfcacfc9c8cfcec4cfcecccec4cfceccce",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cecac8cdc5cec9c8d2cec8c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1041110",
-            "立法紀錄": "104卷79期4278號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c881cecfcbcfc8c6cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "顏寬恒",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cfc7c8cdc5ccd2c7"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090203:LCEWA01_090203_00036_0"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1041119",
-            "立法紀錄": "104卷90期4289號 247-271頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c881cecfcbcfc6cfcfcec4cfcdcbc8c4cfcdc8ce",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1041125",
-            "立法紀錄": "104卷92期4291號 31-31,37-37,54-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c881cecfcbcfc6cdcfcec4cfcfcccec4cfcfccced9cecfcbcfc6cdcfcec4cfcfccc8c4cfcfccc8d9cecfcbcfc6cdcfcec4cfcfcacbc4cfcfc9c8",
+            "會議日期": "1070314",
+            "立法紀錄": "107卷23期4547號 140-203頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfcdcccfcec4cfcecbcfc4cfcdcfcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1041211",
-            "立法紀錄": "104卷96期4295號一冊 100-140頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c881cecfcbcfc6c9cfcec4cfcecfcfc4cfcecbcf",
+            "會議日期": "1070403",
+            "立法紀錄": "107卷28期4552號一冊 119-123頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfcdc7cfcec4cfcecec6c4cfcecdcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7ceccc8c6c5ced2cbcf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090506:LCEWA01_090506_00146"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070417",
+            "立法紀錄": "107卷35期4559號 135-135頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfcccacfcec4cfcecccac4cfceccca",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070424",
+            "立法紀錄": "107卷39期4563號 311-311頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfccc6cfcec4cfcccecec4cfcccece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070501",
+            "立法紀錄": "107卷43期4567號 238-238頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfcbcccfcec4cfcdccc7c4cfcdccc7",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 157-157頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfcbc7cfcec4cfcecac8c4cfcecac8",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1070411",
+            "立法紀錄": "107卷52期4576號二冊 521-526頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfcacdcfcdc4cfcacdcec4cfcacdc9",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1041211",
-            "立法紀錄": "104卷96期4295號一冊 140-142頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c881cecfcbcfc6c9cfcec4cfcecbcfc4cfcecbcd",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 157-158頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfcbc7cfcec4cfcecac8c4cfcecac7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1041211",
-            "立法紀錄": "104卷96期4295號一冊 142-143頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c881cecfcbcfc6c9cfcec4cfcecbcdc4cfcecbcc",
+            "會議日期": "1070508",
+            "立法紀錄": "107卷48期4572號一冊 158-158頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcfc7c781cecfc8cfcbc7cfcec4cfcecac7c4cfcecac7",
             "關係文書": []
         }
     ]
