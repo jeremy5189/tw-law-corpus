@@ -1,8 +1,8 @@
 {
     "title": "法院組織法",
     "versions": [
-        "中華民國107年5月8日修正",
-        "中華民國107年5月23日公布"
+        "中華民國107年5月22日修正",
+        "中華民國107年6月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -582,7 +582,7 @@
         {
             "note": "",
             "rule_no": "第八十三條",
-            "content": "　　各級法院及分院應定期出版公報或以其他適當方式，公開裁判書。但其他法律另有規定者，依其規定。\n　　前項公開，除自然人之姓名外，得不含自然人之身分證統一編號及其他足資識別該個人之資料。",
+            "content": "　　各級法院及分院應定期出版公報或以其他適當方式，公開裁判書。但其他法律另有規定者，依其規定。\n　　前項公開，除自然人之姓名外，得不含自然人之身分證統一編號及其他足資識別該個人之資料。\n　　高等法院以下各級法院及其分院檢察署，應於第一審裁判書公開後，公開起訴書，並準用前二項規定。",
             "relates": {}
         },
         {
@@ -839,88 +839,53 @@
         }
     ],
     "law_reasons": {
-        "第一百十四條 之二": "　　一、本條新增。\n　　二、檢察機關對應法院獨立行使犯罪偵查及訴追職權，與法院間並無隸屬關係，原名稱易生檢察機關隸屬法院之誤解，亦與審檢分隸原則不符，爰予修正，以資明確。\n　　三、本條增訂僅作為組織名稱改稱之用。\n　　四、本條修正施行後，地方法院檢察署改稱為地方檢察署，高等法院檢察署改稱為高等檢察署，高等法院分院檢察署改稱為高等檢察署檢察分署，高等法院檢察署智慧財產分署改稱為高等檢察署智慧財產檢察分署，最高法院檢察署改稱為最高檢察署，併此敘明。"
+        "第八十三條": "　　一、第一項、第二項未修正。\n　　二、刑事訴訟法課以檢察官於依偵查所得證據足認被告有犯罪嫌疑時應提起公訴之「法定性義務」，亦要求檢察官必須就於被告有利及不利之情形一律注意之「客觀性義務」。檢察官在刑事訴訟程序中所擔綱之角色，非僅僅為一造當事人，更必須居於法律守護者之角色，為刑事訴訟案件之開啟及進行把關。從而，應透過資訊之透明化，使公眾得藉由對起訴書所載犯罪事實及證據並所犯法條等事項為公開檢驗，以加強對檢察官履行法定性義務及客觀性義務之監督。\n　　三、公開起訴書係為透過資訊之透明化達到檢視檢察官起訴品質之目的，並強化社會公眾監督檢察官之職權行使。惟考量無罪推定原則及被告受公平審判之權利，爰增訂第三項，並限於第一審裁判書公開後始應公開起訴書，方能兼顧公眾利益及當事人權益，另本項起訴書包含聲請簡易判決處刑書及經法院採納為判決基礎之追加起訴書、併辦意旨書。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1061222",
-            "立法紀錄": "107卷4期4528號一冊 26-26頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcfcbcfcec4cfcfcdc9c4cfcfcdc9",
-            "主提案": "蔡易餘",
+            "會議日期": "1070413",
+            "立法紀錄": "107卷35期4559號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdccce81cecfc8cfcccacfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "司法院 行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_00020"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090508:LCEWA01_090508_00028"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1070312",
-            "立法紀錄": "107卷22期4546號 110-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcdcdcfcec4cfcececfc4cfcec8c9",
+            "會議日期": "1070507",
+            "立法紀錄": "107卷54期4578號 138-263頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdccce81cecfc8cfcacbcfcec4cfceccc7c4cfcdc9cc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1070403",
-            "立法紀錄": "107卷28期4552號二冊 55-66頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcdc7cfcdc4cfcfcacac4cfcfc9c9",
+            "會議日期": "1070522",
+            "立法紀錄": "107卷56期4580號一冊 381-385頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdccce81cecfc8cfcac9cfcec4cfccc7cec4cfccc7ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090506:LCEWA01_090506_00154"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090513:LCEWA01_090513_40029"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1070417",
-            "立法紀錄": "107卷35期4559號 135-135頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcccacfcec4cfcecccac4cfceccca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1070424",
-            "立法紀錄": "107卷39期4563號 312-312頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfccc6cfcec4cfcccecdc4cfcccecd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1070501",
-            "立法紀錄": "107卷43期4567號 239-239頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcbcccfcec4cfcdccc6c4cfcdccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1070508",
-            "立法紀錄": "107卷48期4572號一冊 163-163頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcbc7cfcec4cfcec9ccc4cfcec9cc",
-            "關係文書": []
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1070411",
-            "立法紀錄": "107卷52期4576號二冊 521-526頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcacdcfcdc4cfcacdcec4cfcacdc9",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1070508",
-            "立法紀錄": "107卷48期4572號一冊 163-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcbc7cfcec4cfcec9ccc4cfcec9ca",
+            "會議日期": "1070522",
+            "立法紀錄": "107卷56期4580號一冊 385-385頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdccce81cecfc8cfcac9cfcec4cfccc7cac4cfccc7ca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1070508",
-            "立法紀錄": "107卷48期4572號一冊 165-165頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdcccf81cecfc8cfcbc7cfcec4cfcec9cac4cfcec9ca",
+            "會議日期": "1070522",
+            "立法紀錄": "107卷56期4580號一冊 385-385頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccdccce81cecfc8cfcac9cfcec4cfccc7cac4cfccc7ca",
             "關係文書": []
         }
     ]
