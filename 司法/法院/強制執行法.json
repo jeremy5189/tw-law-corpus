@@ -1,7 +1,7 @@
 {
     "title": "強制執行法",
     "versions": [
-        "中華民國107年5月22日修正",
+        "中華民國107年5月29日修正",
         "中華民國107年6月13日公布"
     ],
     "types": [
@@ -982,7 +982,7 @@
         {
             "note": "(禁止執行之債權)",
             "rule_no": "第一百二十二條",
-            "content": "　　債務人依法領取之社會福利津貼、社會救助或補助，不得為強制執行。\n　　債務人依法領取之社會保險給付或其對於第三人之債權，係維持債務人及其共同生活之親屬生活所必需者，不得為強制執行。",
+            "content": "　　債務人依法領取之社會福利津貼、社會救助或補助，不得為強制執行。\n　　債務人依法領取之社會保險給付或其對於第三人之債權，係維持債務人及其共同生活之親屬生活所必需者，不得為強制執行。\n　　債務人生活所必需，以最近一年衛生福利部或直轄市政府所公告當地區每人每月最低生活費一點二倍計算其數額，並應斟酌債務人之其他財產。\n　　債務人共同生活親屬生活所必需，準用前項計算基準，並按債務人依法應負擔扶養義務之比例定其數額。\n　　執行法院斟酌債務人與債權人生活狀況及其他情事，認有失公平者，不受前三項規定之限制。但應酌留債務人及其扶養之共同生活親屬生活費用。",
             "relates": {}
         },
         {
@@ -1169,87 +1169,66 @@
         }
     ],
     "law_reasons": {
-        "第六十五條": "　　一、以法院網站之電子公告取代刊登新聞紙。\n　　二、原條文後段「並得登載於公報或新聞紙，如當地有其他習慣者，並得依其習慣方法公告之。」文字修正為「並得公告於法院網站；法院認為必要時，得命登載於公報或新聞紙。」。",
-        "第八十四條": "　　一、以法院網站之電子公告取代刊登新聞紙。\n　　二、原條文第一項後段「，如當地有其他習慣者，並得依其習慣方法公告之」刪除。\n　　三、原條文第二項「拍賣公告，如當地有公報或新聞紙者，並應登載，但不動產價值過低者，得不予登載。」文字修正為「拍賣公告，應公告於法院網站；法院認為必要時，得命登載於公報或新聞紙。」。",
-        "第一百四十二條": "　　一、原條文第一項未修正。\n　　二、為配合第六十五條及第八十四條之修正，明定本次修正條文施行之日期，爰增訂第二項。"
+        "第一百二十二條": "　　一、增訂第三項至第五項。\n　　二、第二項所稱債務人及其共同生活親屬生活所必需數額，其計算標準易生爭議，爰參考衛生福利部、直轄市政府依社會救助法第四條第二項所定最低生活費，所得未逾之者，可獲扶助或補助；逾之未滿一點五倍者，亦視個案情況可獲補助之制度，增訂第三項，明定以最近一年當地區每人每月最低生活費一點二倍為計算債務人及其共同生活親屬生活所必需之標準。惟仍應斟酌債務人其他財產，以免重複保留生活所必需，損及債權人債權實現。\n　　三、債務人共同生活親屬生活所必需，與債務人初無二致，應準用第三項計算基準（含斟酌債務人及其共同生活親屬有無其他財產）。惟應以債務人負扶養義務為度，倘扶養義務人有數人，以債務人依法應負擔之比例為限，爰增訂第四項。\n　　四、債務人及其扶養之共同生活親屬生活所必需之費用，逾第三項、第四項之數額，亦應予維持；若債權人仰賴債權實現以維持生活（例如：債權人法定扶養權利受侵害），或依債權發生之原因或情節（例如：債務人故意犯罪損害債權人身體、健康或勞動能力），僅保護債務人一方，則有失公平，均應由執行法院斟酌債務人及債權人生活狀況及其他情形，酌留債務人及其共同生活親屬生活所必需之適當費用，為衡平之處理，不受第二項至第四項規定之限制，爰增訂第五項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050923",
-            "立法紀錄": "105卷67期4364號 129-129頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfcacfc9c8cfcec4cfcecdc6c4cfcecdc6",
-            "主提案": "鄭運鵬",
+            "會議日期": "1060414",
+            "立法紀錄": "106卷37期4439號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccc881cecfc9cfccc8cfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "吳玉琴",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090203:LCEWA01_090203_00021"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090309:LCEWA01_090309_00059"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1060217",
-            "立法紀錄": "106卷17期4419號一冊 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc9cfcec8cfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "鄭運鵬",
+            "會議日期": "1061208",
+            "立法紀錄": "106卷116期4518號一冊 24-24頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccc881cecfc9cecec9cfcec4cfcfcdcbc4cfcfcdcb",
+            "主提案": "曾銘宗",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090301:LCEWA01_090301_00036"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090412:LCEWA01_090412_00022"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1061123",
-            "立法紀錄": "106卷115期4517號 4-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc9cececacfcec4cfcfcfcbc4cfcfcacc",
+            "會議日期": "1070516",
+            "立法紀錄": "107卷63期4587號 2-58頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccc881cecfc8cfc9cccfcec4cfcfcfcdc4cfcfcac7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1061222",
-            "立法紀錄": "107卷4期4528號一冊 189-195頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfcfcbcfcec4cfcec7c6c4cfcec6ca",
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號一冊 188-205頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccc881cecfc8cfc9cdcfcec4cfcec7c7c4cfcdcfca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_40020"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090514:LCEWA01_090514_01248"
                 ]
             ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1070515",
-            "立法紀錄": "107卷52期4576號二冊 327-328頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfcacdcfcdc4cfcccdc8c4cfcccdc7",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_40019"
-                ]
-            ]
-        },
-        {
-            "進度": "黨團協商",
-            "會議日期": "1070424",
-            "立法紀錄": "107卷60期4584號 353-368頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfc9cfcfcec4cfcccaccc4cfccc9c7",
-            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1070522",
-            "立法紀錄": "107卷56期4580號一冊 533-533頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfcac9cfcec4cfcaccccc4cfcacccc",
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號一冊 205-205頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccc881cecfc8cfc9cdcfcec4cfcdcfcac4cfcdcfca",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1070522",
-            "立法紀錄": "107卷56期4580號一冊 533-534頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfcac9cfcec4cfcaccccc4cfcacccb",
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號一冊 205-207頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccc881cecfc8cfc9cdcfcec4cfcdcfcac4cfcdcfc8",
             "關係文書": []
         }
     ]
