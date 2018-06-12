@@ -1,8 +1,8 @@
 {
     "title": "道路交通管理處罰條例",
     "versions": [
-        "中華民國107年5月8日修正",
-        "中華民國107年5月23日公布"
+        "中華民國107年5月29日修正",
+        "中華民國107年6月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -476,7 +476,7 @@
         {
             "note": "",
             "rule_no": "第六十一條",
-            "content": "　　汽車駕駛人，駕駛汽車有下列情形之一者，吊銷其駕駛執照：\n　　一、利用汽車犯罪，經判決有期徒刑以上之刑確定。\n　　二、抗拒執行交通勤務之警察或依法令執行交通稽查人員之稽查，因而引起傷害或死亡。\n　　三、撞傷正執行交通勤務中之警察。\n　　四、違反道路交通安全規則、第三十三條之管制規則，因而肇事致人死亡。\n　　汽車駕駛人，駕駛汽車有前項第二款、第三款情形之一者，並處新臺幣三萬元以上六萬元以下罰鍰。\n　　汽車駕駛人，駕駛汽車違反道路交通安全規則、第三十三條之管制規則，因而肇事致人受傷者，記違規點數三點；致人重傷者，吊扣其駕駛執照三個月至六個月。\n　　第一項第一款情形，在判決確定前，得視情形暫扣其駕駛執照，禁止其駕駛。",
+            "content": "　　汽車駕駛人，駕駛汽車有下列情形之一者，吊銷其駕駛執照：\n　　一、利用汽車犯罪，經判決有期徒刑以上之刑確定。\n　　二、抗拒執行交通勤務之警察或依法令執行交通稽查人員之稽查或有第六十條第一項之情形，因而引起傷害或死亡。\n　　三、撞傷正在執行勤務中之警察或依法令執行指揮交通及交通稽查任務人員。\n　　四、違反道路交通安全規則、第三十三條之管制規則，因而肇事致人死亡。\n　　汽車駕駛人，駕駛汽車有前項第二款、第三款情形之一者，並處新臺幣九萬元以上十五萬元以下罰鍰及施以道路交通安全講習；汽車駕駛人於五年內違反前項第二款、第三款規定二次以上者，並處新臺幣十五萬元罰鍰及施以道路交通安全講習。\n　　汽車駕駛人，駕駛汽車違反道路交通安全規則、第三十三條之管制規則，因而肇事致人受傷者，記違規點數三點；致人重傷者，吊扣其駕駛執照三個月至六個月。\n　　第一項第一款情形，在判決確定前，得視情形暫扣其駕駛執照，禁止其駕駛。",
             "relates": {}
         },
         {
@@ -488,7 +488,7 @@
         {
             "note": "",
             "rule_no": "第六十三條",
-            "content": "　　汽車駕駛人有下列各款所列條款之一者，除依原條款處罰鍰外，並予記點：\n　　一、有第三十三條第一項、第二項、第三十八條第一項、第四十條、第四十五條、第四十七條第一款至第三款、第四十八條、第四十九條或第六十條第一項、第二項第一款、第二款情形之一者，各記違規點數一點。\n　　二、有第二十九條第一項第一款至第四款、第二十九條之二第一項、第二項、第四項、第三十條第一項第一款、第二款情形之一者，各記違規點數二點。\n　　三、有第四十三條、第五十三條、第五十三條之一或第五十四條情形之一者，各記違規點數三點。\n　　依前項各條款，已受吊扣或吊銷駕駛執照處分者，不予記點。\n　　汽車駕駛人在六個月內，違規記點共達六點以上者，吊扣駕駛執照一個月；一年內經吊扣駕駛執照二次，再違反第一項各款所列條款之一者，吊銷其駕駛執照。",
+            "content": "　　汽車駕駛人有下列各款所列條款之一者，除依原條款處罰鍰外，並予記點：\n　　一、有第三十三條第一項、第二項、第三十八條第一項、第四十條、第四十五條、第四十七條第一款至第三款、第四十八條、第四十九條或第六十條第二項第一款、第二款情形之一者，各記違規點數一點。\n　　二、有第二十九條第一項第一款至第四款、第二十九條之二第一項、第二項、第四項、第三十條第一項第一款、第二款情形之一者，各記違規點數二點。\n　　三、有第四十三條、第五十三條或第五十三條之一情形之一者，各記違規點數三點。\n　　依前項各條款，已受吊扣或吊銷駕駛執照處分者，不予記點。\n　　汽車駕駛人在六個月內，違規記點共達六點以上者，吊扣駕駛執照一個月；一年內經吊扣駕駛執照二次，再違反第一項各款所列條款之一者，吊銷其駕駛執照。",
             "relates": {}
         },
         {
@@ -773,105 +773,124 @@
         }
     ],
     "law_reasons": {
-        "第六十條": "　　一、第一項修正為：「汽車駕駛人，駕駛汽車有違反本條例之行為，經交通勤務警察或依法令執行交通稽查任務人員制止時，不聽制止或拒絕停車接受稽查而逃逸者，除按各該條規定處罰外，處新臺幣一萬元以上三萬元以下罰鍰，並吊扣其駕駛執照六個月; 汽車駕駛人於五年內違反本項規定二次以上者，處新臺幣三萬元罰鍰，並吊扣其駕駛執照一年。」。\n　　二、其餘維持原法條文未修正。"
+        "第六十一條": "　　一、依委員所提修正動議，並經修正通過。\n　　二、原條文第三項及第四項未修正。\n　　三、對於抗拒執行交通勤務之警察或依法令執行交通稽查人員之稽查，因而引起傷害或死亡或撞傷執勤人員提高罰則。",
+        "第六十三條": "　　依委員提案，並經修正：\n　　一、第一項修正為：「汽車駕駛人有下列各款所列條款之一者，除依原條款處罰鍰外，並予記點：\n　　　（一）、有第三十三條第一項、第二項、第三十八條第一項、第四十條、第四十五條、第四十七條第一款至第三款、第四十八條、第四十九條或第六十條第二項第一款、第二款情形之一者，各記違規點數一點。\n　　　（二）、有第二十九條第一項第一款至第四款、第二十九條之二第一項、第二項、第四項、第三十條第一項第一款、第二款情形之一者，各記違規點數二點。\n　　　（三）、有第四十三條、第五十三條或第五十三條之一情形之一者，各記違規點數三點。」。\n　　二、其餘維持原法條文未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1061006",
-            "立法紀錄": "106卷76期4478號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc9cfc8c9cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "賴瑞隆",
+            "會議日期": "1051125",
+            "立法紀錄": "105卷92期4389號 37-37頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfcacfc6cdcfcec4cfcfccc8c4cfcfccc8",
+            "主提案": "顏寬恒",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090403:LCEWA01_090403_00014"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090212:LCEWA01_090212_10108"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1051209",
+            "立法紀錄": "105卷100期4397號一冊 34-34頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfcacecfcfcfcec4cfcfcccbc4cfcfcccb",
+            "主提案": "林麗蟬",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090214:LCEWA01_090214_00047"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1060324",
+            "立法紀錄": "106卷27期4429號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfc9cfcdc8cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "王惠美",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090306:LCEWA01_090306_00014"
                 ]
             ]
         },
         {
             "進度": "一讀",
             "會議日期": "1061013",
-            "立法紀錄": "106卷77期4479號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc9cfc8c8cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "羅致政",
+            "立法紀錄": "106卷77期4479號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfc9cfc8c8cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "林俊憲",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090404:LCEWA01_090404_00015"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090404:LCEWA01_090404_00021"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1061020",
-            "立法紀錄": "106卷82期4484號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc9cfc7cdcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "許毓仁",
+            "會議日期": "1070427",
+            "立法紀錄": "107卷43期4567號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfc8cfcbcccfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "徐榛蔚",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090405:LCEWA01_090405_00017"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090510:LCEWA01_090510_00056"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1061222",
-            "立法紀錄": "107卷4期4528號一冊 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc8cfcfcbcfcec4cfcfcdcbc4cfcfcdcb",
-            "主提案": "楊鎮浯",
+            "會議日期": "1070427",
+            "立法紀錄": "107卷43期4567號 8-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfc8cfcbcccfcec4cfcfcfc7c4cfcfcfc6",
+            "主提案": "張廖萬堅",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_10316"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1070410",
-            "立法紀錄": "107卷32期4556號一冊 15-15頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc8cfcccdcfcec4cfcfcecac4cfcfceca",
-            "主提案": "盧秀燕",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090506:LCEWA01_090506_00037"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090509:LCEWA01_090509_00011"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1070418",
-            "立法紀錄": "107卷42期4566號 365-425頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc8cfcbcdcfcec4cfccc9cac4cfcbcdca",
+            "會議日期": "1070514",
+            "立法紀錄": "107卷60期4584號 129-209頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfc8cfc9cfcfcec4cfcecdc6c4cfcdcfc6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1070508",
-            "立法紀錄": "107卷48期4572號一冊 112-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc8cfcbc7cfcec4cfcececdc4cfcecdcc",
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號四冊 1-27頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfc8cfc9cdcfcbc4cfcfcfcec4cfcfcdc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090511:LCEWA01_090511_00161"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090514:LCEWA01_090514_40027_1"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1070508",
-            "立法紀錄": "107卷48期4572號一冊 123-123頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc8cfcbc7cfcec4cfcecdccc4cfcecdcc",
-            "關係文書": []
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號四冊 27-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfc8cfc9cdcfcbc4cfcfcdc8c4cfcfcdc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090514:LCEWA01_090514_40027_2"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1070508",
-            "立法紀錄": "107卷48期4572號一冊 123-124頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbcb81cecfc8cfcbc7cfcec4cfcecdccc4cfcecdcb",
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號四冊 28-28頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc8cbc981cecfc8cfc9cdcfcbc4cfcfcdc7c4cfcfcdc7",
             "關係文書": []
         }
     ]
