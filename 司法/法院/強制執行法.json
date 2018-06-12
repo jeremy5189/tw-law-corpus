@@ -1,8 +1,8 @@
 {
     "title": "強制執行法",
     "versions": [
-        "中華民國103年5月20日修正",
-        "中華民國103年6月4日公布"
+        "中華民國107年5月22日修正",
+        "中華民國107年6月13日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -560,9 +560,9 @@
             "relates": {}
         },
         {
-            "note": "(公告之方法)",
+            "note": "(拍賣公告之方法)",
             "rule_no": "第六十五條",
-            "content": "　　拍賣公告，應揭示於執行法院及動產所在地之鄉鎮市（區）公所或拍賣場所，如認為必要或因債權人或債務人之聲請，並得登載於公報或新聞紙，如當地有其他習慣者，並得依其習慣方法公告之。",
+            "content": "　　拍賣公告，應揭示於執行法院及動產所在地之鄉鎮市（區）公所或拍賣場所，如認為必要或因債權人或債務人之聲請，並得公告於法院網站；法院認為必要時，得命登載於公報或新聞紙。",
             "relates": {}
         },
         {
@@ -702,9 +702,9 @@
             "relates": {}
         },
         {
-            "note": "(公告之方法)",
+            "note": "(拍賣公告之方法)",
             "rule_no": "第八十四條",
-            "content": "　　拍賣公告，應揭示於執行法院及不動產所在地或其所在地之鄉鎮市（區）公所，如當地有其他習慣者，並得依其習慣方法公告之。\n　　拍賣公告，如當地有公報或新聞紙者，並應登載，但不動產價值過低者，得不予登載。",
+            "content": "　　拍賣公告，應揭示於執行法院及不動產所在地或其所在地之鄉鎮市（區）公所。\n　　拍賣公告，應公告於法院網站；法院認為必要時，得命登載於公報或新聞紙。",
             "relates": {}
         },
         {
@@ -1164,113 +1164,92 @@
         {
             "note": "(施行日)",
             "rule_no": "第一百四十二條",
-            "content": "　　本法自公布日起施行。",
+            "content": "　　本法自公布日起施行。\n　　中華民國一百零七年五月二十二日修正之條文，自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條": "　　強制執行程序攸關債權人、債務人及其他利害關係人之權益，故執行行為應公平合理兼顧渠等權益，以適當方法為之，不得逾必要限度，並符合比例原則，爰增訂第二項。",
-        "第七十七條": "　　一、為使拍賣之不動產相關資訊充分揭露，以保障應買人權益，執行人員於實施查封時，就海砂屋、輻射屋、地震受創、嚴重漏水、火災受損、建物內有非自然死亡或其他足以影響交易之特殊情事，應現場調查，並將調查所得資料記載於查封筆錄，俾利於拍賣公告載明，促使應買人注意，爰修正原條文第一項第二款；第一項序文並酌作文字修正，將\"左列\"修正為\"下列\"。\n　　二、原條文第二項未修正。",
-        "第七十七條 之一": "　　一、為使拍賣之不動產相關資訊充分揭露，以保障應買人權益，執行法官或書記官調查前條第一項第二款情事之不動產相關資訊，宜包括足以影響交易之特殊情事，例如海砂屋、輻射屋、地震受創、嚴重漏水、火災受損、建物內有非自然死亡等，以期周延，爰將原條文第一項有關執行法官或書記官調查事項，修正後列為序文，並將調查方法移列為第一款。又為強化執行法院之調查權，明定得向警察及其他有關機關、團體調查，受調查者不得拒絕，爰增訂第二款。\n　　二、原條文第二項、第三項未修正。",
-        "第八十一條": "　　一、原條文第一項未修正。\n　　二、拍賣之不動產經調查有強制執行法第七十七條、第七十七條之一規定之海砂屋、輻射屋、地震受創、嚴重漏水、火災受損、建物內有非自然死亡或其他足以影響交易之特殊情事，亦應載明於拍賣公告，俾使應買人知悉，以利其決定是否應買或願出之價額，爰修正原條文第二項第一款；第二項序文並酌作文字修正，將\"左列\"修正為\"下列\"。"
+        "第六十五條": "　　一、以法院網站之電子公告取代刊登新聞紙。\n　　二、原條文後段「並得登載於公報或新聞紙，如當地有其他習慣者，並得依其習慣方法公告之。」文字修正為「並得公告於法院網站；法院認為必要時，得命登載於公報或新聞紙。」。",
+        "第八十四條": "　　一、以法院網站之電子公告取代刊登新聞紙。\n　　二、原條文第一項後段「，如當地有其他習慣者，並得依其習慣方法公告之」刪除。\n　　三、原條文第二項「拍賣公告，如當地有公報或新聞紙者，並應登載，但不動產價值過低者，得不予登載。」文字修正為「拍賣公告，應公告於法院網站；法院認為必要時，得命登載於公報或新聞紙。」。",
+        "第一百四十二條": "　　一、原條文第一項未修正。\n　　二、為配合第六十五條及第八十四條之修正，明定本次修正條文施行之日期，爰增訂第二項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1010309",
-            "立法紀錄": "101卷4期3945號 7-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcecfcfcbcfcec4cfcfcfc8c4cfcfcfc8",
-            "主提案": "賴士葆",
+            "會議日期": "1050923",
+            "立法紀錄": "105卷67期4364號 129-129頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfcacfc9c8cfcec4cfcecdc6c4cfcecdc6",
+            "主提案": "鄭運鵬",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcec5cdcbc8d2cdcbc6"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090203:LCEWA01_090203_00021"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1010309",
-            "立法紀錄": "101卷4期3945號 8-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcecfcfcbcfcec4cfcfcfc7c4cfcfcfc7",
-            "主提案": "賴士葆",
+            "會議日期": "1060217",
+            "立法紀錄": "106卷17期4419號一冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc9cfcec8cfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "鄭運鵬",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcccfcec5cdcaced2cdcacb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010323",
-            "立法紀錄": "101卷10期3951號 8-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcecfcecfcfcec4cfcfcfc7c4cfcfcfc6",
-            "主提案": "蕭美琴",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcacfcec5cccdc6d2cccccf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1021206",
-            "立法紀錄": "102卷77期4102號一冊 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcdcfc8c8cfcec4cfcfcdcbc4cfcfcdcb",
-            "主提案": "陳亭妃",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbceccc8cdc5cdcbcad2cdcacf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1021213",
-            "立法紀錄": "102卷80期4105號 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcdcfc7cfcfcec4cfcfcecfc4cfcfcecf",
-            "主提案": "丁守中",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecbc8cdc5cdcec8d2cdcdcf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090301:LCEWA01_090301_00036"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1030424",
-            "立法紀錄": "103卷32期4141號 39-71頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcccfcccdcfcec4cfcfccc6c4cfcfc8ce",
+            "會議日期": "1061123",
+            "立法紀錄": "106卷115期4517號 4-53頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc9cececacfcec4cfcfcfcbc4cfcfcacc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號三冊 51-76頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcccfccc8cfccc4cfcfcacec4cfcfc8c9",
+            "會議日期": "1061222",
+            "立法紀錄": "107卷4期4528號一冊 189-195頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfcfcbcfcec4cfcec7c6c4cfcec6ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6cfcac5c6cdd2cecec7"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_40020"
                 ]
             ]
         },
         {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1070515",
+            "立法紀錄": "107卷52期4576號二冊 327-328頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfcacdcfcdc4cfcccdc8c4cfcccdc7",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090414:LCEWA01_090414_40019"
+                ]
+            ]
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1070424",
+            "立法紀錄": "107卷60期4584號 353-368頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfc9cfcfcec4cfcccaccc4cfccc9c7",
+            "關係文書": []
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號三冊 76-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcccfccc8cfccc4cfcfc8c9c4cfcfc8c8",
+            "會議日期": "1070522",
+            "立法紀錄": "107卷56期4580號一冊 533-533頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfcac9cfcec4cfcaccccc4cfcacccc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號三冊 77-77頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9cccc81cecfcccfccc8cfccc4cfcfc8c8c4cfcfc8c8",
+            "會議日期": "1070522",
+            "立法紀錄": "107卷56期4580號一冊 533-534頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8c9ccca81cecfc8cfcac9cfcec4cfcaccccc4cfcacccb",
             "關係文書": []
         }
     ]
