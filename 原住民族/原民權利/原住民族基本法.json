@@ -1,8 +1,8 @@
 {
     "title": "原住民族基本法",
     "versions": [
-        "中華民國104年12月1日修正",
-        "中華民國104年12月16日公布"
+        "中華民國107年5月29日修正",
+        "中華民國107年6月20日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -67,7 +67,17 @@
             "note": "(語言發展之推動)",
             "rule_no": "第九條",
             "content": "　　政府應設置原住民語言研究發展專責單位，並辦理族語能力驗證制度，積極推動原住民族語言發展。\n　　政府提供原住民族優惠措施或辦理原住民族公務人員特種考試，得於相關法令規定受益人或應考人應通過前項之驗證或具備原住民族語言能力。\n　　原住民族語言發展，另以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01211",
+                        "law_name": "原住民族語言發展法",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(文化保存與維護)",
@@ -91,7 +101,17 @@
             "note": "(保護原住民族傳統之生物多樣性知識及智慧創作)",
             "rule_no": "第十三條",
             "content": "　　政府對原住民族傳統之生物多樣性知識及智慧創作，應予保護，並促進其發展；其相關事項，另以法律定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "05128",
+                        "law_name": "原住民族傳統智慧創作保護條例",
+                        "numbers": [
+                            "第一條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(原住民族經濟政策之訂定)",
@@ -118,16 +138,26 @@
             "relates": {}
         },
         {
-            "note": "(綜合發展基金之設置)",
+            "note": "(原住民族綜合發展基金之設置)",
             "rule_no": "第十八條",
-            "content": "　　政府應設原住民族綜合發展基金，辦理原住民族經濟發展業務及輔導事業機構；其基金來源，由中央政府循預算程序之撥款、原住民族土地賠償、補償及收益款、相關法令規定之撥款及其他收入等充之。",
+            "content": "　　政府應設原住民族綜合發展基金，辦理原住民族經濟發展業務、輔導事業機構、住宅之興辦、租售、建購及修繕業務；其基金來源，由中央政府循預算程序之撥款、住宅租售及相關業務收益款、原住民族土地賠償、補償及收益款、相關法令規定之撥款及其他收入等充之。",
             "relates": {}
         },
         {
-            "note": "(原住民在原住民族地區依法從事之非營利行為)",
+            "note": "(原住民得在原住民族地區及經主管機關公告之海域依法從事之非營利行為)",
             "rule_no": "第十九條",
-            "content": "　　原住民得在原住民族地區依法從事下列非營利行為：\n　　一、獵捕野生動物。\n　　二、採集野生植物及菌類。\n　　三、採取礦物、土石。\n　　四、利用水資源。\n　　前項各款，以傳統文化、祭儀或自用為限。",
-            "relates": {}
+            "content": "　　原住民得在原住民族地區及經中央原住民族主管機關公告之海域依法從事下列非營利行為：\n　　一、獵捕野生動物。\n　　二、採集野生植物及菌類。\n　　三、採取礦物、土石。\n　　四、利用水資源。\n　　前項海域應由中央原住民族主管機關會商中央目的事業主管機關同意後公告。\n　　第一項各款，以傳統文化、祭儀或自用為限。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01941",
+                        "law_name": "水利法",
+                        "numbers": [
+                            "第四十二條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(土地調查及處理委員會之設置)",
@@ -139,7 +169,32 @@
             "note": "(政府或私人於原住民族土地或部落開發利用，應諮詢並取得其同意或參與)",
             "rule_no": "第二十一條",
             "content": "　　政府或私人於原住民族土地或部落及其周邊一定範圍內之公有土地從事土地開發、資源利用、生態保育及學術研究，應諮商並取得原住民族或部落同意或參與，原住民得分享相關利益。\n　　政府或法令限制原住民族利用前項土地及自然資源時，應與原住民族、部落或原住民諮商，並取得其同意；受限制所生之損失，應由該主管機關寬列預算補償之。\n　　前二項營利所得，應提撥一定比例納入原住民族綜合發展基金，作為回饋或補償經費。\n　　前三項有關原住民族土地或部落及其周邊一定範圍內之公有土地之劃設、諮商及取得原住民族或部落之同意或參與方式、受限制所生損失之補償辦法，由中央原住民族主管機關另定之。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01254",
+                        "law_name": "國土計畫法",
+                        "numbers": [
+                            "第十一條",
+                            "第二十三條"
+                        ]
+                    },
+                    {
+                        "law_no": "01941",
+                        "law_name": "水利法",
+                        "numbers": [
+                            "第八十三條之四"
+                        ]
+                    },
+                    {
+                        "law_no": "08101",
+                        "law_name": "再生能源發展條例",
+                        "numbers": [
+                            "第十四條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(原住民族地區資源共同管理機制之建立)",
@@ -227,60 +282,86 @@
         }
     ],
     "law_reasons": {
-        "第二條 之一": "　　一、本條新增。\n　　二、原住民族之部落為各族傳統社會、政治、經濟及文化之基礎，而部落又以部落傳統領袖為部落中心，但政府卻未將部落納入地方自治制度內，加上經濟及社會型態轉變等多項因素影響，導致原住民族的部落組織及部落傳統領袖地位受到嚴重衝擊。\n　　三、查「原住民族基本法」第二條第四款已就「部落」予以定義，而「原住民族傳統智慧創作保護條例」第六條、第七條及第十四條亦明定部落得為原住民族傳統智慧創作之申請人，以取得智慧創作專用權及智慧創作收入。惟「原住民族基本法」並未就部落之法律地位及其權利義務予以規範，宜應就此立法疏漏予以補正。\n　　四、由於部落係「原住民族基本法」第四條實行原住民族自治之重要基礎，為因應原住民族自治之需，及為因應「原住民族傳統智慧創作保護條例」明定部落得為原住民族傳統智慧創作之申請人及取得智慧創作專用權之需，更為健全及傳承原住民族固有傳統的部落社會制度，維護原住民族部落的傳統組織，回復部落傳統領袖的尊崇地位及功能，爰新增本條規定，以法律明定原住民族之部落及部落傳統領袖之法律地位。"
+        "第十八條": "　　原住民族綜合發展基金目前主要任務係提供原住民從事發展經濟事業、建購及修繕住宅貸款信用保證之融資，以協助改善原住民族生活。惟近年來，經濟環境變遷甚大，除現行經濟事業需繼續輔導之外，尚有推動政府興辦或獎勵民間興辦原住民族住宅，以協助其居住之需要，為協助籌措其所需財源，爰增列住宅之興辦、出租、出售、建購及修繕業務為基金辦理業務；並明定興辦住宅之出租、出售所得收益款為基金收入來源。",
+        "第十九條": "　　一、原住民基本法第十九條制定之初，因未考量到以海洋文化為主的阿美族與達悟族，保障範圍僅限於原住民鄉政之行政轄區範圍而未含括部落傳統生活海域，致使以海為生的阿美族人及達悟族人在進行傳統海祭時屢遭海巡署驅離或者取締，迫使延續千百年的漁獵文化面臨滅絕危機。\n　　二、為保障原住民族傳統海洋漁撈文化，增修原住民得在經中央原住民主管機關公告之海域從事非營利行為，其相關辦法由中央原住民族主管機關會商中央目的事業主管機關定之。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1040417",
-            "立法紀錄": "104卷29期4228號 2-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7ca81cecfcbcfcdc6cfcec4cfcfcfcdc4cfcfcfcc",
+            "會議日期": "1050226",
+            "立法紀錄": "105卷2期4299號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7c981cecfcacfcfcdcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "鄭天財",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc8cfc7c8cdc5caccd2cac9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090102:LCEWA01_090102_00010"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1050318",
+            "立法紀錄": "105卷6期4303號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7c981cecfcacfcfc9cfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "廖國棟",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090105:LCEWA01_090105_00033"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1041021",
-            "立法紀錄": "104卷73期4272號 271-271,277-352,399-399頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7ca81cecfcbcfc8cccfcec4cfcdc8cec4cfcdc8ced9cecfcbcfc8cccfcec4cfcdc8c8c4cfcccacdd9cecfcbcfc8cccfcec4cfccc6c6c4cfccc6c6",
+            "會議日期": "1050421",
+            "立法紀錄": "105卷29期4326號 81-126頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7c981cecfcacfcdc6cfcec4cfcfc7cec4cfcecdc9",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1041116",
-            "立法紀錄": "104卷88期4287號 1-1,21-31,51-53頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7ca81cecfcbcfc7c7cfcec4cfcfcfcec4cfcfcfced9cecfcbcfc7c7cfcec4cfcfcdcec4cfcfccced9cecfcbcfc7c7cfcec4cfcfcacec4cfcfcacc",
+            "會議日期": "1061123",
+            "立法紀錄": "106卷113期4515號三冊 53-80頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7c981cecfc9cececccfccc4cfcfcaccc4cfcfc7cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1041201",
-            "立法紀錄": "104卷89期4288號一冊 465-470頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7ca81cecfcbcfc7c6cfcec4cfcbc9cac4cfcbc8cf",
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號四冊 104-107,108-111頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7c981cecfc8cfc9cdcfcbc4cfcecfcbc4cfcecfc8d9cecfc8cfc9cdcfcbc4cfcecfc7c4cfcecece",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc7cecec8c6c5cecaced2cecac9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090514:LCEWA01_090514_40034"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "1041201",
-            "立法紀錄": "104卷89期4288號一冊 470-470頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7ca81cecfcbcfc7c6cfcec4cfcbc8cfc4cfcbc8cf",
+            "進度": "黨團協商",
+            "會議日期": "1061206",
+            "立法紀錄": "107卷65期4589號 371-386頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7c981cecfc8cfc9cacfcec4cfccc8cec4cfccc7c9",
             "關係文書": []
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號四冊 107-107,111-111頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7c981cecfc8cfc9cdcfcbc4cfcecfc8c4cfcecfc8d9cecfc8cfc9cdcfcbc4cfcececec4cfcecece",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090514:LCEWA01_090514_40035"
+                ]
+            ]
+        },
+        {
             "進度": "三讀",
-            "會議日期": "1041201",
-            "立法紀錄": "104卷89期4288號一冊 470-470頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7ca81cecfcbcfc7c6cfcec4cfcbc8cfc4cfcbc8cf",
+            "會議日期": "1070529",
+            "立法紀錄": "107卷62期4586號四冊 107-108,111-112頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cdcccec7c8c7c981cecfc8cfc9cdcfcbc4cfcecfc8c4cfcecfc7d9cecfc8cfc9cdcfcbc4cfcececec4cfcececd",
             "關係文書": []
         }
     ]
