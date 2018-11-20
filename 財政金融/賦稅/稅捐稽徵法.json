@@ -1,8 +1,8 @@
 {
     "title": "稅捐稽徵法",
     "versions": [
-        "中華民國106年5月26日修正",
-        "中華民國106年6月14日公布"
+        "中華民國107年11月6日修正",
+        "中華民國107年11月21日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -100,41 +100,41 @@
         {
             "note": "",
             "rule_no": "第十一條 之二",
-            "content": "　　依本法或稅法規定應辦理之事項及應提出之文件，得以電磁紀錄或電子傳輸方式辦理或提出；其實施辦法，由財政部訂之。",
+            "content": "　　依本法或稅法規定應辦理之事項及應提出之文件，得以電磁紀錄或電子傳輸方式辦理或提出；其實施辦法，由財政部訂之。\n　　財政部應配合國家政策積極獎勵或輔導納稅義務人使用電子支付，以維護政府稅基、增加稅收，並達租稅公平。",
             "relates": {}
         },
         {
             "note": "",
-            "section_name": "第一章之一 納稅義務人權利之保護"
+            "section_name": "第一章之一 （刪除）"
         },
         {
             "note": "",
             "rule_no": "第十一條 之三",
-            "content": "　　財政部依本法或稅法所發布之法規命令及行政規則，不得增加或減免納稅義務人法定之納稅義務。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條 之四",
-            "content": "　　稅法或其他法律為特定政策所規定之租稅優惠，應明定實施年限並以達成合理之政策目的為限，不得過度。\n　　前項租稅優惠之擬訂，應經稅式支出評估。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條 之五",
-            "content": "　　稅捐稽徵機關或財政部賦稅署指定之調查人員，於進行調查前，除通知調查將影響稽徵或調查目的者外，應以書面通知被調查者調查或備詢之事由及範圍。被調查者如委任代理人，該代理人應於接受調查或備詢時，出具委任書。\n　　被調查者或其代理人經稅捐稽徵機關或財政部賦稅署之許可，得偕同輔佐人到場接受調查或備詢。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條 之六",
-            "content": "　　稅捐稽徵機關故意以不正當方法取得之自白且與事實不相符者，不得作為課稅或處罰之證據。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十一條 之七",
-            "content": "　　稅捐稽徵機關應設置適當場所，聆聽陳情或解答納稅義務人問題。",
+            "content": "　　（刪除）",
             "relates": {}
         },
         {
@@ -499,74 +499,71 @@
         }
     ],
     "law_reasons": {
-        "第五條 之一": "　　一、本條新增。\n　　二、照協商條文通過。",
-        "第四十六條 之一": "　　一、本條新增。\n　　二、照協商條文通過。"
+        "第十一條 之二": "一、本條新增第二項。\n二、發展電子支付為國際趨勢，我國目前電子支付占個人消費支出之比率為28%，觀察鄰近國家如韓國為77%、香港為64%、中國為56%、新加坡為53%，均遠低於鄰近國家，政府機關應將推動電子支付為重要工作要點。有關推動電子支付之最大效益為驅動地下經濟檯面化，預估一年得增加1,080億元營業稅，可作為長照或社會福利之主要財源。為加速電子支付發展，爰於第二項明定財政部應配合國家政策積極獎勵或輔導納稅義務人使用電子支付，以維護政府稅基、增加稅收，並達租稅公平。",
+        "第十一條 之三": "　　一、本條刪除。\n　　二、原條文昭示之稅捐法定主義，已訂定於納稅者權利保護法第三條，並說明所稱法律之內涵包含自治條例，較原條文更為明確，爰予刪除。",
+        "第十一條 之四": "　　一、本條刪除。\n　　二、租稅優惠之限制已訂定於納稅者權利保護法第六條，且於原條文所訂稅式支出評估之外，另規範應召開公聽會，爰刪除本條。",
+        "第十一條 之五": "　　一、本條刪除。\n　　二、受調查者之權利已明定於納稅者保護法第十二條，且增列代理人或輔佐人未到場前，得拒絕陳述之規定，及受調查者要求錄音錄影之權利。爰刪除本條。",
+        "第十一條 之六": "　　一、本條刪除。\n　　二、本條相關規定已另行訂定於納稅者權利保護法第十一條第三項，且增列違法情節輕微之但書。爰刪除本條。",
+        "第十一條 之七": "　　一、本條刪除。\n　　二、相關規定已另行訂定於納稅者權利保護法第二十條，改以任務編組模式設置納稅者權利保護官，並明文規定其職權。爰刪除本條。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1060217",
-            "立法紀錄": "106卷17期4419號一冊 12-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cc81cecfc9cfcec8cfcec4cfcfcecdc4cfcfcecd",
+            "會議日期": "1061020",
+            "立法紀錄": "106卷82期4484號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cb81cecfc9cfc7cdcfcec4cfcfcfccc4cfcfcfcc",
             "主提案": "曾銘宗",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090301:LCEWA01_090301_00066"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090405:LCEWA01_090405_00021"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1060224",
-            "立法紀錄": "106卷18期4420號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cc81cecfc9cfcec7cfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "行政院",
+            "會議日期": "1070427",
+            "立法紀錄": "107卷43期4567號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cb81cecfc8cfcbcccfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "王榮璋",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090302:LCEWA01_090302_00014"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090510:LCEWA01_090510_00063"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1060329",
-            "立法紀錄": "106卷36期4438號 118-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cc81cecfc9cfccc9cfcec4cfcecec7c4cfcec8c9",
+            "會議日期": "1070530",
+            "立法紀錄": "107卷72期4596號 318-404頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cb81cecfc8cfc8cdcfcec4cfcccec7c4cfcbcfcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號一冊 233-246頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cc81cecfc9cfc9cfcfcec4cfcdccccc4cfcdcbc9",
+            "會議日期": "1071106",
+            "立法紀錄": "107卷95期4619號二冊 340-347頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cb81cecfc8cfc6cacfcdc4cfcccbcfc4cfcccbc8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090313:LCEWA01_090313_00735"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090607:LCEWA01_090607_00272"
                 ]
             ]
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "1060414",
-            "立法紀錄": "106卷62期4464號 351-358頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cc81cecfc9cfc9cdcfcec4cfcccacec4cfcccac7",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號一冊 246-248頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cc81cecfc9cfc9cfcfcec4cfcdcbc9c4cfcdcbc7",
+            "會議日期": "1071106",
+            "立法紀錄": "107卷95期4619號二冊 347-347頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cb81cecfc8cfc6cacfcdc4cfcccbc8c4cfcccbc8",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1060526",
-            "立法紀錄": "106卷60期4462號一冊 248-248頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cc81cecfc9cfc9cfcfcec4cfcdcbc7c4cfcdcbc7",
+            "會議日期": "1071106",
+            "立法紀錄": "107卷95期4619號二冊 347-347頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcacec9cb81cecfc8cfc6cacfcdc4cfcccbc8c4cfcccbc8",
             "關係文書": []
         }
     ]
