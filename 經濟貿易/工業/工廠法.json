@@ -1,11 +1,11 @@
 {
     "title": "工廠法",
     "versions": [
-        "中華民國64年12月12日修正",
-        "中華民國64年12月19日公布"
+        "中華民國107年11月6日廢止",
+        "中華民國107年11月21日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -524,121 +524,58 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第一條": "　　因至今台灣地區小工廠佔大多數，而工人的保護日益重要，故刪除三十人之限制，使所有工廠均得適用本法。",
-        "第二條": "　　為符民主政府體制，故將官署改為機關。",
-        "第三條": "　　為符民主政府體制，故將官署改為機關。",
-        "第四條": "　　為符民主政府體制，故將官署改為機關。",
-        "第五條": "　　為符民主政府體制，故將官署改為機關。",
-        "第十三條": "　　為因應經濟發展需要，對女工深夜工作宜作有條件之放寬，但必須限定於經內政部指定之特定事業（如紡織、電子等工業）實施晝夜三班輪班制，且其工廠安全衛生必屬完善，以維女工深夜工作之健康。另應有宿舍或有交通工具接送，俾能供應住宿或維護女工上下班途中之安全。至妊娠及哺乳期間之女工，為保護母性，故仍嚴禁深夜工作。",
-        "第十六條": "　　刪除「國民政府」字樣，並參考民法第一百二十二條之規定將文字酌予以修正。",
-        "第十九條": "　　為配合民主政府體制故修正官署為機關。",
-        "第四十四條": "　　為配合民主政府體制故修正官署為機關。",
-        "第四十五條": "　　為符民主政府體制，故修改官署為機關。",
-        "第四十八條": "　　為配合民主政府體制故修正官署為機關。",
-        "第四十九條": "　　為配合民主政府體制故修正官署為機關。",
-        "第五十六條": "　　為配合民主政府體制故修正官署為機關。",
-        "第六十一條": "　　一、為配合民主政府體制故修正官署為機關。\n　　二、修正「實業部」為內政部。",
-        "第六十四條": "　　為配合民主政府體制故修正官署為機關。",
-        "第六十八條": "　　參酌目前社會情況，原有罰金已難收警戒之效，故提高數額。",
-        "第六十九條": "　　違反有關童工年齡、工作時間、女工分娩假、學徒超過比例，應提高罰金數額。",
-        "第七十條": "　　違反工人休假、休息、延長工時加發工資、預扣工資、終止契約預告、分配盈餘及學徒年齡，增列並提高罰金數額。",
-        "第七十一條": "　　參酌目前社會情況，原有罰金已難收警戒之效，故修訂之。",
-        "第七十五條": "　　為符民主政府體制故修改官署為機關。",
-        "第七十六條": "　　施行條例原為程序法的規定。到台灣以後大都將法律的施行程序由「施行細則」訂定，故統一名稱。"
-    },
+    "deprecated_reason": "　　一、為規範用發動機器之工廠工人之勞動條件及保護等事項，「工廠法」於18年制訂，並自20年8月1日施行，是我國最早的勞動基準立法。惟該法40餘年未曾修正，經濟社會情勢快速變遷下，當前勞動情勢已經和當初立法時空背景截然不同。\n　　二、而後「勞動基準法」在73年8月1日施行後，適用對象範圍及勞動條件的保障更見周全，加以「工廠法」規定中有關工人福利、工廠安全與衛生設備、工人津貼及撫卹、工廠會議等事項，目前在「職業安全衛生法」、「職工福利金條例」及「勞資會議實施辦法」皆有更為周延的規定。整體而言，勞工權益保障制度已更為完善。\n　　三、為了簡化法令，勞動部會商各地方勞工行政主管機關及專家學者進行檢討，「工廠法」原適用對象已納入「勞動基準法」的保障，已無繼續適用的必要，行政院爰依中央法規標準法第二十一條第二款及第四款規定函請廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "640926",
-            "立法紀錄": "64卷78期832號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c8c7cfcfcfcec4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "1050527",
+            "立法紀錄": "105卷40期4337號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccacfcb81cecfcacfcbcfcfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "羅明才",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090115:LCEWA01_090115_00021"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1070925",
+            "立法紀錄": "107卷79期4603號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccacfcb81cecfc8cfc8c6cfcec4cfcfcfc9c4cfcfcfc9",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcecfcfc5cacbc6d2cacaca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "641202",
-            "立法紀錄": "64卷97期851號 25-29頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c6c8cfcfcfcec4cfcfcdcac4cfcfcdc6",
-            "主提案": "蔣公亮",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcccfcfc5cbcecad2cbcdce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "641209",
-            "立法紀錄": "64卷99期853號 5-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c6c6cfcfcfcec4cfcfcfcac4cfcfcfc9",
-            "主提案": "蔣公亮",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcccfcfc5c9c7cbd2c9c7c9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090601:LCEWA01_090601_00047"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "641027",
-            "立法紀錄": "64卷93期847號 1-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c6cccfcfcfcdc4cfcfcfcec4cfcfcfc7",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "641110",
-            "立法紀錄": "64卷95期849號 1-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c6cacfcfcfcdc4cfcfcfcec4cfcfcfc9",
+            "會議日期": "1071011",
+            "立法紀錄": "107卷86期4610號 230-284頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccacfcb81cecfc8cfc7c9cfcec4cfcdcccfc4cfcdc7cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "641202",
-            "立法紀錄": "64卷97期851號 29-36頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c6c8cfcfcfcec4cfcfcdc6c4cfcfccc9",
+            "會議日期": "1071106",
+            "立法紀錄": "107卷95期4619號二冊 409-418頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccacfcb81cecfc8cfc6cacfcdc4cfcbcfc6c4cfcbcec7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcecac9cfcccfcfc5cbcdccd2cbcdc8"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090607:LCEWA01_090607_00280"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "641202",
-            "立法紀錄": "64卷97期851號 36-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c6c8cfcfcfcec4cfcfccc9c4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "641205",
-            "立法紀錄": "64卷98期852號 3-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c6c7cfcfcfcec4cfcfcfccc4cfcfcfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "641209",
-            "立法紀錄": "64卷99期853號 6-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9c6c6cfcfcfcec4cfcfcfc9c4cfcfcecc",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "641212",
-            "立法紀錄": "64卷100期854號 3-8頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac8c8c9c8cccacfcc81c9cbcac9cecfcfcfcfcfcec4cfcfcfccc4cfcfcfc7",
+            "會議日期": "1071106",
+            "立法紀錄": "107卷95期4619號二冊 418-418頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c8cccacfcb81cecfc8cfc6cacfcdc4cfcbcec7c4cfcbcec7",
             "關係文書": []
         }
     ]
