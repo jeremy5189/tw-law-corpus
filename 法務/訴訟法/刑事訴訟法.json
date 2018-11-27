@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法",
     "versions": [
-        "中華民國107年11月6日修正",
-        "中華民國107年11月21日公布"
+        "中華民國107年11月9日修正",
+        "中華民國107年11月28日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -2586,7 +2586,7 @@
         {
             "note": "",
             "rule_no": "第三百十一條",
-            "content": "　　宣示判決，應自辯論終結之日起十四日內為之。",
+            "content": "　　行獨任審判之案件宣示判決，應自辯論終結之日起二星期內為之；行合議審判者，應於三星期內為之。但案情繁雜或有特殊情形者，不在此限。",
             "relates": {}
         },
         {
@@ -4089,54 +4089,53 @@
         }
     ],
     "law_reasons": {
-        "第五十七條": "　　配合第六十一條新增第三項，刪除文書掛號郵寄規定，俾免重複。",
-        "第六十一條": "　　一、現行司法實務上，各地方法院檢察署對於重大案件、不起訴處分等「重要文書」方以雙掛號方式郵寄，但諸如開庭通知、行政簽結等司法文書，除經檢察官特別簽註外，一般皆以平信寄出，但是僅以傳票為例，若以平信郵寄，很容易收到的一般民眾認為是詐騙集團的新手法，而不予理會；遇到年節、假期或是郵務繁忙，平信也是有寄丟的可能也非常大。平信並沒有憑證機制，確認應收到信件的被告或是證人收到，以致於開庭時被告或者證人應到而未到，其責任歸屬問題，也常引起很多爭議。\n　　二、現行「刑事訴訟法」明定，送達訴訟相關文書，除該法內有特別規外，則準用以「民事訴訟法施行法」第三條為法源依據，所訂定出「郵務機構送達訴訟文書實施辦法」，而該辦法中則特別規範郵務機構收到訴訟文書後，應按照收寄掛號郵件規定，編列號數，換言之，依法民事與刑事訴訟相關文書皆應以掛號郵寄，然各地檢署卻因資源分配與預算經費等問題，未能確實執行，以致於民眾訴訟權益因郵寄問題受到損害。\n　　三、參酌民事訴訟法第一百二十四條與行政訴訟法第六十二條增訂第三項，明定由郵務機構送達者，應以掛號郵寄，相關實施辦法由司法院會同行政院定之。"
+        "第三百十一條": "　　一、為使法院就行合議審判之案件能有充分時間詳為評議及製作判決書，俾提昇裁判品質，爰修正本條，將行合議審判之案件宣示判決期限自辯論終結之日起十四日即二星期內為之，延長為於三星期內為之；至行獨任審判之案件，則仍維持原本二星期之宣示判決期限。\n　　二、有鑑於部分案件之案情較為繁雜或有特殊情形，而尚難於辯論終結之日起二星期或三星期之期限內宣示判決，爰因應實務需要，增訂但書。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1070427",
-            "立法紀錄": "107卷43期4567號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7cc81cecfc8cfcbcccfcec4cfcfcfcac4cfcfcfca",
-            "主提案": "吳志揚",
+            "會議日期": "1070925",
+            "立法紀錄": "107卷79期4603號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7ca81cecfc8cfc8c6cfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "司法院 行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090510:LCEWA01_090510_00054"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090601:LCEWA01_090601_00061"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1070530",
-            "立法紀錄": "107卷70期4594號 47-93頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7cc81cecfc8cfc8cfcfcec4cfcfcbc8c4cfcfc6cc",
+            "會議日期": "1071031",
+            "立法紀錄": "107卷98期4622號 241-280頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7ca81cecfc8cfc6c7cfcec4cfcdcbcec4cfcdc7cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1071106",
-            "立法紀錄": "107卷95期4619號二冊 336-340頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7cc81cecfc8cfc6cacfcdc4cfccccc9c4cfcccbcf",
+            "會議日期": "1071109",
+            "立法紀錄": "107卷99期4623號一冊 241-244頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7ca81cecfc8cfc6c6cfcec4cfcdcbcec4cfcdcbcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090607:LCEWA01_090607_00271"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090608:LCEWA01_090608_40011"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1071106",
-            "立法紀錄": "107卷95期4619號二冊 340-340頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7cc81cecfc8cfc6cacfcdc4cfcccbcfc4cfcccbcf",
+            "會議日期": "1071109",
+            "立法紀錄": "107卷99期4623號一冊 244-244頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7ca81cecfc8cfc6c6cfcec4cfcdcbcbc4cfcdcbcb",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1071106",
-            "立法紀錄": "107卷95期4619號二冊 340-340頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7cc81cecfc8cfc6cacfcdc4cfcccbcfc4cfcccbcf",
+            "會議日期": "1071109",
+            "立法紀錄": "107卷99期4623號一冊 244-244頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cdc7ca81cecfc8cfc6c6cfcec4cfcdcbcbc4cfcdcbcb",
             "關係文書": []
         }
     ]
