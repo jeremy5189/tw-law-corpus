@@ -1,8 +1,8 @@
 {
     "title": "平均地權條例",
     "versions": [
-        "中華民國106年4月21日修正",
-        "中華民國106年5月10日公布"
+        "中華民國107年11月20日修正",
+        "中華民國107年12月5日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -392,7 +392,7 @@
         {
             "note": "",
             "rule_no": "第五十一條",
-            "content": "　　依本條例施行漲價歸公之收入，以供育幼、養老、救災、濟貧、衛生、扶助殘障等公共福利事業、興建國民住宅、徵收公共設施保留地、興辦公共設施、促進農業發展、農村建設、推展國民教育及實施平均地權之用。",
+            "content": "　　依本條例施行漲價歸公之收入，以供育幼、養老、救災、濟貧、衛生、扶助身心障礙等公共福利事業、興辦社會住宅、徵收公共設施保留地、興辦公共設施、促進農業發展、農村建設、推展國民教育及實施平均地權之用。",
             "relates": {}
         },
         {
@@ -685,93 +685,53 @@
         }
     ],
     "law_reasons": {
-        "第十四條": "　　原規定公告地價採每三年調整一次，無法確實反映不動產景氣變動狀況，且易造成每次調整漲跌幅變動過大。為貼近不動產市價脈動，將原每三年重新規定地價一次，調整為每二年規定一次，落實稅賦公平。",
-        "第十七條": "　　增列第二項：「應納地價稅額因公告地價調整致納稅義務人繳納困難者，得於規定繳納期間內，向稅捐稽徵機關申請延期或分期繳納，延期繳納期間不得逾六個月，分期繳納期間不得逾一年。」及第三項：「前項延期或分期繳納辦法，直轄市及縣（市）政府得依社會經濟情況及實際需要定之。」"
+        "第五十一條": "　　一、原所定「扶助殘障」原係於七十五年六月二十九日修正時配合殘障福利法規定增列其為公共福利事業範疇。嗣殘障福利法於八十六年四月二十三日修正公布名稱為身心障礙者保護法，復於九十六年七月十一日修正公布名稱為身心障礙者權益保障法，爰配合將原「殘障」文字修正為「身心障礙」，以符合身心障礙者權利公約及其施行法之規定。\n　　二、另國民住宅條例業於一百零四年一月七日公布廢止，配合目前住宅政策包含興辦社會住宅，爰酌修文字。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050219",
-            "立法紀錄": "105卷1期4298號一冊 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc881cecfcacfcfcecfcec4cfcfcecfc4cfcfcecf",
-            "主提案": "葉宜津",
+            "會議日期": "1070925",
+            "立法紀錄": "107卷79期4603號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc781cecfc8cfc8c6cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090101:LCEWA01_090101_00006"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1051216",
-            "立法紀錄": "105卷104期4401號一冊 20-20頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc881cecfcacecfcbcfcec4cfcfcdcfc4cfcfcdcf",
-            "主提案": "陳歐珀",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090215:LCEWA01_090215_00012"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1051230",
-            "立法紀錄": "106卷5期4407號一冊 22-22頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc881cecfc9cfcfcacfcec4cfcfcdcdc4cfcfcdcd",
-            "主提案": "張廖萬堅",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090217:LCEWA01_090217_00021"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1060310",
-            "立法紀錄": "106卷21期4423號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc881cecfc9cfcdcecfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "曾銘宗",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090304:LCEWA01_090304_00016"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090601:LCEWA01_090601_00046"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1050406",
-            "立法紀錄": "106卷41期4443號一冊 70-128頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc881cecfc9cfcbcecfcec4cfcfc8cfc4cfcecdc7",
+            "會議日期": "1071031",
+            "立法紀錄": "107卷97期4621號一冊 3-60頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc781cecfc8cfc6c8cfcec4cfcfcfccc4cfcfc9cf",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1060421",
-            "立法紀錄": "106卷42期4444號一冊 163-175頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc881cecfc9cfcbcdcfcec4cfcec9ccc4cfcec8ca",
+            "會議日期": "1071120",
+            "立法紀錄": "107卷103期4627號一冊 208-212頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc781cecfc8cecfcccfcec4cfcdcfc7c4cfcdcecd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090310:discussCorrect09031002xx335"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090609:LCEWA01_090609_40006"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1060421",
-            "立法紀錄": "106卷42期4444號一冊 175-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc881cecfc9cfcbcdcfcec4cfcec8cac4cfcec8c9",
+            "會議日期": "1071120",
+            "立法紀錄": "107卷103期4627號一冊 212-212頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc781cecfc8cecfcccfcec4cfcdcecdc4cfcdcecd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1060421",
-            "立法紀錄": "106卷42期4444號一冊 176-176頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc881cecfc9cfcbcdcfcec4cfcec8c9c4cfcec8c9",
+            "會議日期": "1071120",
+            "立法紀錄": "107卷103期4627號一冊 212-212頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdcbcbc781cecfc8cecfcccfcec4cfcdcecdc4cfcdcecd",
             "關係文書": []
         }
     ]
