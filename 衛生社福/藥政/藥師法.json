@@ -1,8 +1,8 @@
 {
     "title": "藥師法",
     "versions": [
-        "中華民國103年6月27日修正",
-        "中華民國103年7月16日公布"
+        "中華民國107年11月30日修正",
+        "中華民國107年12月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,7 +28,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱主管機關：在中央為衛生福利部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -62,7 +62,7 @@
         {
             "note": "",
             "rule_no": "第八條",
-            "content": "　　有下列情形之一者，不得發給執業執照；已領者，撤銷或廢止之：\n　　一、經撤銷或廢止藥師證書者。\n　　二、經撤銷或廢止藥師執業執照未滿一年者。\n　　三、罹患精神疾病或身心狀況違常，經主管機關認定不能執行業務者。\n　　前項第三款原因消失後，仍得依本法規定申請執業執照。\n　　主管機關依第一項第三款規定為認定時，應委請相關專科醫師鑑定。",
+            "content": "　　有下列情形之一者，不得發給執業執照；已領者，撤銷或廢止之：\n　　一、經撤銷或廢止藥師證書。\n　　二、經撤銷或廢止藥師執業執照未滿一年。\n　　三、有客觀事實認不能執行業務，經直轄市、縣（市）主管機關邀請相關專科醫師、藥師及學者專家組成小組認定。\n　　四、受停業處分仍執行業務。\n　　前項第三款原因消失後，仍得依本法規定申請執業執照。",
             "relates": {}
         },
         {
@@ -236,7 +236,7 @@
         {
             "note": "",
             "rule_no": "第三十二條",
-            "content": "　　各級藥師公會由人民團體主管機關主管。但其目的事業，應受衛生主管機關之指導、監督。",
+            "content": "　　各級藥師公會由人民團體主管機關主管。但其目的事業，應受主管機關之指導、監督。",
             "relates": {}
         },
         {
@@ -335,132 +335,73 @@
         }
     ],
     "law_reasons": {
-        "第十一條": "　　一、增列藥師執業處所類別，另參酌司法院釋字第七一一號解釋意旨，為衡平藥師與其他醫事人員執業之限制，並考量藥師人力不足之偏遠、離島地區醫療服務之實務需要等，爰增列但書規定，使藥師得合法於執業登記處所以外之處所執業。惟考量藥師業務之差異性及專業性，限於執業登記於醫療機構或藥局之藥師始得例外於執業處所外執行業務。\n　　二、但書規定之例外情形共計五款，理由分述如下：\n　　　(一)第一款：藥癮治療之服務對象包括使用毒品成癮者，醫療機構之治療方式包括給予替代性藥物、心理治療及社會復健治療等，另傳染病防治包括慢性傳染病之預防及治療（例如肺結核DOTS治療）。上述服務均涉及藥師業務，且屬配合政府政策，應予例外開放支援。\n　　　(二)第二款：義診、巡迴醫療例如健保IDS計畫（山地離島地區醫療給付效益提昇計畫Integrated Delivery System）屬照顧弱勢族群及偏鄉之措施，以往均以函釋例外處理，為符合法律保留原則，爰增列之。\n　　　(三)第三款：藥事照護相關業務係藥師業務之一部，另依藥師法施行細則第十三條規定，藥師執行該項業務之職責，主要涉及藥物使用安全評估。為提升社區機構（例如老人福利機構）之用藥安全，爰增列之。\n　　　(四)第四款：矯正機關係高度管制之封閉性處所，部分矯正機關更位於離島或山僻偏鄉地區，且收容人非可自由行動選擇調劑處所。因此，由藥師於矯正機關內調劑，係最能維護收容人用藥安全與及時性之必要措施。又矯正機關雖有編制藥師辦理公醫調劑及藥事照護服務等工作，但大多數僅有員額一名，當其請假或請調出缺時，矯正機關公醫調劑及藥事照護服務等工作，將難以維持。此外，收容人自一百零二年一月一日起，依法應參加全民健康保險，亦應享有同等之醫療專業服務。爰為維護罹病收容人用藥及時性與矯正機關藥品管理安全性等公共利益，於第四款規定納入矯正機關。又無藥事人員執業之偏遠地區雖已於藥事法第一百零二條第二項規定，得免實施醫藥分業，然為提升該等地區之藥事品質，爰增訂藥師得以報准支援方式執業。\n　　　(五)第五款：為賦予法律彈性，避免掛一漏萬，爰增列其他經中央主管機關認定之例外情形，所指緊急需要應包含專任藥事人員，因傷病或其他個人因素請假之情形。\n　　三、至於藥品製造業之藥師不開放支援之理由係考量藥師於執行藥品、含藥化粧品監製、藥品儲備、供應及分裝等業務時，應確保藥品適合其預定用途，符合上市許可要求，俾免由於安全性、品質或有效性之不足而使病人或使用者陷於危險。藥師在藥品、含藥化粧品監製、藥品儲備、供應及分裝等管理上扮演重要職責之角色，若由非專任之藥師執行前揭業務，因支援之藥師未能完全掌握處所、製程及原料之管理，致整批藥品、含藥化粧品之品質、安全性有疑慮時，恐嚴重戕害國民健康安全，基於公共利益考量，執行前揭業務之藥師，自應以限於一處執業為必要。"
+        "第三條": "　　配合行政院組織改造，原行政院衛生署業務已改由衛生福利部管轄，爰修正所定中央主管機關「行政院衛生署」為「衛生福利部」。",
+        "第八條": "　　一、第一項第一款及第二款依法制體例，刪除「者」一字。\n　　二、為落實身心障礙者權利公約之精神，保障身心障礙者享有與其他人平等之工作權利，對涉及以特定疾病或隱含以身心障礙者為就業限制之規定，予以檢討，爰修正第一項第三款及整併第三項至該款，說明如下：\n　　　(一)考量醫事人員執業直接涉及影響人民生命健康，且原藥師法對於藥師有不能執行業務(例如：身體、心理或其他狀況影響執業能力) 時，並無其他可取代處理之規定，為保護其執業過程中受服務者及己身之安全，爰將第一項第三款之「罹患精神疾病或身心狀況違常」修正為「有客觀事實認不能執行業務」。\n　　　(二)原第三項併入第一項第三款，並配合第二十五條規定之中央與直轄市、縣(市)主管機關權責劃分，爰將第一項第三款所定「主管機關」修正為「直轄市、縣(市)主管機關」，並強化客觀認定機制為「邀請相關專科醫師、藥師及學者專家組成小組認定」。\n　　三、另考量藥師不服停業處分仍繼續執業時，原藥師法並無管理規定，爰參照其他各類醫事人員法(如醫師法第二十九條之一)，增訂第四款「受停業處分仍執行業務」，應廢止執業執照之規定。\n　　四、第二項未修正。",
+        "第三十二條": "　　配合修正條文第三條，將「衛生」二字刪除。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1030509",
-            "立法紀錄": "103卷34期4143號 30-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcccbcfcec4cfcfcccfc4cfcfcccf",
+            "會議日期": "1060922",
+            "立法紀錄": "106卷74期4476號一冊 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcb81cecfc9cfc8cbcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "陳其邁",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090401:LCEWA01_090401_00019"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1071102",
+            "立法紀錄": "107卷95期4619號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcb81cecfc8cfc6cacfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8cdc5cecdccd2cecdc7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1021115",
-            "立法紀錄": "102卷68期4093號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcdcfc9c7cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "江惠貞",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecfc8cdc5cac8d2c9cf"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030418",
-            "立法紀錄": "103卷25期4134號 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcdcacfcec4cfcfcecfc4cfcfcecf",
-            "主提案": "趙天麟",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8cdc5cccdccd2cccdc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030418",
-            "立法紀錄": "103卷25期4134號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcdcacfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "田秋堇",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8cdc5c8ced2c8cb"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030509",
-            "立法紀錄": "103卷34期4143號 28-28頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcccbcfcec4cfcfcdc7c4cfcfcdc7",
-            "主提案": "徐少萍",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8cdc5cecad2cec7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030502",
-            "立法紀錄": "103卷31期4140號 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcccecfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "蘇清泉",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc8cfccc5ccc7cbd2ccc7c9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090607:LCEWA01_090607_00020"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1030501",
-            "立法紀錄": "103卷34期4143號 325-422頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcccbcfcec4cfcccdcac4cfcbcdcd",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "1030526",
-            "立法紀錄": "103卷45期4154號 394-411頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcbcacfcec4cfccc6cbc4cfcbcece",
+            "會議日期": "1071114",
+            "立法紀錄": "107卷105期4629號 334-438頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcb81cecfc8cecfcacfcec4cfcccccbc4cfcbccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1030627",
-            "立法紀錄": "103卷49期4158號一冊 7-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcbc6cfcec4cfcfcfc8c4cfcfcdce",
+            "會議日期": "1071130",
+            "立法紀錄": "107卷109期4633號一冊 123-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcb81cecfc8cecfc6cfcec4cfcecdccc4cfceccce",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacec8c8cdc5ced2cec9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090611:LCEWA01_090611_40012_1"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1030627",
-            "立法紀錄": "103卷49期4158號一冊 261-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcbc6cfcec4cfcdc9cec4cfcdc9cd",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1030627",
-            "立法紀錄": "103卷49期4158號一冊 262-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcbc6cfcec4cfcdc9cdc4cfcdc9cd",
-            "關係文書": []
+            "會議日期": "1071130",
+            "立法紀錄": "107卷109期4633號一冊 131-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcb81cecfc8cecfc6cfcec4cfcecccec4cfceccce",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090611:LCEWA01_090611_40012_2"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1030627",
-            "立法紀錄": "103卷49期4158號一冊 262-262頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcc81cecfcccfcbc6cfcec4cfcdc9cdc4cfcdc9cd",
+            "會議日期": "1071130",
+            "立法紀錄": "107卷109期4633號一冊 131-131頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cfcbcb81cecfc8cecfc6cfcec4cfcecccec4cfceccce",
             "關係文書": []
         }
     ]
