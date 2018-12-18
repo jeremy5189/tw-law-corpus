@@ -1,8 +1,8 @@
 {
     "title": "護理人員法",
     "versions": [
-        "中華民國103年12月30日修正",
-        "中華民國104年1月14日公布"
+        "中華民國107年11月30日修正",
+        "中華民國107年12月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -74,7 +74,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　有下列情形之一者，不得發給執業執照；已領者，撤銷或廢止之：\n　　一、經廢止護理人員證書。\n　　二、經廢止護理人員執業執照未滿一年。\n　　三、罹患精神疾病或身心狀況違常，經主管機關認定不能執行業務。\n　　前項第三款原因消失後，仍得依本法規定申請執業執照。\n　　主管機關依第一項第三款規定為認定時，應委請相關專科醫師鑑定。",
+            "content": "　　有下列情形之一者，不得發給執業執照；已領者，撤銷或廢止之：\n　　一、經撤銷或廢止護理人員證書。\n　　二、經廢止護理人員執業執照未滿一年。\n　　三、有客觀事實認不能執行業務，經直轄市、縣（市）主管機關邀請相關專科醫師、護理人員及學者專家組成小組認定。\n　　前項第三款原因消失後，仍得依本法規定申請執業執照。",
             "relates": {}
         },
         {
@@ -465,124 +465,58 @@
         }
     ],
     "law_reasons": {
-        "第五條": "　　配合一百零二年七月二十三日起「行政院衛生署」改為「衛生福利部」，修正中央主管機關名稱。",
-        "第二十三條 之一": "　　一、參照醫療法第二十八條、老人福利法第三十七條規定，修正原條文第一項中央主管機關應辦理評鑑之規定，以提升照護品質。\n　　二、原條文第二項移列至第二十三條之二第三項。另為使護理機構接受評鑑及督導考核具強制性，增訂護理機構不得規避、妨礙或拒絕中央主管機關之評鑑，以及直轄市、縣（市）主管機關督導考核之規定，列為第二項。\n　　三、原條文第三項未修正。",
-        "第二十三條 之二": "　　一、本條新增。\n　　二、參照醫療法施行細則第十六條規定，於第一項定明中央主管機關辦理護理機構評鑑後，應公告之事項。\n　　三、於第二項定明受評鑑護理機構於評鑑合格效期內違反本法相關規定之處理。\n　　四、第三項由原條文第二十三條之一第二項移列，並定明授權中央主管機關訂定法規命令之範圍。",
-        "第二十八條": "　　一、「護理人員法」對於「病歷隱私權」之保護規範採行概括性的「不得無故洩露」，所謂「無故」，一般係指「無正當理由」；反之「有正當理由」即可揭露資訊，儼然為病歷資訊的流動開了一道不容易清楚掌握的門。\n　　二、為消弭此項缺失，爰修正原條文，明定「除依前條規定外，護理人員或護理機構及其人員對於因業務而知悉或持有他人秘密，非依法、或經當事人或其法定代理人之書面同意者，不得洩漏。」。",
-        "第三十一條 之一": "　　一、本條新增。\n　　二、參照醫療法第一百零二條、老人福利法第四十七條規定，定明護理機構違反設置標準之處罰規定，所定罰鍰及停業處分之處罰機關依第四十一條規定定之。",
-        "第三十一條 之二": "　　一、本條新增。\n　　二、參照老人福利法第四十八條及第四十九條規定，定明護理機構經評鑑不合格之處罰，且因第三十一條之一已就違反設置標準者定有罰則，故如屬違反設置標準致評鑑結果為不合格者，依第三十一條之一處罰。至所定罰鍰及停業處分之處罰機關依第四十一條規定定之。\n　　三、又考量護理機構類型，區分收住式護理機構（如一般護理之家、精神護理之家及產後護理機構）及其他護理機構（如居家護理機構），因經營型態有所差異，故罰鍰額度不同。",
-        "第三十三條": "　　一、參照老人福利法第四十六條規定，增訂護理機構規避、妨礙或拒絕評鑑或督導考核之處罰規定。\n　　二、原條文第二項未修正。"
+        "第九條": "　　一、配合第六條定有「廢止或撤銷護理人員證書」之規定，爰修正第一項第一款為「撤銷或廢止」。\n　　二、為落實身心障礙者權利公約之精神，保障身心障礙者享有與其他人平等之工作權利，對涉及以特定疾病或隱含以身心障礙者為就業限制之規定，予以檢討，爰修正第一項第三款及整併第三項至該款，說明如下：\n　　　(一)考量醫事人員執業直接涉及影響人民生命健康，且原護理人員法對於護理人員有不能執行業務(例如：身體、心理或其他狀況影響執業能力) 時，並無其他可取代處理之規定，為保護其執業過程中受服務者及己身之安全，爰將第一項第三款「罹患精神疾病或身心狀況違常」修正為「有客觀事實認不能執行業務」。\n　　　(二)原第三項併入第一項第三款，並配合第四十一條規定中央與直轄市、縣（市）主管機關權責，爰將第一項第三款所定「主管機關」修正為「直轄市、縣(市)主管機關」，並強化客觀認定機制為「邀請相關專科醫師、護理人員及學者專家組成小組認定」。\n　　三、第二項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1031024",
-            "立法紀錄": "103卷65期4174號一冊 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcccfc9cacfcec4cfcfcdcbc4cfcfcdcb",
+            "會議日期": "1071102",
+            "立法紀錄": "107卷95期4619號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbca81cecfc8cfc6cacfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc8c8cdc5cec9ced2cec9c9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1031017",
-            "立法紀錄": "103卷62期4171號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcccfc9cdcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "王育敏",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cfc9c8cdc5c7cad2c7c7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010504",
-            "立法紀錄": "101卷28期3969號 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcecfcdc7cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "馬文君",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececfcfcec5cdccc6d2cdcbce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1021206",
-            "立法紀錄": "102卷77期4102號一冊 21-21頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcdcfc8c8cfcec4cfcfcdcec4cfcfcdce",
-            "主提案": "江惠貞",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecccfcec5cdc9c7d2cdc9c6"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1021213",
-            "立法紀錄": "102卷80期4105號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcdcfc7cfcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "李桐豪",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbcecbcfcec5cec7cfd2cec7ce"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1030530",
-            "立法紀錄": "103卷43期4152號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcccfcbcccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "羅淑蕾",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacecdcfcec5cdc7cbd2cdc7ca"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090607:LCEWA01_090607_00020"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1031210",
-            "立法紀錄": "103卷88期4197號 321-321,383-387頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcccfc7c7cfcec4cfcccdcec4cfcccdced9cecfcccfc7c7cfcec4cfccc7ccc4cfccc7c8",
+            "會議日期": "1071114",
+            "立法紀錄": "107卷105期4629號 334-438頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbca81cecfc8cecfcacfcec4cfcccccbc4cfcbccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 247-263頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcbcfcfcdcfcec4cfcdcbc8c4cfcdc9cc",
+            "會議日期": "1071130",
+            "立法紀錄": "107卷109期4633號一冊 98-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbca81cecfc8cecfc6cfcec4cfcfc6c7c4cfcecfcc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecac8c6c5c9c8d2c7cb"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090611:LCEWA01_090611_40008_1"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 263-264頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcbcfcfcdcfcec4cfcdc9ccc4cfcdc9cb",
-            "關係文書": []
+            "會議日期": "1071130",
+            "立法紀錄": "107卷109期4633號一冊 103-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbca81cecfc8cecfc6cfcec4cfcecfccc4cfcecfcc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090611:LCEWA01_090611_40008_2"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 264-264頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbcb81cecfcbcfcfcdcfcec4cfcdc9cbc4cfcdc9cb",
+            "會議日期": "1071130",
+            "立法紀錄": "107卷109期4633號一冊 103-103頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6cbca81cecfc8cecfc6cfcec4cfcecfccc4cfcecfcc",
             "關係文書": []
         }
     ]
