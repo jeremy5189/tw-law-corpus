@@ -1,8 +1,8 @@
 {
     "title": "心理師法",
     "versions": [
-        "中華民國105年11月15日修正",
-        "中華民國105年11月30日公布"
+        "中華民國107年12月7日修正",
+        "中華民國107年12月26日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -28,7 +28,7 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　本法所稱主管機關：在中央為行政院衛生署；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
+            "content": "　　本法所稱主管機關：在中央為衛生福利部；在直轄市為直轄市政府；在縣（市）為縣（市）政府。",
             "relates": {}
         },
         {
@@ -68,7 +68,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　有下列情形之一者，不得發給執業執照；已領照者，廢止之：\n　　一、經撤銷或廢止臨床心理師或諮商心理師證書者。\n　　二、經廢止臨床心理師或諮商心理師執業執照未滿一年者。\n　　三、罹患精神疾病或身心狀況違常，經主管機關認定不能執行業務者。\n　　前項第三款原因消失後，仍得依本法規定申請執業執照。",
+            "content": "　　有下列情形之一者，不得發給執業執照；已領者，撤銷或廢止之：\n　　一、經撤銷或廢止臨床心理師或諮商心理師證書。\n　　二、經廢止臨床心理師或諮商心理師執業執照未滿一年。\n　　三、有客觀事實認不能執行業務，經直轄市、縣（市）主管機關邀請相關專科醫師、心理師及學者專家組成小組認定。\n　　前項第三款原因消失後，仍得依本法規定申請執業執照。",
             "relates": {}
         },
         {
@@ -419,53 +419,85 @@
         }
     ],
     "law_reasons": {
-        "第四十三條": "　　一、第一項未修正。\n　　二、一百零四年十二月三十日修正施行刑法施行法第十條之三第二項規定，刑法修正施行日前制定之其他法律關於沒收、追徵、追繳、抵償之規定，不再適用。該規定立法意旨在於此次刑法既已整體修正沒收規定，自應回歸刑法一體適用，一百零五年七月一日刑法沒收修正之施行日前所制定之其他法律關於沒收之規定，已無獨立存在之必要；惟經檢視仍應另為特別規定者，依刑法第十一條特別法優於普通法之原則，仍宜定明。\n　　三、依修正後刑法第三十八條第二項及第三項規定，供犯罪所用、犯罪預備之物或犯罪所生之物，屬於犯罪行為人者，得沒收之；屬於犯罪行為人以外之自然人、法人或非法人團體，而無正當理由提供或取得者，得沒收之。則原條文第二項規定，心理師違反第十八條規定者，其所使用藥械沒收之。其沒收範圍較刑法為大，惟其所使用之藥械本身不具社會危害性，其沒收不應與違禁物為相同之處理，應回歸適用刑法之規定，爰刪除「其所使用之藥械沒收之」等字。"
+        "第三條": "　　配合行政院組織改造，原行政院衛生署業務已改由衛生福利部管轄，爰修正所定中央主管機關「行政院衛生署」為「衛生福利部」。",
+        "第九條": "　　一、配合第一項第一款「撤銷或廢止」規定，修正第一項之處分包括「撤銷或廢止」，並刪除第一項第一款及第二款之「者」。\n　　二、為落實身心障礙者權利公約之精神，保障身心障礙者享有與其他人平等之工作權利，對涉及以特定疾病或隱含以身心障礙者為就業限制之規定，予以檢討，爰修正第一項第三款，說明如下：\n　　　(一)考量醫事人員執業直接涉及影響人民生命健康，且原心理師法對於心理師有不能執行業務(例如：身體、心理或其他狀況影響執業能力)時，並無其他可取代處理之規定，為保護其執業過程中受服務者及己身之安全，爰將所定「罹患精神疾病或身心狀況違常」修正為「有客觀事實認不能執行業務」，並強化客觀認定機制為「邀請相關專科醫師、心理師及學者專家組成小組認定」。\n　　　(二)配合第四十五條規定之中央與直轄市、縣(市)主管機關權責劃分，爰將所定「主管機關」修正為「直轄市、縣(市)主管機關」。\n　　三、第二項未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1050923",
-            "立法紀錄": "105卷67期4364號 131-131頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c981cecfcacfc9c8cfcec4cfcecccec4cfceccce",
+            "會議日期": "1050513",
+            "立法紀錄": "105卷33期4330號 4-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c881cecfcacfcccccfcec4cfcfcfcbc4cfcfcfca",
+            "主提案": "徐榛蔚",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090113:LCEWA01_090113_00035"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1051230",
+            "立法紀錄": "106卷5期4407號一冊 22-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c881cecfc9cfcfcacfcec4cfcfcdcdc4cfcfcdcd",
+            "主提案": "許智傑",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090217:LCEWA01_090217_00017"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1071102",
+            "立法紀錄": "107卷95期4619號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c881cecfc8cfc6cacfcec4cfcfcfcdc4cfcfcfcd",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090203:LCEWA01_090203_00036_0"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090607:LCEWA01_090607_00020"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1051103",
-            "立法紀錄": "105卷85期4382號 239-239,327-328頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c981cecfcacfc7cacfcec4cfcdccc6c4cfcdccc6d9cecfcacfc7cacfcec4cfcccdc8c4cfcccdc7",
+            "會議日期": "1071114",
+            "立法紀錄": "107卷105期4629號 334-438頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c881cecfc8cecfcacfcec4cfcccccbc4cfcbccc7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1051115",
-            "立法紀錄": "105卷82期4379號 189-205頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c981cecfcacfc7cdcfcec4cfcec7c6c4cfcdcfca",
+            "會議日期": "1071207",
+            "立法紀錄": "107卷111期4635號二冊 316-324頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c881cecfc8cecececfcdc4cfcccec9c4cfcccdcb",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090210:LCEWA01_090210_00213"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090612:LCEWA01_090612_40009_1"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1051115",
-            "立法紀錄": "105卷82期4379號 208-208頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c981cecfcacfc7cdcfcec4cfcdcfc7c4cfcdcfc7",
-            "關係文書": []
+            "會議日期": "1071207",
+            "立法紀錄": "107卷111期4635號二冊 324-324頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c881cecfc8cecececfcdc4cfcccdcbc4cfcccdcb",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090612:LCEWA01_090612_40009_2"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1051115",
-            "立法紀錄": "105卷82期4379號 208-208頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c981cecfcacfc7cdcfcec4cfcdcfc7c4cfcdcfc7",
+            "會議日期": "1071207",
+            "立法紀錄": "107卷111期4635號二冊 324-324頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac6c7c881cecfc8cecececfcdc4cfcccdcbc4cfcccdcb",
             "關係文書": []
         }
     ]
