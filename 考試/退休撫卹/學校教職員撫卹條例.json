@@ -1,11 +1,11 @@
 {
     "title": "學校教職員撫卹條例",
     "versions": [
-        "中華民國98年10月23日修正",
-        "中華民國98年11月18日公布"
+        "中華民國108年4月9日廢止",
+        "中華民國108年4月24日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -154,83 +154,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第十三條 之一": "　　一、本條新增。\n　　二、將教育部八十五年七月四日台人(三)字第八五○五三三九三號函有關學校教職員依規定辦理留職停薪期間死亡者，准予辦理撫卹之規定，提升至本條例規範，並參酌九十五年四月十日函送立法院審議，惟因屆期不予繼續審議之「公務人員撫卹法」修正草案第二十條規定，將停聘、休職、因案停職死亡者，亦納入規範；又教師借調擔任依法銓飃審定之公務人員期間亡故，其遺族得依公務人員撫卹法辦理撫卹，爰排除適用之，復配合上開「公務人員撫卹法」修正草案第二十條規定，因涉貪污案經判決確定，或因涉案經判處二年以上有期徒刑確定者，亦排除適用之。另為配合「學校教職員退休條例」第八條之一、第十條之一修正草案，於修正條文第十條之一規定教師借調期間逾六十五歲得辦理退休，爰於後段明定教師依規定借調辦理留職停薪至六十五歲前未回職復薪，於屆滿六十五歲之日起五年內死亡者，亦同。",
-        "第十八條": "　　一、為配合九十六年七月十一日修正公布之學校教職員退休條例第十八條規定：「（第一項）公立社會教育及學術機關服務人員、教育部依法令規定資格介派至公、私立學校擔任軍訓護理課程之護理教師之退休，準用本條例之規定。但其具有公務人員身分者，仍依公務人員退休法之規定。（第二項）前項護理教師之退休金，在中華民國九十年十月三十日前之任職年資由公庫支給；中華民國九十年十月三十一日後之任職年資由退休撫卹基金支給。」，爰於第一項明定教育部依法令規定資格介派至公、私立學校擔任軍訓護理課程之護理教師之撫卹，準用本條例之規定，並酌作文字修正。\n　　二、原條文第二條已明列本條例之適用對象，原第二項規定已無必要，爰予刪除。另因護理教師於九十年十月三十一日始加入教育人員退休撫卹基金，爰於第二項明定其在九十年十月三十日前之任職年資應付之撫卹金，由公庫支給。"
-    },
+    "deprecated_reason": "　　查總統106年8月9日華總一義字第10600095501號令公布之公立學校教職員退休資遣撫卹條例第100條規定，除第8條第4項及第69條自公布日施行外，其餘條文自107年7月1日施行，原學校教職員退休條例及原學校教職員撫卹條例於同日起不再適用，爰依中央法規標準法第21條規定予以廢止，俾完備法制作業程序。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "971121",
-            "立法紀錄": "97卷67期3678號 41-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c8c9c8cfcfc4cfcfcbcec4cfcfcbce",
+            "會議日期": "1071109",
+            "立法紀錄": "107卷99期4623號一冊 13-14頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cccdc781cecfc8cfc6c6cfcec4cfcfceccc4cfcfcecb",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecfcfcec5cdcacdd2cdc9cf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090608:LCEWA01_090608_00036"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "971203",
-            "立法紀錄": "97卷72期3683號二冊 408-424頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c8c8cdcfcdc4cfcbcfc7c4cfcbcdcb",
+            "會議日期": "1080327",
+            "立法紀錄": "108卷32期4675號 179-251頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cccdc781cecfc7cfcccdcfcec4cfcec8c6c4cfcdcace",
             "關係文書": []
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "980604",
-            "立法紀錄": "98卷55期3741號 569-572頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cacacfcfc4cfcac9c6c4cfcac8cd",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "971219",
-            "立法紀錄": "97卷75期3686號 32-43頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c8c8cacfcfc4cfcfcccdc4cfcfcbcc",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1080409",
+            "立法紀錄": "108卷33期4676號 142-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cccdc781cecfc7cfcccccfcec4cfcecbcdc4cfcecacd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcecccfcec5c9caced2c9c9cd"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090708:LCEWA01_090708_00470"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "971230",
-            "立法紀錄": "98卷3期3689號一冊 145-145頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cfcccfcec4cfcecbcac4cfcecbca",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980106",
-            "立法紀錄": "98卷3期3689號二冊 227-227頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cfcccfcdc4cfcdcdc8c4cfcdcdc8",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "980109",
-            "立法紀錄": "98卷5期3691號一冊 173-173頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cfcacfcec4cfcec8ccc4cfcec8cc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 251-254頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cacacfcfc4cfcdcacec4cfcdcacb",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "981023",
-            "立法紀錄": "98卷55期3741號 255-255頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8cccacdc9cccdc981c6c7cacacfcfc4cfcdcacac4cfcdcaca",
+            "會議日期": "1080409",
+            "立法紀錄": "108卷33期4676號 152-152頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8cccacdc9cccdc781cecfc7cfcccccfcec4cfcecacdc4cfcecacd",
             "關係文書": []
         }
     ]
