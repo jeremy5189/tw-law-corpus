@@ -1,8 +1,8 @@
 {
     "title": "民法第四編親屬",
     "versions": [
-        "中華民國103年12月30日修正",
-        "中華民國104年1月14日公布"
+        "中華民國108年4月9日修正",
+        "中華民國108年4月24日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -82,7 +82,7 @@
         {
             "note": "(婚約解除之事由及方法)",
             "rule_no": "第九百七十六條",
-            "content": "　　婚約當事人之一方，有左列情形之一者，他方得解除婚約：\n　　一、婚約訂定後，再與他人訂定婚約或結婚者。\n　　二、故違結婚期約者。\n　　三、生死不明已滿一年者。\n　　四、有重大不治之病者。\n　　五、有花柳病或其他惡疾者。\n　　六、婚約訂定後成為殘廢者。\n　　七、婚約訂定後與人通姦者。\n　　八、婚約訂定後受徒刑之宣告者。\n　　九、有其他重大事由者。\n　　依前項規定解除婚約者，如事實上不能向他方為解除之意思表示時，無須為意思表示，自得為解除時起，不受婚約之拘束。",
+            "content": "　　婚約當事人之一方，有下列情形之一者，他方得解除婚約：\n　　一、婚約訂定後，再與他人訂定婚約或結婚。\n　　二、故違結婚期約。\n　　三、生死不明已滿一年。\n　　四、有重大不治之病。\n　　五、婚約訂定後與他人合意性交。\n　　六、婚約訂定後受徒刑之宣告。\n　　七、有其他重大事由。\n　　依前項規定解除婚約者，如事實上不能向他方為解除之意思表示時，無須為意思表示，自得為解除時起，不受婚約之拘束。",
             "relates": {}
         },
         {
@@ -1397,53 +1397,58 @@
         }
     ],
     "law_reasons": {
-        "第一千一百十一條 之二": "　　原條文之規定固係為避免提供照顧者與擔任監護人同一人時之利益衝突。惟實務上容有可能受監護人之配偶、父母、兒女、手足、女婿、媳婦或岳父母為提供照顧機構之代表人、負責人，或與該法人或機構有僱傭、委任或其他類似關係之人，以利就近提供照顧之情況，原條文一律排除適用，恐不符事實上之需要。爰增列「為該受監護宣告之人之配偶、四親等內之血親或二親等內之姻親」於但書予以排除。另倘若此類型監護人就特定監護事務之處理，有利益衝突之情事，得依民法第一千一百十三條之一準用第一千零九十八條第二項規定，選任特別代理人可資因應。"
+        "第九百七十六條": "　　一、依現行法制用語，將第一項序文「左列」修正為「下列」，並將各款之「者」字刪除。\n　　二、第一項第五款所稱「花柳病」係指透過性行為而感染的傳染病，俗稱性病。考量此非現代醫學用語，且性病之嚴重程度有輕重之別，不宜於一方得病時即賦予他方解除婚約之權，倘該性病係屬重大不治時，可適用第四款「有重大不治之病」之解除婚姻事由，爰將本款花柳病部分刪除；至本款「其他惡疾」之定義並不明確，爰併予刪除。\n　　三、第一項第六款因有「殘廢」之不當、歧視性文字，經行政院身心障礙者權益推動小組列為身心障礙者權利公約優先檢視法規，爰依身心障礙者權利公約施行法第十條規定，予以刪除。\n　　四、第一項第七款「與人通姦」，參酌第一千零五十二條第一項第二款，修正為「與他人合意性交」，並移列為第五款。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1030418",
-            "立法紀錄": "103卷25期4134號 16-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8ca81cecfcccfcdcacfcec4cfcfcec9c4cfcfcec9",
-            "主提案": "陳節如",
+            "會議日期": "1071002",
+            "立法紀錄": "107卷80期4604號 4-4頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8c881cecfc8cfc7cfcfcec4cfcfcfcbc4cfcfcfcb",
+            "主提案": "行政院 司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc9c8ccc5cacfccd2cacfcb"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090602:LCEWA01_090602_00029"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1031210",
-            "立法紀錄": "104卷1期4200號 301-301,302-361頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8ca81cecfcbcfcfcecfcec4cfcccfcec4cfcccfced9cecfcbcfcfcecfcec4cfcccfcdc4cfccc9ce",
+            "會議日期": "1080320",
+            "立法紀錄": "108卷30期4673號 2-74頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8c881cecfc7cfcccfcfcec4cfcfcfcdc4cfcfc8cb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 203-208頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8ca81cecfcbcfcfcdcfcec4cfcdcfccc4cfcdcfc7",
+            "會議日期": "1080409",
+            "立法紀錄": "108卷33期4676號 136-142頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8c881cecfc7cfcccccfcec4cfceccc9c4cfcecbcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfc9cecac8c6c5cdced2cdc9"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090708:LCEWA01_0907080206468_001"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 208-208頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8ca81cecfcbcfcfcdcfcec4cfcdcfc7c4cfcdcfc7",
-            "關係文書": []
+            "會議日期": "1080409",
+            "立法紀錄": "108卷33期4676號 142-142頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8c881cecfc7cfcccccfcec4cfcecbcdc4cfcecbcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090708:LCEWA01_0907080206468_002"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1031230",
-            "立法紀錄": "104卷2期4201號一冊 208-208頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8ca81cecfcbcfcfcdcfcec4cfcdcfc7c4cfcdcfc7",
+            "會議日期": "1080409",
+            "立法紀錄": "108卷33期4676號 142-142頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7c8c881cecfc7cfcccccfcec4cfcecbcdc4cfcecbcd",
             "關係文書": []
         }
     ]
