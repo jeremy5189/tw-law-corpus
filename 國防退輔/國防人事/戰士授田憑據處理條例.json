@@ -1,11 +1,11 @@
 {
     "title": "戰士授田憑據處理條例",
     "versions": [
-        "中華民國86年4月18日修正",
-        "中華民國86年5月14日公布"
+        "中華民國108年4月26日廢止",
+        "中華民國108年5月15日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -76,54 +76,45 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　一、本條例自八十年一月一日施行，至八十一年十二月三十一日截止申請登記，部分領有戰士授田憑據人員，因身處偏遠落後之地區，未能得知此一訊息，另有部分遺族不知為適用之對象，故未於期間內申請登記，而致喪失其權益。\n　　二、基於本條例之制定，旨在肯定戰士為國貢獻之立法精神，爰修正第一項、第三項之申請登記日期，以符公平照顧之原則。"
-    },
+    "deprecated_reason": "　　鑑於「戰士授田憑據處理條例」於民國80年1月1日施行迄今，因時空環境變遷，已無適用之餘地，復據監察院之糾正，國防部訂頒「合法領取戰士授田憑據補償金居住大陸地區人員補償金發放實施計畫」停止適用；於此，本條例予以廢止，以符實際。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "851206",
-            "立法紀錄": "85卷65期2887號上冊 6-6頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcecb81c7cac9cacfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "林郁方",
+            "會議日期": "1051202",
+            "立法紀錄": "105卷096期4393號一冊 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfceca81cecfcacfc6c9cfcec4cfcfcccec4cfcfccce",
+            "主提案": "蔡適應",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcec8cfcdc5cdcfcad2cdcfc7"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090213:LCEWA01_090213_00041"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "851216",
-            "立法紀錄": "85卷70期2892號下冊 219-232頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcecb81c7cac8cfcfccc4cfcdcec6c4cfcdcccd",
+            "會議日期": "1080418",
+            "立法紀錄": "108卷042期4686號 177-218頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfceca81cecfc7cfcbcdcfcec4cfcec8c8c4cfcdcec7",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "860418",
-            "立法紀錄": "86卷18期2910號上冊 27-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcecb81c7c9cec7cfcec4cfcfcdc8c4cfcfcccd",
+            "會議日期": "1080426",
+            "立法紀錄": "108卷043期4686號 162-166頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfceca81cecfc7cfcbcccfcec4cfcec9cdc4cfcec9c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcccfcdcdcbcfcec5c8cbcbd2c8cbc6"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090711:LCEWA01_090711_00496"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "860418",
-            "立法紀錄": "86卷18期2910號上冊 32-32頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcecb81c7c9cec7cfcec4cfcfcccdc4cfcfcccd",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "860418",
-            "立法紀錄": "86卷18期2910號上冊 33-33頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c8c9c7cecfcecb81c7c9cec7cfcec4cfcfccccc4cfcfcccc",
+            "會議日期": "1080426",
+            "立法紀錄": "108卷043期4686號 166-166頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c8c9c7cecfceca81cecfc7cfcbcccfcec4cfcec9c9c4cfcec9c9",
             "關係文書": []
         }
     ]
