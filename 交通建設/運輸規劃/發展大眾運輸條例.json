@@ -1,8 +1,8 @@
 {
     "title": "發展大眾運輸條例",
     "versions": [
-        "中華民國103年5月20日修正",
-        "中華民國103年6月4日公布"
+        "中華民國108年5月31日修正",
+        "中華民國108年6月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,8 +18,18 @@
         {
             "note": "(大眾運輸之定義及大眾運輸事業之範圍)",
             "rule_no": "第二條",
-            "content": "　　本條例所稱大眾運輸，係指具有固定路（航）線、固定班（航）次、固定場站及固定費率，提供旅客運送服務之公共運輸。\n　　適用本條例之大眾運輸事業，係指依法成立，並從事國內客運服務之下列公、民營事業：\n　　一、市區汽車客運業。\n　　二、公路汽車客運業。\n　　三、鐵路運輸業。\n　　四、大眾捷運系統運輸業。\n　　五、船舶運送業。\n　　六、載客小船經營業。\n　　七、民用航空運輸業。\n　　計程車客運業比照大眾運輸事業，免徵汽車燃料使用費及使用牌照稅。",
-            "relates": {}
+            "content": "　　本條例所稱大眾運輸，指下列規定之一者：\n　　一、具有固定路（航）線、固定班（航）次、固定場站及固定費率，提供旅客運送服務之公共運輸。\n　　二、以中央主管機關核定之特殊服務方式，提供第十條所定偏遠、離島、往來東部地區或特殊服務性之路（航）線旅客運送服務之公共運輸。\n　　適用本條例之大眾運輸事業，係指依法成立，並從事國內客運服務之下列公、民營事業：\n　　一、市區汽車客運業。\n　　二、公路汽車客運業。\n　　三、鐵路運輸業。\n　　四、大眾捷運系統運輸業。\n　　五、船舶運送業。\n　　六、載客小船經營業。\n　　七、民用航空運輸業。\n　　計程車客運業比照大眾運輸事業，免徵汽車燃料使用費及使用牌照稅。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "02074",
+                        "law_name": "發展大眾運輸條例",
+                        "numbers": [
+                            "第十條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(主管機關)",
@@ -31,7 +41,24 @@
             "note": "(大眾運輸場站及轉運站之設置)",
             "rule_no": "第四條",
             "content": "　　主管機關應依大眾運輸發展或重大建設需要，規劃設置大眾運輸場站或轉運站。\n　　前項大眾運輸場站或轉運站所需用地涉及都市計畫變更者，主管機關應協調都市計畫主管機關依都市計畫法第二十七條規定辦理變更；涉及非都市土地使用變更者，主管機關應協調區域計畫主管機關依區域計畫法第十三條規定辦理變更。\n　　主管機關對於大眾運輸場站或轉運站之土地及建築物，得協調相關主管機關調整其使用項目或使用強度。\n　　大眾運輸事業之固定運輸場站或轉運站應依實際需求設置無障礙設施及設備，主管機關應定期檢討無障礙設備及設施之設置與維護。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01156",
+                        "law_name": "區域計畫法",
+                        "numbers": [
+                            "第十三條"
+                        ]
+                    },
+                    {
+                        "law_no": "01161",
+                        "law_name": "都市計畫法",
+                        "numbers": [
+                            "第二十七條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(無障礙運輸服務及無障礙設施、設備之提供)",
@@ -70,10 +97,20 @@
             "relates": {}
         },
         {
-            "note": "(資本投資與營運虧損之補貼)",
+            "note": "(資本設備投資及營運虧損之補貼)",
             "rule_no": "第十條",
-            "content": "　　主管機關對大眾運輸事業資本設備投資及營運虧損，得予以補貼；其補貼之對象，限於偏遠、離島或特殊服務性之路（航）線業者。\n　　前項有關大眾運輸事業資本設備投資及營運虧損之補貼，應經主管機關審議；其審議組織、補貼條件、項目、方式、優先順序、分配比率及監督考核等事項之辦法，由中央主管機關定之。",
-            "relates": {}
+            "content": "　　主管機關對大眾運輸事業資本設備投資及營運虧損，得予以補貼；其補貼之對象，限於偏遠、離島、往來東部地區或特殊服務性之路（航）線業者。\n　　前項有關大眾運輸事業資本設備投資及營運虧損之補貼，應經主管機關審議；其審議組織、補貼條件、項目、方式、優先順序、分配比率及監督考核等事項之辦法，由中央主管機關定之。",
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "02074",
+                        "law_name": "發展大眾運輸條例",
+                        "numbers": [
+                            "第二條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(施行細則)",
@@ -89,74 +126,87 @@
         }
     ],
     "law_reasons": {
-        "第四條": "　　一、第四項新增。\n　　二、增訂大眾運輸事業之固定運輸場站或轉運站應依實際需求設置無障礙設施及設備，主管機關應定期檢討無障礙設備及設施之設置與維護。",
-        "第四條 之一": "　　一、本條新增。\n　　二、鑒於政府對於大眾運輸工具無障礙空間之相關設施，明顯未符合實際需求，造成身心障礙者及行動不便者之生活扶助上相當困擾；有鑑於此，爰增訂「各級交通主管機關應依實際需求，於運輸營運者所服務之路線、航線或區域內，規劃適當路線、航線、班次、客車（機船）廂（艙），提供無障礙運輸服務，及規劃設置便於各類身心障礙者行動與使用之無障礙設施及設備。」，俾使政府部門與民間公司對於無障礙設備及設施之設置能更加積極，以利其普及化與明確化。"
+        "第二條": "　　一、明定大眾運輸之範圍，將固定路線及其他特殊服務之大眾運輸樣態，納入大眾運輸範圍之中，以提升公共運輸使用率，延伸公共運輸路網。\n　　二、修正第一項，將「需求反應式運輸服務（DRTS）」納入大眾運輸範圍，例如偏遠地區之撥召巴士、小黃公車等，雖非固定路線，但以不同形態之運具負擔大眾運輸責任，應予納入發展大眾運輸之範圍。",
+        "第十條": "　　為改善東部地區對外運輸服務，滿足東部地區聯外交通及產業發展之需求，應進行路（航）線營運虧損補貼。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1020531",
-            "立法紀錄": "102卷38期4063號一冊 67-67頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cf81cecfcdcfccc7cfcec4cfcfc9c8c4cfcfc9c8",
-            "主提案": "陳亭妃",
+            "會議日期": "1050325",
+            "立法紀錄": "105卷010期4307號 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cd81cecfcacfcecfcfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "趙正宇",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcccecacfcec5cecdcdd2cecdcc"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090106:LCEWA01_090106_00017"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "1021206",
-            "立法紀錄": "102卷77期4102號一冊 24-24頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cf81cecfcdcfc8c8cfcec4cfcfcdcbc4cfcfcdcb",
-            "主提案": "陳亭妃",
+            "會議日期": "1060331",
+            "立法紀錄": "107卷099期4623號一冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cd81cecfc8cfc6c6cfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "蕭美琴",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcbceccc8cdc5cdcccad2cdcbcf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090307:LCEWA01_090307_00041"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1071109",
+            "立法紀錄": "107卷099期4623號一冊 12-12頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cd81cecfc8cfc6c6cfcec4cfcfcecdc4cfcfcecd",
+            "主提案": "李昆澤",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090608:LCEWA01_090608_00016\""
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1030317",
-            "立法紀錄": "103卷20期4129號 198-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cf81cecfcccfcdcfcfcec4cfcec6c7c4cfcdcbcb",
+            "會議日期": "1080513",
+            "立法紀錄": "108卷054期4697號 101-145頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cd81cecfc7cfcacbcfcec4cfcecfcec4cfcecbca",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1030331",
-            "立法紀錄": "103卷23期4132號 377-440頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cf81cecfcccfcdcccfcec4cfccc8c8c4cfcbcbcf",
+            "會議日期": "1080520",
+            "立法紀錄": "108卷057期4700號 11-33頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cd81cecfc7cfcac8cfcec4cfcfcecec4cfcfcccc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號二冊 214-221頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cf81cecfcccfccc8cfcdc4cfcdcecbc4cfcdcdce",
+            "會議日期": "1080531",
+            "立法紀錄": "108卷060期4703號五冊 345-353頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cd81cecfc7cfc9cfcfcac4cfcccbcac4cfcccacc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcacfc6c8c8c5cecccad2cecbcd"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090716:LCEWA01_090716_00444"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號二冊 221-221頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cf81cecfcccfccc8cfcdc4cfcdcdcec4cfcdcdce",
+            "會議日期": "1080531",
+            "立法紀錄": "108卷060期4703號五冊 353-353頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cd81cecfc7cfc9cfcfcac4cfcccaccc4cfcccacc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1030520",
-            "立法紀錄": "103卷37期4146號二冊 221-221頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cf81cecfcccfccc8cfcdc4cfcdcdcec4cfcdcdce",
+            "會議日期": "1080531",
+            "立法紀錄": "108卷060期4703號五冊 353-354頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc8ccc9cd81cecfc7cfc9cfcfcac4cfcccaccc4cfcccacb",
             "關係文書": []
         }
     ]
