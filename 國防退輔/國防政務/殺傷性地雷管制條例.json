@@ -1,8 +1,8 @@
 {
     "title": "殺傷性地雷管制條例",
     "versions": [
-        "中華民國95年5月26日制定",
-        "中華民國95年6月14日公布"
+        "中華民國108年5月31日修正",
+        "中華民國108年6月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -31,13 +31,33 @@
             "note": "(殺傷性地雷之禁制行為)",
             "rule_no": "第四條",
             "content": "　　未經主管機關許可，不得為下列行為：\n　　一、研發、生產、使用、儲存或移交任何殺傷性地雷。\n　　二、協助、鼓勵或唆使他人為前款行為。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01466",
+                        "law_name": "殺傷性地雷管制條例",
+                        "numbers": [
+                            "第九條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(得移交或保留或不得使用殺傷性地雷)",
             "rule_no": "第五條",
             "content": "　　基於訓練或研發除雷技術，得移交或保留殺傷性地雷。\n　　主管機關非因戰爭之迫切需要，不得使用殺傷性地雷。",
-            "relates": {}
+            "relates": {
+                "被引用條文": [
+                    {
+                        "law_no": "01466",
+                        "law_name": "殺傷性地雷管制條例",
+                        "numbers": [
+                            "第七條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(佈雷區域內殺傷性地雷之剷除期限及展期)",
@@ -49,7 +69,17 @@
             "note": "(殺傷性地雷之監控、管制暨檢討改進)",
             "rule_no": "第七條",
             "content": "　　主管機關為達成本條例目的，應實施下列監督、控制措施，並應就下列事項有關之法規及其執行情形，定期檢討、協調、改進之：\n　　一、殺傷性地雷之類別、數量。\n　　二、第五條規定之移交與保留。\n　　三、殺傷性地雷製造工廠之調查及相關管制方案之進行。\n　　四、除雷計畫之安全性及對於環境之影響。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01466",
+                        "law_name": "殺傷性地雷管制條例",
+                        "numbers": [
+                            "第五條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(殺傷性地雷之管制得請求他國協助事項)",
@@ -60,8 +90,18 @@
         {
             "note": "(罰則)",
             "rule_no": "第九條",
-            "content": "　　違反第四條規定者，處七年以上有期徒刑，得併科新臺幣五十萬元以上罰金。所有設備、成品、半成品、器械、原料沒收之。\n　　前項之未遂犯罰之。",
-            "relates": {}
+            "content": "　　違反第四條規定者，處七年以上有期徒刑，得併科新臺幣五十萬元以上罰金。所有設備、成品、半成品、器械、原料，不問屬於犯罪行為人與否，沒收之。\n　　前項之未遂犯罰之。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "01466",
+                        "law_name": "殺傷性地雷管制條例",
+                        "numbers": [
+                            "第四條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "(申請補償)",
@@ -77,76 +117,84 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　說明本條例之立法意旨及本條例與其他法律之適用順序。",
-        "第二條": "　　明訂本法之主管機關。",
-        "第三條": "　　說明本條例相關用詞定義。",
-        "第四條": "　　明訂本條例有關殺傷性地雷之禁制行為。",
-        "第五條": "　　依據國際『廢棄暨禁止生產、儲存、使用、移轉殺傷性地雷條例』，明訂為研發與訓練之目的，及非因戰爭之迫切需要，不得使用。",
-        "第六條": "　　一、明訂本條例配合地方政府之開發，主管機關應優先剷除佈雷區域內之殺傷性地雷。\n　　二、明訂主管機關無法於規定年限內完成排雷，應載明理由報請行政院核准後展延。\n　　三、剷除進度或事項，應每年向立法院報告。",
-        "第七條": "　　明訂本條例有關殺傷性地雷之監控、管制暨檢討改進之規定。",
-        "第八條": "　　明訂本條例對殺傷性地雷之管制，得請求其他國家提供必要之協助。",
-        "第九條": "　　明訂違反本條例之罰則。",
-        "第十條": "　　明訂因政府使用、剷除殺傷性地雷致人民傷亡或財物損害，得申請補償，補償辦法由主管機關定之。",
-        "第十一條": "　　本條例之施行日期。"
+        "第九條": "　　一、為因應中華民國刑法（以下簡稱刑法）部分條文於104年12月30日修正公布，將沒收獨立於刑罰及保安處分之外，並增訂沒收章規範，因刑法規定不問屬於犯罪行為人與否應予沒收者，僅限於違禁物；對於其他非屬犯罪行為人之物之沒收，亦須無正當理由提供或取得者，較本條例原第一項沒收規定之範圍為狹；復依刑法施行法第十條之三規定，上開刑法修正條文，自105年7月1日施行。該施行日前施行之其他法律關於沒收、追徵、追繳、抵償之規定，不再適用，爰修正第一項，定明未經主管機關許可所保有殺傷性地雷之所有設備、成品、半成品、器械、原料，不問屬於犯罪行為人與否，沒收之，以斷絕殺傷性地雷所造成之一切傷亡及損害。\n　　二、第二項規定未修正。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "941007",
-            "立法紀錄": "94卷49期3431號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cec981c6cbcbc6cfcfc4cfcfcfcac4cfcfcfca",
-            "主提案": "蕭美琴",
+            "會議日期": "1050913",
+            "立法紀錄": "105卷066期4363號一冊 7-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cec881cecfcacfc9c9cfcec4cfcfcfc8c4cfcfcfc8",
+            "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfcacfcdc5cac8c8d2cac7cf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090201:LCEWA01_090201_00049"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "941014",
-            "立法紀錄": "94卷52期3434號一冊 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cec981c6cbcacdcfcec4cfcfcfcdc4cfcfcfcd",
-            "主提案": "吳成典",
+            "會議日期": "1060303",
+            "立法紀錄": "106卷019期4421號 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cec881cecfc9cfcec6cfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "趙正宇",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcdcfc9cfcec5c8c7d2c7ce"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090303:LCEWA01_090303_00015"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1060310",
+            "立法紀錄": "106卷021期4423號 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cec881cecfc9cfcdcecfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "蔡適應",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090304:LCEWA01_090304_00023"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "941219",
-            "立法紀錄": "95卷1期3462號一冊 277-300頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cec981c6cacfcecfcec4cfcdc8c8c4cfcccfcf",
+            "會議日期": "1080516",
+            "立法紀錄": "108卷055期4698號 1-46頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cec881cecfc7cfcacacfcec4cfcfcfcec4cfcfcbc9",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "950526",
-            "立法紀錄": "95卷32期3493號一冊 213-222頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cec981c6cacccdcfcec4cfcdceccc4cfcdcdcd",
+            "會議日期": "1080531",
+            "立法紀錄": "108卷060期4703號五冊 187-195頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cec881cecfc7cfc9cfcfcac4cfcec7c8c4cfcec6ca",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcccecacfcdc5cdc7cdd2cdc6cf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090716:LCEWA01_0907160206431_001"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "950526",
-            "立法紀錄": "95卷32期3493號一冊 222-224頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cec981c6cacccdcfcec4cfcdcdcdc4cfcdcdcb",
-            "關係文書": []
+            "會議日期": "1080531",
+            "立法紀錄": "108卷060期4703號五冊 195-195頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cec881cecfc7cfc9cfcfcac4cfcec6cac4cfcec6ca",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090716:LCEWA01_0907160206431_002"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "950526",
-            "立法紀錄": "95卷32期3493號一冊 224-225頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac8c7ccccc9c7cec981c6cacccdcfcec4cfcdcdcbc4cfcdcdca",
+            "會議日期": "1080531",
+            "立法紀錄": "108卷060期4703號五冊 195-195頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac8c7ccccc9c7cec881cecfc7cfc9cfcfcac4cfcec6cac4cfcec6ca",
             "關係文書": []
         }
     ]
