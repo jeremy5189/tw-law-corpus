@@ -1,19 +1,29 @@
 {
     "title": "司法院組織法",
     "versions": [
-        "中華民國108年12月10日修正",
-        "中華民國108年12月31日公布"
+        "中華民國109年5月22日修正",
+        "中華民國109年6月10日公布"
     ],
     "types": [
-        "異動條文及理由",
-        "立法歷程"
+        "立法歷程",
+        "異動條文"
     ],
     "law_data": [
         {
             "note": "",
             "rule_no": "第一條",
             "content": "　　本法依憲法第八十二條制定之。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04101",
+                        "law_name": "中華民國憲法",
+                        "numbers": [
+                            "第八十二條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
@@ -37,12 +47,22 @@
             "note": "",
             "rule_no": "第五條",
             "content": "　　大法官須超出黨派以外，獨立行使職權，不受任何干涉。\n　　實任法官轉任之大法官任期屆滿者，視同停止辦理審判案件之法官，不計入機關所定員額，支領法官法第七十二條第一項及第二項所定俸給總額之三分之二，並準用政務人員退職撫卹條例之規定。\n　　實任檢察官轉任之大法官任期屆滿者，準用前項規定。",
-            "relates": {}
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04565",
+                        "law_name": "法官法",
+                        "numbers": [
+                            "第七十二條"
+                        ]
+                    }
+                ]
+            }
         },
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　司法院設各級法院、行政法院及公務員懲戒委員會；其組織均另以法律定之。",
+            "content": "　　司法院設各級法院、行政法院及懲戒法院；其組織均另以法律定之。",
             "relates": {}
         },
         {
@@ -142,72 +162,56 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第三條": "　　配合憲法訴訟法對於大法官職權行使方式之修正，於本法明定憲法法庭之組織。",
-        "第九條": "　　配合憲法訴訟法之修正，大法官審理案件方式已生重大變革，為因應業務推動之必要，故第六款本院所設之大法官書記處應更名為憲法法庭書記廳。",
-        "第十二條": "　　一、憲法訴訟法施行後，大法官審理案件之業務及周邊配合行政事項，均需司法院憲法法庭書記廳協助辦理，是司法院部分職稱，如專門委員、科長、管理師、科員、書記官、助理設計師、書記等，其法定員額上限有調整之必要。\n　　二、第二項未修正。",
-        "第十三條": "　　一、第一項未修正。\n　　二、大法官組成憲法法庭，受理包括法規範憲法審查、裁判憲法審查、機關爭議、總統、副總統彈劾、政黨違憲解散、地方自治保障、統一解釋及其他法律規定得聲請司法院解釋之案件，種類繁多，所涉甚廣。為發揮憲法法庭最大之審理效能，有借助嫻熟訴訟實務運作，且學識、經驗豐富之實任法官至司法院辦事，協助大法官辦理案件之審查、分析法律問題、草擬裁判書及其他交辦事項之必要。惟原條文就實任法官之調任性質不明確，爰修正第二項文字並調整辦理事務內容。",
-        "第十四條": "　　一、為協助處理案件之審查、爭點整理及資料蒐集等基礎輔助審判事務，加速大法官審理案件之效能，第一項增加大法官助理之員額上限並調整辦理事務內容。\n　　二、第二項及第三項未修正。",
-        "第十六條": "　　一、第一項未修正。\n　　二、配合第九條第六款之修正，第二項之「大法官書記處」修正為「憲法法庭書記廳」，並明定該廳辦理支援審判業務事項科長、股長之兼任資格。",
-        "第二十二條": "　　一、第一項未修正。\n　　二、配合憲法訴訟法之實施日期，爰增訂第二項，明定本次修正條文第三條、第九條及第十六條自一百十一年一月四日施行。"
-    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1080503",
-            "立法紀錄": "108卷046期4689號 16-16頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc681cecfc7cfcbc9cfcec4cfcfcec9c4cfcfcec9",
-            "主提案": "司法院",
+            "會議日期": "1090410",
+            "立法紀錄": "109卷021期4770號 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfcdcecfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "李貴敏",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090712:LCEWA01_090712_00040"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100108:LCEWA01_100108_00029"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1081003",
-            "立法紀錄": "108卷073期4716號 134-172頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc681cecfc7cfc8cccfcec4cfcecccbc4cfcec8cd",
+            "會議日期": "1090504",
+            "立法紀錄": "109卷038期4787號一冊 186-244頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfccc7cfcec4cfcec7c9c4cfcdcbcb",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1081210",
-            "立法紀錄": "108卷101期4744號一冊 225-233頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc681cecfc7cecfcecfcec4cfcdcdcac4cfcdcccc",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號二冊 310-313頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfcbc9cfcdc4cfcccecfc4cfcccecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090812:LCEWA01_090812_40010_01"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100114:LCEWA01_100114_00799"
                 ]
             ]
         },
         {
-            "進度": "黨團協商",
-            "會議日期": "1081128",
-            "立法紀錄": "108卷098期4741號三冊 565-565頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc681cecfc7cfc6c7cfccc4cfcac9cac4cfcac9ca",
-            "關係文書": []
-        },
-        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1081210",
-            "立法紀錄": "108卷101期4744號一冊 233-235頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc681cecfc7cecfcecfcec4cfcdccccc4cfcdccca",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號二冊 313-313頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfcbc9cfcdc4cfccceccc4cfcccecc",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090812:LCEWA01_090812_40010_02"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100114:LCEWA01_100114_00800"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1081210",
-            "立法紀錄": "108卷101期4744號一冊 235-235頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacbc681cecfc7cecfcecfcec4cfcdcccac4cfcdccca",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號二冊 313-313頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfcbc9cfcdc4cfccceccc4cfcccecc",
             "關係文書": []
         }
     ]
