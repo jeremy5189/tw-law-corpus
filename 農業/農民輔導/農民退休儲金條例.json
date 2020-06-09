@@ -5,6 +5,7 @@
         "中華民國109年6月10日公布"
     ],
     "types": [
+        "立法歷程",
         "異動條文"
     ],
     "law_data": [
@@ -410,6 +411,265 @@
             "rule_no": "第三十三條",
             "content": "　　本條例施行日期，由行政院定之。",
             "relates": {}
+        }
+    ],
+    "law_history": [
+        {
+            "進度": "一讀",
+            "會議日期": "1090407",
+            "立法紀錄": "109卷018期4767號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcec7cfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "郭國文",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100107:LCEWA01_100107_00018"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090407",
+            "立法紀錄": "109卷018期4767號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcec7cfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "陳亭妃",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100107:LCEWA01_100107_00045"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090407",
+            "立法紀錄": "109卷018期4767號一冊 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcec7cfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100107:LCEWA01_100107_00061"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090410",
+            "立法紀錄": "109卷021期4770號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdcecfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "鄭天財Sra Kacaw",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100108:LCEWA01_100108_00022"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090417",
+            "立法紀錄": "109卷025期4774號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdcacfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "楊瓊瓔",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100109:LCEWA01_100109_00007"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090417",
+            "立法紀錄": "109卷025期4774號一冊 2-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdcacfcec4cfcfcfcdc4cfcfcfcd",
+            "主提案": "曾銘宗",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100109:LCEWA01_100109_00021"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090417",
+            "立法紀錄": "109卷025期4774號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdcacfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "蘇治芬",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100109:LCEWA01_100109_00032"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090417",
+            "立法紀錄": "109卷025期4774號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdcacfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "陳素月",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100109:LCEWA01_100109_00046"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090417",
+            "立法紀錄": "109卷025期4774號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdcacfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "黃世杰",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100109:LCEWA01_100109_00050"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090417",
+            "立法紀錄": "109卷025期4774號一冊 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdcacfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "謝衣鳯",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100109:LCEWA01_100109_00064"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090424",
+            "立法紀錄": "109卷029期4778號一冊 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdc6cfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "劉建國",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100110:LCEWA01_100110_00078"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1090515",
+            "立法紀錄": "109卷042期4791號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbcdcfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "賴瑞隆",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100113:LCEWA01_100113_00009"
+                ]
+            ]
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1090415",
+            "立法紀錄": "109卷028期4777號 98-238頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdc7cfcec4cfcfc6c7c4cfcdccc7",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1090416",
+            "立法紀錄": "109卷028期4777號 239-286頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcdc7cfcec4cfcdccc6c4cfcdc7c9",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1090501",
+            "立法紀錄": "109卷032期4781號一冊 63-64頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcccdcfcec4cfcfc9ccc4cfcfc9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號一冊 294-467頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbc9cfcec4cfcdc6cbc4cfcbc9c8",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100114:LCEWA01_100114_00763"
+                ]
+            ]
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1090501",
+            "立法紀錄": "109卷038期4787號二冊 369-377頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfccc7cfcdc4cfccc9c6c4cfccc8c8",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1090511",
+            "立法紀錄": "109卷042期4791號二冊 453-464頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbcdcfcdc4cfcbcaccc4cfcbc9cb",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1090519",
+            "立法紀錄": "109卷042期4791號二冊 465-468頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbcdcfcdc4cfcbc9cac4cfcbc9c7",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1090521",
+            "立法紀錄": "109卷043期4792號二冊 113-466頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbcccfcdc4cfcececcc4cfcbc9c9",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號二冊 581-601頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbc9cfcdc4cfcac7cec4cfc9cfce",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號一冊 467-482頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbc9cfcec4cfcbc9c8c4cfcbc7cd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100114:LCEWA01_100114_00764"
+                ]
+            ]
+        },
+        {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號二冊 373-377頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbc9cfcdc4cfccc8ccc4cfccc8c8",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號一冊 482-485頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbc9cfcec4cfcbc7cdc4cfcbc7ca",
+            "關係文書": []
+        },
+        {
+            "進度": "三讀",
+            "會議日期": "1090522",
+            "立法紀錄": "109卷046期4795號二冊 192-192頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcbc7cecb81cecfc6cfcbc9cfcdc4cfcec6cdc4cfcec6cd",
+            "關係文書": []
         }
     ]
 }
