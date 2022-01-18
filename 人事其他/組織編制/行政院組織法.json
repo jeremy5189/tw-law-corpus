@@ -1,8 +1,8 @@
 {
     "title": "行政院組織法",
     "versions": [
-        "中華民國99年1月12日全文修正",
-        "中華民國99年2月3日公布"
+        "中華民國110年12月28日修正",
+        "中華民國111年1月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -34,13 +34,13 @@
         {
             "note": "",
             "rule_no": "第三條",
-            "content": "　　行政院設下列各部：\n　　一、內政部。\n　　二、外交部。\n　　三、國防部。\n　　四、財政部。\n　　五、教育部。\n　　六、法務部。\n　　七、經濟及能源部。\n　　八、交通及建設部。\n　　九、勞動部。\n　　十、農業部。\n　　十一、衛生福利部。\n　　十二、環境資源部。\n　　十三、文化部。\n　　十四、科技部。",
+            "content": "　　行政院設下列各部：\n　　一、內政部。\n　　二、外交部。\n　　三、國防部。\n　　四、財政部。\n　　五、教育部。\n　　六、法務部。\n　　七、經濟及能源部。\n　　八、交通及建設部。\n　　九、勞動部。\n　　十、農業部。\n　　十一、衛生福利部。\n　　十二、環境資源部。\n　　十三、文化部。\n　　十四、數位發展部。",
             "relates": {}
         },
         {
             "note": "",
             "rule_no": "第四條",
-            "content": "　　行政院設下列各委員會：\n　　一、國家發展委員會。\n　　二、大陸委員會。\n　　三、金融監督管理委員會。\n　　四、海洋委員會。\n　　五、僑務委員會。\n　　六、國軍退除役官兵輔導委員會。\n　　七、原住民族委員會。\n　　八、客家委員會。",
+            "content": "　　行政院設下列各委員會：\n　　一、國家發展委員會。\n　　二、國家科學及技術委員會。\n　　三、大陸委員會。\n　　四、金融監督管理委員會。\n　　五、海洋委員會。\n　　六、僑務委員會。\n　　七、國軍退除役官兵輔導委員會。\n　　八、原住民族委員會。\n　　九、客家委員會。",
             "relates": {}
         },
         {
@@ -116,212 +116,120 @@
         {
             "note": "",
             "rule_no": "第十五條",
-            "content": "　　本法自中華民國一百零一年一月一日開始施行。",
+            "content": "　　本法自中華民國一百零一年一月一日開始施行。\n　　本法修正條文施行日期，由行政院定之。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第一條": "　　本條未修正。",
-        "第二條": "　　本條未修正。",
-        "第三條": "　　照黨團協商條文通過。",
-        "第四條": "　　照黨團協商條文通過。",
-        "第五條": "　　照黨團協商條文通過。",
-        "第六條": "　　照黨團協商條文通過。",
-        "第七條": "　　照黨團協商條文通過。",
-        "第八條": "　　照黨團協商條文通過。",
-        "第九條": "　　照黨團協商條文通過。",
-        "第十條": "　　一、條次變更，本條為原條文第七條移列。\n　　二、配合基準法第十七條規定修正。",
-        "第十一條": "　　條次變更，本條為原條文第八條移列，並酌作文字修正。",
-        "第十二條": "　　照黨團協商條文通過。",
-        "第十三條": "　　一、條次變更，本條為原條文第十一條移列。\n　　二、有關職務列等及員額配置等，將另以編制表定之，爰刪除原條文有關員額之規定。",
-        "第十四條": "　　行政院為處理特定事務，得於院內設專責單位，並於行政院處務規程明定。",
-        "第十五條": "　　照黨團協商條文通過。"
+        "第三條": "　　一、第一款至第十三款未修正。\n　　二、整合政府有關通訊、資訊、資通安全、網路及傳播五大業務，成立數位發展部，列為第十四款。另為強化國家科技發展整體規劃，配套將科技部調整為具跨部會協調功能之國家科學及技術委員會，另於修正條文第四條規範。",
+        "第四條": "　　一、第一款未修正。\n　　二、配合科技部調整為國家科學及技術委員會，增訂第二款，其後款次遞移。",
+        "第十五條": "　　一、第一項未修正。\n　　二、增訂第二項，定明本次修正條文之施行日期。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "970328",
-            "立法紀錄": "97卷8期3619號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c8cfc7cfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "呂學樟",
+            "會議日期": "1091224",
+            "立法紀錄": "110卷006期4857號一冊 6-7頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cececfcfcfc9cfcec4cfcfcfc9c4cfcfcfc8",
+            "主提案": "吳怡玎",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfcacfcec5cecac9d2cec9c8"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100209:LCEWA01_100209_00062"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "970422",
-            "立法紀錄": "97卷16期3627號 13-13頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c8cec9cfcfc4cfcfceccc4cfcfcecc",
-            "主提案": false,
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcecfc8cfcdc5cecbcad2cecaca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971014",
-            "立法紀錄": "97卷53期3664號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c8cacccfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "潘維剛",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcbcfcdc5c9cfccd2c9cfc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "971017",
-            "立法紀錄": "97卷54期3665號 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c8cacbcfcfc4cfcfcfccc4cfcfcfcc",
-            "主提案": "黃昭順",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcdcfcacfcdc5cbcec9d2cbcec7"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980327",
-            "立法紀錄": "98卷14期3700號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7cecbcfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "潘孟安",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccfc9cfccc5cbc6c8d2cacfc9"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "980428",
-            "立法紀錄": "98卷24期3710號 5-5頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7cdcbcfcfc4cfcfcfcac4cfcfcfca",
+            "會議日期": "1100406",
+            "立法紀錄": "110卷034期4885號 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cececfcfcccbcfcec4cfcfcecec4cfcfcece",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecfcfcec5cdc9cad2cdc8ca"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100306:10454"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "980602",
-            "立法紀錄": "98卷37期3723號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7ccc8cfcfc4cfcfcfcbc4cfcfcfcb",
-            "主提案": "田秋堇",
+            "會議日期": "1100416",
+            "立法紀錄": "110卷040期4891號 13-13頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cececfcfcbcfcfcec4cfcfceccc4cfcfcecc",
+            "主提案": "黃國書",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccecacfcec5cec7c8d2cec6cf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100308:LCEWA01_100308_00066"
                 ]
             ]
         },
         {
             "進度": "一讀",
-            "會議日期": "980612",
-            "立法紀錄": "98卷42期3728號一冊 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7cbcdcfcec4cfcfcfcbc4cfcfcfcb",
-            "主提案": "張嘉郡",
+            "會議日期": "1100514",
+            "立法紀錄": "110卷057期4908號一冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cececfcfcac8cfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "林宜瑾",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcccec8cfcec5cdcecbd2cdcec6"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100312:10578"
                 ]
             ]
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "980514",
-            "立法紀錄": "98卷35期3721號 3-52頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7cccacfcfc4cfcfcfccc4cfcfcacd",
+            "進度": "委員會(公聽會)",
+            "會議日期": "1091207",
+            "立法紀錄": "109卷102期4851號 103-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cecfc6cecfcdcfcec4cfcecfccc4cfcec7cc",
             "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "980521",
-            "立法紀錄": "98卷36期3722號 340-358頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7ccc9cfcfc4cfcccbcfc4cfcccac7",
+            "會議日期": "1100519",
+            "立法紀錄": "110卷068期4919號 296-371頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cececfcfc9c7cfcec4cfcdc6c9c4cfccc8ce",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "980527",
-            "立法紀錄": "98卷40期3726號 89-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7cbcfcfcfc4cfcfc7c6c4cfcecdcd",
+            "進度": "黨團協商",
+            "會議日期": "1101103",
+            "立法紀錄": "110卷098期4949號 313-319頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cececfcfc6c7cfcec4cfccceccc4cfcccec6",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "980603",
-            "立法紀錄": "98卷41期3727號 3-14頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7cbcecfcfc4cfcfcfccc4cfcfcecb",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1101207",
+            "立法紀錄": "111卷004期4975號 79-79頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cecececfcfcbcfcec4cfcfc8c6c4cfcfc8c6",
             "關係文書": []
         },
         {
-            "進度": "委員會審查",
-            "會議日期": "980608",
-            "立法紀錄": "98卷43期3729號 115-139頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7cbcccfcfc4cfcececac4cfceccc6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "980611",
-            "立法紀錄": "98卷44期3730號二冊 428-450頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7cbcbcfcdc4cfcbcdc7c4cfcbcacf",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "981116",
-            "立法紀錄": "98卷70期3756號 216-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7c8cfcfcfc4cfcdcec9c4cfcdcbcb",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "981203",
-            "立法紀錄": "98卷76期3762號 176-179頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7c8c9cfcfc4cfcec8c9c4cfcec8c6",
-            "關係文書": []
-        },
-        {
-            "進度": "委員會審查",
-            "會議日期": "981214",
-            "立法紀錄": "98卷79期3765號 213-233頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecac6cccfcfcccecec681c6c7c8c6cfcfc4cfcdceccc4cfcdcccc",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "990112",
-            "立法紀錄": "99卷5期3770號二冊 329-408頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccecec681cfc6c6cfcfcacfcdc4cfcccdc6c4cfcbcfc7",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 56-66頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cecececfcec6cfcdc4cfcfcac9c4cfcfc9c9",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc8cfcbcecacfcbc5cbcfced2cbc8cc"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100415:40014_1"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 66-67,341-342頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cecececfcec6cfcdc4cfcfc9c9c4cfcfc9c8d9cecececfcec6cfcdc4cfcccbcec4cfcccbcd",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "990112",
-            "立法紀錄": "99卷5期3770號二冊 408-409頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccecec681cfc6c6cfcfcacfcdc4cfcbcfc7c4cfcbcfc6",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 67-67頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcbcec981cecececfcec6cfcdc4cfcfc9c8c4cfcfc9c8",
             "關係文書": []
         }
     ]
