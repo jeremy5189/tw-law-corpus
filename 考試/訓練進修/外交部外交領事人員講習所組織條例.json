@@ -1,11 +1,11 @@
 {
     "title": "外交部外交領事人員講習所組織條例",
     "versions": [
-        "中華民國63年12月6日修正",
-        "中華民國63年12月19日公布"
+        "中華民國111年5月24日廢止",
+        "中華民國111年6月15日公布"
     ],
     "types": [
-        "異動條文及理由",
+        "廢止理由",
         "立法歷程"
     ],
     "law_data": [
@@ -76,40 +76,58 @@
             "relates": {}
         }
     ],
-    "law_reasons": {
-        "第二條": "　　原條文句末「職位均列第十至第十四職等」等字，改為「均簡任」。　　",
-        "第三條": "　　原條文中「職位列第七至第十一職等」等字，改為「薦任或簡任」。",
-        "第四條": "　　一、原條文中「職位均列第六至第九職等」等字，改為「薦任」。\n　　二、刪除組員及辦事員之職位職等，改為「均委任」。\n　　三、原「書記」改為「雇員」，並刪除其職位職等。",
-        "第六條": "　　原條文中「職位列第一至第五職等」等字，改為「委任」。\n　　",
-        "第八條": "　　一、本條刪除。\n　　二、配合本法修正第二條至第四條及第六條，爰予以刪除。"
-    },
+    "deprecated_reason": "　　原外交部外交領事人員講習所改制為外交部外交及國際事務學院，「外交部外交及國際事務學院組織法」業於101年9月1日施行，原「外交部外交領事人員講習所組織條例」應配合辦理廢止，俾完備法制作業程序，爰依中央法規標準法第21條規定，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "630920",
-            "立法紀錄": "63卷70期726號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecc81c9cccaccc8cfcfcfcfcec4cfcfcfcdc4cfcfcfcd",
-            "關係文書": []
+            "會議日期": "1100507",
+            "立法紀錄": "110卷053期4904號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfcccdc881cececfcfcacccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "黃世杰",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100311:LCEWA01_100311_00024"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1110301",
+            "立法紀錄": "111卷034期5005號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfcccdc881cecececfcccbcfcec4cfcfcfc8c4cfcfcfc7",
+            "主提案": "行政院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100501:LCEWA01_100501_00047"
+                ]
+            ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "631002",
-            "立法紀錄": "63卷90期746號 35-38頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecc81c9cccacbc6cfcfcfcfcdc4cfcfcccac4cfcfccc7",
+            "會議日期": "1110511",
+            "立法紀錄": "111卷076期5047號一冊 223-298頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfcccdc881cecececfc8c9cfcec4cfcdcdccc4cfcdc6c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "631206",
-            "立法紀錄": "63卷92期748號 15-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecc81c9cbcacbc6cdcfcfcfcec4cfcfcecac4cfcfcec6",
-            "關係文書": []
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1110524",
+            "立法紀錄": "111卷075期5046號二冊 188-190頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfcccdc881cecececfc8cacfcdc4cfcec7c7c4cfcec6cf",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100513:40010"
+                ]
+            ]
         },
         {
             "進度": "三讀",
-            "會議日期": "631206",
-            "立法紀錄": "63卷92期748號 19-19頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcdc7cecc81c9cbcacbc6cdcfcfcfcec4cfcfcec6c4cfcfcec6",
+            "會議日期": "1110524",
+            "立法紀錄": "111卷075期5046號二冊 190-190頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfcccdc881cecececfc8cacfcdc4cfcec6cfc4cfcec6cf",
             "關係文書": []
         }
     ]
