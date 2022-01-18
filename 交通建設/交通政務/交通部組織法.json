@@ -1,8 +1,8 @@
 {
     "title": "交通部組織法",
     "versions": [
-        "中華民國106年11月7日修正",
-        "中華民國106年11月22日公布"
+        "中華民國110年12月28日修正",
+        "中華民國111年1月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -42,7 +42,7 @@
         {
             "note": "",
             "rule_no": "第六條",
-            "content": "　　郵電司掌理左列事項：\n　　一、關於郵政規劃之核議事項。\n　　二、關於郵政儲金、匯兌及簡易人壽保險規劃之核議事項。\n　　三、關於郵政事業經營與其聯繫之規劃及策進事項。\n　　四、關於郵政事業費率之核議事項。\n　　五、關於郵政事業之監理事項。\n　　六、關於通訊整體資源及相關政策之規劃事項。\n　　七、關於通訊產業輔導、獎勵政策之規劃及策進事項。\n　　八、關於通訊接近使用及普及服務之配合促進事項。\n　　九、關於郵政及通訊之國際合作交流事項。\n　　十、其他有關郵政事項。",
+            "content": "　　郵電司掌理下列事項：\n　　一、關於郵政規劃之核議事項。\n　　二、關於郵政儲金、匯兌及簡易人壽保險規劃之核議事項。\n　　三、關於郵政事業經營與其聯繫之規劃及策進事項。\n　　四、關於郵政事業費率之核議事項。\n　　五、關於郵政事業之監理事項。\n　　六、關於郵政之國際合作交流事項。\n　　七、其他有關郵政事項。",
             "relates": {}
         },
         {
@@ -323,53 +323,54 @@
         }
     ],
     "law_reasons": {
-        "第十八條 之一": "　　民國100年12月6日商港法修正後，商港之經營及管理組織已改由航港局及國營港務公司主管，同年10月25日國營港務股份有限公司設置條例亦制訂通過；爰此101年3月1日將舊有港務局體制改為「臺灣港務股份有限公司」及「航港局」。故修正交通部組織法將四港務局刪除。"
+        "第六條": "　　一、配合數位發展部成立，郵電司關於電信及通訊傳播業務將移至該部，爰刪除原條文第六款至第八款及第九款有關電信及通訊傳播業務文字，序文並酌修文字。\n　　二、配合前開款次刪除，原第九款及第十款款次遞移為第六款及第七款。"
     },
     "law_history": [
         {
-            "進度": "一讀",
-            "會議日期": "1051202",
-            "立法紀錄": "105卷96期4393號一冊 30-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc6c7ca81cecfcacfc6c9cfcec4cfcfcccfc4cfcfcccf",
-            "主提案": "劉櫂豪",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090213:LCEWA01_090213_00024"
-                ]
-            ]
+            "進度": "委員會(公聽會)",
+            "會議日期": "1091207",
+            "立法紀錄": "109卷102期4851號 103-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcccacc81cecfc6cecfcdcfcec4cfcecfccc4cfcec7cc",
+            "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1060518",
-            "立法紀錄": "106卷62期4464號 141-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc6c7ca81cecfc9cfc9cdcfcec4cfcecbcec4cfcec8cf",
+            "會議日期": "1100505",
+            "立法紀錄": "110卷059期4910號 137-252頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcccacc81cececfcfcac6cfcec4cfceccc8c4cfcdcacd",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1101103",
+            "立法紀錄": "110卷098期4949號 313-319頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcccacc81cececfcfc6c7cfcec4cfccceccc4cfcccec6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1061107",
-            "立法紀錄": "106卷90期4492號 208-211頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc6c7ca81cecfc9cfc6cfcfcec4cfcdcfc7c4cfcdcece",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 165-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcccacc81cecececfcec6cfcdc4cfcec9cac4cfcec9c7",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090406:LCEWA01_090406_00244"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100415:40020"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1061107",
-            "立法紀錄": "106卷90期4492號 211-211頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc6c7ca81cecfc9cfc6cfcfcec4cfcdcecec4cfcdcece",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 168-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcccacc81cecececfcec6cfcdc4cfcec9c7c4cfcec9c7",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1061107",
-            "立法紀錄": "106卷90期4492號 211-211頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcdc6c7ca81cecfc9cfc6cfcfcec4cfcdcecec4cfcdcece",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 168-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdcccacc81cecececfcec6cfcdc4cfcec9c7c4cfcec9c7",
             "關係文書": []
         }
     ]
