@@ -1,8 +1,8 @@
 {
     "title": "陸海空軍軍旗條例",
     "versions": [
-        "中華民國96年6月14日修正",
-        "中華民國96年7月4日公布"
+        "中華民國111年5月3日修正",
+        "中華民國111年5月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -10,113 +10,121 @@
     ],
     "law_data": [
         {
-            "note": "(適用範圍)",
+            "note": "",
             "rule_no": "第一條",
             "content": "　　陸海空軍軍旗，依本條例規定。",
             "relates": {}
         },
         {
-            "note": "(軍旗種類)",
+            "note": "",
             "rule_no": "第二條",
             "content": "　　軍旗種類如左：\n　　一、統帥旗。\n　　二、軍事單位旗。\n　　三、官職旗。\n　　四、官階旗。\n　　五、海軍專用旗。",
             "relates": {}
         },
         {
-            "note": "(統帥旗)",
+            "note": "",
             "rule_no": "第三條",
             "content": "　　統帥旗，為總統統率全國陸海空軍之旗。其旗式如附圖一。[附圖一：統帥旗]",
             "relates": {}
         },
         {
-            "note": "(軍事單位旗)",
+            "note": "",
             "rule_no": "第四條",
-            "content": "　　軍事單位旗，區分如左：\n　　一、國防部旗。\n　　二、陸軍旗。\n　　三、海軍旗。\n　　四、空軍旗。\n　　五、聯合後勤旗。\n　　六、後備旗。\n　　七、憲兵旗。\n　　八、海軍陸戰隊旗。\n　　前項各款旗式，如附圖二。\n　　軍事單位旗，依前二項規定不足以表示機關、部隊、學校之特性時，得由國防部依實際需要定之。[附圖二：軍事單位旗]",
+            "content": "　　軍事單位旗，區分如下：\n　　一、國防部旗。\n　　二、陸軍旗。\n　　三、海軍旗。\n　　四、空軍旗。\n　　五、後備旗。\n　　六、憲兵旗。\n　　七、海軍陸戰隊旗。\n　　前項各款旗式，如附圖二。\n　　軍事單位旗，依前二項規定不足以表示機關、部隊、學校之特性時，得由國防部依實際需要定之。[附圖二：軍事單位旗]",
             "relates": {}
         },
         {
-            "note": "(官職旗)",
+            "note": "",
             "rule_no": "第五條",
-            "content": "　　官職旗，區分如下：\n　　一、國防部部長旗。\n　　二、國防部參謀總長旗。\n　　三、國防部陸軍司令旗。\n　　四、國防部海軍司令旗。\n　　五、國防部空軍司令旗。\n　　六、國防部聯合後勤司令旗。\n　　七、國防部後備司令旗。\n　　前項第一款、第二款旗式，如附圖三。第三款至第七款旗式，由國防部定之。[附圖三：官職旗]",
+            "content": "　　官職旗，區分如下：\n　　一、國防部部長旗。\n　　二、國防部參謀總長旗。\n　　三、國防部陸軍司令旗。\n　　四、國防部海軍司令旗。\n　　五、國防部空軍司令旗。\n　　六、國防部後備指揮官旗。\n　　前項第一款、第二款旗式，如附圖三。第三款至第六款旗式，由國防部定之。\n　　官職旗，依前二項規定不足以表示官職之特性時，得由國防部依實際需要定之。[附圖三：官職旗]",
             "relates": {}
         },
         {
-            "note": "(官階旗)",
+            "note": "",
             "rule_no": "第六條",
             "content": "　　官階旗，為陸海空軍軍官官階識別之旗。其區分及旗式，由國防部定之。",
             "relates": {}
         },
         {
-            "note": "(海軍專用旗)",
+            "note": "",
             "rule_no": "第七條",
             "content": "　　海軍專用旗，為海軍艦艇執行任務之旗。其區分如左：\n　　一、艦首旗。\n　　二、海軍資深軍官旗。\n　　三、海軍戰隊長旗。\n　　四、海軍海道測量艦艇桅旗。\n　　五、長旒。\n　　六、其他經國防部核定之專用旗。\n　　前項旗式，由國防部定之。",
             "relates": {}
         },
         {
-            "note": "(統帥旗之製作)",
+            "note": "",
             "rule_no": "第八條",
             "content": "　　統帥旗，由國防部製作。其他各種軍旗，由國防部統一製頒或授權製頒之。",
             "relates": {}
         },
         {
-            "note": "(軍旗之圖說、使用、懸掛、持行之規定)",
+            "note": "",
             "rule_no": "第九條",
             "content": "　　本條例所定各種軍旗之圖說及使用、懸掛、持行之規定，由國防部定之。",
             "relates": {}
         },
         {
-            "note": "(施行細則之訂定)",
+            "note": "",
             "rule_no": "第十條",
             "content": "　　本條例施行細則，由國防部定之。",
             "relates": {}
         },
         {
-            "note": "(施行日)",
+            "note": "",
             "rule_no": "第十一條",
             "content": "　　本條例自公布日施行。",
             "relates": {}
         }
     ],
     "law_reasons": {
-        "第五條": "　　一、為因應國防部陸軍總司令部、海軍總司令部及空軍總司令部改編為司令部，爰配合修正第一項第三款至第五款有關各該司令部司令官職旗之名稱，以符實需。\n　　二、其他酌作文字體例之修正。"
+        "第四條": "　　國防部聯合後勤司令部已於2012年12月28日裁編，故刪除原第一項第五款，並調整款次。",
+        "第五條": "　　照委員提案修正通過。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "950919",
-            "立法紀錄": "95卷37期3498號一冊 6-6頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c781c6caccc8cfcec4cfcfcfc9c4cfcfcfc9",
-            "主提案": "行政院",
+            "會議日期": "1101217",
+            "立法紀錄": "111卷015期4986號一冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccfcac9cc81cecececfcecacfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "蔡適應",
             "關係文書": [
                 [
                     "提案",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcbcfcecfcec5cac9c6d2cac7cf"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100414:LCEWA01_100414_00011"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "960319",
-            "立法紀錄": "96卷24期3547號 345-351頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c781c6c9cdcbcfcfc4cfcccbcac4cfcccace",
+            "會議日期": "1110317",
+            "立法紀錄": "111卷043期5014號 102-168頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccfcac9cc81cecececfcbcccfcec4cfcecfcdc4cfcec9c7",
             "關係文書": []
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 227-232頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c781c6c9cacbcfcec4cfcdcdc8c4cfcdcccd",
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1110503",
+            "立法紀錄": "111卷061期5032號二冊 398-415頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccfcac9cc81cecececfc9cecfcdc4cfccc6c7c4cfcbceca",
             "關係文書": [
                 [
                     "審查報告",
-                    "http://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc9cfcacececfcdc5cdc8c7d2cdc7cd"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100508:LCEWA01_100508_00435"
                 ]
             ]
         },
         {
+            "進度": "二讀(逐條討論)",
+            "會議日期": "1110503",
+            "立法紀錄": "111卷061期5032號二冊 415-426頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccfcac9cc81cecececfc9cecfcdc4cfcbcecac4cfcbcdc9",
+            "關係文書": []
+        },
+        {
             "進度": "三讀",
-            "會議日期": "960614",
-            "立法紀錄": "96卷54期3577號一冊 232-232頁",
-            "立法紀錄連結": "http://lis.ly.gov.tw/ttscgi/lgimg?@xdd!cecacccbcfc7cfc6c8c781c6c9cacbcfcec4cfcdcccdc4cfcdcccd",
+            "會議日期": "1110503",
+            "立法紀錄": "111卷061期5032號二冊 426-426頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccfcac9cc81cecececfc9cecfcdc4cfcbcdc9c4cfcbcdc9",
             "關係文書": []
         }
     ]
