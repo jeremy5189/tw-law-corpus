@@ -1,8 +1,8 @@
 {
     "title": "國家發展委員會組織法",
     "versions": [
-        "中華民國102年8月6日制定",
-        "中華民國102年8月21日公布"
+        "中華民國110年12月28日修正",
+        "中華民國111年1月19日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -18,7 +18,7 @@
         {
             "note": "",
             "rule_no": "第二條",
-            "content": "　　本會掌理下列事項：\n　　一、國家發展政策之綜合性規劃、協調、審議及資源分配。\n　　二、國家發展計畫之綜合性規劃、協調、審議、資源分配及中長程計畫性別平等影響評估之協調。\n　　三、經濟發展政策之綜合性規劃、協調、審議及資源分配。\n　　四、社會發展政策之綜合性規劃、協調、審議及資源分配，地方重要施政、中長程計畫之輔導。\n　　五、產業發展政策之綜合性規劃、協調、審議及資源分配。\n　　六、人力資源發展政策之綜合性規劃、協調、審議及資源分配。\n　　七、國土、區域及離島發展與永續發展政策之綜合性規劃、協調、審議及資源分配。\n　　八、文化與族群發展政策之資源分配協調及審議。\n　　九、管制考核政策之綜合性規劃、協調、審議及資源分配。\n　　十、政府資訊管理政策之綜合性規劃、協調、審議及資源分配。\n　　十一、行政與法制革新政策之綜合性規劃、協調、審議及資源分配，與法規影響評估之協調。\n　　十二、其他國家發展政策之綜合性規劃、協調、審議及資源分配。",
+            "content": "　　本會掌理下列事項：\n　　一、國家發展政策之綜合性規劃、協調、審議及資源分配。\n　　二、國家發展計畫之綜合性規劃、協調、審議、資源分配及中長程計畫性別平等影響評估之協調。\n　　三、經濟發展政策之綜合性規劃、協調、審議及資源分配。\n　　四、社會發展政策之綜合性規劃、協調、審議及資源分配，地方重要施政、中長程計畫之輔導。\n　　五、產業發展政策之綜合性規劃、協調、審議及資源分配。\n　　六、人力資源發展政策之綜合性規劃、協調、審議及資源分配。\n　　七、國土、區域及離島發展與永續發展政策之綜合性規劃、協調、審議及資源分配。\n　　八、文化與族群發展政策之資源分配協調及審議。\n　　九、管制考核政策之綜合性規劃、協調、審議及資源分配。\n　　十、行政與法制革新政策之綜合性規劃、協調、審議及資源分配，與法規影響評估之協調。\n　　十一、其他國家發展政策之綜合性規劃、協調、審議及資源分配。",
             "relates": {}
         },
         {
@@ -59,114 +59,54 @@
         }
     ],
     "law_reasons": {
-        "第一條": "　　一、國家發展委員會之設立目的及隸屬關係。\n　　二、國家發展委員會負責國家整體發展政策之規劃、協調及審議，其業務多涉及重大計畫之預算審查或土地等資源分配事項，併予敘明。",
-        "第二條": "　　一、國家發展委員會之權限職掌。\n　　二、國家發展委員會為行政院之幕僚機關，其業務性質著重於國家整體發展政策之規劃、協調及審議等，並具有跨部會政策整合功能，所規劃政策涵蓋各業別，與其他中央機關偏重主管業務之執行及政策工具之研擬等職掌有別，為政策統合之需要，國家發展委員會掌理各項政策之綜合性規劃、協調、審議及資源分配等事項。",
-        "第三條": "　　首長、副首長之職稱、官職等、員額與委員設置之人數及組成。",
-        "第四條": "　　幕僚長之職稱及官職等。",
-        "第五條": "　　國家發展委員會依職掌所設次級機關之名稱及業務。",
-        "第六條": "　　中央政府機關總員額法第六條雖已授權各機關訂定編制表，惟考量如僅於第三條及第四條規定首長、副首長及幕僚長之配置，將難窺知機關人員配置及運作之全貌，爰於本條再予重申。",
-        "第七條": "　　為保障隨同業務移轉之行政院經濟建設委員會現有參加銓定任用資格考試未能取得資格之留用人員，及行政院研究發展考核委員會現有依派用人員派用條例派用之未具任用資格留用人員之權益，爰訂定保障條款。",
-        "第八條": "　　本法之施行日期。"
+        "第二條": "　　配合行政院規劃成立數位發展部，本會政府資訊管理政策之綜合性規劃、協調、審議及資源分配業務之移撥，爰刪除原第十款所定「政府資訊管理政策之綜合性規劃、協調、審議及資源分配」之掌理事項；原第十一款及第十二款分別移列為第十款及第十一款，內容未修正。"
     },
     "law_history": [
         {
-            "進度": "一讀",
-            "會議日期": "1010406",
-            "立法紀錄": "101卷17期3958號一冊 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcecfcec8cfcec4cfcfcecfc4cfcfcecf",
-            "主提案": "行政院",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcecfcdcfcec5cdc9cdd2cdc9ca"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010601",
-            "立法紀錄": "101卷43期3984號 9-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcecfcbcccfcec4cfcfcfc6c4cfcfcecf",
-            "主提案": "吳宜臻",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdcfcec5cccbcfd2cccbcc"
-                ]
-            ]
-        },
-        {
-            "進度": "一讀",
-            "會議日期": "1010601",
-            "立法紀錄": "101卷43期3984號 10-10頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcecfcbcccfcec4cfcfcecfc4cfcfcecf",
-            "主提案": "尤美女",
-            "關係文書": [
-                [
-                    "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececdcfcec5cccbcbd2cccbc8"
-                ]
-            ]
+            "進度": "委員會(公聽會)",
+            "會議日期": "1091207",
+            "立法紀錄": "109卷102期4851號 103-183頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdccc8ce81cecfc6cecfcdcfcec4cfcecfccc4cfcec7cc",
+            "關係文書": []
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1010503",
-            "立法紀錄": "101卷33期3974號 91-170頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcecfcccccfcec4cfcfc6cec4cfcec8cf",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1020114",
-            "立法紀錄": "102卷5期4030號三冊 1029-1044頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcdcfcfcacfccc4cecfcdc6c4cecfcbcb",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfc7cfcececacfc8c5c9cac9d2c9c9ca"
-                ]
-            ]
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1020806",
-            "立法紀錄": "102卷47期4072號 9-9頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcdcfcbc8cfcec4cfcfcfc6c4cfcfcfc6",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1020806",
-            "立法紀錄": "102卷47期4072號 54-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcdcfcbc8cfcec4cfcfcacbc4cfcfcac9",
+            "會議日期": "1101004",
+            "立法紀錄": "110卷079期4930號 77-130頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdccc8ce81cececfcfc8c6cfcec4cfcfc8c8c4cfcecccf",
             "關係文書": []
         },
         {
             "進度": "黨團協商",
-            "會議日期": "1010604",
-            "立法紀錄": "102卷47期4072號 407-423頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcdcfcbc8cfcec4cfcbcfc8c4cfcbcdcc",
+            "會議日期": "1101103",
+            "立法紀錄": "110卷098期4949號 313-319頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdccc8ce81cececfcfc6c7cfcec4cfccceccc4cfcccec6",
             "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 269-273頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdccc8ce81cecececfcec6cfcdc4cfcdc9c6c4cfcdc8cc",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100415:40027"
+                ]
+            ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1020806",
-            "立法紀錄": "102卷47期4072號 56-57頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcdcfcbc8cfcec4cfcfcac9c4cfcfcac8",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 273-273頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdccc8ce81cecececfcec6cfcdc4cfcdc8ccc4cfcdc8cc",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1020806",
-            "立法紀錄": "102卷47期4072號 57-58頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcdcfcbc8cfcec4cfcfcac8c4cfcfcac7",
-            "關係文書": []
-        },
-        {
-            "進度": "三讀",
-            "會議日期": "1020806",
-            "立法紀錄": "102卷47期4072號 60-61頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcccbc7c781cecfcdcfcbc8cfcec4cfcfc9cfc4cfcfc9ce",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 273-273頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c6cdcccdccc8ce81cecececfcec6cfcdc4cfcdc8ccc4cfcdc8cc",
             "關係文書": []
         }
     ]
