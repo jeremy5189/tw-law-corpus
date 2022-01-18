@@ -1,8 +1,8 @@
 {
     "title": "刑事訴訟法施行法",
     "versions": [
-        "中華民國108年12月17日修正",
-        "中華民國109年1月15日公布"
+        "中華民國111年1月27日修正",
+        "中華民國111年2月18日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -68,7 +68,7 @@
         {
             "note": "",
             "rule_no": "第七條",
-            "content": "　　本法自修正刑事訴訟法施行之日施行。",
+            "content": "　　本法自修正刑事訴訟法施行之日施行。\n　　刑事訴訟法修正條文及本法修正條文，除另定施行日期者外，自公布日施行。",
             "relates": {}
         },
         {
@@ -203,58 +203,128 @@
             "rule_no": "第七條 之十二",
             "content": "　　中華民國一百零八年十二月十七日修正通過之刑事訴訟法部分條文，除第三十八條之一、第五十一條第一項、第七十一條第二項、第八十五條第二項、第八十九條、第九十九條、第一百四十二條第三項、第一百九十二條、第二百八十九條自公布後六個月施行外，自公布日施行。\n　　中華民國一百零八年十二月十七日修正通過之刑事訴訟法施行前，經宣告無期徒刑之案件，尚未依職權送交上級法院審判者，於施行後仍適用修正前第三百四十四條第五項規定。\n　　再議期間及上訴期間，於中華民國一百零八年十二月十七日修正通過之刑事訴訟法施行時，依修正前之規定尚未屆滿者，適用修正後第二百五十六條、第二百五十六條之一及第三百四十九條之規定。\n　　案件在第三審上訴中，於中華民國一百零八年十二月十七日修正通過之刑事訴訟法施行時，尚未判決者，其補提理由書期間，適用修正後第三百八十二條之規定。",
             "relates": {}
+        },
+        {
+            "note": "",
+            "rule_no": "第七條 之十三",
+            "content": "　　中華民國一百十年五月三十一日修正通過之刑事訴訟法施行前，已繫屬於各級法院之案件，於施行後仍適用修正前刑事訴訟法第三百四十八條規定；已終結或已繫屬於各級法院而未終結之案件，於施行後提起再審或非常上訴者，亦同。",
+            "relates": {
+                "引用條文": [
+                    {
+                        "law_no": "04552",
+                        "law_name": "刑事訴訟法",
+                        "numbers": [
+                            "第三百四十八條"
+                        ]
+                    }
+                ]
+            }
         }
     ],
     "law_reasons": {
-        "第七條 之十二": "　　一、本條新增。\n　　二、本次刑事訴訟法修正，涉及閱卷、文書記載事項、拘捕程序、通譯、請求付與扣押物影本、證人訊問程序、量刑辯論程序等制度變革，相關規則及例稿之訂定、修正，暨人員配置、訓練與其他配套措施，均需時間妥為規劃，例如依刑事訴訟法第一百九十六條之一第二項，同法第一百九十二條關於全程連續錄音、錄影之修正規定，於司法警察官或司法警察詢問證人時準用之，自宜予司法警察機關準備之時間，俾添購足夠之錄音機、光碟片等相關設備、器材或耗品，爰增訂本條第一項，除明定部分公布後可立即施行之條文自公布日施行外，亦就關於上述變革之修正規定給予施行緩衝期間，期使新制運作順暢。\n　　三、本次修正之規定施行前，經法院宣告無期徒刑之案件，原應依職權送交而尚未送交上級法院審判者，為避免於新法施行後產生應否依職權送交上級法院審判之爭議，爰增訂本條第二項，明定仍適用修正前刑事訴訟法第三百四十四條第五項之規定。\n　　四、修正後刑事訴訟法第二百五十六條、第二百五十六條之一及第三百四十九條等規定，分別延長再議期間及上訴期間。各該期間於新法施行時，依修正前規定尚未屆滿者，應採有利於再議聲請人及上訴人之原則，使其得適用較有利之修正後規定計算，爰增訂本條第三項。至聲請再議及上訴等不變期間，仍自處分書、判決書送達後起算，自不待言。另聲請再議及上訴期間於新法施行前已屆滿者，其再議權、上訴權既已因逾期而喪失，基於確保程序之安定以維護法秩序之考量，即無適用修正後新法之餘地，附此敘明。\n　　五、修正後刑事訴訟法第三百八十二條之規定，就上訴於第三審法院，而未敘述上訴理由之案件，延長補提理由書期間，是於新法施行時，第三審法院尚未依刑事訴訟法第三百九十五條之規定判決駁回該案件者，其補提理由書期間，亦應採有利於上訴人之原則，使其得適用較有利之修正後規定計算，爰增訂本條第四項，並自提起上訴後起算。另於新法施行前，經第三審法院以逾補提理由書期間判決駁回者，基於確保程序之安定以維護法秩序之考量，即無適用修正後新法之餘地，併此敘明。"
+        "第七條": "　　一、原條文雖規定本法自修正刑事訴訟法施行之日施行，惟刑事訴訟法並未明定修正條文之施行日期，而係透過立法院第三十八會期院會決議之解釋，自公布之日施行，與中央法規標準法第十二條之規定未盡相符，並為配合明定本法修正條文之施行日期，爰增訂本條第二項，以符法制。\n　　二、原條文未修正，並移列為第一項。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1071214",
-            "立法紀錄": "107卷116期4640號一冊 3-3頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cccd81cecfc8cecec9cfcec4cfcfcfccc4cfcfcfcc",
-            "主提案": "周春米",
+            "會議日期": "1100406",
+            "立法紀錄": "110卷034期4885號 21-21頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cececfcfcccbcfcec4cfcfcdcec4cfcfcdce",
+            "主提案": "司法院 行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090613:LCEWA01_090613_00032"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100306:LCEWA01_100306_00073"
                 ]
             ]
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1081210",
-            "立法紀錄": "108卷101期4744號二冊 122-122頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cccd81cecfc7cecfcecfcdc4cfcecdcdc4cfcecdcd",
+            "進度": "委員會(公聽會)",
+            "會議日期": "1101014",
+            "立法紀錄": "110卷084期4935號 73-384頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cececfcfc7cbcfcec4cfcfc8ccc4cfccc7cb",
             "關係文書": []
         },
         {
-            "進度": "二讀(廣泛討論)",
-            "會議日期": "1081217",
-            "立法紀錄": "108卷103期4746號二冊 223-225頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cccd81cecfc7cecfcccfcdc4cfcdcdccc4cfcdcdca",
+            "進度": "委員會審查",
+            "會議日期": "1101021",
+            "立法紀錄": "110卷092期4943號 309-356頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cececfcfc6cdcfcec4cfcccfc6c4cfcccac9",
+            "關係文書": []
+        },
+        {
+            "進度": "委員會審查",
+            "會議日期": "1101104",
+            "立法紀錄": "110卷103期4954號 178-251頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cececfcecfcccfcec4cfcec8c7c4cfcdcace",
             "關係文書": []
         },
         {
             "進度": "黨團協商",
-            "會議日期": "1081015",
-            "立法紀錄": "108卷103期4746號三冊 13-30頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cccd81cecfc7cecfcccfccc4cfcfceccc4cfcfcccf",
+            "會議日期": "1101215",
+            "立法紀錄": "111卷018期4989號 369-377頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcec7cfcec4cfccc9c6c4cfccc8c8",
             "關係文書": []
         },
         {
+            "進度": "黨團協商",
+            "會議日期": "1110120",
+            "立法紀錄": "111卷033期5004號 507-542頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcccccfcec4cfcacfc8c4cfcacbcd",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1110127",
+            "立法紀錄": "111卷032期5003號四冊 433-440頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcccdcfcbc4cfcbccccc4cfcbcbcf",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1110105",
+            "立法紀錄": "111卷028期4999號一冊 1-2,258-259頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcdc7cfcec4cfcfcfcec4cfcfcfcdd9cecececfcdc7cfcec4cfcdcac7c4cfcdcac6",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1110105",
+            "立法紀錄": "111卷028期4999號九冊 511-511頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcdc7cfc6c4cfcacecec4cfcacece",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1110111",
+            "立法紀錄": "111卷028期4999號九冊 537-537頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcdc7cfc6c4cfcaccc8c4cfcaccc8",
+            "關係文書": []
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1110127",
+            "立法紀錄": "111卷032期5003號一冊 399-402頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcccdcfcec4cfccc6c6c4cfcbcfcd",
+            "關係文書": [
+                [
+                    "審查報告",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100416:40007"
+                ]
+            ]
+        },
+        {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1081217",
-            "立法紀錄": "108卷103期4746號二冊 225-225頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cccd81cecfc7cecfcccfcdc4cfcdcdcac4cfcdcdca",
+            "會議日期": "1110127",
+            "立法紀錄": "111卷032期5003號一冊 402-402頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcccdcfcec4cfcbcfcdc4cfcbcfcd",
             "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1081217",
-            "立法紀錄": "108卷103期4746號二冊 225-226頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfcac8cccd81cecfc7cecfcccfcdc4cfcdcdcac4cfcdcdc9",
+            "會議日期": "1110127",
+            "立法紀錄": "111卷032期5003號一冊 402-402頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcec6c7cd81cecececfcccdcfcec4cfcbcfcdc4cfcbcfcd",
             "關係文書": []
         }
     ]

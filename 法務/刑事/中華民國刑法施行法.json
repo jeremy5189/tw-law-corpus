@@ -1,8 +1,8 @@
 {
     "title": "中華民國刑法施行法",
     "versions": [
-        "中華民國108年12月6日修正",
-        "中華民國108年12月31日公布"
+        "中華民國111年4月19日修正",
+        "中華民國111年5月4日公布"
     ],
     "types": [
         "異動條文及理由",
@@ -246,7 +246,7 @@
         {
             "note": "",
             "rule_no": "第九條 之一",
-            "content": "　　刑法第二百三十一條之規定，於中華民國八十八年三月三十日刑法修正施行前依法令規定經營妓女戶者，不適用之。",
+            "content": "　　刑法第二百三十一條之規定，於中華民國八十八年三月三十日刑法修正施行前依法令規定經營性交易場所者，不適用之。",
             "relates": {
                 "引用條文": [
                     {
@@ -334,58 +334,123 @@
         }
     ],
     "law_reasons": {
-        "第八條 之一": "　　配合刑法總則篇時效章關於追訴權時效及行刑權時效之規定修正。"
+        "第九條 之一": "　　本條增訂係為配合保障八十八年三月三十日刑法修正施行前原已依法令登記許可之性工作經營者，囿於當時法令許可女性從事性工作稱為「妓女」，經營之場所則以「妓女戶」稱之，為使法律用詞一致，故使用「妓女戶」。惟使用「妓女戶」之用詞影響女性尊嚴，並有性工作等同女性之刻板印象，有違反「消除對婦女一切形式歧視公約」第五條規定之虞，爰修正為「性交易場所」，以符合上開公約規定。"
     },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1080510",
-            "立法紀錄": "108卷048期4691號一冊 1-1頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacecb81cecfc7cfcbc7cfcec4cfcfcfcec4cfcfcfce",
-            "主提案": "段宜康",
+            "會議日期": "1101022",
+            "立法紀錄": "110卷087期4938號 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cececfcfc7c8cfcec4cfcfcfcec4cfcfcfce",
+            "主提案": "高嘉瑜",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090713:LCEWA01_090713_00008"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100406:LCEWA01_100406_00011"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1101022",
+            "立法紀錄": "110卷087期4938號 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cececfcfc7c8cfcec4cfcfcfc6c4cfcfcfc6",
+            "主提案": "蔡易餘",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100405:LCEWA01_100405_00012"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1101029",
+            "立法紀錄": "110卷092期4943號 8-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cececfcfc6cdcfcec4cfcfcfc7c4cfcfcfc7",
+            "主提案": "陳亭妃",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100403:LCEWA01_100403_00057"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1101119",
+            "立法紀錄": "110卷112期4963號一冊 5-5頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cececfcececdcfcec4cfcfcfcac4cfcfcfca",
+            "主提案": "行政院 司法院",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100410:LCEWA01_100410_00041"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1101210",
+            "立法紀錄": "111卷011期4982號一冊 11-11頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cecececfcececfcec4cfcfcecec4cfcfcece",
+            "主提案": "林宜瑾",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100413:10291"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1101224",
+            "立法紀錄": "111卷019期4990號一冊 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cecececfcec6cfcec4cfcfcecac4cfcfceca",
+            "主提案": "范雲",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100415:10442"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1081125",
-            "立法紀錄": "108卷100期4743號 177-194頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacecb81cecfc7cecfcfcfcec4cfcec8c8c4cfcec6cb",
+            "會議日期": "1101229",
+            "立法紀錄": "111卷027期4998號一冊 23-89頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cecececfcdc8cfcec4cfcfcdccc4cfcfc7c6",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1081206",
-            "立法紀錄": "108卷101期4744號一冊 81-84頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacecb81cecfc7cecfcecfcec4cfcfc7cec4cfcfc7cb",
+            "會議日期": "1110419",
+            "立法紀錄": "111卷054期5025號四冊 1-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cecececfcacbcfcbc4cfcfcfcec4cfcfcfc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090813:LCEWA01_090813_40003_01"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100508:40005_1"
                 ]
             ]
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1081206",
-            "立法紀錄": "108卷101期4744號一冊 84-84頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacecb81cecfc7cecfcecfcec4cfcfc7cbc4cfcfc7cb",
+            "會議日期": "1110419",
+            "立法紀錄": "111卷054期5025號四冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cecececfcacbcfcbc4cfcfcfc6c4cfcfcfc6",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN090813:LCEWA01_090813_40003_02"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100508:40005_2"
                 ]
             ]
         },
         {
             "進度": "三讀",
-            "會議日期": "1081206",
-            "立法紀錄": "108卷101期4744號一冊 84-84頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacecb81cecfc7cecfcecfcec4cfcfc7cbc4cfcfc7cb",
+            "會議日期": "1110419",
+            "立法紀錄": "111卷054期5025號四冊 9-9頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcececbc881cecececfcacbcfcbc4cfcfcfc6c4cfcfcfc6",
             "關係文書": []
         }
     ]
