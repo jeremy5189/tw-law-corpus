@@ -1,12 +1,12 @@
 {
     "title": "行政院新聞局組織條例",
     "versions": [
-        "中華民國70年1月23日全文修正",
-        "中華民國70年1月30日公布"
+        "中華民國111年5月3日廢止",
+        "中華民國111年5月18日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "廢止理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -85,84 +85,31 @@
             "note": "",
             "rule_no": "第十三條",
             "content": "　　新聞局置局長一人，職位比照第十四職等，綜理局務，並指揮、監督所屬機構及職員；副局長二人，職位列第十三或第十四職等，襄助局長處理局務。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01024",
-                        "law_name": "行政院新聞局組織條例",
-                        "numbers": [
-                            "第十七條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十四條",
             "content": "　　新聞局置參事五人，主任秘書一人，處長八人，職位均列第十至第十二職等；副處長八人，主任二人，專門委員十人至十二人，職位均列第九至第十一職等；秘書六人至八人，職位列第六至第九職等，其中三人得列第十或第十一職等；編譯六人至八人，技正二人或三人，職位均列第八至第十職等；編審十人至十四人，職位列第六至第九職等，其中四人得列第十或第十一職等；科長三十一人至三十九人，專員三十人至四十人，編輯十五人至二十三人，編導四人至六人，職位均列第六至第九職等；技士十五人至二十一人，職位列第三至第五職等，其中七人得列第六或第七職等；科員四十一人至五十七人，職位列第三至第五職等，其中十九人得列第六或第七職等；技佐十人至十四人，職位列第三至第五職等；辦事員三十人至三十八人，職位列第二至第五職等；書記三十一人至三十七人，職位列第一至第三職等。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01024",
-                        "law_name": "行政院新聞局組織條例",
-                        "numbers": [
-                            "第十七條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十五條",
             "content": "　　新聞局設人事室，置主任一人，副主任一人，職位均列第六至第九職等，依法辦理人事管理事項，所需工作人員就本條例規定員額內派充之。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01024",
-                        "law_name": "行政院新聞局組織條例",
-                        "numbers": [
-                            "第十七條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十六條",
             "content": "　　新聞局設會計室，置主任一人，職位列第六至第九職等；依法辦理歲計、會計、統計事項；所需工作人員就本條例規定員額內派充之。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "01024",
-                        "law_name": "行政院新聞局組織條例",
-                        "numbers": [
-                            "第十七條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
             "rule_no": "第十七條",
             "content": "　　第十三條至第十六條所定各職稱人員，其職位之職系，依公務職位分類法及職系說明書，就一般行政管理、新聞行政、新聞報導、公共關係、法制、編輯、翻譯、人事行政、社會教育行政、圖書館管理、文書、事務管理、會計、統計及其他有關職系選用之。",
-            "relates": {
-                "引用條文": [
-                    {
-                        "law_no": "01024",
-                        "law_name": "行政院新聞局組織條例",
-                        "numbers": [
-                            "第十三條",
-                            "第十四條",
-                            "第十五條",
-                            "第十六條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
@@ -180,17 +127,7 @@
             "note": "",
             "rule_no": "第二十條",
             "content": "　　新聞局視事實需要，得於國外適當地點設辦事機構；其組織通則另定之。",
-            "relates": {
-                "被引用條文": [
-                    {
-                        "law_no": "02401",
-                        "law_name": "行政院新聞局駐外新聞機構組織通則",
-                        "numbers": [
-                            "第一條"
-                        ]
-                    }
-                ]
-            }
+            "relates": {}
         },
         {
             "note": "",
@@ -205,65 +142,84 @@
             "relates": {}
         }
     ],
+    "deprecated_reason": "　　行政院新聞局為配合行政院功能業務與組織調整，已於101年5月20日裁撤，其組織條例已無適用之必要，應配合辦理廢止，俾完備法制作業程序，爰依中央法規標準法第21條規定，予以廢止。",
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "691202",
-            "立法紀錄": "69卷97期1373號 2-2頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc6cd81c9c6c9c9c6c8cfcfc4cfcfcfcdc4cfcfcfcd",
+            "會議日期": "1100507",
+            "立法紀錄": "110卷053期4904號一冊 3-3頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfc7cccc81cececfcfcacccfcec4cfcfcfccc4cfcfcfcc",
+            "主提案": "黃世杰",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100311:LCEWA01_100311_00024"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1101029",
+            "立法紀錄": "110卷092期4943號 6-6頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfc7cccc81cececfcfc6cdcfcec4cfcfcfc9c4cfcfcfc9",
+            "主提案": "黃國書",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100403:LCEWA01_100403_00014"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1101224",
+            "立法紀錄": "111卷019期4990號一冊 31-31頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfc7cccc81cecececfcec6cfcec4cfcfcccec4cfcfccce",
+            "主提案": "林宜瑾",
+            "關係文書": [
+                [
+                    "提案",
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100415:LCEWA01_100415_00067"
+                ]
+            ]
+        },
+        {
+            "進度": "一讀",
+            "會議日期": "1110301",
+            "立法紀錄": "111卷034期5005號 7-8頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfc7cccc81cecececfcccbcfcec4cfcfcfc8c4cfcfcfc7",
             "主提案": "行政院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcbcfcfc5cecfcbd2cecdce"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100501:LCEWA01_100501_00047"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "700107",
-            "立法紀錄": "70卷64期1445號 36-56頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc6cd81c8cfc9c8c9cbcfcfc4cfcfccc9c4cfcfcac9",
+            "會議日期": "1110317",
+            "立法紀錄": "111卷044期5015號 1-127頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfc7cccc81cecececfcbcbcfcec4cfcfcfcec4cfcecdc8",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "700116",
-            "立法紀錄": "70卷5期1386號 15-35頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc6cd81c8cfc9c9cfcacfcfc4cfcfcecac4cfcfccca",
+            "會議日期": "1110503",
+            "立法紀錄": "111卷061期5032號三冊 16-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfc7cccc81cecececfc9cecfccc4cfcfcec9c4cfcfcdcd",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lgcgi/lgmeetimage?cfcec9c9cfcacfcfc5cac6ced2c9cece"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100508:407_17671"
                 ]
             ]
         },
         {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "700116",
-            "立法紀錄": "70卷5期1386號 35-41頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc6cd81c8cfc9c9cfcacfcfc4cfcfcccac4cfcfcbce",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "700120",
-            "立法紀錄": "70卷6期1387號 4-4頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc6cd81c8cfc9c9cfc9cfcfc4cfcfcfcbc4cfcfcfcb",
-            "關係文書": []
-        },
-        {
-            "進度": "二讀(逐條討論)",
-            "會議日期": "700120",
-            "立法紀錄": "70卷6期1387號 41-47頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc6cd81c8cfc9c9cfc9cfcfc4cfcfcbcec4cfcfcbc8",
-            "關係文書": []
-        },
-        {
             "進度": "三讀",
-            "會議日期": "700123",
-            "立法紀錄": "70卷7期1388號 5-12頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lgimg?@xdd!cecac6cccfcfcbcbc6cd81c8cfc9c9cfc8cfcfc4cfcfcfcac4cfcfcecd",
+            "會議日期": "1110503",
+            "立法紀錄": "111卷061期5032號三冊 22-22頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcfc7cccc81cecececfc9cecfccc4cfcfcdcdc4cfcfcdcd",
             "關係文書": []
         }
     ]

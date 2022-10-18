@@ -1,12 +1,12 @@
 {
     "title": "司法院組織法",
     "versions": [
-        "中華民國109年5月22日修正",
-        "中華民國109年6月10日公布"
+        "中華民國110年12月28日修正",
+        "中華民國111年1月19日公布"
     ],
     "types": [
-        "立法歷程",
-        "異動條文"
+        "異動條文及理由",
+        "立法歷程"
     ],
     "law_data": [
         {
@@ -80,7 +80,7 @@
         {
             "note": "",
             "rule_no": "第九條",
-            "content": "　　司法院設下列各廳、處，掌理本院行使職權之相關事項：\n　　一、民事廳。\n　　二、刑事廳。\n　　三、行政訴訟及懲戒廳。\n　　四、少年及家事廳。\n　　五、司法行政廳。\n　　六、憲法法庭書記廳。\n　　七、秘書處。\n　　八、資訊處。\n　　九、公共關係處。",
+            "content": "　　司法院設下列各廳、處，掌理本院行使職權之相關事項：\n　　一、民事廳。\n　　二、刑事廳。\n　　三、行政訴訟及懲戒廳。\n　　四、少年及家事廳。\n　　五、司法行政廳。\n　　六、憲法法庭書記廳。\n　　七、秘書處。\n　　八、資訊處。\n　　九、公共關係處。\n　　十、新聞及法治宣導處。",
             "relates": {}
         },
         {
@@ -162,56 +162,68 @@
             "relates": {}
         }
     ],
+    "law_reasons": {
+        "第九條": "　　為提升行政效能，統整規劃法治教育、政策宣導之現有資源，爰增設「新聞及法治宣導處」，將現行司法行政廳職掌之「加強司法與社會多元對話方案之綜合規劃、推動及協調事項」，與發言人室之職掌整併由該處負責，以利業務推動。"
+    },
     "law_history": [
         {
             "進度": "一讀",
-            "會議日期": "1090410",
-            "立法紀錄": "109卷021期4770號 6-7頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfcdcecfcec4cfcfcfc9c4cfcfcfc8",
-            "主提案": "李貴敏",
+            "會議日期": "1100319",
+            "立法紀錄": "110卷028期4879號 15-15頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcdc9c9cc81cececfcfcdc7cfcec4cfcfcecac4cfcfceca",
+            "主提案": "司法院",
             "關係文書": [
                 [
                     "提案",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100108:LCEWA01_100108_00029"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100304:LCEWA01_100304_00046"
                 ]
             ]
         },
         {
             "進度": "委員會審查",
-            "會議日期": "1090504",
-            "立法紀錄": "109卷038期4787號一冊 186-244頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfccc7cfcec4cfcec7c9c4cfcdcbcb",
+            "會議日期": "1100421",
+            "立法紀錄": "110卷051期4902號 205-249頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcdc9c9cc81cececfcfcacecfcec4cfcdcfcac4cfcdcbc6",
+            "關係文書": []
+        },
+        {
+            "進度": "黨團協商",
+            "會議日期": "1101117",
+            "立法紀錄": "110卷113期4964號 343-343頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcdc9c9cc81cececfcececccfcec4cfcccbccc4cfcccbcc",
             "關係文書": []
         },
         {
             "進度": "二讀(廣泛討論)",
-            "會議日期": "1090522",
-            "立法紀錄": "109卷046期4795號二冊 310-313頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfcbc9cfcdc4cfcccecfc4cfcccecc",
+            "會議日期": "1100504",
+            "立法紀錄": "110卷049期4900號 114-117頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcdc9c9cc81cececfcfcbc6cfcec4cfcececbc4cfcecec8",
             "關係文書": [
                 [
                     "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100114:LCEWA01_100114_00799"
+                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100310:40003"
                 ]
             ]
+        },
+        {
+            "進度": "二讀(廣泛討論)",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 1-1頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcdc9c9cc81cecececfcec6cfcdc4cfcfcfcec4cfcfcfce",
+            "關係文書": []
         },
         {
             "進度": "二讀(逐條討論)",
-            "會議日期": "1090522",
-            "立法紀錄": "109卷046期4795號二冊 313-313頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfcbc9cfcdc4cfccceccc4cfcccecc",
-            "關係文書": [
-                [
-                    "審查報告",
-                    "https://lis.ly.gov.tw/lygazettec/mtcdoc?DN100114:LCEWA01_100114_00800"
-                ]
-            ]
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 1-1,326-329頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcdc9c9cc81cecececfcec6cfcdc4cfcfcfcec4cfcfcfced9cecececfcec6cfcdc4cfcccdc9c4cfcccdc6",
+            "關係文書": []
         },
         {
             "進度": "三讀",
-            "會議日期": "1090522",
-            "立法紀錄": "109卷046期4795號二冊 313-313頁",
-            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cecac6cccfcfc9cacacf81cecfc6cfcbc9cfcdc4cfccceccc4cfcccecc",
+            "會議日期": "1101228",
+            "立法紀錄": "111卷019期4990號二冊 1-2頁",
+            "立法紀錄連結": "https://lis.ly.gov.tw/lgcgi/lypdftxt?xdd!cec9c9c7cacdcdc9c9cc81cecececfcec6cfcdc4cfcfcfcec4cfcfcfcd",
             "關係文書": []
         }
     ]
