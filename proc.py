@@ -25,11 +25,15 @@ def search_keyword_in_json(keyword, json_path):
     for article in json_obj['law_data']:
         if keyword in article.get('content', ""):
             sp = json_path.split('/')
+            ver = '/'.join(json_obj['versions'][::-1])
+            if '廢止' in ver:
+                print("Skip 廢止法規：", json_obj['title'])
+                return
             return {
                 'category1': sp[1],
                 'category2': sp[2],
                 'title': json_obj['title'],
-                'version': '.'.join(json_obj['versions']),
+                'version': ver,
                 'article_no': article['rule_no'],
                 'note': article.get('note', "").replace('(', '').replace(')', ''),
                 'content': article['content'].replace('　', '')
@@ -60,5 +64,5 @@ for law_path in law_files:
     if found:
         found_law.append(found)
 
-print(json.dumps(found_law, indent=4, ensure_ascii=False))
+# print(json.dumps(found_law, indent=4, ensure_ascii=False))
 write_json_to_csv(found_law, f"{output_dir}/{keyword}.csv")
