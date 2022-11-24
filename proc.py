@@ -59,6 +59,8 @@ ls_dir('.', law_files)
 found_law = []
 keyword = sys.argv[1]
 output_dir = sys.argv[2] if len(sys.argv) > 2 else '..'
+print('Searching keyword: ', keyword)
+print('Output dir: ', output_dir)
 for law_path in law_files:
     found = search_keyword_in_json(keyword, law_path)
     if found:
